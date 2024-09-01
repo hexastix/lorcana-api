@@ -1,0 +1,33 @@
+{
+  "name": "Healing Touch",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "231ce73a39f2059eb63484bf1ded08a47f4ed94a",
+  "culture_invariant_id": 982,
+  "sort_number": 990,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The heart is not so easily changed, but the head can be persuaded. —Grand Pabbie",
+  "rules_text": "Remove up to 4 damage from chosen character. Draw a card.",
+  "card_identifier": "26/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=dca025b5b2a268457701e723801aae08f65a296d447814ea7bf3abf6d6021111"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=289951f5cc191e9f2d429e2c5732c81160e90770ca9c174b38cb9bcd3fd172ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=97682bc6087dcb2545daf4e56da79eb6b9e0535b407f7568baf7e25c8633fc46",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Baloo",
+  "subtitle": "Ours épicurien",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "R. la Barbera / L. Giammichele",
+  "deck_building_id": "c7d1485955ebaae6557ef8473abd9b267db61324",
+  "culture_invariant_id": 319,
+  "sort_number": 343,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Toutes les abeilles de la forêt butinent pour moi dans les bosquets!",
+  "rules_text": "",
+  "card_identifier": "103/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=060c726648e48b4e9f3b881dd74dd2f096e1ee2754cddb3c1183e3de78df0826"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=144f4c3c810a5b6548226dfd5305c40fab8caf1566516ff49415fa74310d751a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=d6f4f27843dd4001d7862f1043dd3719bbbe8405da7d307e1ff67356a71c9432",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

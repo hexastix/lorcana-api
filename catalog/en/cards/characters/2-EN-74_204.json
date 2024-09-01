@@ -1,0 +1,39 @@
+{
+  "name": "Cheshire Cat",
+  "subtitle": "Always Grinning",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Alex Accorsi",
+  "deck_building_id": "3f65d8ab4c005c12cadaad7de8ea54b0da6776d8",
+  "culture_invariant_id": 290,
+  "sort_number": 314,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Alice felt quite confused. But I don’t see much ink here at all. How can the flood still be changing the Inklands?%Things are always changing, you know, said the cat. It would be quite a change if they didn’t.",
+  "rules_text": "",
+  "card_identifier": "74/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=acbe414dd1270de290626bfa79fadaae0df63decbfeecb97fa96a6bbeb3a8987"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=01ace7da752bf00138e0ec2820e7f40c4a77892ed59e407422025dc3c8c11540"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=91b157cfa4cf608bc8db09753a817c9420a8134a8fbb40d66475fed5cc8991dd",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

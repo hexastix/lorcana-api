@@ -1,0 +1,33 @@
+{
+  "name": "Last Cannon",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jared Nickerl",
+  "deck_building_id": "6c5152c3b21edb6a64d7891cda39fae29a7ee4e2",
+  "culture_invariant_id": 418,
+  "sort_number": 442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "One shot can change everything.",
+  "rules_text": "ARM YOURSELF 1 , Banish this item — Chosen character gains Challenger +3 this turn. (They get +3 while challenging.)",
+  "card_identifier": "202/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=a6f8e60199616f80b36b1d5de4a1c6cd0c239563644c9e66b22d7e1ec14bd585"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=3bf530d0274071044374433334883fb7ebd6b0b03c8361afa1d24bb37c92b7db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=32cda0e36336a213f5dd8a00cb340c1cfcd60b55a84dde1a8a0e2de6ad3f4275",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

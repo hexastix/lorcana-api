@@ -1,0 +1,42 @@
+{
+  "name": "Quo",
+  "subtitle": "Nipote Appariscente",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Federico M. Cugliari",
+  "deck_building_id": "0b0ddc6a36474b1503510c3a4c1a09e035e13baf",
+  "culture_invariant_id": 575,
+  "sort_number": 610,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Ce l'ho fatta! Sapevo di potercela fare! Quo alla riscossa!",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "139/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=01355199f15e2fd4a25374e2b619d3a78547f3f389d14c89b934899e68cbe753"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=7f363a3d37089a8fe125d6d235cd9f714d83f8d85c9fc97c27187d7875d5667a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=846ca302a150745cb9a0f7d3868d4853b33bd9699cbc6c00205e7676e3f0844b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Scopa Magica",
+  "subtitle": "Pulitore Rapido",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Cristian Romero",
+  "deck_building_id": "869358d9f809656d6013e88df0dee2b50724aab8",
+  "culture_invariant_id": 481,
+  "sort_number": 516,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Quali carte vengono rimescolate nel mazzo dall’abilità “Pulisci Questo, Pulisci Quello” di Scopa Magica – Pulitore Rapido?\r\nA: Una carta scopa è una qualsiasi carta con “Scopa” tra le sue classificazioni.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Scopa"
+  ],
+  "flavor_text": "Ordine super veloce.",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) PULISCI QUESTO, PULISCI QUELLO Quando giochi questo personaggio, puoi rimescolare nel tuo mazzo tutte le carte Scopa presenti nei tuoi scarti.",
+  "card_identifier": "45/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=9eae2a312c291fbc5da13ef4c41943afa7396d40cc0560f6139f2f13942f8238"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=50963128e8baad7deba0a6ac2fa580a68a925f337d2b4ce63a00a44fd87ae3f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=68331c34cc1af3ce8764b983e2226b66be7c6f53ec9da3628ab70d2ad44b5346",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

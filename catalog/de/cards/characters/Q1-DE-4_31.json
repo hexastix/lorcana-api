@@ -1,0 +1,40 @@
+{
+  "name": "Abschaum",
+  "subtitle": "Böser Beschützer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "20cacf66a6a0d9828dbdee868926cfa518ad6dad",
+  "culture_invariant_id": 917,
+  "sort_number": 937,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Verbündeter"
+  ],
+  "flavor_text": "Mein geliebtes Baby, immer so beschützerisch.%—Ursula",
+  "rules_text": "URSULAS WACHTPOSTEN Dieser Charakter kommt erschöpft ins Spiel. Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "4/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=b5966a21adee3ee27c7ac8c86d82f36d3998c3b6aaedd2f1784fb30bbefd5c11"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=960c9d02e238ae0687c1cfff8379328880312bdbf0551aa8cb3f40ab1cd1106a"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

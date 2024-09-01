@@ -1,0 +1,44 @@
+{
+  "name": "The Queen",
+  "subtitle": "Crown of the Council",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lava Hijzelaar / Ellie Horie",
+  "deck_building_id": "711db291586153124e70c559ba0991a638fc6d4f",
+  "culture_invariant_id": 1104,
+  "sort_number": 1112,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) GATHERER OF THE WICKED When you play this character, look at the top 3 cards of your deck. You may reveal any number of character cards named The Queen and put them into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "148/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=de0c7cd4c13d52ebb82abfec4f690d27b4fd96608377387d4080c575aabb97b0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=cc7a7d0d0fdd556cfd500ae24e582a2516ca21bc1302702dcafebffc2b6166b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

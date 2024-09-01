@@ -1,0 +1,47 @@
+{
+  "name": "Tick Duck",
+  "subtitle": "Gerissener Neffe",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Federico M. Cugliari",
+  "deck_building_id": "2612c4d73c23b6a316f7b372373164a6be833e87",
+  "culture_invariant_id": 581,
+  "sort_number": 616,
+  "additional_info": [
+    {
+      "title": "Errata - Kartentext",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Text der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem Text: \"Jedes Mal, wenn dieser Charakter erkundet und du einen Trick-Duck-Charakter und einen Track-Duck-Charakter im Spiel hast, darfst du 3 Karten ziehen.\" gespielt. \r\n\r\nAlte Version - Die drei Neffen:\r\nJedes Mal, wenn dieser Charakter erkundet und du einen Trick-Charakter und einen Track-Charakter im Spiel hast, darfst du 3 Karten ziehen.\r\n\r\nNeue Version - Die drei Neffen:\r\nJedes Mal, wenn dieser Charakter erkundet und du einen Trick-Duck-Charakter und einen Track-Duck-Charakter im Spiel hast, darfst du 3 Karten ziehen."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Das sieht aus wie ein Teil eines größeren Kristalls!",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) DIE DREI NEFFEN Jedes Mal, wenn dieser Charakter erkundet und du einen Trick-Charakter und einen Track-Charakter im Spiel hast, darfst du 3 Karten ziehen.",
+  "card_identifier": "145/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=cf0bf607537561f8a1d7b070d09f602c1b025f939ef3f778be6f9607a4c49e5f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=c1fb052284f480dc00bb40efa6f6fdea7d9fc4f5c66d1fad6107421e690e9f6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=bd3a878ffc83b2e03119fb44590a093900bdabc84414312412bb9735fe31cd35",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

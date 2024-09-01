@@ -1,0 +1,32 @@
+{
+  "name": "Le Contrat d'Ursula",
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Luca Pisanu",
+  "deck_building_id": "5aa295862ee00c97ecd737e59c2fe7e58cc994b6",
+  "culture_invariant_id": 943,
+  "sort_number": 963,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UNE MEILLEURE OFFRE Vos adversaires ne peuvent pas utiliser de capacité de champ de bataille. CLAUSE SUBSIDIAIRE Au début de votre tour, bannissez cet objet et gagnez 3 éclats de Lore.",
+  "card_identifier": "30/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=5c7de702ca48f06884b4e12a5fa28c8eb80d4185d4ff15ee5a29f38696a7cc73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=05de91624fc99311a977ee557d94db454c40de6d2ce1d2d3efdfc4ba14f54aff"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

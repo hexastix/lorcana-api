@@ -1,0 +1,42 @@
+{
+  "name": "Doc",
+  "subtitle": "Bold Knight",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Mariana Moreno",
+  "deck_building_id": "c369b0ac1c323d086c86cc6526d0bf193bb7ad88",
+  "culture_invariant_id": 1149,
+  "sort_number": 1157,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "flavor_text": "",
+  "rules_text": "DRASTIC MEASURES When you play this character, you may discard your hand to draw 2 cards.",
+  "card_identifier": "193/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=740e68f9d4465be048501d5d885531839689546fc5e2193238c8c2cf8759c1d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=ae81a8eb44c75ec84634019126354d67092dc47dc4c0f4550486685b5c510b9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=83ca016fc9e496be03ba50d6782eaaacee98ceab31198fd4b6a789c5d1068921",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

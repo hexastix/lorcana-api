@@ -1,0 +1,42 @@
+{
+  "name": "Arthur",
+  "subtitle": "Moineau novice",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Brian Weisz",
+  "deck_building_id": "29f376ad78c551ed84b353cdcbe6ae4a1bceaa40",
+  "culture_invariant_id": 1077,
+  "sort_number": 1085,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Attends un peu. Mais pas si vite!%— Merlin",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "121/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=01376d4c089913be7ad45e2f3eb272d2829610c02fe8a301ec80b188e38f53a9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=b84c98d32aac598421af098e216e76a915c6f85fdc0ca60df728f7b96f06d482"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=4187999e49412661c4e4582d44ebb23091b8f7146ed635dac147422105856aa3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Capitan Uncino",
+  "subtitle": "Maestro Spadaccino",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "3b89ba6f1bf6a66aaa92aef90c5f0d4128649fc9",
+  "culture_invariant_id": 650,
+  "sort_number": 685,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "NEMESI Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, preparalo. Non può andare all'avventura per il resto di questo turno. UOMO A UOMO I personaggi chiamati Peter Pan perdono Sfuggente e non possono ottenere Sfuggente.",
+  "card_identifier": "214/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=ab1beb646aa2246d9c72186d03ef63288b60a2ab3466eaef9f8bd9eec48f7f56"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=22bae89c0f1cdeea09b4e2eb7a3cb937f7fea3ecb4a2d9b40d3f305bde0c7289"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=51e59e17df3bac19959a52782ae008671a028fd104f66456e72a4e7e9a90e4c9",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

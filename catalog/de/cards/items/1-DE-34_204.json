@@ -1,0 +1,38 @@
+{
+  "name": "Ursulas Muschel-Halskette",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jenna Gray",
+  "deck_building_id": "788d367996da4e38abe1f058df4a45990215968f",
+  "culture_invariant_id": 34,
+  "sort_number": 34,
+  "additional_info": [
+    {
+      "title": "FAQ - Kosten",
+      "body": "F: Wenn einer meiner Charaktere mit höheren Kosten als 2 „Sei hier Gast!“ singt, während ich „Ursulas Muschel-Halskette“ im Spiel habe, kann ich durch das Singen dann die zusätzlichen Kosten von 1 {I} bezahlen, um mit Ursulas Muschel-Halskette eine Karte zu ziehen?\r\n\r\nA: Nein. Die Tintenkosten für die Verwendung von Ursulas Muschel-Halskette müssen unabhängig von den Kosten für das Ausspielen des Liedes bezahlt werden.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Singen ist ein schöner Zeitvertreib … wenn man die Stimme dafür hat. – Ursula",
+  "rules_text": "UND JETZT SING! Jedes Mal, wenn du ein Lied ausspielst, darfst du 1 zahlen, um 1 Karte zu ziehen.",
+  "card_identifier": "34/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=598fb5490b5f3df3db6e24d51384a7a14eb933f71b850d478045da7a50925f8c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=2e89d564b3b9aefcc8616f6db586b91f3871a8399750323229251c91468f7b91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=3b987f3160896581929c605095f2e7b0f54acb94a8318e9e2bf7fcd078afe3e3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

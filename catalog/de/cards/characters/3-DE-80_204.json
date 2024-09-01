@@ -1,0 +1,43 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "König von Atlantis",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "6171faef1161c353aae832650702ac027410eea5",
+  "culture_invariant_id": 516,
+  "sort_number": 551,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "König"
+  ],
+  "flavor_text": "Sie wissen ja gar nicht, was das hier ist.",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Milo-Thatch-Charaktere auszuspielen.) ÜBERRASCHUNGSANGRIFF Wenn dieser Charakter verbannt wird, schicke alle gegnerischen Charaktere auf die zugehörigen Hände zurück.",
+  "card_identifier": "80/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=de564031ec124cac1f0c5ff1a4aa9de9c779c64506e1330cbecab1327dacc662"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=802a43e2f9015f06aba39f4fd219d7135014341c94f2f1717697c12e6df6847c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=1ac942911d04eee50c2ccb1392823503ca66b84052ef48524516970f2f8b664c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Jafar",
+  "subtitle": "Illusionniste ensorcelant",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Nicola Saviori",
+  "deck_building_id": "d7bc114b05b2a9acf333a7ac61dcd6201048884f",
+  "culture_invariant_id": 478,
+  "sort_number": 513,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si mon Jafar – Illusionniste ensorcelant chante Mes amis de l'Au-delà, est-ce que je gagne 2 éclats de Lore grâce à sa capacité “Pouvoir sans limite” ?\r\nR : Oui, vous en gagnez bien 2. Vous devez épuiser un personnage pour pouvoir jouer une chanson avec ce dernier. Par conséquent, Jafar sera déjà épuisé au moment de résoudre l’effet de Mes amis de l'Au-delà qui vous fait piocher 2 cartes.\r\n\r\nQ : J’ai épuisé mon Jafar – Illusionniste ensorcelant pour partir à l’aventure lors du tour précédent. Lorsque je pioche une carte au début de mon tour, est-ce que je gagne 1 éclat de Lore grâce à la capacité “Pouvoir sans limite” de Jafar ?\r\nR : Non, vous n’en gagnez aucun. Un joueur commence toujours son tour par redresser ses personnages épuisés. Au moment de piocher une carte au début de votre tour, votre Jafar sera redressé, empêchant sa capacité de se déclencher.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Jafar.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) POUVOIR SANS LIMITE Tant que ce personnage est épuisé, gagnez 1 éclat de Lore pour chaque carte que vous piochez durant votre tour.",
+  "card_identifier": "42/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=774e2a16edda8e19a1ce8d7f106299618d6c28a0f20d13370f088d1b8230f54f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=328e345a8aec218ad6e19d3c416a795cd25489a642d3481ca363961892fdf6fe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=644d7c1a73deb48caf904401b174995c614b09a237edaeb3565c40b7d5007504",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

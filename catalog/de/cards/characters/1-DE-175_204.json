@@ -1,0 +1,45 @@
+{
+  "name": "Käpt'n Hook",
+  "subtitle": "Ein feiner Gedanke",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Elliot Bocxtaele",
+  "deck_building_id": "1030555f87af5d3d70406e6d85cf3a40ae98e4f2",
+  "culture_invariant_id": 175,
+  "sort_number": 175,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Herausfordern",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Käpt'n-Hook-Charaktere auszuspielen.)Herausfordern +3 (Während dieser Charakter herausfordert, erhält er +3.)GESTOHLENER GLANZ Charaktere, die 3 oder weniger kosten, können diesen Charakter nicht herausfordern.",
+  "card_identifier": "175/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=14c28c39ad721c38f484ce8a5f245cf9e11e5c7862e6b0c35802f0ddbf748800"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=2bf6c222b0e870be892b3092cfa4d3f3c1262e8607a7cfb2bfa2a4fb60033602"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=b46447f787daf40762efc7dcafbc41c7a8ec02c0fbd83014dff34350d0011681",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

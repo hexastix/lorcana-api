@@ -1,0 +1,48 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Talentierte Künstlerin",
+  "strength": 0,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "5323f351160ce7e27e6c6f0a14b74b17e2b6f539",
+  "culture_invariant_id": 235,
+  "sort_number": 259,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Drei meiner Charaktere haben jeweils 2 Schaden auf sich. Wenn meine „Rapunzel - Talentierte Künstlerin“ in dieser Situation „Hakuna Matata“ singt, wie viele Karten kann ich dann mit ihrer Fähigkeit „Kannst so mächtig sein“ ziehen?\r\n\r\nA: 3 Karten. Die Fähigkeit von Rapunzel wird für jeden einzelnen deiner Charaktere ausgelöst, von dem Schaden entfernt wurde, unabhängig davon, wie viel Schaden von diesem Charakter entfernt wurde.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Rapunzel-Charaktere auszuspielen.) KANNST SO MÄCHTIG SEIN Jedes Mal, wenn du 1 oder mehr Schaden von einem deiner Charaktere entfernst, darfst du 1 Karte ziehen.",
+  "card_identifier": "19/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f5e3a64dbb09384e14e8bd15ced29061a7b1dce8262412b8981e3112f059606b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=170a1e4d70a0918b8b7c979e149e592f4b3d527237aec1a324bbdd1f6184c132"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=718dc927be247307fc2710ff718cce0830b51602e677f0a4f61db13a80e2ef12",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

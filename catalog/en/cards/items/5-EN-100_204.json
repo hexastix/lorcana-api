@@ -1,0 +1,33 @@
+{
+  "name": "Emerald Chromicon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "e8d2c7ee84a66e7cf0184644c8a27abafeef32a3",
+  "culture_invariant_id": 1056,
+  "sort_number": 1064,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Trust in the winds of change. —Inscription",
+  "rules_text": "EMERALD LIGHT During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand.",
+  "card_identifier": "100/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b128ea5f04e23a54a503311f5f8dc65bdfe993f19900f3b5c359b0a6b7255ff1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=09724e18817ddb0f90fae7cc13c3c4fc19b72c1c2fdbf943e74f92a6d769c2f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=094cc5adec3d56b45f8ccba8ce096aa97e77b075c7e3ec146ef36c4ce17ac910",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

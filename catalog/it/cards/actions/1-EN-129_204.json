@@ -1,0 +1,33 @@
+{
+  "name": "Cut to the Chase",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "13057e6bb6112157b88c4ebbaec83cc1a20d9e5c",
+  "culture_invariant_id": 129,
+  "sort_number": 129,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Surprise!",
+  "rules_text": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+  "card_identifier": "129/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=804fcfe8ae04a972a771b846678a7d6b5c0b758fdb23ed6ef20e92a08ff2b6d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=0dc02686439c2c3f994389adfa109688e999fc6326143e067f3c2a54396aa7d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=cfc69262511c9d19c8875aa8aba11f4860ea7bcb3bf21285c98987e12c8e2dda",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

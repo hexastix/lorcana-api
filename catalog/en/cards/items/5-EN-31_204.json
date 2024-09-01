@@ -1,0 +1,33 @@
+{
+  "name": "Queen's Sensor Core",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "fac0685879cfadc06ba4c468875041d41b0cf4ec",
+  "culture_invariant_id": 987,
+  "sort_number": 995,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SYMBOL OF NOBILITY At the start of your turn, if you have a Princess or Queen character in play, gain 1 lore. ROYAL SEARCH , 2 — Reveal the top card of your deck. If it's a Princess or Queen character card, you may put it into your hand. Otherwise, put it on the top of your deck.",
+  "card_identifier": "31/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=13eee785f6e080b3dafaa11565245111942845d7f4cbfee299b475d744673a0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=ecde1eba08d466dc4ee44c3ae838b51cf9f0e4eb49530d6768ec06c9cba24d0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=7e672ce3bda9430270f6d0e8632300275f2e6ef84870b62955a82a8d8a5a887a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

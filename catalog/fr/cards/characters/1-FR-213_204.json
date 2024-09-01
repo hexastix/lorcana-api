@@ -1,0 +1,44 @@
+{
+  "name": "AURORE",
+  "subtitle": "Gardienne rêveuse",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Clio Wolfensberger",
+  "deck_building_id": "88f3b49fc2874d9eb1cb392887fe8c005c52bba9",
+  "culture_invariant_id": 213,
+  "sort_number": 213,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur un autre personnage Aurore.) ÉTREINTE PROTECTRICE Vos autres personnages gagnent Hors d'atteinte. (Ils ne peuvent pas être choisis par vos adversaires, hormis pour un défi.)",
+  "card_identifier": "213/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=30a4567265fbb7f95cab73f4153422bf7a5b5a275304f84bdc2546492f641d47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=f9acbe7c68968c6d5fde42dcc36708ea4307d6a0419eb7606abc49f9fd07f1ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=3f5fa42bb3f47e3d532aa8934e0a461c21e1349f9d3efb449171c437b5d14df5",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

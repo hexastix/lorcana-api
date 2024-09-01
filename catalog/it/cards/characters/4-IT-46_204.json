@@ -1,0 +1,42 @@
+{
+  "name": "Jetsam",
+  "subtitle": "“Piccino” di Ursula",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "31df3c1a9447af75e663dd163f81735bf0f32fd8",
+  "culture_invariant_id": 737,
+  "sort_number": 747,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Strappò il tridente dalle mani del glimmer tradito.",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.) COPPIA SINISTRA I tuoi personaggi chiamati Flotsam ottengono Sfidante +2.",
+  "card_identifier": "46/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=001ddfcca7e570b1c71b01a14d1164b4ef96fe111b6988c3aa7763a782db55f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=6851c10128e5f6a4c7995f80067d7e7d387e8dc888fae2ba6e9675029a7e74c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=6600439189e3fe5b555fdb03795a323f9f8294eb5ce319bb4937b4bde89f8af9",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

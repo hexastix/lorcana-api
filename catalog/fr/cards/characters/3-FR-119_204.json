@@ -1,0 +1,42 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Héros du Pays Imaginaire",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Aubrey Archer",
+  "deck_building_id": "3d77178da6fc4c690c8c13e19ea96bad2ba4627b",
+  "culture_invariant_id": 555,
+  "sort_number": 590,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Avec Peter, les plans consistent souvent à plonger tête baissée dans le danger.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) PAR ICI, FÉE CLOCHETTE Tant que vous avez un personnage La Fée Clochette en jeu, ce personnage gagne +2.",
+  "card_identifier": "119/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=3f2ddcfadb86553fd648d97cee14aac24ca0e2cc576d19d3b7a7c641282688f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=e7b12d217471569432af5ce57e5e0672e17b2581d787bd9387460b4fac013a3d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=217b9277fcafe6bcdc5a75c896de29738d7477dde9156d0c2d78a89c42d13395",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Lumiere",
+  "subtitle": "Hotheaded Candelabra",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Giulia Riva",
+  "deck_building_id": "9d7305004401aa554595195f27a27b11729ec5a0",
+  "culture_invariant_id": 328,
+  "sort_number": 352,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "When things heat up, no one can hold a candle to him.",
+  "rules_text": "",
+  "card_identifier": "112/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=cde769e63f4af42491f3d959a4305f0a36a1c95343279a4927d197c2d5a87745"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=c0535a31c0d3e649e6b08ad03bf559d6b17ea3ec883cffc104aedbccbad2ad6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=cbec9326abe2f4655168fafa1a31c4ba27f2d8cff28876335300a93383482ee2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Stratos",
+  "subtitle": "Titan du vent",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Jared Nickerl / Alice Pisoni",
+  "deck_building_id": "9155d58b6e558f58fcffee4ccc7f4308e8834c1d",
+  "culture_invariant_id": 491,
+  "sort_number": 526,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Titan"
+  ],
+  "flavor_text": "Balayer Zeus!",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) CYCLONE – Gagnez un nombre d'éclats de Lore égal au nombre de personnages Titan que vous avez en jeu.",
+  "card_identifier": "55/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=912c8a87e8a1fb368f1df441e5b57dcd7090453807ceea87296ec933fa19a8ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=0879ffaac828222e918e8644db7a112d4d65756e86740862eb6d8e49cbbcf95d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=f89fae2b1e87533b689c260b8aba4d62e136e2b977c02f11f0a9918ce8519c73",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

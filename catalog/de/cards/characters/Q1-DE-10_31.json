@@ -1,0 +1,39 @@
+{
+  "name": "Der verrückte Hutmacher",
+  "subtitle": "Böser Gastgeber",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "John Loren",
+  "deck_building_id": "891388d818254bcc4ce20199fc0faa3ebdba38d8",
+  "culture_invariant_id": 923,
+  "sort_number": 943,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verstrickt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Er ist einfach verrückt nach Partys. Er feiert bereits meinen Sieg.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "10/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=aa5cee9e7015dde210202376bfd5ab1e59264b70a78485298d4301a4e26a1614"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=1ab50c5ae0222987503729e74ac467278f3eccd4f0c5e96f4415a4f2ac643464"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

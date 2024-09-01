@@ -1,0 +1,40 @@
+{
+  "name": "Tonto",
+  "subtitle": "Avvoltoio Tirapiedi",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "bdb1050693b7028cb740fa801ad53b9cd082c5a3",
+  "culture_invariant_id": 554,
+  "sort_number": 589,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Tonto! Cuciti il becco.%—Crucco",
+  "rules_text": "",
+  "card_identifier": "118/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=77683a403706cac03b4e7617825c8ab0fecd15a4d255ebde847ffd5701bd8b2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=d2430a2b50ff5139ea83a4b6777e78b8665f39aa0419c5f684782734dc2aeb8d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=0e8755294f842d72b6bbe45599da50143d55e5f1ed31367abf30c2dfa801ed15",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Carte de la Planète au Trésor",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "1c88a3b0ee2cffafb524bd6643be8a7150704beb",
+  "culture_invariant_id": 637,
+  "sort_number": 672,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Messieurs, vous devrez mettre cette chose sous clé.%—Capitaine Amélia",
+  "rules_text": "CLÉ DU PORTAIL – Le prochain lieu que vous jouez durant ce tour vous coûte 1 de moins. MONTRE LE CHEMIN Déplacer vos personnages sur des lieux vous coûte 1 de moins.",
+  "card_identifier": "201/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=57a4e15fafa1d0b2ed3d7b980b1c6cc1be871e6f072dea8eaee557330f5c573f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=dd0417cdfe87fa783502871a8d7b3ab02750c8209699f5b0415ea1f5ef87cffd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=ecd1b12595cab4e3219b92a436b7ae2f0ef5790de5bdecb668b5e61d5bf108f4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

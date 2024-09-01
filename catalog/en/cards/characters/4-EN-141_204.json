@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Tranquil Princess",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "067bc768bc6b0221356cb0b7535f6bf9fced1949",
+  "culture_invariant_id": 832,
+  "sort_number": 842,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Her music fills the Illuminary’s gardens with joy and light.",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "141/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=7d950848814865e79f4db4ad16d183137427c4bc42463ffaf8e4182e5e2fd02b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=6ea2a41779a6db01007cd8318edd327e2de8ec7c81f7b394cd78c41f51c23f6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=58bccbc59c2ec41047987c387ba543af34b9b09237a7463b9c71b74f3e69d01b",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

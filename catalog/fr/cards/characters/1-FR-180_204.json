@@ -1,0 +1,41 @@
+{
+  "name": "HANS",
+  "subtitle": "Treizième héritier",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "e57dd5df690f5083848c5ffe191627af870b3985",
+  "culture_invariant_id": 180,
+  "sort_number": 180,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Prince"
+  ],
+  "flavor_text": "Fatigué d'être le dernier, il décida de passer avant tout le monde.",
+  "rules_text": "UN PETIT ACCIDENT Lorsque ce personnage est envoyé à l'aventure, vous pouvez choisir un personnage et lui infliger 1 dommage.",
+  "card_identifier": "180/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=1f1b1f218ccd9031f1618f576b8669134c964ead008fc77b00a907dc4e2d1f9c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=083ce965b6b8f3f9d507e08b4a926f90ac1924de7754bbd1d87bca280912bfa9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=b28093f0d3cb509293a3e957e94f7dea3cafe27d8f964df94e52162b7925a434",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Arielle",
+  "subtitle": "Schatzsammlerin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Miss Tania Soler",
+  "deck_building_id": "40c4bd3ba073f42de5b7fe1697a04fdd67105db4",
+  "culture_invariant_id": 830,
+  "sort_number": 840,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Karten können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) DIE, DIE SCHON ALLES HAT Wenn du mehr Gegenstände als jede gegnerische Person im Spiel hast, erhält dieser Charakter +2.",
+  "card_identifier": "139/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=7a3a9296780dd3d23814e4a411a43650c4495b7091bf48721c3c43a441c585e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=0e34291590b79292250b1a435115373101046a66aaac55d9b35c97bc6cc67cbe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=51023af3782b5a405cc2535c2e889747fff092734a692105f2f770d0671ac0b2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

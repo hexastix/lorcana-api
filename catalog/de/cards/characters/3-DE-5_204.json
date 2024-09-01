@@ -1,0 +1,47 @@
+{
+  "name": "Joshua Sweet",
+  "subtitle": "Der Arzt",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "e1f557b29f945126b59c4ccace8ec9ba4c9e013a",
+  "culture_invariant_id": 441,
+  "sort_number": 476,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Auf dem Weg in die Tintenlande? Komm zurück, wenn du wieder zusammengeflickt werden musst.",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "5/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=cd1dc391ec1451b6a57028089e9f65f67f75ede906324fc65a8e74a615d174fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=a008f66888a7895c466c2da12b0ec8c74c2e15a202ba436d3d5546fda9673244"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=fa8979904a24f3aebe354ed19c1537fec780ae00789fba265e2eb396ee05deb6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

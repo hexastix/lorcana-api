@@ -1,0 +1,44 @@
+{
+  "name": "Madam Mim",
+  "subtitle": "Purple Dragon",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Ally Zermeno",
+  "deck_building_id": "8beb7231237cf3bc2a7b1289fd773536113e9112",
+  "culture_invariant_id": 263,
+  "sort_number": 287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer",
+    "Dragon"
+  ],
+  "flavor_text": "Did I say no purple dragons? Did I?",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) I WIN, I WIN! When you play this character, banish her or return another 2 chosen characters of yours to your hand.",
+  "card_identifier": "47/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=32b8cf51fb0ca9c9eafa4ef688f5772150c8e7d500d681f09d74155e4addb41d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=63f908521fd1dad4613a53236c72d618ec2452537f9717896b4932772a86bcca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=3a952e04560e631dae9294ff4add1c386883a3d16a7dfee023b17e9b2507b3d4",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

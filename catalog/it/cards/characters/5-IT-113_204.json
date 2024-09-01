@@ -1,0 +1,40 @@
+{
+  "name": "Rattigan",
+  "subtitle": "Ratto Rabbioso",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Adam Fenton",
+  "deck_building_id": "bc26272317330401d45feffba7e17f0e155eac93",
+  "culture_invariant_id": 1069,
+  "sort_number": 1077,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo"
+  ],
+  "flavor_text": "Il genio del male più diabolico al mondo non dovrebbe subire simili affronti!",
+  "rules_text": "NESSUNO PUÒ METTERMI I BASTONI TRA LE RUOTE Mentre questo personaggio ha danno, riceve +2.",
+  "card_identifier": "113/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=11394ba29a5467a5156a913a4ea67edc6749a3ff55cbb114c65e86d61f84d509"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=398a4ae5908bad36f553ce3c367461bb87c4f723c3e9af453fe600056b5f343f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=11fd46b11a11fd0d581e6efdc472eac9f574029f12a63100668cd2d4a59d2e34",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

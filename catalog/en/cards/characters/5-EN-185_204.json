@@ -1,0 +1,43 @@
+{
+  "name": "Kronk",
+  "subtitle": "Head of Security",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "94767179059f954952263718c06a54472353a854",
+  "culture_invariant_id": 1141,
+  "sort_number": 1149,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Kronk.) ARE YOU ON THE LIST? During your turn, whenever this character banishes another character in a challenge, you may play a character with cost 5 or less for free.",
+  "card_identifier": "185/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=5698fdf38e9e4ccdebdde52584a7fd9358b5108c5882f76b11f6cdf84c769e7f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=0329542e6f47dfdd009a3a6d258e439cb440f7633d58051fb8510ab96788b65c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=5a8cb6ec165794ee87d51aae487f8812241d5b14262fd62fee364f58899239ea",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

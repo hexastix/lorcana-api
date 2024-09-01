@@ -1,0 +1,41 @@
+{
+  "name": "GANTU",
+  "subtitle": "Capitaine de la Fédération Galactique",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Luis Huerta",
+  "deck_building_id": "2b9addfb94c8f45cfa1bb249ef2d1021ddee733e",
+  "culture_invariant_id": 178,
+  "sort_number": 178,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Capitaine"
+  ],
+  "flavor_text": "Alors, détends-toi, profite du voyage… et au cas où il te viendrait des idées…",
+  "rules_text": "EN ÉTAT D'ARRESTATION Les personnages coûtant 2 ou moins ne peuvent pas défier vos personnages.",
+  "card_identifier": "178/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=184d9a32319d88cd7057a09909414d203488e6db0e9209fdc69080920a527b4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=21f4ecfe15b91878f573127ae6f5909956fe19a7ffc960f2a40c6e680cd1d45b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=2fa79f6527c10cc3b55f45a104ea20fc357cf086903172a2dae32c11aea2c49a",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

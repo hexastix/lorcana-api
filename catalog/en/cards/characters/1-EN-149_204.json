@@ -1,0 +1,45 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Queen of Agrabah",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "200fff92d3781279a953ae4972866a4954a0ed17",
+  "culture_invariant_id": 149,
+  "sort_number": 149,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Queen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Jasmine.) CARETAKER When you play this character and whenever she quests, you may remove up to 2 damage from each of your characters.",
+  "card_identifier": "149/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=7bb0dc5588ee6e110691368a296b350e25a4e22d5d001710e6700c3ba03633f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=567d82a01bf52cfb72f1d7974bcb83ab5e7dcf24c1b5ff91ed6af23a0614884c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=6b66bdcdc7542d4bca6284d9e09a493f909448c388ba3a09e68d52a0baf51a55",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

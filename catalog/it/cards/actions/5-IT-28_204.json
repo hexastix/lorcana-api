@@ -1,0 +1,35 @@
+{
+  "name": "Le Tue Menzogne",
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "eae624b967b48ff127a57526529e8f65e7e8db5e",
+  "culture_invariant_id": 984,
+  "sort_number": 992,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 6 o superiore può per cantare questa canzone gratis.) Nomina una carta. Riprendi in mano dai tuoi scarti tutte le carte personaggio con quel nome.",
+  "card_identifier": "28/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=b7c8c972a724fcaa40e4f44c5d04ecbec7322d3e9870c08bcf6db71952ef29b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=f09e6248914f6e0ca6716d986e70fd626552f4aad9e8ed729da427a27ec820a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=ea6e8ee654999c022e70c1df00cbcb660a01334af37a15637393cea51903d803",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

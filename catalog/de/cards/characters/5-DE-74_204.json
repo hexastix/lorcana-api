@@ -1,0 +1,41 @@
+{
+  "name": "Ed",
+  "subtitle": "Lachende Hyäne",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Otto Paredes",
+  "deck_building_id": "b7b8cf126ca56fb72ae47f7dc67180a793b855e2",
+  "culture_invariant_id": 1030,
+  "sort_number": 1038,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Hyäne"
+  ],
+  "flavor_text": "A-heh, heh, heh, heh, heh, hee, hee, heeeee.",
+  "rules_text": "PANIK AUSLÖSEN Wenn du diesen Charakter ausspielst, darfst du einem beschädigten Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "74/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=5bd68a1cf63f959df0c5e1b2a32a3333dd47daf6b5bfe95015ffff4861c7f4d5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b904d6cd2619374129494d6663948673e319e1cabe0269243bacdf82850d00dd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=45590bafda3e057ba6667caf565348a6ff5d639a8177b8f8fb12a0027d8c859e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

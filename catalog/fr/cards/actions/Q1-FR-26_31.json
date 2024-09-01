@@ -1,0 +1,32 @@
+{
+  "name": "Tsunami",
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Luigi Aimé",
+  "deck_building_id": "8ffd9b3543495feb0ed5958eef34cc8190ae8767",
+  "culture_invariant_id": 939,
+  "sort_number": 959,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Bannissez tous les personnages adverses.",
+  "card_identifier": "26/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=34468dcab797db673986e9d2fda8fd438397c9c875ee86309fac98930f09a3c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=a871cb225643b0a10a4d314ecc79cc5c631bfc0a086b070cc3ee4b5abb265152"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

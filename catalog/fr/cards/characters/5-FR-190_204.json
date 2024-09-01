@@ -1,0 +1,40 @@
+{
+  "name": "Arthur",
+  "subtitle": "Moustique",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "ea4fccb865562f690c50de02ff9e7d716e781197",
+  "culture_invariant_id": 1146,
+  "sort_number": 1154,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Ce petit est plein de feu. Il est énergique et se donne corps et âme à tout ce qu’il entreprend.%— Merlin",
+  "rules_text": "",
+  "card_identifier": "190/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=b23d7dc2077b706e10aed655b42307cb0c0755055220b2b40d4e341cfe19c44a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=dcc55eb71b668e4f96e1a9b8bf25afd391f2b7544d5faaa790b2cd55b5b319aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=d4fa9e7e035d404fd6506bc3191c1264cf58147bba896360e9cc73390c2914c3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

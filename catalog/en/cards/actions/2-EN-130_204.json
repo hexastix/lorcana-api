@@ -1,0 +1,41 @@
+{
+  "name": "Teeth and Ambitions",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba03555a3279d07af241b0111de37b386da6424",
+  "culture_invariant_id": 346,
+  "sort_number": 370,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: When playing Teeth and Ambitions if I choose a copy of Cinderella- Singing Sword, which has Resist 2, as my character to deal 2 damage to, can I still deal 2 damage to an opposing character as well?\r\n\r\nA: Yes, you can. Even in this example you can still deal 2 damage to an opposing character."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Of course, quid pro quo, you're expected To take certain duties on board",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Deal 2 damage to chosen character of yours to deal 2 damage to another chosen character.",
+  "card_identifier": "130/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=9fc7f1504d6561ff44ec4d917dc885d60aed982c73a2118ed931dbf3c6d0a8aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=7c43fe88c842c9ba0994d765c5013c281d7cb6e752a9ea40738e4cdfb28825a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=7fb89eee51e3ede1048783a8aa49b0182ac2e28153bf0abfc10b4e1e7dea964f",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

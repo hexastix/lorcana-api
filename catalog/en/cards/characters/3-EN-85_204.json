@@ -1,0 +1,41 @@
+{
+  "name": "Shenzi",
+  "subtitle": "Hyena Pack Leader",
+  "strength": 0,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "5fb748398e1696271b4a787f6c9bb1200b4a5b1e",
+  "culture_invariant_id": 521,
+  "sort_number": 556,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Hyena"
+  ],
+  "flavor_text": "Why not stick around for dinner?",
+  "rules_text": "I'LL HANDLE THIS While this character is at a location, she gets +3. WHAT'S THE HURRY? While this character is at a location, whenever she challenges another character, you may draw a card.",
+  "card_identifier": "85/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=919eec051813430713bb7393a442cf6c6a04331a679ed21b3950c9e62d7e68f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=f3bb7bc145839b63ad4768212f97e525ce97c1f1cd3a99dc06599420c9f4fd06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=715b6cc71db7dffd95cb5107dcd8ab6a8cb8a6008107f40d68feedd26982f710",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

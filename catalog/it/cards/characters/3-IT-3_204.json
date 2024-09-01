@@ -1,0 +1,45 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Maligno",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Evana Kisa / Jochem van Gool",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 435,
+  "sort_number": 470,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q:\tSe ho 10 carte personaggio nei miei scarti, posso usare l’abilità Venite Via, Piccoli di Peggy – Madre Devota per giocare un Chernabog – Maligno dalla mia pila degli scarti?\r\nA:\tNo. L’abilità Il Potere del Male di Chernabog ha effetto solo sulla quantità di inchiostro che devi pagare per giocarlo, non ha effetto sul suo costo. Quindi, anche se hai 10 carte personaggio nella tua pila degli scarti, Chernabog – Maligno è comunque considerato come un personaggio di costo 10.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "L'oscurità attira servitori da ogni dove.",
+  "rules_text": "IL POTERE DEL MALE Per ogni carta personaggio nei tuoi scarti, paga 1 in meno per giocare questo personaggio. EVOCARE GLI SPIRITI Quando giochi questo personaggio, rimescola nel tuo mazzo tutte le carte personaggio nei tuoi scarti.",
+  "card_identifier": "3/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=de4aed1034c2117ba8ec33e25b52af5a989020834b117afb363c395bf971bcb3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=bdeece3de4b021298d307eaa74ed5bb480a8fd34f905045ae5911769f56fd31a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=15007b7f06365f789800232f41248f068cef345296f1f1eb3186ae1b306722cf",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

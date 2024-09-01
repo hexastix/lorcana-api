@@ -1,0 +1,33 @@
+{
+  "name": "Retrosphere",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "6cf03faac3b20c17430e1e021cb4f2745c895067",
+  "culture_invariant_id": 1020,
+  "sort_number": 1028,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "EXTRACT OF AMETHYST 2 , Banish this item — Return chosen character, item, or location with cost 3 or less to their player's hand.",
+  "card_identifier": "64/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ef0935f2863be0bf5ba9d5852e6510aafec6408bf2a33c5723b477b84a8d94c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=dadc233d2b1543ca02850c91a2f75c26a6c119c7fd89ddd66f20ee90bdaa08a2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=531e15639866e4857bb06d9cb6212e2d33bbc3f3b308ae7d99ec1ab516b109b1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

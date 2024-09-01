@@ -1,0 +1,44 @@
+{
+  "name": "TUI",
+  "subtitle": "Chef respecté",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Pirel",
+  "deck_building_id": "5ec21d0830840f21954cd2a68de6906e36a893ed",
+  "culture_invariant_id": 143,
+  "sort_number": 143,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "Tu pourras toujours compter sur la force de ceux qui t'aiment.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "143/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=0a579e0b7273a568765026c650bbb79556a67e231bdcbb8121f12f98ae298f04"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=a806b5e32b125de4dfb890210ee1873640194cccd3356f0cad1ab58dc4abaec5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2cf55e6b39a0b4c13680106a021e38a24c4476725155b12c631173cc2bf84638",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

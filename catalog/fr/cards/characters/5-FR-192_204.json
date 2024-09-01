@@ -1,0 +1,43 @@
+{
+  "name": "Simba",
+  "subtitle": "Fils de Mufasa",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "794f84fd2ebc3cb03afad4d4a6a7dc5cf90a4cd5",
+  "culture_invariant_id": 1148,
+  "sort_number": 1156,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Simba.) RUGISSEMENT IMPRESSIONNANT Lorsque vous jouez ce personnage, vous pouvez choisir un objet ou un lieu et le bannir.",
+  "card_identifier": "192/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=0618b303e7425bd7700bb34f1a4bf992829e173e1b2842c6d9c3dfe237d40734"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=bf8d2fce0a325686c03b66b2f64e2e9f4ceb34bc6eb27439381c7782b4a98989"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=e7e21d8986ffaa0aa668e994b9d719cc691289deda183841dc531d05537f0b69",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

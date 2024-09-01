@@ -1,0 +1,37 @@
+{
+  "name": "Île d'exil de Maui",
+  "subtitle": "Rocher caché",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "df63a319ee65f482a2cbc5479c989fcbcebad344",
+  "culture_invariant_id": 638,
+  "sort_number": 673,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Rien que des rochers et du sable… on passe facilement à côté.",
+  "rules_text": "ISOLÉ Les personnages sur ce lieu gagnent Résistance +1. (Les dommages qui leur sont infligés sont réduits de 1.)",
+  "card_identifier": "202/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=42a9dffd36de2e6a460bd220264a217d19e5b25207a6fd4c3c0db223f84e1271"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=a47b38959d19ebb9cdd378d010bef2aaaf24fa2dbc4e51e34a21f093992897a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=d13c2015aff3249b9166e2843ab3695669f5d13218c32adc22a34696ac92ca34",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

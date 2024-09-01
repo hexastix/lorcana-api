@@ -1,0 +1,41 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Capitaine Impérial",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "a4c9689a53f850f8139696171670ec7120353194",
+  "culture_invariant_id": 873,
+  "sort_number": 883,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Capitaine"
+  ],
+  "flavor_text": "Solide comme une montagne et féroce comme un dragon, le meilleur guerrier de l'Empire.",
+  "rules_text": "",
+  "card_identifier": "182/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=d7675c7840c356b20372573d861e83958d7474448393ab47319ee8130907b371"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7a1264c5b36438abac110d0eadcc7018aa886e899c17bebbfd905f484b3a0373"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=291826d1ac69c416ce153fd1b8dace95eb21f24eb64a970470f5c36c0ef7b174",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

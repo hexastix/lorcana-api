@@ -1,0 +1,41 @@
+{
+  "name": "MUFASA",
+  "subtitle": "Roi de la Terre des Lions",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Luis Huerta",
+  "deck_building_id": "ce63a503da81e5566193b8b840955f4ac9517ea3",
+  "culture_invariant_id": 155,
+  "sort_number": 155,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "Un roi se doit de prendre soin de toutes les créatures de son royaume, quelle que soit leur taille.",
+  "rules_text": "",
+  "card_identifier": "155/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f0a5de852de4045bf2cffbd8fe654da0ac0dfc8b8844ad8f2266901c351c95b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=904fab51cef8871ef0c23d834d6851cfe89f3da3cba5c67929d510d725916929"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=7a48ea3323d815355f171f1636873fe6286da061377fe94d0103a4fbd9f56340",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

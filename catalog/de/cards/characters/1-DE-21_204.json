@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Sorgloser Surfer",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Marcel Berg",
+  "deck_building_id": "37f056db280fdfb5863b00cac14a30c155046633",
+  "culture_invariant_id": 21,
+  "sort_number": 21,
+  "additional_info": [
+    {
+      "title": "Errata - Legendenwert",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Legendenwert der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem korrigierten Legendenwert von 2 gespielt. \r\n\r\nAlte Version:\r\nLegendenwert: 1\r\n\r\nNeue Version:\r\nLegendenwert: 2"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "So, so. Du kommst aus dem Weltraum. Ich habe gehört, da kann man super surfen. – David",
+  "rules_text": "OHANA Wenn du diesen Charakter ausspielst und mindestens 2 weitere Charaktere im Spiel hast, darfst du 2 Karten ziehen.",
+  "card_identifier": "21/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=69ac99f1e02d9ae0b057a0377cc49056a0910658fa86564dd047e3c80fc62db8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=0605a03f769a107cb027a054310c30aea6076441fc7218c77fadacf02bef7b1b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=3347a6ef91b35e3e35e2d766d99c248f3299b55b67f53d942eb90c53a08e8f82",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

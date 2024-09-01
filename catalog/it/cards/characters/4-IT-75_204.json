@@ -1,0 +1,40 @@
+{
+  "name": "Heihei",
+  "subtitle": "Gallo Imbranato",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Anna Stosik",
+  "deck_building_id": "69d8809376697e97b2de10221febd0aee79c5d45",
+  "culture_invariant_id": 766,
+  "sort_number": 776,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "CERCA DI INGRASSARE UN PO' Quando giochi questo personaggio, se un avversario ha più carte di te nel suo calamaio, puoi aggiungere la prima carta del tuo mazzo al tuo calamaio a faccia in giù e impegnata.",
+  "card_identifier": "75/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=d94486b2d816930aa0480186f5e270a31c66269d6dd906cb7aee9f6539d918d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=04eaeef5d50914a4208eb534b96ba43561afb3c087eb5223a9e471fbc46c1b4d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=ec58b53f78a63b9c910279f9cb3223fff277a4ff97a6995a12780908f320b004",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

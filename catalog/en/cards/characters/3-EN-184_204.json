@@ -1,0 +1,41 @@
+{
+  "name": "Mr. Smee",
+  "subtitle": "Bumbling Mate",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ally Zermeno",
+  "deck_building_id": "9a550d6d1adb8c9c50c770cd0354b54e62316cdd",
+  "culture_invariant_id": 620,
+  "sort_number": 655,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "Catch those little—OUCH!",
+  "rules_text": "OH DEAR, DEAR, DEAR At the end of your turn, if this character is exerted and you don't have a Captain character in play, deal 1 damage to this character.",
+  "card_identifier": "184/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=ee0e4021583c88c29024e10cb2b1e2e36248a89c8c0765cce4ba93d4f34c4cb5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=566f1f7569fa6980576b1d5c11707b9b6710f71247fd5c6cc5fcdbfbb2fc6ff6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0d74a1a99ba99ac090bd07c5c531f1a6acbd7acc7f86c1b52d07f65fa3d1faa6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

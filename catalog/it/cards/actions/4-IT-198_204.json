@@ -1,0 +1,38 @@
+{
+  "name": "Attacco al Castello",
+  "rarity": "UNCOMMON",
+  "ink_cost": 10,
+  "author": "Ian MacDonald",
+  "deck_building_id": "39f7d10f346a5d4cfce7f3ea92434317a4b05178",
+  "culture_invariant_id": 889,
+  "sort_number": 899,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 10 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 10 o superiore può per cantare questa canzone gratis.) Infliggi 3 danni a fino a 3 personaggi e/o luoghi a tua scelta.",
+  "card_identifier": "198/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=3768f813ca9e14ee0df95efb5ff86292bc681647dea2909e4cd73f4bfed9e165"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=c5c63d4720b39c119e191a56c5a68cac77e0bc8ddad7f116030b72a296799dc5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=786c193119443b24c97b487da6da46c94be27db9665c9f832441e778c16731c3",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

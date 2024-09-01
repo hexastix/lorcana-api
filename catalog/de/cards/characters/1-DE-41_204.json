@@ -1,0 +1,43 @@
+{
+  "name": "Elsa",
+  "subtitle": "Eiskönigin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicholas Kole",
+  "deck_building_id": "9b02f08020a21f05415b5cfa5c0d376fb04d8a1d",
+  "culture_invariant_id": 41,
+  "sort_number": 41,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "Durch magische Tinte erschaffen, fand sich Elsa in einer völlig neuen Welt. Zum Glück funktioniert Eis überall gleich.",
+  "rules_text": "EINFRIEREN — Erschöpfe einen gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "41/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=87403b0afd270836df4d74858b84213de686049252c79e8b7aa8e9aa935f371a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=5a7448f01cc46b16c6a0b04d1282536cea836b126f5f31688e402586728cac41"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=4569725722048aef84ad788c244eaa5a0c89aa3263eef5d52c3937931c69eafc",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

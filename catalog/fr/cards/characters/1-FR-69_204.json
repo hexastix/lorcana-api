@@ -1,0 +1,43 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Prince Ali",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lauren Walsh",
+  "deck_building_id": "1d08728f58803b68227b42d077f73afbfe1f9880",
+  "culture_invariant_id": 69,
+  "sort_number": 69,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Fabuleusement riche. Pratiquement intouchable. Vraiment inauthentique.",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "69/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=2bcdb49c0ab4bb2cc2700cced258b6540e2bf7e3b1a8c84dcf755b9c44abefd4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=abf5495d08ab06cd7839e5478d811942795a096e1c3f211afc7cb4556d865022"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=c89cfa42376cd710f4c0ba0bcd428a5b0ee5401aef25703b5a8b1f0e25779fa3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

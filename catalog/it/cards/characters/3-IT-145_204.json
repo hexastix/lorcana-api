@@ -1,0 +1,42 @@
+{
+  "name": "Qui",
+  "subtitle": "Nipote Esperto",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Federico M. Cugliari",
+  "deck_building_id": "2612c4d73c23b6a316f7b372373164a6be833e87",
+  "culture_invariant_id": 581,
+  "sort_number": 616,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Sembra parte di un cristallo più grande!",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) TRE NIPOTI Ogni volta che questo personaggio va all'avventura, se hai personaggi chiamati Quo e Qua in gioco, puoi pescare 3 carte.",
+  "card_identifier": "145/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=be0c531e508fe27d49133ffb457b5f3d27a917df4f1548d3f7b3535da92bfe2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=f48d6407445f88da7218042bdedc1bf334c5cce916e82c46cb1224049f10bed3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=bd3a878ffc83b2e03119fb44590a093900bdabc84414312412bb9735fe31cd35",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

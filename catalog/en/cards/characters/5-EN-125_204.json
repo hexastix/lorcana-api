@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Adventurous Successor",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentin Palombo",
+  "deck_building_id": "f366b5591bf174421106ad9ef1b368decafc6ace",
+  "culture_invariant_id": 1081,
+  "sort_number": 1089,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "I LAUGH IN THE FACE OF DANGER When you play this character, chosen character gets +2 this turn.",
+  "card_identifier": "125/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=799ad9e18f9c2933545e067c3b77fa977e18bfe3aa55bbd4b104c02cd972efd8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=6f3fee944f549b6b308c5294ed9cc44d5818dd41040684fa1c334cc64a6bf8ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=12ba27dbf97de0d3b7e71cb5a71459f1d4e8f682118252a403a07df1d6af27ab",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

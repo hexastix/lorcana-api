@@ -1,0 +1,33 @@
+{
+  "name": "Nothing to Hide",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mané Kandalyan / Jochem van Gool",
+  "deck_building_id": "eb38cba8fe1056601e3bcc7c466dba3649d7cb10",
+  "culture_invariant_id": 381,
+  "sort_number": 405,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Helps you avoid unpleasant surprises.",
+  "rules_text": "Each opponent reveals their hand. Draw a card.",
+  "card_identifier": "165/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=ae0f5bcd1ba3279089122963443e41ca9c0e63910d51375339b1dc47a9e62eae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=8a2717ab4b5ae769bce3c18ddc3ce0e9815f9da01368eb421dcd74739ad70c7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e7a2f88447bc5ec33b91c8685f54fe75847066928015951646c82d6a9624e242",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Denahi",
+  "subtitle": "Fratello Vendicatore",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mike Parker",
+  "deck_building_id": "adab77f9fef673a37441d973404956b042bb30ce",
+  "culture_invariant_id": 1071,
+  "sort_number": 1079,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Pagherai per ciò che hai fatto! Dovessi anche inseguirti fino al Mare di Azzurrite!",
+  "rules_text": "",
+  "card_identifier": "115/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=d41d76d828df58f630290bcf0c5760e7daa971aa4aaec4cbc3c51891321b165c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=69f0291c5f75b1a41eb68889e51194e329aab7b0b66c99a3abb3f984a5ad1758"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=45dad1cf9c987afa49aa6a3d403ee7ab70238fb29a486d1177f6660c0e83b2e2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Pride Lands",
+  "subtitle": "Pride Rock",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "df2e59641883d44ec34c12b9ba600f92f8be0ec2",
+  "culture_invariant_id": 643,
+  "sort_number": 678,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WE ARE ALL CONNECTED Characters get +2 while here. LION HOME If you have a Prince or King character here, you pay 1 less to play characters.",
+  "card_identifier": "207/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e3cb99027b3a6b5cdf739c55b4f998b08d055190048e084dc2d877ac8c9d6dcb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=5ac337ca2a8d75068d5d1a958202fa07f70abfd6ba593cae70c76f02400d3984"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=bc929d3d78cf1871b17375a6a86882b70060384f611e23d6e3fb4f4b5510cea6",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

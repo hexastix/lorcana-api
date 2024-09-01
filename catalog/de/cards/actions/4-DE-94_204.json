@@ -1,0 +1,33 @@
+{
+  "name": "Den Trank brauen",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Elodie Mondoloni",
+  "deck_building_id": "2ff92870c51a6d0ed82d95f43850abf04ef72c3d",
+  "culture_invariant_id": 785,
+  "sort_number": 795,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Wähle eine Möglickeit aus: • Verbanne einen Gegenstand deiner Wahl. • Füge einem beschädigten Charakter deiner Wahl 2 Schaden zu.",
+  "card_identifier": "94/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=584b03bcaa2f4b1cb063afb06ed6a787ea56efcd4c6bb78975e74f0d05e47891"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=00d4505a62f2f8d5b692dc05d965bb853de67e1633c2834e53a62c94008d1159"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ed982e59adab6c87b61c5c310cf76a31beda1000c7627c85cfbb6aad2f2f0bd4",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

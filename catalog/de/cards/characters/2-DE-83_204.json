@@ -1,0 +1,40 @@
+{
+  "name": "Gaston",
+  "subtitle": "Intriganter Verehrer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "fa46cb5d8c91e28cee54f0e6fc320dba20035c8e",
+  "culture_invariant_id": 299,
+  "sort_number": 323,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Verdiene ich etwa nicht die Beste?",
+  "rules_text": "ICH BIN FURCHTERREGEND Solange mindestens eine gegnerische Person keine Handkarten hat, erhält dieser Charakter +3.",
+  "card_identifier": "83/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=2d8acc07a801f1c89b27bcfab803a2f5940178352baf3fa035ea3835ab9693ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=91721e001b1a7975a93abe234e2b11b8bee1e96025c5fbc17b67aca0b4039dc6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=8266353449a143f2cb6f01d7b21bc6a30b740ac12b49ab2052fb5a87256e49a2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

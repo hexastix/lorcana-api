@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Obstinée",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "c75d35692903d3cf6571ffe9cf34ca6854cb779e",
+  "culture_invariant_id": 338,
+  "sort_number": 362,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Deux doses de courage, une dose d'ingéniosité et énormément de détermination.",
+  "rules_text": "OBJECTIF: NE PAS MOURIR Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous pouvez le redresser. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "122/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=2380030e87b0d986c7be229426795fc36c01961416cffbca6108c80ca1bb1d2f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=728b776a273e165c75d68d6462d04526b3ee57ae69b84e6fa39267434b850f38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=5080a89f4a349355f722778785d267abcc91474a7c95b9bbd51136e78dc42c3b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Lost Boy Leader",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "2285e2c33a254aaef5023dfa9eb28a60fcdce67e",
+  "culture_invariant_id": 518,
+  "sort_number": 553,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have a Peter Pan – Lost Boy Leader at The Queen’s Castle – Mirror Chamber, which has 2 {L}. If I move Peter Pan to De Vil Manor – Cruella’s Estate, which has 1 {L}, and then move him back to The Queen’s Castle, can I use his I Came to Listen to the Stories ability to gain 2 lore?\r\nA: No. You must use Peter Pan – Lost Boy Leader’s ability I Came to Listen to the Stories the first time he moves to a location each turn. If he hasn’t moved on your turn and you move him to De Vil Manor, you gain 1 lore. You can’t use his I Came to Listen to the Stories ability again that turn.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "The Illumineers needed someone to find a missing spellbook, and Peter was the first to volunteer.",
+  "rules_text": "I CAME TO LISTEN TO THE STORIES Once per turn, when this character moves to a location, gain lore equal to that location's.",
+  "card_identifier": "82/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=f613406ad9b65548bd601ef25834d3eb939b47e99ef27dc26661155e2498062b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=4b5b8910c0fc1f67dca4fc3d97afcda8abbf8a3dff6e2d709edc302d9beefd05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=6dfa71b6ac2f8018ef692605dffa3c7d423d150b4695fe0dc2b3129ef8f0a5e9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

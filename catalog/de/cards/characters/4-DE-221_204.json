@@ -1,0 +1,43 @@
+{
+  "name": "Ferkel",
+  "subtitle": "Tapferer Schwertkämpfer",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "aa5bef4f5a3c18bd9740e3b9f58fa1de1b683cc0",
+  "culture_invariant_id": 912,
+  "sort_number": 922,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) NICHT MEHR GANZ SO KLEIN Solange du keine Karten auf der Hand hast, kann dieser Charakter bereite Charaktere herausfordern.",
+  "card_identifier": "221/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=cfb114aee069278345f9fa170e418f1b9f1222acb81ff4b269e95cb973faa8d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=9c87306122880c102789d3122cd760969b6f761cb95bc961a28263fee95c85c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=cccd779208091f4d7b3cd746baf226301fe282b5bbc6c72f3d553abd2e144795",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

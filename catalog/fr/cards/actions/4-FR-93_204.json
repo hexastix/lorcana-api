@@ -1,0 +1,33 @@
+{
+  "name": "Esquive !",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "086cbb4a18c9cc21f6ba04e1011c055bd4c551a4",
+  "culture_invariant_id": 784,
+  "sort_number": 794,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tu m'as raté, espèce de brute!",
+  "rules_text": "Choisissez un personnage qui gagne Hors d'atteinte et Insaisissable jusqu'au début de votre prochain tour. (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi. Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "93/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=1ab8c5f35087648f7899f1e71323736a755eb5f636d28fcb2fdda565f77c987d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=e90dedc0afa79b50b9ae3285b718fb8a65165b99588afaa4e248f5b9987c08d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=cad84061f534d252f4fa4b4ab080e206b00cdabbb8abd8a6d494e517db6d7cb3",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

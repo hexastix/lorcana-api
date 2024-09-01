@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Royal Vizier",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "be0604ebb303eab26c710c79ed684067cfb6873f",
+  "culture_invariant_id": 400,
+  "sort_number": 424,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "Soon you’ll learn who holds the <real> power!",
+  "rules_text": "I DON'T TRUST HIM, SIRE During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "184/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=187a3ead755a26d717d192741d28fac202f8c1b0d3063dad64049af981dd04b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=39bced70d0014a9589a2dd04c0d82bb8345e899e89bd33e4b7d0e6d07e7530e8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=d2cf7a3990730014f819114d2e14109e901598c21a6b6c32e35b8eb8173e2b2f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

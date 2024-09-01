@@ -1,0 +1,44 @@
+{
+  "name": "Mulan",
+  "subtitle": "Esprit libre",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "63be0c9e418d5a0329a87de4082802d18848efe6",
+  "culture_invariant_id": 231,
+  "sort_number": 255,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Tout a l'air plus beau lorsque tu es libre d'être toi-même.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa à celle d’un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "15/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cd0592aeea861c3b91e411c8e041d34b794819b42af47f3a3981434451d76ea7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=e1b8bba2cf349fa1a98937d969a8990e7509fdec00842190b3b5b1100a69c1fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=f2e2b2c6f942c9b7aac6179af627a6207621ca728313c862191265c50a1401a2",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

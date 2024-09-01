@@ -1,0 +1,42 @@
+{
+  "name": "Félix Fixe Junior",
+  "subtitle": "Intendant de Niceland",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "João Moura",
+  "deck_building_id": "7e4e53714f3c4b1b2397062f8fd5e95894fcab60",
+  "culture_invariant_id": 968,
+  "sort_number": 976,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Félix Fixe Junior.) BÂTIR ENSEMBLE Vos lieux gagnent +2.",
+  "card_identifier": "12/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=c72347f6ba18f4bcf12fdede09d1eb2fde7963eba0a1d9dcc0c4bf2160ca34fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bbdedafbd9475dbd2848342c390a10d1627168c73f15344abacb1a958320a826"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=3123395f7a131e08cfd095e2198ceaf8b61aa9b33a4f09a090f55bdad2ec8faf",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Le Pays Imaginaire",
+  "subtitle": "Lagune aux Sirènes",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cécile Carre",
+  "deck_building_id": "3dda47c95f7fd5557d048647909c7fb4c9f62dbb",
+  "culture_invariant_id": 468,
+  "sort_number": 503,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Les sirènes racontèrent à Peter qu'il y a quelques jours, elles avaient vu des objets qui flottaient… mais elles étaient plus préoccupées par la disparition de l'une de leurs sœurs.",
+  "rules_text": "",
+  "card_identifier": "32/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=bb4b9828065c62253cdcaaefe282988ec7e2c8c2e9c5ed74566d85e256ce5056"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=b89d148446f49d533fc6d1f4a227a0dacf8dabd8045561b1ba72d8fc34d91f83"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=0fe483ce874916ed175adddc49bd387679f76f3c197e65a5222d405bbd11cd19",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

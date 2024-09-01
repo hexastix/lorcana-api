@@ -1,0 +1,41 @@
+{
+  "name": "Snow White",
+  "subtitle": "Lost in the Forest",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "LadyShalirin",
+  "deck_building_id": "52625a3814824139f2171b5ae5029653a9b48d92",
+  "culture_invariant_id": 239,
+  "sort_number": 263,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Why, you’re all alone, just like me.",
+  "rules_text": "I WON'T HURT YOU When you play this character, you may remove up to 2 damage from chosen character.",
+  "card_identifier": "23/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=d8495d4296ab101321339043eec10cd067b9a237103c567abce5ff88d0e2fe9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=3d4d5019060d006c6d6f5051c227a0fb3552d7ddc01c2f47dad54d89129b8ea5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=680298a1ac55c903fba803ac4bb222a310cbbefaf774508ea1b183cd60c0c48c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

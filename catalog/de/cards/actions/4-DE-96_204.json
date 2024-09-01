@@ -1,0 +1,33 @@
+{
+  "name": "Ursulas List",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "e8e8b6146e68fc314030023117c7ad8ef501a416",
+  "culture_invariant_id": 787,
+  "sort_number": 797,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wie kannst du es nur wagen, mich zu hintergehen! rief Ursula und stürzte sich auf den anderen Glimmer.",
+  "rules_text": "Alle gegnerischen Mitspielenden dürfen je 1 Karte aus ihrer Hand wählen und abwerfen. Pro gegnerischer Person die keine Karte abwirft, ziehst du eine Karte.",
+  "card_identifier": "96/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=3fbc2912e483dadbddc80530fb4b6b8af0b2dc096af72625683e5fbe68ce00b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=d3fdb27152411a8938d416777055bbdb39c4daf3979cf025f68355ca32b2557b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=883cc534df4840f25810165a861bddb18eca44ee794d1a4b12de25854b1f9438",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

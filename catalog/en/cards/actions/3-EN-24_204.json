@@ -1,0 +1,33 @@
+{
+  "name": "99 Puppies",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Agnes Christianson",
+  "deck_building_id": "5e43d8ea46210ff6a851a826904c6a9136ea4936",
+  "culture_invariant_id": 460,
+  "sort_number": 495,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Two, four, six, and three is nine, plus two is 11... —Roger",
+  "rules_text": "Whenever one of your characters quests this turn, gain 1 lore.",
+  "card_identifier": "24/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=1154b22201972955e70a6c57ef41b5f13225785d63be2700ee976c975d7cba69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=455d87dcbdca4c05c25c9be8de252ad2d4744e8984ef3f0c26c6434db93c796d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=9aaa0c0c32c9980c917f0ed77c4d5d7dfe56947401abb0cb74b4716a69241b2b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

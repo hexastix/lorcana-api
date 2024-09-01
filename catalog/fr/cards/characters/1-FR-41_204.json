@@ -1,0 +1,43 @@
+{
+  "name": "ELSA",
+  "subtitle": "Reine des Neiges",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicholas Kole",
+  "deck_building_id": "9b02f08020a21f05415b5cfa5c0d376fb04d8a1d",
+  "culture_invariant_id": 41,
+  "sort_number": 41,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "Recréée par l'encre magique, Elsa se retrouva dans un monde entièrement nouveau. Par chance, la glace fonctionne partout de la même manière.",
+  "rules_text": "GELER – Choisissez un personnage adverse et épuisez-le.",
+  "card_identifier": "41/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=06a7dc5b4926875f7e26f211a3d97cc5ab1e55193b882e99a3ef5410b5b0f985"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=5679d0e8bffc2715d1c04fe84f38896e40776681e83812883eceeab2cea0bf85"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=4569725722048aef84ad788c244eaa5a0c89aa3263eef5d52c3937931c69eafc",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

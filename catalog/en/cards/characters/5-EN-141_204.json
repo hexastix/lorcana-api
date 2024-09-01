@@ -1,0 +1,41 @@
+{
+  "name": "Prince John",
+  "subtitle": "Opportunistic Briber",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "5f8c0c0fd0e465bfd49daea0ba1e50025bacae69",
+  "culture_invariant_id": 1097,
+  "sort_number": 1105,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Prince"
+  ],
+  "flavor_text": "Of <course> I'm on the list. Check under 'PJ.'",
+  "rules_text": "TAXES NEVER FAIL ME Whenever you play an item, this character gets +2 this turn.",
+  "card_identifier": "141/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=0cd0a75147543f26355d4ae93831a2e7da0a35bb60ea80acbf99ee2e6a75cea5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=10902a954da7f76a261bc468fe8c0523e60fe225d31c582e1b2ca62b45d4695a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=8250d2a6a4708e155e58ec96956556624720286b567dd3da8ad8cb3035d28831",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

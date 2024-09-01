@@ -1,0 +1,41 @@
+{
+  "name": "Ade",
+  "subtitle": "Doppiogiochista",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Alan Batson",
+  "deck_building_id": "41475c2d6dbdfd43222184e0da43f5c1a3f810ab",
+  "culture_invariant_id": 765,
+  "sort_number": 775,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "",
+  "rules_text": "FACCIAMO UNO SCAMBIO , esilia uno dei tuoi altri personaggi — Gioca un personaggio con lo stesso nome di quello che hai esiliato, gratis.",
+  "card_identifier": "74/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=15098050d440cce8228bcd96f1fde49299aa78e673357038d314469fc2e91772"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=92ba38097b9be41784ca40f5407c0d133accf5537f8858ca2218ab438845ce00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=3437e208065f6b7f0085c00e1359f019e0a89729f72e122b97d74659d712e036",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

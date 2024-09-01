@@ -1,0 +1,35 @@
+{
+  "name": "Un roi incontesté",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "6a96a371b36522fc0c2a15b36f8bc89a4f1a96f7",
+  "culture_invariant_id": 820,
+  "sort_number": 830,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Respecté, salué !",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Chaque adversaire choisit un de ses personnages et le bannit.",
+  "card_identifier": "129/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=28d036ff04097d106ac5fec6ac4b0e24ab2a7f5ba44440b271f02eef3b7fbcee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=d4568f2282cc2e0510069d724945bad42fcf734f8173c237087502e3d633e378"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=137ad338e338f9bf64bc4d4451627df773a84edb1f31a6831d45f24e8d9fc9dc",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

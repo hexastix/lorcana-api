@@ -1,0 +1,36 @@
+{
+  "name": "In Deiner Welt",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "385d2d6b1f6d4093408da9cd744c87865c9a538b",
+  "culture_invariant_id": 30,
+  "sort_number": 30,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "In einer Welt, wo alle geh'n und nicht mehr schwimmen.",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Nimm 1 Charakterkarte aus deinem Ablagestapel zurück auf deine Hand.",
+  "card_identifier": "30/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=e5e0d6f78adc717912af32d7866efd9ec654f9501d58eaaf37c6928eff6f8666"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=104cedc3e74ef6eff8e1ab4b48e98ef25c2e5735d5c6b735098992cadc82050a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=f625b6f6d29b22c2eaa3cd8d25d79167669b3b9d52779c87895c9e7033a92e91",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

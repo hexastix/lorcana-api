@@ -1,0 +1,41 @@
+{
+  "name": "JUMBA JOOKIBA",
+  "subtitle": "Scientifique dissident",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Milica Celikovic",
+  "deck_building_id": "196bdb59a8d8f80b734befcb8a7e2b8edfcc0d9c",
+  "culture_invariant_id": 83,
+  "sort_number": 83,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Alien",
+    "Inventeur"
+  ],
+  "flavor_text": "Créer un être, moi? Ha! Mais ce serait totalement irresponsable et contraire à l'éthique. Je ne pourrais jamais, jamais… enfin si… peut-être… pour essayer.",
+  "rules_text": "",
+  "card_identifier": "83/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=955c2e9c36ae5ae9ba14d110521f116a2c9e0c77823aad0eb29f68b4ea14dd85"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=e9ec9e8b41376910867d851c6f47932445a42febe49e0ceb9a102f20c943ca56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=df63f09031529b117b0b58e9412d836d1cdc72efbb58d35caea5c1fc7b073512",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

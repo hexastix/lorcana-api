@@ -1,0 +1,44 @@
+{
+  "name": "Ursula",
+  "subtitle": "Erics Braut",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "a2fa5270d0cdcd809f59770def2f42314f1da3a7",
+  "culture_invariant_id": 715,
+  "sort_number": 725,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurkin",
+    "Prinzessin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel: Wirf 1 Liedkarte ab (Du kannst 1 Liedkarte abwerfen, um diesen Charakter auf einen deiner Ursula-Charaktere auszuspielen.) VANESSAS WERK Jedes Mal, wenn dieser Charakter erkundet, zeigt einer der gegnerischen Mitspielenden deiner Wahl alle Handkarten für alle sichtbar vor und wirft eine Karte deiner Wahl, die keine Charakterkarte ist, ab.",
+  "card_identifier": "24/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=64f08e9afbf48f573766738059982ed39be53c0734d7b5c5d095619f8b0a26f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=032260771362d1f8e1cd4fddbef48aca452910acdad6bf8d846cfaee77f1c315"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=5b882531aca612f2c72c5106510e97513ba94374480882972dbef517efea3589",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

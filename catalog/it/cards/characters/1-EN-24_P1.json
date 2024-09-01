@@ -1,0 +1,44 @@
+{
+  "name": "Gaston",
+  "subtitle": "Arrogant Hunter",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "34cd6eb73f7b4b7dd53a239a0dedfdf75cb2efbc",
+  "culture_invariant_id": 682,
+  "sort_number": 234,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Reckless"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "It’s not arrogance when you really <are> the best.",
+  "rules_text": "Reckless (This character can't quest and must challenge each turn if able.)",
+  "card_identifier": "24/P1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=24d2668629c388bcecc8806bdfb22747f66886c3c89a8a32e5d58e4a57b93f16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=5cd32db65181519c0586b496bc1778b27d72f98d237aa435f68514ef258a4f2f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=4ef672231849fed3b0578c29d1267460abf9c5a659f29ced986f4de9605185dc",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

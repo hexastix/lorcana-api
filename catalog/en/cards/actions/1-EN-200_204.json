@@ -1,0 +1,34 @@
+{
+  "name": "Smash",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "31fe827aea4cf5f6ace7de2c21de0b5f6b783858",
+  "culture_invariant_id": 200,
+  "sort_number": 200,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Go away!",
+  "rules_text": "Deal 3 damage to chosen character.",
+  "card_identifier": "200/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=d078524434b95001378bfebc182e95be772ade7f1685c44da75d15ed478f16e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=d2736c659f67d7bc8808a7cb9d52863f201591d57be7193732a2f16ba0229ed6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=fb60963b2c7b2daf311574228fdcc3ccb699cf614893742aa5c8cdd918a5ac32",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

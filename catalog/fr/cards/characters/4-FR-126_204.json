@@ -1,0 +1,42 @@
+{
+  "name": "Tong",
+  "subtitle": "Survivant",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Mike Parker",
+  "deck_building_id": "605680cde1ad7c1f3add90d42b8193ca0e197da6",
+  "culture_invariant_id": 817,
+  "sort_number": 827,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Si vous avez l'intention d'aller broyer le Druun, moi aussi, je suis prêt.",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "126/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=b6213c0847c5b1b786f2f6a4d4b11822729aa68f6702b152f7cbe5ac8d7b7e4f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=b11bd94abc15c38ae43ff42bd5c3245aa3b79563350c1f41b32b61e73a385484"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=ca0ae73ee0a51394eacaffdbdb7f8fe7bc5993688de6e763520f5286a1a0c183",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

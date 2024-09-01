@@ -1,0 +1,35 @@
+{
+  "name": "Non Si Nomina Bruno",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "0cad2afabe0d8c82ff3aaacde2c1d2e1edaad12a",
+  "culture_invariant_id": 788,
+  "sort_number": 798,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "La profezia si trasforma in realtà!",
+  "rules_text": "(Un personaggio con costo 5 o superiore può per cantare questa canzone gratis.) Fai ripendere in mano al suo giocatore un personaggio a tua scelta, poi quel giocatore scarta una carta a caso.",
+  "card_identifier": "97/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=43aea3c06341668e646f563bb17ecedbff780d6c5b98eba8852f6bcd1ef56d7c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=22493e418fc769f235c9e86f2012fe36f1d8d152dc937897274f29833ade5a16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f6c4f7531206838c404904d1a01207f214de9884d415ba78d6e57c265bfae540",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Genie",
+  "subtitle": "Main Attraction",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Brian Kesinger",
+  "deck_building_id": "c3a3e22a3dc8e185181d63b0572644983c11e23a",
+  "culture_invariant_id": 1005,
+  "sort_number": 1013,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Keep your eyes on me, folks! It's time for a little prestidigitation!",
+  "rules_text": "PHENOMENAL SHOWMAN While this character is exerted, opposing characters can't ready at the start of their turn.",
+  "card_identifier": "49/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c16a5750d70e4ae153cdc1294612be759fe7ca75644eeaed43d64a9b7fb6c84e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=e9ffcb2c8e81820be92539ea014b661f2670085b1ab0189adede47ca2c45c54b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=2f0b15961015df50252b4ea6deceaafaa8030a19457712b16b6e9ddaecf4416f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=6529b3acfd7b015f40809084945fff004f754c41aff9824724da1b10667918be",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Die Krone des Rats",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lava Hijzelaar / Ellie Horie",
+  "deck_building_id": "711db291586153124e70c559ba0991a638fc6d4f",
+  "culture_invariant_id": 1104,
+  "sort_number": 1112,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Königin",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) VERSAMMLERIN DER ÜBELTÄTER Wenn du diesen Charakter ausspielst, darfst du dir die obersten 3 Karten deines Decks anschauen. Du darfst beliebig viele Die-Königin-Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "148/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=2c1ec3a678fb49fef1d1b7564efb363b6a56f907b8aa78eb937bc522a89d3237"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=1b583192280f63dd22351bc88195675e8b592eaec994b2a243e94120acb8f6ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Jumba Jookiba",
+  "subtitle": "Renegade Scientist",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Milica Celikovic",
+  "deck_building_id": "196bdb59a8d8f80b734befcb8a7e2b8edfcc0d9c",
+  "culture_invariant_id": 83,
+  "sort_number": 83,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Alien",
+    "Inventor"
+  ],
+  "flavor_text": "Created something? Ha! But that would be irresponsible and unethical. I would never, ever. . . make more than one.",
+  "rules_text": "",
+  "card_identifier": "83/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=26416433e2bb328468323a1d483b5fccb978a6a498e29bd20e1ca91564d9e2be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=a3e41bb8559f72371a4695a50aa3e18acc7e6aeb45b2751e9bfdf7a38ce9327e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=df63f09031529b117b0b58e9412d836d1cdc72efbb58d35caea5c1fc7b073512",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Auf die Beine! Jetzt!",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "c2489a966a450b41881a99cd9bb1f009bd92d32d",
+  "culture_invariant_id": 566,
+  "sort_number": 601,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich einen Charakter mit Robust +1 im Spiel habe und „Auf die Beine! Jetzt!“ einsetze, kann dieser Charakter dann erkunden, nachdem er bereit gemacht wurde?\r\nA: Alle Fähigkeiten von „Auf die Beine! Jetzt!“ wirken sich unabhängig voneinander auf jeden deiner Charaktere aus. Das bedeutet, dass jeder deiner Charaktere nach dem Ausspielen von „Auf die Beine! Jetzt!“ nicht mehr erkunden kann, egal ob dieser Robust +1 hat, oder vor dem Einsatz der Aktion schon bereit war.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Fangt sie! Bevor sie entkommen!",
+  "rules_text": "Mache alle deine Charaktere bereit und füge ihnen 1 Schaden zu. Sie können in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "130/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=9d4438ca4be7c273ecf27cbfe5848d75bbd2abb3629616be8d42a7c4b2da34c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=5bde4d498d82024e920278d6f0484292c5f41b8f793c26a104b346bd83807c8c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=817a48ad15b609fffcd84b464cd5103113e57dfc15c1c4c4b1553225339f663b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

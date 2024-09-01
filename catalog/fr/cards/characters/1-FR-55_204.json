@@ -1,0 +1,40 @@
+{
+  "name": "SVEN",
+  "subtitle": "Fournisseur officiel de glace",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "e5a8c4b90dc84d19a4aaae97b279a35a00cd5b09",
+  "culture_invariant_id": 55,
+  "sort_number": 55,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Attention, un renne sur la glace! — Kristoff",
+  "rules_text": "",
+  "card_identifier": "55/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=4a2620e278aeaca4fec718e2dae57f26d6e56b5c7a1eeab68ab54fa3d4e6e5f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=12f0281ca8f3521421ea557fdf035b85133aa9ca7cece5dcfe5a1e519f4793c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=883ee4d25bc87fa509523592692abe715da9eed5397175ee7ca4a4ab45ec8761",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

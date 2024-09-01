@@ -1,0 +1,40 @@
+{
+  "name": "Gaston",
+  "subtitle": "Spregevole Trafficante",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "227600aa724c645ab4db45734ad272f904d89fe5",
+  "culture_invariant_id": 701,
+  "sort_number": 711,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Sì, sì, sarà tutto pronto. Ricordati solo di fare la tua parte.",
+  "rules_text": "RECLUTAMENTO SOSPETTO — Paga 2 in meno per giocare il tuo prossimo personaggio per questo turno.",
+  "card_identifier": "10/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=d592dbfcc229b36f97db7371bece9fe6448b28429b6bc13311d35baf834e97d0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=2431f24cfab8ac2ab62adda0ee40607c2af850f60d026c55d6075016d3ab32cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=f2d121d1bbd52614f953dda1658b3609ae42152c692a3ff125588bd43735dbf0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

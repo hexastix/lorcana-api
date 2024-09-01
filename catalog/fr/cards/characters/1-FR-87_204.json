@@ -1,0 +1,40 @@
+{
+  "name": "MÉGARA",
+  "subtitle": "Tireuse de ficelles",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Aubrey Archer",
+  "deck_building_id": "76be007752f1625ad8261741ec543a1ef1682a2c",
+  "culture_invariant_id": 87,
+  "sort_number": 87,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Un contrat est un contrat. Mais tomber amoureuse n'en faisait pas partie.",
+  "rules_text": "SUPER-MÂLE Lorsque vous jouez ce personnage, choisissez un personnage qui gagne +2 pour le reste de ce tour.",
+  "card_identifier": "87/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=0b1d7a6aa929592ff17255df1bc9ccafd0c5ed34e434c23e8e75b0a776d2a123"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=d3f13fed08cee377d330b5ba9b774068efd3efcef9948b6f9a93b260dc03081e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=ec800610f07f7fe8f19f9074995004a07011c164c6e387fb910ee1b68be4597c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

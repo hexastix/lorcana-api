@@ -1,0 +1,43 @@
+{
+  "name": "Balais Magiques",
+  "subtitle": "Commandant de brigade",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Otto Paredes",
+  "deck_building_id": "5b62db7d0c2cf0af385d111c8e065a46ee86e2da",
+  "culture_invariant_id": 877,
+  "sort_number": 887,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Résistance"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Balai"
+  ],
+  "flavor_text": "",
+  "rules_text": "Résistance +1 (Les dommages qui lui sont infligés sont réduits de 1.) ARMÉE DE BALAIS Ce personnage gagne +2 pour chaque autre personnage Balais magiques que vous avez en jeu.",
+  "card_identifier": "186/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=4eed80fc9157db262af59bacc0646c4fb890a505c5d74bb7b73e7d9a468212ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=95103d17ee63cd3ebe8ef9bed112de9e381f1f1a299a020bd5f84c206a958a70"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=2eb67f61dac4aaa771e93d642a3c559fabc0c27bc48545eb37e341f508f248c6",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

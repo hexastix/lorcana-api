@@ -1,0 +1,40 @@
+{
+  "name": "KRISTOFF",
+  "subtitle": "Maître glacier officiel",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "dcc435a4545c40e6dfe713fe317f78e418982a15",
+  "culture_invariant_id": 182,
+  "sort_number": 182,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Kristoff: Tu voulais me parler de l'offre et de la demande? Je gagne ma vie en vendant des pains de glace. Anna: Ouh, le commerce ne doit pas être très florissant par les temps qui courent… je veux dire, hum, c'est vraiment… pas de chance.",
+  "rules_text": "",
+  "card_identifier": "182/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=c9e0e8c9da46e518c8685505b6286324151445b7a95fa723881eb8a45143d7e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=6c88bbe373e562539880df8eaae1cb0bf9016f5e31f7fd0215fa197a85ee9abb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=a55337ff82ffcd1badbc46816559c21c2b234f31b0d1f24dbb388f5797df950f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

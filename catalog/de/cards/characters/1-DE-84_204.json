@@ -1,0 +1,42 @@
+{
+  "name": "Kusco",
+  "subtitle": "Temperamentvoller König",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "d9db9f6bf253381915cb4e979201f2ce3217677d",
+  "culture_invariant_id": 84,
+  "sort_number": 84,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "Ich habe nach Smaragd gefragt und das ist eindeutig Jade! Was ist bloß los mit euch Leuten?",
+  "rules_text": "Behütet (Gegnerische Karten können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)NICHT ANFASSEN! Wenn dieser Charakter herausgefordert und verbannt wird, darfst du den herausfordernden Charakter verbannen.",
+  "card_identifier": "84/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=e7b823a527210a0497a7d3fac4111a1e70b86254184ca3aa5c20431320f04d81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=f31b7ff8997adb94bf5861fe621ee33b80b0a3356a5acd9f2b3bbbe6680adf6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=c6270d8cecca68cc1652271ba5f95b77724d795a33feabca06675075bf66b80c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

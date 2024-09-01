@@ -1,0 +1,43 @@
+{
+  "name": "Gramma Tala",
+  "subtitle": "Geist des Ozeans",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "fbf243419cbfdb464f79114d25217e7266819b65",
+  "culture_invariant_id": 653,
+  "sort_number": 688,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Mentorin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Gramma-Tala-Charaktere auszuspielen.) WEISST DU, WER DU BIST? Jedes Mal, wenn eine Karte in deinen Tintenvorrat gelegt wird, sammelst du 1 Legende.",
+  "card_identifier": "217/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=d6979e9aa8fda779dd41c7b3cbabcf7a3c5cf3133aaa00f565f2ca1696c75a3e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=efc196fd975a07481ed7bb6ebc54e1eb56de7a0ca31efe34bdd035196d177b16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=81daec44791cc1ddb37b8c181b2bc612c8b3060d8c4d1becde995874725bb710",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "La Reine de Cœur",
+  "subtitle": "Utilise les faiblesses",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "c7b064db265bded03b75f9a2b194df8a9567e845",
+  "culture_invariant_id": 336,
+  "sort_number": 360,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Reine de Cœur.) QUE LA PARTIE COMMENCE Chaque fois que l'un de vos personnages en défie un autre, vous pouvez piocher une carte.",
+  "card_identifier": "120/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=b2b23417c5ff996f277fb390e42812ed3246332bbe25824067ca3398aa27255c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=c778fb35fe8d00823628f1482bb7175ab1262b59d6ce2e9047abab2c01efb49d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=4a251f26b5d8c40b841baaf47b1b739dbc34ede94ccf06f422cd5fc8d9311fee",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

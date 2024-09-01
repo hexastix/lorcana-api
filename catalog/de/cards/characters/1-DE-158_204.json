@@ -1,0 +1,40 @@
+{
+  "name": "Scar",
+  "subtitle": "Drahtzieher",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "d58028e0439679ccda27077c066677d60f1cba4c",
+  "culture_invariant_id": 158,
+  "sort_number": 158,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Die besten Pläne beinhalten ein gewisses Risiko. Nur nicht für mich.",
+  "rules_text": "HEIMTÜCKISCHER PLAN Wenn du diesen Charakter ausspielst, gib einem gegnerischen Charakter deiner Wahl in diesem Zug -5.",
+  "card_identifier": "158/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=610b707c43f8aa170cda1c98de1aee422198287b49bca574bb950790de357cda"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=45d92133f338571b3982b87b26ee38b55fc88035e4f2222376611efe79d900e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=efc95fe7f36f8039f7dc2726edf9eefdbf454623c14d5ac0930038cf9503046f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

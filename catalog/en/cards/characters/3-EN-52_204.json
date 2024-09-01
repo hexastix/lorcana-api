@@ -1,0 +1,42 @@
+{
+  "name": "Mama Odie",
+  "subtitle": "Voice of Wisdom",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "73a02488dd4a721f27d76641765f67896fd2a61b",
+  "culture_invariant_id": 488,
+  "sort_number": 523,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Sorcerer"
+  ],
+  "flavor_text": "That’s the way to give it what it needs, Juju!",
+  "rules_text": "LISTEN TO YOUR MAMA NOW Whenever this character quests, you may move up to 2 damage counters from chosen character to chosen opposing character.",
+  "card_identifier": "52/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=227c389972a7c5bcf2046876bfa9f0e85e91dced7e51d82756f02f96030c3260"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=c8392268feb57847d4ab3318be91237e9689661dea01e0722c28fcb900500643"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=061d63b47a7a47cbf6eb09aaf4e051e20f5b7b947745a20bc24cf5bcca23378b",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

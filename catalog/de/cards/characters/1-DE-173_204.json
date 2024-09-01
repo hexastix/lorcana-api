@@ -1,0 +1,42 @@
+{
+  "name": "Käpt'n Hook",
+  "subtitle": "Kapitän der Jolly Roger",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Adrianne Gumaya",
+  "deck_building_id": "b22050b161c271c2f7a6545dbc530e05bcb045e0",
+  "culture_invariant_id": 173,
+  "sort_number": 173,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Der Augenblick der Rache ist gekommen. Wir werden sie rupfen wie die Hühner!",
+  "rules_text": "DOPPELTE LADUNG! Wenn du diesen Charakter ausspielst, darfst du 1 „Feuert die Kanonen!“-Aktionskarte aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "173/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=1f2a34b263423ee2a82375f99d2e7a2845d6818997bfe9f4a4c2a589252a4477"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=5906755d968125ddd42f81e2488c40593a1670b107db01ec579db934560c9281"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=444b627c6d25ecaad34dd785c5ce979f6215fa974eca5bfeda99f76d4cb6f973",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

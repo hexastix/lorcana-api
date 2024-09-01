@@ -1,0 +1,33 @@
+{
+  "name": "Peter Pan's Dagger",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "40927c4f37a9c377366de9cff761fa64f0580f95",
+  "culture_invariant_id": 351,
+  "sort_number": 375,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Like so much other lore, Peter Pan's dagger was safe in the Great Illuminary until the flood.",
+  "rules_text": "Your characters with Evasive get +1.",
+  "card_identifier": "135/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=556bc97616c14f1d883e90d74192756b3373ca5c763a12724c002ca728d6b6e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=36b645dcaf854a9e545bf811d567f0d8953172d36f7f82afca8972bbd626d87a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=841a19e14420ed41915f1e698b1946f69b978c54ec345d0a989749058709b9b5",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

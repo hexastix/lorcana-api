@@ -1,0 +1,40 @@
+{
+  "name": "LILO",
+  "subtitle": "Héroïne galactique",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jared Nickerl",
+  "deck_building_id": "fc9c030eb04c07f2819aa821557e1f7f0e1f354b",
+  "culture_invariant_id": 184,
+  "sort_number": 184,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "L'espace! C'est de là que viennent les extraterrestres... et aussi les touristes!",
+  "rules_text": "",
+  "card_identifier": "184/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=ff3196623ea3cddd3cd5f0dd6fcc29e378d833d3e330d193bdb678b77ba9e857"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=c95b32158de555cafdf33828032d7220e33f15d77f587a19f16f59cd0b29a504"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=abbf755733bc4d4a4533b92dca6222a3bad08e4a1ea7bbec583adc0652be085b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

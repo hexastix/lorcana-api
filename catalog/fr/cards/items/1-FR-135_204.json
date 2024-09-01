@@ -1,0 +1,34 @@
+{
+  "name": "BOUCLIER DE VERTU",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Eri Welli",
+  "deck_building_id": "36603d551c1f7baf9ea15d2dc93a461dbead7c0b",
+  "culture_invariant_id": 135,
+  "sort_number": 135,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Aussi, Prince, prenez sans hésiter ce bouclier et cette épée de vérité. Seules ces armes magiques peuvent triompher de Maléfique.",
+  "rules_text": "À L'ÉPREUVE DU FEU , 3 – Choisissez un personnage et redressez-le. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "135/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=20b1db70c42909bf28b9f3ac681ad7e3ef81636599e30704189fc32550f17f79"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=9e007544a4b979f30febcdd14fa8c4fdedc35d1510845971e78caab74fc2426f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=f82b9eeca5fa5c82cec0e27e2878c42e02df83a8d622b5c202ad175dbdbc2cc8",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

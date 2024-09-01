@@ -1,0 +1,44 @@
+{
+  "name": "Sisu",
+  "subtitle": "Visitatrice Audace",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Otto Paredes",
+  "deck_building_id": "fc67550a3eb2e05ff941e3dd9ba390ad5570186e",
+  "culture_invariant_id": 814,
+  "sort_number": 824,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Divinità",
+    "Drago"
+  ],
+  "flavor_text": "Andiamo — cosa mai potrebbe accadere?",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) SUPER PICCANTE! Quando giochi questo personaggio, esilia un personaggio avversario a tua scelta con 1 o inferiore.",
+  "card_identifier": "123/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=92b4b925e7324f1a839a41c3a3aecd8a75425036fbf50105054ab651d0ae04a4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c375138b7dae7b8e166c283eb9f852770819854faf13e34ee679d41573d888ba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=fcd40c1d923f4d86dc12abc64dbfd85f060d7a89f040f8afdc54f2296d277038",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

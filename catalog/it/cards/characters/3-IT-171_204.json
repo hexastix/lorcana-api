@@ -1,0 +1,41 @@
+{
+  "name": "Capo Tui",
+  "subtitle": "Fiero di Motunui",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Eri Welli",
+  "deck_building_id": "364538d9bd3ed90dfb4b14fdecd29b8bde39ce03",
+  "culture_invariant_id": 607,
+  "sort_number": 642,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "Guarda la nostra casa! Non c'è posto migliore in cui stare.",
+  "rules_text": "",
+  "card_identifier": "171/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=9f2111196d3046d98ca8643d248b246e018672f05f78ae0d79b9fb9a7b3bea12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=1a640bfb30d85a246976266ec7308c785d12bd3b83538b2f7999451b0a71dcca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d59a0bc637866f5e22c6fbddf25c12b491c5e83518ce4d3a9710c6c425bd3bfa",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

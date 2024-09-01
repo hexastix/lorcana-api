@@ -1,0 +1,45 @@
+{
+  "name": "Jafar",
+  "subtitle": "Ipnotizzatore Tirannico",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Cam Kendell",
+  "deck_building_id": "788ce5ab348a5417b600e7c2902097c8a264500b",
+  "culture_invariant_id": 1128,
+  "sort_number": 1136,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Nessuno mi impedirà di ottenere la corona spezzata!",
+  "rules_text": "Sfidante +7 (Mentre sta sfidando, questo personaggio riceve +7.) SGUARDO INTIMIDATORIO I personaggi avversari con costo 4 o inferiore non possono sfidare.",
+  "card_identifier": "172/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=24cd629d55d02cc836c55ffb7cd086827e4ba0287074d7cfd66b57d756494d35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=cb8cd2aeda98cbebe314e7cbad9c5c6e543304eaaad4af3c28e1ab5f0afcdd9e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a8ea427dac2b86e4d2067eb92aa5c5568173d0b96236a83a12109df4060e5b25",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=d71b1737d349e69139cca8a141f2ed26992ee5515b485ced75008910afa73ebc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

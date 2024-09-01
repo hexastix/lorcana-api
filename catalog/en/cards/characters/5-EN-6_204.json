@@ -1,0 +1,42 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Sugar Rush Champ",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "César Vergara / Eri Welli",
+  "deck_building_id": "5c501cc838064637679ec53d9329eafc4403cbe5",
+  "culture_invariant_id": 962,
+  "sort_number": 970,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "flavor_text": "Look, the code may say I’m a princess, but I know who I really am....",
+  "rules_text": "",
+  "card_identifier": "6/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=0ca8ef3a7df8923045486f4b0d10c828bf0e237a0a9582b6322b1fa44a845c44"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=4becd9085839892276d6750ead20990637bc07ff3ed50814e9ffa31841a976cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=1b2f4969f3533d34513a19435a96a02790a5cb2576d2c9dfc00a7bd0f38e1f47",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

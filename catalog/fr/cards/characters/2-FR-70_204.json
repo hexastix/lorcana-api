@@ -1,0 +1,41 @@
+{
+  "name": "La Bête",
+  "subtitle": "Implacable",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "1f998b8d166c57c497364060cda6ba1cc7a4a1bf",
+  "culture_invariant_id": 286,
+  "sort_number": 310,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "SECOND SOUFFLE Chaque fois que des dommages sont infligés à un personnage adverse, vous pouvez redresser ce personnage.",
+  "card_identifier": "70/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a71f205a000cc6a8bde532c8b2720e9430dfe6310c64f51ec989c35ab31de5c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=fb953c8dc3147db4b8619e48c54f7875a4217817531fd88b0278a9012e20005a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9597bfbbba2d4058d332ff6325fd864c3662ad78b1e5587ec2de39385498bba9",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

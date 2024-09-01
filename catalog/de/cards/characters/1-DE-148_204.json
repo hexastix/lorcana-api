@@ -1,0 +1,40 @@
+{
+  "name": "Jasmin",
+  "subtitle": "Verkleidet",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "cd31b0163fb61bbfa637936de6f1c4a2ac6d20d5",
+  "culture_invariant_id": 148,
+  "sort_number": 148,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Prinzessin"
+  ],
+  "flavor_text": "Versuch mich doch zu verstehen. Ich habe noch nie etwas alleine unternommen. Ich habe nicht mal richtige Freunde … Ich habe noch nicht mal den Palast von außen gesehen.",
+  "rules_text": "",
+  "card_identifier": "148/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=b4008744d95fb81a74f426f262ce6378348b329a2016831798e086a57cbd8a0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=72a8f3469df5b95fffbf9dc6e7cd3e334dfaa52f97ab23fe22ce4607b134b4f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=ff7f9ce6c581b63d4340d00e89a99810d60403b100057a821b50d6f290f6e35c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Rattenzahns Party",
+  "subtitle": "Zwielichtiges Hinterzimmer",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Rachel Elese",
+  "deck_building_id": "d7c49b894c3a37882bbb3d7e033724e8e84eb280",
+  "culture_invariant_id": 1172,
+  "sort_number": 1180,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FEIER DER MISSETÄTER Solange du mindestens einen beschädigten Charakter an diesem Ort hast, erhält dieser Ort +2.",
+  "card_identifier": "216/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=3a00b5250b6f0c17a0e605291e695a9bd9078514e79e4c2fd9e5d9d61abdbab1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=650dae7655f441682d7130d008dbb89efc943495c7871a05174f5bed77fd97bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=99049bd2341fb206ade547051b57e52d369919059942ece0e11c59e58b6d8a00",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

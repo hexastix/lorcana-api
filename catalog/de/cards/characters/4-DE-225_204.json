@@ -1,0 +1,46 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Verspielter Zauberer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "92ca31b3dd2f356cf1cd1d09a4c9d9744440282d",
+  "culture_invariant_id": 949,
+  "sort_number": 926,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Micky-Maus-Charaktere auszuspielen.) Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) WEGFEGEN Wenn du diesen Charakter ausspielst, zähle deine Besen im Spiel. Füge einem Charakter deiner Wahl dieselbe Anzahl Schaden zu.",
+  "card_identifier": "225/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/cfe21c6800c88f06d7d0683b1535821c75c954ad.jpg?checksum=45877c339423aea3931fa319e7c2feaa9ceb9e7e0c30bd1189e5ee3351b8479c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/cfe21c6800c88f06d7d0683b1535821c75c954ad.jpg?checksum=cd2cefa01674088be323347834ca03f0b8c1c47819a4b3a15e9af6c1fbbda429"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/cfe21c6800c88f06d7d0683b1535821c75c954ad.jpg?checksum=5e904015c6f569362c1a234404defe1730741c88251dda8638df72a53e0ab512",
+  "foil_type": "Silver",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

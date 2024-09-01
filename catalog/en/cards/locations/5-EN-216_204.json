@@ -1,0 +1,38 @@
+{
+  "name": "Ratigan's Party",
+  "subtitle": "Seedy Back Room",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Rachel Elese",
+  "deck_building_id": "d7c49b894c3a37882bbb3d7e033724e8e84eb280",
+  "culture_invariant_id": 1172,
+  "sort_number": 1180,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "MISFITS' REVELRY While you have a damaged character here, this location gets +2.",
+  "card_identifier": "216/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=2b8e2ef9b7c63edaa6886320a75531bd0dfeafc6b87cb5d79a93375b1cf5a306"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=cdcfff6ba05147e235dd0444cc39c69e6d3dbce5d3eb8376d914357d472bf76f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=fde8f9ee8c08040375cef4355810b02c9eeceaf4e74f3262d4b03a9a866ce664",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

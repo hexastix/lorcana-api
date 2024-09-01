@@ -1,0 +1,43 @@
+{
+  "name": "Snowanna Rainbeau",
+  "subtitle": "Coole Konkurrenz",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "62f8f59f90124ef9f0b9787ccf4611aaf361be9f",
+  "culture_invariant_id": 1066,
+  "sort_number": 1074,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Sie bekommt nie kalte Füße, wenn es ums Rennfahren geht.",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "110/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=32a505e892a8531adef9c3bfc91dd9952c39c965461a8c26812f4b50a4981fcb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=19dc4b699983b9b656f132e094ffee055cbf3df70fc95f9b9f45cc8d76baad9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4d4af6ffaea0cdac3df00339dd69b73f96de86e2ed97aa5a61ca3288331e78e4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

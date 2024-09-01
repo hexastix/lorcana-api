@@ -1,0 +1,43 @@
+{
+  "name": "Ariel",
+  "subtitle": "Guerriera Sonica",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "6a0d7fa630c6ddef725f555467e4c5b51515a664",
+  "culture_invariant_id": 866,
+  "sort_number": 876,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Ariel.) VOCE AMPLIFICATA Ogni volta che giochi una canzone, puoi pagare 2 per infliggere 3 danni a un personaggio a tua scelta.",
+  "card_identifier": "175/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=412f6e5a6382e754c5019e43438f66ae6647f77f0bf7bacdd6478c883d620bd5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=295593487c7e9c48719edc80a20d9862db545c368dce62fed77421e956ab64be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=9c435f4a94411e8d7b1ee775b69230240e74a692508141cfb2396e570f98af21",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

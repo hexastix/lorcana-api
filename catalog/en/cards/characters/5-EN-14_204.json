@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Family Gatherer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 5,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "f283e9f31fd0b57fa5892870d98a03793352b776",
+  "culture_invariant_id": 970,
+  "sort_number": 978,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Madrigal"
+  ],
+  "flavor_text": "There’s nothing we can’t accomplish together!",
+  "rules_text": "NOT WITHOUT MY FAMILY You can't play this character unless you have 5 or more characters in play.",
+  "card_identifier": "14/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=24e1359b4772f054935e53487e3944715d3e13140eb61e18a025f3fbb053e2de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=694496e24e2801cafd9575acefe781eb1a8e5b01680c120da428fa08d36e5c01"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=829e6990fb747e8760caa8d37e0597e1b00d1fc33fa22bf40956ba1d9902d5d5",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=e1df5815bbd98f6ba3169552b3748b5e31a955916c9e24c6daeea17194a411a1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

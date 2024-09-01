@@ -1,0 +1,42 @@
+{
+  "name": "Benja",
+  "subtitle": "Wächter des Drachenjuwels",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "91f61fcecd0f1ec5ba977e234746108beae719d3",
+  "culture_invariant_id": 390,
+  "sort_number": 414,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "Verwechsle Kühnheit nicht mit Können.",
+  "rules_text": "WIR HABEN EINE WAHL Wenn du diesen Charakter ausspielst, darfst du einen Gegenstand deiner Wahl verbannen.",
+  "card_identifier": "174/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=180104ae35dca1c130de52670f3e25f778f95287c40bcec00a71face4707d743"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=401f0bb050e40b558f5b69d66ea88103d5cab64b69e1b5e985f61b66c6b45c70"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=bcf4f15fe35d3bb23b53feabdc9d44e5a99f71d4ea024e3a6ad8e9ffdc3628d8",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

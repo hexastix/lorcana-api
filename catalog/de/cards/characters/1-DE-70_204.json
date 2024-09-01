@@ -1,0 +1,43 @@
+{
+  "name": "Biest",
+  "subtitle": "Schrecken der Wölfe",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Jeff Murchie",
+  "deck_building_id": "c38a63d780fe3152e8d4d8546f1d94155ad0cdd4",
+  "culture_invariant_id": 70,
+  "sort_number": 70,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich werde es mit euch allen aufnehmen, wenn es sein muss!",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)BRÜLLEN Wenn du diesen Charakter ausspielst, erschöpfe alle gegnerischen beschädigten Charaktere.",
+  "card_identifier": "70/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=39744f4885cb774bc961db56ae806c08791fccf204a1328cd3db46c33532cd28"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9daf8d5c908269f02084582d7d367f66732ee9e099d27ef792979973f4f36e09"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9bd7deb12e50d8a4d00b20f224e27c9174d80259f171af4f749700728fbd2a07",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

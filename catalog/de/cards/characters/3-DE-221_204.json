@@ -1,0 +1,43 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Champion von Sherwood",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Noukah",
+  "deck_building_id": "dae8c3a792a698cb6ccee25e5671d6b03e79414c",
+  "culture_invariant_id": 657,
+  "sort_number": 692,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Robin-Hood-Charaktere auszuspielen.) ERFAHRENER KÄMPFER Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, sammelst du 2 Legenden. DAS WOHL DER ANDEREN Wenn dieser Charakter durch eine Herausforderung verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "221/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=eb7439a99d13bfb6a240afda46f358be5949453ad5c96e4ba158ff615c0e7e97"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=7fe0e6bebbb114e4eba580566b880ca6988f32ee967fcab1a69d3ffd888c8986"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=968c389c0a62a061916dc00d6ac0b455b3b71545f1555d14a3600074708e86f4",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "MIROIR MAGIQUE",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "16d5c6f33f2646ad892f3449ed12b5f00a046833",
+  "culture_invariant_id": 66,
+  "sort_number": 66,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Que veux-tu voir, ma Reine?",
+  "rules_text": "PARLE! , 4 – Piochez une carte.",
+  "card_identifier": "66/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=8686e95d6f360ed005fddcb907c8e30ac5d599966b75bda1fd8024b7291fd45d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=ccfb387f2e9dcd6beb17888d33829d1b0db9d6267973107f2a86f77b90baae5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=5f07f6d4a26fce9dccbaf64a72350c6d7d2276fc46525d874d8f4b2b58e418fb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

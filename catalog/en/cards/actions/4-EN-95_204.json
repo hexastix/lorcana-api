@@ -1,0 +1,37 @@
+{
+  "name": "Under the Sea",
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Dylan Bonner",
+  "deck_building_id": "e81fec386fd1647801df51920cfaf2d60ad090b5",
+  "culture_invariant_id": 786,
+  "sort_number": 796,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sing Together"
+  ],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Such wonderful things surround you",
+  "rules_text": "Sing Together 8 (Any number of your or your teammates’ characters with total cost 8 or more may to sing this song for free.) Put all opposing characters with 2 or less on the bottom of their players’ decks in any order.",
+  "card_identifier": "95/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=77a857eb45fad9909f4e70e73b587e2cf6b057550c2da6f44f3f69179876d25b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=fd1d83375498abd47a598440210917e9659762d9f064a251d908f95298f02e38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=488d0c18a009c4f3586400ad46c5268d7ff82b1eac0593499455a8d53b542c9a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

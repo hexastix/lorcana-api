@@ -1,0 +1,32 @@
+{
+  "name": "Riposte",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Luigi Aimé",
+  "deck_building_id": "60d6f4c0d299fc1fdc5efcf6bf8074608258df3e",
+  "culture_invariant_id": 935,
+  "sort_number": 955,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque adversaire choisit un de ses personnages et le bannit.",
+  "card_identifier": "22/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=227b7d37b29bdc93c6f441a189881310b5b37dfc7e7cb92f6f7b967f67bcae0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=1957041c2b54e2d629ed1f35e048496931cd15a628ca40137c65947c37b5cb37"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

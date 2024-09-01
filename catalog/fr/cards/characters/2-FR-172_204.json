@@ -1,0 +1,41 @@
+{
+  "name": "La Bête",
+  "subtitle": "Prêt à se sacrifier",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "830ffeb31b5a7249acb3caaea8f3ca1a89ebbf0b",
+  "culture_invariant_id": 388,
+  "sort_number": 412,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Il faudra d'abord me passer sur le corps.",
+  "rules_text": "PROTÉGER LES AUTRES Si des dommages sont infligés à l'un de vos autres personnages, placez-les sur ce personnage à la place.",
+  "card_identifier": "172/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=0164b8f9813ca252a552309c3fb09263214afcb613a0d25e2dcfcbfa86158bf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=44e7a60c09508107e33f3ac792f10910ed96f6734c0f9710678379cb58b4148c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=0c1f0dfe0edd5a5f06cb572be3ab393942a3948a1439d854fb4f9ec94a2c2e97",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

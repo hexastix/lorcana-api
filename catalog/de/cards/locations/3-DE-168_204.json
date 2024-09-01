@@ -1,0 +1,42 @@
+{
+  "name": "Belles Zuhause",
+  "subtitle": "Maurices Werkstatt",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Alex Shin",
+  "deck_building_id": "4b02e8ae98da7815714d4cac86d24cb2bcc76501",
+  "culture_invariant_id": 604,
+  "sort_number": 639,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich zwei Charaktere an Belles Zuhause - Maurices Werkstatt habe, zahle ich dann 2 Tinte weniger für das Ausspielen von Gegenständen?\r\nA: Nein, zahlst du nicht. Egal wie viele Charaktere sich an Belles Zuhause befinden, du zahlst immer nur 1 Tinte weniger für das Ausspielen deiner Gegenstände. Wenn du zwei verschiedene Kopien von Belles Zuhause im Spiel hast und sich an jedem dieser Orte mindestens ein Charakter befindet, dann zahlst du 2 Tinte weniger für das Ausspielen von Gegenständen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Einige der wichtigsten Werkzeuge in Lorcana werden hier hergestellt.",
+  "rules_text": "LABORATORIUM Wenn du mindestens einen Charakter an diesem Ort hast, zahlst du 1 weniger, um Gegenstände auszuspielen.",
+  "card_identifier": "168/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=be2e02bbc3df7f7722d24bc621fb141052395eb70cb3c657af4c0ab89c53d9af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=b8c5f475c5566718a9b2bb5622249a2c29b06288d795c01d928465fcf12297c9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=da1e8cbbc24b80d32e07910f6a825499d8037fe4d8affeeebe70aa184733abb3",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

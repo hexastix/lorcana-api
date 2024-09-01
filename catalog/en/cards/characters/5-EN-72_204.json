@@ -1,0 +1,42 @@
+{
+  "name": "Zazu",
+  "subtitle": "Advisor to Mufasa",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "1c49ac7ff34fcbbbd4e8e2c2cc50bc858e2cb391",
+  "culture_invariant_id": 1028,
+  "sort_number": 1036,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Oh, I guess one quick spin through the lights won't hurt.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "72/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=703bc4acc563f25b4049d00151b217300f489b8fd81280e609db0c23bb1abe72"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=847a6032871fe3173d9f35d6601894151d18dbac9b614e48ff3f25737f2d9deb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=2160540a624b56ae64612a746bf1e42d149f4bfe29bab787a04ff0b7b3a69499",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

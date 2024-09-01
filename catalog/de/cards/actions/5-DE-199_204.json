@@ -1,0 +1,33 @@
+{
+  "name": "Essensschlacht!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f85cdc600cc088e804abb8ad835dbe403eb00bdf",
+  "culture_invariant_id": 1155,
+  "sort_number": 1163,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ahijak, wer bestellt denn einen... auf den Kopf gedrehten KU-UCHE-EN?",
+  "rules_text": "Deine Charaktere erhalten in diesem Zug: „, 1 — Füge einem Charakter deiner Wahl 1 Schaden zu.“",
+  "card_identifier": "199/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=b02f4f6fc2b21e9b1e9823335520a17b717eb1c6c6e399bdc68152194e7cce41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=20c351248595b4529371958a41f4c3ef4c460e26e395d565e2291072b754b15a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=cf998d615cfb791311c0f31fd842cb8228e1dcbe782e366cc59cd2689bf9ef51",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

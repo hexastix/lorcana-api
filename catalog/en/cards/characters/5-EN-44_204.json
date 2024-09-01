@@ -1,0 +1,41 @@
+{
+  "name": "Madam Mim",
+  "subtitle": "Elephant",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3be540ae6b1e1b0bbf8aa74167e10c34c7f76a20",
+  "culture_invariant_id": 1000,
+  "sort_number": 1008,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "A LITTLE GAME When you play this character, banish her or return another chosen character of yours to your hand. SNEAKY MOVE At the start of your turn, you may move up to 2 damage counters from this character to chosen opposing character.",
+  "card_identifier": "44/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=eb987a660629a42f424f97647848b5137e67e0b4b13dbe43003b42a00fa9b4f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=d086f9dfe167d18da72a38845877dd7bc22e60d25f23c6c24aae4dbcf1c79edd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=7c0fba6bc1df6eee80a843f2f4eae19a87218e210bc535fa72c20082b9e7757a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

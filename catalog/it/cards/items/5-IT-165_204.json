@@ -1,0 +1,33 @@
+{
+  "name": "Medaglia degli Eroi",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Toni Bruno",
+  "deck_building_id": "286a732f67c5d41fdf485c1310e810e1f5b650f5",
+  "culture_invariant_id": 1121,
+  "sort_number": 1129,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Il tuo coraggio, scolpito nel marmo della virtù, sarà un esempio per generazioni.%—Generale Ologramma",
+  "rules_text": "CONGRATULAZIONI, SOLDATO , 2 , esilia questo oggetto — Un tuo personaggio a tua scelta riceve +2 per questo turno.",
+  "card_identifier": "165/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=1a3e49e3d2b45cbe2769c63da6594afa10df2777d82351f0107219eea768e73d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=7f3deac6ace2b096592d1952a5191cb0e9e4b99feabb6f16cad133af4652f0cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=5e26c8640203558f637c15f29e2ef7d99222e9546194c2ea11046a5cf42138dc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

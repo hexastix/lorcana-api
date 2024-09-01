@@ -1,0 +1,40 @@
+{
+  "name": "Zazu",
+  "subtitle": "Verwaltet das Geweihte Land",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ron Baird",
+  "deck_building_id": "a032ed20032f8c710c904a4c2acaa648433e35c1",
+  "culture_invariant_id": 529,
+  "sort_number": 564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ich würde lügen, wenn ich behaupten würde, dass ich hier das Sagen habe, aber trotzdem heißt das Geweihte Land euch willkommen!",
+  "rules_text": "ES IST ZEIT ZU GEHEN! Solange dieser Charakter an einem Ort ist, erhält er +1.",
+  "card_identifier": "93/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=7b1d9ac39d87ef87347691efc2c0268be59b583c10a330d6ced74c0039b644fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=6743ffc937f7cea91cfdd4e01116d01563a1b55e86479def52db304b5a4936cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=7456c8f587d6ba1e1a4af31147993110433e21a418b159b6928702b56242b6f4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

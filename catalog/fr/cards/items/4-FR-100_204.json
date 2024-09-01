@@ -1,0 +1,33 @@
+{
+  "name": "Plaque de vision",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jonas Petrauskas",
+  "deck_building_id": "e6d57ae690cdbb13b3985f7a1f47b40c2fd61080",
+  "culture_invariant_id": 791,
+  "sort_number": 801,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Bruno! Qu'est-ce qui lui arrive? Il faut l'aider!%—Mirabel",
+  "rules_text": "DANGER RÉVÉLÉ Au début de votre tour, si un personnage adverse a au moins un jeton Dommage, gagnez 1 éclat de Lore. PIÉGÉ! Aucun jeton Dommage ne peut être retiré.",
+  "card_identifier": "100/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f929315d1753dc828f81bd48945ccd84aea94aca1f5502a30b37dae950c0e733"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=42648477feee010ec8b1eec6807fd67f658de61a3958876abf85e7b6b80864b7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b7eee5f6b64bda794fddb7072c04c5dea277a69c1b622e9cc05bd19590fdd071",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Héritière d'Agrabah",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "R. la Barbera / L. Giammichele",
+  "deck_building_id": "e9c6176500a03f40326172c37792d499cd93be4a",
+  "culture_invariant_id": 367,
+  "sort_number": 391,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Elle est peut-être jeune, mais elle a l'âme d'une véritable cheffe.",
+  "rules_text": "J'APPRENDS VITE Lorsque vous jouez ce personnage, choisissez l'un de vos personnages et retirez-lui 1 jeton Dommage.",
+  "card_identifier": "151/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=977fe92a0f92badd52b7d7441dd112ff8b499ad1025fca77d815a2fdf8830e17"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=206a09671e075b22b13836c5adbe0187bd3dfbb6c4cf23ba34878d472cdbbf7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=4cdf7b65aadadeaf665b7d1c6b7bbfc83ed268050a9e90601ff006aa5b7c2b62",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

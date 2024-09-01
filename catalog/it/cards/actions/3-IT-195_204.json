@@ -1,0 +1,35 @@
+{
+  "name": "Ma Un Giorno Zeus Tornò",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "70a43800d36d83e54f6abc028f75b80ac11dbe91",
+  "culture_invariant_id": 631,
+  "sort_number": 666,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Con i suoi fulmini — Bruciò%Sotto terra li spedì — Così%Tutto tornò tranquillo, come mai!",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per giocare questa canzone gratis.) Infliggi 5 danni a un personaggio o un luogo a tua scelta.",
+  "card_identifier": "195/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=fcf430dc77e678e498d762d0a13dcca2e996245c3ca3e7eb2fc6ee7cea7e243f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=189b26da69349d3562edbfa3942a99f7c6a82463760a27964ae063098a8a8c1d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=1273401d022ca1c9b82a72dec0600f1d939b975c9dbbdb7ffbd7674ab0be5bf6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

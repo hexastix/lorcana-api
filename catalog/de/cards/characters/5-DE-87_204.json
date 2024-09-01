@@ -1,0 +1,41 @@
+{
+  "name": "Banzai",
+  "subtitle": "Verhöhnende Hyäne",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "99fe726d4ae141e3026532d3a15a14a8de9b72c6",
+  "culture_invariant_id": 1043,
+  "sort_number": 1051,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Hyäne"
+  ],
+  "flavor_text": "Was haben wir hier, eines kleine Snack-Paket?",
+  "rules_text": "MIEZ, MIEZ, MIEZ Wenn du diesen Charakter ausspielst, darfst du einen beschädigten Charakter deiner Wahl erschöpfen.",
+  "card_identifier": "87/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=aa06187c4e11ea6e37d39a189488ed4fc290d26c3c28e035b0f4485716fe9359"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=937107591dfc7ce57dc212bd6a18a7ceeee53c6641c5adc29f5643c90be1310b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=5c71affb057746dc29332fed53ff278001b69a812318c546e304a40501f2245d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

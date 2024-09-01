@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Seehexe",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "John Loren",
+  "deck_building_id": "4521d899a2717c3b4cb0b936f066e13e266d14cb",
+  "culture_invariant_id": 495,
+  "sort_number": 530,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich die Fähigkeit „Zu spät!“ von Ursula - Seehexe benutze, kann ich einen Charakter auswählen, der bereit ist?\r\nA: Ja, kannst du. Bedenke nur, dass Ursulas „Zu spät!“-Fähigkeit das Ziel nicht erschöpft, sondern nur daran hindert, zu Beginn seines nächsten Zuges bereit zu werden, falls es bereits erschöpft ist.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Der geheime Vertrag ist bereits aufgesetzt worden.",
+  "rules_text": "ZU SPÄT! Jedes Mal, wenn dieser Charakter erkundet, wähle einen gegnerischen Charakter. Er wird zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "59/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=736efebba9019e60e3642d33e133479ed21352c7898e37547c1544eeb92689d5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=882a2f31877620b41d2840d507e9b02591efa4372d4dc0186c1bdeb7b5b037ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=ff0510c4ee359487221a9426f642dd1e4f457a5922888b1c091d08da575962b4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

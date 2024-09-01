@@ -1,0 +1,45 @@
+{
+  "name": "Lucky",
+  "subtitle": "The 15th Puppy",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "14af32285e4e637e9c48c8e3b7aad9d9d7fc3cc9",
+  "culture_invariant_id": 444,
+  "sort_number": 479,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I use Lucky – The 15th Puppy’s ability Good As New and reveal 2 characters with cost 2 or less. Can I choose to add only 1 of the characters to my hand?\r\nA: No. When choosing which cards to add to your hand with Lucky’s Good As New ability, you must add either all cost 2 or lower characters revealed or none of them.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "",
+  "rules_text": "GOOD AS NEW — Reveal the top 3 cards of your deck. You may put each character card with cost 2 or less into your hand. Put the rest on the bottom of your deck in any order. PUPPY LOVE Whenever this character quests, if you have 4 or more other characters in play, your other characters get +1 this turn.",
+  "card_identifier": "8/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=48115bf03e6bc17611685dbea3f16d4f36ccb3a742d7be78b3208525ff3b7f13"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=38f0a1130b5f4931f72722e0c842f8d71eae2e3c1314891dc7cbd410d3c0330f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=37cadf9447b5cc816009c10cf13fc019e7dfda6024fe1c7add2b583cf9942234",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

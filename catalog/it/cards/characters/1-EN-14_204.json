@@ -1,0 +1,46 @@
+{
+  "name": "Moana",
+  "subtitle": "Of Motunui",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "0253f6c8757d9698e3b28f4f973b3ccc6d5bd4ae",
+  "culture_invariant_id": 14,
+  "sort_number": 14,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "If Moana – Of Motunui quests, can I choose which princesses I ready? If I had Princesses already readied or I ready them with other effects later in the turn, can they quest that turn?\r\n\r\nA: If you choose to use Moana’s We Can Fix It ability to ready your other Princess characters, you must ready all of them. If you quest with Moana – Of Motunui, no other Princesses can quest for the rest of your turn, regardless of whether you chose to ready them with her ability or they are readied later in the turn.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "I am Moana of Motunui. You will board my boat, sail across the sea, and restore the heart of Te Fiti.",
+  "rules_text": "WE CAN FIX IT Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn.",
+  "card_identifier": "14/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cee5972d2284780f93c3d3d25c93b442f434f2ae607b2d0c754a603828f95e54"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=ed07d321b9aeb8ce547a4e39663987a3ff6c10a7ae89f2da7bc9fa3b0bed7909"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d7dc133e53a5048d41463e4f628c1d379c017bd2ba5dafda424c1b9eab3eb1e7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

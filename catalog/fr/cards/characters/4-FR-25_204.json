@@ -1,0 +1,43 @@
+{
+  "name": "Ursula",
+  "subtitle": "Vanessa",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Angela Simpson",
+  "deck_building_id": "4e8aaca4272863b70bf21a78240c97ccad2e3ce5",
+  "culture_invariant_id": 716,
+  "sort_number": 726,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Cette magie va lui faire son sort.",
+  "rules_text": "Mélomane 4 (Ce personnage est considéré comme ayant un coût de 4 pour chanter des chansons.)",
+  "card_identifier": "25/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=958f700af64ad1dd8e47d452c3a12bd536c6a9c3db8095ca6af043493e8df55f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=ea5fab92470c68bde9341de1e0782a7c8e490f6686b1d02d611fec941748ea36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=1a2ad0b1485811214c4c8ddce5f24640f1c9321e68b77e0552716987264b12c7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

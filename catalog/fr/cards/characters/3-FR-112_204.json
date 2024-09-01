@@ -1,0 +1,40 @@
+{
+  "name": "Madame Médusa",
+  "subtitle": "La patronne",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Jackie Droujko",
+  "deck_building_id": "979f3dc046126dfc16cd552ce9c772ada607ad11",
+  "culture_invariant_id": 548,
+  "sort_number": 583,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Trouver des éclats de Lore sera aussi facile que de voler une sucette à un bébé.",
+  "rules_text": "JE VOUS PULVÉRISE Lorsque vous jouez ce personnage, choisissez un personnage adverse avec 3 ou moins et bannissez-le.",
+  "card_identifier": "112/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=473e35cdb38efa4b1675920df69e89302a78ed87be61221cbaa8c55a22244182"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=a2d1ab79dde4495a8b0dcdcaf93fbeaa36a5c9cc7f60b80c3fa8fef0adb6b8f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=2f5d4855228197d5510c147c7a8931427bff0ef34e8a310463e47fe7af21546b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

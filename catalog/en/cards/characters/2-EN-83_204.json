@@ -1,0 +1,40 @@
+{
+  "name": "Gaston",
+  "subtitle": "Scheming Suitor",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "fa46cb5d8c91e28cee54f0e6fc320dba20035c8e",
+  "culture_invariant_id": 299,
+  "sort_number": 323,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Don't I deserve the best?",
+  "rules_text": "YES, I'M INTIMIDATING While one or more opponents have no cards in their hands, this character gets +3.",
+  "card_identifier": "83/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=cdc2c65461858ab290b9664a066825023d5197a25b364ed0aeb53c841e9155c3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=ad877a8fdd60fdaee2edda958ea2fbee01604156dfa1367b20341641e748710c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=16df11db649874d2d0834c9c3dd4821f7d4227cc361d8dca7b2a4209dd4075e2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

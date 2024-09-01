@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Regina Diplomatica",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Dylan Bonner / Celeste Jamneck",
+  "deck_building_id": "ccc44e0dfdc4c493db2af13ca258445a6e8d8e7b",
+  "culture_invariant_id": 1041,
+  "sort_number": 1049,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Regina"
+  ],
+  "flavor_text": "",
+  "rules_text": "DECISIONE REALE Quando giochi questo personaggio, puoi pagare 2 per scegliere uno: • Ogni avversario sceglie e scarta una carta. • Un personaggio a tua scelta riceve +2 per questo turno. • Esilia un personaggio danneggiato a tua scelta.",
+  "card_identifier": "85/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=fa4a747b2f3a90429269002bbac50b5b937c6f8c2bed40455c96879c8b5292e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=a607c3735b47c4c9397e3905ae4582a1c46a29a6f0a231b996b920157e2fac89"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=3f46605d83d59b41d2b2737a38b20dca2ed18c4b7083f8c284bcc8db5531bdc4",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9ada7a964599e084fbd34d5c52ae8bcdd51e438906e6fccdfac963b9adc831bb",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

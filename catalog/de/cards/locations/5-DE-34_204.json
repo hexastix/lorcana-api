@@ -1,0 +1,37 @@
+{
+  "name": "Das Geweihte Land",
+  "subtitle": "Dschungeloase",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Matthew Oates",
+  "deck_building_id": "154540891abf203a5959b722088b9cd9d1ee9109",
+  "culture_invariant_id": 990,
+  "sort_number": 998,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UNSER BESCHEIDENES ZUHAUSE Solange du mindestens 3 Charaktere an diesem Ort hast, darfst du diesen Ort verbannen, um einen Charakter von deinem Ablagestapel kostenlos auszuspielen.",
+  "card_identifier": "34/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=ee9951c5da6636c52b3d379c6fb55430dd1fe8aaf63b18b8cb6f6c4bae053fa6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=82ebe5fc3ce874ee37f04ad6353f42fab1043ec003c6e8bab0745b6d92745177"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=fb9e50a37462c418b42ab242911087e8c993115b5b6a02f7c61dd1f53ddc6b8a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

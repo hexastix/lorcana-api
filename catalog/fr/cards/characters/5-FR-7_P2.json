@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Rassembleuse de la Famille",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 5,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "f283e9f31fd0b57fa5892870d98a03793352b776",
+  "culture_invariant_id": 1186,
+  "sort_number": 1194,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Madrigal"
+  ],
+  "flavor_text": "Il n'y a rien que nous ne puissions accomplir, ensemble  !",
+  "rules_text": "PAS SANS MA FAMILLE Vous ne pouvez pas jouer ce personnage à moins d'avoir 5 personnages ou plus en jeu.",
+  "card_identifier": "7/P2 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=aa18bc3fc35b74b24b98ee0c273bf1a12fd88afc5e676c7337fb5d4d4cc41f34"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=14765a4012edc033b55251c7278ad5fdf018532efd19a6fc27e32d206a0ee832"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2ef92a434447c1b6ed85b31f93734dd743982c70b8ed5a72abf9970fb480db22",
+  "special_rarity_id": 1,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

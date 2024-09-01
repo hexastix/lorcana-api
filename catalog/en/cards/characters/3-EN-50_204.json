@@ -1,0 +1,42 @@
+{
+  "name": "Magica De Spell",
+  "subtitle": "Thieving Sorceress",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Giulia Riva",
+  "deck_building_id": "548a3234386f1848a7a2d2fca62a36ddd990a294",
+  "culture_invariant_id": 486,
+  "sort_number": 521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "Do you know what I call this? A good start!",
+  "rules_text": "TELEKINESIS — Return chosen item with cost equal to or less than this character's to its player's hand.",
+  "card_identifier": "50/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=342f22101a7330eb471b20c6d28a1f24386a5f96e2b9e4f10f9b74985a4e530d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=eba05a99aec8e3a1278125c65f6ef3417fb70266286df89195e22d513f03f9a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=18232aa05215ccfcb278add7a76f30fb32e61d5317f2e5f0071d6ca05c034628",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

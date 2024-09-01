@@ -1,0 +1,41 @@
+{
+  "name": "Pat",
+  "subtitle": "Sale type",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "8b2e154aa83c63bb57795fcfc6fafc0507afe3f7",
+  "culture_invariant_id": 777,
+  "sort_number": 787,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mousquetaire"
+  ],
+  "flavor_text": "Minnie: C'est un crime de lèse-majesté !%Pat: Non, c'est seulement mon plan diabolique pour accéder enfin au trône.",
+  "rules_text": "",
+  "card_identifier": "86/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c6b7f8a9c76f2fe59dbf734939a194f35e6d9301090bc0ef770ee1f210566db3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=27e179f2e232b139c4f2366af50cd6a9a1046e28f284c317985fcf4f64bb7bc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=49cb21b07649c697313eaf0dba93acc89cf75cbf71543ef264c2aef42db122fd",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

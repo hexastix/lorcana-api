@@ -1,0 +1,42 @@
+{
+  "name": "The Queen's Castle",
+  "subtitle": "Mirror Chamber",
+  "willpower": 7,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Matthew Oates",
+  "deck_building_id": "9ab00d3ccf3aa6a5a6653a6a70340dd4cfdf1666",
+  "culture_invariant_id": 503,
+  "sort_number": 538,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: When naming a card for the Incredible Energy ability of The Sorcerer's Hat, what information do I need to say about the card?\r\nA: When naming a card for the Incredible Energy ability of The Sorcerer’s Hat, you don’t need to declare the version name, even if the named card is a character or location.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Those who visit the mirror can choose their question—but not the answer.",
+  "rules_text": "USING THE MIRROR At the start of your turn, for each character you have here, you may draw a card.",
+  "card_identifier": "67/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=66e126d872841b8ef6aa9326819209a13432cfb9ec30e7b11078fcf52b72cf37"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=5f0b5350e5e7e650195d4ac416e1b1317e54d62753cee8b1fecc21acf78e57fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=8a99d064f55e2a906a1c81e00725b8177086d1cef78c41ba8fecc6b69ac1b005",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

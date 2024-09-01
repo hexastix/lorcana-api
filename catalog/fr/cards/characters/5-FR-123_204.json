@@ -1,0 +1,43 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Trouble-fête",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "aaff3438b44616c9f93796643e4f12b9bdd8d044",
+  "culture_invariant_id": 1079,
+  "sort_number": 1087,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Ratigan.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) DÉLICIEUSEMENT VILAIN Vos personnages ayant au moins un dommage sur eux gagnent +2.",
+  "card_identifier": "123/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=424e6e9c3ed87c356bef0dffd558a801361bcfdf54740105f774bed520af0d81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=102361e3e0454ff84414575a18c26525bdf0ea066f771c3215abf1fc51751434"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=34fe52895cf34fb902abbe1d19e9a1afd0c7723378913ff5fb2baa565a25527b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

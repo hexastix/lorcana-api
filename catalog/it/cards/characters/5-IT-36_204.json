@@ -1,0 +1,40 @@
+{
+  "name": "Il Nokk",
+  "subtitle": "Spirito Mitico",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Randy Bishop",
+  "deck_building_id": "7bad7251f3367547d9b0c27a5401a24cf5853ffc",
+  "culture_invariant_id": 992,
+  "sort_number": 1000,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "INVERTIRE LA MAREA Quando giochi questo personaggio, puoi spostare fino a 2 segnalini danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "36/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=ce00b4914a68d6e4d1e36246dd550d12aa8fee3b527dc20ac56667047f1517f9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e9b8e6ab100e952702c7a8ef4da8b0b15066106cbbb07b51a061fecb7158a49a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=ed26f8e8ab7ea12f90fcfc812abf0fa3bac56978e0c93e15860b3998327b1ae9",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Puoi Volar!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Eva Widermann",
+  "deck_building_id": "58776f4069675bc00ffc50d5d4cc8aaf7b95b0fc",
+  "culture_invariant_id": 349,
+  "sort_number": 373,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per cantare questa canzone gratis.) Un personaggio a tua scelta ottiene Sfuggente fino all'inizio del tuo prossimo turno. (Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "133/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=5dfa90e4767e6668185244d790c9109bf3dc932b0518c79aa70fc6509922500c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=0ab406a8360d5cc35e287d16400039108884a1d0f6cf33d695996568e5747faa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=b5cb11065721d057be1725cdced4fbecc755a961345d178927fda97bae0805b4",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

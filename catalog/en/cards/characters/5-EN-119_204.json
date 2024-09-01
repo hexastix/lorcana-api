@@ -1,0 +1,42 @@
+{
+  "name": "Gaston",
+  "subtitle": "Pure Paragon",
+  "strength": 10,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Dave Alvarez / Livio Cacciatore",
+  "deck_building_id": "7eba1c3fb054cfff5aef1939f5af90cdc29a1977",
+  "culture_invariant_id": 1075,
+  "sort_number": 1083,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "A MAN AMONG MEN! For each damaged character you have in play, you pay 2 less to play this character. Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "119/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=78161fd008c9a9a8e00603942d9ed6881ed9adbb9d5f244fc7f1a6eb10650257"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=ed379075693c20fc83f04a179178261e5a3e902fe1341f3105089c1a2994ab77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=6d92d2ed6eaa88e68029fc535a7dda93b9d11349bee09bd28d87d57a9869329b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

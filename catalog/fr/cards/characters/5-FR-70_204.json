@@ -1,0 +1,43 @@
+{
+  "name": "Shenzi",
+  "subtitle": "Complice de Scar",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Julien Vandois",
+  "deck_building_id": "d76d53b25e89ba4480b569e40a9053d73d50bb2f",
+  "culture_invariant_id": 1026,
+  "sort_number": 1034,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Hyène"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) UN CASSE-CROÛTE FACILE Tant que ce personnage défie un personnage ayant au moins un dommage sur lui, il gagne +2.",
+  "card_identifier": "70/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a7e68acfbffd6f06c3f83dde54a04dd59411132348c8ad2b00a995121f2757e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=bcd17661d2418fabd74a69363e91811f7e87ccd819f34ff7c7d817ef880f6600"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=2fe909a6c128781c7a8dbf478f6146f02e503bae3f21de8e615b19da0f54ff13",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

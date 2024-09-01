@@ -1,0 +1,35 @@
+{
+  "name": "Che Ricchezze",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Matt Gaser",
+  "deck_building_id": "135aa9bfe3b17939d13110d36bbbf5603ca9d681",
+  "culture_invariant_id": 856,
+  "sort_number": 866,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Chi mai al mondo ne ha quanto me?",
+  "rules_text": "(Un personaggio con costo 6 o superiore può per cantare questa canzone gratis.) Riprendi in mano fino a 2 carte oggetto dai tuoi scarti.",
+  "card_identifier": "165/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=1b45b2439171bfce840e68eb39eda99066880998b6e9227b395c1b6a626c2998"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=2da88db310ba1b6227fd45a855e045afa80ea916ca6d844fefee4160843f520d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=ba6dbb10c179e392f90a6837ccf37f92795a3f4c4dda850b45f568fa5dce6774",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

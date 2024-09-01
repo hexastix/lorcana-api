@@ -1,0 +1,40 @@
+{
+  "name": "Pico",
+  "subtitle": "Utile Tucano",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hadjie Joos",
+  "deck_building_id": "27be5df4d628d5a4e6cf0eb59be64a452c0bb9cc",
+  "culture_invariant_id": 746,
+  "sort_number": 756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Vide un misterioso bagliore nelle montagne lì vicino. Era forse il pezzo mancante della profezia?",
+  "rules_text": "",
+  "card_identifier": "55/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=452d4c9e73eace0be99d5a9dec77deb5afd8111ddfe33664ff3de91cf2fd590b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=07d2e7da5a285c54d6aa61d10ecdf84f4cef1220fe9e44a6af842014aba285fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=0e7ad983fe645c8b31d60900e70ed352d4e92a59e56e498f8a383090b006a04c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

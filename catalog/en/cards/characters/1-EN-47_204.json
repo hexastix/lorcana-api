@@ -1,0 +1,46 @@
+{
+  "name": "Magic Broom",
+  "subtitle": "Bucket Brigade",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Dav Augereau / Giulia Riva",
+  "deck_building_id": "bc8813175a24333e18cacec3c84b7c1084c21790",
+  "culture_invariant_id": 47,
+  "sort_number": 47,
+  "additional_info": [
+    {
+      "title": "FAQ - Costs",
+      "body": "Q: If I have 2 copies of Mickey Mouse – Wayward Sorcerer in play, will my Magic Broom – Bucket Brigade cost 1 {I} less or 2 {I} less?\r\n\r\nA: Your Magic Broom will cost 2 {I} less, 1 {I} for each copy of Mickey Mouse – Wayward Sorcerer."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "flavor_text": "In the immense story-forge known as the Great Illuminary, there is always work to be done.",
+  "rules_text": "SWEEP When you play this character, you may shuffle a card from any discard into its player's deck.",
+  "card_identifier": "47/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=2b79c9e48e699d9a9d937953a160877f37741e702fac2ab7f4d27ed49eb21ba5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=65a563a10c374ed8615a9ab51031134e6e4a1bcc636f52e789cf6e8212e5de5a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=d8d7b4805d08ed8a2fbbadb65ea164d9b907d141e5f00951bb365eb616ab6c7a",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

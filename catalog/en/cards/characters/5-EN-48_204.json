@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "The Fifth Spirit",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "3219378181dc565b5d4b7488cccbc75d171bb04f",
+  "culture_invariant_id": 1004,
+  "sort_number": 1012,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Rush"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rush (This character can challenge the turn they're played.) Evasive (Only characters with Evasive can challenge this character.) CRYSTALLIZE When you play this character, exert chosen opposing character.",
+  "card_identifier": "48/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=1f74e779004f58ec14ead8986d5eb6262c3a83d060d9a8d7c825ef3550f5ba41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=037098625feec6f22e26fea43e5da9ed3ddd395da193fcbf85cd5f901636b4aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=02d4ff86e0fdc805fd218f5d7abdbfd9953339dadd934a07ab923785a6cc6e20",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

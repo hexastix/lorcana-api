@@ -1,0 +1,45 @@
+{
+  "name": "Arthur",
+  "subtitle": "Siegreicher König",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Anna Stosik",
+  "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
+  "culture_invariant_id": 1150,
+  "sort_number": 1158,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Arthur-Charaktere auszuspielen.) VOM KÖNIG ZUM RITTER GESCHLAGEN Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Herausfordern +2, Robust +2 und kann in diesem Zug bereite Charaktere herausfordern. (Während der Charakter herausfordert, erhält er +2. Reduziere jeglichen Schaden, der ihm zugefügt wird, um 2.)",
+  "card_identifier": "194/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=9eac6a38c8daf6837808a4e4bb5a1666264eeed9d82353171b64783652ae5ad1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3d4bcf5dbff7695748dc1d547294ca72d1d810fad0e31706cbec493c638eba47"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1289129f73528aef89b3d17c2be2a79e1a4d4ce66d510bb3419d56f7ec85b2c6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

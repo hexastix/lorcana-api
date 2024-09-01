@@ -1,0 +1,40 @@
+{
+  "name": "N'ÉCOUTE QUE MOI",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "9b13536dce3331ad25596984ff3b7f2f4a66b1f4",
+  "culture_invariant_id": 95,
+  "sort_number": 95,
+  "additional_info": [
+    {
+      "title": "Errata",
+      "body": "Il y a un errata pour la carte \"N'ÉCOUTE QUE MOI\".\r\nAprès un examen approfondi, nous avons déterminé que le texte de la carte est incorrect. La version corrigée de la carte sera désormais jouée avec le texte suivant : \"Choisissez et renvoyez un personnage en jeu dans la main de son propriétaire.\". Nous nous excusons pour ce désagrément et demandons à chacun d'utiliser la version mise à jour de la carte afin de garantir un jeu fluide.\r\n\r\nAncien texte :\r\nRenvoyez une carte personnage de sa défausse dans la main de son propriétaire.\r\n\r\nNouveau texte :\r\nChoisissez et renvoyez un personnage en jeu dans la main de son propriétaire."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "De toutes les manières, partout le mal guette sur Terre.",
+  "rules_text": "(Vous pouvez une carte personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Choisissez et renvoyez un personnage en jeu dans la main de son propriétaire.",
+  "card_identifier": "95/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=2caecd2665bda0395c6ad840dac79ba1dc89e6b32abc78bff4df5bca3b72d300"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=75c3b883880f968b60a977979ee7a4f1360ad93a6bc1cb0d0a4be19d9928bf29"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=95b6101858e5d83a48f10681afca7be623b22479fde9b7ce1a11bc6008152e18",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

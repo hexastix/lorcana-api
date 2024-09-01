@@ -1,0 +1,44 @@
+{
+  "name": "Kristoff",
+  "subtitle": "Reindeer Keeper",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e249ebb7a0862363fa2c8ea6e2d6b7a453b278a5",
+  "culture_invariant_id": 1181,
+  "sort_number": 1189,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "SONG OF THE HERD For each song card in your discard, you pay 1 less to play this character. Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "2/P2 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5f7908e359d1b7afdf3a44cf0328dea16f8acc7d6f1388792dda313401104bf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=4001782448e447d23e3bd6d7fc50ffee1f10989d27229240c7d214b2ca9fea7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/2/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=1eda94c821e7570b33b0b41fbc9c7debee8bf76ba7755c33b0781893d7b87863",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

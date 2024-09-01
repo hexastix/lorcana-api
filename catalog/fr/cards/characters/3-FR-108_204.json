@@ -1,0 +1,44 @@
+{
+  "name": "L'Hydre",
+  "subtitle": "Serpent mortel",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jochem van Gool",
+  "deck_building_id": "d268c6eeb569494fa6c7d349a73b63ef781128e1",
+  "culture_invariant_id": 544,
+  "sort_number": 579,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si je donne Résistance +1 à L’Hydre – Serpent mortel grâce à la capacité de Armure de souris et que je l’utilise pour défier un personnage avec 1 de Force tel que Minnie – Toujours élégante, est-ce que la capacité “Attention aux dents” de L’hydre se déclenche ?\r\nR : Non, vous ne pouvez pas la déclencher. Au moment où Minnie – Toujours élégante inflige 1 dommage à L’Hydre – Serpent mortel, ce dommage est réduit de 1 par l’effet de la Résistance avant qu’aucun dommage ne soit infligé à L’Hydre, et par conséquent, elle n’infligera aucun dommage en retour.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Plusieurs têtes valent mieux qu'une.",
+  "rules_text": "ATTENTION AUX DENTS Chaque fois que ce personnage subit des dommages, choisissez un personnage adverse et infligez-lui le même nombre de dommages.",
+  "card_identifier": "108/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=76a3f68345947dc824df57e8e541c9c49adc9978b11357d1c5ea676155124998"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=9ff183e43db9c89965023cc90e7e62990dffa6e80e32353ab8e0acac661d4c81"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=eb3a1953b71b5d7fe68e140519dd649910953ba19f8bf5a70c77c5aa031d9a03",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

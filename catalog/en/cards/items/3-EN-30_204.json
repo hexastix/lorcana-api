@@ -1,0 +1,33 @@
+{
+  "name": "Heart of Atlantis",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Elliot Baum / Viv Tanner",
+  "deck_building_id": "81b7a4a7ddb1986db77cd54d3e3e40d0154f0a29",
+  "culture_invariant_id": 466,
+  "sort_number": 501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It’s what's keeping you—all of Atlantis—alive! —Milo Thatch",
+  "rules_text": "LIFE GIVER — You pay 2 less for the next character you play this turn.",
+  "card_identifier": "30/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=789574a35ddcba9ce43c1428657d298517b5baf0320f1797c5daeeb59b3084cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=2b81cd53828caab678c008196e4754f80404d3dc77f1b2415343593761bf5b4c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3e689790548b7ab4900f0ef4906637a6554964bf2b833c6e530e317dcc2c3bf6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

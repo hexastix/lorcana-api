@@ -1,0 +1,42 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "En serpent",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Brian Weisz",
+  "deck_building_id": "ecab4fc40a795437b551bd71d462df6cbe7b0bce",
+  "culture_invariant_id": 265,
+  "sort_number": 289,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Je te tiens par la queue, maintenant!",
+  "rules_text": "ATTENDEZ UN PEU Lorsque vous jouez ce personnage, bannissez-le ou renvoyez l'un de vos autres personnages en jeu dans votre main.",
+  "card_identifier": "49/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=85af060b5d3f62a4073b3aa7c891a8a5ca97a16cb68bfa4beede9fc703fc3b8f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=0043aeadce76df9999c39da77ea9406820682f589c788a93b097782485cab1e8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=574c095fb30f4cd3fa514d323ee50f02fd812b4a49835db074bdd1ac66cc4838",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

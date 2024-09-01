@@ -1,0 +1,41 @@
+{
+  "name": "Ariel",
+  "subtitle": "On Human Legs",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "086f72176bc2fbb2a19898745a8218e1fe826c00",
+  "culture_invariant_id": 1,
+  "sort_number": 1,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "...",
+  "rules_text": "VOICELESS This character can't to sing songs.",
+  "card_identifier": "1/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=c418df102dd0fee36e86ca9d7b2f29a4a190e2cd3f58d3b20606805bf2656c2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=85852c5a00e9a8bc7ba690301ce8c82a83491616789e07f2298ffbc93a78560e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=daba211dc2d772d5fd92115b2a075add0ed0c9f0479c0f31db7efb5fde38baa5",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

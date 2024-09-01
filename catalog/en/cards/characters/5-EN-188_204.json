@@ -1,0 +1,40 @@
+{
+  "name": "Sir Ector",
+  "subtitle": "Castle Lord",
+  "strength": 7,
+  "willpower": 10,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Brian Weisz",
+  "deck_building_id": "80e2547ae3c98a93d6ec2ac5deb2e43f6b6be670",
+  "culture_invariant_id": 1144,
+  "sort_number": 1152,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Knight"
+  ],
+  "flavor_text": "Well, by Jove. Don’t just stand there. Raise a glass to my son Kay . . . and may we be rid of the trickster wizard Marvin, or whatever his blasted name was.",
+  "rules_text": "",
+  "card_identifier": "188/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=4ef8b3ffe1d133dfce84372a0f70a29f2437df8934ff260e1ed298788b20ff2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=650c245c2c92384aeeebbc045a1afe4805102b204431db458850d0259c0a0138"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=71818d154c22a2986133a683dfe238abd1c4952b59dd2c6d0e4511886e9a5f0c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

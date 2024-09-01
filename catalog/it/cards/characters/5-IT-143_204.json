@@ -1,0 +1,40 @@
+{
+  "name": "Pacha",
+  "subtitle": "Guida dell'Imperatore",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "45d674f51882c26ab667fbf028052879b9c0941d",
+  "culture_invariant_id": 1099,
+  "sort_number": 1107,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "UTILI PROVVISTE All'inizio del tuo turno, se hai in gioco un oggetto, ottieni 1 leggenda. INDICAZIONI IMPECCABILI All'inizio del tuo turno, se hai in gioco un luogo, ottieni 1 leggenda.",
+  "card_identifier": "143/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=cfcb5591d71fecd1beaa5b0cae7340c4fd77e215267dbb91690e71faaeec13fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=846fa99351b72f57b1cb31bff9626898142376264e86ba96b5d65ace13209f13"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=4c2bcb05cc0aa6e491b9817e841a17aeb8c8a94a28c055c8c5f0e77028c91c6c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

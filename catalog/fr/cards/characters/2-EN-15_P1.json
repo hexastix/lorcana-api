@@ -1,0 +1,42 @@
+{
+  "name": "Bucky",
+  "subtitle": "Squirrel Squeak Tutor",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "6c124f28a9b74875d11667138240e90833dbd228",
+  "culture_invariant_id": 673,
+  "sort_number": 458,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "There’s a lot of nuance to squirrel. —Kronk",
+  "rules_text": "SQUEAK Whenever you play a Floodborn character, each opponent chooses and discards a card.",
+  "card_identifier": "15/P1 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=6d49c26e0bc916201e5d130e2b929b6bf46abb00c7b9e08203163ba3599d0d1a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=6d5395a4b8e6cb3d2029d3b05dba59fc29ab0194d5c713bc3af33226bbdbfc01"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=077f4f0b77e70fc43fec897661dfceef844c9b5a0469ab7ca3234267548ae98b",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

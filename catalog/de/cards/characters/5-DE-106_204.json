@@ -1,0 +1,43 @@
+{
+  "name": "Turbo",
+  "subtitle": "Königlicher Hack",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "b8da8904ffbfda9ff8696e65ffc6d53e7848dbad",
+  "culture_invariant_id": 1062,
+  "sort_number": 1070,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) SPRUNG INS SPIEL Du kannst einen King-Candy-Charakter mit der Gestaltwandel-Fähigkeit auf diesen Charakter ausspielen.",
+  "card_identifier": "106/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=1af199548a781b6c705435df40b8f7e60e7c01a7cd7f882bfae92b1eb25ae3d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=8b6d7554c6cfeafdea59f71a2630d978a26356490e68178147e4ee36c44bc155"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=53ad86aec7ddd2a5564e9a8cf11d141226aba4cd2cd137643e20661105240558",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

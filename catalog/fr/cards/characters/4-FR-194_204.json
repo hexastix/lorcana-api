@@ -1,0 +1,42 @@
+{
+  "name": "Yao",
+  "subtitle": "Soldat Impérial",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "277f711b5cc9107e8bae7d0ab1d79e8e08ca13f3",
+  "culture_invariant_id": 885,
+  "sort_number": 895,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Je vais te cogner si fort que ça fera trembler tes grands ancêtres, crétin.",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "194/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=6d3001a6793b0c35c65af893522ed94c42dd0fe4576be990036d43c0153559ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3225c990ef2a4721cdfc369f876881c0bf6a3bc148c32a65b990a727d9d8d946"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=580cf97a2b08b7af8a4e3588d7d779f11888647fcdcf57c28dc55c3d818916b2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

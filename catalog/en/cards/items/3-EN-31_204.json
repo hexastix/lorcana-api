@@ -1,0 +1,33 @@
+{
+  "name": "Wildcat's Wrench",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "f6b270ae0092ca7fdae55368f489fc60ad77d484",
+  "culture_invariant_id": 467,
+  "sort_number": 502,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The right tool makes all the difference.",
+  "rules_text": "REBUILD — Remove up to 2 damage from chosen location.",
+  "card_identifier": "31/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=916eee93870280ac5e1c47d681d45f5e99f51fbce5047d34ee8e7a4d26eff853"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=d05e60b056c29bc613ccca0154ad35bb7b23763fc9cdc4acdda0d49c8ade08ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=42890d80f2a49d4443adef41261937e615ec7270da220461d79f36bc1f31949a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

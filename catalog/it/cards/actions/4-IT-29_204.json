@@ -1,0 +1,37 @@
+{
+  "name": "Perso Quaggiù",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "17618cced0ecdbed9cd4811b627105e902448fa6",
+  "culture_invariant_id": 720,
+  "sort_number": 730,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Tu scappi e io mi perdo quando siamo lontani",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per cantare questa canzone gratis.) Tutti i personaggi avversari ricevono -2 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "29/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=45d6f1f513c598c27ed00b9aae81584a73fe669ad4f3ab220c98d1ba0037ee51"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=d0369d4bc8aa33897c839b41a614d66a2992786399732c9b319f4845c968b6b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=045c6945661c2cc89c1c4e842dd300281ab01d1844fb9c382066293bac8c1ead",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

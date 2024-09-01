@@ -1,0 +1,41 @@
+{
+  "name": "Lumiere",
+  "subtitle": "Amico Focoso",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Valentin Palombo",
+  "deck_building_id": "7a69f5139f712cc9898120eee5736b7a23f360ca",
+  "culture_invariant_id": 804,
+  "sort_number": 814,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Gli invasori sono alle nostre porte, mes amis! È ora di mostrargli di che pasta siamo fatti.",
+  "rules_text": "DISCORSO FERVENTE I tuoi altri personaggi ricevono +1.",
+  "card_identifier": "113/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cfc6b97b4c51a3f98b92df302fed019c3f5a57b5a4c2d109e1a136593831275c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=a0136d85b62a82c24bb4cf1e28e5c3934b707c5c7531873c91cd441a9d7564f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=e5dad3f9d1dc1a9fb5e1a1bc1742f944b9efe944722a38a8f1fe07913e28aea1",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

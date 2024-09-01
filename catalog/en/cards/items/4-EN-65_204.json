@@ -1,0 +1,34 @@
+{
+  "name": "Rose Lantern",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "4f471ae492d30e74f2e140335be59db281b294d1",
+  "culture_invariant_id": 756,
+  "sort_number": 766,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The transformed rose made short work of the Beast’s wound. But even the gentlest magic comes at a cost.",
+  "rules_text": "MYSTICAL PETALS , 2 — Move 1 damage counter from chosen character to chosen opposing character.",
+  "card_identifier": "65/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=ab34c3959157fb35aeb54d96d7e001542f8ac465d98e3651b3038d65030bf46d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=4d61d1b02cd3e4b03f6e1b649b8abe5652dee03a6b1b38e26741a63204f0f5d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=4654d6b4c49c16b547975a00d56dd1ec6115cd9291dd64f878ba5aa34345cc48",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

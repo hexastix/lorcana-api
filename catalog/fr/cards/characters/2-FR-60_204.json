@@ -1,0 +1,43 @@
+{
+  "name": "Yzma",
+  "subtitle": "Fait peur sans faire exprès",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Casey Robin",
+  "deck_building_id": "ad11b54a7e07094083dc887eb31edc68945a31d0",
+  "culture_invariant_id": 276,
+  "sort_number": 300,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Yzma.) IRONIE DU SORT Lorsque vous jouez ce personnage, vous pouvez choisir un autre personnage et le renvoyer dans la pioche de son propriétaire. Il mélange sa pioche puis pioche 2 cartes.",
+  "card_identifier": "60/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=7fa0f32f9f5f321d2ce60a306b579d9475fe7ed404e4a62e3ae8c00fa3780c85"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=4498391422f03e4bbe0c5db4cf9940ea40e7c81c9350fae933d5722e8ff3236a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=87c92b52154b3cf7007794f815845bf012ab2d199fd5a79664050edfcbf7b6fe",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

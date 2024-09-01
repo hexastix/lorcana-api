@@ -1,0 +1,43 @@
+{
+  "name": "Rattigan",
+  "subtitle": "Guastafeste",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "aaff3438b44616c9f93796643e4f12b9bdd8d044",
+  "culture_invariant_id": 1079,
+  "sort_number": 1087,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Rattigan.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) DELIZIOSAMENTE CRUDELE I tuoi personaggi danneggiati ricevono +2.",
+  "card_identifier": "123/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=b1347ffeaea6843f00bdba2a107640e8d9c875103f3dd71350d9d327de4d3578"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=827db09e152749cfab3dc1c42d3f1022d3698386c5bf798a82e097b0381dc788"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=34fe52895cf34fb902abbe1d19e9a1afd0c7723378913ff5fb2baa565a25527b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

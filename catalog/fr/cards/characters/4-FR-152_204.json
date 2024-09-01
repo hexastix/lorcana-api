@@ -1,0 +1,43 @@
+{
+  "name": "Prince Philippe",
+  "subtitle": "Galant défenseur",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "bb53658c9147113243c4c288f17f357b4f9b6cb3",
+  "culture_invariant_id": 843,
+  "sort_number": 853,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa à celle d’un autre personnage au choix pour le reste de ce tour.) MEILLEURE DÉFENSE Chaque fois qu'un de vos personnages est choisi par la capacité Soutien, il gagne Résistance +1 pour le reste de ce tour. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "152/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=1c846246688cc65b60a095d03401967d64d7eea8516e97e9f7522cc6ed22434e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=4d7f09c0e4686868fa2c092f1920d6e20817b6547fd13b75bdec880a5ff7b93d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=0005a978102f6548b810fae4dbb85c2dd9bdcd559a000e5681afad5a82b5e076",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Judy Hopps",
+  "subtitle": "Policière optimiste",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Arianna Rea",
+  "deck_building_id": "939cd97703bd3991f17d78942c5d5c9e4db17b28",
+  "culture_invariant_id": 368,
+  "sort_number": 392,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Je vais faire toute la lumière sur ce qui s'est passé avec ce livre de Lore. Vous pouvez compter sur moi!",
+  "rules_text": "ME TRAITEZ PAS DE MIGNON Lorsque vous jouez ce personnage, vous pouvez choisir un objet et le bannir. Son propriétaire pioche une carte.",
+  "card_identifier": "152/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=2abdac930f7c208b9e591140167801883cba0b7275639e2a2cd00c51a699cfd8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=86fcf64ceaf3b008fafa515e2323cf9aedb93e27dad59d574a19158d09da1755"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=b3f3dcb78e6d81266b7131af754c349cfc26c70c8aa04d3e7072f743ae0a1574",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Julieta Madrigal",
+  "subtitle": "Exzellente Köchin",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "83c1850fb595a638632eaf8ed7f131f16558051a",
+  "culture_invariant_id": 704,
+  "sort_number": 714,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentorin",
+    "Madrigal"
+  ],
+  "flavor_text": "Iss das, mi amor.",
+  "rules_text": "EIGENES REZEPT Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Schaden von einem Charakter deiner Wahl entfernen. Falls du dadurch mindestens einen Schaden entfernt hast, darfst du 1 Karte ziehen.",
+  "card_identifier": "13/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=165d6fbcfd10f6733a7f1555de604aae021f54dba640f8b030e17f44eb7dd41d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=84a1fa799ee32316a62031fefb6e1f1854a133b5a90b6370dc49fbe387e9297f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f8b5fe5a0506f542f405fc4aba54d39d2184c3bb1df397979f18c45fb4c735c0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

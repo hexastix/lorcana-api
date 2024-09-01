@@ -1,0 +1,43 @@
+{
+  "name": "Maui",
+  "subtitle": "Aufstrebender Halbgott",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "5dbaface98eade9dac7b113a051ff1632bc17fc4",
+  "culture_invariant_id": 549,
+  "sort_number": 584,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Impulsiv"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Gottheit"
+  ],
+  "flavor_text": "Hast du noch mehr von diesen Hühnchen hier?",
+  "rules_text": "Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn möglich.) IN MEINEM BAUCH Jedes Mal, wenn einer deiner HeiHei-Charaktere erkundet, verliert dieser Charakter Impulsiv und erhält +1 in diesem Zug.",
+  "card_identifier": "113/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=1dbbd880720980c437b910f957aed89a313600812d53aa4153e629ae37d2ecf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=207d03ca8b2d5993e1d3eee9c7c1436c1c01eff833afabb1b1f6c64c714479ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6ab29418751cb96955ee5e86fce4209ddf9cdd7397866bb54a87bce2688cd315",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

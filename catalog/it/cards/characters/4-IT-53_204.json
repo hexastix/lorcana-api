@@ -1,0 +1,42 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Signora degli Elementi",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1aea1a364780b0736c993d3055013dd602442cf8",
+  "culture_invariant_id": 744,
+  "sort_number": 754,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "SEMBRA PIOVERE Quando giochi questo personaggio, puoi impegnare un personaggio avversario a tua scelta. Quel personaggio non si può preparare all'inizio del suo prossimo turno a meno che non si trovi in un luogo.",
+  "card_identifier": "53/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=db9ba474aaa7ee78288254da95c6a52700e75fb27de4367652fe21a3d6150ee1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=0485493359cd6a16bbc3507eac72c015e14ef780e2c3f4126c3419e39fbe4d52"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=5e5e3c5dd4992f3ebeb7ef7dc21bb2a3a1859f3000243838b49cc1aa0d88d7e5",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

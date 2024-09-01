@@ -1,0 +1,41 @@
+{
+  "name": "Mr. Snoops",
+  "subtitle": "Inept Businessman",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "f067b17bbb6534f8ea1100edb9c96ba84a709374",
+  "culture_invariant_id": 447,
+  "sort_number": 482,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "This is simple, Snoops! I want that lore! The one that shines like a diamond! —Madame Medusa",
+  "rules_text": "",
+  "card_identifier": "11/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=6b01af28177c45f983ad501e66af8d188f13f46e0e79ae85b226207096123061"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=0396a8ab0d028e4f25d253edc5f62042a100956533d783e4c32ffadc16694172"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=7580161e67dac2a6dc2dc4514c9c1ed342728ad159183090e0d9097cd478bfd6",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

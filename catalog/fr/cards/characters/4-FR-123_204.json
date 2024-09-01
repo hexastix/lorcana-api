@@ -1,0 +1,44 @@
+{
+  "name": "Sisu",
+  "subtitle": "Visiteuse audacieuse",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Otto Paredes",
+  "deck_building_id": "fc67550a3eb2e05ff941e3dd9ba390ad5570186e",
+  "culture_invariant_id": 814,
+  "sort_number": 824,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu",
+    "Dragon"
+  ],
+  "flavor_text": "Allez, qu'est-ce qui peut arriver de pire?",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) VAS-Y POUR LA DYNAMITE! Lorsque vous jouez ce personnage, choisissez un personnage adverse avec 1 ou moins et bannissez-le.",
+  "card_identifier": "123/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=b95dfdde0353018e126122ef951eb56bfe02dadbeb1f3e6fe98a7dd55f993772"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=89c0788b93c182b0ef507fc64984b66ba6971d3f674c10d44d083199d92e81d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=fcd40c1d923f4d86dc12abc64dbfd85f060d7a89f040f8afdc54f2296d277038",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

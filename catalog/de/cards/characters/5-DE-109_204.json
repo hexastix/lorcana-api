@@ -1,0 +1,40 @@
+{
+  "name": "Scar",
+  "subtitle": "Verräter",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Dinulescu Alexandru",
+  "deck_building_id": "e32abffa68664089a138943286790c91aa3b29ed",
+  "culture_invariant_id": 1065,
+  "sort_number": 1073,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Die zweite Regel des Schurken-Daseins: Gib dich nicht mit dem zweiten Platz zufrieden.",
+  "rules_text": "LANG LEBE DER KÖNIG Wenn du diesen Charakter ausspielst, darfst du einen Mufasa-Charakter deiner Wahl verbannen.",
+  "card_identifier": "109/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=bc10622de14155b4c7e745827956450e17ab3c61658af44f44c2b91fe9bb64a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=151cfbe0fae146e75dd11589e67fd7c99657047a9d415c6922256e9ebe3ea5f5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c9e0f3182d2472ece3423d0299530be8497fdbd77860b9023a7d100e812e981f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

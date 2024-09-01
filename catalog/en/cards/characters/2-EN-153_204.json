@@ -1,0 +1,40 @@
+{
+  "name": "Mrs. Judson",
+  "subtitle": "Housekeeper",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Michaela Martin",
+  "deck_building_id": "c67499192d6e09bc15e8dac69e0648f8948501b8",
+  "culture_invariant_id": 369,
+  "sort_number": 393,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "I know just the thing. Let me fetch you a pot of tea and some of my fresh cheese crumpets.",
+  "rules_text": "TIDY UP Whenever you play a Floodborn character, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "card_identifier": "153/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=8594a06e730ce626298113627ae1cdb632b0dee141dfaad0b0350014e9a157a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=4f861891090f9b3f4445800a434accc47008964df00ce9390300ffc4502ff415"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=96fe4f2c9e823a521a48eb005dc273f7cb5580abbbc2631afbf09dfdf0838ba5",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

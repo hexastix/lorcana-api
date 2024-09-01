@@ -1,0 +1,42 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Mistress of All Evil",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Javi Salas",
+  "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
+  "culture_invariant_id": 645,
+  "sort_number": 680,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "DARK KNOWLEDGE Whenever this character quests, you may draw a card. DIVINATION During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character.",
+  "card_identifier": "209/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f8d98b5da042bf98ba6c0de5894e84c0a91dcfd8b710845400f5c0276a75f913"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=480b60c81d8dc66582820f0382c2db16cb338606bc142b16b10611986e81ab04"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=bbf42a4fc376250e1be4db82f23c2be50cc247f40a408c16d457c312389eb63d",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

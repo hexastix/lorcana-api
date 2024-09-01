@@ -1,0 +1,32 @@
+{
+  "name": "Lightning Storm",
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "da1176795eaf426b8698aad90c5e6656ba4e53ee",
+  "culture_invariant_id": 936,
+  "sort_number": 956,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Each opposing player loses 3 lore.",
+  "card_identifier": "23/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=4f20351337b42c115747dca9026c4a996cb9fa4998806eeeeb5bd2f2448a5353"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=6d7a5dbefdf677f31f9191574c9913443b6f9d74f362be8df3e8d8ae49842272"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

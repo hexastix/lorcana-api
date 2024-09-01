@@ -1,0 +1,42 @@
+{
+  "name": "Cruella d'Enfer",
+  "subtitle": "Cruellement infecte",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "GusGadget / Leonardo Giammichele",
+  "deck_building_id": "cee03f2073c8ac1d8da9f9dce64776138f2df77a",
+  "culture_invariant_id": 361,
+  "sort_number": 385,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant"
+  ],
+  "flavor_text": "C'est de la couture d'encre, chérie. Je ne porte que le meilleur!",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Cruella d'Enfer.) OH NON, PAS QUESTION! Lorsque ce personnage est envoyé à l'aventure, choisissez un personnage adverse, il subit -2 pour le reste de ce tour.",
+  "card_identifier": "145/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=4713a3656612baab15fa67960c1c8f4cadbab0f0f5ac5cce9e387bb3df1f6e06"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=c2dcdcbe5c8f9ecef0922e9cc22c3a9cebd0693d21f1c207e59962a49d0f5536"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=afad5be4a75b86020c2a128d85b0fccf4d0603497dc9bc594bb2db42857b0167",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

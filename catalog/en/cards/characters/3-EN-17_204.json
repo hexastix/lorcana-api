@@ -1,0 +1,49 @@
+{
+  "name": "Pluto",
+  "subtitle": "Determined Defender",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Dave Alvarez / Alice Pisoni",
+  "deck_building_id": "7fd9befad39f19fd09370a0976c47a9fe3a3593d",
+  "culture_invariant_id": 453,
+  "sort_number": 488,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Can I choose not to remove any damage from Pluto – Determined Defender at the start of my turn?\r\nA: Yes. Although you can’t choose not to use Pluto’s Guard Dog ability, you can use it to remove any amount of damage from Pluto, from 0 to 3. \r\n\r\nQ: If I play Pluto – Determined Defender using his Shift ability, can I use his Bodyguard ability to have him enter play exerted?\r\nA: Yes.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift",
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Pluto.) Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) GUARD DOG At the start of your turn, remove up to 3 damage from this character.",
+  "card_identifier": "17/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=362e9d078312401645c8750e25e85640afe985a8baff9597c4937f46699b32a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=3a86ff595f795621814887ef1dac53274499dae5c90cf16a9b9a3060c18c8e98"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=5f7a58550f47de7728fecbcee4d30b8dac37ab4587e3bdd9eef130ce31cccad8",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

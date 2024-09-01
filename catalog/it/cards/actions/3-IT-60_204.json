@@ -1,0 +1,33 @@
+{
+  "name": "Porgere un Dono",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Dylan Bonner",
+  "deck_building_id": "cd7d8f2725ca5bf77ca34f0bf089e7810fd2ea21",
+  "culture_invariant_id": 496,
+  "sort_number": 531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Dall'inchiostro magico prendo questo dono. %Vola, mio diletto, sii più veloce del suono!%—Malefica",
+  "rules_text": "Sposta 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "60/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=055615c0a6c226d10dc9ecd6d4131955d32a2053d7b2adfa7d3addf2e78bf4f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=c3039698aebdcf4ad3555a0052af9816de6190613eea32d2b4b623885b285537"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=b87f4d821297d7dcf9df76c306a77d101d30a84c660b45e2b67d6d7b0cb624d2",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

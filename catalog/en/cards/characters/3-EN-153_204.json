@@ -1,0 +1,40 @@
+{
+  "name": "Rufus",
+  "subtitle": "Orphanage Cat",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Hadjie Joos",
+  "deck_building_id": "f0c41d7f687d5c9ecf723fe2abaf2249724934e9",
+  "culture_invariant_id": 589,
+  "sort_number": 624,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Faith is a bluebird you see from afar.",
+  "rules_text": "TOO OLD TO BE CHASING MICE When this character is banished, you may put this card into your inkwell facedown and exerted.",
+  "card_identifier": "153/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=f6d9a1ccddb43ac8b047dcbda570ec4f785d825fa731bf40124a840ae704efd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=0be872459a46bbec5dc47496f1d76c1af6174e4ca6cdbbea6cd9bc5d36d917cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=29c2fa59c67ae2c5f158ad945662bbf5403ecb1b73588488ed1e5919003c2b1a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

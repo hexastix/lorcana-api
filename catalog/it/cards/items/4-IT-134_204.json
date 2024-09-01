@@ -1,0 +1,35 @@
+{
+  "name": "Vitalisfera",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sandara Tang",
+  "deck_building_id": "39a768502f12e152241c2e471fcc3ba9e2aaad51",
+  "culture_invariant_id": 825,
+  "sort_number": 835,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ESTRATTO DI RUBINO 1 , esilia questo oggetto — Un personaggio a tua scelta ottiene Lesto e riceve +2 per questo turno. (Può sfidare nel turno in cui viene giocato.)",
+  "card_identifier": "134/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=dccf9a1b262de916ce6e090e46c0c66a267ce052cdc1d8d24d46369741f3adf5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=bcf47f4c633f583dedbff3811635bb2211f7d847387c674202b407d90fa04941"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=a9aa2f91696f04f0ac3ae949549fbdccf453a5311bd0e5e7769ea789388cda5b",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

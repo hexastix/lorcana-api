@@ -1,0 +1,43 @@
+{
+  "name": "Aurore",
+  "subtitle": "Gardienne de Lore",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "8a04e29b3d058277b73ebe312aa9cf6677675652",
+  "culture_invariant_id": 831,
+  "sort_number": 841,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Aurore.) SAUVEUSE Vos adversaires ne peuvent pas choisir vos objets avec leurs capacités et effets de cartes. INVENTAIRE ROYAL l'un de vos objets – Regardez la première carte de votre pioche. Remettez-la soit sur le dessus, soit en-dessous.",
+  "card_identifier": "140/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=57dfdb4a56bf27612da70799934ee0a132768a67d8958d897143ebbeaf0a52db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=2b04ad0fbcc77e698a0e761a72ea74f2088df95a4cc59b591eb754146d8d4c06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=cd558ca33639d5566f578b4669eb9c5ba3fcfbb35e27aa03b02304740c24447d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

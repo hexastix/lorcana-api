@@ -1,0 +1,33 @@
+{
+  "name": "Decreto di Tritone",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "d08ffcbaf3dab751e6320b218ec663aeffb61ee1",
+  "culture_invariant_id": 890,
+  "sort_number": 900,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Le orrende creature di Ursula non sono benvenute nel mio regno!",
+  "rules_text": "Ogni avversario sceglie uno dei suoi personaggi e gli infligge 2 danni.",
+  "card_identifier": "199/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=4e655766e313a24f6b8ed85ada857d1dd85b62e5a7a92efac651612b13dcd77a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=97c60cc93105f42ee14982276fdbb4ff823f96a73beb75d003941ac38ca493e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=f3c99917a4a559a62bae824b9bcfd4dc70f9527b826f76cb58d399e6a3f58bd7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

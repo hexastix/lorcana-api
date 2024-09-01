@@ -1,0 +1,32 @@
+{
+  "name": "Entangling Magic",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Luca Pisanu",
+  "deck_building_id": "1ca60cd1fe1e5add4a58fb39ebb9b17a08fb9f3a",
+  "culture_invariant_id": 933,
+  "sort_number": 953,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Fascinating, isn’t it? Don’t be shy—take a closer look... —Ursula",
+  "rules_text": "Each opposing player discards a card. Then, put this card into your inkwell facedown.",
+  "card_identifier": "20/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=6c2b41469c431fcb7c14c4e5659246e339217fb4d91257e0eb54af5b28b666c0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=783ea1542e1e944a7f6556757749495475300f3c098ae88e07731664c756aa5a"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

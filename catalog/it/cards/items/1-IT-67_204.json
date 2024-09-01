@@ -1,0 +1,35 @@
+{
+  "name": "Il Calderone di Ursula",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "a757b4be52f0de48fe6589a497c72522ca4489c8",
+  "culture_invariant_id": 67,
+  "sort_number": 67,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ottimo per mescolare pozioni e rubare voci.",
+  "rules_text": "SCRUTARE NEGLI ABISSI — Guarda le prime 2 carte del tuo mazzo. Mettine una in cima al tuo mazzo e l'altra in fondo.",
+  "card_identifier": "67/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=af0494ca3e5ef75108c72cd08c486af9f92bfc8892520b36b2e95f5e34ca158c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e3f2caa31533977f8c01254d1e9dd2afcea8e035f46860d6a8c2470aa6e00219"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=78d740aea4d3ba5baa8710c3d252178a175d8921738e15fcc4e676ab4d7cf1a0",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

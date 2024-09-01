@@ -1,0 +1,43 @@
+{
+  "name": "Arielle",
+  "subtitle": "Schall-Kriegerin",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "6a0d7fa630c6ddef725f555467e4c5b51515a664",
+  "culture_invariant_id": 866,
+  "sort_number": 876,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Arielle-Charaktere auszuspielen.) VERSTÄRKTE STIMME Jedes Mal, wenn du ein Lied ausspielst, darfst du 2 bezahlen, um einem Charakter deiner Wahl 3 Schaden zuzufügen.",
+  "card_identifier": "175/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=81551777c8de354eb6c04a699e4c474610194f9703af3d2b373b030978ef8aad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=6cac90b1345af03daa32a4040354fd59d526a711743d62ba5ed82f782e9167f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=9c435f4a94411e8d7b1ee775b69230240e74a692508141cfb2396e570f98af21",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

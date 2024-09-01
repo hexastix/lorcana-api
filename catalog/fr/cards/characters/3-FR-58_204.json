@@ -1,0 +1,39 @@
+{
+  "name": "Le Gardien du Trésor",
+  "subtitle": "Protecteur de la Caverne",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "acade7659b357fc4d7e2b6b6bd99e61e7df82605",
+  "culture_invariant_id": 494,
+  "sort_number": 529,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Un seul humain peut ici entrer.",
+  "rules_text": "QUI DONC VIENT TROUBLER MON REPOS? Ce personnage ne peut ni défier, ni être envoyé à l'aventure à moins qu'il ne soit présent sur un lieu.",
+  "card_identifier": "58/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=acff42d179608a54af0a07808e35dd8f10e6338cac910d95bdfc15887d72404a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=727662e5d56e14dcc7ac9332aa6966c0f9e6a30b17234175559890c4622726eb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=9f41a98db4f2012ca5793b2bef2b76a533947c06490593658393bfeca18bd72b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Ne parlons pas de Bruno",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Victor “Yano” Covarrubias",
+  "deck_building_id": "7ec7e92299f852359cc13f8d71341e705b6a0c59",
+  "culture_invariant_id": 904,
+  "sort_number": 914,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage et renvoyez-le dans la main de son propriétaire. Puis, ce joueur doit défausser une carte au hasard de sa main.",
+  "card_identifier": "213/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=5f2f60d7a9f1f96935f68abd1f0ed695cf7aec45bc026e23042f5149cfa0d1aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=f54f33fb2142274259bc73925bb3d49d36fe4358c4dc2982bcc281301309e463"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=b9b95a2f14e40719036f3f55b00bcf2d3193d4cfdd7726acf9de61ce0d4f61a0",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Zeus",
+  "subtitle": "M. Crache-la-Foudre",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Moniek Schilder",
+  "deck_building_id": "4dc45f6ba32b0e07fb3f64d0c770408d7aec13aa",
+  "culture_invariant_id": 783,
+  "sort_number": 793,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Roi",
+    "Dieu"
+  ],
+  "flavor_text": "Ha! Maintenant, regarde ton vieux père travailler!",
+  "rules_text": "TIRER COMME DES PIGEONS Chaque fois que ce personnage en défie un autre, choisissez un personnage et ajoutez sa à celle de ce personnage-ci.",
+  "card_identifier": "92/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=451e77fbff13691f4d0011538ece6e14ebc9e17574f1883b862a6cee15edae35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=89ee7d8120ce1d8633d4b60d4c573b01cda4ba46fe30fa65379ab7f677d48d18"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=cdcdac5ea7b8aa0c1f3ebf98fec57327c80f771869ebdb92abe0352a6829ddb3",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

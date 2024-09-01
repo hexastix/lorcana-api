@@ -1,0 +1,45 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Principessa di Sugar Rush",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Natalie Dombois",
+  "deck_building_id": "6587479529519fdd93c24cecd1d0c2d05d2524b1",
+  "culture_invariant_id": 1162,
+  "sort_number": 1170,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 2 (Puoi pagare 2 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Vanellope von Schweetz.) DECRETO CHE Ogni volta che giochi un altro personaggio Principessa, tutti i personaggi avversari ricevono -1 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "206/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=d1403a8cd36f2ab4773a32908236e4138e2aba00fe09e40c6aa34f378ef13316"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=13aaa5e225b85a5ab5d8fe74f144cfad5846ef92f61f1470d44d261f9dd4c60c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=c7326710935cdbe96578d3c0c580699909c6f0a22ae81cf6bbc43fc1f473d84d",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

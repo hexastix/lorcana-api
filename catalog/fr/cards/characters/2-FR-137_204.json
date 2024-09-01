@@ -1,0 +1,40 @@
+{
+  "name": "Alice",
+  "subtitle": "En pleine croissance",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "a8457457371219443c6138ae91ffc24bee944433",
+  "culture_invariant_id": 353,
+  "sort_number": 377,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE SAIS CE QUE JE DOIS FAIRE Vos autres personnages gagnent Soutien. (Lorsqu'ils sont envoyés à l'aventure, vous pouvez ajouter leur à celle d'un autre personnage au choix pour le reste de ce tour.) QU'AI-JE FAIT? Tant que ce personnage a au moins 10 , il gagne +4.",
+  "card_identifier": "137/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=88884aeb1f0e91a8df3908e73fb49a8ffa12bce19d79b2888053ff38867298c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=1e0b0d042ab3f9e4ca4204b4db2c9972b88f591527d22120f496c142ddc462fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=94b6b0d1d8c98bada2a07c594cd9455d1ae81d26f4005c9623cc1250530fa08b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

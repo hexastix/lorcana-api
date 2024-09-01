@@ -1,0 +1,48 @@
+{
+  "name": "Namaari",
+  "subtitle": "Morgennebel",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Jenna Gray",
+  "deck_building_id": "b374629cdd5ecdc326ac5f23af8fd172452f319a",
+  "culture_invariant_id": 405,
+  "sort_number": 429,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) DIE KLINGE Dieser Charakter kann bereite Charaktere herausfordern.",
+  "card_identifier": "189/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=e9a7fc44397b087d41a80db7aaedb72dbefc5e164665b1326e3031291f3717e2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=cb9b6a70d002a030475675c4e13bda0ddd8f917700cabed107a1803aff47c0ab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=4944fdda40b1646015e004a70e956832c3188555ae4b8535a8ceedcf529b5cab",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Triton",
+  "subtitle": "Jeune Prince",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "02da76ce172aef8ef2082d7b7a8bfd252dcefa0c",
+  "culture_invariant_id": 851,
+  "sort_number": 861,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "NAGEUR EXCEPTIONNEL Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier les personnages avec Insaisissable.) GARDIEN D'ATLANTICA Chaque fois que l'un de vos lieux est banni, vous pouvez le placer dans votre réserve d'encre, face cachée et épuisé.",
+  "card_identifier": "160/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=82f503b4d282450613fda414369df37dea24cafa881ef2a061af9f81667cbf00"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=bb7cb3e6191f6d19933783e4976025f9dd2acc9e4a1f58063250ab7ea9318107"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=267001764f92977109b400a2789caa11e947c2ba2401cb2114de9b2e78eb6418",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

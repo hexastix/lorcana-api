@@ -1,0 +1,33 @@
+{
+  "name": "Tactique de meute",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Don Aguillo",
+  "deck_building_id": "c521d6e9ff9951f603c95de81a152ae766eebcb9",
+  "culture_invariant_id": 316,
+  "sort_number": 340,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Pacha: Tu veux survivre à la jungle? Commence à penser comme si tu venais d'ici.%Kuzco: Pas de problème... Grrr, regarde-moi, je suis un jaguar.",
+  "rules_text": "Gagnez 1 éclat de Lore pour chaque personnage adverse blessé en jeu.",
+  "card_identifier": "100/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=76f43102657cb7ca90d32b018221056e1ec528ba32ec55208716489e17eb2ef8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=2c6b9e3d8129f5115542c02ed0eeaa3d801ec8abcb3b941f6ffc88c4987ca754"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=62de7cb4610cc64a0b4739893fa007706704c8dc4525fc9ee9a1b6bc04a6432f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

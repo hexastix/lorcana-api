@@ -1,0 +1,41 @@
+{
+  "name": "Belle",
+  "subtitle": "Ungeübte Mystikerin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Angelina \"Spikie\" Ricardo",
+  "deck_building_id": "978ddff2c7a02c8c94056556dc73c364c4039837",
+  "culture_invariant_id": 728,
+  "sort_number": 738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Egal, was sie auch versuchte, Belle konnte die Wunde des Biests nicht vollständig heilen.",
+  "rules_text": "HIER. TUE'S NICHT Wenn du diesen Charakter ausspielst, verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "37/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=bf61d3880e8298b3c56610bea1bf9ec52e044e75fe1683fdcf69496af764e6eb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=985d2444cbe4b9bb065eba9b211d21898cbfe78af0907590c8f686fee1ae2b83"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9e2d14e8782d29b3fad4ae121725d5bdcbae78a4e23ca7bb96fc8a65a3e4b0d5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

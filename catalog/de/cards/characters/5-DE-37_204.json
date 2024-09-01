@@ -1,0 +1,40 @@
+{
+  "name": "Von Unruh",
+  "subtitle": "Uhralter Wächter des Illuminariums",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d53b466012ff4e0996263ae54a024db42cbfed5b",
+  "culture_invariant_id": 993,
+  "sort_number": 1001,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Gib Gas! Zeit ist von entscheidender Bedeutung.",
+  "rules_text": "ZEIT, SICH ZU BEWEGEN! Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Rasant. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "37/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=4f41f39344b4b84fbca17e65540cd5abfed050f7f72d030f1d370e4ac06b5087"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=e9d52446cb8e85f3bcc95ef749f1ae1e41ec356211ae09a9263df1a0021e786a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=2737f835650d705b8bfb4ab9cad9f57d7c230a40f4a4066fc390fb921b0923d6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

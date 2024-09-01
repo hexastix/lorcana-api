@@ -1,0 +1,41 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Selbstbewusster Vagabund",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ron Baird",
+  "deck_building_id": "408a955dc902338bf10c87c78906b1ddb5c84045",
+  "culture_invariant_id": 297,
+  "sort_number": 321,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich liebe treue Fans, aber sie könnten wenigstens versuchen, meine Nase richtig hinzukriegen!",
+  "rules_text": "",
+  "card_identifier": "81/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=7c454f4bdddbabfe8e68a74e43f09a0317abb5d99fdb7330de47c075b9c07f24"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=5c17b29039eb2a38b89ade3fa6a75f7d3f03502b88b4ccdaaa3e58504243a86c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=394c1c71df706ebf158dacc7b18dc47ee57a451ddab267003e80069bc6ce5cae",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

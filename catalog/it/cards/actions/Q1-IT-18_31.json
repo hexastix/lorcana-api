@@ -1,0 +1,32 @@
+{
+  "name": "Mare Mosso",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Ilaria Sposetti",
+  "deck_building_id": "ae204b6be618bb113ad3f25c270c8560d01c0173",
+  "culture_invariant_id": 931,
+  "sort_number": 951,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Infliggi 2 danni al personaggio con costo maggiore che ogni giocatore avversario ha in gioco. (In caso di parità, il giocatore avversario sceglie tra i personaggi coinvolti.)",
+  "card_identifier": "18/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=dc2efdc5a83054ad28394b9a71c150cc5bdd695da577f57170dfbb0db856c09c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=8c8b90f23a0f7e461b8d37c9b9b49684c0c0cff9249069aba74b3f5771911511"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

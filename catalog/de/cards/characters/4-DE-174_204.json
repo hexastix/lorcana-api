@@ -1,0 +1,41 @@
+{
+  "name": "Arielle",
+  "subtitle": "Entschlossene Meerjungfrau",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Dylan Bonner",
+  "deck_building_id": "3c90f7d78a7f6faad9aeb5edd3c7f5da84a98a4a",
+  "culture_invariant_id": 865,
+  "sort_number": 875,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Alles, was sie jemals wollte, ist fast zum Greifen nah.",
+  "rules_text": "ANDERSWO Jedes Mal, wenn du ein Lied ausspielst, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "174/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=2ee387ae1c311c851245fa1f818074c21d867d50093df322407192dafb9cabe2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=64fbb881ff03bcbdb86faa314a6774be6b1f7482269609cafb90118118292832"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=36534ca436da9dbd451906076fcb647a67ab8a51c8d0f5fbd14e16dfc538c94c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

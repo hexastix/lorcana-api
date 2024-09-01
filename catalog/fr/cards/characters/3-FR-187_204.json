@@ -1,0 +1,41 @@
+{
+  "name": "Pyros",
+  "subtitle": "Titan de lave",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Eva Widermann",
+  "deck_building_id": "8ff79abe1dc3be06d9d67421be126ceb63898677",
+  "culture_invariant_id": 623,
+  "sort_number": 658,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Titan"
+  ],
+  "flavor_text": "Brûler Zeus!",
+  "rules_text": "ÉRUPTION Chaque fois que ce personnage en bannit un autre via un défi durant votre tour, vous pouvez choisir et redresser un personnage.",
+  "card_identifier": "187/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=b813c87099709248ef124beecea0e9eaf589eaaa110fab950a42dec87343f4e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=47b81db96cdf0736cea5d3157aabeaf2d12b21480e94d3937d35f650d69dbd1b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=bbef28ba05a303a03ed674ac65526e87b0a7c38dabfd8ad8321bf9752be79de9",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "I Will Find My Way",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Carmine Pucci",
+  "deck_building_id": "76c72f7c7ca88688d326fb41bcac4308a48a724a",
+  "culture_invariant_id": 531,
+  "sort_number": 566,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "I would go most anywhere To feel like I belong",
+  "rules_text": "(A character with cost 1 or more can to play this song for free.) Chosen character of yours gets +2 this turn. They may move to a location for free.",
+  "card_identifier": "95/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=59e5c1224f3b676fe706342b4253e7cf24abd90d2990c0f8e860024b483e3912"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=661e645804c12571fa2018ea38f705d8fd6694c3dfec0cd8556e835a5e8ef86e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=57e35353e753dd45bec9f566bed01d5cc96ef034f59788ed2d67ca4145ca6728",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

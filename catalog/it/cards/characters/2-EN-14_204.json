@@ -1,0 +1,46 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Betrayed Leader",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "63a29aa0ab62842bfd36595e8ed690cfdc1ed928",
+  "culture_invariant_id": 230,
+  "sort_number": 254,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: My Mufasa- Betrayed Leader is banished and I use his The Sun Will Set ability. The card on top of my deck when the ability is used is an action card. When I return that card to the deck does it return face up or face down?\r\n\r\nA: Face down. All cards in the deck are face down at all times unless otherwise specified.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "THE SUN WILL SET When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck.",
+  "card_identifier": "14/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=9947493bb02dbe4119247333e23af672488d746ac1a440880f97010f8aeb333d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=aa42bc51b4b6f5f96bf44758491f5a01122f264e0911ce444bd40b7986a838d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=22587fc3da23f3998d5cf8234efd04290a1e583b67b199809d3937ecf593baa4",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

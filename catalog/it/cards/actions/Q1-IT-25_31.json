@@ -1,0 +1,32 @@
+{
+  "name": "Colpo di Tentacolo",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "2c11f6d1f24e892d3c73ffc80283f12337ef3f5e",
+  "culture_invariant_id": 938,
+  "sort_number": 958,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Infliggi 1 danno a ogni personaggio avversario. Dopodiché aggiungi questa carta al tuo calamaio, a faccia in giù.",
+  "card_identifier": "25/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=63bce9d5c97cef888ee843219e4c636aa49143ca39108940bceb129fb6057ec8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=afa989fda787d7d714f0554302b6f7500ef4d01ae51c701172ee637d3328fdd5"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

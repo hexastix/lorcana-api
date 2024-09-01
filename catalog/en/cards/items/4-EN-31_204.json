@@ -1,0 +1,33 @@
+{
+  "name": "Miracle Candle",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "addabf289c8cbbf0b7d668c5d4e4e65e118fa61e",
+  "culture_invariant_id": 722,
+  "sort_number": 732,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ABUELA’S GIFT Banish this item — If you have 3 or more characters in play, gain 2 lore and remove up to 2 damage from chosen location.",
+  "card_identifier": "31/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=0a58161e12abae84fa045cd10aab7f1086fabb20986ce838f47a1e3465c96211"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=1fed089162e9ff1ab4110d91976191e44315381c42db78de5c8da31e06d92ff1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6d17fca4a55f14264c24845893dd0763e895e2b8ccc37524b9aebbe9e80c02eb",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

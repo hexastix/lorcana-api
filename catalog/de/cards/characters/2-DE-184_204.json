@@ -1,0 +1,41 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Großwesir",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "be0604ebb303eab26c710c79ed684067cfb6873f",
+  "culture_invariant_id": 400,
+  "sort_number": 424,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Bald werdet ihr erfahren, wer <wirklich> an der Macht ist!",
+  "rules_text": "ICH TRAU IHM NICHT, HOHEIT In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "184/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=462c111781aba1450fb356a56ab04e6ac97139fd92d569563f0ff08c7db81fb8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=b9e47ddea947dd406294d3b078ddd2392e4695db645a84c65fb10eb5f952f777"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=4aa7c87143a8035714b21d546597110bde724e895ae38b0f890516e1b0ffd03e",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

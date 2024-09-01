@@ -1,0 +1,47 @@
+{
+  "name": "JAFAR",
+  "subtitle": "Gardien des Secrets",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Marcel Berg",
+  "deck_building_id": "ee9d82aaf3c52ce93cf24d12435b7bbf781da971",
+  "culture_invariant_id": 44,
+  "sort_number": 44,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: J'ai 2 cartes en main. Mon Jafar- Gardien des Secrets défie Flynn Rider - Charmant voleur de mon adversaire. Quand la capacité « Le grand Jeu » de Flynn Rider Charmant voleur se déclenche-t-elle et combien de dommages Flynn Rider subit-il suite au défi ?\r\nA: La capacité Le grand Jeu de Flynn Rider- Charmant voleur se déclenche dès qu'il est choisi pour le défi d'un personnage adverse. Cela signifie que le joueur qui lance le défi doit se défausser d'une carte avant que des dommages ne soient infligés durant le défi (à l'un ou l'autre des personnages). Dans l'exemple ci-dessus, vous devrez vous défausser d'une de vos deux cartes, ce qui signifie qu'il ne vous en restera plus qu'une. La capacité de Jafar - Gardien des Secrets augmente sa force d'un montant égal à la quantité de cartes dans votre main, il aura donc une force de 1 lorsqu'il infligera des dommages à Flynn Rider.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Il existe plusieurs manières d'enterrer des secrets.",
+  "rules_text": "MERVEILLES CACHÉES La de ce personnage augmente de 1 par carte dans votre main.",
+  "card_identifier": "44/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=bd62aa1f20515e19b2bd0713511c24e51baf7d43f7e442a000b835494535a93a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=6f0b060decbd512a824f9ab308469103ea191d4d29b7c61a45942d9ada02fc56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=fceb138f38a32424dacb1e93b0827b2bc2d0ec18f4d6536736a15989d789555f",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

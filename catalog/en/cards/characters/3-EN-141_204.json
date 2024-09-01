@@ -1,0 +1,40 @@
+{
+  "name": "Genie",
+  "subtitle": "Cramped in the Lamp",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ally Zermeno",
+  "deck_building_id": "0eb4bb646b3a5034464de3b8acf3702c87f589e4",
+  "culture_invariant_id": 577,
+  "sort_number": 612,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Ten thousand years will give you such a crick in the neck!",
+  "rules_text": "",
+  "card_identifier": "141/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=a391af85fcdca877935edb09138bf0350cc2133878bb9a9989e84c8496329225"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=7d089b8ba8225b45b69e6c48260c293043a931cb83c46c694ae27eb0b8f05bfd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=e65f2a0e9b2025a1aac376dc918716fb2374edb9bd8207c999151b94b20d6ee2",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

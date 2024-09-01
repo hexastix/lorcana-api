@@ -1,0 +1,32 @@
+{
+  "name": "Fortunate Hit",
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Luigi Aimé",
+  "deck_building_id": "89bb5b5f63329b81c593cf53c757ea3f16035f16",
+  "culture_invariant_id": 934,
+  "sort_number": 954,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "The opposing players together choose one of your items and banish it.",
+  "card_identifier": "21/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d2e17e3f4384a1138bd91390a38ead00eb5458724dda44c9a24b87154e82c910"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=9969b7bcdd5d3ae33aa99451d7b46a873b636f831966144835a64b4560c627a3"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

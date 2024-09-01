@@ -1,0 +1,42 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Tapferes Kleines Schneiderlein",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "24d9608bc36bf0e9c6e158b0569ebcd8d0515343",
+  "culture_invariant_id": 115,
+  "sort_number": 115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Wenn der Sieg am seidenen Faden hängt und der Stoff der Geschichte zum Zerreißen gespannt ist, eilt der schereschwingende Held heran und schnipp, schnapp, flickt er entschlossen die Dinge.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "115/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=15e35cba5d975e4bbdeab494fd3ce6ec756c79c6cfb64b5ddf83f29e0fedf014"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=329e9e3e2459c21f206d1cf44cf0c7089ccc48b3e4811d338a7eeff39c18f3e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=26c65cfa9fd11c34cdd1c3ced391add4a95772523ddf67b3c2850c728a02dc59",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

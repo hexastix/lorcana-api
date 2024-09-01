@@ -1,0 +1,43 @@
+{
+  "name": "Merlin",
+  "subtitle": "Selbsternannter Mentor",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Dave Beauchene",
+  "deck_building_id": "6df9e37cf042bea283043a907feb840a22e7db90",
+  "culture_invariant_id": 153,
+  "sort_number": 153,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Mentor",
+    "Magier"
+  ],
+  "flavor_text": "Was für eine mittelalterliche Wirtschaft. Das werden wir jetzt modernisieren.",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "153/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=8512531b7eaf2c0db07b797699e4971e0f4e6c99561b3778ce5e67c82b6f0249"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=48473ed67158294cd94d03abed11fb52160c10de01bdd09e0786864c6b1f2625"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=78a93f4c595168b9cbaf9306728bbffbc612134a9af799a319ccd42b4625b482",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

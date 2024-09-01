@@ -1,0 +1,46 @@
+{
+  "name": "Bernard",
+  "subtitle": "Frischgebackener Agent",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jacob McAlister",
+  "deck_building_id": "96b509ea25a2dc6814d5ceedc225139dfbfaf703",
+  "culture_invariant_id": 434,
+  "sort_number": 469,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich am Ende meines Zuges zwei erschöpfte Kopien von Bernard - Frischgebackener Agent im Spiel habe und die Fähigkeit „Ich schau mich mal ein bisschen um“ des ersten benutze, um meinen zweiten Bernard bereit zu machen, kann ich daraufhin dieselbe Fähigkeit des zweiten noch benutzen?\r\nA: Nein, kannst du nicht. Bernard muss erschöpft sein, um seine Fähigkeit auszulösen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Bleiben Sie lieber hier. Ich will erst nach verstreuten Legenden suchen!",
+  "rules_text": "ICH SCHAU MICH MAL EIN BISSCHEN UM Am Ende deines Zuges, wenn dieser Charakter erschöpft ist, darfst du einen deiner anderen Charaktere wählen und bereit machen.",
+  "card_identifier": "2/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=de036edd60d44512d89fc86f0c5c84ea3c7ca0789ed55fc1da284a9ceb8d699c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=c56dc6b2cdd7ab4805450637dcf268a1b255214a123e4998eb3c079c55e31bd3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=c121a97075571161f44287adc9cbc5ce47ea8a39f8d8207943b231b66b7afe90",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

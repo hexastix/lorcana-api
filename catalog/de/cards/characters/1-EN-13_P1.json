@@ -1,0 +1,44 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Musketeer",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Dav Augereau",
+  "deck_building_id": "eb0f321c8ffffb426862310ebc9a55e6e2d2d5df",
+  "culture_invariant_id": 671,
+  "sort_number": 229,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Musketeer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) STAY ALERT! During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "13/P1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=19d22625e644439a93e43fa253cae024b7abbd92eb3ff5300fe8b5aba41515e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=2cde85d25745b48bc1273f562f08974f1f45eff4d649b606b19b05fcacef0ad2"
+    }
+  ],
+  "special_rarity_id": 1,
+  "foil_type": "None",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Sherwood Forest",
+  "subtitle": "Outlaw Hideaway",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "cb0b3f11503ac2065fa15cb7f7ee80a1d45319a9",
+  "culture_invariant_id": 1057,
+  "sort_number": 1065,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "4",
+  "rules_text": "FOREST HOME Your characters named Robin Hood may move here for free. FAMILIAR TERRAIN Characters gain Ward and \", 1 — Deal 2 Sample 1 Sample 2 Sample 3 damage to chosen damaged character\" while here. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "101/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=0271059074b1eddca0e3891844c6779ea2f7c8bd8475847d2b6652767c0bd0b8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=75f061da5445359a240f9d5f570e4454b9e47125c5c1371249388486b103a35f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=3db4fb02b9fd6d0a7167f58a2e58cc67081579e8648929d67b3180f68b97988f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Jafar",
+  "subtitle": "Hypnotiseur tyrannique",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Cam Kendell",
+  "deck_building_id": "788ce5ab348a5417b600e7c2902097c8a264500b",
+  "culture_invariant_id": 1128,
+  "sort_number": 1136,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Personne ne se mettra entre moi et la Couronne brisée !",
+  "rules_text": "Offensif +7 (Lorsqu'il défie, ce personnage gagne +7.) REGARD INTIMIDANT Les personnages adverses coûtant 4 ou moins ne peuvent pas défier.",
+  "card_identifier": "172/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=b850e4a1448fab996ccd2d692a97de567afa7266b36d9b25c9d404055fb88683"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a2d73e450abe47139e0fe842d742fa8b6b059cb069e55e0af1fe356b1147496c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a8ea427dac2b86e4d2067eb92aa5c5568173d0b96236a83a12109df4060e5b25",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=d71b1737d349e69139cca8a141f2ed26992ee5515b485ced75008910afa73ebc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

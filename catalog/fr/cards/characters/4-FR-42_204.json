@@ -1,0 +1,43 @@
+{
+  "name": "Elsa",
+  "subtitle": "Chasseuse d'orage",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "4297327bb398ea35bc56d33043916d26c0135202",
+  "culture_invariant_id": 733,
+  "sort_number": 743,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "Après qu'Elsa eut dispersé la tempête d'Ursula, Anna restait introuvable.",
+  "rules_text": "TEMPÊTE – Choisissez un personnage qui gagne Offensif +2 et Charge pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +2. Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "42/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=c127cb47b2f76b72b168793ab233aef7cac01edfb9396d668e7f10b3721bcb2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=73dd46a840f5d600eafb5a054017bac1e74542bfa1997659b79f40426652bbf3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=99459480688b36fd433046dfd494af51c788541c74f9c277d5270051d828998f",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

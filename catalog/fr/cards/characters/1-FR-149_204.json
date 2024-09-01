@@ -1,0 +1,45 @@
+{
+  "name": "JASMINE",
+  "subtitle": "Reine d'Agrabah",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "200fff92d3781279a953ae4972866a4954a0ed17",
+  "culture_invariant_id": 149,
+  "sort_number": 149,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Jasmine.) PROTECTRICE Lorsque vous jouez ce personnage ou qu'elle est envoyée à l'aventure, vous pouvez retirer jusqu'à 2 jetons Dommage de chacun de vos personnages.",
+  "card_identifier": "149/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=49bd46bdb52b65ecff5fe9186accc05102281f772872dda9ddb3e48bca7514ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=7b90bd6984352c572b07325947cb358d2c5ce4a0bf8f69b33ea681613516c43f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=6b66bdcdc7542d4bca6284d9e09a493f909448c388ba3a09e68d52a0baf51a55",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

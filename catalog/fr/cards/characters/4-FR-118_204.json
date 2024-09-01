@@ -1,0 +1,41 @@
+{
+  "name": "Nessus",
+  "subtitle": "Gardien de la rivière",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Justin Runfola",
+  "deck_building_id": "98d6e4a3fbb055d7727131d403936f6a25c557ae",
+  "culture_invariant_id": 809,
+  "sort_number": 819,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Il a renvoyé les murènes venues porter l'offre de la sorcière des mers. Il n'avait pas besoin d'elles pour créer des problèmes.",
+  "rules_text": "",
+  "card_identifier": "118/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=ecf3e6daed065d132aba4102c4f896412769b1121285d2e3c0d207b0d12b1375"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=ff02e8126592c6684635a13783fd773294c2e5bed7e997873ffe0b2c741b7fb8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=00c234e878360a85d3dbab6a6f506e8417074074cc2d3d30b02b47e86f88c48b",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

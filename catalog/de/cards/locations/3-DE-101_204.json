@@ -1,0 +1,37 @@
+{
+  "name": "Zahn",
+  "subtitle": "Stadt am Fluss",
+  "willpower": 6,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Michael Guimont",
+  "deck_building_id": "ab87ad77d9132e447d7025f86689d1abc0aa9f5d",
+  "culture_invariant_id": 537,
+  "sort_number": 572,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ein Volk, beschützt von wilden Meuchelmördern und ihren sogar noch wilderen Katzen.",
+  "rules_text": "VON WASSER UMGEBEN Charaktere an diesem Ort erhalten Behütet und Wendig. (Gegnerische Karten können die Charaktere nicht auswählen, außer um sie herauszufordern. Nur Charaktere mit Wendig können diese Charaktere herausfordern.)",
+  "card_identifier": "101/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=68f9ec52ef99980780e59747fab8d57343c9ed44011557e16ddf762eab6c6b3f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=d60a7cccfdf7f2107b9ace781ac8455d6ea36f85385dac854f342a3b618c8149"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=2631a4302208ad261e7220a76bd259bea4c876689b115f9bd43b6601783e8fd7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

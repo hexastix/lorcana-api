@@ -1,0 +1,48 @@
+{
+  "name": "Prince John",
+  "subtitle": "Greediest of All",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "234f106f9cda1365ed6739c2c2de43bb307ce2a2",
+  "culture_invariant_id": 305,
+  "sort_number": 329,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: I have a Prince John - Greediest of All in play and play a You Have Forgotten Me, causing my opponent to discard 2 cards. Can I choose to draw only 1 card with Prince John’s I Sentence You ability?\r\n\r\nA: No, you cannot. When choosing to draw with Prince John’s I Sentence You ability you must draw equal to the number discarded. So in this example you would either draw 2 cards if you used the I Sentence You ability or 0 if you choose not to use it."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Prince"
+  ],
+  "flavor_text": "Taxes! Taxes! Beautiful, lovely taxes!",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) I SENTENCE YOU Whenever your opponent discards 1 or more cards, you may draw a card for each card discarded.",
+  "card_identifier": "89/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e507390955e17e4d83a845d58af72eeb712b9e38c575ecfa3338a2775d02e820"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=5295c16c59501a6c9294cd21253f8a2372e194abab63f136dd658a46ba4999dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=4d5c7ad2d1667c349e1ead69d7ef0da40627bf81625e216ad9ad5dfc7a8a8b34",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

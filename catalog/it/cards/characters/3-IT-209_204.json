@@ -1,0 +1,42 @@
+{
+  "name": "Malefica",
+  "subtitle": "Signora di Ogni Male",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Javi Salas",
+  "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
+  "culture_invariant_id": 645,
+  "sort_number": 680,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "SAPERE OSCURO Ogni volta che questo personaggio va all'avventura, puoi pescare una carta. DIVINAZIONE Durante il tuo turno, ogni volta che peschi una carta, puoi spostare 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "209/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=395e9c392b189d1b109ddd85c05d32d1b59e2155464c2f662f5c8d94da3d5e0b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=8d28470687f57fd5e816e52d355615a64eaaaaf28486b4b6d80074d8d5bc506c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=bbf42a4fc376250e1be4db82f23c2be50cc247f40a408c16d457c312389eb63d",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

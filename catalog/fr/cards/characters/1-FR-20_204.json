@@ -1,0 +1,43 @@
+{
+  "name": "SIMBA",
+  "subtitle": "Lionceau protecteur",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "6479a6ae550768c207018562ce6f687ec41e7c86",
+  "culture_invariant_id": 20,
+  "sort_number": 20,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Le courage ne dépend pas de la taille.",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il vous défie, un personnage adverse doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "20/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=ffea7b75b1362d25f3fa19f56169989198fc3abc272ffb5b601b35c793915577"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=85fb594e8b904da4bed9fc24f74da067b817757346934444cefb9587b9854ce2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=e90bca6fa9fa3318728b044b688777bc84a1f15891d3c5139c5a14e82ea8ae2a",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Eye of the Fates",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ron Baird",
+  "deck_building_id": "31ec2dd1c4e99314e1f758de9ca87d581629a5a9",
+  "culture_invariant_id": 167,
+  "sort_number": 167,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "You can change the future once you know what you're looking at.",
+  "rules_text": "SEE THE FUTURE — Chosen character gets +1 this turn.",
+  "card_identifier": "167/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=f3509c0f65170e10370ef62a9fa83954c05747c1f5edde1e03f2bb41055dc9c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=f07c1e5eed5f73bfc5a9de08b6865afef6fd44f75362328a420e45431ae75211"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=30f3aaaa81c0bbb7b6c627a75ea004e8cdc3391c421c068d202d90c9593fb9d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

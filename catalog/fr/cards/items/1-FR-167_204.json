@@ -1,0 +1,33 @@
+{
+  "name": "ŒIL DES MOIRES",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ron Baird",
+  "deck_building_id": "31ec2dd1c4e99314e1f758de9ca87d581629a5a9",
+  "culture_invariant_id": 167,
+  "sort_number": 167,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tu peux changer l'avenir, une fois que tu sais… où regarder.",
+  "rules_text": "VOIR L'AVENIR - Choisissez un personnage, il gagne +1 pour le reste de ce tour.",
+  "card_identifier": "167/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=a7bd53a508599cf04644a5a6c59fd9e971f440e0c2e2c9c42bdaaeb63f301fb9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=2f837c864137e61b09dd178a4c0e834f08b085826b9e21a791636daadce53d69"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=30f3aaaa81c0bbb7b6c627a75ea004e8cdc3391c421c068d202d90c9593fb9d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

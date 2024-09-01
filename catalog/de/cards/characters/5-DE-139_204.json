@@ -1,0 +1,44 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Die Grausamste von allen",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "6522f49b10eefa0162d9f38ed91efba1027e5efc",
+  "culture_invariant_id": 1095,
+  "sort_number": 1103,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Königin",
+    "Magier"
+  ],
+  "flavor_text": "Sie hatte gesehen, was die Tinte bei anderen Glimmern bewirken konnte. Was könnte sie für sie bewirken?",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "139/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=0043cfcf17cf311723d73fe47a72b349c0cf244ae5ccffcff9ddce43f80da4ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=e3506647d964ba82d6730f85c157dbc3df26cbe0c4f7fd85ff01c98bf0b1b304"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=16d3c017d5d5559319b772940e23ea10695214dcd00d11f80b01818b4cdd75ed",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

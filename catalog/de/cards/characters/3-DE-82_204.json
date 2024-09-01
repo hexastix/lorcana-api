@@ -1,0 +1,45 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Anführer der verwunschenen Kinder",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "2285e2c33a254aaef5023dfa9eb28a60fcdce67e",
+  "culture_invariant_id": 518,
+  "sort_number": 553,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich habe einen Peter Pan - Anführer der verwunschenen Kinder befindlich an dem Ort Das Schloss der Königin - Spiegel-Kammer, welcher einen Legendenwert von 2 hat. Wenn ich ihn jetzt an den Ort De Vil Herrenhaus - Cruellas Anwesen bewege, welcher einen Legendenwert von 1 hat, und ihn danach zurück an Das Schloss der Königin bewege, kann ich seine „Ich wollte dir so gerne zuhören“-Fähigkeit nutzen, um 2 Legenden anstelle von 1 zu sammeln?\r\nA: Nein, kannst du nicht. Immer wenn Peter Pan das erste Mal in einem Zug an einen Ort bewegt wird, muss seine Fähigkeit auslösen. Das bedeutet, sobald du Peter Pan an De Vil Herrenhaus bewegst, sammelst du eine Legende. Wenn du die Fähigkeit von Peter Pan einmal benutzt hast, kannst du sie im selben Zug kein zweites Mal benutzen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Die Luminari suchten jemanden, der ein verschwundenes Zauberbuch finden könnte. Peter war der erste, der sich freiwillig meldete.",
+  "rules_text": "ICH WOLLTE DIR SO GERNE ZUHÖREN Einmal pro Zug, wenn dieser Charakter zu einem Ort bewegt wird, sammelst du so viele Legenden, wie der -Wert dieses Ortes beträgt.",
+  "card_identifier": "82/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=ce61994a45694d3a877b1801da749dab6704a435f2414d0d5fc7c3e19fabb5aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=48096fdc5dda20e72bee058cc18b55436c510471d387e8259b4be4d847b63006"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=6dfa71b6ac2f8018ef692605dffa3c7d423d150b4695fe0dc2b3129ef8f0a5e9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

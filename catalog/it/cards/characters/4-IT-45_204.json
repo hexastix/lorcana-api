@@ -1,0 +1,43 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "Il Più Bel Fiore",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Otto Paredes",
+  "deck_building_id": "602e3638bdc1ac3933b370be9d140955b16e7df6",
+  "culture_invariant_id": 736,
+  "sort_number": 746,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) PRIMA LE SIGNORE Durante il tuo turno, se nessun altro personaggio è andato all'avventura in questo turno, questo personaggio riceve +3. LASCIA FARE A ME Ogni volta che questo personaggio va all'avventura, i tuoi altri personaggi non possono andare all'avventura per il resto di questo turno.",
+  "card_identifier": "45/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=8dcbbed07e259d2a64765c312cb3e3e905843c5e5f6143a80259760bbbb0eb69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=e29a4cdaae708dbf45f47f2e3c4e791027ffb4a012a3601e95aca62b08d0cbdc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=aebe2c3f0120ba2d60e39da2dac28f05bbcf2f4034b8a8b57d72cbf95b27c2fb",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

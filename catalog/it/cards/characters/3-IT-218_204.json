@@ -1,0 +1,41 @@
+{
+  "name": "Paperon de' Paperoni",
+  "subtitle": "Papero più Ricco del Mondo",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "b91ab841ba2a2c52983687a609e0d1a647a704f8",
+  "culture_invariant_id": 654,
+  "sort_number": 689,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "VADO A CASA! Durante il tuo turno, questo personaggio ottiene Sfuggente. (Può sfidare altri personaggi con Sfuggente.) NON SAREI DIVENTATO RICCO SE FOSSI STUPIDO Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, puoi giocare un oggetto gratis.",
+  "card_identifier": "218/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=b80fdbddcba05f5c77c6da5291c9f6cc2e0436af13bb35c1cf1596499d36a943"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=0d2cd1aed1e12f3f05e4c3e0b5966a99210e98d1fb8bb7b0ae501e07b72367f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=4c2fa33e064eb5a4664707560f6faed4fcd964a7905295e79af37a29545e10c3",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

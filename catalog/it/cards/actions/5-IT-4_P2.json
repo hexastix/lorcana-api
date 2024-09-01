@@ -1,0 +1,35 @@
+{
+  "name": "Chi Trova Tiene",
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Andy Estrada / Stefano Zanchi",
+  "deck_building_id": "5e2657fa5dbffd004f504784ce267a28e50d742c",
+  "culture_invariant_id": 1183,
+  "sort_number": 1191,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tre desideri, in arrivo!%—Iago",
+  "rules_text": "Pesca 3 carte.",
+  "card_identifier": "4/P2 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=cefc3895e1345a3c783aff7bd02ba8be77f9567dfbdd1ad79b49b8be8c6d9aea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=b3c4cc419f977952d726f749459f8165c49c9589c9cf38ebe454899ab3552f9f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/2/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=ed59dc6f22e504e6842b23230a431d2c9e17c06bd6ca11987c4419d74bbd156b",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

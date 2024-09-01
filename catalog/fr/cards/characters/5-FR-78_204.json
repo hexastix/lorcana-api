@@ -1,0 +1,41 @@
+{
+  "name": "Pâquerette",
+  "subtitle": "Bonne fée",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Eri Welli",
+  "deck_building_id": "80f8d403733258ddff42af40cd89a07b1594a58c",
+  "culture_invariant_id": 1034,
+  "sort_number": 1042,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "Le secret d'un bon gâteau repose sur la combinaison parfaite de ses ingrédients. Chacun est important, mais la magie réside dans la façon dont ils se mélangent.",
+  "rules_text": "",
+  "card_identifier": "78/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=430698bb81ead2ae7b87e6ea3b137091ed7c55ece6bc0dd1b9fddaeb1b1dab60"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=238f5b6ddd4304651d3a13b07839b63efd0512294f341f5191f52962f933b063"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=d15ddc26df18a71270366e713125454deab257d71fd4ec24c6e41ec78f1e9374",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

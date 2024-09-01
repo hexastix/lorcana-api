@@ -1,0 +1,41 @@
+{
+  "name": "Triton",
+  "subtitle": "König Triton",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "b02a117d318568eba0e9424b437a3c859e60618a",
+  "culture_invariant_id": 160,
+  "sort_number": 160,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "Ist ‚Weil ich es sage‘ nicht Grund genug?",
+  "rules_text": "",
+  "card_identifier": "160/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=c6144f887bc8fa746348447c70d1ac5393ed36bfa2bc7cf6176656e315bf3a80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=fca742e0d849f6ad291d1ee97b361a813f9ba1a1f66ca2ab419e24d769072a30"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=90d425e94a0cf3d7b64f85a5662ac5135fbe01af32b5f700380c8488a91cc69e",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

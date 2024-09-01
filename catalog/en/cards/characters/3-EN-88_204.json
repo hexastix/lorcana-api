@@ -1,0 +1,41 @@
+{
+  "name": "Starkey",
+  "subtitle": "Devious Pirate",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Adam Ford",
+  "deck_building_id": "17b27e31ba063f2c7253c785852ec64a1adf6d30",
+  "culture_invariant_id": 524,
+  "sort_number": 559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "Point him in the right direction, and he'll do the rest.",
+  "rules_text": "",
+  "card_identifier": "88/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=fbb8a1252d52a31f19abea8fc9eebd15c909bec9d1fb0cdc897b2fffe7c4f597"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=aebb0ed06ebed15e58621e1a654fdda3db92953c028438591ceee4b2bab2de85"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=f551d41033a4003662c629e5ef3cf1d64573f19e2ac686f45d2bc698af836b85",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

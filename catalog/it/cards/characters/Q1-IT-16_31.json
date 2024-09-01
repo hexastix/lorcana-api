@@ -1,0 +1,40 @@
+{
+  "name": "Figlie di Tritone",
+  "subtitle": "Coro Dissonante",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Jenna Gray",
+  "deck_building_id": "a6c3eac92720ad9f4b95a47ec4c363bc8d69536e",
+  "culture_invariant_id": 929,
+  "sort_number": 949,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Aggrovigliato",
+    "Alleato",
+    "Principessa"
+  ],
+  "flavor_text": "Forse avrei dovuto prendere anche le loro, di voci. Beh, ci sarà sempre tempo più tardi per farlo.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "16/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=18377881b5bbf71c0d4d569c1dcb5d3b3fabfe9df6cd6215e15f2001fb743dc7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=e883b3af89ea916e3b112e862ae8c6e1159b31bc86982ec905aecd43a419f7b4"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

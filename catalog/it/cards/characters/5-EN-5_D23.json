@@ -1,0 +1,46 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Sugar Rush Princess",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Vanessa Morales",
+  "deck_building_id": "6587479529519fdd93c24cecd1d0c2d05d2524b1",
+  "culture_invariant_id": 1195,
+  "sort_number": 1195,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named Vanellope von Schweetz.) I HEREBY DECREE Whenever you play another Princess character, all opposing characters get -1 until the start of your next turn.",
+  "card_identifier": "5/D23 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=52baba0dc0702e3a1ef91bf166817e46257f1cfda2c7dc2ce1eb27ffa2b4b8ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=49171bceb7b41b8f2e4e40dd815fa79884ef49da405337728d50bea425209156"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/4/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=6b79e708f3da07efd0012877f01a8fde9f939597d337ddd0ea48f3863d078b1f",
+  "special_rarity_id": 1,
+  "foil_type": "FreeForm",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

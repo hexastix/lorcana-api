@@ -1,0 +1,33 @@
+{
+  "name": "Smaragd Chromikon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "e8d2c7ee84a66e7cf0184644c8a27abafeef32a3",
+  "culture_invariant_id": 1056,
+  "sort_number": 1064,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Vertraue dem Wind des Wandels.%—Inschrift",
+  "rules_text": "SMARAGDFARBENES LICHT Jedes Mal, wenn einer deiner Charaktere im Zug einer gegnerischen Person verbannt wird, darfst du einen Charakter deiner Wahl zurück auf die zugehörige Hand schicken.",
+  "card_identifier": "100/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=27b34b5342633f2d6cd1ab0cb975d05869071120f82cd3f94e6725c2024875b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=e160762889a4365141d9e80cdcc1fc6ea59f30d52be5231ba4b8d2579cca0b23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=094cc5adec3d56b45f8ccba8ce096aa97e77b075c7e3ec146ef36c4ce17ac910",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

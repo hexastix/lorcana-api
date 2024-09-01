@@ -1,0 +1,43 @@
+{
+  "name": "Olaf",
+  "subtitle": "Compagno Fiducioso",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Brian Kesinger",
+  "deck_building_id": "cbab906d9150c14ea179ca6198b84543704569f4",
+  "culture_invariant_id": 841,
+  "sort_number": 851,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Non è il cappello di Kristoff? Se è andato da quella parte, verrà sorpreso dalla tempesta!",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "150/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=6198ae82e7a5a6db524da26a262063f727f458bdd8c1c1be12b46df60d0525b0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=e8b4b5a01157e3f763b7b87cdb701ce6631b9d2f9de070d2ae1daf5fe128003a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=89e50179f5393963ff48c5d8e07cbc58c0211aec73a646c400f53c9f6aa36d91",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

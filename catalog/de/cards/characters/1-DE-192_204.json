@@ -1,0 +1,41 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Herzlos",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "29e6f53be8b584a90a734c8e03db35d6c7221778",
+  "culture_invariant_id": 192,
+  "sort_number": 192,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Gottheit"
+  ],
+  "flavor_text": "Maui: Schon mal ein Lavamonster besiegt? Vaiana: Nein. Und du?",
+  "rules_text": "SUCHE DAS HERZ Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, sammelst du 2 Legenden.",
+  "card_identifier": "192/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=588ddacbe0665a834f6d6ea5b401cf828a08333ea67925d88a010177489401da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=bedc3f0459572098192c7954a7699eb5a5dfcacc30b1f4c8fb3315a17736a089"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=3a8de2ad54b4dbd4559c15a85933c414ff7dc4319417f97a1b9c62ff4980969d",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

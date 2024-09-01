@@ -1,0 +1,48 @@
+{
+  "name": "Gute Fee",
+  "subtitle": "Magische Waffenschmiedin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "38afe33729ebebc667c2357984ce9c75a090da76",
+  "culture_invariant_id": 257,
+  "sort_number": 281,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich mit meiner „Gute Fee - Magische Waffenschmiedin“ erkunde und ihre Fähigkeit „Vergiss die Kutsche, nimm ein Schwert“ benutze und danach einen „Maui - Held von allen“ spiele und mit diesem Maui eine Herausforderung starte, erhält er die Fähigkeiten Herausfordern +3 und „Wenn dieser Charakter durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand\"?\r\n\r\nA: Charaktere, die nach Verwendung der Fähigkeit „Vergiss die Kutsche, nimm ein Schwert“ gespielt werden, erhalten nicht Herausfordern +3 und „Wenn dieser Charakter durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand“. Nur Charaktere, die zu dem Zeitpunkt wenn du mit Gute Fee erkundest auf dem Spielfeld liegen erhalten die Fähigkeit.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Mentorin",
+    "Fee"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Gute-Fee-Charaktere auszuspielen.) VERGISS DIE KUTSCHE, NIMM EIN SCHWERT Jedes Mal, wenn dieser Charakter erkundet, erhalten deine Charaktere in diesem Zug: „Wenn dieser Charakter durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand“ und Herausfordern +3. (Während die Charaktere herausfordern, erhalten sie +3.)",
+  "card_identifier": "41/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=e470cb15b7ccae94cf818355b27a7c5ea408cb8b53ed8e1e57524e80f812a9b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=ecdc630964a65705f790eb53630dbbefab4d4cbd97376cc0ff84f726b240f345"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=11f9751a2b0e9b0937622af07aa73582a4f5f9b4842bbc6788c488c1b7e62e2b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

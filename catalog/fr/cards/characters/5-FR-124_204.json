@@ -1,0 +1,44 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Coureuse aléatoire",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hyuna Lee",
+  "deck_building_id": "2483833c1a9722badae219f59fbfceff004e5d39",
+  "culture_invariant_id": 1080,
+  "sort_number": 1088,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) PIXLEXIE Lorsque vous jouez ce personnage, il gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "124/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=de45c0619a84d9bf97fa5d5e18e1dc354b3ee2b1e7c691b7ce2155057328f5ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=3a1416dc6e4d3becc6df1723d43e3ef601029603367be114f6f63a6310f24d1d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=c16013b58bc24d6d1f20373017b9322eb85dd330b0ab9aba1c68aff66085f42e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

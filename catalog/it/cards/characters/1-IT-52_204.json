@@ -1,0 +1,41 @@
+{
+  "name": "Olaf",
+  "subtitle": "Amichevole Pupazzo di Neve",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Giulia Riva",
+  "deck_building_id": "1bf94a823f68742ae9675a5e30529f8865d22fac",
+  "culture_invariant_id": 52,
+  "sort_number": 52,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Io sono Olaf e amo i caldi abbracci!",
+  "rules_text": "",
+  "card_identifier": "52/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=1d7e43089fcce4647a8ef7fd67d57dacd97afef3901d2b0b1552f1e2e97f0ce9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=793d2efa473543528b38ee3060846d80474650ee4ea24147d2c344cb0bd00939"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=3fb827af7bb16830ccbc53f2e41bf730e78686ad43f98c0f104a50904a9bab1b",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

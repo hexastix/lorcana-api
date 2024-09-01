@@ -1,0 +1,42 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Weather Maker",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1aea1a364780b0736c993d3055013dd602442cf8",
+  "culture_invariant_id": 744,
+  "sort_number": 754,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "IT LOOKS LIKE RAIN When you play this character, you may exert chosen opposing character. That character can't ready at the start of their next turn unless they're at a location.",
+  "card_identifier": "53/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=3421f07c42a649dee550c0b485abeccee200a796f5a66e0216b3237261da4975"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=c9d329de535009446c45f8ebc935021c3cd96287732c3dae699a49f470fe9f94"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=5e5e3c5dd4992f3ebeb7ef7dc21bb2a3a1859f3000243838b49cc1aa0d88d7e5",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

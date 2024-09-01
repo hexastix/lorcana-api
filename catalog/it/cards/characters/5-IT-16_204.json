@@ -1,0 +1,40 @@
+{
+  "name": "Paperina",
+  "subtitle": "Ragazza di Paperino",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 1,
+  "author": "Francesco D'ippolito / Giuseppe di Maio",
+  "deck_building_id": "2ed178001e5757cae12c87f032cde03a7dc7948f",
+  "culture_invariant_id": 972,
+  "sort_number": 980,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRIMO PREMIO Ogni volta che questo personaggio va all'avventura, ogni avversario rivela la prima carta del suo mazzo. Se è una carta personaggio, l'avversario può aggiungerla alla sua mano. Altrimenti, la mette in fondo al suo mazzo.",
+  "card_identifier": "16/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=92fd8098707638c7df80659bfe57ee12157907dd4dd1b6e057339e69bedceef9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=2f8f488fcf309415b6fcbfbf8912d27d74924c173f9eefc04c63f6c9a5ae32a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=8b48f0889608c3ddb6b82ab470833d2a3dd8617115acc9885eab39c2213eab93",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

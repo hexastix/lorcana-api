@@ -1,0 +1,40 @@
+{
+  "name": "ARCHIMÈDE",
+  "subtitle": "Hibou extrêmement instruit",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d5d8e83c23339a91ca0c28486ec60caa97153511",
+  "culture_invariant_id": 36,
+  "sort_number": 36,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Voler a toujours été plus que l'application de principes mécaniques. C'est un art délicat. Purement esthétique. De la poésie en mouvement. Et la meilleure façon de l'acquérir, c'est de l'exercer.",
+  "rules_text": "",
+  "card_identifier": "36/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=59c224e3337ed1797f192a6c5c8a8e77f104f03e7fae2bba05735d9d7bce40d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=df84a558609013efd0b4d9d8e609ee6acd4e13347427cd05deea3bee1a9c56e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e39a9f0487f0dbc190bd508afeca0562cc2bbc8c7b811edee292f734015e7df6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

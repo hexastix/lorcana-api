@@ -1,0 +1,46 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Charming Rogue",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "5fbb4404791aacf38f1c7a5736e154eb4a398b23",
+  "culture_invariant_id": 74,
+  "sort_number": 74,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have 2 cards in my hand. My Jafar – Keeper of Secrets challenges an opposing Flynn Rider – Charming Rogue. When do I use Flynn Rider’s Here Comes the Smolder ability? How much damage will Flynn Rider take from the challenge, considering Jafar’s ability Hidden Wonders?\r\nA: You use Flynn Rider – Charming Rogue’s Here Comes the Smolder ability as soon as he’s chosen for an opposing character’s challenge. This means the challenging player must discard a card before any damage from the challenge is dealt to either character. In this case, you’ll have to discard 1 of your 2 cards, so you’ll have 1 card left. Jafar – Keeper of Secret’s ability increases his Strength by the amount equal to the number of cards in your hand, so Jafar will have 1 Strength when he deals damage to Flynn Rider.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "I didn’t want to have to do this, but you leave me no choice.. . .",
+  "rules_text": "HERE COMES THE SMOLDER Whenever this character is challenged, the challenging player chooses and discards a card.",
+  "card_identifier": "74/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=bd51f650cd3a165cb12319aa05ac671eb6d8c79f7c475e5980672a91e88474fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=8053ac7047a85b16f34bd9917b9a9bb1b327538ac5c61c8ec0ae1c2864e6c079"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b8e3df720c206a08c1c8a08b02e9ef311b99a7abd2971140cfbe66eeb9bcfd65",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

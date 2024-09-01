@@ -1,0 +1,48 @@
+{
+  "name": "Von Unruh",
+  "subtitle": "Standuhr",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "a1c1148044f285d2b55c6344c445f396d8b4c5a2",
+  "culture_invariant_id": 358,
+  "sort_number": 382,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich 2 Kopien von „Von Unruh - Standuhr“ im Spiel habe, wie viel Robust haben meine Charaktere jeweils?\r\n\r\nA: Robust ist eine additive Fähigkeit. Das bedeutet, dass jede Kopie von Von Unruh durch ihre „Entschleunigen“ Fähigkeiten der anderen Robust +1 verleiht. Alle deine anderen Charaktere erhält insgesamt Robust +2.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Von-Unruh-Charaktere auszuspielen.) Behütet (Gegnerische Karten können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) ENTSCHLEUNIGEN Deine anderen Charaktere erhalten Robust +1 (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.)",
+  "card_identifier": "142/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=9a0a644f8d80a2a14a2e6043a0099e4810f973268316b6ae44d9052364090f41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=e81f9f1030e35ce1ca9020efa825b3bde047c4ec42147be31b94c0640a37b757"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=0a7b0b6f8cc34d44b173decded7d639c80529dc2d5213a051df8a303d5e13f92",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

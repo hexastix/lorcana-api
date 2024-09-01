@@ -1,0 +1,49 @@
+{
+  "name": "Stitch",
+  "subtitle": "Rockstar",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 23,
+  "sort_number": 23,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Angenommen, ich habe „Stitch – Rockstar“ im Spiel und einen Charakter mit Kosten von 3 auf der Hand. Wenn ich die Himmelslaterne benutze, um 1 Tinte weniger zu zahlen, um diesen Charakter zu spielen, kann ich sie dann erschöpfen, um eine Karte mit Stitch zu ziehen?\r\n\r\nA: Es werden nicht die Kosten des Charakters durch die Himmelslaterne reduziert, sondern der Betrag an Tinte, den man zahlen muss. Die Kosten des neuen Charakters würden immer noch 3 betragen, so dass er sich nicht als Fan von Stitch qualifizieren würde.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "Das Beste an einem Konzert am Strand ist, dass es immer Platz für noch mehr Publikum gibt.",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Stitch-Charaktere auszuspielen.) BEGEISTERTE FANS Jedes Mal, wenn du einen Charakter ausspielst, der 2 oder weniger kostet, darfst du jenen erschöpfen, um 1 Karte zu ziehen.",
+  "card_identifier": "23/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=541e38e8ff45705e5355dfe6aeb76bfa2aadc8d8fbbf64f44a85aaaa1a24f9da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=303a8db1857737654d98656d54f20e400f65a6db164f223e09b1213237ccba68"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=533609ad0a3d7b1ac1e2400f155d16e5ba94857fca344d11f2acd467137614d5",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

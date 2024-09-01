@@ -1,0 +1,43 @@
+{
+  "name": "Turbo le Pilote",
+  "subtitle": "Hack royal",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "b8da8904ffbfda9ff8696e65ffc6d53e7848dbad",
+  "culture_invariant_id": 1062,
+  "sort_number": 1070,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) SAUT DE JEU Lorsque vous utilisez une capacité Alter, ce personnage peut aussi être considéré comme un personnage nommé Sa Sucrerie.",
+  "card_identifier": "106/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=b60b83884eda6441e98146021f1ee9e6c403e0fabcf97da85277866f7d5a5ba4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=13492417a1e84783cf08c1efa5ba5cf745546160b67741fd966e6ba258902121"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=53ad86aec7ddd2a5564e9a8cf11d141226aba4cd2cd137643e20661105240558",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

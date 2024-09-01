@@ -1,0 +1,42 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Hauptattraktion",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Brian Kesinger",
+  "deck_building_id": "c3a3e22a3dc8e185181d63b0572644983c11e23a",
+  "culture_invariant_id": 1005,
+  "sort_number": 1013,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Passt genau auf! Es ist Zeit für ein bisschen Täuschung!",
+  "rules_text": "SPEKTAKULÄRER ENTERTAINER Solange dieser Charakter erschöpft ist, werden gegnerische Charaktere zu Beginn ihres Zuges nicht bereit gemacht.",
+  "card_identifier": "49/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=660181bae3df085251a953393827a756d75e17fd49fd40b99e70d062cdc9554c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=cfdc011cbbb2a44dcf17d6b92cc34c95f176947197dce45e260b377a97a4169b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=2f0b15961015df50252b4ea6deceaafaa8030a19457712b16b6e9ddaecf4416f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=6529b3acfd7b015f40809084945fff004f754c41aff9824724da1b10667918be",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

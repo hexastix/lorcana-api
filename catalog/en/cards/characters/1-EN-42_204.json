@@ -1,0 +1,49 @@
+{
+  "name": "Elsa",
+  "subtitle": "Spirit of Winter",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 42,
+  "sort_number": 42,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I use Elsa – Spirit of Winter’s ability Deep Freeze to exert 2 characters, can those characters be readied with an ability or effect such as Fan the Flames on their next turn?\r\n\r\nA: Characters exerted with the ability Deep Freeze can be readied by Fan the Flames and similar abilities.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "Ice is stronger than you may think.",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Elsa.) DEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
+  "card_identifier": "42/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=1d1b7c4f4598b830555980fb60d584ba608d72801d0d9849ef369a7d86ecf9ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=611923dd7a0cf63de93da67cecbdb8ca51a0a07687cd63678f2245438f9e7c60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=8287523c7185d1e798e4e4f1b708f788c27b28990dcc7fddf9fc0532d90aa798",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Joyeux",
+  "subtitle": "De nature joviale",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kendall Hale",
+  "deck_building_id": "0157bb5c2ecca10239adf522033e57b4905afa65",
+  "culture_invariant_id": 227,
+  "sort_number": 251,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Sept Nains"
+  ],
+  "flavor_text": "Vous n'auriez pas pu piocher un meilleur ami.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa à celle d’un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "11/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=e707e2fd90026337ff7482c14e8dce9da3d9ffd5f1e01162985ca9b9e4c387d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=827ce373d395f1805a893c98cbc14fb2294bce48e4d234541d4d7ffebe3b8f7b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=46713116ce85806d3da17436bde69757e4322f810fbafe1dc9b43753999ecc7a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

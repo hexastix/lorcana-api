@@ -1,0 +1,46 @@
+{
+  "name": "Queen of Hearts",
+  "subtitle": "Capricious Monarch",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jenna Gray",
+  "deck_building_id": "5f88c9d9b2d3f07479499c3c01721501feaa1469",
+  "culture_invariant_id": 408,
+  "sort_number": 432,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: If an opposing character challenges a character during their owner’s turn and is banished during the challenge can I ready my Queen of Hearts- Capricious Monarch using her Off With Their Heads! ability?\r\n\r\nA: Yes, you can."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "The fourth Rule of Villainy: Do whatever it takes to get ahead.",
+  "rules_text": "OFF WITH THEIR HEADS! Whenever an opposing character is banished, you may ready this character.",
+  "card_identifier": "192/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=6d40ef435098a565cc1380f9257c54f1c0c0a6f2f423255950473d23e1b14865"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=84e0e566290442052ed7e0419086f2b95f0235f4291d0346b129f4a965be9f91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=a8337d4a0f2b2fefb6ec1767c73f6835ab673f62f31ffe029da7f6a3eee83da9",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Xaver Hampelmann",
+  "subtitle": "Spielzeugmacher",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "671965c7095dd8a31d791f102a4dc3e789f6a21b",
+  "culture_invariant_id": 365,
+  "sort_number": 389,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Erfinder"
+  ],
+  "flavor_text": "Mit den Möglichkeiten im Illuminarium vermag er noch größere Wunder zu erschaffen.",
+  "rules_text": "HANDWERKER Wenn du diesen Charakter ausspielst und jedes Mal, wenn er erkundet, darfst du einen deiner Gegenstände verbannen, um 2 Karten zu ziehen.",
+  "card_identifier": "149/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=debf83aa0eb614e8366e0c4dd02cf0d17097de88d52294a4714d367722347326"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=32cb7d300596c07c80e898bcf8bf04c240e7295ccaa5f62f69ba949369fe31b7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=68bfcc21c650ecd570d63f18576ed454faf1fd468555cce1a75334964ed896c0",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

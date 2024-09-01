@@ -1,0 +1,45 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Pie Slinger",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "César Vergara",
+  "deck_building_id": "92fccc7cdd7f354c194d3872d469ff147c33e442",
+  "culture_invariant_id": 1063,
+  "sort_number": 1071,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Knight"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Donald Duck.) HUMBLE PIE When you play this character, if you used Shift to play him, each opponent loses 2 lore. RAGING DUCK While an opponent has 10 or more lore, this character gets +6.",
+  "card_identifier": "107/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=e5b08f497946405b9a6a36cb9b6853ba0fdc916e0a60f1c0899f8f5829bf3b92"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=64645b14f070a3cdcf1a5de07ac79b39c95836a4d3e16914516980573487150c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=23657297193d13f25ace2a9d16c567a7c94b8de4b337943440656b8b01ab02b3",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=f8f41358993bd13dcbe16e7929dac32dc065da0143226f2b8f3283dc43919629",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

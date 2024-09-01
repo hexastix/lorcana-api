@@ -1,0 +1,41 @@
+{
+  "name": "Malefiz",
+  "subtitle": "Böser Besuch",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Nicholas Kole",
+  "deck_building_id": "adecc4b6ee1d237ebac87d8e0f1e47f2dd689564",
+  "culture_invariant_id": 150,
+  "sort_number": 150,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Die Prinzessin soll strahlend und schön wie eine Rose erblühen. Und von einem jeden geliebt werden, der ihr begegnet. Jedoch, bevor noch die Sonne an ihrem 16. Geburtstag untergeht, soll sie sich mit der Spindel eines Spinnrades in den Finger stechen...",
+  "rules_text": "",
+  "card_identifier": "150/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=271749719821f679e4a8e390a867c29852cc81d5f5cceed776ff06ae122e6cb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=231662676636d6d53bd52537e52cb4f389d6c61c946ee287a1162a6e3a793b33"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=252090c9d14cc08a34fe3f981ff2ee8118f664605ff4198dfb3b7b7270a52e11",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

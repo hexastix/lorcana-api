@@ -1,0 +1,36 @@
+{
+  "name": "How Far I'll Go",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Anna Rud / Anna Stosik",
+  "deck_building_id": "eddcb5e8b24a67d1fe9ba072650341d9017300d3",
+  "culture_invariant_id": 597,
+  "sort_number": 632,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 4 or more can to play this song for free.) Look at the top 2 cards of your deck. Put one into your hand and the other into your inkwell facedown and exerted.",
+  "card_identifier": "161/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=9b25f25623bb9e23171b5da067e358559fc567f2fd21610e369b2ebe6df24a26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=88afcd0f8dcd1a957adc4eb0caa91a81f53f41a0c85ade707beeccfa7d144ae2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=781f1281451988a02f6a1b5629c7b2fb80996aa17087809c65f5b24f636577f2",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

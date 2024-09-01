@@ -1,0 +1,42 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Génie du crime",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michaela Martin",
+  "deck_building_id": "20f1cee3efa42ca0bdb7295992b0b9f485f9c40e",
+  "culture_invariant_id": 307,
+  "sort_number": 331,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant"
+  ],
+  "flavor_text": "Cette fois-ci, je me suis surpassé! Bientôt, j'aurai enfin tout ce que je mérite: richesse… pouvoir… et tout un royaume à mes pieds!",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "91/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=38aa5ea0d27949a524880fa0133294ffe76d497884a7d5459db14d69b036e7cd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=1145b080f715c9637e1a938295004670066dbdca39547b2ec548d5da9f4aca05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=345b3a86e0cfe5c871038807c345dba89b0fb780be96996a2538b5582ff98e68",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Luisa Madrigal",
+  "subtitle": "Magically Strong One",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "e5dd22ae0e83e9f520522e07643858b4e2d081e7",
+  "culture_invariant_id": 738,
+  "sort_number": 748,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "This rock? No problem. Go get that prophecy, hermana!",
+  "rules_text": "Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "47/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=5c9baa31a228bf8e1fd7d9cdde9e6f29e9bcc1a9ee6a182df17433502a7e64db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=ac9c0ccf6dce0e109ff197155fcdb624db87147b982931a266a91dc2f2a3cd39"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b5797be9fc2f3378c121a082d727e8ee3d75012b31d077bc2036faae9bb9839b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

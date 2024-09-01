@@ -1,0 +1,43 @@
+{
+  "name": "CENDRILLON",
+  "subtitle": "Douce et charmante",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Javier Salas",
+  "deck_building_id": "933453208f4cab4b5eacd5391db6a6cf95b7e691",
+  "culture_invariant_id": 3,
+  "sort_number": 3,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Mélomane 5 (Ce personnage est considéré comme ayant un coût de 5 pour chanter des chansons.) UN RÊVE MAGNIFIQUE – Choisissez un personnage Princesse et retirez-lui jusqu'à 3 jetons Dommage.",
+  "card_identifier": "3/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=695beded0c40ad3542e2eee9e4efce22c5c160b5202183b7786d843b8f4977cd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d0c6e7e4f9d9c437c1cb24da81b8e9f784f7299ae1c0fe6b0ba477536eb357a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=1cb28e0e8d95a11a09cbd0db109ab7f2cc027303f3c7d6ecdee43949b183ce3f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

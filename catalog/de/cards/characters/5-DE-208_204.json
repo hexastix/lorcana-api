@@ -1,0 +1,45 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Elektrifizierte Eule",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Andrew Thompson",
+  "deck_building_id": "578bdd170d24c10c27b0de9d21eb62b130201c69",
+  "culture_invariant_id": 1164,
+  "sort_number": 1172,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel",
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Archimedes-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) Herausfordern +3 (Während dieser Charakter herausfordert, erhält er +3.)",
+  "card_identifier": "208/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=a31b491efe2fd24e5d73a3c7606548db19c718e47692dc8c1c791acc6060723c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=3003bc3207d77d9582157dd16e062c5a552e80f024eef8b4f0406bf2f7fa755e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=47c1b834f4bb934b0e803dcf843f011db04ae69c655ad25db0fa1ffff7477c75",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

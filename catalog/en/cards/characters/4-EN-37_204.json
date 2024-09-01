@@ -1,0 +1,41 @@
+{
+  "name": "Belle",
+  "subtitle": "Untrained Mystic",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Angelina \"Spikie\" Ricardo",
+  "deck_building_id": "978ddff2c7a02c8c94056556dc73c364c4039837",
+  "culture_invariant_id": 728,
+  "sort_number": 738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "No matter what she tried, Belle couldn’t completely heal Beast’s wound.",
+  "rules_text": "HERE NOW, DON'T DO THAT When you play this character, move up to 1 damage counter from chosen character to chosen opposing character.",
+  "card_identifier": "37/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=653bc156656da05f2112731ffa964cc3198a435316f3f03d18bfdbccca64df52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=0f0a9a2c9bd210a5befd05b15860020fcdac08e219160eff962fe98d8b2da231"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9e2d14e8782d29b3fad4ae121725d5bdcbae78a4e23ca7bb96fc8a65a3e4b0d5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

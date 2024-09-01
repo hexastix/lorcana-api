@@ -1,0 +1,34 @@
+{
+  "name": "Sfasciare",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "31fe827aea4cf5f6ace7de2c21de0b5f6b783858",
+  "culture_invariant_id": 200,
+  "sort_number": 200,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Andate via!",
+  "rules_text": "Infliggi 3 danni a un personaggio a tua scelta.",
+  "card_identifier": "200/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=ec9ca3d192e00decf9c4f769dfa483806beb8cfa1569bcb19887d06373025cf7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=dab51fcf3911df465f1e3f200ff6c0326b0ecb325a7711edebdfbbaa1743317c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=adabe6d301dc140e8769e5a3c98afbc13ecf81306abd16876f2d1bc382340733",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

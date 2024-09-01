@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Rechtmäßiger König",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "d5e96e3c5cf16c5011f1aa8018f87b668ff17dbf",
+  "culture_invariant_id": 629,
+  "sort_number": 664,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "König"
+  ],
+  "flavor_text": "Da die Gefahren stetig zunehmen, braucht das Rudel seinen Beschützer.",
+  "rules_text": "TRIUMPHALE HALTUNG Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, wähle einen gegnerischen Charakter. Er kann in seinem nächsten Zug nicht herausfordern.",
+  "card_identifier": "193/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=098390088b89cd499b9173909fae7e47f7ba4164022a4896424ca252415b5b38"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=fd1ec7e41310a9630b7b152bd7fdd7b9d823dffe8cfaba5fbb6e76fac1077111"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=2f6a33b096c6ce5264ad197c91063355a96ee4a19dc4dcf9582f5c468752f939",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

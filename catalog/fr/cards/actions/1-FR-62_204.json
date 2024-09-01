@@ -1,0 +1,38 @@
+{
+  "name": "EMBERLIFICOTAGE",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d9b6684b864d7b7c8687dfcd67cb58657046b9bb",
+  "culture_invariant_id": 62,
+  "sort_number": 62,
+  "additional_info": [
+    {
+      "title": "Errata",
+      "body": "Il y a un errata pour la carte \"EMBERLIFICOTAGE\".\r\nAprès un examen approfondi, nous avons déterminé que le texte de la carte est incorrect. La version corrigée de la carte sera désormais jouée avec le texte suivant : \"Choisissez et renvoyez un personnage ou un objet coûtant 2 ou moins dans la main de son propriétaire.\". Nous nous excusons pour ce désagrément et demandons à chacun d'utiliser la version mise à jour de la carte afin de garantir un jeu fluide.\r\n\r\nAncien texte :\r\nRenvoyez un personnage ou un objet coûtant 2 ou moins dans la main de son propriétaire.\r\n\r\nNouveau texte :\r\nChoisissez et renvoyez un personnage ou un objet coûtant 2 ou moins dans la main de son propriétaire."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ne sois pas effrayé d'être stupéfait de temps en temps.",
+  "rules_text": "Renvoyez un personnage ou un objet coûtant 2 ou moins dans la main de son propriétaire.",
+  "card_identifier": "62/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=45c650ad4824fb6e4f53ec0db20f0f2db6e51098c79a5b78219229d28bba6189"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=53626c023fdc3c0da9a520c68c9be6cdebaba7b50893b3386a39ad78a3a75785"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=0b02d75f5d1deedcf2a86a4af374f94919c11252e4ddaa5ee75e373f1ef496f9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

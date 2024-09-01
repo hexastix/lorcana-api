@@ -1,0 +1,42 @@
+{
+  "name": "Flotsam e Jetsam",
+  "subtitle": "Murene Aggroviglianti",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Brian Kesinger",
+  "deck_building_id": "c63d1e30731763bca52de192578836dccb9a5fb1",
+  "culture_invariant_id": 735,
+  "sort_number": 745,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione: Scarta 2 carte (Puoi scartare 2 carte per giocare questa carta sopra a uno dei tuoi personaggi chiamato Flotsam o Jetsam.) (Questo personaggio conta come se si chiamasse sia Flotsam che Jetsam)",
+  "card_identifier": "44/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=9b9a75168bf46217350230efd07e495c58517cdbc78f1e0a01a4321b78e3d3af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=05debc277f4c76abb12ce7fffe1dad8d13425762e2308b9ffbc76b1dfdfca30a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=513ad29e295570477140dac1b01bb77e7decfd06e6156234f441b258eda78855",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

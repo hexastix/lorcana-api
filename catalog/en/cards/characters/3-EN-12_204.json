@@ -1,0 +1,43 @@
+{
+  "name": "Nani",
+  "subtitle": "Protective Sister",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "ba2f05538e1999601db469cfe0b44f78bcbdb61c",
+  "culture_invariant_id": 448,
+  "sort_number": 483,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Let me handle this, Lilo.",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "12/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=7ae79ed9be66a98c9deec7a7d67de081d6513cd9d28e44ec7849d41f952781b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=47a424cf6e48970076c486559108a630099aba8770b40f138844f12f5a7bc4cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=363c605d05de0d1f2a810541757ce7f90a3fde8cc0653ee93302b8be5fa4a02d",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

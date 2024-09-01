@@ -1,0 +1,42 @@
+{
+  "name": "Audrey Ramirez",
+  "subtitle": "L'ingénieure",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Richelle Canto",
+  "deck_building_id": "2e16aefcc21576313bee509a1ee6d1b6a30a558a",
+  "culture_invariant_id": 573,
+  "sort_number": 608,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Comment as-tu fait pour casser ça?",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) PIÈCES DÉTACHÉES Chaque fois que ce personnage est envoyé à l'aventure, redressez l'un de vos objets.",
+  "card_identifier": "137/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=efecdbc6c7168f150db98746f2cb095e106bac2ccf6af4bb830e6d4db83719f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=1f3f5af3012d9bcde9c2b6dcbb9700b3a74ad2cc6d84c4941ae67db1d0d2d341"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=d3799704def71d1b34368f03ab48e30f697bb5989679b5b1951f981853a3a9d7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

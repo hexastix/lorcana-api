@@ -1,0 +1,44 @@
+{
+  "name": "Naseweis",
+  "subtitle": "Gigantische Fee",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Cookie",
+  "deck_building_id": "5ba0aae83bc08edf19274cb2f525d456366f647f",
+  "culture_invariant_id": 216,
+  "sort_number": 216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündete",
+    "Fee"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Naseweis-Charaktere auszuspielen.) FLUTWELLE Wenn du diesen Charakter ausspielst, füge jedem gegnerischen Charakter 1 Schaden zu. MICKRIGER PIRAT! Jedes Mal, wenn dieser Charakter in deinem Zug einen anderen Charakter durch eine Herausforderung verbannt, darfst du einem gegnerischen Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "216/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=ae760f1554e3a71aab8ef2c2c45d9c66e22a5eaa88b529c8b44da7af46dc4885"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=b858265efa514fb7c245081931675b43bf7bc66ee4cd36085158166d420e5379"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=2811860db3f4602f2736fc45944a34fa9be409f18a6987f0e3237fd464553289",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

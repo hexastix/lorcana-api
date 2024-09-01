@@ -1,0 +1,40 @@
+{
+  "name": "Minni",
+  "subtitle": "Ballerina Sfavillante",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "3b8ce9d853822f37f2a8ccdac5ba917bd8570611",
+  "culture_invariant_id": 1082,
+  "sort_number": 1090,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Non cerca i riflettori — sono i riflettori che cercano lei.",
+  "rules_text": "SFIDA DI BALLO Ogni volta che questo personaggio o uno dei tuoi personaggi chiamato Topolino sfida un altro personaggio, ottieni 1 leggenda.",
+  "card_identifier": "126/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=ecd1873cda817aaf6e28d025587556e98431f9e1b48367dd003f0f49dca03c10"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=ae2a9fe449d5ce68e66b1d0c05f106760d0de9a6da14399ffa3bb95389e61f41"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=205974c91a8da42a66a68316b2f9f4d77ff118dded82d3dea611b35bc794c6a1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

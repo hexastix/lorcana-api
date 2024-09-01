@@ -1,0 +1,34 @@
+{
+  "name": "Finders Keepers",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Rachel Elese",
+  "deck_building_id": "5e2657fa5dbffd004f504784ce267a28e50d742c",
+  "culture_invariant_id": 1166,
+  "sort_number": 1174,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Draw 3 cards.",
+  "card_identifier": "210/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=2bc750681e7187d5939453294b0f39030a852b04eabd3b38ac07ae342156941a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=c8584e35457d3f3caf7e67284215aa9faf8b6f37666be3e7d86235aa72df914d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=2ac32ce6799385c85aef94983a7645718c3b381c7bb5c60bfcfbb905b02c0726",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

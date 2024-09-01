@@ -1,0 +1,36 @@
+{
+  "name": "Hakuna Matata",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "820f02f5beebca54dc425f38c78f9f8bccea8dea",
+  "culture_invariant_id": 27,
+  "sort_number": 27,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "What a wonderful phrase!",
+  "rules_text": "(A character with cost 4 or more can to sing this song for free.) Remove up to 3 damage from each of your characters.",
+  "card_identifier": "27/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=c6de557a65e70e6ac6a069c0ad227cc76446340dc2acbfd5b6af548d67497af0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=95ad562058ff683ccadc2dea29f8531ab37ef57ebb0c8d06e8c8010f9009f698"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=5d58d5edca77fc5864f433ea7d70e57812d89968db5272972481b61cc4606b5d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ninou Gatine",
+  "subtitle": "Compétitrice glacée",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "62f8f59f90124ef9f0b9787ccf4611aaf361be9f",
+  "culture_invariant_id": 1066,
+  "sort_number": 1074,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pilote"
+  ],
+  "flavor_text": "À la course, elle n'a jamais froid aux yeux.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "110/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=049228983105c1da37c73c48f00f1a7c07a839b44d8a2c8746aa5683b845ad08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=ee6e5c472e25defd872cc7b0ee46aa6349bf0c1e6466f48e9af4a8d3b8bc926e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4d4af6ffaea0cdac3df00339dd69b73f96de86e2ed97aa5a61ca3288331e78e4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

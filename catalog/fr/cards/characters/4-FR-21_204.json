@@ -1,0 +1,43 @@
+{
+  "name": "Prince Eric",
+  "subtitle": "Prince navigateur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Linh Dang",
+  "deck_building_id": "215468ad3c809a1adc7ae0b14aa9d95e4875e52d",
+  "culture_invariant_id": 712,
+  "sort_number": 722,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "21/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=c54bd73bef28ad69d9649e24a56bd13c96b398661ca99d5c0bb2abc31fa02608"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=1287e539cd7a4ba5d1aa87e90fa10f1f1ebe35e85bfedc019358ef58abcf5983"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=b927e379c0abb3ba8721129c1a2f7464f676c1447688408f4873e5cbee953145",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

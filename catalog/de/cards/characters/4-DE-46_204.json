@@ -1,0 +1,42 @@
+{
+  "name": "Meerschaum",
+  "subtitle": "Ursulas \"Baby\"",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "31df3c1a9447af75e663dd163f81735bf0f32fd8",
+  "culture_invariant_id": 737,
+  "sort_number": 747,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Er entriss den Dreizack dem betrogenen Glimmer.",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.) UNHEIMLICHES DUO Deine Abschaum-Charaktere erhalten Herausfordern +2.",
+  "card_identifier": "46/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=4b7493acff1fd2fd2beece8e9174dba04181cadd45fdd854496e390a86edfb5b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=276cdb126f82076fe96b218d60d984cf37322d689e92351c9a74aeaf16539fb8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=6600439189e3fe5b555fdb03795a323f9f8294eb5ce319bb4937b4bde89f8af9",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Unjustly Treated",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "de2bbba966f5728b34ff142c8f594b4bc193ef32",
+  "culture_invariant_id": 1140,
+  "sort_number": 1148,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "What do you mean, 'not on the list'?! I told you to <always> put me on the list!",
+  "rules_text": "I'M WARNING YOU! During your turn, whenever one of your characters banishes a character in a challenge, you may deal 1 damage to chosen character.",
+  "card_identifier": "184/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=b3bcbf304f0613454966e4f89d688422fd9e44461de5eb07387f175762deb0ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=6f07741bff5ebca8637aaecc9be02bfa05df651845263efb6bf3422835cce058"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=baa0af97938d193154e55ba3566047269820141a77197ad95e44d7c3ed365754",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

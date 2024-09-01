@@ -1,0 +1,33 @@
+{
+  "name": "Du hast mich vergessen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "af649d5bbf464478b0095af6a2bebd4bf32e467d",
+  "culture_invariant_id": 31,
+  "sort_number": 31,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Du bist zu etwas anderem bestimmt. – Mufasa",
+  "rules_text": "Alle gegnerischen Mitspielenden wählen je 2 Karten aus ihrer Hand und werfen sie ab.",
+  "card_identifier": "31/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6ff2c034df029f62834de95934452c3a18df8a4499e767a32021fbca6a16591a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=9826e984cb8e5a381386bb3a603adf5e18462b671621273330324bc26297ff1b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=702c7de6771513b4fd7f184156d3b1968c632158640409e76809a2eb615730fc",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Flotsam",
+  "subtitle": "Wicked Defender",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "20cacf66a6a0d9828dbdee868926cfa518ad6dad",
+  "culture_invariant_id": 917,
+  "sort_number": 937,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Ally"
+  ],
+  "flavor_text": "My darling baby, always so protective. —Ursula",
+  "rules_text": "Bodyguard (An opposing character who challenges one of your characters must choose one with Bodyguard if able.) URSULA’S SENTRY This character enters play exerted.",
+  "card_identifier": "4/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=d5f508f1cfc112a9ba0a5570e27f9377fedb912fe6aeb6b2163f5db39b941975"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=6134aac536502c095efd6187430197bd3047139f281553d67bec0152eda0e931"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

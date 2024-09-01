@@ -1,0 +1,36 @@
+{
+  "name": "Legend of the Sword in the Stone",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "68b837d1794b4887d94e74205c81d1741976d19c",
+  "culture_invariant_id": 280,
+  "sort_number": 304,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "A legend is sung of when England was young And knights were brave and bold",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Chosen character gains Challenger +3 this turn. (They get +3 while challenging.)",
+  "card_identifier": "64/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=a74525cd6bf2dc03994365d96386b1f641fa23691e8378fe9e7b3ac4101758c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=e2c69cdaa404d59a6cdcbe7f35f100d9d7dd1b0293d3e3685e0efc6301a58985"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ea022b16debf64be4571f08f0959815de62322b174ffdb0f5831c6de2741d28c",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

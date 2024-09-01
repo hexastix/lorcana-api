@@ -1,0 +1,43 @@
+{
+  "name": "Regina",
+  "subtitle": "Divinatrice",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "noc4urne",
+  "deck_building_id": "25872e2f6a7538f1bad704261005852bd2804752",
+  "culture_invariant_id": 909,
+  "sort_number": 919,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "CONSULTARE IL GRIMORIO — Guarda le prime 4 carte del tuo mazzo. Puoi rivelare una carta oggetto e aggiungerla alla tua mano. Se quell'oggetto costa 3 o meno, puoi invece giocarlo gratis ed entra in gioco impegnato. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "218/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=70c37210bf9285b83717f4989cde51e6b67a9d88e76da3b2c2559330e4e818dd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=3056c46fc564cc97e1d10fa757f56de9d288e54ff2333eb587047db47c184cd9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=bdc0cef9da5f246a77d8e927596b34104c6df7c09c295768e0241c32244209fd",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

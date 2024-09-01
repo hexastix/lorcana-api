@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Agent sous couverture",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "ad3cc196c4a8bfac7a7bfd593107b6b1e1bebe29",
+  "culture_invariant_id": 525,
+  "sort_number": 560,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Pour un look si tape à l'oeil, il est plutôt difficile à repérer!",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) CACHÉ Tant que ce personnage se trouve sur un lieu, il gagne Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "89/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=aa05d1b043479718c7f0b1237296a094ed793f1bec92542b87d8563fccbc7a2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=519653b5b64bd619b8b6aaf1c8a161190e01a1c4aeee7ebb8d23125a8b182dc6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=ad0c02169433da8b2c7125726b2dae0fc82327b00a81cb2490be60782a38095a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

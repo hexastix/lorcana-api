@@ -1,0 +1,33 @@
+{
+  "name": "Chi Viene con Me?",
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "1034a66870b0c85f4a8a50bb74815569f3ec4b74",
+  "culture_invariant_id": 1087,
+  "sort_number": 1095,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Non scordatevi che l'unicorno viola è mio!",
+  "rules_text": "I tuoi personaggi ricevono +2 per questo turno. Ogni volta che uno dei tuoi personaggi con Attaccabrighe sfida un altro personaggio per questo turno, ottieni 2 leggenda.",
+  "card_identifier": "131/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=d344cc65d82be730c9b97eb26d17c3d8a92702cd5239c544e4ffdb43d63353ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=efee11e03e337aa1adc2017d11d8189e7c91ca1aa13c407aa4469bf32fa8793f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=656b10743a3ebc1e5bc52a8244c1ccc49c1496869a2276d0706bae2849561bd8",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

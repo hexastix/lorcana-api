@@ -1,0 +1,41 @@
+{
+  "name": "Goofy",
+  "subtitle": "Musketier-Schwertkämpfer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "ca42513da10e6a1b0440802af06612135a6a54df",
+  "culture_invariant_id": 703,
+  "sort_number": 713,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Musketier"
+  ],
+  "flavor_text": "Ich bin dabei!",
+  "rules_text": "EN GAWRSH! Jedes Mal, wenn du einen Charakter mit Beschützen ausspielst, mache diesen Charakter bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "12/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bd32cb60fa172d92ee5769459a6a47da4edb2397c3fd5e12d137499e792caa91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=c0ffcd6a7b5ee595b1847d10409763ef785dbb3516439302ca083adb612028f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=72e6990b4639360cb31fcaef306b13b557b5dc3cf872cf215c81ab874c146194",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Hans",
+  "subtitle": "Noble Scoundrel",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Dustin Panzino / Leonardo Giammichele",
+  "deck_building_id": "f7ae3c4a9105e86a37c801caf8ee53341d140429",
+  "culture_invariant_id": 837,
+  "sort_number": 847,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "flavor_text": "Hans was confident he could bring Anna to Ursula—all he needed was something of Kristoff's to lure her in.",
+  "rules_text": "ROYAL SCHEMES When you play this character, if a Princess or Queen character is in play, gain 1 lore.",
+  "card_identifier": "146/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=a9fb8abddb74a2efb87779d1793891f29eada35ba2be1a117cdd6927181d6bda"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c00c861fc3709c89e555cb56a23b78adace1d6b54f6fa521940db9d1e5e71b00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=2e34cccba71e444afc74a1af9dc802505aa3503d1a4027a817d0d7250b4ce018",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

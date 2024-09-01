@@ -1,0 +1,42 @@
+{
+  "name": "Ray",
+  "subtitle": "Easygoing Firefly",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "ab6c67ceb00eb3d0444aff79e47e18bd4a08a536",
+  "culture_invariant_id": 308,
+  "sort_number": 332,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He may be hard to follow, but his heart isn't.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "92/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=b93e31ce7b62ef856c28d67eb8072322032af2e10976c05d5d631be1798e6d3a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=3fa9ebec2e63e2641dec404b8fb05773dddfda1edf1ba0e8a1cc352512b629f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=7867ab560c8b1664bc4d1b6f9aad121c4dabee4305a4bae57864e5a459173d63",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

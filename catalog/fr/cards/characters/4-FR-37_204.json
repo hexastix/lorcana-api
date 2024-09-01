@@ -1,0 +1,41 @@
+{
+  "name": "Belle",
+  "subtitle": "Mystique novice",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Angelina \"Spikie\" Ricardo",
+  "deck_building_id": "978ddff2c7a02c8c94056556dc73c364c4039837",
+  "culture_invariant_id": 728,
+  "sort_number": 738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Peu importe ce qu'elle essayait, Belle ne parvenait pas à guérir complètement les blessures de la Bête.",
+  "rules_text": "ALLONS, RESTEZ TRANQUILLE Lorsque vous jouez ce personnage, choisissez un personnage et déplacez jusqu'à 1 de ses jetons Dommage sur un personnage adverse de votre choix.",
+  "card_identifier": "37/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=2b1b70ab5126281c368cfe60196134466a2f0e766e3c728772e59b8dd35e02d9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=501d94ece2e4f60d54d181a31e453994d27c6094a89911aa0905f5d9ffb0d39b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9e2d14e8782d29b3fad4ae121725d5bdcbae78a4e23ca7bb96fc8a65a3e4b0d5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

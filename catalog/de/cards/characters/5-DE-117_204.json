@@ -1,0 +1,43 @@
+{
+  "name": "Taffyta Muttonfudge",
+  "subtitle": "Saure Raserin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "a6526d76935a9eb3160ed4ab73e7b32e9458369b",
+  "culture_invariant_id": 1073,
+  "sort_number": 1081,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Taffyta-Muttonfudge-Charaktere auszuspielen.) NEUE STARTFORMATION Einmal pro Zug, wenn dieser Charakter zu einem Ort bewegt wird, sammelst du 2 Legenden.",
+  "card_identifier": "117/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=b5e2916dfd27bad12ad12c0a3ff34aad0a33c3736e5bd6eb3d0789e89a6835f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=d37893d05d7c3c07bdb9c20da525d32d52c9bf761d3a18bdaef72475efdb66b3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=46f63c3f2b335f29045078f5ae12cd896d916a9a4da60bd2726fad908942db61",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

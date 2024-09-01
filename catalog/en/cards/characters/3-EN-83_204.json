@@ -1,0 +1,46 @@
+{
+  "name": "Prince John",
+  "subtitle": "Phony King",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "4fe5203a587a4cc07595526f729193ba91b0f403",
+  "culture_invariant_id": 519,
+  "sort_number": 554,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have 10 lore and my opponent has 12 lore. If I quest with my Prince John – Phony King, who has 2 {L}, can I use his Collect Taxes ability to make my opponent lose 2 lore?\r\nA: No. When a character quests, they immediately gain lore equal to their {L}. This means that in order to use Prince John – Phony King’s ability Collect Taxes to have an opponent lose lore, they must have more lore than you after you’ve gained the 2 lore from Prince John’s quest.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "flavor_text": "Too late to be known as John the First, he's sure to be known as John the Worst! —Sheriff of Nottingham",
+  "rules_text": "COLLECT TAXES Whenever this character quests, each opponent with more lore than you loses 2 lore.",
+  "card_identifier": "83/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=123d255dc3003789d059d79db8b5636785440fd4b4bde0cc3cb5928e7ea24200"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=4eb54f51ad740d93ddaac62705030bd8833cd47953fb876707ed0179d424ef1a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=4eca62cf5f48cab60e18c500cd42d0e953185030f9388f9064d3bd9a02aab449",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

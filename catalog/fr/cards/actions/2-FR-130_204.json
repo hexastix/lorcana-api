@@ -1,0 +1,36 @@
+{
+  "name": "Votre roi vous invite à la fête",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba03555a3279d07af241b0111de37b386da6424",
+  "culture_invariant_id": 346,
+  "sort_number": 370,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Bien sûr, en revanche, j'ose espérer que vous exécuterez mes ordres.",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez l'un de vos personnages et infligez-lui 2 dommages pour infliger 2 dommages à un autre personnage au choix.",
+  "card_identifier": "130/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=c39e2508ec9e7b20bc8a299e80ea8da9ff8af5832b82f205a5a59409718e6f5c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=57ccf48b855f18bd9f5a80b823edbdd64c292c8dc2911f0317bbf0fa8f5e6817"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=7fb89eee51e3ede1048783a8aa49b0182ac2e28153bf0abfc10b4e1e7dea964f",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

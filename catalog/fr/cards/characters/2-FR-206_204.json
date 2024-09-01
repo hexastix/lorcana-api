@@ -1,0 +1,44 @@
+{
+  "name": "Blanche-Neige",
+  "subtitle": "Fait un vœu",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Javi Salas",
+  "deck_building_id": "b98e167eead8609a7571bb2108cdad63d4cfcfdd",
+  "culture_invariant_id": 422,
+  "sort_number": 446,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Blanche-Neige.) MES VŒUX SE RÉALISENT Lorsque ce personnage est envoyé à l'aventure, vous pouvez reprendre en main une carte personnage de votre défausse.",
+  "card_identifier": "206/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=d0e30935b80600857773fb0891f10797275c12196ad2a3df300991fe4330b192"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=92d79445a91c0261fa22091c92cf299c6c346d2c19a1d37de31955a2d83de2fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=5fd17e23e13530cbc862ce3581f60fc786447e57be8ce105054d742dac4f758c",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Valvola",
+  "subtitle": "Meccanico",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "d65da805f8e4842f708b27639020b476a285cbb7",
+  "culture_invariant_id": 528,
+  "sort_number": 563,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Posso smantellare <qualsiasi cosa> in meno di cinque minuti!",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) SMONTARE — Esilia un oggetto a tua scelta.",
+  "card_identifier": "92/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=b59d774bbd65c219a14eae51a04542cf858e1b8c6cff8693b125bcba8a5f1122"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=b9b76b6e8f67941f8f62c706b1800f14f687045a022bb8f73514feb08590f717"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=5d73dac7efc2195059c8cd2bab6df68b4a35a23c3f2ea006adbc940ab5579cd8",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

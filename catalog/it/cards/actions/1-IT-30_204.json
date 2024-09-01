@@ -1,0 +1,36 @@
+{
+  "name": "Vivere Là",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "385d2d6b1f6d4093408da9cd744c87865c9a538b",
+  "culture_invariant_id": 30,
+  "sort_number": 30,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Come vorrei,%Poter uscir fuori dall'acqua",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Riprendi in mano una carta personaggio dai tuoi scarti.",
+  "card_identifier": "30/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3efee46b6d59b3541a75022e61698cb183a05aab1be7648f731ebf05d25c9245"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=bad5e1fd86ca2df4ea22c068f8a47f6e6df3601674fbfabd5b5faed1020b8f4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=b59fc29b5e8e6e05c6bbbd178989cabba89b00448c34071d790945631dd7aa0b",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

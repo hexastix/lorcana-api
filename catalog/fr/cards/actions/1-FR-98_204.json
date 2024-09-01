@@ -1,0 +1,35 @@
+{
+  "name": "CRUELLE DIABLESSE",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Giulia Riva",
+  "deck_building_id": "af0402088e469d5b1093c6206c115b0e96e599c3",
+  "culture_invariant_id": 98,
+  "sort_number": 98,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Elle semble une araignée guettant sa proie… Cruelle, Cruelle diablesse!",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Chaque adversaire choisit et défausse une carte de sa main.",
+  "card_identifier": "98/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=f0beab146344403f3db661fd579805771c12fd799d64b894c50210391dc1f022"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=a48ea5880c03985c43e235acd997e24f986aeac4d97472d9b37abe7434502da1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=42141b307ae35d3b6a18d50d702ac04df3f2caba7d80f932c05a3fbfdc4b1542",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

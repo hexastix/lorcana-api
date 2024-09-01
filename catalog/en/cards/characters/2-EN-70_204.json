@@ -1,0 +1,46 @@
+{
+  "name": "Beast",
+  "subtitle": "Relentless",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "1f998b8d166c57c497364060cda6ba1cc7a4a1bf",
+  "culture_invariant_id": 286,
+  "sort_number": 310,
+  "additional_info": [
+    {
+      "title": "FAQ 3",
+      "body": "Q: My opponent has a copy of Flounder and 4 copies of Mouse Armor in play. On my opponent’s turn they used the Protection ability of all 4 copies of Mouse Armor and chose Flounder all 4 times, giving it Resist 4. In this situation if my Beast- Relentless challenges that opposing Flounder, can I use Beast’s Second Wind ability to ready him?\r\n\r\nA: No, you cannot. If  a character with resist 4 is dealt 4 damage then all 4 damage is prevented by resist and therefore that character was not damaged."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "SECOND WIND Whenever an opposing character is damaged, you may ready this character.",
+  "card_identifier": "70/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=ec223a68ff22350a810648a271e4876c77d2f635a6afada2351e477ca4273a08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=eb2344f5634cb55218e048c260e6f37f00b374b8fa399cb21a1b911c1dcdb1f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=c698ff8aaa1a7683838b296034bca5573fb272cbec6e852461e1112f3a09b8c7",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

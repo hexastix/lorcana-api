@@ -1,0 +1,35 @@
+{
+  "name": "TUONS LA BÊTE !",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "371502073092025bab3c49038c7809151c636ad4",
+  "culture_invariant_id": 198,
+  "sort_number": 198,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "L'inconnu nous effraie, l'imprévu nous terrorise. Et cette chose mystérieuse nous inquiète. Compagnons, à vos armes!",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Infligez 2 dommages à chaque personnage adverse.",
+  "card_identifier": "198/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=dedbcbd67de2835dd5e8e87baaf3e5259cb9a519402b9fd30b374853d5ca2505"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=fbcc17dd47ace2b7f442ff248bbf9ed2a7c5eabb9aa124a00a0a5cb6c8ad8d91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=66848a3b07b6de1080ff95cec99d1632cd42400e05d397987c84d46e3af181a3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

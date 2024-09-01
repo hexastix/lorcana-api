@@ -1,0 +1,33 @@
+{
+  "name": "Ottenere Sapere e Saggezza",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "5c09a4c51f5fe4668bbd8723ebc416da70603684",
+  "culture_invariant_id": 1018,
+  "sort_number": 1026,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Pensaci bene! Tutto questo sapere è sempre stato sotto il nostro naso. Dovevamo solo cercare nel posto giusto.",
+  "rules_text": "Ottieni 2 leggenda.",
+  "card_identifier": "62/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=124747b3287749babe4514d311b67a8519455eb51355207923788817f0bf557f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=8b6a7be2c1e5ea189407fcebc4ae716bd4812a7e1d720f77e4efab6b7d6e66f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=200304562daded762a5c1241cf101f6c53e5232d66f8f238d5a999c35aafb5d2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Eigenwilliger Zauberer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "7b1a76e2d2e48966c05afd3777ab1b57b83cd005",
+  "culture_invariant_id": 208,
+  "sort_number": 208,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "LEBENDIGE BESEN Du zahlst 1 weniger, um Besen auszuspielen. UNERMÜDLICHE ARBEITER Jedes Mal, wenn einer deiner Besen durch eine Herausforderung verbannt wird, darfst du jene Karte zurück auf deine Hand nehmen.",
+  "card_identifier": "208/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=73bcfcaf277a9e91763d571b6e10bb632afd164e941fa17083ab85c4553a0bba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=3d348044ecb8e62ed0e591136df577ed45cc23077ad50d0905cbc536adab9d86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=34d1d2926d760400a27d432e526684674d3377cba43f5831b814172cac808b7a",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

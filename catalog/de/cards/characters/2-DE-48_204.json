@@ -1,0 +1,49 @@
+{
+  "name": "Madame Mim",
+  "subtitle": "Merlins Rivalin",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mané Kandalyan / Pix Smith",
+  "deck_building_id": "325d620e287565d4121f1cd33cb3e2778aa78e65",
+  "culture_invariant_id": 264,
+  "sort_number": 288,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich die „Grausam und Schlimm“ Fähigkeit von „Madame Mim - Merlins Rivalin“ benutze und einen Charakter aus meiner Hand spiele und diesen Charakter danach durch den Effekt von „Arthur - Zauberlehrling“ wieder auf meine Hand zurücknehme, verbanne ich ihn trotzdem am Ende des Zuges?\r\n\r\nA: Nein, das tust du nicht.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Madame-Mim-Charaktere auszuspielen.) GRAUSAM UND SCHLIMM – Spiele einen Charakter, der 4 oder weniger kostet, kostenlos aus. Er erhält Rasant. Verbanne ihn am Ende deines Zuges. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "48/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=bb4905e37d38fa2199378f324eb934a890fe63f19b02dbcd7c108ce23d5142de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=92b06752b75929171d0fcffb6abf2dc243edcd8cc30f6ed49e22b03eccadd867"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=03340ec97a5a22d9fcb9f450738ec7477d64bb11689fb6b7b6676175c0b733da",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

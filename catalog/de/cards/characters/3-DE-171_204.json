@@ -1,0 +1,41 @@
+{
+  "name": "Tui",
+  "subtitle": "Stolz von Motunui",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Eri Welli",
+  "deck_building_id": "364538d9bd3ed90dfb4b14fdecd29b8bde39ce03",
+  "culture_invariant_id": 607,
+  "sort_number": 642,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "Schau dir unser Zuhause an! Es gibt keinen schöneren Ort zum Leben.",
+  "rules_text": "",
+  "card_identifier": "171/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=f1c93fcfc8f3022986463eced9898ec2db2e763b8e6fee21c98cda7b842ed761"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=ddd39b21250c3a02a72c349cfbca11bebc1f45882376f646ff4d8fabdad22fdc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d59a0bc637866f5e22c6fbddf25c12b491c5e83518ce4d3a9710c6c425bd3bfa",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

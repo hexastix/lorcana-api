@@ -1,0 +1,40 @@
+{
+  "name": "Gus",
+  "subtitle": "Champion du fromage",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Maddie Shilt",
+  "deck_building_id": "b525404fa16e5dc8261c66f987b27e303bfa5980",
+  "culture_invariant_id": 764,
+  "sort_number": 774,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "On peut toujours compter sur lui lorsqu'il s'agit de fromage.",
+  "rules_text": "",
+  "card_identifier": "73/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=bb63f76637d206278a44f023086fe56dc5575e1138a20be26884eb4c211bf94a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=56c9205c5d59297105cc61abf3a1723b29e19fb6511befe9ddd48ae879882c0c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7c15fb9efc82a45ff72e99ae3bcc4a5e20b78d23e9ec9c093ff0552ddfdb5cb4",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

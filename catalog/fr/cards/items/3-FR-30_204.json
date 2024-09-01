@@ -1,0 +1,33 @@
+{
+  "name": "Cœur de l'Atlantide",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Elliot Baum / Viv Tanner",
+  "deck_building_id": "81b7a4a7ddb1986db77cd54d3e3e40d0154f0a29",
+  "culture_invariant_id": 466,
+  "sort_number": 501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Voilà ce qui vous préserve, toi et toute l'Atlantide, et qui vous maintient en vie!%—Milo Thatch",
+  "rules_text": "SOURCE DE VIE – Le prochain personnage que vous jouez durant ce tour vous coûte 2 de moins.",
+  "card_identifier": "30/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=300ec61666a1bc50aa8adebc55d987ab570d4f41df5636dfe6e909c9fe4c035a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=1533b405eefeb34e4ac3c229a0a41716121cdb3a2245bf3bac32be10148990cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3e689790548b7ab4900f0ef4906637a6554964bf2b833c6e530e317dcc2c3bf6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

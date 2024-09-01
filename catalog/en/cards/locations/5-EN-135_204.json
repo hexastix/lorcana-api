@@ -1,0 +1,37 @@
+{
+  "name": "Sugar Rush Speedway",
+  "subtitle": "Starting Line",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 0,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cristian Romero",
+  "deck_building_id": "3d26c3f06233e002b80a865b2044fc6742045f95",
+  "culture_invariant_id": 1091,
+  "sort_number": 1099,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ON YOUR MARKS! Once per turn, you may chosen character here and deal them 1 damage to move them to another location for free.",
+  "card_identifier": "135/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=de1a48ef3b10f8d4979f7e3f6dd4643208931ad278206fbe8b64d76d3d561cd4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=b9042686da801a95f2f43b45d6981a79c4addcb6717ef8a42679570d1cc01b62"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=ac380cdd36fdfd1e6cbb9f513046a595a5c3292d2821310a3d3fcc0970683d0a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

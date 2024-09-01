@@ -1,0 +1,42 @@
+{
+  "name": "Tiana's Palace",
+  "subtitle": "Jazz Restaurant",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "c279e0883210f8f220e5fe8ac1b7f74b5404072f",
+  "culture_invariant_id": 470,
+  "sort_number": 505,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If my only character with Bodyguard is at Tiana’s Palace – Jazz Restaurant, can my opponent challenge any of my characters?\r\nA: Yes. A challenging character must challenge an opposing character with Bodyguard if able, but the Night Out ability of Tiana’s Palace makes characters there unable to be challenged. Therefore, challenging characters can challenge any character they’d normally be able to.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In New Orleans, dreams can come true.",
+  "rules_text": "NIGHT OUT Characters can't be challenged while here.",
+  "card_identifier": "34/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=633975733ebcd31a0064581b77df91c914a2cf2b7746150156fe400f3f959cdc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=6c6e069394a4e3b2c9ae33b48b70ae42aa18b3cd4fc5bbbeb87876c2dcb41c3a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=f2269a214df93ebc22d7cf4e8703f8b400f0f34a3d5f51711fe06f17062e1d2d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

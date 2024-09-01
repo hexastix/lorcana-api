@@ -1,0 +1,40 @@
+{
+  "name": "Lawrence",
+  "subtitle": "Jealous Manservant",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Luis Huerta",
+  "deck_building_id": "e673e28c8e84ee6a6a337c7ec4008fd12e0ff908",
+  "culture_invariant_id": 402,
+  "sort_number": 426,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "In this new world, the crown could finally be his.",
+  "rules_text": "PAYBACK While this character has no damage, he gets +4.",
+  "card_identifier": "186/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=46aefe09eba40e43cd8d27d7c58f47a5214bc2f546792344dd841cd49f867b0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=f75d5850d0226c522eaa02ffe961388a54dd7ccebab5fe82c20995e36108ad72"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=cb0a875babc83ecf05c250d60afe671f83113ca69c3dc1cf61ebcf3692a53d78",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

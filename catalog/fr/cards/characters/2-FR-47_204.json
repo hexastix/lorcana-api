@@ -1,0 +1,44 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "En dragon",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Ally Zermeno",
+  "deck_building_id": "8beb7231237cf3bc2a7b1289fd773536113e9112",
+  "culture_invariant_id": 263,
+  "sort_number": 287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage",
+    "Dragon"
+  ],
+  "flavor_text": "Est-ce que j'ai dit: pas de dragon?",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) JE L'AI EU, J'AI GAGNÉ! Lorsque vous jouez ce personnage, bannissez-le ou renvoyez 2 de vos autres personnages en jeu dans votre main.",
+  "card_identifier": "47/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=c6d2e40d50448d34690af69d66418279c6e295a4535d8d44f7d6dd526276589d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=6233788c90368026c6b80f2905f511157d81b727a55abf246c89c63619e3398a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=17bc8ceab2687c8c49149f0958d4e1e7928c7b28f233e53fb8d4cefcb55ea2c1",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

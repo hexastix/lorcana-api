@@ -1,0 +1,42 @@
+{
+  "name": "Chez Tiana",
+  "subtitle": "Restaurant de jazz",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "c279e0883210f8f220e5fe8ac1b7f74b5404072f",
+  "culture_invariant_id": 470,
+  "sort_number": 505,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si un personnage épuisé avec Rempart se trouve sur Chez Tiana – Restaurant de jazz, mon adversaire peut-il choisir de défier n’importe lequel de mes personnages ?\r\nR : Oui, lors d’un défi, les personnages doivent choisir de défier un personnage adverse avec Rempart uniquement si c’est possible. S’il n’y a pas de personnages avec Rempart qu’ils puissent défier, alors ils peuvent défier n’importe quel personnage pouvant être défié.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "À la Nouvelle-Orléans, les rêves peuvent devenir réalité.",
+  "rules_text": "SOIR DE SORTIE Les personnages sur ce lieu ne peuvent pas être défiés.",
+  "card_identifier": "34/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=d30fe772c9bb2bb5e2208636b387d988ace5b3080d0bd5823f4fbe4fcda7ca83"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=8e9407a7cfc739f767a19ac8cd44221c73c472e1f97aaa70e3dfd18b3789b462"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=f2269a214df93ebc22d7cf4e8703f8b400f0f34a3d5f51711fe06f17062e1d2d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

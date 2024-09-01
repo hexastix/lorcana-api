@@ -1,0 +1,40 @@
+{
+  "name": "GUIMAUVE",
+  "subtitle": "Gardien tenace",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kendall Hale / Anh Dang",
+  "deck_building_id": "c6dff597b546bbdf914709017bcfa6f934bd4d15",
+  "culture_invariant_id": 50,
+  "sort_number": 50,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ah, on parlait de toi, justement… On disait que du bien, que du bien. — Olaf",
+  "rules_text": "NEIGE ÉTERNELLE Lorsque ce personnage est banni via un défi, vous pouvez reprendre cette carte en main.",
+  "card_identifier": "50/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=6d061b5624dcc8a1162c1944f3c7cd715ce8310d2a20b59c6c16df3435cd9f2a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=22e6a49ce4a8c8866e46fa9b4f809af3735134323ba87a8c2f8f6a2a1881d8ca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=105e4cca3d2fcf8edd047cf50457dda9cf16d855399e867df66cdf2376ec9833",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

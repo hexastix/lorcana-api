@@ -1,0 +1,41 @@
+{
+  "name": "Zähne blank wie Neid",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba03555a3279d07af241b0111de37b386da6424",
+  "culture_invariant_id": 346,
+  "sort_number": 370,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Wenn ich bei Zähne blank wie Neid meine „Cinderella - Beherzt“ wähle, die Robust +2 hat, kann ich trotzdem 2 Schaden an einem gegnerischen Charakter verursachen?\r\n\r\nA: Ja, das kannst du.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Seid bereit für den teuflischsten Pakt",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Wähle einen deiner Charaktere und füge ihm 2 Schaden zu, um einem anderen Charakter deiner Wahl 2 Schaden zuzufügen.",
+  "card_identifier": "130/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=62b5260bbe4a4d13525c85e762d8829658faabb315fd193849fb018da9e83322"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=569002fe7675a3bcd5f2c3e28a3e38d6c10ba46e62c1749d1e3de1fc97a8833d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=7fb89eee51e3ede1048783a8aa49b0182ac2e28153bf0abfc10b4e1e7dea964f",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

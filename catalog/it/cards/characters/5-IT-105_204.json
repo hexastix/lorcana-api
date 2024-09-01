@@ -1,0 +1,40 @@
+{
+  "name": "Maximus",
+  "subtitle": "Campione della Squadra",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "5aa4a5a95aa496e560025d060007f42140401cae",
+  "culture_invariant_id": 1061,
+  "sort_number": 1069,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "È facile farsi trascinare quando si tratta di tiro alla fune.",
+  "rules_text": "RICOMPENSE DEGNE DI UN RE Alla fine del tuo turno, se hai in gioco un qualsiasi personaggio con 5 o superiore, ottieni 2 leggenda. Se hai in gioco un qualsiasi personaggio con 10 o superiore, ottieni invece 5 leggenda.",
+  "card_identifier": "105/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=56b18ab8510f619e01396744d3d76b1a7c903c5df45021e7b6ed42a40ff7e553"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=bc64a5ccdc16784f8478fc4e0b72fb4a19df8a82f328b9cb901ff9ce92b91fcb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=cf408a99493a1ece534db7758fecec1a1d5acde192d4adc692d7cde09cb5b757",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Shere Khan",
+  "subtitle": "Prédateur menaçant",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "M. Robert Davies / L. Giammichele",
+  "deck_building_id": "d699b7284880df41462554acf1e1f68689fab0bd",
+  "culture_invariant_id": 342,
+  "sort_number": 366,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Sixième règle de la méchanceté: Garder l'esprit acéré et les griffes encore plus.",
+  "rules_text": "N'INSULTE PAS MON INTELLIGENCE Chaque fois que l'un de vos personnages en défie un autre, gagnez 1 éclat de Lore.",
+  "card_identifier": "126/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=c5c856a204a474ba835f656207f45a03ab05e59ea3a09f854b1db81a166060f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=783917bceb54ba7211e8b7ceeaab8393f7de2b2fbcfd32b3fb5566b505ee94a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=c0020b3695265b67df62e895f97f316b3419b09362f7d4633ffb7071792feddd",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ultimo Tentativo Disperato",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cf37b6d51b29ef3781307521b75714776bf0549a",
+  "culture_invariant_id": 498,
+  "sort_number": 533,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Il mio avversario ha in gioco solo un Cogsworth – Grandfather Clock, che ha Protetto. Posso comunque giocare Ultimo Tentativo Disperato e dare al mio personaggio Sfidante +2 anche se non posso scegliere un personaggio avversario?\r\nA: Sì. Quando non ci sono personaggi avversari che possono essere scelti per la prima parte di Ultimo Tentativo Disperato, quella parte del suo effetto semplicemente termina senza impegnare un personaggio. Tuttavia, la seconda parte del suo effetto ha comunque luogo, quindi puoi comunque scegliere un tuo personaggio che riceva Sfidante +2 fino alla fine del turno.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ti guardo le spalle.",
+  "rules_text": "Impegna un personaggio avversario a tua scelta. Poi un tuo personaggio a tua scelta ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "62/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=516de0d7a216a095122f39231b0084b97dacccf7e3e54e1d28f5d5764aa2300f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=33632a921e9ea868f31254c6b100fe803e713517c98ba04a55a28cfa0b8c3e77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

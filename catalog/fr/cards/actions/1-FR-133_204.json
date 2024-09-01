@@ -1,0 +1,33 @@
+{
+  "name": "ENCHEVÊTRÉ",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Eri Welli",
+  "deck_building_id": "d0e86cdf581903f6ffa738cc6e7a138625d40ed2",
+  "culture_invariant_id": 133,
+  "sort_number": 133,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ne bougez pas! Je veux dire… vous n'avez pas le choix, je suppose. Mais quand même… Ne bougez pas! — Raiponce",
+  "rules_text": "Chaque adversaire perd 1 éclat de Lore.",
+  "card_identifier": "133/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=4b3ed496968ba6adf86d6a273c0c011eaa221927890a41e38b485b07babf2c12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=93ebfca74b8cc1d6dd7d2244d191ceac7017935f7ffb2d3e9561f0c5b77a8016"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=860f9021eaae7b3480ed5250a024708afba0efe5d981d359f6bb707cc4a95707",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

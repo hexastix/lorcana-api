@@ -1,0 +1,40 @@
+{
+  "name": "Ein Traum Wird Wahr",
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "b194d57849a9527697e8e65c71feabd9c1528aa2",
+  "culture_invariant_id": 195,
+  "sort_number": 195,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Was passiert, wenn jemand „Ein Traum wird wahr“ spielt und alle Mitspielenden weniger als 7 Karten im Deck haben?\r\n\r\nA: Der aktive Spieler führt den Effekt zuerst aus, also würde dieser Spieler das Spiel verlieren.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Flieg mit mir um die Welt …",
+  "rules_text": "(Du kannst einen Charakter, der 5 oder mehr kostet, , damit er dieses Lied kostenlos singt.)Alle Mitspielenden werfen die Karten aus ihrer Hand ab und ziehen je 7 Karten.",
+  "card_identifier": "195/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=6ffa6b209246d21982897df23209d52019b353906ce42ce9c200a1531e865d4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=f99f7b6e2a9ae149a660a611a1b3e3bd58b2cf452598b8aa3f9ffd2f203e6a99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=8006f1718bb6a241c1a19c18f43039fa7790e6ad3ebecc6c6ae96e52ecf02a36",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Maligno",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 10,
+  "author": "Thomas Brissot",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 641,
+  "sort_number": 676,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL POTERE DEL MALE Per ogni carta personaggio nei tuoi scarti, paga 1 in meno per giocare questo personaggio. EVOCARE GLI SPIRITI Quando giochi questo personaggio, rimescola nel tuo mazzo tutte le carte personaggio nei tuoi scarti.",
+  "card_identifier": "205/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=5aec7e89eab9a5eb0c18f593752190b030dc6e6cd6608bdf5036f16dcdcf2b20"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=76ac528cc60af253f41d78c03229ee7af4dc619783ec6433aab7b1540f0b87d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=304ec0fd5826a98aa06221d8911b7374ca7b1243a9842424eb579d363d236f8f",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

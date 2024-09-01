@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Prince combattif",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Noukah",
+  "deck_building_id": "e836b4740f7b37d1bb09ffe4674ef38b8b93c2ed",
+  "culture_invariant_id": 628,
+  "sort_number": 663,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Il est prêt à rendre sa gloire passée à la Terre des Lions.",
+  "rules_text": "TU TE SOUMETS OU TU TE BATS Chaque fois que vous jouez ce personnage ou qu'il en bannit un autre via un défi durant votre tour, choisissez entre: • Piochez 2 cartes, puis choisissez et défaussez 2 cartes. • Choisissez un personnage et infligez-lui 2 dommages.",
+  "card_identifier": "192/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=cae27828b4dc7933dbab1f1619327a6fa1200c423649819c32963091afb56f1d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=d9fce2d5b53a4122c62de44cc8420f59d99dc9bb2f16c76f866843a4efb344e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5160747183f5792183a8df0eb9b17b45571742e7a1802c0ee695aa8f9ff8dfb1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

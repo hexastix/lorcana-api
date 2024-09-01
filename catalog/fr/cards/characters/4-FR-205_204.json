@@ -1,0 +1,44 @@
+{
+  "name": "Cendrillon",
+  "subtitle": "Tisseuse de mélodies",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "noc4urne",
+  "deck_building_id": "4788d25c0a43283f16dc66d4840c94239e9cdbda",
+  "culture_invariant_id": 896,
+  "sort_number": 906,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Mélomane 9 (Ce personnage est considéré comme ayant un coût de 9 pour chanter des chansons.) VOIX MERVEILLEUSE Chaque fois que ce personnage chante une chanson, vos autres personnages Princesse gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "205/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=5abc4640e5364c27b0523afc4338daed856886be652262a3faa7d8de6246f45c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=5e5b726c6e1856fc6eb8f9d396277922b5c907619fb79b0cd097681680a95aeb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=268f0b97c86f7e5ec81f3b4fb8e4f8510371b53d05368ac14c1bc590b7ae8e76",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Kuzco's Palace",
+  "subtitle": "Home of the Emperor",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Roberto Gatto",
+  "deck_building_id": "2514f81045d67354a0f53e0031f8831ef08f7714",
+  "culture_invariant_id": 649,
+  "sort_number": 684,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "CITY WALLS Whenever a character is challenged and banished while here, banish the challenging character.",
+  "card_identifier": "213/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=f3de4b6e05bd45c4af948cc7d18306cef9a65e1c0feb5c14683b8fa1b7d911b8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=4f047a12b9a04b514676efa935b9299a62c4ad3ab919ab13bcb7917683b722a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=a350e9eb4cceb3bee05f8e417fbc6017cbcdbbd988080690eec37414c2f52f13",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

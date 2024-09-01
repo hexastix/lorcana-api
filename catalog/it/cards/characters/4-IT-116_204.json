@@ -1,0 +1,42 @@
+{
+  "name": "Mulan",
+  "subtitle": "Guerriera Ferita",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jared Mathews",
+  "deck_building_id": "bb7a79d70c819d07b5aa5eeea67d67b342b43405",
+  "culture_invariant_id": 807,
+  "sort_number": 817,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Non si arrenderà mai.",
+  "rules_text": "FERITA DA COMBATTIMENTO Questo personaggio entra in gioco con 2 danni.",
+  "card_identifier": "116/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=4b736c9336c0611f77ddc286a7786747a34c692c87695a7512f33bd05451b00a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=81467b50b8535282a92471b21eb2cf208e9a9ea63b65985955c9e5961b4b12cd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=66806ff4daa6f8b966ba3913a1d7d3c4b86d28023ecc0cbb738d136645212027",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Stitch",
+  "subtitle": "Rockstar",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 688,
+  "sort_number": 699,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "Das Beste an einem Konzert am Strand ist, dass es immer Platz für noch mehr Publikum gibt.",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Stitch-Charaktere auszuspielen.) BEGEISTERTE FANS Jedes Mal, wenn du einen Charakter ausspielst, der 2 oder weniger kostet, darfst du jenen erschöpfen, um 1 Karte zu ziehen.",
+  "card_identifier": "30/P1 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=eaa21e1ef0855ef78082f224f781a40c9867c48118d02ee737e61c27e6e0b4de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=b1931582fcd9ac6d0c0ee5ea28dc003b73e217f8c900ac3862e09429103760ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
+  "special_rarity_id": 1,
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

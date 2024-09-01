@@ -1,0 +1,33 @@
+{
+  "name": "JUSTE À TEMPS",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "dbb279be140cfc1223bb35466a3781b83db4d5a8",
+  "culture_invariant_id": 29,
+  "sort_number": 29,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Les meilleurs héros arrivent toujours au bon moment, même sans le savoir.",
+  "rules_text": "Vous pouvez jouer gratuitement un personnage coûtant 5 ou moins.",
+  "card_identifier": "29/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=7fe4ded85d0685cca572f5bbd56741e01843ffa1d1f25492a2125e2f589c88d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=3c4992271603757ac5936bef9099e17a109252657ca963d2412be896293802a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=bb439372dd47dd7285b7ab667d0686192c8be893fc78541c19ac0a0e7eba10f0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

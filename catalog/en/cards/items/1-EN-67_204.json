@@ -1,0 +1,35 @@
+{
+  "name": "Ursula’s Cauldron",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "a757b4be52f0de48fe6589a497c72522ca4489c8",
+  "culture_invariant_id": 67,
+  "sort_number": 67,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Perfect for mixing potions and stealing voices.",
+  "rules_text": "PEER INTO THE DEPTHS — Look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.",
+  "card_identifier": "67/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=cb5fa3bee391cfc72ebd1db09bf4b803ecb499ee8266945ea6b1b9177bb1233a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e503be4e73643d3c984451943f174a42801efdd3aab1458d8e14becf728e118b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=14e4106490f35a5ee237e5ff1349fdd5602a453309b1ccdc2598f7458fadd9a3",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Lucky",
+  "subtitle": "Quindicesimo Cucciolo",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "14af32285e4e637e9c48c8e3b7aad9d9d7fc3cc9",
+  "culture_invariant_id": 444,
+  "sort_number": 479,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Uso l’abilità Più Vivo Che Mai di Lucky – Quindicesimo Cucciolo e rivelo 2 personaggi che hanno costo 2 o inferiore. Posso scegliere di aggiungere solo uno dei due personaggi alla mia mano?\r\nA: No. Quando scegli quali carte aggiungere alla tua mano con l’abilità Più Vivo Che Mai di Lucky, devi aggiungere o tutti i personaggi rivelati che hanno costo 2 o inferiore, oppure nessuna carta.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cucciolo"
+  ],
+  "flavor_text": "",
+  "rules_text": "PIÙ VIVO CHE MAI — Rivela le prime 3 carte del tuo mazzo. Puoi aggiungere ogni carta personaggio con costo 2 o inferiore alla tua mano. Metti il resto in fondo al tuo mazzo, in qualsiasi ordine. SUPPORTO TRA CUCCIOLI Ogni volta che questo personaggio va all'avventura, se hai altri 4 o più personaggi in gioco, i tuoi altri personaggi ottengono +1 per questo turno.",
+  "card_identifier": "8/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=4d6aca1658c548593756bf4092a0bdfe3d6eb3f654c8220e4916306bba4aedf5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=e89f28595bb2e475db6993d688cde81adb7154a2456c5980525e3e7dd646bad3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=37cadf9447b5cc816009c10cf13fc019e7dfda6024fe1c7add2b583cf9942234",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

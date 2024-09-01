@@ -1,0 +1,37 @@
+{
+  "name": "Il Covo di Ursula",
+  "subtitle": "Occhio del Ciclone",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Eri Welli / Sam Burley",
+  "deck_building_id": "ccaa3f7bc222e079977804dc188974a4198a6eab",
+  "culture_invariant_id": 759,
+  "sort_number": 769,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "CORRIDOI SCIVOLOSI Ogni volta che un personaggio viene esiliato in una sfida mentre si trova in questo luogo, puoi riprenderlo in mano. SEDE DEL POTERE I personaggi chiamati Ursula ricevono +1 mentre si trovano in questo luogo.",
+  "card_identifier": "68/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=e089c2fdb21f94906cc87df583ea596d7d2bb382a1e270a30f199da89a60e152"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=741eb9b36c4492f5a172e59c531ccaf360281b99a2917f222696649b18daaeec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=552ad42dfcf5d6bd2d00744f14b0b6a5e4c03d092103dc3319e9bd7caa4b82a0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

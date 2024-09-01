@@ -1,0 +1,33 @@
+{
+  "name": "Amo da Pesca di Maui",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "a9e7ec404bfc922091cf146ebf47177ce8ea39db",
+  "culture_invariant_id": 568,
+  "sort_number": 603,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "È L'ORA DI MAUI! Se hai un personaggio chiamato Maui in gioco, puoi usare gratis l'abilità Mutaforma di questo oggetto. MUTAFORMA , 2 — Scegli uno: • Un personaggio a tua scelta ottiene Sfuggente fino all'inizio del tuo prossimo turno. (Solo altri personaggi con Sfuggente possono sfidarlo.) • Un personaggio a tua scelta riceve +3 per questo turno.",
+  "card_identifier": "132/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=6b49a85ca4a0fd50f436cf6cd646aa374fe6eef1da856df084d36810078a2926"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=5335a0fa8d83531eaa9178b8ff92b90efbf3e07de4f3f8efdfe3d0668a2445eb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b1556988ba39f385e78d3384c624a404fafe0aecee9515f283e9dd28c78f2d0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

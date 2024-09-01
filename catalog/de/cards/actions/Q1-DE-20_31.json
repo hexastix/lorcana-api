@@ -1,0 +1,32 @@
+{
+  "name": "Verstrickungsmagie",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Luca Pisanu",
+  "deck_building_id": "1ca60cd1fe1e5add4a58fb39ebb9b17a08fb9f3a",
+  "culture_invariant_id": 933,
+  "sort_number": 953,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Faszinierend, nicht wahr? Sei nicht schüchtern - schau genauer hin...%—Ursula",
+  "rules_text": "Alle gegnerischen Mitspielenden wählen je 1 Karte aus ihrer Hand und werfen sie ab. Lege danach diese Karte verdeckt in deinen Tintenvorrat.",
+  "card_identifier": "20/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=713cae622db9deec5b0af780e8e07529d5d005077f19341322640884a3d8231d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=665435c2c5b427dbf0accdf48a3465001564d461a63bc7b689af7fd68ea22c36"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

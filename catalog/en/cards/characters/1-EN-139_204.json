@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Dreaming Guardian",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "88f3b49fc2874d9eb1cb392887fe8c005c52bba9",
+  "culture_invariant_id": 139,
+  "sort_number": 139,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "As the princess slumbered, her power awoke.",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Aurora.) PROTECTIVE EMBRACE Your other characters gain Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "139/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=81bea0f618dadb26ec851fc53537816437ee4d4cb0d8872087d253a6cb4e4025"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=40a0c59960a47bc0d9a63e51c911d8af9fc217e8fb096c786576cb0638d2796f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=ea53fb440348173618862407933c744140e99710ff62b752386bd34b84e0b89d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

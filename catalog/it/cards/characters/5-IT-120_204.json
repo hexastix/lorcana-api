@@ -1,0 +1,40 @@
+{
+  "name": "Gambadilegno",
+  "subtitle": "Mascellone da Pasticceria",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "b6741a8152956d298a7d5f702a9358f9e22b07d4",
+  "culture_invariant_id": 1076,
+  "sort_number": 1084,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Il suo piano da zucca vuota per portarsi via il cibo aveva quasi funzionato. Per fortuna non tutte le ciambelle riescono col buco.",
+  "rules_text": "",
+  "card_identifier": "120/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=59d27ac3bd16d8e7241f65bb027a6c9ab1b04eb38143ed4115f803cac94e4337"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=9ac0862de518c8d7797e302f682d0693ffe5709723ccf2a8bde04d308c16c62f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=97772ec3c2b4eb7c1376fa2a87aae51cfdb25ccac889936493f6bbab55ee2107",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

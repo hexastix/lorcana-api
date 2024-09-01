@@ -1,0 +1,34 @@
+{
+  "name": "Shield of Virtue",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Eri Welli",
+  "deck_building_id": "36603d551c1f7baf9ea15d2dc93a461dbead7c0b",
+  "culture_invariant_id": 135,
+  "sort_number": 135,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Arm thyself with this enchanted Shield of Virtue and this mighty Sword of Truth, for these weapons of righteousness will triumph over evil. —Flora",
+  "rules_text": "FIREPROOF , 3 — Ready chosen character. They can't quest for the rest of this turn.",
+  "card_identifier": "135/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=bea87f43a927068763a1a2d2e316194c3e38fc4f27153b23fedf6b7cf6e3b271"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=4a8cfb7af3e3a38e861ffd16a1948b13ee0a55f9f4894743300e4054c31119c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=f82b9eeca5fa5c82cec0e27e2878c42e02df83a8d622b5c202ad175dbdbc2cc8",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

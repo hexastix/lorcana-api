@@ -1,0 +1,40 @@
+{
+  "name": "Ulf",
+  "subtitle": "Pantomime",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Matt Chapman",
+  "deck_building_id": "85817c98f4f43a007a486a14f7afd0a47aeec8a4",
+  "culture_invariant_id": 1029,
+  "sort_number": 1037,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Seine Darbietungen sind unsagbar gut.",
+  "rules_text": "STUMME DARSTELLUNG Dieser Charakter kann nicht , um Lieder zu singen.",
+  "card_identifier": "73/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=57ebc5e7443e9067f0fd425be9b2b5ba3a3579169c8686472a3ef495f432310a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=aabdedeab55a4e4db337c196bfd42b9f0a4d6a08c13c97abdb21a74d6b65f418"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=8697d6c1961ee88edc704a8b0128df51beebe3802c07a81255b60a29eed16e0e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

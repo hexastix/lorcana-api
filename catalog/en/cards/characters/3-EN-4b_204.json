@@ -1,0 +1,41 @@
+{
+  "name": "Dalmatian Puppy",
+  "subtitle": "Tail Wagger",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "41a059413bf3c6cc52013cb2a2306150864300be",
+  "deck_building_limit": 99,
+  "culture_invariant_id": 437,
+  "sort_number": 472,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "First they steal your heart. Then they steal your chair.",
+  "rules_text": "WHERE DID THEY ALL COME FROM? You may have up to 99 copies of Dalmatian Puppy – Tail Wagger in your deck.",
+  "card_identifier": "4b/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=91d8c70b4b4479c24d0f5972b8924ac9d52892a6c93f59aef488cb2766a56a45"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=73e8aabe9590f4ae63a175629a1bc6f53c67830a0e05a6516a8c34d76c30b00c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=f8aa910f8b31540f1f39b4962abd3f82270e24282476f72d65b58833e7096013",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

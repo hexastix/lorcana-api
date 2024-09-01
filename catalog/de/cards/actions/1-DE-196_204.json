@@ -1,0 +1,33 @@
+{
+  "name": "Zerfetzen",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "4f9cac8dbc4c67a388b8379dcc126c90c7c5e72a",
+  "culture_invariant_id": 196,
+  "sort_number": 196,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Niemand verfällt so in Rage wie das Biest.",
+  "rules_text": "Verbanne einen Gegenstand deiner Wahl.",
+  "card_identifier": "196/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=de5ed385ac0b8c59b652d2fe69149cf932e8559f8576a84dc814cfbe1288251f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=90b43632e6943edab4d020be134e7840f3f53278a0969ae29a94dca89b89f58c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=2ed47854d67d2c45aa6330d6561665d724e3460908d2a2f70ff2a656132e3421",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Chicha",
+  "subtitle": "Maman dévouée",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "5e3fa2a8aeb1d42d259f76ba44d01ee2b3db912c",
+  "culture_invariant_id": 1184,
+  "sort_number": 1192,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.) LE BÉBÉ EST EN ROUTE Durant votre tour, lorsque vous placez une carte dans votre réserve d'encre, si c'est la deuxième ce tour-ci, vous pouvez piocher une carte.",
+  "card_identifier": "5/P2 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=c2e94fca9f6a3b04723ff33f914e9cb1967da1be87fb5830633c8028943597f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=76dc34db2be4eed374be4b081987c76d00d15edec0436057397c2bb1af38fdf5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=6dff718bde30a6c0233b1178c51da7b1f138366e3b5ff792d08a3141e87a1d90",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

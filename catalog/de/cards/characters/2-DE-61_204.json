@@ -1,0 +1,41 @@
+{
+  "name": "Isma",
+  "subtitle": "Ohne Schönheitsschlaf",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Pablo Hidalgo",
+  "deck_building_id": "1da037e9f2cbb7f5ff27439a3e93d845ffda617c",
+  "culture_invariant_id": 277,
+  "sort_number": 301,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Isma: Lamas! Sobald ich die Augen schließe, sehe ich überall Lamas!%Kronk: Merkwürdig. Ich hab grade eines in der Flut gesehen. Armes Kerlchen.",
+  "rules_text": "",
+  "card_identifier": "61/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=8ce2bfe676f49ddb40c76e948d9e26bd964123a9b8249a7aaf4982d7cde51329"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=3f33ca58c1ed97988342f35b1d2d29e0d0e10ab9aee77c2cd144de06b382bc5b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=41b49a2747e2a43d4b370b5f25ddc967bb3b7649112699579eec8986cc19c8d2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

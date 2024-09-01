@@ -1,0 +1,40 @@
+{
+  "name": "Daisy",
+  "subtitle": "Agente secrète",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Lissette Carrera",
+  "deck_building_id": "f7619092cc3f72796ad99666c3375f2c35ba256f",
+  "culture_invariant_id": 292,
+  "sort_number": 316,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "DÉJOUER Lorsque ce personnage est envoyé à l'aventure, chaque adversaire choisit une carte et la défausse.",
+  "card_identifier": "76/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=d9e0cf95ad69f49033c4adc2f757c0b92cd658c4787d4e3917b2976b12552879"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=c2ae62a3abbcd27b1ecd01d848e839b2226f3ffe6dbec655561fe8ba1bae1303"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=59738d1edccd4d1aafdda3d140f17299b485dc95df8681e4430e4d1bc7974f74",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

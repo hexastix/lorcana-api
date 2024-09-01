@@ -1,0 +1,40 @@
+{
+  "name": "Flotsam",
+  "subtitle": "“Piccino” di Ursula",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "b522f69e8b55e7da75eb298f56319d3827cae2d5",
+  "culture_invariant_id": 734,
+  "sort_number": 744,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Ora la corona <e> il tridente sono miei! —Ursula",
+  "rules_text": "FUGA RAPIDA Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta. COPPIA SINISTRA I tuoi personaggi chiamati Jetsam ottengono \"Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta.\"",
+  "card_identifier": "43/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=69d87fcf825791378d5b5465b5e4236565781e7d7b5679de9f7a0f757b97db63"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=65152d39230b5962b37b421fd05a3494825178934123b20624443b959ae61254"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=897a1e59ac2a41f3c53a36e990fe12b927d5cb0e7657dd4f783b1dcd98e9ab10",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

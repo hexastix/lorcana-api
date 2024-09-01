@@ -1,0 +1,42 @@
+{
+  "name": "Lilo",
+  "subtitle": "Decoratrice di Torte Apprendista",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Olivier Désirée",
+  "deck_building_id": "9f1e57fa50cfe2c903d722580bbf99ab2cb544aa",
+  "culture_invariant_id": 964,
+  "sort_number": 972,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Burro di arachidi e ananas! Sarà la miglior torta di sempre!",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "8/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=3ba85455604ba76519807da7e0783755e51b122d773ecd29bf74bfaf80618e65"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=77a85e394fcbab7c4aba786f32c1167ce8e37b91fbd254c25193574458564177"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=10f192d3ad722c8122a90e905dc07b082cb3469ba96ad04d2397d58b31f164a4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

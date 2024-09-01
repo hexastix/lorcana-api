@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Roi légitime",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "d5e96e3c5cf16c5011f1aa8018f87b668ff17dbf",
+  "culture_invariant_id": 629,
+  "sort_number": 664,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Roi"
+  ],
+  "flavor_text": "Les dangers ne cessent de croître, cette terre a plus que jamais besoin d'un protecteur.",
+  "rules_text": "POSE TRIOMPHANTE Chaque fois que ce personnage en bannit un autre via un défi durant votre tour, choisissez un personnage adverse, il ne pourra pas défier durant son prochain tour.",
+  "card_identifier": "193/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=cb6181b699a84696c61a5266ac271367a8aca0cee0e72b78a91929ec9bd25d30"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=b1dc9532dd34f395277adeb21d8b6481c4508cafbba0052dff521e09deae947b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=2f6a33b096c6ce5264ad197c91063355a96ee4a19dc4dcf9582f5c468752f939",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

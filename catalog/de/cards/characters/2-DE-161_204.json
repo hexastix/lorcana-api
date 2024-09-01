@@ -1,0 +1,40 @@
+{
+  "name": "Winnie Puuh",
+  "subtitle": "Denkt und denkt",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "a0ac5d7c21c80cd3df94d836790d6e371f81ae76",
+  "culture_invariant_id": 377,
+  "sort_number": 401,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Wenn Puuh nachdachte, dann dachte er so gedankenvoll, wie er nur konnte.",
+  "rules_text": "HONIGTOPF Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 beliebige Karte aus deiner Hand verdeckt in deinen Tintenvorrat legen.",
+  "card_identifier": "161/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=d19b1020a8bbc8b8efb6ab5715b65d9c0d254288b45304144076a6a222f3ca22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=172d94268f63d6d2be843a1f1f37c3dcd3944cdb0008e7c032a0fc9318cfee6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=c9f8051ee88892fbd9a3e5fa60be04b47f04dc925b3322a878e1e3ecbd8bc309",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

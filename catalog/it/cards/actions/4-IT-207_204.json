@@ -1,0 +1,38 @@
+{
+  "name": "Questa Famiglia",
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Marine Josephine",
+  "deck_building_id": "4d9b353aa7f368d78fa825e4fdce71da6b544363",
+  "culture_invariant_id": 898,
+  "sort_number": 908,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 7 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 7 o superiore può per cantare questa canzone gratis.) Guarda le prime 5 carte del tuo mazzo. Puoi rivelare fino a 2 carte personaggio e aggiungerle alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "207/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=4a37d56273ebb39617ce4fde90df719e89815e02038bd50b6ee63db0efa5ec08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=11a3bc4c8c8b95ecad2281fb909c6e88b2a2a6b4fe7f75c8653648d46968a598"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e185a17846b62967d03b168d2ae9a2d801b0d32841f4bac9427711f7ac384d76",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

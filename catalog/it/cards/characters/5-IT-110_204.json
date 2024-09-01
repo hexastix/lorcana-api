@@ -1,0 +1,43 @@
+{
+  "name": "Snowanna Rainbeau",
+  "subtitle": "Avversaria Glaciale",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "62f8f59f90124ef9f0b9787ccf4611aaf361be9f",
+  "culture_invariant_id": 1066,
+  "sort_number": 1074,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Pilota"
+  ],
+  "flavor_text": "Quando si tratta di gareggiare, lei di certo non suda freddo.",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.)",
+  "card_identifier": "110/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=88f565995ba203bb01d886b5f687a3a788ca4efe22d005a765c9d52eda086c38"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=152e9221b76b8f960cc6de3840503d3f073c34add2302844a81257d47f616cff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4d4af6ffaea0cdac3df00339dd69b73f96de86e2ed97aa5a61ca3288331e78e4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Concorrente di Tiro con l'Arco",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "69760a52254a4b56186ccc0f1cfde2cf2162aa32",
+  "culture_invariant_id": 1033,
+  "sort_number": 1041,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Per un attimo ho pensato che questa potesse essere una vera sfida.",
+  "rules_text": "COLPO DA MAESTRO Quando giochi questo personaggio, se un avversario ha in gioco un personaggio danneggiato, ottieni 1 leggenda.",
+  "card_identifier": "77/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=fc90e168b4686cdfb8ce341287f524b28a392c37b8a307c010ecf40478dfedac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=e93168c428dba45970943bd200ffc1f59607214483f0b322685027eb3f24fe6e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=f90e167e4fa57a467079c755d5ec898ea31ad8da20ed9f74892288cb5ed4f659",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

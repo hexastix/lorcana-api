@@ -1,0 +1,35 @@
+{
+  "name": "Abbiam vinto Ancora Noi",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "9ff06b2f3d099b1b25c66e78bb07316465d065f7",
+  "culture_invariant_id": 499,
+  "sort_number": 534,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Ora fai la tua scelta!",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per giocare questa canzone gratis.) Guarda le prime 5 carte del tuo mazzo. Mettine un qualsiasi numero in cima o in fondo al tuo mazzo in qualsiasi ordine. Ottieni 1 leggenda.",
+  "card_identifier": "63/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=ecdcc655511fef567786a9c37c7bf957f665c3f61c25317f77e9c345f3d0cc8e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=74be46017a0d687794c250c1e8fb9c8dbc86b463fa111d911b93b46aa40c4d51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=b2be06dd7c8e9efbbe12547a96d48ca2c9afc8427a2a51738d24baa47769e0fb",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

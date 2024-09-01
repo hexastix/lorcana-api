@@ -1,0 +1,40 @@
+{
+  "name": "Mama Odie",
+  "subtitle": "Mystische Macht",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Rogie Custodio / Erin Shin",
+  "deck_building_id": "bef7418632eb34baeafeaecab51aad74cb7191b3",
+  "culture_invariant_id": 587,
+  "sort_number": 622,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentorin"
+  ],
+  "flavor_text": "Du musst nur tiefer in dir graben, dann weißt du, was du brauchst.",
+  "rules_text": "DAS WIRD GUT WERDEN Jedes Mal, wenn du ein Lied ausspielst, darfst du die oberste Karte deines Decks verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "151/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=e10a5f4808ca83ce76c20e65f56c87e1cf888f273ad39e6d0c9c7e21f23f6347"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=e37ecfee7006f13890abc48a876082261165ded32ed236a8190ad626a0ffd51c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=8e9dd13d07af99a234d6e385a0625e3c68fda31888345fe0459e1d37c883a9a8",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

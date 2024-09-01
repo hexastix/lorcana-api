@@ -1,0 +1,40 @@
+{
+  "name": "La Harpe Magique",
+  "subtitle": "Enchanteresse de la Vallée",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Andrea Parisi",
+  "deck_building_id": "f4f450832cdc1e0cb2bf7a119554af0e031d4a98",
+  "culture_invariant_id": 702,
+  "sort_number": 712,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Elle vous manquera quand elle ne sera plus là.",
+  "rules_text": "VOLÉE À la fin de votre tour, si vous n'avez pas joué de chanson durant ce tour, bannissez ce personnage.",
+  "card_identifier": "11/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=cf0623dcb6e3474e599e70868279f3ed0af2ef124d131e21d98c190fdb45f9ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=6d1e7691add126c942f46ecc6f45c04d95cf8b3ba0961ea2ad96c69b01358b77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=fa254665ca27e28d7f0ba7ba09b4ae99ca8956145ee6d578f1539471bab31d93",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

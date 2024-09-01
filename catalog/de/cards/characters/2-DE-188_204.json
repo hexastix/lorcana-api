@@ -1,0 +1,41 @@
+{
+  "name": "Zauberbesen",
+  "subtitle": "Industrieausführung",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "886ba59539c115eb94eaabba8dec4a56a76b26c0",
+  "culture_invariant_id": 404,
+  "sort_number": 428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Besen"
+  ],
+  "flavor_text": "Selbst wenn er auf Glanzleistung eingestellt ist, gerät er bei einer magischen Flut an seine Grenzen.",
+  "rules_text": "AUF HOCHGLANZ POLIEREN Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl bis zu Beginn deines nächsten Zuges Robust +1. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "188/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=9e447fcf19901d0978e238d17508550c917c564707607402cd1d5948383bdc97"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=0ee26350293d5fa521d7a395c9194efb77e9de5704136bfe6cdfbf4c24709021"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=d201be8cf90770f3343bc070a4450423ce92d04e7a05244497f5dca9e558e435",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

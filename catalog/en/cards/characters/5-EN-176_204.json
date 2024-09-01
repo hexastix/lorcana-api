@@ -1,0 +1,42 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Food Fight Defender",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "d1324726fcfc8dc6a6c64e536b9abff579e86482",
+  "culture_invariant_id": 1132,
+  "sort_number": 1140,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Underestimating him is a recipe for disaster.",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.)",
+  "card_identifier": "176/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=4aeddc64f8a5fdebc2da6741a15df06533b47ee81d80b7cf16bb33b894fb5d7a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=face2a558cf396670149f1fab8c24ed571992538a85c50af08acc50af85a3141"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=39eaa812066a60698eb646856235781701037d6a07617935afb8a66ee4043e88",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

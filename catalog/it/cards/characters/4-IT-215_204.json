@@ -1,0 +1,45 @@
+{
+  "name": "Sisu",
+  "subtitle": "Sorella Potenziata",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "João Moura",
+  "deck_building_id": "e06b6bded6dddec463efd1631f0f3855a2a886ca",
+  "culture_invariant_id": 906,
+  "sort_number": 916,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Divinità",
+    "Drago"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 6 (Puoi pagare 6 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Sisu.) LASCIA FARE A ME Quando giochi questo personaggio, esilia tutti i personaggi avversari con 2 o inferiore.",
+  "card_identifier": "215/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=e76a498ed780e02df7ca3590ff17128aec8238d412dd40d0efd2b6a74d5ee38f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=03f2dcadec6e0c458e929d8c0df72d24a56e0ee24d8071782f13f7861cf05480"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=4387938b4560c13338579d8c2bf29880839b0a8edcc237ed96172a0adfb9bb76",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

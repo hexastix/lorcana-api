@@ -1,0 +1,41 @@
+{
+  "name": "MONSIEUR STARKEY",
+  "subtitle": "Acolyte de Crochet",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "9f1a143825dcb63a6c7b8c8ce3c50df1302b8c9c",
+  "culture_invariant_id": 191,
+  "sort_number": 191,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Un pirate doit être résistant, loyal et fort. Élégant ne fait pas partie de cette liste.",
+  "rules_text": "OUI, CAPITAINE Ce personnage a +1 tant que vous avez au moins un personnage Capitaine en jeu.",
+  "card_identifier": "191/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=e54bcd20f97e027ce18d6268909d7b0d90c93f39cf63b96509c1dc66ef4c7f8a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=8cebd481959dd545079862237cd4e69875a612b6152c8c2c0c08da3bafafda25"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=0e197b8ec9f059e3bbf5da8fdeed69caac25c6cc212d42041eb9ac68cbe0ca36",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

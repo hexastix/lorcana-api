@@ -1,0 +1,33 @@
+{
+  "name": "Herumspringen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Bill Robinson",
+  "deck_building_id": "b85b9b0d27f8d3a0741d01cb289b25aab4f498e3",
+  "culture_invariant_id": 313,
+  "sort_number": 337,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hast du Lust zu ein paar Sprüngen?%– Tigger",
+  "rules_text": "Wähle einen deiner Charaktere und nimm ihn zurück auf deine Hand, um einen Charakter deiner Wahl zurück auf die zugehörige Hand zu schicken.",
+  "card_identifier": "97/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=6f3214a6540e1b445db98c350f22595152a5cab8c8cce7019729c909641b6564"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=673354bf2a79aa7e51908d9ae735ca0ab5a7383217c8adb840d0cf282ceaffa3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=a91fc62a10a82b646777f2422e202e764d4ca132474d67d22530ae367d393ded",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

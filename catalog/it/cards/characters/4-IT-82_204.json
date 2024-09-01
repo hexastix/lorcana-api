@@ -1,0 +1,40 @@
+{
+  "name": "Panico",
+  "subtitle": "Tirapiedi Immortale",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "aafb256c24b833a261abb2a7d0c962056813d116",
+  "culture_invariant_id": 773,
+  "sort_number": 783,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ci siamo decisamente occupati di quella faccenda, capo. Nessun problema, è filato tutto liscio.",
+  "rules_text": "A RAPPORTO SIGNORE! Mentre questo personaggio è impegnato, se hai in gioco un personaggio chiamato Pena, i tuoi personaggi Cattivo non possono essere sfidati.",
+  "card_identifier": "82/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=71cd71447cae6889f113dc4e6dcc18d5c720ad1e0672f79365874fe05b47a69e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=f14387e531e49ad19bf2daf65b8a49617876a3a6761ac922afc1bc1dff92d019"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=12f194d223fdf2ac583f66cb145bb3d1cb854e308dac68764c7c1ea15a98daae",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

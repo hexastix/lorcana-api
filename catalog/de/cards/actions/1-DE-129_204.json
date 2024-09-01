@@ -1,0 +1,33 @@
+{
+  "name": "Mit schnellen Schnitten",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "13057e6bb6112157b88c4ebbaec83cc1a20d9e5c",
+  "culture_invariant_id": 129,
+  "sort_number": 129,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Überraschung!",
+  "rules_text": "Ein Charakter deiner Wahl erhält in diesem Zug Rasant. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "129/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=49b368ee4732ec119729c6a7aef4310f9d7b874baf506e69245b751932eabc63"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=1a7cafeb17e92cd10542a05213b30f9312b2be7390bb1968ba3e0f0fbc10b9d5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=cfc69262511c9d19c8875aa8aba11f4860ea7bcb3bf21285c98987e12c8e2dda",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ZEUS",
+  "subtitle": "Dieu de la Foudre",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "dadb267eccd432e2568673dafcf9b187459bc477",
+  "culture_invariant_id": 61,
+  "sort_number": 61,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Offensif",
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Dieu"
+  ],
+  "flavor_text": "Un petit éclair peut résoudre bien des problèmes.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) Offensif +4 (Lorsqu'il défie, ce personnage gagne +4.)",
+  "card_identifier": "61/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=26d9dc16b0de27ebe2cbe006441a68314f68863a4841c074b244f252b569a5d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=2f065a73bc8bb33a8793cd2ec32a88c506d671bfb9accfb88b49fe926424d929"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=ba2dca85b3cf1c2de05f43dba50e888fe103005d3ca2f67c6b8786648a55e2bb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

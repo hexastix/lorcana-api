@@ -1,0 +1,35 @@
+{
+  "name": "The Boss is on a Roll",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "9ff06b2f3d099b1b25c66e78bb07316465d065f7",
+  "culture_invariant_id": 499,
+  "sort_number": 534,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Go ahead! Make your choice!",
+  "rules_text": "(A character with cost 3 or more can to play this song for free.) Look at the top 5 cards of your deck. Put any number of them on the top or the bottom of your deck in any order. Gain 1 lore.",
+  "card_identifier": "63/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=2f5c22feb094ed888021e3389ce94131edd397b8aee0f68872e8a25f6da0c2cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=4afb530425b90d5f7865cca3a2cda771e9e5902ae2118a8ee4977ad72e6d7474"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=b2be06dd7c8e9efbbe12547a96d48ca2c9afc8427a2a51738d24baa47769e0fb",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

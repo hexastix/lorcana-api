@@ -1,0 +1,45 @@
+{
+  "name": "Sceriffo di Nottingham",
+  "subtitle": "Funzionario Corrotto",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d20d32a55ec2df0ff6790459048a6633003d8cd3",
+  "culture_invariant_id": 627,
+  "sort_number": 662,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho 7 carte in mano e lo Sceriffo di Nottingham – Funzionario Corrotto in gioco. Poi gioco A Whole New World, che mi fa scartare tutte le carte che ho in mano nello stesso momento. Quanti danni posso infliggere con l’abilità È Giusto Che Sia Così dello Sceriffo?\r\nA: 7 danni. Puoi usare l’abilità È Giusto Che Sia Così dello Sceriffo di Nottingham – Ufficiale Corrotto una volta per ogni carta che scarti, anche se le scarti tutte nello stesso momento. Se scarti 7 carte grazie all’effetto di A Whole New World. Puoi usare È Giusto Che Sia Così fino a 7 volte.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo"
+  ],
+  "flavor_text": "Tredicesima Regola del Cattivo: arrafa tutto ciò che puoi, ma fallo con il sorriso.",
+  "rules_text": "È GIUSTO CHE SIA COSÌ Ogni volta che scarti una carta, puoi infliggere 1 danno a un personaggio avversario a tua scelta.",
+  "card_identifier": "191/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=cc49192707a5e01574b81af9c26ad6a442f69dd3e1515b565793ef7b8f40a37f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=fa754f6d8f41c81c82218a6d2fa70b64095fdb5b8e5f112a6ac64bf5488de1f5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=22f715038de44c89271c9024081f1f05c06ffda6bdd651575ed305352be79c9a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

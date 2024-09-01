@@ -1,0 +1,48 @@
+{
+  "name": "Balais magiques",
+  "subtitle": "Nettoyeur rapide",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Cristian Romero",
+  "deck_building_id": "869358d9f809656d6013e88df0dee2b50724aab8",
+  "culture_invariant_id": 481,
+  "sort_number": 516,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Quelles cartes puis-je remélanger dans ma pioche via la capacité “Nettoie ceci, nettoie cela” de Balais magiques – Nettoyeur rapide ?\r\nR : Vous pouvez remélanger toutes les cartes possédant la classification “Balai”.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Balai"
+  ],
+  "flavor_text": "Propreté express.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) NETTOIE CECI, NETTOIE CELA Lorsque vous jouez ce personnage, vous pouvez remélanger toutes les cartes Balai de votre défausse dans votre pioche.",
+  "card_identifier": "45/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=ce7534e0f1f525c7092288ddfe63c8b6070ba93bb8fd5fcdbd2a09da1e06935e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=1e1face73e186a4be86aa5a74530a4d0d114665cb99b37223618324804cc5a16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=68331c34cc1af3ce8764b983e2226b66be7c6f53ec9da3628ab70d2ad44b5346",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

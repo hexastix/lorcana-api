@@ -1,0 +1,40 @@
+{
+  "name": "Le Fou",
+  "subtitle": "Anstifter",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "4a3e5d428b7702fa462f17ae49962203afeb1ab5",
+  "culture_invariant_id": 112,
+  "sort_number": 112,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Alles, was eine wütende Horde braucht, ist ein Stoß in die falsche Richtung.",
+  "rules_text": "ENTFACHT DAS FEUER! Wenn du diesen Charakter ausspielst, mache einen Charakter deiner Wahl bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "112/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=46c0e0f8994790eb79685c72958762667f09a35fafc70047a1c4fe8a7b1bd8a4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=b39b9d34ae3c334bdf41bc5acde40d0150e09c5e7c69f25139e17e3cbc18fb7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=39593f799abbfb061e959ea8630bcb9332caa28b32a9281aa0b0c314108756ee",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

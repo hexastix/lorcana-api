@@ -1,0 +1,45 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Voyageur de l'espace",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "69de13009dc28237f575685f6879507f0b8a9a5e",
+  "culture_invariant_id": 545,
+  "sort_number": 580,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si je joue un lieu en utilisant la capacité “C’est gagné !” de Jim Hawkins – Voyageur de l’espace, puis-je l’y déplacer en utilisant sa capacité “Il faut te mettre à la barre” ?\r\nR : Oui, vous pouvez l’y déplacer immédiatement.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Tu vas faire de l'ombre aux étoiles. —John Silver",
+  "rules_text": "C'EST GAGNÉ! Lorsque vous jouez ce personnage, vous pouvez jouer gratuitement un lieu coûtant 4 ou moins. IL FAUT TE METTRE À LA BARRE Chaque fois que vous jouez un lieu, vous pouvez y déplacer ce personnage gratuitement.",
+  "card_identifier": "109/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=6b1b6cc3c033b9849fea16f80a51db9c4e4321da9e043cae13ebe88d6277b2a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=0142490cb42b4889d2ba6a2e27844d0c5a7edbb33f56a5a7e28521cbdc82daa9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=706f82e5f42932d4f69671a060ea2df29955b94f61c0881376d760dae12f2d38",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

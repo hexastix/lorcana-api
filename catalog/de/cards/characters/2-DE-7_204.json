@@ -1,0 +1,40 @@
+{
+  "name": "Eudora",
+  "subtitle": "Fähige Schneiderin",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Lissette Carrera",
+  "deck_building_id": "8f1136e3663dd82c592b712ae6772bd4f6486f55",
+  "culture_invariant_id": 223,
+  "sort_number": 247,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "Die Liebe hält alles beisammen.",
+  "rules_text": "",
+  "card_identifier": "7/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=295d2bdcab81e15b33477c1f617e2b99dbda4663bef9f15c9ed97ab08ac00665"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=24b1ab86feb043854fbcf7ee184adac075c817d6bdb04e0e83a8080a04123f4e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2f155c4455d26c55a3a056841cbffa037b04fe46f4c5ebabd96cf5b9e1d799ac",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

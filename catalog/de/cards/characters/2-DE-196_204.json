@@ -1,0 +1,43 @@
+{
+  "name": "Tiana",
+  "subtitle": "Festliche Prinzessin",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "910acc88a200a28dc9c862c38ead8d1f52ae921c",
+  "culture_invariant_id": 412,
+  "sort_number": 436,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.) WAS DU GIBST IST WAS DU KRIEGST Solange dieser Charakter erschöpft ist und du keine Karten auf der Hand hast, können gegnerische Mitspielende keine Aktionen ausspielen.",
+  "card_identifier": "196/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=faf8a0b8d6bcb497ee8181e2161c346115e138da3e15a988f72ac62d11ef4ef4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=49aff1e53841cb6b000f7b749c4515708125eb21b9675ad38d7651ba7bc98a99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=edcffc8eac0b5b1a6fa5981611989dfcd371436121c9d504d2dd565f907cd139",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

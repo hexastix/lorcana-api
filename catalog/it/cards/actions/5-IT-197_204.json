@@ -1,0 +1,35 @@
+{
+  "name": "Aspetto Quel che Succederà",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Javi Salas",
+  "deck_building_id": "a93a1efecc6c3e773ca5de295729482697c34e24",
+  "culture_invariant_id": 1153,
+  "sort_number": 1161,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Ma sono sempre rinchiusa qua...",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Un personaggio a tua scelta non può sfidare durante il suo prossimo turno. Pesca una carta.",
+  "card_identifier": "197/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=55685abd7b805261840cb1e5017030cd60560757d78f71aee80f4b9b488fba79"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=e631a3821d3738abf982a3a1409839a6f9bea98b1c0da538e0f78276864c21cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=3d6631c8aa054f6b8c333c801f0ba20a28d462eedb9fbeadf37cbd95987ad46d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

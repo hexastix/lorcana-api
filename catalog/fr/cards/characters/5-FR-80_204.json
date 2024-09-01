@@ -1,0 +1,41 @@
+{
+  "name": "Banzaï",
+  "subtitle": "Prédateur vorace",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Otto Paredes",
+  "deck_building_id": "2f7af827afa94bd82be911c9a81fd82f3568ace0",
+  "culture_invariant_id": 1036,
+  "sort_number": 1044,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Hyène"
+  ],
+  "flavor_text": "Il ne refuse jamais un amuse-gueule avant le dîner.",
+  "rules_text": "",
+  "card_identifier": "80/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=1c086151bf99f44097ce8f9ea4f4e994344ce405e4267fd76dff3350ea0f5828"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=9e855784587a7af3295458bd9e87f3e20eae25ce1c4255803039232799cbbb5f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=e482c4c56fbee0f2ab65b31beee50ccfe2af0aca6d4cba8350cc717554dccd40",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

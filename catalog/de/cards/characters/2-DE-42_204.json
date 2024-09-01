@@ -1,0 +1,41 @@
+{
+  "name": "Gute Fee",
+  "subtitle": "Reinen Herzens",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Matt Chapman",
+  "deck_building_id": "83b99c29716dc645e59792cecd067f6715bc51fd",
+  "culture_invariant_id": 258,
+  "sort_number": 282,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete",
+    "Fee"
+  ],
+  "flavor_text": "Aber jetzt müssen wir uns ein bisschen beeilen, weil auch die Wunder ihre Zeit brauchen.",
+  "rules_text": "VERLASS DICH GANZ AUF MICH! Jedes Mal, wenn du einen Cinderella-Charakter ausspielst, darfst du einen Charakter deiner Wahl erschöpfen.",
+  "card_identifier": "42/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=ac96af341e58197356554aef6015e06fdec50756809632ebe535b3470f31ea54"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=0154ad76ccac03514e63ec5a8f474ae9e8050b6f0eeaefdc5fd5b596d8a9250b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=3efd96b126486a3536ee3aa4fc1a2463f38dd050c5403aa87ad35a88c7bdb4bb",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

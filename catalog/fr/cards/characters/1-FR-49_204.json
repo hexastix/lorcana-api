@@ -1,0 +1,42 @@
+{
+  "name": "MALÉFIQUE",
+  "subtitle": "Sorcière",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "cfeceefcaf48b610eb3bfdce490c108d8cc86302",
+  "culture_invariant_id": 49,
+  "sort_number": 49,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Tu oses me défier? Pauvre fou, ma magie est encore plus puissante que tu ne pourrais jamais l'imaginer!",
+  "rules_text": "SORTILÈGE Lorsque vous jouez ce personnage, vous pouvez piocher une carte.",
+  "card_identifier": "49/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=415ce30a5f20c6b6f4681c70096e14b7f6c16a97fa31e484406babf10696cead"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=a723aa407a44e1ac9dd8f3210d22395cbaec953374c0dde2a564ba3bec75a7ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c7bcd0119c2bf844893db5994ce73ba11c77f8194414b44f6dafdf10f2a52ac9",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

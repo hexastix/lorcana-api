@@ -1,0 +1,33 @@
+{
+  "name": "Aurelian Gyrosensor",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "1cefdacf3020720d8e94c7f2e9c50039ba1f9d22",
+  "culture_invariant_id": 599,
+  "sort_number": 634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It can point you toward lost lore, but if you’re not careful, it’ll lead you off a cliff. —Venturo, an Illumineer",
+  "rules_text": "SEEKING KNOWLEDGE Whenever one of your characters quests, you may look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+  "card_identifier": "163/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=49444d9cd3b3c038974df8dee57ea423c2c1da186583aadb0d493f3156b3e001"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=587c1faf3a4b147ce31e9edf8eadca5826dc5d638e9aef47992ddd6d38e7f839"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=4bbf790671506ffaeb3afa4e695c68a51f4381300a102cb9e1b3a27069fe8f22",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

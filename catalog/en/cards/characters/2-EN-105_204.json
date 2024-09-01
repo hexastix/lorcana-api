@@ -1,0 +1,41 @@
+{
+  "name": "Card Soldiers",
+  "subtitle": "Full Deck",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Bill Robinson",
+  "deck_building_id": "48ef37fb7cf16d1c0dfc87d604744a7cb6c7a66d",
+  "culture_invariant_id": 321,
+  "sort_number": 345,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "You’ll have to deal with them sooner or later.",
+  "rules_text": "",
+  "card_identifier": "105/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=a34258dbd36342cf60d1c984b0d4732eb6d2aa4283a894fb63994c62e55223d5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=6b40b2cd875e2cc7d0ee90683db3802e6ce2ab595904e09b03ce00a2da08c3fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=2121c44b96d414c51005ce168ff876d3b62c6436458ed2c3c5e3affd23d1660c",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

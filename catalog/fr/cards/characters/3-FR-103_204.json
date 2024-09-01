@@ -1,0 +1,44 @@
+{
+  "name": "Ariel",
+  "subtitle": "Collectionneuse intrépide",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Javi Salas",
+  "deck_building_id": "f7e66d8c4fd5a5802bb6f4e68dce23b54d59353b",
+  "culture_invariant_id": 539,
+  "sort_number": 574,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Les épaves sont des lieux idéaux pour trouver des éclats de Lore... et se cacher des requins!",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) VOIX INSPIRANTE Chaque fois que vous jouez une chanson, choisissez l'un de vos personnages qui gagne Insaisissable jusqu'au début de votre prochain tour.",
+  "card_identifier": "103/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=89baf36ea2296aba734f69b6375e3a3b58a5e0f67d1044a3efad6431c11a8b64"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=14e2504bb61768ea20f91f54be82870dc03905b2edb36653aaa73a7e6897f8ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=645db502426198f7a4ec4c61cebab74296dac13f56612a3109175dc8fc0a035a",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

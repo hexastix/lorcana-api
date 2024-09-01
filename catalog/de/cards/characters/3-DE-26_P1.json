@@ -1,0 +1,42 @@
+{
+  "name": "Kit Wolkenflitzer",
+  "subtitle": "Harter Bursche",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba6592b2078506e7c5389f3ec79be99fb7ce9be",
+  "culture_invariant_id": 684,
+  "sort_number": 695,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Es war sehr nett bei euch, aber jetzt muss ich gehen. Jahuuu!",
+  "rules_text": "WOLKENSURFEN Wenn du diesen Charakter ausspielst, darfst du einen gegnerischen Charakter deiner Wahl, mit 2 oder weniger , zurück auf die zugehörige Hand schicken.",
+  "card_identifier": "26/P1 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=4e7e80983e9522938304ea0f73f32fb974e443d319d02c93cae95f7e914b2ccb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=578b22ecffed66139269bc73a5c8722f681422a7b526b44661570115858a9bc6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=abb54feef54567c0f357541a2b5395bcf8501d57d3976f9b3b518d6b1bc49844",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

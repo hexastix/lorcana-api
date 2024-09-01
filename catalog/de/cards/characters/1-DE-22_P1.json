@@ -1,0 +1,43 @@
+{
+  "name": "Malefiz",
+  "subtitle": "Nicht eingeladen",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "6a637ad79b7ce9fad777fb8a1163379b2f2e1f9e",
+  "culture_invariant_id": 680,
+  "sort_number": 232,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Sie hatte keine Einladung und brauchte keine Vorstellung.",
+  "rules_text": "",
+  "card_identifier": "22/P1 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=749dfc3772221780044cb43ecbfb5d9539f99ddedd7f4293778603240fc7f0bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=c688bd0be9d89f3d01e0a221f8720b312cb555d9bac30fdd1cad9c0d15d08e25"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4ef163a353b587c154837b15ac866eeb9515a45db470ee44df5007f987681aa9",
+  "special_rarity_id": 1,
+  "foil_type": "Satin",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

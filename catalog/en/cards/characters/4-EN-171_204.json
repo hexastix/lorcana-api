@@ -1,0 +1,42 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Brave Rescuer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Randy Bishop",
+  "deck_building_id": "58ce9f9e7b38c0ef9c7d5b24e03675a9b0c0e182",
+  "culture_invariant_id": 862,
+  "sort_number": 872,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift: Discard a location card (You may discard a location card to play this on top of one of your characters named Aladdin.) CRASHING THROUGH Whenever this character quests, you may banish chosen item.",
+  "card_identifier": "171/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=1ee92bd62438a7ea3dd4b3f44e9333f682df9381300e309f76bd6e7910c504b7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=7b70c1fc6524ba35b86cf06de676f72439523b482feb3678e9ebb6487e5bf2c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=f3eb6034f1232bc6672f7351040c151d8beda58043e4fc1a91356afcf4b59660",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

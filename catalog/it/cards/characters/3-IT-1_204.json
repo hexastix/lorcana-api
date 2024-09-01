@@ -1,0 +1,42 @@
+{
+  "name": "Baloo",
+  "subtitle": "Von Bruinwald XIII",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Cam Kendell",
+  "deck_building_id": "59ca12ef2ed51d7e5c544d6de0d81a98cc06daee",
+  "culture_invariant_id": 433,
+  "sort_number": 468,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) ALLONTANIAMOCI, SVELTI! Quando questo personaggio viene esiliato, ottieni 2 leggenda.",
+  "card_identifier": "1/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=c859f56e7d9c95342a191a9976273a3191c90ce38435786dd3007fdbc48cf6b2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=23ea8ae0415525e8afa01a29b7887167f4a96f06db312d8183164f5293ddd3f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=77bda8c1053e9e74aed115313a3dc955f8e6d983a510fc982e4c7f3868dcfb8c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

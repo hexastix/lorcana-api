@@ -1,0 +1,42 @@
+{
+  "name": "Amelia",
+  "subtitle": "Strega Ladruncola",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Giulia Riva",
+  "deck_building_id": "548a3234386f1848a7a2d2fca62a36ddd990a294",
+  "culture_invariant_id": 486,
+  "sort_number": 521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Sai come lo definisco? Un buon inizio!",
+  "rules_text": "TELECINESI — Fai tornare un oggetto a tua scelta con costo pari o inferiore alla di questo personaggio in mano al suo giocatore.",
+  "card_identifier": "50/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=fe4df87abd1b49d68841107930a7140bf65f69be412eda54c3d888dc51082dbc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=0f0edf39fbd978a1e2f84b8fb1bb5918cd76f7731bc7207891509107a7b4c30c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=18232aa05215ccfcb278add7a76f30fb32e61d5317f2e5f0071d6ca05c034628",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

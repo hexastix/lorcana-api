@@ -1,0 +1,40 @@
+{
+  "name": "It Calls Me",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Luis Huerta",
+  "deck_building_id": "e78fcfdbd854c2d512d3769ebb8b9457a43ed90f",
+  "culture_invariant_id": 497,
+  "sort_number": 532,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If my opponent has cards in their discard, do I have to shuffle at least 1 of them into their deck when I play It Calls Me?\r\nA: No. You can choose any number up to 3 to shuffle into their deck, including 0.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "I am everything I’ve learned and more",
+  "rules_text": "(A character with cost 1 or more can to play this song for free.) Draw a card. Then, choose up to 3 cards from chosen opponent's discard and shuffle them into their deck.",
+  "card_identifier": "61/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=8ba8495b9080ca46d0da82a0d115e485a1e4d3afb61e77b2d9d4eb1e09da10c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=76569a12f758915bef6ca996c6d00565b2260fe5359cb0586ed4fc26dcdf0401"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=4e7deb6850d507cb9a0e0bbc602d28f80f5a37b911b0dc85f51279bc9f821b70",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

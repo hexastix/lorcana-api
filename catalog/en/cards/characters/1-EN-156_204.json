@@ -1,0 +1,47 @@
+{
+  "name": "Philoctetes",
+  "subtitle": "Trainer of Heroes",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "bc5a3301196e31a727216ba5bd0ecf0f0dcae69a",
+  "culture_invariant_id": 156,
+  "sort_number": 156,
+  "additional_info": [
+    {
+      "title": "Errata - Support",
+      "body": "The correct wording is “another chosen character’s {S}.”"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "Ya gotta be the best to train the best. And I train the best!",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "156/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=d9f19ea081226cfa6cdffce3cd65eefde33ac1329a5b9fb381753e4e7a5e3939"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=a666d697cd58751f077118223f627ec865fd35147128e03bd588bef2589202fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=9894a9fe8c1beed9f48a35bb81b0af80d22fc3086c5333e695af833897a4b53e",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

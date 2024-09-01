@@ -1,0 +1,43 @@
+{
+  "name": "Blue Fairy",
+  "subtitle": "Rewarding Good Deeds",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kiersten Hale",
+  "deck_building_id": "6ba38008e226dd2b1f7f7d339eda6aa832fd6eb3",
+  "culture_invariant_id": 252,
+  "sort_number": 276,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "flavor_text": "To make Geppetto’s wish come true will be entirely up to you. —Blue Fairy",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) ETHEREAL GLOW Whenever you play a Floodborn character, you may draw a card.",
+  "card_identifier": "36/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=fd4d51b47b4583f0a601b13d22f0df311c9e3f5d1e257a9c65e218b8d07c9c25"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=89ea0872723b8147c097a05bf6e2115b47b85bf7589491cc1b359222b979ec2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=7a8268a1e8e0ccef7d8e1c0578125238831ece09c469775a02aa203cd0b4fdba",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

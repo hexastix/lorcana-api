@@ -1,0 +1,40 @@
+{
+  "name": "Pico",
+  "subtitle": "Hilfsbereiter Tukan",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hadjie Joos",
+  "deck_building_id": "27be5df4d628d5a4e6cf0eb59be64a452c0bb9cc",
+  "culture_invariant_id": 746,
+  "sort_number": 756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "In den nahe gelegenen Bergen entdeckte er ein geheimnisvolles Leuchten. Könnte dies das fehlende Stück der Vision sein?",
+  "rules_text": "",
+  "card_identifier": "55/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=cc6a97654b6b443af74ddac9bb2135270f96891992e4cd7437922cdd783734c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=161a298eed1ae39564b977adf41634e0eaf86c32ecd1bc18d5a6b1015c8033b7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=0e7ad983fe645c8b31d60900e70ed352d4e92a59e56e498f8a383090b006a04c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

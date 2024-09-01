@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Principe Combattente",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Noukah",
+  "deck_building_id": "e836b4740f7b37d1bb09ffe4674ef38b8b93c2ed",
+  "culture_invariant_id": 628,
+  "sort_number": 663,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "È pronto a riportare le Terre del Branco ai loro antichi fasti.",
+  "rules_text": "O TI FAI DA PARTE, O DOVRAI AFFRONTARMI Quando giochi questo personaggio e ogni volta che esilia un altro personaggio in una sfida durante il tuo turno, scegli uno: • Pesca 2 carte, poi scegli e scarta 2 carte. • Infliggi 2 danni a un personaggio a tua scelta.",
+  "card_identifier": "192/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=e32c66f79a29fd8f135ecb256fdabc7abb73580fdc0f2dbd71715d573fc39115"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=38f4b22ce2ad17b0a14c7a3d27e86ab5bce077fba3e63c4a44d3e37fdadd41ba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5160747183f5792183a8df0eb9b17b45571742e7a1802c0ee695aa8f9ff8dfb1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

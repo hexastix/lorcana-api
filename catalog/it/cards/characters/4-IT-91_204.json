@@ -1,0 +1,40 @@
+{
+  "name": "Tohr",
+  "subtitle": "Fioraio",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "402556072df095be47408c9b2240053e919333e0",
+  "culture_invariant_id": 782,
+  "sort_number": 792,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Le sue composizioni son per tutti squisite,%I suoi mazzi e bouquet davvero gran cosa.%Ma quando la gente vuol porgergli visite,%C'è sempre una lotta per mettersi in coda.",
+  "rules_text": "",
+  "card_identifier": "91/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=579becbd60282b90ed9925131d9fa81bc0b180fc60164e5de119e08c7bfe2a12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=5da516fea92a3c5a72d2b3928ebf4a652f33b30d5ee1196e49729baecf66e2f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=981075848939d7d86d60e9b765e040d7181cbac7d1598466f3eef461b7d5c6ff",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

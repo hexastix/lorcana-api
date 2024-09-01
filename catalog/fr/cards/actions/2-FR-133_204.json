@@ -1,0 +1,36 @@
+{
+  "name": "Tu t'envoles",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Eva Widermann",
+  "deck_building_id": "58776f4069675bc00ffc50d5d4cc8aaf7b95b0fc",
+  "culture_invariant_id": 349,
+  "sort_number": 373,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage, il gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "133/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=a1a289c0aa1ec819b2aaaac89c557d93e426ff55ce3cbcec656e5e1ea0180bba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=a933ecb07d000fb9aa74c667e75c9bdfdde5258a4c17ab2c94c38de05ea0641a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=7dd0e7d65161bdf0e234201b2abab02eea6a62e3f96a79e25905770924465136",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Perdita",
+  "subtitle": "Mère dévouée",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Defne Tözüm / Livio Cacciatore",
+  "deck_building_id": "b1005675a4c65117f039b0b5707c31167707af7b",
+  "culture_invariant_id": 451,
+  "sort_number": 486,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si j’utilise la capacité “Allons, les enfants” de Perdita – Mère dévouée pour jouer Madame Mime – En serpent depuis ma défausse, dois-je renvoyer un personnage dans ma main si je ne veux pas bannir Madame Mime au moment où elle arrive en jeu ?\r\nR : Oui, vous devez renvoyer un personnage pour que Madame Mime reste en jeu. La capacité “Allons, les enfants” de Perdita vous permet uniquement de jouer un personnage sans payer son coût en encre. Les capacités qui se déclenchent lorsque vous jouez un personnage s’appliquent normalement.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Ses chiots la suivront partout.",
+  "rules_text": "ALLONS, LES ENFANTS À chaque fois que vous jouez ce personnage ou qu'il est envoyé à l'aventure, vous pouvez jouer gratuitement un personnage de votre défausse coûtant 2 ou moins.",
+  "card_identifier": "15/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=2eee7c038a6ba43760a25b7361f4c0982b82bcb5ef1f906796f24c6fd7627edd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=8903b319fac8411b3f69efb84c4a77b8f1c2b8ae68320f78166e11337df5b716"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cf694ff478b9d5c9189c4380877d6bf6132128d9bf43507b842a37156208ac1c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Domestique Magique",
+  "subtitle": "Plumette",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "3cf0665cbe209cfcd209d0dafda36571bc0d96ba",
+  "culture_invariant_id": 741,
+  "sort_number": 751,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "As-tu déjà vu quelque chose d'aussi beau? demanda-t-elle, émerveillée par les arbres d'améthyste.%Non, chérie répondit Lumière sans la quitter des yeux. Je n'ai jamais rien vu de tel.",
+  "rules_text": "",
+  "card_identifier": "50/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=7e5d1494fb54eb0beae9c7a1efc5f86bf1a3dfd1270bb656c51aea25b09b70c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=0ee84bc4bc57a55755873005eaaeeda048282401851143d9c0afa4746e35a315"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=a8e4314918280080fe9d80249d369381ff4bfd07624ce8e6a81d0d7db488b66e",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

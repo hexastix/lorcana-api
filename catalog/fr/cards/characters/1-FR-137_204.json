@@ -1,0 +1,41 @@
+{
+  "name": "ARIEL",
+  "subtitle": "Collectionneuse de couics et de couacs",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "e7f1a27c80956c21bfff7f23088ed37eb0729221",
+  "culture_invariant_id": 137,
+  "sort_number": 137,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Tu veux un tire-baba? J'en ai des tas.",
+  "rules_text": "VOIS CES TRÉSORS Chaque fois que vous jouez un objet, vous pouvez redresser ce personnage.",
+  "card_identifier": "137/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=e3d6a11141b8f144a680de6955510da5040b5fc72497e33cfda9a020e6fd8067"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=1c580fca9d0fa716af2b6833f912367747ae5b90af115974c61645a10f93510b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=3703258ce587615e446de273a6e0235d3d62eddd4492dea1b5e6db16e36a6fd3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

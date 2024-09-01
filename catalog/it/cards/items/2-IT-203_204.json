@@ -1,0 +1,34 @@
+{
+  "name": "Armatura per Topi",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "a8a678ce1ce9ad4855ef12e449fae23cb97cb0ff",
+  "culture_invariant_id": 419,
+  "sort_number": 443,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Costruita da mani piccolissime per grandissimi cuori valorosi.",
+  "rules_text": "PROTEZIONE — Un personaggio a tua scelta ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "203/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=b13052445270eb1a899384241215bec9eab008ba3403c09c4843e1f5305e0f17"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=e5dccc0c4ac752c8449233940e14a840a7412fb76cda143d0cd6c8c6f38cefca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=c04cc26e4b2c515de90b75cfe464070f139da465768e054bc90e80cdd91478c2",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

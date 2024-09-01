@@ -1,0 +1,42 @@
+{
+  "name": "Kronk",
+  "subtitle": "Junior Chipmunk",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Brian Weisz",
+  "deck_building_id": "1924f5a75ed46675b141cc31b8b1730cc15ddc6c",
+  "culture_invariant_id": 401,
+  "sort_number": 425,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) PFADFINDER Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du einem Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "185/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=cafb7b82aff5f33cee4786e062965a114752c3dc661ca56d09a7dfeeb9be8136"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=6ad340fdc4bed14060e337bfcb90c71d563ff9367ec27cceeb0080f0570b87b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=349c30945d774224607aa25fe3c3b06476fad7c3ea346cab85091d3273c98530",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

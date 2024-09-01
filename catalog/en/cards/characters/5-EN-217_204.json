@@ -1,0 +1,42 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Ruler of Pride Rock",
+  "strength": 4,
+  "willpower": 9,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Jochem van Gool",
+  "deck_building_id": "97ba44b060278c8f2f5f75a9a77b64ea977369c1",
+  "culture_invariant_id": 1173,
+  "sort_number": 1181,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "A DELICATE BALANCE When you play this character, exert all cards in your inkwell, then return 2 cards at random from your inkwell to your hand. EVERYTHING THE LIGHT TOUCHES Whenever this character quests, ready all cards in your inkwell.",
+  "card_identifier": "217/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=bcab24ca24c4d9fe3c9ffaf786249e4924632cbef9d8ade3c401bcc403861e8d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e882ec8404cb0d2051a76ec4f0e27997b41013966ac3ba7b28a8dd6c2f6857ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e6908359a1345140f3593fce6b29e5050c9947e3007a169f5b6f69ebe28b49fe",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

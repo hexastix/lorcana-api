@@ -1,0 +1,35 @@
+{
+  "name": "Ne parlons pas de Bruno",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "0cad2afabe0d8c82ff3aaacde2c1d2e1edaad12a",
+  "culture_invariant_id": 788,
+  "sort_number": 798,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "S'il te le dit, c'est que tel était ton sort!",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage et renvoyez-le dans la main de son propriétaire. Puis ce joueur doit défausser une carte au hasard de sa main.",
+  "card_identifier": "97/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=064235605f5e8814c3e7a28ee54837160e7640131a640b261b421eac26bcaa0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=8103f59790f8571deb44c6a1f6bdd0112192dd3baae8df5b38b56986cb5ca5f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f6c4f7531206838c404904d1a01207f214de9884d415ba78d6e57c265bfae540",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

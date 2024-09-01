@@ -1,0 +1,36 @@
+{
+  "name": "La légende de l'épée dans l'enclume",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "68b837d1794b4887d94e74205c81d1741976d19c",
+  "culture_invariant_id": 280,
+  "sort_number": 304,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "D'après la légende, l'Angleterre autrefois,% avait un si bon roi.",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage, il gagne Offensif + 3 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "64/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=2d5830af77dd59efca97619636be53991fcf24cae3e54cd56dd7ccce094f1739"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=0cd4c0d5ea1e0e2ec5e7916534110888b52b8adc1b97122b2d74bc6379b39a74"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ea022b16debf64be4571f08f0959815de62322b174ffdb0f5831c6de2741d28c",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

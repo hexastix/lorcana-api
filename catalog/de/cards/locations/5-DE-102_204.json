@@ -1,0 +1,37 @@
+{
+  "name": "Tropischer Regenwald",
+  "subtitle": "Jaguar-Lager",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Andreas Rocha",
+  "deck_building_id": "52ec9a7c34475277f634f704e9058f3740be19fe",
+  "culture_invariant_id": 1058,
+  "sort_number": 1066,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SNACK-ZEIT Beschädigte gegnerische Charaktere erhalten Impulsiv. (Sie können nicht erkunden und müssen herausfordern, wenn möglich.)",
+  "card_identifier": "102/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c0835f1f16dcd45fbc23a0260ae7387b63d5b7099d287239e6adc97acef45b4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=8bc7e24298397241b75b52a8a88dd275eac0afe8f784e66b2a89df88794771b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e208e3d64825168f40576be1ef52a7d4b0afcc456895630d3e29d9c73c02aeac",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Plasma-Kanone",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "7204a43d0ddbf91326f601cd9fbef27e72eae9fa",
+  "culture_invariant_id": 204,
+  "sort_number": 204,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Du musst nicht ‚pew pew‘ sagen, wenn du sie benutzt, aber es hilft ungemein. – Lilo, Galaktische Heldin",
+  "rules_text": "SCHNELLFEUER , 2 — Füge einem Charakter deiner Wahl 1 Schaden zu.",
+  "card_identifier": "204/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=79c332c01949b4a00fe86c94b3f62c914966f1c6ffa2e3fbd6702e288c1dc81f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=bee676ff15ef66a46f0b510be7d4300fe179b8f814c8b7e1bdc71430e21f75e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=6759c405ebf1dd9dae6fc195a52b6d2acf3622044c1c952b3eaa609646083a2b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

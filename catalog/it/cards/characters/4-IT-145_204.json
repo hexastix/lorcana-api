@@ -1,0 +1,41 @@
+{
+  "name": "Ade",
+  "subtitle": "Pianificatore Meticoloso",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "68146d6fa08641ea608a09555035a71d11aef35e",
+  "culture_invariant_id": 836,
+  "sort_number": 846,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "Su questo grazioso piccolo complotto si vedono i tentacoli di Ursula lontano un miglio. Quella subdola strega del mare... Aspetta! Posso sfruttare questa cosa. Mentre lei tiene occupati quegli odiosi Illuminatori io posso portare avanti il mio piano.",
+  "rules_text": "",
+  "card_identifier": "145/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=5734405541b111d3d1bdc7e2194d96af4372a49506bed65c85c7c73bb92e70bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=05978d80e808f8f89b8b4630afe5be847318e12e6d4f16db64e10ff68d5a3b3b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=2e1b50fc03fe445de96f71def37fdc5a02e09065110e2d58efe807567f015fec",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Contratto Firmato",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Andrew Peña",
+  "deck_building_id": "fd1f3ba849d2d59ce5e0e3e8c3e3e7a146685998",
+  "culture_invariant_id": 790,
+  "sort_number": 800,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Adorerei <davvero> poterti aiutare, ovviamente, ma c'è quel piccolo dettaglio del contratto...%—Ursula",
+  "rules_text": "CLAUSOLE IN PICCOLO Ogni volta che un avversario gioca una canzone, puoi pescare una carta.",
+  "card_identifier": "99/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=da2ad8e9726e1f8a835b2e900bfaca9854bfadf10dbb7d4de341bf607401dec4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=dec465aeffd2ddabe4730688d8a5ae1cd55e94b25d252e99a683f9f22c44a0b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a1e6df8f6f2676c9804354dab5e241cc7ef1b37d18cfa0bbd7d28ef27db9ebad",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

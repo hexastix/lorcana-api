@@ -1,0 +1,40 @@
+{
+  "name": "Lyle Tiberius Rourke",
+  "subtitle": "Gerissener Söldner",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "066d98350f93008c06e7992cf1678ffcf7b1ce13",
+  "culture_invariant_id": 514,
+  "sort_number": 549,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "JETZT REICHT'S JA AUCH NOCH Wenn du diesen Charakter ausspielst, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. (Der Charakter kann nicht erkunden und muss herausfordern, wenn möglich.) SCHÖN, DASS DU DICH FREIWILLIG MELDEST Jedes Mal, wenn einer deiner anderen Charaktere verbannt wird, verlieren alle gegnerischen Mitspielenden je 1 Legende.",
+  "card_identifier": "78/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=31af5222e7755d8b64d97fdabb1f34476f62d1e79d60fc603d716c2dce9195c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=dcf3f6cf1c82f632c6e0c516a0db73a4ea13496b5734c75430c73c4a3ac6a7ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=ac17885fd4d3a8f41178bdff9fb793828daa5f649c189e45e724e6bad460cbc7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

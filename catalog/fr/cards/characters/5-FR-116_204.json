@@ -1,0 +1,40 @@
+{
+  "name": "Pat",
+  "subtitle": "Rival du bateau à vapeur",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Louis Jones",
+  "deck_building_id": "560738cc26ab41c3b9302243666e56a60e99e4df",
+  "culture_invariant_id": 1072,
+  "sort_number": 1080,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "FICHE LE CAMP ! Lorsque vous jouez ce personnage, si vous avez un autre personnage Pat en jeu, vous pouvez choisir un personnage adverse et le bannir.",
+  "card_identifier": "116/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=f1a6314496f5c27d3b9369b2dd39fc5f0f97ba512c8e41d5639036a77c05c12a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=513ebc89ff8b465f41255b30f186f4a0d086f1116c87077c15fc1fbcfffa682a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=5e1f82d854ca478d1e84fc478c6ffacd19cc360030e2d587bfe82a2c1b87a8d4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

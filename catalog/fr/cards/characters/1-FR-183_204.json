@@ -1,0 +1,40 @@
+{
+  "name": "KRONK",
+  "subtitle": "Fidèle bras droit",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jake Parker",
+  "deck_building_id": "16ae0c63dad8f7e9a23de31e17f65ff2e726a9e2",
+  "culture_invariant_id": 183,
+  "sort_number": 183,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Oh oui, tous les morceaux se recollent.",
+  "rules_text": "",
+  "card_identifier": "183/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=593b5512d32795dca3969150f5643d0fab770bf1b5339dba4cef6652c8a3bff8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=fc2c8d1d1c669abad609b45b658e74ba2f0a58c259ea50a0febc002b5e45f9f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=70cc798cb7987a36f5baeb4818c17942d5519bbc557df4d5a5102a23a7f0ad85",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Hinterhältiger Hexer",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jake Parker",
+  "deck_building_id": "b3001090c82926f995dda5332ff5f0546257b061",
+  "culture_invariant_id": 45,
+  "sort_number": 45,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Genug mit der Herumschleicherei. Es ist an der Zeit, diesem jämmerlichen Sultan zu zeigen, wozu ein Zauberer fähig ist.",
+  "rules_text": "Herausfordern +3 (Während dieser Charakter herausfordert, erhält er +3.)",
+  "card_identifier": "45/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=526e7d9b6f925ace2d913e17c6bd98275fcdded836bc4a22971d0d9182092eb3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=9d5014bdc4dbefa76838422b1ff2e97b96da736c87e155fd4c71354ef0776c88"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=782e958a7941bde0c5312b8f40373047cd6fc49ca8df30508fe4885c856abd33",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Dormeur",
+  "subtitle": "Chevalier amorphe",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "c9ec3115210a0d6350a7df1c16405f550b05b3cd",
+  "culture_invariant_id": 1133,
+  "sort_number": 1141,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Chevalier",
+    "Sept Nains"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "177/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=903f964b9c0e8f8e907a957a83b2979f74dd9c4af766c7e64c11c39183d62e5f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=62093475e97ee972bbe478e74cc2dab885f89f8fc917b051a17e7ecc90da6af4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=6f5ae3b1bb87a58f52525576f82ee5d2d855277744ca32c6f215d2f388f45699",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

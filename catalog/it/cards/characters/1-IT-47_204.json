@@ -1,0 +1,41 @@
+{
+  "name": "Scopa Magica",
+  "subtitle": "Brigata del Secchio",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Dav Augereau / Giulia Riva",
+  "deck_building_id": "bc8813175a24333e18cacec3c84b7c1084c21790",
+  "culture_invariant_id": 47,
+  "sort_number": 47,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Scopa"
+  ],
+  "flavor_text": "In quell'immensa fucina di storie che è il Grande Illuminarium c'è sempre qualcosa da fare.",
+  "rules_text": "SPAZZARE Quando giochi questo personaggio, puoi rimescolare una carta dagli scarti di un qualsiasi giocatore nel suo mazzo.",
+  "card_identifier": "47/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=781103cd9e42bc82474cfc841c9a3b20502f06c36b6575e6b89c011c5934c50d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=0b1d6764f39ca521d0c0634554799aa163cef0267ba0a2d594363c82d0b7f2aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=906e6c98c7f96d44a89272a9c2dc73374b05a07b5a26843d14d189f1c055bda3",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

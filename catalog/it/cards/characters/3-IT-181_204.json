@@ -1,0 +1,40 @@
+{
+  "name": "Topolino",
+  "subtitle": "Prode Esploratore",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Louis Jones",
+  "deck_building_id": "455e0ad8701e0c3a71632e7c7d3de965c41fe998",
+  "culture_invariant_id": 617,
+  "sort_number": 652,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Topolino sapeva benissimo da dove iniziare per trovare il Cappello dello Stregone, ma non si aspettava che fosse sorvegliato.",
+  "rules_text": "DIAMO UN'OCCHIATA Questo personaggio riceve +1 per ogni luogo che hai in gioco.",
+  "card_identifier": "181/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=2042ee6eb33525729fad6840d9af627041ebc691739bbd001947a8288214d71e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=ef951281430b11165d3506d28b26b7821693d2fa0ee15a02b0cd575759ca5a60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=94cc2ae649c7ee5ef47fe0d356e513debe625d0ebe304df747b6b67b7d5da838",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

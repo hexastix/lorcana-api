@@ -1,0 +1,44 @@
+{
+  "name": "Schlafmütz",
+  "subtitle": "Ritter der Müdigkeit",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "c9ec3115210a0d6350a7df1c16405f550b05b3cd",
+  "culture_invariant_id": 1133,
+  "sort_number": 1141,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Ritter",
+    "Sieben Zwerge"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "177/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=cd3d29022befe9c8190f1830e1802531b0e7a1176f4f9f17f11dd1c46307a602"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=15113babac8a51f90a5ba80ab96df9a4c2136ed104db6f6001c1ae15b495be67"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=6f5ae3b1bb87a58f52525576f82ee5d2d855277744ca32c6f215d2f388f45699",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

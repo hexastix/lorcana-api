@@ -1,0 +1,41 @@
+{
+  "name": "Mr. Snoops",
+  "subtitle": "Ungeschickter Geschäftsmann",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "f067b17bbb6534f8ea1100edb9c96ba84a709374",
+  "culture_invariant_id": 447,
+  "sort_number": 482,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Das ist ganz einfach, Snoops! Ich will diese Legenden! Die, die wie Diamanten glänzen!%—Madam Medusa",
+  "rules_text": "",
+  "card_identifier": "11/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=0e31f2ceeddb177b6425c2e0c933a25a646c9fd983f8e671cfe2cfd90bf18e8e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=e69093a28100db1af4d8765df8e525bb4de30f8b0f283390787e7ec45336c6a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=7580161e67dac2a6dc2dc4514c9c1ed342728ad159183090e0d9097cd478bfd6",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

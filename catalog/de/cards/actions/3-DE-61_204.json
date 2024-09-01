@@ -1,0 +1,40 @@
+{
+  "name": "Es ruft mich",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Luis Huerta",
+  "deck_building_id": "e78fcfdbd854c2d512d3769ebb8b9457a43ed90f",
+  "culture_invariant_id": 497,
+  "sort_number": 532,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn eine gegnerische Person Karten im Ablagestapel hat, muss ich mindestens eine davon zurück in ihr Deck mischen, wenn ich „Es ruft mich“ spiele?\r\nA: Nein, musst du nicht. Du kannst eine beliebige Anzahl an Karten von 0 bis 3 auswählen, um sie ins Deck zu mischen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Hab‘ so vieles schon gelernt",
+  "rules_text": "(Du kannst einen Charakter, der 1 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ziehe 1 Karte. Mische danach bis zu 3 Karten deiner Wahl aus einem gegnerischen Ablagestapel zurück in das zugehörige Deck.",
+  "card_identifier": "61/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=6f49921cbf22b3839f49718973583418dba5b5c34b74741934aacd4d8eee67a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=5ef323596353e9e979254cb1353f642549116277768a1e628ab0475e66cbd03f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=4e7deb6850d507cb9a0e0bbc602d28f80f5a37b911b0dc85f51279bc9f821b70",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

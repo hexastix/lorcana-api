@@ -1,0 +1,42 @@
+{
+  "name": "Sebastian",
+  "subtitle": "Court Composer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "1fa28a7f4b2398c8cc72ea121b01ac0cccdda582",
+  "culture_invariant_id": 19,
+  "sort_number": 19,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "I should be writing symphonies, not tagging along after some headstrong teenager.",
+  "rules_text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+  "card_identifier": "19/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=445502d43fa3ee32f044780a9311563de4cadaf4b1d6c68ddab9cefff3dabe3b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=71a27d5ae07457517ca89e7cea4a296f9acb5dd23f6cfd3206e0d9b652716b4d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=77ca24e2e45615b38eeabacaeae500b1d5b00efa463db3026f533904aa34c10f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

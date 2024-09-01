@@ -1,0 +1,33 @@
+{
+  "name": "Nucleo Rivelatore della Regina",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "fac0685879cfadc06ba4c468875041d41b0cf4ec",
+  "culture_invariant_id": 987,
+  "sort_number": 995,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SIMBOLO DI NOBILTÀ All'inizio del tuo turno, se hai in gioco un personaggio Principessa o Regina, ottieni 1 leggenda. RICERCA REGALE , 2 — Rivela la prima carta del tuo mazzo. Se è una carta personaggio Principessa o Regina, puoi aggiungerla alla tua mano. Altrimenti, mettila in cima al tuo mazzo.",
+  "card_identifier": "31/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=2a75cd4c70448a485affabca1a105247da0e9cc09263876a2f1c6190f9911734"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=9acd7ce2fcc963d268b68b699bc8badc1ac9b63a6c332d5f96eec21a3a47daef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=7e672ce3bda9430270f6d0e8632300275f2e6ef84870b62955a82a8d8a5a887a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "MAUI",
+  "subtitle": "Demi-dieu",
+  "strength": 8,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "cdecdf5b7e02dbb11db38244fc5321e8744cadf5",
+  "culture_invariant_id": 185,
+  "sort_number": 185,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu"
+  ],
+  "flavor_text": "Lorsque les dieux t'offrent un bateau, tu l'acceptes… mais tu n'es pas obligé de garder son propriétaire.",
+  "rules_text": "",
+  "card_identifier": "185/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=aafa31ce30acbef1cb08cb849c75d6b2075cb97905ff33794dc399d92badd9d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=8d333082301e88d77ff03c6488b9842caae0e26a3b389c54483be9fdb9a24fbb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=13455377ebdf9c17e9ec97619dc4c820509fd016f3cb5a708209988862d2ffc0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

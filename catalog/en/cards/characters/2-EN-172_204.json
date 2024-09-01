@@ -1,0 +1,46 @@
+{
+  "name": "Beast",
+  "subtitle": "Selfless Protector",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "830ffeb31b5a7249acb3caaea8f3ca1a89ebbf0b",
+  "culture_invariant_id": 388,
+  "sort_number": 412,
+  "additional_info": [
+    {
+      "title": "FAQ 6",
+      "body": "Q: I control a copy of Beast- Selfless Protector and a copy of The Prince- Never Gives Up. My opponent controls a copy of Flounder- Voice of Reason. In this situation if I play Teeth and Ambitions and choose The Prince as my character to deal 2 damage to, how much damage will be placed on what characters?\r\n\r\nA: 1 damage will be placed on The Beast- Selfless Protector and 2 damage will be placed on Flounder- Voice of Reason."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "You'll have to go through me first.",
+  "rules_text": "SHIELD ANOTHER Whenever one of your other characters would be dealt damage, put that many damage counters on this character instead.",
+  "card_identifier": "172/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=672e7c563783b248040f31bfaeb8e41473746e333e0e14b1bf31bb201f148bfb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=946b3dcff1c4582cad4f3205880c5ded054407e1e14a896f8cc3e680515d6e77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=c879ee276e2c6034ea8e311496ae399f9300de8f4784c6aff926df23c3e4a40a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

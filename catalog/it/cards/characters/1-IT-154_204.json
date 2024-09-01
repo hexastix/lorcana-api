@@ -1,0 +1,42 @@
+{
+  "name": "Topolino",
+  "subtitle": "Detective",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jared Nickerl",
+  "deck_building_id": "f6d5d539a411651374ae418f08e3d379fcb13ff5",
+  "culture_invariant_id": 154,
+  "sort_number": 154,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Detective"
+  ],
+  "flavor_text": "Qualunque fosse la provenienza di quell'alga, Topolino era certo di una cosa sola: la faccenda puzzava.",
+  "rules_text": "TROVARE UN INDIZIO Quando giochi questo personaggio, puoi aggiungere la prima carta del tuo mazzo al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "154/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=1cd9ffba50c442170832343cd03b27956fce7e2557a484f4f47aba8074e9e0b5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=00ad8fe4850ed75124d44793a63e7af4bce86e01772478fbb0daa105586aaa1d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=703a96fd5a65a5d6788e9796825d0af384b794462d5534f55234bd2d68b28d53",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

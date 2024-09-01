@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Außerirdischer Pirat",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "11558c64b32cb39749583bcfb6fd5638e6a0ea03",
+  "culture_invariant_id": 82,
+  "sort_number": 82,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Alien",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Lass dir von meinem Eisenwarenladen keine Angst einjagen, Jungchen.",
+  "rules_text": "STREIT ANFANGEN Wenn du diesen Charakter ausspielst und jedes Mal, wenn er erkundet, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. (Er kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "82/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=6d064751e50fd2de8023af33b08bfc297e3bbeb6a44875f3c47bf76d02b4cda5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=8e980a814b810b0919ee73e510e0bca7e8ab001dbe1f2a8fa5f5a612c16ce597"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=003a62db372e1c49c672b673f5a58d774e94f818048006a5eaef9f56e2471009",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Stitch",
+  "subtitle": "Abomination",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "605537d5b0a89487a307dd83926907cdd96aa2fc",
+  "culture_invariant_id": 125,
+  "sort_number": 125,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "His destructive programming is taking effect. He will be irresistibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe. —Jumba Jookiba",
+  "rules_text": "",
+  "card_identifier": "125/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=25952ee7df1065e5070a095a0bea8c81fa548925a8b8fd1ea8699977df4527a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=089a0252bc27bff8b7286a30ee3804d18cc034b41c97a42e214b2fe0743d4845"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=46c81eac0f71efef808093857affced40312388c5d503af03beec49a2125b617",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

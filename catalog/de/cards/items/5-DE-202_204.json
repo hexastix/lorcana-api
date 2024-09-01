@@ -1,0 +1,33 @@
+{
+  "name": "Stahl Chromikon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Dustin Panzino",
+  "deck_building_id": "d0ac5490b2e8a8b66aac820aa3ef992619b9524f",
+  "culture_invariant_id": 1158,
+  "sort_number": 1166,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ein starker Wille, stark im Kampf.%—Inschrift",
+  "rules_text": "STAHLFARBENES LICHT – Füge einem Charakter deiner Wahl 1 Schaden zu.",
+  "card_identifier": "202/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=ad44f55cde534c56415c9e8fcb06a18cbefe3854fac4c06d07c19eb62123e676"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=270039a80f186d00370cee697eec20ce6f1e6da14ec7b2e59eefaa3b7d12212d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=edaa796aef811632df54f651a1e71965c29fbda3b97c89df547c8f404632150d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

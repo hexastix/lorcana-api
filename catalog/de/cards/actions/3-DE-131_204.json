@@ -1,0 +1,33 @@
+{
+  "name": "Seefahrt",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alex Shin",
+  "deck_building_id": "af9346263084f8db2def377ca5195d0e6c557948",
+  "culture_invariant_id": 567,
+  "sort_number": 602,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wir waren Seefahrer! Wieso jetzt nicht mehr?%—Vaiana",
+  "rules_text": "Wähle bis zu 2 deiner Charaktere und bewege sie kostenlos zu dem selben Ort.",
+  "card_identifier": "131/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=aa6a956c586b772bb01d0af5d5b39e47103c58b29ae8c7d643a9b299babb0e12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=28250e3ea36183ec75e26c6cc427b2fc6c6e12a8099207281a5d004f4e94edde"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=ac7364436b5c73cf2eb55121d1430cb0d26dcec01ef56d069e20267eb04ed966",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Furia da Ululatore Notturno",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Antoine Couttolenc",
+  "deck_building_id": "d25d7ef8b4fe1c826e2faa544124363358944a73",
+  "culture_invariant_id": 1051,
+  "sort_number": 1059,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Qualcuno ha preso di mira i predatori e li fa diventare selvaggi!%—Judy Hopps",
+  "rules_text": "Pesca una carta. Un personaggio a tua scelta ottiene Attaccabrighe durante il suo prossimo turno. (Non può andare all’avventura e deve sfidare, se possibile.)",
+  "card_identifier": "95/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=766c3be8f29b4449c7cc1aeead5758a783c6957b22443fe57513d82fb3043c24"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=a28b3a708d3016234af90e32cd297ad1133b66dcd44556ee2265e73905b5f8a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1614d0aed39cc415f469d99a9f0ebd3d89bf31911497952e6df48b1643bb130f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

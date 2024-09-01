@@ -1,0 +1,43 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Dirigent",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "db76b4423fa5a9cc7723c556824d7eeed5c20bf0",
+  "culture_invariant_id": 706,
+  "sort_number": 716,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) DIE MUSIK AUFDREHEN Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Unterstützen.",
+  "card_identifier": "15/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=e4006e8906d83013a81e8d438d1126122a094f30c5ac5fff7795d915f10776a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=941ec51723c1a258a1d1dae74685b1233e3052df6595ca8b98ac3f35ffdfa08a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=f7f8ebe001a75bd1c0066362ce0d19f83a3a0c9265de787f932ddc1754396f29",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

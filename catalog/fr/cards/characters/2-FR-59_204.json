@@ -1,0 +1,42 @@
+{
+  "name": "Winnie l'Ourson",
+  "subtitle": "Magicien mellifique",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "John Loren",
+  "deck_building_id": "b51da8f10ad67cc06d96eae8738907353ddd8a0e",
+  "culture_invariant_id": 275,
+  "sort_number": 299,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Mage"
+  ],
+  "flavor_text": "Il a toujours senti un lien fort avec le miel: tous deux jaunes, doux et… souvent collés ensemble.",
+  "rules_text": "",
+  "card_identifier": "59/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=398beaeb287f9f5d40e59b2fb73e75a03d9d830c54c50cf01bf1a9fb7c5a72fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=c7bf379fdaadf0c049c7964f23462baddc3825d887c67427fdbec4a828869a6d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=950340a3cd92d5c42b4951bc00480a44ce5655acbfa28a2e555b14aa035c5c57",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

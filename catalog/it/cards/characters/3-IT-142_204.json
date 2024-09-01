@@ -1,0 +1,40 @@
+{
+  "name": "Nonna Tala",
+  "subtitle": "Custode delle Antiche Storie",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Cécile Carre / Anna Stosik",
+  "deck_building_id": "bc6fd7ac911a2a70ed405fd12118d2c4d90ec0df",
+  "culture_invariant_id": 578,
+  "sort_number": 613,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore"
+  ],
+  "flavor_text": "Ascolta con tutto il tuo cuore, e gli antenati ti indicheranno la via.",
+  "rules_text": "C'ERA SOLO L'OCEANO Quando giochi questo personaggio, guarda le prime 2 carte del tuo mazzo. Puoi aggiungerne una alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "142/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=0214a1fa71559ae4e3ca443db06f58437b74964c13ef8242b76ce82055d9cdff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=bdf11573628c18ee5dafbe22b8a04bac444c688fa37f8a72f6b29dfba526fc45"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=0359b83c86c8b52a8f09863fa6834fa77223ea1257b0ce0ae251581bff246d88",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

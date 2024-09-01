@@ -1,0 +1,43 @@
+{
+  "name": "La Reine",
+  "subtitle": "Autorité naturelle",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Matthew Robert Davies / LadyShalirin",
+  "deck_building_id": "13cfc5ee51d21b9da1620a64f0c80751cd3ffc82",
+  "culture_invariant_id": 242,
+  "sort_number": 266,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages La Reine.) QUI EST LA PLUS BELLE? Lorsque ce personnage est envoyé à l'aventure, choisissez un personnage qui gagne +4 et un personnage adverse qui subit -4 , pour le reste de ce tour.",
+  "card_identifier": "26/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=2bda4c2d3aef74974e35c6702d20dd4a6369b5f80eefeea9c652782bfcae2e48"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=584df77811281acc4bc8512c8fbfe0a7e06461fb2fb05511cd1fe089ded3de6b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=cff2695e471e9946087f0e239177ca1fca5b2c9e41f8f4cd5c6e0d039e2bc23a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

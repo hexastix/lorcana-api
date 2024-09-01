@@ -1,0 +1,33 @@
+{
+  "name": "Mach es noch mal!",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Ellie Horie",
+  "deck_building_id": "1fa692d71466897743f12f7dbceee65c69c5d6a5",
+  "culture_invariant_id": 94,
+  "sort_number": 94,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Dann schrubbst du die Terrasse, fegst die Halle und die Treppen, säuberst die Kamine und selbstverständlich beginnst du gleich darauf mit dem Ausbessern und Bügeln der Wäsche. – Gräfin Tremaine",
+  "rules_text": "Nimm 1 Aktionskarte aus deinem Ablagestapel zurück auf deine Hand.",
+  "card_identifier": "94/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=5eede8e636005cb88722bef3ba5a9cf17d875dc356b32754015671933dff229e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ec9a51f8cefd7bbe730e4ec564510d526e7aa56800a124f7881c8792645ad6a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=bf52f90bbf201789ef4cf58a1cdb751e3f3a89d784bd651f4bd570c63ebfe8d5",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

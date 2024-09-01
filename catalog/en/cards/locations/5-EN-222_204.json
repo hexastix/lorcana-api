@@ -1,0 +1,38 @@
+{
+  "name": "Bad-Anon",
+  "subtitle": "Villain Support Center",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "cc71c1618903c39c8004b62c6773737e15c61cef",
+  "culture_invariant_id": 1178,
+  "sort_number": 1186,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "THERE'S NO ONE I'D RATHER BE THAN ME Villain characters gain \", 3 — Play a character with the same name as this character for free\" while here.",
+  "card_identifier": "222/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=7fe2be7c8d2a0f064f27e82f7f66e5031a2bb1c41409bc49d43c8021bb8c2a6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=d8b76d3da3fe56de0f113e17a503a53658726570c8305bda766563838b78f562"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=94381b5cf068f95b75c9270b65fddd8bac8bd4844e5a9014b4f05b16c85c9cd5",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

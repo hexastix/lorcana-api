@@ -1,0 +1,44 @@
+{
+  "name": "Regina",
+  "subtitle": "A Capo del Consiglio",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lava Hijzelaar / Ellie Horie",
+  "deck_building_id": "711db291586153124e70c559ba0991a638fc6d4f",
+  "culture_invariant_id": 1104,
+  "sort_number": 1112,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) ADUNATRICE DI CATTIVI Quando giochi questo personaggio, guarda le prime 3 carte del tuo mazzo. Puoi rivelare un qualsiasi numero di carte personaggio chiamate Regina e aggiungerle alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "148/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=8108b38d7e3f67f9d9f6e5ba7e8463cd840f717ffc28a30ecb84d6d4c061aa89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=d1d3f1bc3e6ef6f30e4b6c35ced5d7dc5869a6301531bb0c81614c62abd45c6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

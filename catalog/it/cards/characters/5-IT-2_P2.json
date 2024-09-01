@@ -1,0 +1,44 @@
+{
+  "name": "Kristoff",
+  "subtitle": "Custode delle Renne",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e249ebb7a0862363fa2c8ea6e2d6b7a453b278a5",
+  "culture_invariant_id": 1181,
+  "sort_number": 1189,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "CANZONE DEL BRANCO Per ogni carta canzone nei tuoi scarti, paga 1 in meno per giocare questo personaggio. Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "2/P2 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=acd6373f2b587dbb09c1e40db7d6e1c2d84a6d0b217890259f02dbe846690c2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5cd5e2cd7549ee938978e10d1543f0b4575c097d3e3eba5bd9ba576480a43f9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/2/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=f6244edc2798f152c52e72f32ba7718a1e381aa9046da75542e1c2aa80a1a7d2",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

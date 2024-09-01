@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Abominable créature",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "605537d5b0a89487a307dd83926907cdd96aa2fc",
+  "culture_invariant_id": 679,
+  "sort_number": 231,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Vous allez voir l'expérience 626 passer à l'action. Il sera attiré vers les grandes villes où il bouchera les égouts, inversera les panneaux de signalisation et volera toutes les chaussures gauches. — Jumba Jookiba",
+  "rules_text": "",
+  "card_identifier": "21/P1 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=8ce4d9fadffd612c6b035ce436673f6ca3ce7499abc2869c6c4d83a5e1cd5814"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=c22ede6cd9bf3f515c553440e8af3bb74540d1e18203dcec457a9edc5f0c8d05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=4344a6d9aaa67f2adc275fdc4e9d1796930a2f2fa717bd1e71bed3e55b7c2909",
+  "special_rarity_id": 1,
+  "foil_type": "Satin",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

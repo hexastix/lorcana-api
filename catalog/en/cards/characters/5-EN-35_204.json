@@ -1,0 +1,44 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Formidable Queen",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Malia Ewart",
+  "deck_building_id": "04a79bb0eca187a8b814a8086f523827a8495e69",
+  "culture_invariant_id": 991,
+  "sort_number": 999,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Maleficent.) LISTEN WELL, ALL OF YOU When you play this character, for each of your characters named Maleficent in play, return a chosen opposing character, item, or location with cost 3 or less to their player's hand.",
+  "card_identifier": "35/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=f4c52e1d3730375a355b9ea86805e88565de24db13922e4769732e9151c6e8ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=9c6c39e81b71f13e65b8009a927e5a267166cce3461d95f1bc6210419c16b47c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c6887e51a7abae3e20fc826f9c69e82c6d134baba27146dd867ec04dd5c9aaf3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

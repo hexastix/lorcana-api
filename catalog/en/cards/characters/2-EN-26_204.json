@@ -1,0 +1,48 @@
+{
+  "name": "The Queen",
+  "subtitle": "Commanding Presence",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Matthew Robert Davies / LadyShalirin",
+  "deck_building_id": "13cfc5ee51d21b9da1620a64f0c80751cd3ffc82",
+  "culture_invariant_id": 242,
+  "sort_number": 266,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: I have a The Queen- Commanding Presence and a Flounder- Voice of Reason in play. My opponent has a Mickey Mouse- True Friend and a Maleficent- Sorceress. In this situation if I quest with my The Queen- Commanding Presence and use her Who is the Fairest? Ability, what characters can I choose for each part of her effect?\r\n\r\nA: When using the Who is the Fairest? Ability of The Queen- Commanding Presence you must choose an opponent’s character to receive -4 strength. This means that you can only choose either Mickey Mouse or Maleficent to receive -4 strength in this example. When using the second part of the Who is the Fairest? Ability you may choose any character to receive +4 strength. In this example you may choose Mickey Mouse, Maleficent, The Queen or Flounder to receive +4 strength. Note that you must choose a character for each part of the ability so you are not able to decrease the strength of a character and not increase the strength of a character.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named The Queen.) WHO IS THE FAIREST? Whenever this character quests, chosen opposing character gets -4 this turn and chosen character gets +4 this turn.",
+  "card_identifier": "26/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=bec7c7eb83f1e855968616ee6ebfa2d45b13adb2c9bf9311f5571fcc853deb27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=2087a67c621bc2d9bd7b93ec0eb1db9881ab642aa4ce2ff9e4b96ddec8d8b458"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=4c493ebf2d5128daea1bdb1a51dadc7280c02876e04513fcaa843b5cd7080e88",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

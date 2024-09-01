@@ -1,0 +1,44 @@
+{
+  "name": "The Queen",
+  "subtitle": "Cruelest of All",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "6522f49b10eefa0162d9f38ed91efba1027e5efc",
+  "culture_invariant_id": 1095,
+  "sort_number": 1103,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "She'd seen what the ink could do for other glimmers. What could it do for her?",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "139/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=f3fd68a373e62e963d2b5ea4e856fb432178a41b39582490545de1b538cc10c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=4314f1507245d65ccef8356a2eec7e114cd7864f8bbcaf90ac8155168e09effc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=16d3c017d5d5559319b772940e23ea10695214dcd00d11f80b01818b4cdd75ed",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

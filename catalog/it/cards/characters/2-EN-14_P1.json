@@ -1,0 +1,44 @@
+{
+  "name": "Cinderella",
+  "subtitle": "Knight in Training",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "1e54202930de5a3bff06a70d10c2b29821631820",
+  "culture_invariant_id": 672,
+  "sort_number": 457,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Knight"
+  ],
+  "flavor_text": "She's always had the heart of a champion—now she'll have the skills, too.",
+  "rules_text": "HAVE COURAGE When you play this character, you may draw a card, then choose and discard a card.",
+  "card_identifier": "14/P1 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=13e17c1db1ea75af6d899b94ec162d70a11e74f757623732743fe9a9dc4e3fc2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=85dd95f77df02ac1ae142f07759c85f8d7a1ee32405243bc7f5b4750a71d69b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=562797f5cf06a46c1d5100459dba798217a5af86722e982980680f3c831802c6",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

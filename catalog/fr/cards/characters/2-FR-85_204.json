@@ -1,0 +1,40 @@
+{
+  "name": "Lucifer",
+  "subtitle": "Chat sournois",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "ee4d4809396b53e10d975f147e56450ed93eaaff",
+  "culture_invariant_id": 301,
+  "sort_number": 325,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Il ne peut pas être que méchant et hypocrite.%– Cendrillon.",
+  "rules_text": "CHASSEUR DE SOURIS Lorsque vous jouez ce personnage, chaque adversaire choisit et défausse soit 2 cartes soit 1 carte Action.",
+  "card_identifier": "85/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=ffd310a0c9f3c09b9633b06c2e37a2b7b17de66d6ff36bf27c80665d3b1cfe6d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=a71add8fda7cc95985abeb468fbb767c8e0b5edab9223bed2199095894da8c7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=bf5af277bc199c546e0d55fb43a6859e3ea681058af18dc66d6efa1d1a01aafd",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

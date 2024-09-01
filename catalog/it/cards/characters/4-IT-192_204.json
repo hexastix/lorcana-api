@@ -1,0 +1,40 @@
+{
+  "name": "Rajah",
+  "subtitle": "Protettore Reale",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Sandara Tang",
+  "deck_building_id": "36be3bec8183584cb53505ad713a85eb409bbbf4",
+  "culture_invariant_id": 883,
+  "sort_number": 893,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Regale, come il titolo che gli dà il nome, e altrettanto potente.",
+  "rules_text": "SGUARDO FERMO Mentre non hai carte in mano, questo personaggio non può essere sfidato da personaggi con costo 4 o inferiore.",
+  "card_identifier": "192/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=c44a6c34483a9dfc653387f946cd67b73804b3d161693f54d1231cb5c141b822"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=da5933f236af86f83d1d0455f5384227740357eb4ea4672630ff6fea505c5b12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=ef5167748cd7fd613042d09a9fa021a1af51ba08d2b7c813b2d36980e902040d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

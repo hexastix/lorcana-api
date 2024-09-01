@@ -1,0 +1,42 @@
+{
+  "name": "Cobra Bubbles",
+  "subtitle": "Simple éducateur",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jake Parker",
+  "deck_building_id": "2c1112f2434eab13dc7e7061e2ab001050dae14f",
+  "culture_invariant_id": 220,
+  "sort_number": 244,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Donc si je comprends bien, votre grimoire magique a été emporté par une inondation d'encre magique?",
+  "rules_text": "",
+  "card_identifier": "4/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=5e5741839b0f679655ebe172e57113ae426b8b092887dd2f3ef8b9ee21a61c84"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=353e07647369534904b2431bac93b75c4826887161d8efeeeee18b7837949c42"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=faa191b2c687826196711670a1dbec5e5fba7bbba4527f8e1c03bcd243c749f5",
+  "card_sets": [
+    2,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

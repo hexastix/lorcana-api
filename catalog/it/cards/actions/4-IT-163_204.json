@@ -1,0 +1,33 @@
+{
+  "name": "Racimolare",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "758b111d188a6788401552ca32e2c72ad9d31998",
+  "culture_invariant_id": 854,
+  "sort_number": 864,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Potrebbe proprio essere la cosa che mi serve per far funzionare la mia invenzione.",
+  "rules_text": "Esilia un oggetto a tua scelta. Il suo giocatore ottiene 2 leggenda.",
+  "card_identifier": "163/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=e9e241a08fab6db047bc853fa8f9537a313e1a17cd97e224550e298467da3b15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=2e397132efaf578787c358499284626f5108d20a7bc3ceedcd4b507db2adf62c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=1bc759ed55e542544d01ef7ef2dbd5039e79beeff194a7b31d82117a0ae3fc84",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

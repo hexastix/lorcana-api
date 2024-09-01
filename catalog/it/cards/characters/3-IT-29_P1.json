@@ -1,0 +1,45 @@
+{
+  "name": "John Silver",
+  "subtitle": "Avido Cacciatore di Tesori",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Kumatori Gaku",
+  "deck_building_id": "47e5c25af32615987611612bbee8871f3cb76552",
+  "culture_invariant_id": 687,
+  "sort_number": 698,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Non sono mai stato bravo a giocare. E ho sempre odiato perdere.",
+  "rules_text": "TRACCIARE LA TUA ROTTA Per ogni luogo che hai in gioco, questo personaggio ottiene Resistere +1 e riceve +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "29/P1 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=331794faf07099d2318f602500c124d369a54b43b5c9d3395c98992d8bfab09d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=e7c8a7832bc88a553d6648bd6b2c8d466bd45059dcf3d40a9b5e15b3586a4d72"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=1ab26354069d63b42f9e6ad4d50e4ed8b475b5ab92e4a4db847a4a5f4f73bd0e",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

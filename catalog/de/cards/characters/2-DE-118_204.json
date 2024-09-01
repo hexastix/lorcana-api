@@ -1,0 +1,41 @@
+{
+  "name": "Namaari",
+  "subtitle": "Erzfeindin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "ed2e0874b3a30681355b3da8236a6e1c0c6fe587",
+  "culture_invariant_id": 334,
+  "sort_number": 358,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Um dich zu besiegen, brauche ich die Schwerter nicht. Mit ihnen macht es aber mehr Spaß.",
+  "rules_text": "BRINGEN WIR‘S ZU ENDE , Verbanne diesen Charakter – Verbanne einen Charakter deiner Wahl.",
+  "card_identifier": "118/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=121c5a08f0d774812792fb659445126779be1bdd6f46622abd62b56f09637742"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=9363361c5848c73b98c4948c5519b40feddd727acdc2646e6121a121028ae2e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=2dd37b1d8b2ca3dd7bcbf728301cd5776c09aa5b8c9683b46d7596d391802b93",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

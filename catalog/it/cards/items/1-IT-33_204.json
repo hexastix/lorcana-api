@@ -1,0 +1,35 @@
+{
+  "name": "Lanterna",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Eri Welli",
+  "deck_building_id": "571543865d85c8113b9baffbbb8680a892462cbe",
+  "culture_invariant_id": 33,
+  "sort_number": 33,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In una notte speciale il cielo si riempie di lanterne, segnali di speranza e amore.",
+  "rules_text": "LUCI DI COMPLEANNO — Paga 1 in meno per giocare il tuo prossimo personaggio per questo turno.",
+  "card_identifier": "33/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=330c166a304fec6c04d34387734caa12485798f6a1da707c380a4684fefa42aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=0602cf96167fb8dfb9b5b8a21c9af2604de3afa18d23e7e1b3e7c55cc55215b2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=aa728551ae1956bae495ce923da13f52eddd3044f936947b7b67de10722f0a44",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

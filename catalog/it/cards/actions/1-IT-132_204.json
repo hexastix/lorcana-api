@@ -1,0 +1,34 @@
+{
+  "name": "Ha una Spada!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Koni",
+  "deck_building_id": "c286fc16a13143ed3d347c25f5f85877a90a8bd5",
+  "culture_invariant_id": 132,
+  "sort_number": 132,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ce l'abbiamo anche noi una spada!%—Razoul",
+  "rules_text": "Un personaggio a tua scelta riceve +2 per questo turno.",
+  "card_identifier": "132/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=175b134ba8313b8bd24f41818f36ddfb4139ae4766e4df043872684a9a730961"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=d625c8649d5b909d54bca2e21cc611413a6ca0db176a749384d82fca35527cd7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=2a0686adcd5288b168bc688327cf32b06c1c18bc03320b3d4f94ee25c61018a8",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

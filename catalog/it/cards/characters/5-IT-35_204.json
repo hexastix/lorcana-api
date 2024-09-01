@@ -1,0 +1,44 @@
+{
+  "name": "Malefica",
+  "subtitle": "Regina Temibile",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Malia Ewart",
+  "deck_building_id": "04a79bb0eca187a8b814a8086f523827a8495e69",
+  "culture_invariant_id": 991,
+  "sort_number": 999,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 6 (Puoi pagare 6 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Malefica.) ASCOLTATE TUTTI QUANTI Quando giochi questo personaggio, per ogni tuo personaggio in gioco chiamato Malefica, fai riprendere in mano al suo giocatore un personaggio, un oggetto o un luogo avversario a tua scelta con costo 3 o inferiore.",
+  "card_identifier": "35/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=a853840916f573c6ef34d53d94c63855ab62a35d0e339fd024ab195b642024ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=624205a22d6ce08ebc0ee09efbedda27f9d17f55f51fba8cbd5712286e426f96"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c6887e51a7abae3e20fc826f9c69e82c6d134baba27146dd867ec04dd5c9aaf3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

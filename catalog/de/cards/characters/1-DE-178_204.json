@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Kapitän der Galaktischen Föderation",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Luis Huerta",
+  "deck_building_id": "2b9addfb94c8f45cfa1bb249ef2d1021ddee733e",
+  "culture_invariant_id": 178,
+  "sort_number": 178,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Alien",
+    "Kapitän"
+  ],
+  "flavor_text": "Also entspann dich und genieße die Reise... und komm ja nicht auf dumme Gedanken!",
+  "rules_text": "NEHMT IHN FEST! Charaktere, die 2 oder weniger kosten, können deine Charaktere nicht herausfordern.",
+  "card_identifier": "178/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=b9e725ad651a6d680743b96c97171136c3b4d1664340f662f70c33cbe0b511a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=15c1bcf8a997036fe9d9884bff7e4a9bbed73d57b9c58ef6c0a4883640048058"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=2fa79f6527c10cc3b55f45a104ea20fc357cf086903172a2dae32c11aea2c49a",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

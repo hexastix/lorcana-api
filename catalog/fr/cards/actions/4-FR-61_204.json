@@ -1,0 +1,38 @@
+{
+  "name": "La Deuxième Étoile sur la Droite",
+  "rarity": "RARE",
+  "ink_cost": 10,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 752,
+  "sort_number": 762,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "À l'unisson"
+  ],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Brille au milieu de l'univers.",
+  "rules_text": "À l'unisson 10 (Vous pouvez n’importe quel nombre de vos personnages ou de personnages de vos coéquipiers coûtant au total 10 ou plus pour chanter cette chanson gratuitement.) Choisissez un joueur qui pioche 5 cartes.",
+  "card_identifier": "61/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=7d6720bd59fc2aefae8e4920331dafc8e5a3b5b7725e09150b27748498cf8e01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=61c1bbfa22fd0feae433ca68132bdae081763f684a25f886c08a565183885c0a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=96005e640d90adcc67ff39cbb0407d20620717a92276e31b39c854e99a1f3742",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

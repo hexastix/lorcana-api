@@ -1,0 +1,41 @@
+{
+  "name": "HADÈS",
+  "subtitle": "Conspirateur infernal",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "89f9ee7889da4ebacb49419bd4b8dae4220a5c7c",
+  "culture_invariant_id": 147,
+  "sort_number": 147,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "Il doit avoir une faiblesse puisque tout le monde a une faiblesse.",
+  "rules_text": "Y AURAIT-IL UN OS LA-DESSOUS? Lorsque vous jouez ce personnage, vous pouvez choisir un personnage adverse et le placer, face cachée, dans la réserve d'encre de son propriétaire.",
+  "card_identifier": "147/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=154b86aed486e4fd1d1b1ce77efe3e5b1bc0dd06877f9495f1a0fdddb7c9e3b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=b76d33831671621e7a8869978d839752919a88aef5e35a18785bd906732830fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=cacdcf08971a4ae648db388689b716ab216161180e8fe330d84356065d7afabb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

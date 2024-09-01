@@ -1,0 +1,33 @@
+{
+  "name": "Je ne m'amuse plus du tout",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Adam Ford",
+  "deck_building_id": "d155c19a7e92dc65f53ce5d529431fec5fb85353",
+  "culture_invariant_id": 1120,
+  "sort_number": 1128,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Plutôt pathétique, hein ?",
+  "rules_text": "Choisissez l'un de vos personnages et placez-le dans votre réserve d'encre, face cachée et épuisé.",
+  "card_identifier": "164/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=4d6ed1334ed961dcad4e7f8d2c1a34078733de046f77be5b27f03efea3d7c447"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=9bb3adba3e369cae18deafc9056be31ddcde64a378b558585248c6a34eb3672b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=919bd1ee96303768fea97da6fa8abd490fb8158e52c0d991a5a151f638c75648",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

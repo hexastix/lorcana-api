@@ -1,0 +1,37 @@
+{
+  "name": "Forêt tropicale",
+  "subtitle": "Repaire des jaguars",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Andreas Rocha",
+  "deck_building_id": "52ec9a7c34475277f634f704e9058f3740be19fe",
+  "culture_invariant_id": 1058,
+  "sort_number": 1066,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "L'HEURE DU CASSE-CROÛTE Les personnages adverses ayant au moins un dommage sur eux gagnent Combattant. (Ces personnages ne peuvent pas être envoyés à l'aventure et doivent défier à chaque tour s'ils le peuvent.)",
+  "card_identifier": "102/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=385812de6e6d9f0092d9e9efb63d06987a7d136128b1a8e68e2aa65871c4a544"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=800532eaa5a542d755f10a3b6c753ce98ecfb42073191f9114d9538281917c7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e208e3d64825168f40576be1ef52a7d4b0afcc456895630d3e29d9c73c02aeac",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

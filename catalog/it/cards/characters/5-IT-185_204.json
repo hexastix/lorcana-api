@@ -1,0 +1,43 @@
+{
+  "name": "Kronk",
+  "subtitle": "Capo della Sicurezza",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "94767179059f954952263718c06a54472353a854",
+  "culture_invariant_id": 1141,
+  "sort_number": 1149,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Kronk.) SEI IN LISTA? Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, puoi giocare un personaggio con costo 5 o inferiore gratis.",
+  "card_identifier": "185/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=b77884103bf08c314a571a500fdb832d8f3cbfeec5db969a5999b324edb8c19c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=c4ae1435e974fb6de103271ce79adf4afdfe5d74a13d33ec6db482986c1c29c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=5a8cb6ec165794ee87d51aae487f8812241d5b14262fd62fee364f58899239ea",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

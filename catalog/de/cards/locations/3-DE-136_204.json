@@ -1,0 +1,37 @@
+{
+  "name": "RLS Legacy",
+  "subtitle": "Sonnen-Galeone",
+  "willpower": 8,
+  "quest_value": 2,
+  "move_cost": 3,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "d4aef0fcfa1c528b3a1c3a7a33b1a84160fb6748",
+  "culture_invariant_id": 572,
+  "sort_number": 607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DAS IST UNSER SCHIFF Charaktere an diesem Ort erhalten Wendig. (Nur Charaktere mit Wendig können diese Charaktere herausfordern.) LANGSAM ABLASSEN Wenn du mindestens einen Charakter an diesem Ort hast, zahlst du 2 weniger, um Charaktere an diesen Ort zu bewegen.",
+  "card_identifier": "136/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=70b3e80321e9cd8907b04a731069d979b3f82d030eed413f33b01e51907fb3dd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=c636f091a7dc30e05ebc3d98aec23713e9a08391fdb52f13c7f9da2748c56fef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=7a3320919748138d9d13491db8c9d60fb44f9929b669516bc16b5e055cbd046c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

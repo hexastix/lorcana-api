@@ -1,0 +1,41 @@
+{
+  "name": "Fa Li",
+  "subtitle": "Mulans Mutter",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sarah Schmidt",
+  "deck_building_id": "87d69cfa8aa0f85fd83e4afe751103cb242c7dbe",
+  "culture_invariant_id": 834,
+  "sort_number": 844,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentorin"
+  ],
+  "flavor_text": "Weit weg von zu Hause denkt Mulan oft an ihre besänftigende Ausstrahlung.",
+  "rules_text": "",
+  "card_identifier": "143/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=e6a85ea1ea5189522304f47ab1e9c599cfa0b861014c56391300d2e7bf444ca4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=7f26ffd76ded9c3e2db4e19904cf17822247dcd4e38bcbcdea2d8354c5650d48"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=c74b4031a0e34a555c45a7263d00dc35e0aa7a0a0c2b66ed38a98e142e7c45d9",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

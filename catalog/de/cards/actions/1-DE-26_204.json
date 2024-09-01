@@ -1,0 +1,33 @@
+{
+  "name": "Halten Sie ihr Temperament im Zaum!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "55f9630150960925f548c841768e0cd6ac3aa1ef",
+  "culture_invariant_id": 26,
+  "sort_number": 26,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Gib einem Charakter deiner Wahl in diesem Zug -2.",
+  "card_identifier": "26/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=80becc66b894b59e646660672b442676cb1a929383c1f2caddedc66595cd82ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=04f4a70fe4cd7c4f9196076703a9f43b5f54003cab6c1596210deac49bebb3d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=192ddf2551b3f5613e58801005513a70761bcabed1738294e0b39e214527fc24",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

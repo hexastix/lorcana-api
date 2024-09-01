@@ -1,0 +1,40 @@
+{
+  "name": "Jaq",
+  "subtitle": "Kletter-Liebhaber",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Maddie Shilt",
+  "deck_building_id": "f0675a175f212c4b0fba027fb9728620ab990e7c",
+  "culture_invariant_id": 768,
+  "sort_number": 778,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Teamwork ist der Schlüssel zum Käse.",
+  "rules_text": "PFIFFIGE IDEE Wenn du diesen Charakter ausspielst, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. (Der Charakter kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "77/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=26748e025e732649304047733095ab93638c2dc80bc5fc9f0b40fd2893e41b1a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=b11596ee169a1dc50b048e350dffdb3ee5bdb04ac6e47a179f9c30f648973ccc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=73d26cb0615506cef588a03dec154af2a069b64e24437291dd7cd7975b609fa7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

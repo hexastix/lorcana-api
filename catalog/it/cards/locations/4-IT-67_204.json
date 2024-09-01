@@ -1,0 +1,37 @@
+{
+  "name": "Casa Madrigal",
+  "subtitle": "Casita",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rachel Elese",
+  "deck_building_id": "86c8f197eff8c61973ac292a62a4be6cd966c168",
+  "culture_invariant_id": 758,
+  "sort_number": 768,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "CASA NOSTRA All'inizio del tuo turno, se hai un personaggio in questo luogo, ottieni 1 leggenda.",
+  "card_identifier": "67/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=6f41e48d9186b62966064d95346e113897e3c92f7ac740daebc277ee6ebdb2a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=42eb7c5c74634264e7910c4526f5d17d67a713056f17cad4067abb2a1467075f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ba77fc50df5f8415a3448fd4ca7d4fd3bda3b77e2fad2058d46226336f1ae055",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

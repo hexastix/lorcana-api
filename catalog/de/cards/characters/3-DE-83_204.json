@@ -1,0 +1,46 @@
+{
+  "name": "Prinz John",
+  "subtitle": "Königsclown",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "4fe5203a587a4cc07595526f729193ba91b0f403",
+  "culture_invariant_id": 519,
+  "sort_number": 554,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich habe 10 Legenden und eine gegnerische Person hat 12. Wenn ich meinen Prinz John - Königsclown erkunden lasse, kann ich seine „Steuern eintreiben“-Fähigkeit benutzen, um die andere Person 2 Legenden verlieren zu lassen?\r\nA: Nein, kannst du nicht. Prinz Johns „Steuern eintreiben“-Fähigkeit aktiviert sich erst nachdem er erkundet. Das bedeutet, damit ein Gegner beim Einsatz der Fähigkeit Legenden verliert, muss er mehr Legenden haben als du, nachdem du 2 Legenden mit der Erkundung von Prinz John gesammelt hast.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Prinz"
+  ],
+  "flavor_text": "Er wird niemals John der Erste sein, man kennt ihn nur als John Gänseklein! %—Sheriff von Nottingham",
+  "rules_text": "STEUERN EINTREIBEN Jedes Mal, wenn dieser Charakter erkundet, verlieren alle gegnerischen Mitspielenden, die mehr Legenden als du haben, je 2 Legenden.",
+  "card_identifier": "83/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=3b9fa9f5431bdac890692bd2ec5c06025b57d4650834369d11db85bc0f42c740"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=482bf0a574895e6d0b02e7f8c65938bba2ce2e3d7262d24bdf2e48e1e400c289"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=4eca62cf5f48cab60e18c500cd42d0e953185030f9388f9064d3bd9a02aab449",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Klarabella",
+  "subtitle": "Mit leichten Hufen",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Natalie Dombois",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1167,
+  "sort_number": 1175,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Klarabella-Charaktere auszuspielen.) IM TAKT BLEIBEN Am Ende deines Zuges, wenn eine gegnerische Person deiner Wahl mehr Karten auf der Hand hat als du, darfst du so viele Karten ziehen, bis ihr die selbe Anzahl an Handkarten habt.",
+  "card_identifier": "211/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=21dfc07526f1eb9b3d49bbef5cc205ea3f69e6d56d71a7862a6494d76a87960d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=ebe48cc1196e50465918545df2467addf98a17ff3f6029e20ff445a044e29f07"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=3236b8049528280da0c7eb8492877a1b824c7e68fa68eef051147a9d7a8aa726",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

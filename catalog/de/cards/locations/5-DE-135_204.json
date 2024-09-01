@@ -1,0 +1,37 @@
+{
+  "name": "Sugar Rush Rennstrecke",
+  "subtitle": "Startlinie",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 0,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cristian Romero",
+  "deck_building_id": "3d26c3f06233e002b80a865b2044fc6742045f95",
+  "culture_invariant_id": 1091,
+  "sort_number": 1099,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "AUF DIE PLÄTZE! Einmal pro Zug, darfst du einen Charakter deiner Wahl an diesem Ort und ihm 1 Schaden zufügen, um ihn kostenlos zu einem anderen Ort zu bewegen.",
+  "card_identifier": "135/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=7adfb9a58ff90eb2d38c41889c8ce3f8db4b507111c99e50dc799072175c4f3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=04eaa1395bd86f7ad095b973349ec616dce4a58faf2daa8b8c7432ed9316f2da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=ac380cdd36fdfd1e6cbb9f513046a595a5c3292d2821310a3d3fcc0970683d0a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

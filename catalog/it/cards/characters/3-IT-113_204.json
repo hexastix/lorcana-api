@@ -1,0 +1,43 @@
+{
+  "name": "Maui",
+  "subtitle": "Semidio Alato",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "5dbaface98eade9dac7b113a051ff1632bc17fc4",
+  "culture_invariant_id": 549,
+  "sort_number": 584,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Attaccabrighe"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Divinità"
+  ],
+  "flavor_text": "Hai ancora qualche pollo in giro?",
+  "rules_text": "Attaccabrighe (Questo personaggio non può andare all'avventura e deve sfidare ogni turno, se possibile.) NEL MIO STOMACO Ogni volta che un tuo personaggio chiamato Heihei va all'avventura, questo personaggio ottiene +1 e perde Attaccabrighe per questo turno.",
+  "card_identifier": "113/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=b05c42b96293f3caedc27454c8b32f588ee79b430bd6b8730a5f324f1c349548"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=81da3b04529b8f782f705bdf08a68d72b59e7cf691b8b63cdcfb66bdf3eb88df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6ab29418751cb96955ee5e86fce4209ddf9cdd7397866bb54a87bce2688cd315",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

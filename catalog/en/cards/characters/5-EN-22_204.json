@@ -1,0 +1,40 @@
+{
+  "name": "Maid Marian",
+  "subtitle": "Lady of the Lists",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jenna Gray",
+  "deck_building_id": "57571ecd3d370c1f1730569862a57fdd14f9c28d",
+  "culture_invariant_id": 978,
+  "sort_number": 986,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Princess"
+  ],
+  "flavor_text": "And who might you be, my knight and champion?",
+  "rules_text": "IF IT PLEASES THE LADY When you play this character, chosen opposing character gets -5 until the start of your next turn.",
+  "card_identifier": "22/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=5376705ab24256b289c66a6168c7a656a06717deb74409c8efdc7686cc8bea82"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=7c403984a62e6453f3a746eb800cc7f54a9d0023fd4a2427e39beac140b30a0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=215b8512f998a8aba87b9b8fae9b57d7ee59aeda89ab1540ca98ef1339a332ef",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

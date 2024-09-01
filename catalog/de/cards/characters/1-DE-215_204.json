@@ -1,0 +1,44 @@
+{
+  "name": "Simba",
+  "subtitle": "Zurückgekehrter König",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "54d1da804f89e6da94d1e9a335acf6a5baa79ff5",
+  "culture_invariant_id": 215,
+  "sort_number": 215,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Herausfordern +4 (Während dieser Charakter herausfordert, erhält er +4.) KATZENSPRUNG In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "215/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=81f01205a8312601a369227b3450b72b019fc2d249bf3672edfca3f7f39b38c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=3e3e0ae0a7f459a39605a785a296de8030310929219e796754099360a9219ca6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=d3aa872489af17d197fe96a41905d3b89fc792cb29cc230838cfd672b018ef33",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

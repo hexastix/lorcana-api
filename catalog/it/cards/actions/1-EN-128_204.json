@@ -1,0 +1,35 @@
+{
+  "name": "Be Prepared",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jared Nickerl",
+  "deck_building_id": "4579dd841c902f1f7a336b3776c97a974e5f3369",
+  "culture_invariant_id": 128,
+  "sort_number": 128,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Our teeth and ambitions are bared!",
+  "rules_text": "(A character with cost 7 or more can to sing this song for free.) Banish all characters.",
+  "card_identifier": "128/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=08e94aaf0f95aa4620bb5de340f335cac744efc726846adcc96cb7c86573473d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=da91fd07b4533765b2fcceefc22cd230ce0cd58c712da4640d0dbec8f7e065f5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=eaf6f4a6eb99b62090d7cc46b90f8d0e045083e4872916e536851df6dff242f0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

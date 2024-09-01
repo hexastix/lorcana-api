@@ -1,0 +1,45 @@
+{
+  "name": "Prince Naveen",
+  "subtitle": "Ukulele Player",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "7019f88f23a40f374d0cc8e7cbb8cb18fd60de3a",
+  "culture_invariant_id": 959,
+  "sort_number": 967,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singer 6 (This character counts as cost 6 to sing songs.) IT'S BEAUTIFUL, NO? When you play this character, you may play a song with cost 6 or less for free.",
+  "card_identifier": "3/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=2cb16b545b7401c97fbc3240ccc5a646b11b1407f6a35225b0c5cc8407ebdc4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=750b85164a99f0462f9e16caf0de4372fcb232bf0924ed7fefde55df9bb11439"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c95767c3baf0888161fb7da0fcfc925e2a28b15bda08420a252f96bd9564b87f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=caba409d64866f37efcec3892c611766fef554f41117a356efd27b8e1e05c44c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

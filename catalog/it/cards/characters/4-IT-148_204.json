@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Terrore del Reame",
+  "strength": 8,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "19fffa0a79ea55259419e9daece159506bd8bccb",
+  "culture_invariant_id": 839,
+  "sort_number": 849,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Ci sono cose strane ai margini della mappa: streghe del mare, glimmers aggrovigliati e quant'altro. Io rimarrò con la mia nave, tante grazie.",
+  "rules_text": "",
+  "card_identifier": "148/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=d063a02c24242f27d7a27cc83eecfb69efb058cb3b1738a6bfff4698c6a93743"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=d2d1ef81e8ba54251ae0f3119769cb9d427d3a96fa6ed7dc3c5bfa543b59e8be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=ebf34a0f1c129930f7a5da9717a6b34154711e50ea3a36e9c0c9ca26e815f95e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

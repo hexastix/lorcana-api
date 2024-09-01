@@ -1,0 +1,40 @@
+{
+  "name": "Heihei",
+  "subtitle": "Presenza Persistente",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "a6b5ad0750d9770259ba18ba82b625783ad4c125",
+  "culture_invariant_id": 259,
+  "sort_number": 283,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Potere. Bellezza. Heihei.",
+  "rules_text": "È TORNATO! Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta.",
+  "card_identifier": "43/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=0e3f539a59898133cf7992194efebcaec8f03d747b1d82517cb99ce14999a719"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=95529ff094d811af83adafc38ca106f4b326530eeae204d2c3afa7f441ea67ad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=376c54eadfaca33c0ac530184911692ac39816193b06517fe1810544da62f760",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

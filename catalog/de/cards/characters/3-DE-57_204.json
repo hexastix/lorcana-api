@@ -1,0 +1,42 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Hasserfüllte Rivalin",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Anna Rud / Livio Cacciatore",
+  "deck_building_id": "7c70fa409442c808c2767e850bea7a836b11829c",
+  "culture_invariant_id": 493,
+  "sort_number": 528,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "Ein Spinnennetz hält ihre Seelen%Adleraugen um sie zu sehen%Sand der Zeit, Vergangenheit zu stehlen%Und niemand wird dem Zauber widerstehen!",
+  "rules_text": "",
+  "card_identifier": "57/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=3f819d6bda4b6d32a0519ffa1489fff7292627a2501d7cb0fc87d6e4ba17340d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=baea09630761a95b9ca6e0f3e0fb8f44711d027d39ec727f581072f1cb0cd2b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ec94fccee92c15af619410f725ddc145f8e2d96ad08a54dbd53bc425262ae3ce",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

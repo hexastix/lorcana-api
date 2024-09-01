@@ -1,0 +1,41 @@
+{
+  "name": "AURORE",
+  "subtitle": "Rose",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Rosalia Radosti",
+  "deck_building_id": "703d2d0c9e63fb69fed427dac99aa1f1f589898f",
+  "culture_invariant_id": 138,
+  "sort_number": 138,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Je trouve qu'il y avait quelque chose de troublant dans cette voix. De trop merveilleux pour être vrai. — Prince Philippe",
+  "rules_text": "BEAUTÉ DÉCONCERTANTE Lorsque vous jouez ce personnage, choisissez un personnage qui subit -2 pour le reste de ce tour.",
+  "card_identifier": "138/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=49da7daac4d64ddd9f0e6027b968f84ed6520f82b76f93d19fca3a2d008a3656"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=f01c0b4efcc330f902440aa65294fe139c3146d471571444aa4efebefede3450"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=44a8d403e006786a0c62d3e4e3a572a4114af7f1696378fd93a42bd3f70b8e31",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

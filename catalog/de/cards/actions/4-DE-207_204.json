@@ -1,0 +1,38 @@
+{
+  "name": "Diese Familie",
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Marine Josephine",
+  "deck_building_id": "4d9b353aa7f368d78fa825e4fdce71da6b544363",
+  "culture_invariant_id": 898,
+  "sort_number": 908,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 7 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 7 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Schaue dir die obersten 5 Karten deines Decks an. Du darfst bis zu 2 Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "207/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=18b6c23d8f91194e07ba61ec0bc8a2c231198f8a2b9c8e79ee52a1c16acd2577"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=701da53e5579922479c2547d73e36d4f4045b5da3b67da64574dd8df9ee35e71"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e185a17846b62967d03b168d2ae9a2d801b0d32841f4bac9427711f7ac384d76",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

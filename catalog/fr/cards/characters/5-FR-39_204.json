@@ -1,0 +1,42 @@
+{
+  "name": "Archimède",
+  "subtitle": "Hibou exaspéré",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kendall Hale",
+  "deck_building_id": "8c1eb6e2d2c4b6d20d3428c9522a8bb003976cda",
+  "culture_invariant_id": 995,
+  "sort_number": 1003,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Hum... Qu'est-ce qu'un hibou doit faire pour obtenir un peu de paix et de tranquillité par ici ?",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "39/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=6b26f328c2da7d658a391ec6ae688a52f7e73b0536791ab81bccfbac4476e571"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=69d0aec1e66c9f7be88eb22026762a573f80b4df23123b578e83ab6e3ef254cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=f2efb2e4ed654b860107829cdaab1cc7b579d4f19562ed28b35508d3b26dd9c9",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

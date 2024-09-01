@@ -1,0 +1,40 @@
+{
+  "name": "Kit",
+  "subtitle": "Dur à cuire",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba6592b2078506e7c5389f3ec79be99fb7ce9be",
+  "culture_invariant_id": 513,
+  "sort_number": 548,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "On s'est bien amusé, mais excusez-moi les gars, j'dois m'en aller. Yahaa!",
+  "rules_text": "SURFEUR DES AIRS Lorsque vous jouez ce personnage, vous pouvez choisir un personnage adverse ayant 2 ou moins et le renvoyer dans la main de son propriétaire.",
+  "card_identifier": "77/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=d3b45c1b65b28ab651f9deb9020feb99f325fbacdde3db36b7e5b6d01b9bd9cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=303b41d0ec76c4cd4ce55e7591d9f1174ca5c49365c09e3dceee73d7a8e68f5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=821398b40615bdc056719170253d5fb04a47f1352a9bfe235d06a87d64e9af9e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

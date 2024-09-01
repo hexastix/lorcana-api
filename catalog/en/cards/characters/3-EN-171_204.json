@@ -1,0 +1,41 @@
+{
+  "name": "Chief Tui",
+  "subtitle": "Proud of Motunui",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Eri Welli",
+  "deck_building_id": "364538d9bd3ed90dfb4b14fdecd29b8bde39ce03",
+  "culture_invariant_id": 607,
+  "sort_number": 642,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "Look at our home! There is no better place to be.",
+  "rules_text": "",
+  "card_identifier": "171/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=3b8da4e36607b31d9416ce9d53d8a6f9519395acd0c49f50c6a070db87d923cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=750d5422faf635fa0a26cf7535b10c02bb0c458d2a6f056ef473ec90930b78b6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d59a0bc637866f5e22c6fbddf25c12b491c5e83518ce4d3a9710c6c425bd3bfa",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

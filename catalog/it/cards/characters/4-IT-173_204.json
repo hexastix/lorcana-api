@@ -1,0 +1,40 @@
+{
+  "name": "Arges",
+  "subtitle": "Il Ciclope",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alice Pisoni",
+  "deck_building_id": "286c468b7f39166d810fec8138c83852f03763aa",
+  "culture_invariant_id": 864,
+  "sort_number": 874,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Titano"
+  ],
+  "flavor_text": "Ehi, amico, mi sembri un po' troppo emotivo. Calpestiamoli un po' questi sentimenti!%—Ade",
+  "rules_text": "",
+  "card_identifier": "173/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=06467a1f794da88364fc7d929a12909266804a1de351827c32d2c88616ccf478"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=9559510505508e88a00748ac7ab58976e979459c475b778699004bc3224d7caa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=75aa15f5d84ecc1e08a3a4df8756897fbd60449fb5275e0ab16875a0797aabb2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

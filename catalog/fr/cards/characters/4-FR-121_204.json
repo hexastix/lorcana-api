@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Protectrice acharnée",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "26cc86f21b2d1246e0ad32b654c821192af603c0",
+  "culture_invariant_id": 812,
+  "sort_number": 822,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Tu vas te battre contre une armée?%—Sisu",
+  "rules_text": "NE ME CONTRARIEZ PAS Chaque fois que ce personnage en défie un autre, gagnez 1 éclat de Lore pour chaque autre personnage que vous avez en jeu ayant au moins un jeton Dommage.",
+  "card_identifier": "121/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=e6f2846a0d6d8d178de2a691b4fadc496068613ee2d285f9517dd2a00ab1c7b8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=db538864c62c39dc12197bf5f1b366fd91dd915497765a31565576592f12ace4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=9cbab179bcc7f7507ce87ca8586c8b332f8094da8470eeb0dedf2f5c591c106e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

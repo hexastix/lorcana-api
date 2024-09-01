@@ -1,0 +1,43 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Heroic Outlaw",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Massimiliano Narciso",
+  "deck_building_id": "cfc67a48052e7fe6021c909c8e07562aba8240e6",
+  "culture_invariant_id": 211,
+  "sort_number": 211,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Aladdin.) DARING EXPLOIT During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.",
+  "card_identifier": "211/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=8a894959c0c12fef7b7d06cb6850ef66c59baae6c4dd15e02c1f8c63b60c6213"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=93c176c9ccc377ff6ef01c8f764f31395ec4647faa1801de3fef4f24f6f864c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=6ef55a928de5db5dd52a5e305a4c5c33b5f6f41ea8497217ca798eb129323878",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

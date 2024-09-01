@@ -1,0 +1,40 @@
+{
+  "name": "DONALD",
+  "subtitle": "Volatile colérique",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "5880e4814c3c2fb5e6a2d48ca24bf6960f564337",
+  "culture_invariant_id": 108,
+  "sort_number": 108,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Qui est-ce que tu traites de colérique, mon gars?",
+  "rules_text": "",
+  "card_identifier": "108/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=f9818cd07e9b810a7a828417807c6cb044baf84a28a27e93c12239de800b2889"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=685eeeb4636e307a60806a854d2a8bd09706630b6dbb0a0ab18103d21c4e5d86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=d40fb3ee101b5577a6f957299ec6d8054354149b1985b862dcff2c5719236968",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Maître Hibou",
+  "subtitle": "Conférencier à la logique implacable",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Agnes Christianson",
+  "deck_building_id": "dfe6a38e469b63500f416689faee62ce3f319149",
+  "culture_invariant_id": 372,
+  "sort_number": 396,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Par exemple, en se basant sur la luminosité actuelle et le subtil changement de direction du vent, je peux affirmer sans aucun doute qu'il est l'heure du thé.",
+  "rules_text": "",
+  "card_identifier": "156/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=8e0b801d0596e7898e2d243ffe8ceceae284505dc618f8dae096421783be6196"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=e307b8fde80e81cb0546ccbb4df30f6a2fc1a786a151d057e78a41654cdf7378"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=1cd2c94f4f083f47e82dee4ff54358cbe8446efc9f2e1d868e20d8a3eb299930",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Megara",
+  "subtitle": "Captivating Cynic",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Yu Nguyễn",
+  "deck_building_id": "8e31efeb3393cdf6117bf0de38f47c93204d5f89",
+  "culture_invariant_id": 770,
+  "sort_number": 780,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "With love, there’s always a catch.",
+  "rules_text": "SHADY DEAL When you play this character, choose and discard a card or banish this character.",
+  "card_identifier": "79/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=412b0628b4d09d106c5e12bc09bc15768c509c19830d6a5fdd39105e8a9e3618"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=fb50cd7b6dd1350da85ba95d8e4d7c4906d00fb5b0f162b059fbacdd4573a3ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=bf40ea663b73c166dc65fa8c1dd9c9f8343efabb60e50fa870db55dd45af501b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

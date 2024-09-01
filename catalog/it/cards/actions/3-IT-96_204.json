@@ -1,0 +1,35 @@
+{
+  "name": "Un Uomo Purché Sia",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Maxine Vee",
+  "deck_building_id": "e41d63dec20f63664cf1d0fa42b721e0f7d72447",
+  "culture_invariant_id": 532,
+  "sort_number": 567,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Lustro e onore sempre%Lustro ti daremo noi",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per giocare questa canzone gratis.) Pesca 2 carte, poi scegli e scarta 1 carta.",
+  "card_identifier": "96/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=49fdb746ef5711b7d37b5f09bb58dd65b6028254fb1ac0bb72105c6534550771"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=aa780648e3a40003c13f55a75f7be3758e692e6880ad18bfcd29acc093bc4c7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=5dc80a78e688aca775c3470d481ff812aa28b99f5d3ebbf6270e3c42bdb37674",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

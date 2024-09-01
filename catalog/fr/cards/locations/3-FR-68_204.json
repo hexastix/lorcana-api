@@ -1,0 +1,37 @@
+{
+  "name": "La Tour du Sorcier",
+  "subtitle": "Atelier merveilleux",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "d54dd1bcc51723c954c04a6587a405b569bcc0c9",
+  "culture_invariant_id": 504,
+  "sort_number": 539,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tout ce dont vous avez besoin pour faire de la bonne magie.",
+  "rules_text": "PLACARD À BALAIS Vous pouvez déplacer gratuitement vos personnages Balais Magiques sur ce lieu. POUVOIR MAGIQUE Les personnages sur ce lieu gagnent +1.",
+  "card_identifier": "68/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=3d90886b2330278fc4f04c93a271eb2578ca3643fd745e2ae1af68d31f1a94dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=f319647c43b78f37cb21fa652fac1dd2ca544b4b77694a3aa1a31c8f7aff004d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=e5c8a1e984ca022fa72d9f29bc153714e61e7933e68484130a4b23b7b83ae9fc",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

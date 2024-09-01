@@ -1,0 +1,44 @@
+{
+  "name": "Pimpi",
+  "subtitle": "Capitano del Pirata Pooh",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "122c433c05a0334dea67706084da9d47eef28c95",
+  "culture_invariant_id": 945,
+  "sort_number": 694,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Arr! C'è della leggenda qua fuori, e io la t-troverò!",
+  "rules_text": "E IO SONO IL CAPITANO! Mentre hai altri 2 o più personaggi in gioco, questo personaggio riceve +2.",
+  "card_identifier": "223/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=07db0ac1e211cccbbac7db7f33fd25dc76f9dd9f122c36aaede77280eac0d171"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=e0689da168fc5b9f5ddf62301d8eb352e073ad358229ba06952f6de8af4701cd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=1502b0ea9cbc6d5818a0801f10dbc51fc702b715c7aef8e5db2f99ec93e2b705",
+  "foil_type": "Silver",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

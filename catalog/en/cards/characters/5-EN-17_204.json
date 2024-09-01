@@ -1,0 +1,40 @@
+{
+  "name": "Fix-It Felix, Jr.",
+  "subtitle": "Delighted Sightseer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "8554dd289e793c516ccdb856fac99c52a61d5c69",
+  "culture_invariant_id": 973,
+  "sort_number": 981,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "I don’t think I’ve ever seen anything as sweet as this.",
+  "rules_text": "OH, MY LAND! When you play this character, if you have a location in play, draw a card.",
+  "card_identifier": "17/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=a4cb45b184649576b71243adb75ac1c3c3007a1b229c08c5b5924aa4211a5047"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=82ee32960b6327417607bd74c89788d616e0e807f35bfbb91e8c8c19bace4e75"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=b9cb99e32bf4c33fedb0e4fa2b6852b8506a6fc5fca1469bbc2d50144a110dcd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

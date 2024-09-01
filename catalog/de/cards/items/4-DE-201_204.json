@@ -1,0 +1,33 @@
+{
+  "name": "Kaiserlicher Bogen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Yari Lute",
+  "deck_building_id": "cded588bc643a1accb5d62c5fb7c6a8644f34ebf",
+  "culture_invariant_id": 892,
+  "sort_number": 902,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "IN REICHWEITE , 1 – Ein Held oder eine Heldin deiner Wahl erhält in diesem Zug Herausfordern +2 und Wendig. (Während der Charakter herausfordert, erhält er +2. Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "201/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=afa2a5441c146e202572eb1f35cdff29222bfd01088d98d52417cd263d74fe42"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=833a16c33c282396c678681e81be86ae9f0a71a7824798e33b1306dea65d404f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bd3246a91bade142dcf95f0db5a53b89da42fe77a8e8785d308941463bc0d67e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

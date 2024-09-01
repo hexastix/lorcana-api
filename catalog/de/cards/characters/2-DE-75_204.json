@@ -1,0 +1,42 @@
+{
+  "name": "Grinsekatze",
+  "subtitle": "Aus den Schatten",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Jeff Murchie",
+  "deck_building_id": "91da2e177e44b0cdfd1e446b5b8aabb79e2ebafb",
+  "culture_invariant_id": 291,
+  "sort_number": 315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Grinsekatze-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) FIESES GRINSEN – Verbanne einen beschädigten Charakter deiner Wahl.",
+  "card_identifier": "75/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=e29b4c89653355dc8a3fb1ab9d209726e075449ad80bd9a0046014780d20e8c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=ad959a7e40369d0fe8353b31f4353ac44ef5795530db9cae768a0f4543d0aea7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=2a8790b7ab55a935684f173fa1f911b5758c813a2cebf88ff60dccfd3e1462e2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

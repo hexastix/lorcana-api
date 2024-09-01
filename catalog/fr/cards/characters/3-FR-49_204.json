@@ -1,0 +1,48 @@
+{
+  "name": "Miss Tick",
+  "subtitle": "Toucher de Midas",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Lauren Levering",
+  "deck_building_id": "ef7cabaf8dc312d2e7dedf796b1297f7e1cbabaf",
+  "culture_invariant_id": 485,
+  "sort_number": 520,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si j’ai un Sou fétiche et une Glace à l’eau en jeu lorsque je pars à l’aventure avec Miss Tick – Toucher de Midas, combien d’éclats de Lore vais-je collecter ?\r\nR : Vous pouvez en collecter 1 ou 7. Lorsque vous partez à l’aventure avec Miss Tick – Toucher de Midas, vous pouvez choisir n’importe lequel de vos objets en jeu pour gagner autant d’éclats de Lore que le coût de cet objet. À noter que Miss Tick n’a pas de valeur de Lore, aussi, lorsqu’elle part à l’aventure, vous ne pouvez gagner des éclats de Lore que grâce à sa capacité.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Plus je me rapproche du sou fétiche de Picsou, plus je sens mon pouvoir prendre de l'ampleur!",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Miss Tick.) TOUT EST À MOI Chaque fois que ce personnage est envoyé à l'aventure, gagnez un nombre d'éclats de Lore égal au coût d'un de vos objets en jeu.",
+  "card_identifier": "49/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=04e8d7307f1d548434ca22e812cca58ccfb259b625ab821b3ab1d3ae2cf030ea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=7e2897c152f405875b68361668e611de66f36776dc03603e4e743a7a5a05a49d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=0736aa7b7b3782eccb044232d6d857cd7c89ece22a25e89d73ea1db3d801d146",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

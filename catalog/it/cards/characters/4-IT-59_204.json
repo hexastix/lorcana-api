@@ -1,0 +1,41 @@
+{
+  "name": "Yen Sid",
+  "subtitle": "Potente Stregone",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "1aa8732475a085d134487bd92f161c07bcdcbb3e",
+  "culture_invariant_id": 750,
+  "sort_number": 760,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "AIUTO TEMPESTIVO Quando giochi questo personaggio, se hai in gioco un personaggio chiamato Scopa Magica, puoi pescare una carta. STUDIO ARCANO Mentre hai in gioco 2 o più personaggi Scopa, questo personaggio riceve +2.",
+  "card_identifier": "59/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=c3bdded55bd86c21f08ac6cbf2cf1a92a844e4d5db1f50d7fc06c2cc0e5ce1b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=248c2eb4fc423d9558686c74b68c6968552d7fbf0cefba87425d22ffea846383"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=b1c5f40f7271a28ce3f8283ea239309f81c00d9c27917104648368949ea53c6d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Anna",
+  "subtitle": "Thronfolgerin von Arendelle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "20a51339c61aabe023260759617f97e2400e3068",
+  "culture_invariant_id": 35,
+  "sort_number": 35,
+  "additional_info": [
+    {
+      "title": "FAQ - Sonstiges",
+      "body": "F: Angenommen, ich habe eine Elsa im Spiel und wähle einen bereiten Charakter für die Fähigkeit „Liebevolles Herz“ von „Anna - Thronfolgerin von Arendelle“. Wenn der gewählte Charakter später im Zug dann erschöpft wird, bleibt dieser dann zu Beginn der nächsten Runde erschöpft?\r\n\r\nA: Ja, der gewählte Charakter bleibt von Annas Effekt bis zum Ende des Zuges betroffen und muss dafür nicht vorher schon erschöpft sein.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Königin"
+  ],
+  "flavor_text": "Zwei Schwestern, ein Gedanke.",
+  "rules_text": "LIEBEVOLLES HERZ Wenn du diesen Charakter ausspielst und einen Elsa-Charakter im Spiel hast, wähle einen gegnerischen Charakter. Er wird zu Beginn seines nächsten Zugs nicht bereit gemacht.",
+  "card_identifier": "35/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=9af2ec3e7c317e6afb4e59b9e24d6427e59d1c11ad1bb0bd40ff9dafb3786d9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=0d7380b2b97634d0144676a953af688b57bc2fb8b0201b298df3c2a05b47336a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=f0bb0324ed453a5f4242c7026587e0d773208db63d18cf54048815c259205c4f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

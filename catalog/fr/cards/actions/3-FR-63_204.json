@@ -1,0 +1,35 @@
+{
+  "name": "Je complète ma collection",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "9ff06b2f3d099b1b25c66e78bb07316465d065f7",
+  "culture_invariant_id": 499,
+  "sort_number": 534,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Décide-toi! Fais ton choix!",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Regardez les 5 premières cartes de votre pioche. Remettez-en autant que vous voulez sur le dessus de votre pioche et le reste en dessous, dans l'ordre de votre choix. Gagnez 1 éclat de Lore.",
+  "card_identifier": "63/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=fdf814b0748d956e7dfdea4fe5a86eb70b664b7882447bb4e75b29316f9bf9a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=195032dea32c4f18d136711387c02d836570eb4ff80ff78808e29b541df14b77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=b2be06dd7c8e9efbbe12547a96d48ca2c9afc8427a2a51738d24baa47769e0fb",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

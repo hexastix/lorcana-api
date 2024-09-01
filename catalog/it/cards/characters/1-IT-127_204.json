@@ -1,0 +1,43 @@
+{
+  "name": "Tigro",
+  "subtitle": "Pieno di Elettricità",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "aeb12d5f9810897355e57f169ef318f584e11c64",
+  "culture_invariant_id": 127,
+  "sort_number": 127,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Tigro"
+  ],
+  "flavor_text": "Sono il più saltellante saltellatore che abbia mai saltellato!",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "127/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=5256fbe6784410fd739d749a6c5031787b7d85e6ed3b87a7ec2cbcccdab08e5e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=70ab6920f93ae6c6197581509f0eab693e4f5e90bb3f302ec6a5acd16a2e75ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=b9bd12b81abcfb6792c640d2f47aae085ada4d03eddb8c944b2f99324b7f1163",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

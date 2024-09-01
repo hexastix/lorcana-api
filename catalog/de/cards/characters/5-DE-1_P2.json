@@ -1,0 +1,43 @@
+{
+  "name": "Prinz John",
+  "subtitle": "Goldliebhaber",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "a9c072cf5b48edda82d051442b832712beead027",
+  "culture_invariant_id": 1180,
+  "sort_number": 1188,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Prinz"
+  ],
+  "flavor_text": "Er könnte dieses schurkische Spiel Tag und Nacht spielen.",
+  "rules_text": "WUNDERSCHÖNE, LIEBLICHE STEUERN — Spiele einen Gegenstand, der 5 oder weniger kostet, von deiner Hand oder aus deinem Ablagestapel kostenlos und erschöpft aus.",
+  "card_identifier": "1/P2 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=614d10ad13daf90aa3eae1e369ab4ebc4276bf8ec894e644f49e22d283d28906"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=a5792c42fc7a7d00f43c25f724d958356e268cb38eec1a2ab8d8642807bcd3cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=fec4e8f48a092be5a704b11baff1c034bd3225e4fc1989ddabd4630c4e6b2631",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

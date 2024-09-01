@@ -1,0 +1,44 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Random Roster Racer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hyuna Lee",
+  "deck_building_id": "2483833c1a9722badae219f59fbfceff004e5d39",
+  "culture_invariant_id": 1080,
+  "sort_number": 1088,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rush (This character can challenge the turn they're played.) PIXLEXIA When you play this character, she gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "124/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=be9127429ef9866753d887f3249d5543748edfb88350d73b9fa5aaa4c5794a33"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=b40051ed4119bffe5e6533c067141e72737b5422c5f09d1f34a9c266f0c67c78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=c16013b58bc24d6d1f20373017b9322eb85dd330b0ab9aba1c68aff66085f42e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

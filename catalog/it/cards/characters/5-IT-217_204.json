@@ -1,0 +1,42 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Sovrano della Rupe dei Re",
+  "strength": 4,
+  "willpower": 9,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Jochem van Gool",
+  "deck_building_id": "97ba44b060278c8f2f5f75a9a77b64ea977369c1",
+  "culture_invariant_id": 1173,
+  "sort_number": 1181,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "",
+  "rules_text": "UN DELICATO EQUILIBRIO Quando giochi questo personaggio, impegna tutte le carte nel tuo calamaio, poi riprendi in mano 2 carte a caso dal tuo calamaio. TUTTO CIÒ CHE È ILLUMINATO DAL SOLE Ogni volta che questo personaggio va all'avventura, prepara tutte le carte nel tuo calamaio.",
+  "card_identifier": "217/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=7b09c6dba008411b4b602bae8fa1a00c582a1645ab7b713641d84132304c7957"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=47e04c01de9ed8bc97e8d5f823f38a423363dbd84d8cc6e16a4b4a9d2c3943c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=08802abcc2e849d1bb6b57e6eb6c01ac5281aeb735203f4d1bb5cff4955caa40",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

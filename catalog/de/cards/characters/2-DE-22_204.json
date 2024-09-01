@@ -1,0 +1,41 @@
+{
+  "name": "Hatschi",
+  "subtitle": "Äußerst allergisch",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "bc68ee273fd86bf9eaf9575f86821dccc6a53e16",
+  "culture_invariant_id": 238,
+  "sort_number": 262,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Sieben Zwerge"
+  ],
+  "flavor_text": "Achtung! Er muss gleich niesen!",
+  "rules_text": "HATSCHI! Wenn du diesen Charakter ausspielst und jedes Mal, wenn du einen anderen der Sieben Zwerge ausspielst, darfst du einem Charakter deiner Wahl in diesem Zug -1 geben.",
+  "card_identifier": "22/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=5f13b64ae9e8a9db4eca5f0809f22b85dd138e2ab65bea5e1a4c64e410c629bc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=5b28b99181602619fff764543aeaff61c89b1b2d93fbb466b95335f0ac9175bd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=a7dd342d727f2e413b8e3ddf4feec88aa1de535865129cf1ef547abe8f02ea43",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

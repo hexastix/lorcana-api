@@ -1,0 +1,45 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Musketeer Captain",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "1f7fdffbe44a423876467063b69dc2d789758da9",
+  "culture_invariant_id": 707,
+  "sort_number": 717,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift",
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Musketeer",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Mickey Mouse.) Bodyguard, Support MUSKETEERS UNITED When you play this character, if you used Shift to play him, you may draw a card for each character with Bodyguard you have in play.",
+  "card_identifier": "16/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=524edd452c89903a93499e0a3506b0eb44c7ffe01048e74714184531037b0859"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=19c6fb9628310c23409b060d105b740ee4a9205a178d417d4e3e11d8ea80552b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=c110beffde06177aaa23fa62125424e2fe97f1d0ec1a994f927e8131b9cc1b4b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

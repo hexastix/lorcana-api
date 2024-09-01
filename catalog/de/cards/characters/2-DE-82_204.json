@@ -1,0 +1,49 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Sein eigener größter Fan",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "E. Meleranci / L. Giammichele",
+  "deck_building_id": "8812a7f3b2b166bdddc6961bfc5a2b1a783b1d51",
+  "culture_invariant_id": 298,
+  "sort_number": 322,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich eine 4-Spieler-Partie spiele und einer meiner Gegner 2 Karten, ein anderer 1 Karte und mein letzter Gegner keine Karten auf der Hand hat, wie viel Legenden wird mein „Flynn Rider - Sein eigener größter Fan“ sammeln können, wenn er erkundet?\r\n\r\nA: Flynn Rider würde beim erkunden 1 Legende Sammeln. Flynns Legendenwert wird für jede Karte in der Hand jedes Gegners reduziert,Also indem du die beiden Karten in der Hand des ersten Gegners mit der einen in der Hand des zweiten addierst, wird sein Legendenwert um insgesamt 3 reduziert und hat somit nur noch 1 übrig.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Flynn-Rider-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) EIN LETZTER, GROSSER COUP Dieser Charakter erhält -1 für jede Handkarte aller gegnerischen Mitspielenden.",
+  "card_identifier": "82/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=cd92af02c8e289e8ebbc30aeb4072e860f9c675f8a4dd4b336e754c7b8f3c5e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=50eb62c405516d70d4a2683c331e9fcbc46dd6e531d49fcd55667daa7d233d2f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=31a4599c00c6f593c3c082c2c7c5dd205662064d5fd6f3912c6bcc5fed9ff8cf",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

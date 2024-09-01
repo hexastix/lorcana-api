@@ -1,0 +1,40 @@
+{
+  "name": "Mère Gothel",
+  "subtitle": "Mauvaise et desséchée",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "172cf927696b8d203e6d1c4b97a9f06fe6a3d4f4",
+  "culture_invariant_id": 332,
+  "sort_number": 356,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Son visage est marqué par ses sentiments.",
+  "rules_text": "QU'AVEZ-VOUS FAIT?! Ce personnage entre en jeu avec 3 jetons Dommage.",
+  "card_identifier": "116/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=f88596686e64898f51175087ce920510c8e9fcee8d5dde65f060529012fb9271"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=4a3c27cf1aa8ed25b72019ffec675cd64f0b26d8c2b5b4c030445aa391a9c8e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=224766974a082a53e056556bc903a7bbf6b14e02caf73146d48a335878d93b72",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Moana",
+  "subtitle": "Chosen by the Ocean",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Tanisha Cherislin",
+  "deck_building_id": "045c9d82ec1f6de1fc7e93d21807204b5adf2985",
+  "culture_invariant_id": 117,
+  "sort_number": 117,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "You know who you are.",
+  "rules_text": "THIS IS NOT WHO YOU ARE When you play this character, you may banish chosen character named Te Kā.",
+  "card_identifier": "117/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=697456b630e7a8ae73b7b3827c0712d293dda17834a5c668c6b0f885905caf4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=286f84622e9a9a2a6d3c0615b78010c5db8d8e2f91e68f37afe6cd66d5d2b8f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=62a5a3a2dc1ded7c0619c7e62b96c3a8b2fe83836fa2f73b5b8953b55b99cb51",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

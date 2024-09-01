@@ -1,0 +1,42 @@
+{
+  "name": "Yen Sid",
+  "subtitle": "Powerful Sorcerer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Alan Batson",
+  "deck_building_id": "1aa8732475a085d134487bd92f161c07bcdcbb3e",
+  "culture_invariant_id": 900,
+  "sort_number": 910,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "TIMELY INTERVENTION When you play this character, if you have a character named Magic Broom in play, you may draw a card. ARCANE STUDY While you have 2 or more Broom characters in play, this character gets +2.",
+  "card_identifier": "209/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=1177d9153c3f54060db59421bc50880f310ff394b422b6c7a302265d471631de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=9e5ce69a99045c3156c14911a6475b7776cb9be7f3caff1eb9a66551404da829"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=996c4224c0a54d433b350e2ad0ba39b20e4beb7b22cb28bf240373241445b95f",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

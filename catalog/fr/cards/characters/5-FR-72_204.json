@@ -1,0 +1,42 @@
+{
+  "name": "Zazu",
+  "subtitle": "Conseiller de Mufasa",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "1c49ac7ff34fcbbbd4e8e2c2cc50bc858e2cb391",
+  "culture_invariant_id": 1028,
+  "sort_number": 1036,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Oh, un petit tour au milieu des lumières ne peut pas faire de mal.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "72/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=ee1716919c2b4407cae02d7048ecfb487db8e4d90db595e7b24a8b3532047e01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=aa18091a13852dce0381653a2d8ab0eae939d0bd040ceb771d3c611368ad59d7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=2160540a624b56ae64612a746bf1e42d149f4bfe29bab787a04ff0b7b3a69499",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

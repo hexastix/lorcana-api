@@ -1,0 +1,41 @@
+{
+  "name": "Ursula",
+  "subtitle": "Embobineuse",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "2f0ee159014b24c95f95963bdfa4b8ec79329fac",
+  "culture_invariant_id": 526,
+  "sort_number": 561,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Flotsam! Jetsam! Gardez vos yeux ouverts pour trouver des éclats de Lore. Trouvez-moi quelque chose de spécial!",
+  "rules_text": "UNE CHOSE DONT TU PEUX TE PASSER Lorsque vous jouez ce personnage, choisissez un adversaire qui doit révéler sa main et doit défausser une carte chanson de votre choix.",
+  "card_identifier": "90/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=d4b98641521a6b2abe5f20f59348b756261411fac9e706ba1112cba69b863673"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=80b2586511993436809a56e8460ded4ae1af1846e706b3485eaa44fca85ef270"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=163b077bf3836228fc3457c6b36df7a3465345d10ac68ec1713ece45ae6b7a28",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

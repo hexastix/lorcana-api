@@ -1,0 +1,36 @@
+{
+  "name": "LIBÉRÉE, DÉLIVRÉE",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Milica Celikovic",
+  "deck_building_id": "18e97479b9ad75213b822b879809efe8c8c21ee9",
+  "culture_invariant_id": 163,
+  "sort_number": 163,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Je veux voir ce que je peux faire de cette magie pleine de mystères.",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage et placez-le dans la réserve d'encre de son propriétaire, face cachée et épuisée.",
+  "card_identifier": "163/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=17e96431547173e657574620183f6ed48e33fbe056c46f28c8412a1f8c8eae78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=53d367c30a21ea8f49ed6b645b81b092551d8027d24e6fc458f6c26204e294d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=8a1bb0d055db3d1138c3c4e485bff6860e9681afc362c42555771da6f0483074",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

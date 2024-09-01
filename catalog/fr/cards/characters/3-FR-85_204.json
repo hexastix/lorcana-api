@@ -1,0 +1,41 @@
+{
+  "name": "Shenzi",
+  "subtitle": "Cheffe de meute des hyènes",
+  "strength": 0,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "5fb748398e1696271b4a787f6c9bb1200b4a5b1e",
+  "culture_invariant_id": 521,
+  "sort_number": 556,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Hyène"
+  ],
+  "flavor_text": "Nous serions ravies de vous avoir à dîner.",
+  "rules_text": "LAISSE, J'M'EN OCCUPE Tant que ce personnage se trouve sur un lieu, il gagne +3. RIEN NE PRESSE Si ce personnage se trouve sur un lieu et défie un autre personnage, vous pouvez piocher une carte.",
+  "card_identifier": "85/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=816499171c6d7c74627210e56d79419d8ee1e8b459e2d1c4c239e8707cf9f4cd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=635cf584a16c833893d8c5684a4e0dcb3508ae34f694295885a9ad7a9aaf08f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=715b6cc71db7dffd95cb5107dcd8ab6a8cb8a6008107f40d68feedd26982f710",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

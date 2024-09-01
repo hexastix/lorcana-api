@@ -1,0 +1,47 @@
+{
+  "name": "Nonna Tala",
+  "subtitle": "Spirito dell'Oceano",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jennifer Park / Ellie Horie",
+  "deck_building_id": "fbf243419cbfdb464f79114d25217e7266819b65",
+  "culture_invariant_id": 579,
+  "sort_number": 614,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Il mio avversario gioca Let It Go e sceglie la mia Nonna Tala- Spirito dell’Oceano per aggiungerla al mio calamaio. Ottengo leggenda dalla sua abilità Può Rivelarti Solo il Tuo Cuore Chi Tu Sia?\r\nA: No. Il trigger dell’abilità Può Rivelarti Solo il Tuo Cuore Chi Tu Sia di Nonna Tala- Spirito dell’Oceano avviene solo se lei è in gioco quando una carta viene aggiunta al tuo calamaio. \r\nQuando si aggiunge un personaggio che è in gioco al calamaio tramite l’effetto di Let It Go, il personaggio prima lascia il gioco e poi viene messo nel calamaio; quindi, Nonna Tala non è in gioco quando la carta viene spostata nel calamaio e la sua abilità non può avere effetto. Nota che questo non cambia se la Nonna Tala è entrata in gioco con Trasformazione e c’è una carta sotto di lei.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Mentore"
+  ],
+  "flavor_text": "Lei sarà sempre con te, non importa quanto lontano ti porterà il tuo viaggio.",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Nonna Tala.) PUÒ RIVELARTI SOLO IL TUO CUORE CHI TU SIA Ogni volta che una carta vene aggiunta al tuo calamaio, ottieni 1 leggenda.",
+  "card_identifier": "143/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=ba8e4a3024118b099f418ea4c3140c8fdd9d337edda05ae05fe56b6dec5a653c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=a238d585f7b7a93a0f56f4ccc3cd5c16ffb01c74999dfc137d45544b6190045a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=e42b9c142a3c67603ec1eb7340d97dd8994085c456359b94976328f7d4a829be",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

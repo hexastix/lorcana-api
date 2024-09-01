@@ -1,0 +1,33 @@
+{
+  "name": "Grimoire du sorcier",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Julie Vu",
+  "deck_building_id": "dc6543d1125aab8c86e10f0d622bc9608042ca5c",
+  "culture_invariant_id": 284,
+  "sort_number": 308,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Les Illumineuses et Illumineurs qui recherchent le pouvoir de la connaissance doivent être conscients du prix à payer.",
+  "rules_text": "CONNAISSANCE , 1 – Gagnez 1 éclat de Lore.",
+  "card_identifier": "68/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=2fb19ef83192ad376c7415cd57b97fc190a362ddcecdec9756d4a4ff3511baf4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=2ca388d9978ef0e967a96592df4fa3f3e4993a0e4feac651e85447b7374dcce9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=edb29f386a5cbb0815a21f41fc7911a6a1e087ca5bb8b12a6a03d775b05a7342",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Hades",
+  "subtitle": "König des Olymps",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Alex Accorsi",
+  "deck_building_id": "b49576fe526d49f6abcdf5af9e3eb03f64505194",
+  "culture_invariant_id": 5,
+  "sort_number": 5,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "König",
+    "Gottheit"
+  ],
+  "flavor_text": "Oh hey, ich brauche neue Visitenkarten.",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Hades-Charaktere auszuspielen.) FINSTERE VERSCHWÖRUNG Dieser Charakter erhält +1 für jede weitere Schurkin und jeden weiteren Schurken, die du im Spiel hast.",
+  "card_identifier": "5/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=211a73bffc1a44371175865e0ff940746e3a11ec50bf19a83c11ac325064524a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=37dfd6aadeebfdb12fd89dc044f2c6e4fd50ee394551f5550d0426d2f4e9b4c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=bff07aae2e0025b367f689299e209e8513979ad58912f35b2fce176ad928eed9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Shere Khan",
+  "subtitle": "Prédateur menaçant",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "d699b7284880df41462554acf1e1f68689fab0bd",
+  "culture_invariant_id": 428,
+  "sort_number": 452,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "N'INSULTE PAS MON INTELLIGENCE Chaque fois que l'un de vos personnages en défie un autre, gagnez 1 éclat de Lore.",
+  "card_identifier": "212/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=53dfa9ffb75803f334786c6dd408bad34d432acaf5ac759f0213395d60655fb8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=d1f0b4af7e281694c6f7e456f29e157db78c49ab00f1039fbce6fdbcd6ce8f47"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=1da049867a4f0ca07ffedf11f5fed0770f7d4831da0da80451ae1040c1fbe388",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

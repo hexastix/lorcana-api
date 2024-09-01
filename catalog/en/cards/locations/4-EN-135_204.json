@@ -1,0 +1,37 @@
+{
+  "name": "Snuggly Duckling",
+  "subtitle": "Disreputable Pub",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "d8442ef512485e4740ec831c0beeb50cf8069b5c",
+  "culture_invariant_id": 826,
+  "sort_number": 836,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ROUTINE RUCKUS Whenever a character with 3 or more challenges another character while here, gain 1 lore. If the challenging character has 6 or more, gain 3 lore instead.",
+  "card_identifier": "135/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=a16439675a1567c36ef03b70eb799bdde05521fc8f9887aab1ffbac16f898f48"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=19a4e8cb51ec5f4ac7a8f3c5a94551e5b93c674611eb6f75dca6ac880a73ef60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=30cbed654a81bcec67b1df5e2d7f0976de09c83e905cfd7baa7d316968c7be2f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

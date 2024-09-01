@@ -1,0 +1,36 @@
+{
+  "name": "Riflesso",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kevin Hong",
+  "deck_building_id": "50c0788f5b4c0f5b30affccb1bff25e00b788c33",
+  "culture_invariant_id": 65,
+  "sort_number": 65,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "E il riflesso che vedrò%Mi assomiglierà?",
+  "rules_text": "(Un personaggio con costo 1 o superiore può per cantare questa canzone gratis.) Guarda le prime 3 carte del tuo mazzo. Rimettile in cima al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "65/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=72e1c4b2cf384963ceaf3cc8dfe7553dde1c8567224f65f424a8eb7dc0a981d0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=349b19939feec2c78c62833d12da559091b973572dd681f86fa2d6bb332719ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=9d9d842f0bd6c296f8396be49749fd999293b24ef94651458e99b737eecad977",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

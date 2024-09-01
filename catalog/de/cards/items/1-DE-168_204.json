@@ -1,0 +1,38 @@
+{
+  "name": "Fischgrätenfeder",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Tanisha Cherislin",
+  "deck_building_id": "71199ad50613a681494b9d5ea29643eddfd5a045",
+  "culture_invariant_id": 168,
+  "sort_number": 168,
+  "additional_info": [
+    {
+      "title": "FAQ - Tintenvorrat",
+      "body": "F: Wenn ich die Fähigkeit der Fischgrätenfeder nutze, um eine Karte aus meiner Hand in meinen Tintenvorrat zu legen, muss ich dann die gewählte Karte vorzeigen?\r\n\r\nA: Nein. Wenn eine Fähigkeit dich eine beliebige Karte in deinen Tintenvorrat legen lässt (unabhängig davon, ob sie ein Tintenvorrat-Symbol hat oder nicht), dann muss man diese Karte auch nicht vorzeigen. \r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mein Sonderangebot ist nur kurze Zeit zu haben. — Ursula",
+  "rules_text": "UNTERSCHREIB DIE ROLLE, LOS! — Lege 1 beliebige Karte aus deiner Hand verdeckt in deinen Tintenvorrat.",
+  "card_identifier": "168/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=a39674e9dfd45748c908793ae00a7517f68afc0f0cff38870020ba139736d2dd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=b53475c53732b254840dc0f848c4c35e6a3b9fc909a09b758e83df4d89ccdc7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=a7283502245d29fb0014e613987bd7e196b63e97c93a03eb45ac1ce3093d1cb7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Kleine Noi",
+  "subtitle": "Verwaiste Diebin",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kristina Chouri",
+  "deck_building_id": "61bb59a811e9dbf0e06cdf338286eebc8a42ccc6",
+  "culture_invariant_id": 371,
+  "sort_number": 395,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "",
+  "rules_text": "VERSTECKEN SPIELEN Solange du mindestens einen Gegenstand im Spiel hast, erhält dieser Charakter Robust +1 und Behütet. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1. Gegnerische Karten können ihn nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "155/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=fe5c0be39068cb6570bee6b6a0be15311f655de84e0d73e3694fda70a1e29e90"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=054f395d38cc60cdb2af6556443274e74229a6787dcebd5b59159ed724440c65"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=13a4561843f3adb032867826fdcd4e720dbde138255f3e80a01bc1880b9ae322",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Lost Prince",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b66d745358da7ec9b30e05117dd8f73ea6ae5746",
+  "culture_invariant_id": 1129,
+  "sort_number": 1137,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "This is my kingdom. If I don’t fight for it, who will?",
+  "rules_text": "FACE THE PAST During your turn, whenever this character banishes another character in a challenge, you may draw a card.",
+  "card_identifier": "173/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=03a4138bbb11b15102745c34668899d448be110fc55844484a99d2fc14e0144a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=07f9ba2551be2e3a56e5220d04748948f65c77ccb985545a92dee21a04c52267"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2aaa821ed3a5e16c35c2ff0b7d1beb214a1878f99423dcc047a7062a40f5087e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

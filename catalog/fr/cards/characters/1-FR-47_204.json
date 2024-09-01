@@ -1,0 +1,41 @@
+{
+  "name": "BALAIS MAGIQUES",
+  "subtitle": "Armés de seaux",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Dav Augereau / Giulia Riva",
+  "deck_building_id": "bc8813175a24333e18cacec3c84b7c1084c21790",
+  "culture_invariant_id": 47,
+  "sort_number": 47,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Balai"
+  ],
+  "flavor_text": "Dans l'immense fabrique à histoires, connue sous le nom de Grand Illuminarium, le travail ne manque pas.",
+  "rules_text": "BALAYER Lorsque vous jouez ce personnage, vous pouvez remélanger une carte de la défausse de n'importe quel joueur dans sa pioche.",
+  "card_identifier": "47/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b38f9951acf35d17f3770e82d172a93b6981d7ec74c2a2ab4c1b0e1f0c2b2ad0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=4d3cbf2ef96259b9526bcedb082e78bf58614a0678daa2092a33d0f2fd55b5f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=d8d7b4805d08ed8a2fbbadb65ea164d9b907d141e5f00951bb365eb616ab6c7a",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

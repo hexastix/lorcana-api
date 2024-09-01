@@ -1,0 +1,42 @@
+{
+  "name": "Mama Odie",
+  "subtitle": "Stimme der Weisheit",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "73a02488dd4a721f27d76641765f67896fd2a61b",
+  "culture_invariant_id": 488,
+  "sort_number": 523,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündete",
+    "Magierin"
+  ],
+  "flavor_text": "Das hatte noch gefehlt, Juju!",
+  "rules_text": "JETZT HÖRT MAL GUT EURER MAMA ZU Jedes Mal, wenn dieser Charakter erkundet, darfst du bis zu 2 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "52/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=e6fa18d5c37b48c5bc6c6862fdd2560eaa809dfdf67dc14909613c7f4cd0d39b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=cb5e70e6769243790228d325be974c90707186338036253e1a1e4def535cc064"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=061d63b47a7a47cbf6eb09aaf4e051e20f5b7b947745a20bc24cf5bcca23378b",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

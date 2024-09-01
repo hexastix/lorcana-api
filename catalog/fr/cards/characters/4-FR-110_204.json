@@ -1,0 +1,42 @@
+{
+  "name": "Khan",
+  "subtitle": "Destrier adoré",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Nicholas Kole",
+  "deck_building_id": "6b9d427c13f4bf6e25d74e6d6073361045e3d3af",
+  "culture_invariant_id": 801,
+  "sort_number": 811,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Silencieux comme une ombre et plus rapide que le vent: le brave Khan, le plus puissant des étalons.",
+  "rules_text": "",
+  "card_identifier": "110/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=c22fbfe67996d48a8e9bf0f8cbcff0f4689a29800ff0c179d55131914fa7252c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=7e5683f73bc9d9d95bb344530143428eef395c66d115d6861239875a1e20cd4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=e8bf4ce7cf6d9e244f1281bd1a90a358a596a7e7e7e2a07872fd0ecfb4834983",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

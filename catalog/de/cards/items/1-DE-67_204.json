@@ -1,0 +1,35 @@
+{
+  "name": "Ursulas Kessel",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "a757b4be52f0de48fe6589a497c72522ca4489c8",
+  "culture_invariant_id": 67,
+  "sort_number": 67,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Perfekt, um Tränke zu brauen und Stimmen zu stehlen.",
+  "rules_text": "BLICKE IN DIE TIEFE — Schaue dir die obersten 2 Karten deines Decks an. Lege 1 davon auf dein Deck und die andere unter dein Deck.",
+  "card_identifier": "67/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a0bae0ec0d7426c8a7ff8c0d1cf6eff68232f140806e13d7c659750edf005c09"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a89b9ef024777d7073f8b1299bb453e71e28a4c0a7cea300f0e63acef228e2a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=14e4106490f35a5ee237e5ff1349fdd5602a453309b1ccdc2598f7458fadd9a3",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

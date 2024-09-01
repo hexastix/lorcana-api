@@ -1,0 +1,40 @@
+{
+  "name": "Gunther",
+  "subtitle": "Innenarchitekt",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "c451b24038a7044d5cd28931bdaafb434a04c04d",
+  "culture_invariant_id": 763,
+  "sort_number": 773,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ich hasse es, diese Falltür zu verstecken. Sie macht doch den ganzen Raum erst so richtig interessant!",
+  "rules_text": "WELPE MIT KULLERAUGEN Wenn dieser Charakter herausgefordert und verbannt wird, wählen alle gegnerischen Mitspielenden je einen ihrer Charaktere und nehmen diesen zurück auf ihre Hand.",
+  "card_identifier": "72/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=ed1e4474cd456e04f8fdd654ab3b76f6678536f7bef3ad5a93aff72f74d9b3b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=5273338f880cae15b0e193662753786fdefd52dfd6ee7809035c7a7a6a62922a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=612505b2ad24b4f1ec567d8d6dfd6a05834e8b17e8dfaf567dae51d717de1dca",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

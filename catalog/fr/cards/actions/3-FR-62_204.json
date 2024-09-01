@@ -1,0 +1,38 @@
+{
+  "name": "Effort désespéré",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cf37b6d51b29ef3781307521b75714776bf0549a",
+  "culture_invariant_id": 498,
+  "sort_number": 533,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Mon adversaire n’a que Big Ben – Grand-père Horloge en jeu, avec la capacité Hors d’atteinte. Puis-je quand même jouer Effort désespéré pour donner Offensif +2 à l’un de mes personnages ? Ou est-ce que les effets d’Effort désespéré ne s’appliquent pas car je ne peux pas choisir de personnage adverse à épuiser ?\r\nR : Vous pouvez jouer Effort désespéré, même dans ces conditions. Lorsque vous devez choisir un personnage adverse pour le premier effet d’Effort désespéré et qu’il n’y en a pas, cet effet s’achève tout simplement. Cependant, vous pouvez toujours réaliser le second effet d’Effort désespéré et choisir de donner Offensif +2 à l’un de vos personnages jusqu’à la fin du tour.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "J'suis là!",
+  "rules_text": "Choisissez un personnage adverse et épuisez-le. Choisissez ensuite l'un de vos personnages qui gagne Offensif +2 jusqu'à la fin du tour. (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "62/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=a35dce28392bbeea97c530df1bce07538e4aaf93a14fb2e498ea4b937bfd4c47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=616ada688d4a614663112641c2e112d3a149203790981a4dc8e15a0e020d2fb6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

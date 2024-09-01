@@ -1,0 +1,35 @@
+{
+  "name": "Four Dozen Eggs",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "d52697d4b0ff2e40219b0dd851caf0ee7dc5cf09",
+  "culture_invariant_id": 379,
+  "sort_number": 403,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 4 or more can to sing this song for free.) Your characters gain Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)",
+  "card_identifier": "163/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=7ecd59c0e76378a4a7d935e514a3c59918267a8419b04910554cd20db4535748"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=3bbe494e076824f957ea12ae68306df34d39c096463e0dbb3da67e71887285ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=595fbbe81ca1114f888f4235665f6181652300f51307e6f15121168b87fa297a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

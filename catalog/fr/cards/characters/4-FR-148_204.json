@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Terreur du Royaume",
+  "strength": 8,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "19fffa0a79ea55259419e9daece159506bd8bccb",
+  "culture_invariant_id": 839,
+  "sort_number": 849,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Alien",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Quand on s'aventure au bord des cartes, on fait des rencontres bien étranges: sorcières des mers, Glimmers envoutés, et autres. Je vais rester à bord de mon navire, merci.",
+  "rules_text": "",
+  "card_identifier": "148/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=4937cca2f98d7dc39eb344314c3b4f3b2d742bfbf419a8254dd05544431c59a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=f48857a852263bdbd72bedebb7e948816aba56583e04e156119bbef80996ec42"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=ebf34a0f1c129930f7a5da9717a6b34154711e50ea3a36e9c0c9ca26e815f95e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

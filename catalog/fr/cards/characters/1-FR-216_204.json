@@ -1,0 +1,44 @@
+{
+  "name": "LA FÉE CLOCHETTE",
+  "subtitle": "Fée géante",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Cookie",
+  "deck_building_id": "5ba0aae83bc08edf19274cb2f525d456366f647f",
+  "culture_invariant_id": 216,
+  "sort_number": 216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur un autre personnage Clochette) SECOUE LE BATEAU Lorsque vous jouez ce personnage, infligez 1 dommage à chaque personnage adverse. PETIT PIRATE! Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous pouvez choisir un personnage adverse et lui infliger 2 dommages.",
+  "card_identifier": "216/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=1d08aa6edff103ea44d2bdf50d3cd9dee2a5215e8de1e5ecbfc80da1dd6c8183"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=26a1299b7a26e269b3500e53b574bc54eec01acd01df59e32a69b53bec93fc75"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=2bbc492f9b45efbca51a9c96152198e52017651df8df52f706806c596791d4b1",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

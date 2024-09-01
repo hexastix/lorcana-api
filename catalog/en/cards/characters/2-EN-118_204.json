@@ -1,0 +1,41 @@
+{
+  "name": "Namaari",
+  "subtitle": "Nemesis",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "ed2e0874b3a30681355b3da8236a6e1c0c6fe587",
+  "culture_invariant_id": 334,
+  "sort_number": 358,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Princess"
+  ],
+  "flavor_text": "I don't need swords to beat you. They just make it more fun.",
+  "rules_text": "THIS SHOULDN'T TAKE LONG , Banish this character — Banish chosen character.",
+  "card_identifier": "118/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=102954dec04ff0cad1b165ccdfbfef3546cd7676b4072508232a22c50c42b203"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=55f63ddcd5231c2f08033c91834aa2ee399854d21599b3172142c6a70d659743"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=7a6c4eae3380df8321b723381a34dd5f9435d869d5733bd8387bdfd69a97b272",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

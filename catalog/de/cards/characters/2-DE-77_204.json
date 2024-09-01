@@ -1,0 +1,47 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Perfekter Gentleman",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ron Baird",
+  "deck_building_id": "754975b423fd73f951d33d2a0b695136a1c5e3b8",
+  "culture_invariant_id": 293,
+  "sort_number": 317,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich mich entscheide, die Fähigkeit von „Donald Duck - Perfekter Gentleman“ nicht zu nutzen, kann mein Gegner sie trotzdem verwenden, um eine Karte zu ziehen?\r\n\r\nA: Ja, das kann er. Jeder Spieler entscheidet individuell, ob er die Fähigkeit zu Beginn deines Zuges nutzen möchte, um eine Karte zu ziehen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Donald-Duck-Charaktere auszuspielen.) GESTATTEN? Jedes Mal zu Beginn deines Zuges dürfen alle Mitspielenden (auch du) je 1 Karte ziehen.",
+  "card_identifier": "77/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=549a320b028e8d3d5afe77bb6fc4598212bf03add434dfefd4ebbdc05830265b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=07de4ec9499d166dcd3a3533c13c24447ffab160167179f9a39441f99ce5fb56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=8ebfe4de5366378e8dd0612d056e256aa232d83fa3145a7bab16e5c96b94dde3",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

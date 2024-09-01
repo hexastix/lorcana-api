@@ -1,0 +1,40 @@
+{
+  "name": "Tanana",
+  "subtitle": "Saggia Donna",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alice Pisoni",
+  "deck_building_id": "abb164419a1662267b844213eb8ebf1ee2c6dce6",
+  "culture_invariant_id": 1112,
+  "sort_number": 1120,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "I TUOI FRATELLI HANNO BISOGNO DELLA TUA GUIDA Quando giochi questo personaggio, puoi rimuovere fino a 1 danno da un personaggio o da un luogo a tua scelta.",
+  "card_identifier": "156/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=7eac550d4b0dd97d33b9d52dd9746f47013130b135cea9dfe7c09c19e79f80e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=7b5d511d756b73fbbbdfa12d5a834ddacb783fe4f0018b8f6e892c315eda16c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=c18a5a7d4e1c3fef47ac2d4c66a16c13b686ab4c81f4be8b11cc444db966a6e3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

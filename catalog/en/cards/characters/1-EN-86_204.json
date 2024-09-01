@@ -1,0 +1,39 @@
+{
+  "name": "Mad Hatter",
+  "subtitle": "Gracious Host",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Rosa la Barbera",
+  "deck_building_id": "3eb9c2ef04530dc057f7085a82915ead29d51e4d",
+  "culture_invariant_id": 86,
+  "sort_number": 86,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Mad Hatter: Would you like a little more tea? Alice: I haven’t had any yet, so I can’t very well take more.",
+  "rules_text": "TEA PARTY Whenever this character is challenged, you may draw a card.",
+  "card_identifier": "86/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=234e4bbd860b310f9d0a147df54c5a9b12f1aa61fbb67aaf9f75d795fd5d59d0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=6924078558c611495335253d6489851e62319e1bbf9144cd91d33065dbf1f9a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c54e52b87dab0564f35b6829ed3eff964dd0fdb46164a8c946fa3b534e5bbbec",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

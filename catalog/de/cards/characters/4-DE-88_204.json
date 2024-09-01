@@ -1,0 +1,41 @@
+{
+  "name": "Prinz Phillip",
+  "subtitle": "Hüter des Waldes",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Mike Parker",
+  "deck_building_id": "cb670ebd52463f804846e1f401536397d24fa5ac",
+  "culture_invariant_id": 779,
+  "sort_number": 789,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Er ist jederzeit bereit, seine Freunde vor allen Gefahren zu schützen.",
+  "rules_text": "STRAHLENDES LEUCHTFEUER Deine anderen Heldinnen und Helden erhalten Behütet. (Gegnerische Karten können diese Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "88/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=0eb9ceee504434b7ef7b69c12b75aa74b369d02b72641b4320ae4dfb9c629f59"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=ca9bb382c8c295ef46df3238b44afe52a134ac55318b6323994dfb3de1dffdd5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=93c23b3e7063db0eff922712d89c067087feb8967b1e25818466531d0aeec643",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

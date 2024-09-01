@@ -1,0 +1,41 @@
+{
+  "name": "MAURICE",
+  "subtitle": "Le plus célèbre des inventeurs",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Alex Accorsi",
+  "deck_building_id": "777a87e05133c7c929f30c24ced7fa867c084c8e",
+  "culture_invariant_id": 152,
+  "sort_number": 152,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Mentor",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "VOYONS VOIR SI ÇA MARCHE Lorsque ce personnage est envoyé à l'aventure, le prochain objet que vous jouez durant ce tour coûte 2 de moins. ÇA MARCHE! Lorsque vous jouez un objet, vous pouvez piocher une carte.",
+  "card_identifier": "152/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=cac7fa8bed7a4a6ea14c50917d2a15e936ded46973d1eb8db34d8014d2c57f67"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=228c722cb7134f5eae7616d2f032190d8c313d7e79ab18ebbf3be83b55fa2a3a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e5bf19fc62cf83773064e388c91d5741c86677a5df882bbb9bb9b9ffca1b2f35",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

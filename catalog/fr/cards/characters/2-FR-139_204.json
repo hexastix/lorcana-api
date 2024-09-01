@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "De Baker Street",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jake Parker",
+  "deck_building_id": "fba07c9e309578673beb0679dd654ab701fc31bb",
+  "culture_invariant_id": 355,
+  "sort_number": 379,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Détective"
+  ],
+  "flavor_text": "Quelle machine ingénieuse! Si sa lumière se réfracte par ici, alors ses images doivent apparaître quelque part en dessous.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa à celle d’un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "139/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=0118c23d6990aedee375cc0979899fb4807d96b19a8b41d430bd8bb5cf9da56d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=4677ee1a564408f445945c39447a73808e8baa9f7be448c3cc57ec1f9cdd28a2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=6f4f32d6840a40d477e499d9f811f04bb07a384715abbb632e4757045e57be25",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bernard",
+  "subtitle": "Brand-New Agent",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jacob McAlister",
+  "deck_building_id": "96b509ea25a2dc6814d5ceedc225139dfbfaf703",
+  "culture_invariant_id": 434,
+  "sort_number": 469,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q:\tAt the end of my turn I have 2 Bernard – Brand New Agents in play and both are exerted. If I use the first Bernard to ready the second one, can I still use the second one’s I’ll Check It Out ability?\r\nA:\tNo. Bernard must be exerted when his ability is used.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "You stay there. I'll look for scattered lore.",
+  "rules_text": "I'LL CHECK IT OUT At the end of your turn, if this character is exerted, you may ready another chosen character of yours.",
+  "card_identifier": "2/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3f009ab98cd6e1858400d48be4629fc93de9c9bd3facf8a16ebd792d2a04c5f4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=b672a5f9c11aef960e75db6aede059d409beebb6b046e2908e0eac3c15d0adf9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=c121a97075571161f44287adc9cbc5ce47ea8a39f8d8207943b231b66b7afe90",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

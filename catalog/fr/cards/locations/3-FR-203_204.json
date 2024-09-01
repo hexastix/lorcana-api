@@ -1,0 +1,37 @@
+{
+  "name": "Nottingham",
+  "subtitle": "Château du Prince Jean",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Bryn Jones",
+  "deck_building_id": "49eaf235e4c4e6023ea58dbe1ef6315db3948ef4",
+  "culture_invariant_id": 639,
+  "sort_number": 674,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Triste Sire: Je dis, Sire, que le château de votre mère sera l'endroit idéal pour mettre en place notre plan!%Prince Jean: Mamaaaan!",
+  "rules_text": "",
+  "card_identifier": "203/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=31dc17b48759983a28e17008dca159a43fec0f411455717806e342ed20163ab3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=ce99a3dedf275009ce8a0c282a3010f575d8bf46eb59beb74c330a592e192fde"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=b7b96921d4ddf121010ef8791345865b9f772624913564fd30d18f942f705131",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

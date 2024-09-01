@@ -1,0 +1,40 @@
+{
+  "name": "Argès",
+  "subtitle": "Le Cyclope",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alice Pisoni",
+  "deck_building_id": "286c468b7f39166d810fec8138c83852f03763aa",
+  "culture_invariant_id": 864,
+  "sort_number": 874,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Titan"
+  ],
+  "flavor_text": "On dirait que tu vis de grosses émotions ici, mon pote. Piétinons-les!%—Hadès",
+  "rules_text": "",
+  "card_identifier": "173/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=664f35cc0a26592c6b0797f596b881ddd241c29236358956b0a554392c8820cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=3a986d1b471f1b697dcd01a118e668e4a917e4d21b6a7bf78f3e512082a29c03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=75aa15f5d84ecc1e08a3a4df8756897fbd60449fb5275e0ab16875a0797aabb2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

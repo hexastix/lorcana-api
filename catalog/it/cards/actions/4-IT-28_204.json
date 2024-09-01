@@ -1,0 +1,37 @@
+{
+  "name": "Questa Famiglia",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Giulia Riva",
+  "deck_building_id": "4d9b353aa7f368d78fa825e4fdce71da6b544363",
+  "culture_invariant_id": 719,
+  "sort_number": 729,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 7 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 7 o superiore può per cantare questa canzone gratis.) Guarda le prime 5 carte del tuo mazzo. Puoi rivelare fino a 2 carte personaggio e aggiungerle alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "28/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=3bd28f93636019a3a7b642e04ddf68cb633a6ff2589aa0a20a813e9f3346904f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=b42dcf5fe260f448e6ae03b332fa5560bc774e83b7ad715226bc6d758b028c45"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=33c924e3858167decf60f86616f4bd2fa1f7f7fc4d7dca4fbbf47a288d74130b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

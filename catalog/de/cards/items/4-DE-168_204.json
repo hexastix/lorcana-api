@@ -1,0 +1,34 @@
+{
+  "name": "Eisklotz",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "67c3a9d35138ced621a95e5ffb3c11d66ec99f27",
+  "culture_invariant_id": 859,
+  "sort_number": 869,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tiefgefrorene Tinte kann zu vielen nützlichen Zwecken gesammelt und verarbeitet werden.",
+  "rules_text": "KÜHLES ARBEITEN – Gib einem Charakter deiner Wahl in diesem Zug -1.",
+  "card_identifier": "168/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=f1bd8641763171bd6a991a1f97b9602d8e082f5dc848d52f76953ccec0330042"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=255562fd4bc861dabadb961d4820ce457487e2d48078a490c2f147fff33e847c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=015e1a85f827c093a94c73f5058e43361520536958d4af99ebf711cdb5397d44",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

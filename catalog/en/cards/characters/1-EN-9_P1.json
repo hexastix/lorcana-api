@@ -1,0 +1,44 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Boat Snack",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Jenna Gray",
+  "deck_building_id": "6dfdbf904cb6a8f2f700f9839e50902b7dd4bcad",
+  "culture_invariant_id": 667,
+  "sort_number": 225,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Sometimes, our strengths lie beneath the surface. Far beneath, in some cases.. . . —Moana",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "9/P1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=b81946d5d0875ea365dab36bc0cf0000e2c616da9444fdaf47d424553bb8c48f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=12cf100c46fd720d815e581aafc292c4ec3bbd9dd3a64189fba54342c40a881c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=9bd8ea5683b204ccef00917a1b3b753610621fd8630188c284b707f0fd0837db",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

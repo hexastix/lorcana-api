@@ -1,0 +1,41 @@
+{
+  "name": "Rabbit",
+  "subtitle": "Zögerlicher Gastgeber",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "4e9c3770679408ef21521a605b22faedadaaeb71",
+  "culture_invariant_id": 374,
+  "sort_number": 398,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Puuh: Na sowas, ist denn wirklich niemand da?%Rabbit: Nein, niemand!%Puuh: Jemand muss da sein, weil dieser jemand gesagt hat ‚Nein, niemand‘.",
+  "rules_text": "",
+  "card_identifier": "158/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=b811b210e1caa64fdb0c25063e965751226c9fd55bdef5dd5597161f7a931c20"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=e8b3d2c057b4d9017e18f7054365b001af3cb31e772f24bd5402efbfa9da6ff1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=2239d85195f5ab486a58586b058f884bc75604dcb714f09d82d0801671e4bb05",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

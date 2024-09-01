@@ -1,0 +1,42 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Süßigkeiten-Mechanikerin",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "a074d9a5fe4ec9e9905316dcc6f56e1a9de0a03b",
+  "culture_invariant_id": 965,
+  "sort_number": 973,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinzessin",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Ich nehme alles, was du hast,... solange Zucker drin ist.",
+  "rules_text": "WER SPIELEN WILL, MUSS BEZAHLEN Jedes Mal, wenn dieser Charakter erkundet, erhält ein gegnerischer Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "9/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=51d0048721bd6510bd2850b049bb68bce50b48096c3368dfcfc80b0eb3790a58"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=f7a903172795d680f45d57a7fd2508ba44cde8a0a09fba5ee20b2cc29b96dcae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=04678c0a66a63fa5c3afa53070c02be1d6197a065a6b784b9e0ac2d2d0f276bd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

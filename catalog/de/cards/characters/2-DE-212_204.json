@@ -1,0 +1,41 @@
+{
+  "name": "Shir Khan",
+  "subtitle": "Bedrohliches Raubtier",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "d699b7284880df41462554acf1e1f68689fab0bd",
+  "culture_invariant_id": 428,
+  "sort_number": 452,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "BELEIDIGE NICHT MEINE INTELLIGENZ Jedes Mal, wenn einer deiner Charaktere einen anderen Charakter herausfordert, sammelst du 1 Legende.",
+  "card_identifier": "212/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=ac3428fa22905f1e1bddb237a99d28545500e76adbe432d2993ba04c47431369"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=0f96153d17095e14ed9286f06e79c030ab9efa677ff6efb3d630ad0aa3c2cbf1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=1441f44d601a34d14efc89de2935c51597dc0650344f821f0974a93067fe1664",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

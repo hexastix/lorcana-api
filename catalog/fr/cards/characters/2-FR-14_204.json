@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Roi trahi",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "63a29aa0ab62842bfd36595e8ed690cfdc1ed928",
+  "culture_invariant_id": 230,
+  "sort_number": 254,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "LE SOLEIL ÉTEINDRA SUR MOI SA LUMIÈRE Lorsque ce personnage est banni, vous pouvez révéler la première carte de votre pioche. S'il s'agit d'un personnage, vous pouvez le jouer gratuitement. Il entre en jeu épuisé. Sinon, remettez-la sur le dessus de votre pioche.",
+  "card_identifier": "14/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=5f7a2113823e63ea698e4ab68c69fef55715af48b55ca77e4cd62431b8c60a15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=2ae9e3ec9ba709072ce9d83cd1663a6c0cad00bf956657dc2062acbee17a2e2b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cb7ff7df800f3601621da9eee5aee9dbc1eca9a6dfedb72c2fe2b94a08607276",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

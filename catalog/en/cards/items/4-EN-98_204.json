@@ -1,0 +1,33 @@
+{
+  "name": "Hidden Inkcaster",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Adam Fenton",
+  "deck_building_id": "9a55893ec9534cdf491712143ca14b5696e02b1f",
+  "culture_invariant_id": 789,
+  "sort_number": 799,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It looks like it’s been here forever. —Flounder",
+  "rules_text": "FRESH INK When you play this item, draw a card. UNEXPECTED TREASURE All cards in your hand count as having.",
+  "card_identifier": "98/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=21b9df9940031d9c225fe10b33540027d5bf84814643bd0bbf23d75757b37983"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=5bfb17fb281855a5a56d7d56a8b34822ba2ad3f6fe9e9652af5cbb9c2054feac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=51b16bcd3dcc66b49046a1c326b977d568e5d4e9f2827c3feaa7da89b785ccd4",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

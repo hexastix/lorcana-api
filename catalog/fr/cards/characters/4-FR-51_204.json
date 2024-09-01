@@ -1,0 +1,40 @@
+{
+  "name": "Guimauve",
+  "subtitle": "Terrifiant bonhomme de neige",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "b9b57c518d4487484cbb0f68ce8ace42b5dfc9e7",
+  "culture_invariant_id": 742,
+  "sort_number": 752,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Tu es très fort. Tu fais de la musculation?%—Olaf",
+  "rules_text": "MASTODONTE Ce personnage gagne +1 par carte dans votre main.",
+  "card_identifier": "51/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=1124e77144cc428d983a6ed39f99b8fbdb69875cbd8aea6c117c538cb60bbc3f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=a4517cdc6063365627f01c376dfc389690c0d16859f1c2e28e51e2ca73daa00b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=83484246c769f099c47f52528cc9ff7d8f40b9abf951f0b259a831246c93a338",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

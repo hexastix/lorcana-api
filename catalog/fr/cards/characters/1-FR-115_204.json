@@ -1,0 +1,42 @@
+{
+  "name": "MICKEY MOUSE",
+  "subtitle": "Brave petit tailleur",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "24d9608bc36bf0e9c6e158b0569ebcd8d0515343",
+  "culture_invariant_id": 115,
+  "sort_number": 115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Quand le danger menace et que la victoire ne tient qu'à un fil, un héros se précipite à la rescousse, déterminé à en découdre pour rapiécer les choses.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "115/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=df9812f9faf5d88ab6f9d7c4e5021380f195cbd0bb9fc945b767adb0352f8381"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=9ad6e640eae54192bbcea08076ce63980af596967c0a4cfea17bc6b285dedfdb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=26c65cfa9fd11c34cdd1c3ced391add4a95772523ddf67b3c2850c728a02dc59",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

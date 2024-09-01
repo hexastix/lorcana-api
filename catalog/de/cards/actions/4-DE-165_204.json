@@ -1,0 +1,35 @@
+{
+  "name": "Schätze und Zeug",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Matt Gaser",
+  "deck_building_id": "135aa9bfe3b17939d13110d36bbbf5603ca9d681",
+  "culture_invariant_id": 856,
+  "sort_number": 866,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Nichts übersteigt mein geheimes Revier",
+  "rules_text": "(Du kannst einen Charakter, der 6 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Nimm bis zu 2 Gegenstandskarten aus deinem Ablagestapel zurück auf deine Hand.",
+  "card_identifier": "165/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=656abd01d5aba0d01da07883c215cc3d23dcd79f075e88fd12d62a836c80f192"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=49a7ac12573d7c1fa728ccd2b8cb6a53b0dc65444c0142ef1c90a865e17483e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=ba6dbb10c179e392f90a6837ccf37f92795a3f4c4dda850b45f568fa5dce6774",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

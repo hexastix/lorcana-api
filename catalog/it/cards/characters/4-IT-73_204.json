@@ -1,0 +1,40 @@
+{
+  "name": "Gas-Gas",
+  "subtitle": "Campione del Formaggio",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Maddie Shilt",
+  "deck_building_id": "b525404fa16e5dc8261c66f987b27e303bfa5980",
+  "culture_invariant_id": 764,
+  "sort_number": 774,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Puoi sempre contare su di lui quando si parla di formaggio.",
+  "rules_text": "",
+  "card_identifier": "73/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=e5698552d3c36d635bccc38ca83c7b72a07b07c79e7ebbd00e2fa201dfb80acb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=ba4b7eb5fd94e08ea1164e3f3333be4298062870ba7c7d3bbdd90fc182f0ea2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7c15fb9efc82a45ff72e99ae3bcc4a5e20b78d23e9ec9c093ff0552ddfdb5cb4",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

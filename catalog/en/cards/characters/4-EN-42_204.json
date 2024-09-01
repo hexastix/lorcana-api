@@ -1,0 +1,43 @@
+{
+  "name": "Elsa",
+  "subtitle": "Storm Chaser",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "4297327bb398ea35bc56d33043916d26c0135202",
+  "culture_invariant_id": 733,
+  "sort_number": 743,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "After Elsa dispersed Ursula's storm, Anna was nowhere to be found.",
+  "rules_text": "TEMPEST — Chosen character gains Challenger +2 and Rush this turn. (They get +2 while challenging. They can challenge the turn they’re played.)",
+  "card_identifier": "42/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=94f9791675e5004c7bb00930d7472c023579ae70d9d2f408b01aa5aabf3f1ac4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=7d397ec77d845e5fc8e985e6557e493c2bb5312c33fa3e20d831e24ed6c10ba4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=99459480688b36fd433046dfd494af51c788541c74f9c277d5270051d828998f",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

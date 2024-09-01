@@ -1,0 +1,41 @@
+{
+  "name": "Starkey",
+  "subtitle": "Hook’s Henchman",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "9f1a143825dcb63a6c7b8c8ce3c50df1302b8c9c",
+  "culture_invariant_id": 191,
+  "sort_number": 191,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "A pirate must be tough, loyal, and strong. Smart doesn't even make the list.",
+  "rules_text": "AYE AYE, CAPTAIN While you have a Captain character in play, this character gets +1.",
+  "card_identifier": "191/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=a26608f4354d041e21d47772a6e6796eb668cf71219a071999a46ce244bd632b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=d1c29373e1ff281a37ff6ed74504542bf1604e44ba56909edaab21f9fe4fc008"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=0e197b8ec9f059e3bbf5da8fdeed69caac25c6cc212d42041eb9ac68cbe0ca36",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

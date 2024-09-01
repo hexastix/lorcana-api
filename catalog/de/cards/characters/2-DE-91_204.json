@@ -1,0 +1,42 @@
+{
+  "name": "Rattenzahn",
+  "subtitle": "Kriminelles Genie",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michaela Martin",
+  "deck_building_id": "20f1cee3efa42ca0bdb7295992b0b9f485f9c40e",
+  "culture_invariant_id": 307,
+  "sort_number": 331,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Diesmal habe ich mich selbst übertroffen! Bald werde ich alles bekommen, was ich verdient habe. Reichtum … Macht … Ein ganzes Königreich nur für mich!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "91/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=9b60323d7a68cfbf3bf04bd9a506de02e53c45f5c8b4be1a0e4887f081ea44ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=c6fa296520de49291d7ede39b9ee81bd7e6f087ea40de57e9303de3965e924a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=345b3a86e0cfe5c871038807c345dba89b0fb780be96996a2538b5582ff98e68",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

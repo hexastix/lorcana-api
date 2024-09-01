@@ -1,0 +1,34 @@
+{
+  "name": "Wuchtschlag",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "31fe827aea4cf5f6ace7de2c21de0b5f6b783858",
+  "culture_invariant_id": 200,
+  "sort_number": 200,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Haut ab!",
+  "rules_text": "Füge einem Charakter deiner Wahl 3 Schaden zu.",
+  "card_identifier": "200/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=1443ea97a2e56983abb1f47e4b06afab18f63e5169a95a950e1377f660c77304"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=9622ab84181a0601750cc67eb6bdfa0fee3e5e1989c3df854cfaa95c58f37996"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=fb60963b2c7b2daf311574228fdcc3ccb699cf614893742aa5c8cdd918a5ac32",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

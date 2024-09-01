@@ -1,0 +1,42 @@
+{
+  "name": "Château de la reine",
+  "subtitle": "Salle du miroir",
+  "willpower": 7,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Matthew Oates",
+  "deck_building_id": "9ab00d3ccf3aa6a5a6653a6a70340dd4cfdf1666",
+  "culture_invariant_id": 503,
+  "sort_number": 538,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Au début de mon tour, j’ai 3 personnages sur le Château de la Reine – Salle du miroir. Puis-je choisir de ne piocher que 2 cartes au lieu de 3 via la capacité “Utilisation du Miroir” du Château de la Reine ?\r\nR : Oui, vous pouvez n’en piocher que 2. Au début de votre tour, pour chaque personnage sur le Château de la Reine, vous choisissez si vous piocher une carte ou non.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ceux qui consultent le miroir peuvent choisir leur question, mais pas la réponse.",
+  "rules_text": "UTILISATION DU MIROIR Au début de votre tour, pour chacun de vos personnages sur ce lieu, vous pouvez piocher une carte.",
+  "card_identifier": "67/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a9c7f1d0b2555596db78ef8c23c1e9f79bd3313f78d38d716973f43050d9b054"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=dc00ab99fb88e3905a34b962050b144caddfe57e385c08c8e1c7fd8d45c47420"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=8a99d064f55e2a906a1c81e00725b8177086d1cef78c41ba8fecc6b69ac1b005",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

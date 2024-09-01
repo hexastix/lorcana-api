@@ -1,0 +1,37 @@
+{
+  "name": "Kuscos Palast",
+  "subtitle": "Heimat des Königs",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Andreas Rocha",
+  "deck_building_id": "2514f81045d67354a0f53e0031f8831ef08f7714",
+  "culture_invariant_id": 538,
+  "sort_number": 573,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sicher, ein bisschen klein, aber es HAT AUCH KEINEN POOL! —Kusco",
+  "rules_text": "STADTMAUERN Jedes Mal, wenn einer deiner Charaktere an diesem Ort herausgefordert und verbannt wird, verbanne den herausfordernden Charakter.",
+  "card_identifier": "102/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=d401291489f0bdf816620525218228ad7402ef3199b469a505a94befe4f7f813"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=0020bac41331be32ad59d259c02e9e000398124faa2d7750bb3660780de94143"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=4d9c6df502d9a06673bf50f1ec8befc585e5e689b6c031f77e7cd94d943eca49",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

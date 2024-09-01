@@ -1,0 +1,44 @@
+{
+  "name": "Kida",
+  "subtitle": "Wächterin von Atlantis",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 642,
+  "sort_number": 677,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Kida-Charaktere auszuspielen.) VIELLEICHT KÖNNEN WIR UNSERE ZUKUNFT RETTEN Wenn du diesen Charakter ausspielst, gib allen Charakteren bis zu Beginn deines nächsten Zuges -3.",
+  "card_identifier": "206/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=117930ebf95dc59565e8cb4a00e3cc3acf3d680dfb730c193cfc069e3c300bf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=fad68e7b7ae6f590315eace789c5ecde350fec93f1fcae7ae892776728608be6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=ca42b88b822dd1ac1389688d3acc0d8a9b01f00b2d70985bebc094663546ed57",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

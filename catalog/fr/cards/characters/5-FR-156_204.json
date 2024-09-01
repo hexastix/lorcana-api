@@ -1,0 +1,40 @@
+{
+  "name": "Nanaka",
+  "subtitle": "Femme avisée",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alice Pisoni",
+  "deck_building_id": "abb164419a1662267b844213eb8ebf1ee2c6dce6",
+  "culture_invariant_id": 1112,
+  "sort_number": 1120,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "TES FRÈRES ONT BESOIN D'ÊTRE GUIDÉS Lorsque vous jouez ce personnage, vous pouvez choisir un personnage ou un lieu et lui retirer jusqu'à 1 dommage.",
+  "card_identifier": "156/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=b2c474ea02e924eed2c85e1a40374e9a566672334cfca5b0c2c00f353b896e62"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=f851277441fe60edf6af7cd54e3766f94260c19bf395a0dd3e0e7c16a67304c2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=c18a5a7d4e1c3fef47ac2d4c66a16c13b686ab4c81f4be8b11cc444db966a6e3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

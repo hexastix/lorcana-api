@@ -1,0 +1,33 @@
+{
+  "name": "Moitié de la Couronne d'Hexasort",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "John Loren",
+  "deck_building_id": "b811b3defd86d738200c72437085b562903d888b",
+  "culture_invariant_id": 1021,
+  "sort_number": 1029,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Cette couronne brisée renferme de sombres et mystérieux pouvoirs.",
+  "rules_text": "TROUVAILLE INATTENDUE , 2 — Piochez une carte. UN POUVOIR PÉRILLEUX , 2 , Défaussez une carte — Choisissez un personnage et épuisez-le.",
+  "card_identifier": "65/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=2bc0af1a3091276572b704bcecbdd3bd19ad5e918ba9d6fda28e79d2c25ba739"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=d96af5fe700d1114d726264b71e3801cf89fcf5ea37d15d5253c7d198b51bcb0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=bd944e3425c761165fe612226c01b2d825dc7e35064a1ab422a25400290f25a2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

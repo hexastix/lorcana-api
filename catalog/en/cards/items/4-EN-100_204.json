@@ -1,0 +1,33 @@
+{
+  "name": "Vision Slab",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jonas Petrauskas",
+  "deck_building_id": "e6d57ae690cdbb13b3985f7a1f47b40c2fd61080",
+  "culture_invariant_id": 791,
+  "sort_number": 801,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tío Bruno! What's happening to him? We have to help! —Mirabel",
+  "rules_text": "DANGER REVEALED At the start of your turn, if an opposing character has damage, gain 1 lore. TRAPPED! Damage counters can't be removed.",
+  "card_identifier": "100/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=85f4c81cd193e224d9981a093317a6739d8648282442e047439d6ed667ac974c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=ba7d66c5b9297efa90bb549a1d6501242db2d40520ae227bb8f83c215057e154"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b7eee5f6b64bda794fddb7072c04c5dea277a69c1b622e9cc05bd19590fdd071",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

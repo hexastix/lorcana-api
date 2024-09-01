@@ -1,0 +1,35 @@
+{
+  "name": "Inchiostratore Celato",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Adam Fenton",
+  "deck_building_id": "9a55893ec9534cdf491712143ca14b5696e02b1f",
+  "culture_invariant_id": 952,
+  "sort_number": 929,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sembra che sia qui da sempre.%—Flounder",
+  "rules_text": "INCHIOSTRO FRESCO Quando giochi questo oggetto, pesca una carta. TESORO INASPETTATO Tutte le carte nella tua mano contano come se avessero.",
+  "card_identifier": "36/P1 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=95e12935b235aaac4b961e52e7fd11f37ce25ffd219783b8777e6caa1b8ce093"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e8e9b87301099c06fef13da67fe8e89c8a83cb35c6ff26cb59facd423d911b26"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=81d403830aa56c444b59416888e5e39fd95e1dd0efc15a9949525f68aba2cbcf",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Detective",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jared Nickerl",
+  "deck_building_id": "f6d5d539a411651374ae418f08e3d379fcb13ff5",
+  "culture_invariant_id": 154,
+  "sort_number": 154,
+  "additional_info": [
+    {
+      "title": "FAQ - Inkwell",
+      "body": "Q: If a card from the top of the deck is put into my inkwell by an effect like Mickey Mouse – Detective’s ability Got a Clue, can I check what that card is before it goes facedown?\r\n\r\nA: No. Cards put into an inkwell from any location where the card’s information isn’t known, such as the top of a deck, can’t be looked at by either player.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Detective"
+  ],
+  "flavor_text": "Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on.",
+  "rules_text": "GET A CLUE When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "card_identifier": "154/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=8647ee0644dff798b896de85a84e6155d5039d7afeac98c0124b954412952785"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=41b502b81af6b922500d397d8adcaf380c8b604c943e69db5d4f04a2b2d5b431"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=4ec24a3808f476c55f7e3890469747b1a9472bdf2525512b45d72ac915bda1f3",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

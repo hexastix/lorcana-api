@@ -1,0 +1,40 @@
+{
+  "name": "Nala",
+  "subtitle": "Cucciola Monella",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "d157b0da6c78bd4595a8ec024848d4a5d27f0244",
+  "culture_invariant_id": 958,
+  "sort_number": 966,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Il Campionato di Nascondino di Lorcana era già suo.",
+  "rules_text": "",
+  "card_identifier": "2/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=b26c7f73443cbeff23fed747eec5c68a0b04380ec7702aa3e7adcd43a88cfc4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=a95e01122ac8b3cdaafc73f4157f600e13f0bd2d89fe4412fe31b74abec3bde2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3e795a23e9776f55b076fb3774368d6e149d231176eedc9177665f4605e811ba",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "En renard",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "b632a76e8971d47d81626acf0505fdf0b9a173ba",
+  "culture_invariant_id": 262,
+  "sort_number": 286,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "À LA POURSUITE DU LAPIN Lorsque vous jouez ce personnage, bannissez-le ou renvoyez l'un de vos autres personnages en jeu dans votre main. Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "46/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=e3021388caf0c599ccfc8f69f80cb12996944bbe8d13f7aa83b23a2956d7d68c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=0934e50b04b64955a96708fdaf51cd57d67ca3fa40e9ab5e781ebc06be12a97e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=4df46d17143aaa2e69e628c32701b4e2f826a8da1e232c4a5eb49f7668b7b439",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

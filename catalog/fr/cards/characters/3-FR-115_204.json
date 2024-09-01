@@ -1,0 +1,40 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Savant intrépide",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Massimiliano Narciso",
+  "deck_building_id": "afc915c8e0d6e76a43d923beb2bf5400009bad5e",
+  "culture_invariant_id": 551,
+  "sort_number": 586,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Mon grand-père ne m'a jamais parlé de cet endroit!",
+  "rules_text": "JE SUIS VOTRE HOMME Tant que ce personnage se trouve sur un lieu, il gagne +2.",
+  "card_identifier": "115/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=048cd866d3757db66d31280fbc86e4e928aa480488e377ecbcc6b719c2841b4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6c66944065ab91cec1c17abc4e03722fcb248182956b7b097ac2a6fa5f79bb0c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=74b195aeb9fbcfcdc2be0ef6137292cb5068c38f50ed979dfd0d3b3980d44821",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

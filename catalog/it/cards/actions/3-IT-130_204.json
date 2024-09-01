@@ -1,0 +1,38 @@
+{
+  "name": "In Piedi, Adesso!",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "c2489a966a450b41881a99cd9bb1f009bd92d32d",
+  "culture_invariant_id": 566,
+  "sort_number": 601,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Se ho in gioco un personaggio con Resistere +1 quando gioco In Piedi, Adesso!, quel personaggio sarà in grado di andare all’avventura dopo che è stato preparato?\r\nA: No. In Piedi, Adesso! considera tutti i tuoi personaggi in gioco per ciascuno dei suoi effetti. Prima di tutto li prepara e gli infligge 1 danno a testa. Quelli con Resistere +1 ridurranno quel danno di 1 prima di riceverlo, e quindi non ricevono danno. Tutti i tuoi personaggi non potranno però andare all’avventura, anche se erano già preparati quando In Piedi, Adesso! è stata giocata e persino se non hanno ricevuto danno da essa.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Prendeteli! Prima che scappino via!",
+  "rules_text": "Prepara tutti i tuoi personaggi e infliggi 1 danno a ciascuno di loro. Non possono andare all'avventura per il resto di questo turno.",
+  "card_identifier": "130/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=080a202d256cfe656c3718b10fe3376649034ffa6f5487c5fcb6dfa5150d71f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=a97fab20dfe910b479eec8c85ab0116da1a7f217ce2e7bb0862413d64c2e911c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=817a48ad15b609fffcd84b464cd5103113e57dfc15c1c4c4b1553225339f663b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Poisoned Apple",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "24ce530324726430b013f55a65d00e0450f5da27",
+  "culture_invariant_id": 134,
+  "sort_number": 134,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "One taste of the poisoned apple, and the victim’s eyes will close forever.... —The Queen",
+  "rules_text": "TAKE A BITE. . . 1 , Banish this item — Exert chosen character. If a Princess character is chosen, banish her instead.",
+  "card_identifier": "134/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=71083c487bb747bf1d7cb0b081cfc3d5ca345f64f30eb3a4339a006a5a7ce274"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=e73619e1657a70d2cf640b23005e44fc1418899d36ae653731f25df786b80575"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=54bfe9834e51f59d21e3e4083489679d5f16ae5d11df4fc44711487f246e7acf",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

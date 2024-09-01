@@ -1,0 +1,37 @@
+{
+  "name": "Fang",
+  "subtitle": "River City",
+  "willpower": 6,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Michael Guimont",
+  "deck_building_id": "ab87ad77d9132e447d7025f86689d1abc0aa9f5d",
+  "culture_invariant_id": 537,
+  "sort_number": 572,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "A nation protected by fierce assassins and their even fiercer cats.",
+  "rules_text": "SURROUNDED BY WATER Characters gain Ward and Evasive while here. (Opponents can't choose them except to challenge. Only characters with Evasive can challenge them.)",
+  "card_identifier": "101/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=145078428336603f78ac9bbf22fa47b813ebbc807f075e01b80a589d79f09607"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=a7f38ec6e6610d7ba90eb9e376a39175610ea8b30fe8d2266eb7a844f5ffd45c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=2631a4302208ad261e7220a76bd259bea4c876689b115f9bd43b6601783e8fd7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

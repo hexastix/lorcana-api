@@ -1,0 +1,41 @@
+{
+  "name": "Belle",
+  "subtitle": "Rat de bibliothèque",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jenna Gray",
+  "deck_building_id": "e62d9c43e5fbd5aceee5fad79ab1e069b8c412dc",
+  "culture_invariant_id": 287,
+  "sort_number": 311,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Il n'y a rien de plus irrésistible qu'une pile de livres non lus.",
+  "rules_text": "UTILISEZ VOTRE IMAGINATION Tant qu'un adversaire n'a plus de cartes en main, ce personnage gagne +2.",
+  "card_identifier": "71/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=c6858a2e4bb157766bdf791c82f4491ff97a87454cfb00a3b243babcc17f7699"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=dbf9f9b0374e77ebd4fdf4f3357c65a1fda66dfaf7b68e4f1ac8976363bb7cbf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=32c64cd1ead7a4b8e3ddb8b7d7491551ff60d1cbb9afe3f4cf25fdd025c5f0c3",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

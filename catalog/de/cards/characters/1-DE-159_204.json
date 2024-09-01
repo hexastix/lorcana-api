@@ -1,0 +1,40 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "So glänzend!",
+  "strength": 5,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "66d3b6106914373f1b4612e524cff18f5144a3a1",
+  "culture_invariant_id": 159,
+  "sort_number": 159,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Ich bin glänzend, funkle wie ein ungeschliff'ner Diamant.",
+  "rules_text": "WAS HABEN WIR DENN HIER? Wenn du diesen Charakter ausspielst und jedes Mal, wenn er erkundet, darfst du 1 Gegenstandskarte aus deinem Ablagestapel zurück auf deine Hand nehmen.GLAMOURÖS Dieser Charakter erhält +1 für jeden Gegenstand, den du im Spiel hast.",
+  "card_identifier": "159/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=ec4b65150d7140c7b521f70df14f0e9d574a266a04c32f17ef66184a952e4446"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=8bd47e6242a1c7f9dde2b07a235234f312c99ddb4799e1a41c710f20cb7f36f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=88b00bc32ddb4f6ab2b64e8daee7b7e6599f9fad2838efc3b7ebb5cb09e7effe",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

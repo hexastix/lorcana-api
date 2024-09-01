@@ -1,0 +1,43 @@
+{
+  "name": "Lena Sabrewing",
+  "subtitle": "Rebellious Teenager",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "c8008c9decb7e2f82c626c48623a36620179e03b",
+  "culture_invariant_id": 479,
+  "sort_number": 514,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "flavor_text": "Born from the shadows. Saved by friendship.",
+  "rules_text": "Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "43/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=96725042dd580ad841a66354fa4ae41397b32febdb590c441e2baaecf23fd690"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=8e4a1abc2396168bf7924b636cf9e8354cd285adcb5a7d8645a0045688319dc3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=6c5ed6f4104f4b0ab2ac312ee875b8339bdb7c49bb3c3980a24995b9e70810ba",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

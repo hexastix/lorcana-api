@@ -1,0 +1,42 @@
+{
+  "name": "Triton",
+  "subtitle": "Herrscher von Atlantica",
+  "strength": 7,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 9,
+  "author": "Erin Shin",
+  "deck_building_id": "f2fe9fa097286b7fd01ef42ad1ab79f945b35dd5",
+  "culture_invariant_id": 849,
+  "sort_number": 859,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Triton-Charaktere auszuspielen.) EINDRUCKSVOLLE ERSCHEINUNG Gegnerische Charaktere erhalten -1 für jeden Ort, den du im Spiel hast.",
+  "card_identifier": "158/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=df49077ee9db27e13a4d94c28ff4b0ae618e8cf932acfd28874b5483b6c5a201"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=fb71d7895e5edbd243d095cde2ff2bd1c2fd61386cc3478ac38ce0a9b8f3a7f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=ac987cad532a7b9360646f8811d9c64d5189c3984b8ede70c6f277642cd6f0f6",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tipo",
+  "subtitle": "Growing Son",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "f80eee1a0d8f58f63e04f6f9578c9d603326d912",
+  "culture_invariant_id": 1113,
+  "sort_number": 1121,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Mom, Mom! I think I’m still growing!",
+  "rules_text": "MEASURE ME AGAIN When you play this character, you may put a card from your hand into your inkwell facedown and exerted.",
+  "card_identifier": "157/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=11d7ce197742c1827818784fdba3e13f3d174bd0cf4e725bc494e65a87595a28"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=3b1150d150ba934d4bdbc940b08c66891dbf0c7b73e8f1b69a158bdbb9ba1e3a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=60e97693f47afa7a5a55d7a96ccdd96c58c41ddd68d3398b7ce94febb553872d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

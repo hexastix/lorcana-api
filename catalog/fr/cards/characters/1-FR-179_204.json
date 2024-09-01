@@ -1,0 +1,40 @@
+{
+  "name": "CRÉATURES",
+  "subtitle": "Sbires de Maléfique",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cam Kendell",
+  "deck_building_id": "018285e9619cfde841d7c896c583409a92660f71",
+  "culture_invariant_id": 179,
+  "sort_number": 179,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ils semblent inutiles, mais ils étaient livrés avec le château.",
+  "rules_text": "",
+  "card_identifier": "179/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=f5496bbfc15966eeeac532177ef9b9c3dc0e218516aaa74f12c7609f434cb86d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=cd0b7c735416ae94d751743d0fb4cf5974be4cffb0648ca68e09d68861287032"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=c8db8bc8f328a9897dd783d7bc446fa1aefa82ace0538c9b32d8e95df8650b84",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

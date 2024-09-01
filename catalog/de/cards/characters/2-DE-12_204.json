@@ -1,0 +1,45 @@
+{
+  "name": "King Louie",
+  "subtitle": "Der größte Klettermax",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Hadjie Joos",
+  "deck_building_id": "0c3fed9a867179785f504207a81666bcfe1b2abc",
+  "culture_invariant_id": 228,
+  "sort_number": 252,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Mein King Louie hat 6 Schadenspunkte. Ich nutze meinen King Louie, um einen gegnerischen Charakter mit einer Stärke von 2 herauszufordern. Wenn King Louie den gegnerischen Charakter in der Herausforderung verbannt, kann ich dann seine Fähigkeit einsetzen, bevor er durch die Herausforderung verbannt wird?\r\n\r\nA: Nein, das kannst du nicht. Beide Charaktere, die an einer Herausforderung beteiligt sind, erleiden gleichzeitig Schaden und werden gegebenenfalls auch verbannt, wenn sie Schaden in Höhe ihrer Willenskraft oder mehr erleiden. Das bedeutet, dass King Louie zu dem Zeitpunkt, zu dem seine Fähigkeit ausgelöst werden könnte, bereits verbannt und somit nicht mehr im Spiel ist. Dasselbe gilt, wenn King Louie stattdessen der Charakter ist, der herausgefordert wird.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "Lass doch den Blödsinn. Reg dich wieder ab.",
+  "rules_text": "DAMIT DU MICH NOCH BESSER KENNENLERNST Jedes Mal, wenn ein anderer Charakter verbannt wird, darfst du bis zu 2 Schaden von diesem Charakter entfernen.",
+  "card_identifier": "12/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=8784185e789565ae3d4c62db9da7ed67657e99f46b565d7b3db916008272ed66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=f5b352232712afbaa4d575ee11a14e3ff8bd39983bb1cf0e586d05e8a891fb51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=8df9233462a0bab35fca63686ea434ee4e501ab3cd9c9353bbd4fe9d9eab1d33",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

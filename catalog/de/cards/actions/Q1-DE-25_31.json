@@ -1,0 +1,32 @@
+{
+  "name": "Tentakelschwung",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "2c11f6d1f24e892d3c73ffc80283f12337ef3f5e",
+  "culture_invariant_id": 938,
+  "sort_number": 958,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Füge jedem gegnerischen Charakter 1 Schaden zu. Lege danach diese Karte verdeckt in deinen Tintenvorrat.",
+  "card_identifier": "25/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=7914a303465f8d98568091b88ea5e14c2c14af53f4b3f5597b6402ed8cc6ff07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=75da7f67f85b6b92d5786d0cae546d68cfe6113297a059d7c33e5e94440c4788"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

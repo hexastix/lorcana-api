@@ -1,0 +1,49 @@
+{
+  "name": "Elsa",
+  "subtitle": "Magie des Winters",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 42,
+  "sort_number": 42,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich die Fähigkeit \"Eiseskälte\" von „Elsa - Magie des Winters“ einsetze, um 2 Charaktere zu erschöpfen, können diese Charaktere in ihrem nächsten Zug mit einer Fähigkeit oder einem Effekt wie „Entfacht das Feuer!“ wieder bereit gemacht werden?\r\n\r\nA: Charaktere, die von der Fähigkeit \"Eiseskälte\" betroffen sind, können durch „Entfacht das Feuer!“ und ähnliche Fähigkeiten wieder bereit gemacht werden.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "Eis ist stärker, als du denkst.",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Elsa-Charaktere auszuspielen.)EISESKÄLTE Wenn du diesen Charakter ausspielst, erschöpfe bis zu 2 Charaktere deiner Wahl. Sie werden zu Beginn ihres nächsten Zugs nicht bereit gemacht.",
+  "card_identifier": "42/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=b1c7a38a34902b47b4a67b3203a25d1dd873e6a18bad8f2c54719bfb9524000e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=5b7c8481c896604ec78b924a2af081b8a078924bd6e43d42b8bab03b081d04e8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=8287523c7185d1e798e4e4f1b708f788c27b28990dcc7fddf9fc0532d90aa798",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

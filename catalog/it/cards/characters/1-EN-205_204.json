@@ -1,0 +1,45 @@
+{
+  "name": "Hades",
+  "subtitle": "King of Olympus",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "b49576fe526d49f6abcdf5af9e3eb03f64505194",
+  "culture_invariant_id": 205,
+  "sort_number": 205,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "King",
+    "Deity"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Hades.) SINISTER PLOT This character gets +1 for each other Villain character you have in play.",
+  "card_identifier": "205/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ac17691d8cffc9ab9bbb9ac1c5ea91de355fe0e9cf9fb1880afd39d04a4f2fcf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=d1fe7363ef9b066a2a9e12ecc03724e440f054c74e04e1b8521bbdd24c0cc891"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=8dc99351326d00bcc36f26c6565eeff2a65deffe88cae79386257717b9ab4d05",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

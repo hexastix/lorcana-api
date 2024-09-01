@@ -1,0 +1,42 @@
+{
+  "name": "MICKEY MOUSE",
+  "subtitle": "Détective",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jared Nickerl",
+  "deck_building_id": "f6d5d539a411651374ae418f08e3d379fcb13ff5",
+  "culture_invariant_id": 154,
+  "sort_number": 154,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Détective"
+  ],
+  "flavor_text": "D'où que proviennent ces algues, Mickey Mouse était sûr d'une chose: il y avait anguille sous roche.",
+  "rules_text": "UN INDICE Lorsque vous jouez ce personnage, vous pouvez placer la première carte de votre pioche dans votre réserve d'encre, face cachée et épuisée.",
+  "card_identifier": "154/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=f60735686a1786978cf85e128123bca7904d0bdb85fdf7c4031f49be50daf51d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=c3d9d6e8be7395dd92d1513dd860f5991f531bf60142eea182efd246d39e2de3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=4ec24a3808f476c55f7e3890469747b1a9472bdf2525512b45d72ac915bda1f3",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

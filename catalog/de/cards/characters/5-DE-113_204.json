@@ -1,0 +1,40 @@
+{
+  "name": "Rattenzahn",
+  "subtitle": "Rasende Ratte",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Adam Fenton",
+  "deck_building_id": "bc26272317330401d45feffba7e17f0e155eac93",
+  "culture_invariant_id": 1069,
+  "sort_number": 1077,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Das teuflischste Genie der Welt sollte niemals solche Demütigungen erleiden!",
+  "rules_text": "NICHTS WIRD SICH MIR IN DEN WEG STELLEN Solange dieser Charakter beschädigt ist, erhält er +2.",
+  "card_identifier": "113/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=eb08e5c0af3caffd5aad806a2cb4289e91a0ce89a00876d674747dcd07b4d9e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=1a12346e660a75eb41d6ca0c04d9e4767459e136654efe70c26284b954df47b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=11fd46b11a11fd0d581e6efdc472eac9f574029f12a63100668cd2d4a59d2e34",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

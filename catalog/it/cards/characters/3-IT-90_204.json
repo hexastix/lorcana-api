@@ -1,0 +1,41 @@
+{
+  "name": "Ursula",
+  "subtitle": "Ingannatrice",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "2f0ee159014b24c95f95963bdfa4b8ec79329fac",
+  "culture_invariant_id": 526,
+  "sort_number": 561,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Flotsam! Jetsam! Tenete gli occhi aperti e cercate altra leggenda sparsa qua e là. Trovatemi qualcosa di speciale!",
+  "rules_text": "UNA COSA DI CUI PUOI FARE A MENO Quando giochi questo personaggio, un avversario a tua scelta rivela la sua mano e scarta una carta canzone a tua scelta.",
+  "card_identifier": "90/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=7b0f063823e3dd42fe751622e6756c05500bde43e763db44243cea2e7462bfce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=0339cd091c54e884ad499e5ebc812897d68f9b602ba805b394933ee06296c02d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=163b077bf3836228fc3457c6b36df7a3465345d10ac68ec1713ece45ae6b7a28",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

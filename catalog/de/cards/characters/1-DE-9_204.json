@@ -1,0 +1,40 @@
+{
+  "name": "Lilo",
+  "subtitle": "Wünscht sich was",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Dave Beauchene",
+  "deck_building_id": "ee5f2dc07c2b61b8bbe2f489417909ba9cc495f2",
+  "culture_invariant_id": 9,
+  "sort_number": 9,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin"
+  ],
+  "flavor_text": "Eine Sternschnuppe! Zuerst gesehen! Raus, geh raus! Ich muss mir was wünschen!",
+  "rules_text": "",
+  "card_identifier": "9/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=af193a84cc40dfa6ae20a3413ccf2bc14f5c464c228bbf1058cf2305464205e2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=3b97b0265e1b0ff2c1fdd40fbb216e34a2d2388680c5f08d772716acfc9d7565"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=5c6899faf730bf4fcd119459683ca641a1118a1c318a9136de6c830112acdc7d",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

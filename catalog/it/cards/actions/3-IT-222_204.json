@@ -1,0 +1,36 @@
+{
+  "name": "Ma Un Giorno Zeus Tornò",
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "70a43800d36d83e54f6abc028f75b80ac11dbe91",
+  "culture_invariant_id": 658,
+  "sort_number": 693,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per giocare questa canzone gratis.) Infliggi 5 danni a un personaggio o un luogo a tua scelta.",
+  "card_identifier": "222/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=e4fc360da3d40e0874e30f8b2997058aadbca0d2848659cef7ff03eca00ecaf0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=ea7d7080de9e183df5e1b8c0f6e4c675837cd77dd5b8d5c4350678f1f1887d98"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=fc8cdf98b862cd47fe359b02eabcb1de25a0bade15e963813a0f43a0f62e1e11",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

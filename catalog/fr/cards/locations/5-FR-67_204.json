@@ -1,0 +1,37 @@
+{
+  "name": "Palais de Glace d'Elsa",
+  "subtitle": "Forteresse de solitude",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "bf43fd7fefe1c9af6f81222844d80806e88a2f61",
+  "culture_invariant_id": 1023,
+  "sort_number": 1031,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "HIVER ÉTERNEL Lorsque vous jouez ce lieu, choisissez un personnage adverse épuisé. Tant que ce lieu est en jeu, ce personnage ne se redresse pas au début de chacun des tours de son propriétaire.",
+  "card_identifier": "67/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=4e9f91a762b36a3cc587bfe3413da37f8c801cc57df8f30cb0e1a787ed01cbe1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=5956834c10e2ec34b2613ea5a54e33fc52f6622ff7b6d4dbf37107ef67f67de9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=9d95582d65ef517a89ff59ff91c8de9a21e550b79c7fc376c2ee4989c36b85f7",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

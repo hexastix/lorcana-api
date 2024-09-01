@@ -1,0 +1,42 @@
+{
+  "name": "Flotsam & Jetsam",
+  "subtitle": "Entangling Eels",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Brian Kesinger",
+  "deck_building_id": "c63d1e30731763bca52de192578836dccb9a5fb1",
+  "culture_invariant_id": 735,
+  "sort_number": 745,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift: Discard 2 cards (You may discard 2 cards to play this on top of one of your characters named Flotsam or Jetsam.) (This character counts as being named both Flotsam and Jetsam.)",
+  "card_identifier": "44/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=b47a46ca9b42de746531594bdab7d0f3f7a49b63583089519d1d17a6d01c296c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=8bba9d74f91dfa8260f8f8a8718aabaef71d1bdc685d276a39eb62dd7266fa8d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=513ad29e295570477140dac1b01bb77e7decfd06e6156234f441b258eda78855",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

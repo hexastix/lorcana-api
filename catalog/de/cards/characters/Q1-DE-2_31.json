@@ -1,0 +1,40 @@
+{
+  "name": "Bruno Madrigal",
+  "subtitle": "Unaussprechlicher Wahrsager",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Brian Kesinger",
+  "deck_building_id": "565d29c1eb50c275e9386694241d3a081a52d866",
+  "culture_invariant_id": 915,
+  "sort_number": 935,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verstrickt",
+    "Verbündeter",
+    "Madrigal"
+  ],
+  "flavor_text": "Seine besonderen Talente haben sich bereits als sehr nützlich erwiesen.%—Ursula",
+  "rules_text": "DÜSTERE PROPHEZEIUNG Wenn du diesen Charakter ausspielst, legen alle gegnerischen Mitspielenden die obersten 3 Karten ihres Decks auf ihren Ablagestapel.",
+  "card_identifier": "2/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=33d194ebd6d7a58a3f4095cb01e80278862783aaabd6913daaa1c3d342361c03"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=dab5fae07e5db5b17ab84e33494c76f1ac95f4e5bf0b799e4a8e25edba699420"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

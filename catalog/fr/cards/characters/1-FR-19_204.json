@@ -1,0 +1,42 @@
+{
+  "name": "SÉBASTIEN",
+  "subtitle": "Compositeur à la Cour",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "1fa28a7f4b2398c8cc72ea121b01ac0cccdda582",
+  "culture_invariant_id": 19,
+  "sort_number": 19,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Je suis fait pour composer une symphonie, moi, pas pour jouer les nounous avec cette tête de pioche.",
+  "rules_text": "Mélomane 4 (Ce personnage est considéré comme ayant un coût de 4 pour chanter des chansons.)",
+  "card_identifier": "19/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c49ea7b6aa8fa316880814a524a6ef6e20027c28d98ecff9b27d16b8ff23d906"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f0082da8b9d876ff182c58250de10a78a41e6b4496ca8d87c03a9261b08ec953"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=77ca24e2e45615b38eeabacaeae500b1d5b00efa463db3026f533904aa34c10f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

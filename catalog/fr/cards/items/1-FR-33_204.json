@@ -1,0 +1,35 @@
+{
+  "name": "LANTERNE",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Eri Welli",
+  "deck_building_id": "571543865d85c8113b9baffbbb8680a892462cbe",
+  "culture_invariant_id": 33,
+  "sort_number": 33,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Une nuit par an, les lanternes illuminent le ciel, signes d'espoir et d'amour.",
+  "rules_text": "LUMIÈRES D'ANNIVERSAIRE – Le prochain personnage que vous jouez durant ce tour coûte 1 de moins.",
+  "card_identifier": "33/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=1bb2bc1d939dbaf6be061866aa49470e9e59ab7b47ffbe8cc9b3f35783c26667"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=176539002d1098921e7141b0632d560ab10c905f4d9b39816b0becfbb8911e2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=b2fbce1999ff3ad8e7e7951331edc0e420f019c5ea60d33701c7dd0bf555c4c0",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

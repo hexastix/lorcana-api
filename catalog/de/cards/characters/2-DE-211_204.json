@@ -1,0 +1,44 @@
+{
+  "name": "Gräfin Tremaine",
+  "subtitle": "Gebieterische Königin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
+  "culture_invariant_id": 427,
+  "sort_number": 451,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurkin",
+    "Königin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Gräfin-Tremaine-Charaktere auszuspielen.) ENDLICH AN DER MACHT Wenn du diesen Charakter ausspielst, wählen alle gegnerischen Mitspielenden je einen ihrer Charaktere und verbannen ihn.",
+  "card_identifier": "211/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=54562399f0b3360520d8d85a502e509a8f5a84f0fc0ec814d798fc3b3c5a8626"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=b6197888c34470db9865f08d77c8d8dc699fef0411e6296636d521099a3f3f16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=1b9b666830a20eb835d638b80046907ab2ac4f3d6c34621018ce8c57e9ea73f3",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

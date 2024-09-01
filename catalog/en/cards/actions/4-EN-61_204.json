@@ -1,0 +1,38 @@
+{
+  "name": "Second Star to the Right",
+  "rarity": "RARE",
+  "ink_cost": 10,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 752,
+  "sort_number": 762,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sing Together"
+  ],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Lead us to the land we dream of",
+  "rules_text": "Sing Together 10 (Any number of your or your teammates’ characters with total cost 10 or more may to sing this song for free.) Chosen player draws 5 cards.",
+  "card_identifier": "61/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=e2c4fe35e569a1afca6e526a5de51182a4ae5fe347ef692310204982ae634494"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=96bbfc1b65186f26b9cffdfad36932a3db052bb86a6b50c86c406d294673c217"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=96005e640d90adcc67ff39cbb0407d20620717a92276e31b39c854e99a1f3742",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

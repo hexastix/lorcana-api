@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Scrappy Cub",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Agnes Christianson",
+  "deck_building_id": "b436bb8ce948a9539f8ff990a98d60b02b0a1b99",
+  "culture_invariant_id": 559,
+  "sort_number": 594,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "He’ll join the hunt for lore after he’s had a quick snack.",
+  "rules_text": "",
+  "card_identifier": "123/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=ab03ec1b707f4914f07a22e64b4e58668b2c64159cd0336d9098abc0a6052d2a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c6a609edd4a4c1fc96ec8a12d045553225bff061cc79de2ea195bad56866596e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=244dd18a84f24a669266edcb5c9d83108588fc5ed176a4ba355957b63190d202",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

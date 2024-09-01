@@ -1,0 +1,38 @@
+{
+  "name": "La Lampada",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Ever Galvez / Anna Stosik",
+  "deck_building_id": "c3691753bf9b5b6ef060569d9c6f8fa67de42e66",
+  "culture_invariant_id": 500,
+  "sort_number": 535,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho in gioco due copie di Jafar – Ladro della Lampada e una copia di Genio – Amico Solidale. Se uso l’abilità della mia La Lampada Bene o Male, che cosa posso scegliere di fare?\r\nA: Se hai in gioco un personaggio chiamato Jafar quando usi l’abilità Bene o de La Lampada, devi pescare 2 carte. Non puoi pescare più carte, anche se hai altri personaggi Jafar in gioco. Se hai in gioco un personaggio chiamato Genio, devi far riprendere in mano al suo giocatore un personaggio con costo 4 o inferiore. Nessuno dei due effetti è opzionale, e se hai in gioco sia un personaggio chiamato Jafar che uno chiamato Genio, devi svolgerli entrambi.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "BENE O MALE Esilia questo oggetto — Se hai un personaggio chiamato Jafar in gioco, pesca 2 carte. Se hai un personaggio chiamato Genio in gioco, fai riprendere un personaggio a tua scelta con costo 4 o inferiore in mano al suo giocatore.",
+  "card_identifier": "64/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=d46bdb146f335a21d96ad8378e14d2005a945481358d36f9114e702236791f7d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=2328e5a359dec77a2d009fc6b304b65ce8f76ab958597cb64f0ebd022e9af35f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=d3c0aff6ff57b7a9e77ed12ddba1beea66a0152127cbf3a1c9237c13e915d566",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

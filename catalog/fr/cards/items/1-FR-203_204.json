@@ -1,0 +1,33 @@
+{
+  "name": "TABARD DE MOUSQUETAIRE",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Dav Augereau",
+  "deck_building_id": "1dd9513f5330b41950fea67f21d19e751b9551a2",
+  "culture_invariant_id": 203,
+  "sort_number": 203,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Rien de tel qu'un mousquetaire solitaire.",
+  "rules_text": "UN POUR TOUS, TOUS POUR UN Chaque fois qu'un de vos personnages avec Rempart est banni, vous pouvez piocher une carte.",
+  "card_identifier": "203/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=59c9162016d2ca760745ec9f09652c3f7ff85fe8ae89d6d0808fc24d042f8bb9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=f17df0e47952b0afe03d0cf0b5426a8109cbde48efba302e2346c41ffb875de0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=877244082d579adfb9080bac9a7d4e1c372183f7c3cf14bdfc235dec8b926f9c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

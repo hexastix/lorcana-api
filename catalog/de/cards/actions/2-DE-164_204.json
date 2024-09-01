@@ -1,0 +1,33 @@
+{
+  "name": "Abschuss",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "f7c91fefc9c39de1eb3c3dbcd95ef44db5e47f38",
+  "culture_invariant_id": 380,
+  "sort_number": 404,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Bereitmachen... Zielen … Kokosnuss?",
+  "rules_text": "Verbanne einen deiner Gegenstände, um einem Charakter deiner Wahl 5 Schaden zuzufügen.",
+  "card_identifier": "164/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=ab7492b9b56cd085ed5c65c54ec7a2a06b86d305018d111b6857a39f8eae9fd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=69654a5d8de05275ddc63de9bce6221049f9aab194f7dd45b32e6c085d37cb7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=a9ce21211823c847dd0b16a4c979c7cfdd2d9b66fef99b6d0f639f521232c114",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

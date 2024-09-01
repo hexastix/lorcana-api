@@ -1,0 +1,41 @@
+{
+  "name": "MONSIEUR MOUCHE",
+  "subtitle": "Fidèle second",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kamil Murzyn / Eri Welli",
+  "deck_building_id": "6da7dcf840af520dd86dd608720bcfcb84825627",
+  "culture_invariant_id": 15,
+  "sort_number": 15,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Monsieur Mouche est une personne gentille et douce dont la vie consiste à réconforter et aider un vieux méchant malhonnête… euh du coup peut-on encore parler de gentillesse? — Peter Pan",
+  "rules_text": "",
+  "card_identifier": "15/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=6f957ac77573b5b725a7a30cb45cf266a2a3385000a96d6b0769946532a6ed80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=17d1dcfd4be48daa51b39c0fda8261f2833704ff50f2180bcdd98d5fb6d39819"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=d478b412a177a2430e3144853ed3f7af81a87ff09f53ce870b7cecf0d5034556",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

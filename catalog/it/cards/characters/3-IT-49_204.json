@@ -1,0 +1,48 @@
+{
+  "name": "Amelia",
+  "subtitle": "Il Tocco di Mida",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Lauren Levering",
+  "deck_building_id": "ef7cabaf8dc312d2e7dedf796b1297f7e1cbabaf",
+  "culture_invariant_id": 485,
+  "sort_number": 520,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho in gioco una Numero Uno e un Pawpsicle. Quando vado all’avventura con Amelia – Il Tocco di Mida quanta leggenda ottengo?\r\nA: Quando vai all’avventura con Amelia – Il Tocco di Mida, la sua abilità Tutta Mia ti fa scegliere uno dei tuoi oggetti e guadagnare leggenda pari al suo costo. Siccome Amelia ha 0 {L}, non ottieni leggenda dall’avventura per sé, ma soltanto dalla sua abilità. Quindi in questo esempio puoi scegliere se ottenere 1 o 7 leggenda.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Sento che i miei poteri aumentano quanto più mi avvicino al prezioso decino di Paperone!",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Amelia.) TUTTA MIA Ogni volta che questo personaggio va all'avventura, ottieni leggenda pari al costo di uno dei tuoi oggetti in gioco.",
+  "card_identifier": "49/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=725611111842d4cc553884bdf8ddc58c416b09ac75f84924a07c5e90a1dd7f1c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=393995c0830ec3c79c7938a62014b4683ab0254e153e3836306e04d62181e179"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=0736aa7b7b3782eccb044232d6d857cd7c89ece22a25e89d73ea1db3d801d146",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

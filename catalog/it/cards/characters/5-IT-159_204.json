@@ -1,0 +1,45 @@
+{
+  "name": "Merlino",
+  "subtitle": "Intellettuale Visionario",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jake Parker",
+  "deck_building_id": "bba8990971606047f1bc8e18917bc3d0f888d38b",
+  "culture_invariant_id": 1115,
+  "sort_number": 1123,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Mentore",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Merlino.) INTELLIGENZA SUPERSVILUPPATA Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, puoi cercare una qualsiasi carta nel tuo mazzo, aggiungere quella carta alla tua mano e poi rimescolare il tuo mazzo.",
+  "card_identifier": "159/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=0819cb23fd61fbfc2e028808715936c183faf91b7b83beba783d169974187fd5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=7123c51a4c8ee3f09df3deb969e33ca0a2ee91728be5b9377ca80316a2b9ccba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=28494c41223e96cc003c095f3dd84855a56077a7ede2f202f719dc95f0fb04ad",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=f1c1761d54317d77ad118c6dbc2ef62e0dd973fae0b745f81c58309975c39c90",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

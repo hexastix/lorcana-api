@@ -1,0 +1,40 @@
+{
+  "name": "Pacha",
+  "subtitle": "Emperor's Guide",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "45d674f51882c26ab667fbf028052879b9c0941d",
+  "culture_invariant_id": 1099,
+  "sort_number": 1107,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "HELPFUL SUPPLIES At the start of your turn, If you have an item in play, gain 1 lore. PERFECT DIRECTIONS At the start of your turn, if you have a location in play, gain 1 lore.",
+  "card_identifier": "143/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=77266e9e28f218c433e3beee2797ed044185455f1a98c40e4f2bada1a680fa0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=54647406dc53088fd29f8069118c1e33f8f2875a2ae3c298b22e054fd8c0fb9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=4c2bcb05cc0aa6e491b9817e841a17aeb8c8a94a28c055c8c5f0e77028c91c6c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

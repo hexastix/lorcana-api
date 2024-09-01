@@ -1,0 +1,38 @@
+{
+  "name": "Befuddle",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d9b6684b864d7b7c8687dfcd67cb58657046b9bb",
+  "culture_invariant_id": 62,
+  "sort_number": 62,
+  "additional_info": [
+    {
+      "title": "Errata - Card Text",
+      "body": "Printed text:\r\nReturn a character or item with cost 2 or less to their player's hand.\r\n\r\nUpdated text:\r\nReturn chosen character or item with cost 2 or less to their player's hand."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Never be afraid to have your mind boggled now and then.",
+  "rules_text": "Return chosen character or item with cost 2 or less to their player's hand.",
+  "card_identifier": "62/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=b1a1a97744f27b8608799404539b1a3807308e88ff2ef0d77bde97c897ba8e87"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=2108fd35b3105cf66031caa04a269797676c5d6d1489f59e8dc5394db0d42ec3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=0b02d75f5d1deedcf2a86a4af374f94919c11252e4ddaa5ee75e373f1ef496f9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

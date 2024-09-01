@@ -1,0 +1,41 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Lovely Lady",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "08f967d40b670a245bbb978cb87ee054ef5773f0",
+  "culture_invariant_id": 697,
+  "sort_number": 707,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Sweet Daisy, the fairest duck I ever met Each flaxen lock a rush of flowing gold Her bill the color of summer sunset Exquisite plumes, a wonder to behold",
+  "rules_text": "",
+  "card_identifier": "6/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=8e1df7571f8fd31eb3cb95272a7f55efa10af86befa858a4191131c7d53bb912"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=1116853b2e0d43e79f0ae5cc07c7c18fb85bd0d58d870b89a05130d99b83d528"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=16bc6dd61a263e2f20c312d95fb10d83447b727320c2536b57b1ebb10f778810",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

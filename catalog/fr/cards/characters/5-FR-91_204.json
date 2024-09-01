@@ -1,0 +1,41 @@
+{
+  "name": "Shenzi",
+  "subtitle": "Meneuse des hyènes",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Otto Paredes",
+  "deck_building_id": "a43275cadb3c2ca378ed736dd05c7340b53c39e7",
+  "culture_invariant_id": 1047,
+  "sort_number": 1055,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Hyène"
+  ],
+  "flavor_text": "",
+  "rules_text": "RAVIES DE VOUS AVOIR À DÎNER Ce personnage gagne +1 pour chaque autre personnage Hyène que vous avez en jeu. TIENS TIENS TIENS... Chaque fois que l'un de vos personnages Hyène défie un personnage ayant au moins un dommage sur lui, gagnez 2 éclats de Lore.",
+  "card_identifier": "91/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=45e5f1ca260258e27b60ea87ef6e38f1f076e8a2002060aa21e16af1c7187e71"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=43d66d892a61a505e81da0f0fc28da9476fd0f9e4191132a8dfc8edbf5de2cee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=f365ef2240b9e5070f7b03a680cb9719aaec2164193639ce6af0784c2846ae8b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

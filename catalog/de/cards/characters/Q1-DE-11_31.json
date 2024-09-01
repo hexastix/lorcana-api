@@ -1,0 +1,40 @@
+{
+  "name": "Gundel Gaukeley",
+  "subtitle": "Schattenhafte Hexe",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "de8a56862fd217ae3944c941190c168deb5fa9ba",
+  "culture_invariant_id": 924,
+  "sort_number": 944,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verstrickt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Ihre skurrilen Zaubersprüche sind kaum mehr als Lappalien im Vergleich zu meinen eigenen. Dennoch hat sie ihren Nutzen.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "11/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=8bd7436eb4cb52265e5e115b42226ced3a8014b209279ece02ce4f47ce3b56f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=b91fc28a43b109b903aaef02b1ade6769ab068cd69b78f4b521f9a5cc88470db"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

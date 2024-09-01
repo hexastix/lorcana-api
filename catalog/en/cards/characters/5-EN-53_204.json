@@ -1,0 +1,41 @@
+{
+  "name": "Magica De Spell",
+  "subtitle": "Cruel Sorceress",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "7edcac0597ed1f8c60c37804180011de044631fa",
+  "culture_invariant_id": 1009,
+  "sort_number": 1017,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "PLAYING WITH POWER During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard.",
+  "card_identifier": "53/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=88b54823efa05d01e26c45a8edb9b0a46689f09d83dd5f63f11badd2f9d6af2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=e4716183966a659518f959639374f07873b80ae35b8bc4776a60abe2b61e6a8b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=ca54d28e49e9cd4b907d6370a26151187a817ccaa21fa2ee489b7d6810661b17",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

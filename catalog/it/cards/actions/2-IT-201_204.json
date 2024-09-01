@@ -1,0 +1,36 @@
+{
+  "name": "Potente Come un Vulcano Attivo",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jared Nickerl / Alex Accorsi",
+  "deck_building_id": "7a794400c5430b77a9bd93dc9c73e7ae38d73f5e",
+  "culture_invariant_id": 417,
+  "sort_number": 441,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "La foresta è calma%Ma nasconde in sé%Mille e più minacce",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Infliggi danno a un personaggio a tua scelta pari al numero di personaggi che hai in gioco.",
+  "card_identifier": "201/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=d24546d4b6765c426eedf156480cffd0eff870c285c5097f94552ca5158933f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=f62202d091b1f9dc04f145f8dd5469dc3a0a857fe9d3f5e17fe7b0840184cf1c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=38f54be689dec7b83dbbb9a3ef6b8d2ecaabd6774114261ef9f1d419475fa9d0",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

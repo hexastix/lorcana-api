@@ -1,0 +1,43 @@
+{
+  "name": "Kida",
+  "subtitle": "Guerrière royale",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "aa90cc579bd99086d5e1d845fb0cdc765a5c1e27",
+  "culture_invariant_id": 613,
+  "sort_number": 648,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Elle en avait vu des choses étranges, mais jamais rien de tel.",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il vous défie, un personnage adverse doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "177/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b88f528bfa0e3a0f4f7b944101dad1df7763d4d991048958927e81bce75ce03e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b6353f76df9f74e8649812316ecb0e59b617686fa150a44364b8c060a6eaca5f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=a5e8665e507ce294689d2df597d48ed10a644e3aeea8244f26080e64de56bfb7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

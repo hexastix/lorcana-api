@@ -1,0 +1,40 @@
+{
+  "name": "Sergeant Tibbs",
+  "subtitle": "Courageous Cat",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cory Godbey",
+  "deck_building_id": "797c561f7aae7add36d914600e9d79941726236f",
+  "culture_invariant_id": 124,
+  "sort_number": 124,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Yes, sir. Righto, sir. Right away, sir!",
+  "rules_text": "",
+  "card_identifier": "124/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=ee20bc23f495d0a8c53abdca81650f5dd25d6a7989072b87f32114364bc576ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=e080de88447d44dac8ef33230892fdbe12e5eb2fd967256212303c5db92d99c9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=bf73d96b42fc76ccb60d38dff69da99e286853d05a6f79a2da11578dc879e104",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

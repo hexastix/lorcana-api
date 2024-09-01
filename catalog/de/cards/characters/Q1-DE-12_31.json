@@ -1,0 +1,39 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Raunende Taucherin",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "4ee51d93e13d4ebe640eb44752aa430fb7dd3afa",
+  "culture_invariant_id": 925,
+  "sort_number": 945,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verstrickt",
+    "Heldin"
+  ],
+  "flavor_text": "Die erste — und beste — meiner verstrickten Glimmer.%—Ursula",
+  "rules_text": "VERWIRRENDE PRÄSENZ Wenn du diesen Charakter ausspielst, verlieren alle gegnerischen Mitspielenden je 2 Legenden.",
+  "card_identifier": "12/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=8c76529cbbcd405f04e3302ecda23c658336263ddec5430c18cf00241f21b49c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=501b7258c7dcc0702018fa7e158dd77da54dc739db8acd8d1ab6b5a17bfacb21"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

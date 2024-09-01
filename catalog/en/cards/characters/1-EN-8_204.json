@@ -1,0 +1,40 @@
+{
+  "name": "LeFou",
+  "subtitle": "Bumbler",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Andrey Chumak",
+  "deck_building_id": "224000dbb0cebd90c025c1855cfddd5fe747691f",
+  "culture_invariant_id": 8,
+  "sort_number": 8,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "You need a good toady to be a proper bad guy.",
+  "rules_text": "LOYAL If you have a character named Gaston in play, you pay 1 less to play this character.",
+  "card_identifier": "8/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=0a6c546f008489becc2862e0d8da1ef7ff12b38893fe3f8cce0cc367b5e891cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=e007be3eb442ccd152b3fab96f3e5bec25c3bb0a55531bf9eb64bb2296027a5b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=91cebdd9f39dca6f2bc4a09cdb01b635bf1c07ff1cf3ef48f5d79edf4dc16dc3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

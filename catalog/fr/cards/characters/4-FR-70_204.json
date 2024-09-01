@@ -1,0 +1,43 @@
+{
+  "name": "Diablo",
+  "subtitle": "Messager dévoué",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "bd36724ac6baa50386ab4443e026f5d0e787b2cf",
+  "culture_invariant_id": 761,
+  "sort_number": 771,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter: Défaussez une carte Action (Vous pouvez défausser une carte Action pour jouer ce personnage sur l'un de vos personnages Diablo.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) PRENDS TON ENVOL Tant que cette carte est épuisée, chaque fois qu'un adversaire pioche une carte durant son tour, vous pouvez piocher une carte.",
+  "card_identifier": "70/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9a6167f90164b0aae299efe12019dda09eaad4bf06a81efe6b5283ff90427c15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=1156879536211d8ed1f1345e6219734fdf3dfd728762c8b523ba167d5bf85c7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=d147730423dfcb0befadc06ee50a92790c66a0086930f398e3426fc8330e9d26",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

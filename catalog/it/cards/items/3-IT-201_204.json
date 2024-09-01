@@ -1,0 +1,33 @@
+{
+  "name": "Mappa del Pianeta del Tesoro",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "1c88a3b0ee2cffafb524bd6643be8a7150704beb",
+  "culture_invariant_id": 637,
+  "sort_number": 672,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Signori, questa va tenuta sotto chiave.%—Capitano Amelia",
+  "rules_text": "CHIAVE DEL PORTALE — Paga 1 in meno per per giocare il tuo prossimo luogo per questo turno. MOSTRARE L'ENTRATA Paga 1 in meno per spostare i tuoi personaggi in un luogo.",
+  "card_identifier": "201/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=c7110b4723f2e8d66b346bbc79fbad0ece3f0a86ac080de7520396945e2c4c27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=6a87decb196f1b19ce43770c4cd727b5fb047135211af11ae95afafdbfce99e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=ecd1b12595cab4e3219b92a436b7ae2f0ef5790de5bdecb668b5e61d5bf108f4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

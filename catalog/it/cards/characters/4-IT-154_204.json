@@ -1,0 +1,40 @@
+{
+  "name": "Scuttle",
+  "subtitle": "Esperto in Umani",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "31704def1d802226e01db38740244b78a7210207",
+  "culture_invariant_id": 845,
+  "sort_number": 855,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Wow. Siete stati fortunati. È una cosa molto particolare.",
+  "rules_text": "FATE UN PO' VEDERE Quando giochi questo personaggio, guarda le prime 4 carte del tuo mazzo. Puoi rivelare una carta oggetto e aggiungerla alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "154/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=77332746ff19e5dc5e8b32d81fa502e73c0404f1b0771f373f473cc265ef30d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=4a53e0c719d17fc4ccec0e58a54a17d21f11493715a046bce2b18897d416180a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=80a5869faf2f522358812aff74d3e7d29afd3ef3a4ee1647b6803c73489350a5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

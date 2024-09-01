@@ -1,0 +1,44 @@
+{
+  "name": "Clarabelle",
+  "subtitle": "Au sabot léger",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jennifer Park / Livio Cacciatore",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1040,
+  "sort_number": 1048,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Clarabelle.) GARDER L'ALLURE À la fin de votre tour, choisissez un adversaire. S'il a plus de cartes en main que vous, vous pouvez piocher pour en avoir autant que lui.",
+  "card_identifier": "84/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d83c99b0c93ab368ef92f4be4d52161285ac685589e07140db15b7372be2970e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=b95e811110fc7fcdb32398a107da0d428c382b01f7eb617cb239263ef26e4599"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d12b87787dc7e7b72e0618ab5f730490644806a4ccad5751222f17bfbe51dbef",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d5e0bd38f6189d165fd6e89052fb0ed6e21cacbd976b18354ff69184fd76f04b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

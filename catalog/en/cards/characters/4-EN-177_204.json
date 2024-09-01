@@ -1,0 +1,40 @@
+{
+  "name": "Chi-Fu",
+  "subtitle": "Imperial Advisor",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "4fe35d3556761c5dcb31d03ea92e405eb1f8c27e",
+  "culture_invariant_id": 868,
+  "sort_number": 878,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "You, there! Keep that fighting away from here! It is imperative that I write to the Emperor.",
+  "rules_text": "OVERLY CAUTIOUS While this character has no damage, he gets +2.",
+  "card_identifier": "177/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=74e8a6116c7e2009ab79d216a275ce09f0ab57b77228bffee57f0052f0192a63"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=14d746132cbef4f6e25f8bfebf69363c4107a83ccb9502371ad19b5d768dfda4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=66e2c3adaae19c7e9bd221e6673a5c58353d35b32265b6524168c533711cf903",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

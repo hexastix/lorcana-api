@@ -1,0 +1,42 @@
+{
+  "name": "Das Schloss der Königin",
+  "subtitle": "Spiegel-Kammer",
+  "willpower": 7,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Matthew Oates",
+  "deck_building_id": "9ab00d3ccf3aa6a5a6653a6a70340dd4cfdf1666",
+  "culture_invariant_id": 503,
+  "sort_number": 538,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Zu Beginn meines Zuges habe ich drei Charaktere an dem Ort Das Schloss der Königin - Spiegel-Kammer. Kann ich mich dazu entscheiden, anstatt drei Karten nur zwei mithilfe der „Den Spiegel Benutzen“-Fähigkeit zu ziehen?\r\nA: Ja, kannst du. Für jeden Charakter an dem Ort kannst du zu Beginn deines Zuges individuell entscheiden, ob du eine Karte ziehst, oder nicht.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wer den Spiegel besucht, kann zwar die Frage aussuchen, aber nie die Antwort.",
+  "rules_text": "DEN SPIEGEL BENUTZEN Zu Beginn deines Zuges, kannst du für jeden deiner Charaktere an diesem Ort, 1 Karte ziehen.",
+  "card_identifier": "67/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=b5545d39704b92634e4ae0c9401c27704a39fbe71ab65ef3453328c6b46dbc2c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=2cb20f1956286c41d48305d11a2a137fb4f472f5b59958f271fea5252cb35d0a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=8a99d064f55e2a906a1c81e00725b8177086d1cef78c41ba8fecc6b69ac1b005",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

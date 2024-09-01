@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Abenteuerlustiger Nachwuchs",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentin Palombo",
+  "deck_building_id": "f366b5591bf174421106ad9ef1b368decafc6ace",
+  "culture_invariant_id": 1081,
+  "sort_number": 1089,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "ICH LACHE DIR INS GESICHT Wenn du diesen Charakter ausspielst, gib einem Charakter deiner Wahl in diesem Zug +2.",
+  "card_identifier": "125/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=ac51908a6b0b8b25486d7b89cbaaa9f993d6efb59ef9eb028a575c342a92799b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=121a2a9ec6e23aef6f794da9c5c8105db3658526b56488dea58edf8a4b9c0eec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=12ba27dbf97de0d3b7e71cb5a71459f1d4e8f682118252a403a07df1d6af27ab",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

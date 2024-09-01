@@ -1,0 +1,36 @@
+{
+  "name": "Flieg ins Glück",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Eva Widermann",
+  "deck_building_id": "58776f4069675bc00ffc50d5d4cc8aaf7b95b0fc",
+  "culture_invariant_id": 349,
+  "sort_number": 373,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Wendig. (Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "133/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=79f6d731c0d153d82264668c7f891ef938532107bce51699fad58bcaefea4fc9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=49d7dbef06bf917ce49f5806107fd21a0c1dabda51b20fbe1ec0527eb53eff38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=7dd0e7d65161bdf0e234201b2abab02eea6a62e3f96a79e25905770924465136",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

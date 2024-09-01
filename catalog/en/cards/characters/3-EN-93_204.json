@@ -1,0 +1,40 @@
+{
+  "name": "Zazu",
+  "subtitle": "Steward of the Pride Lands",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ron Baird",
+  "deck_building_id": "a032ed20032f8c710c904a4c2acaa648433e35c1",
+  "culture_invariant_id": 529,
+  "sort_number": 564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "I’d be lyin’ if I said I ran the place, but welcome to the Pride Lands all the same!",
+  "rules_text": "IT'S TIME TO GO! While this character is at a location, he gets +1.",
+  "card_identifier": "93/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=2d91459e56d93b550204252af38c00547689b60bd31acf2d097aece5125d8ac6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=39bdc91c1280e4ef322218ce8fbfdf2f43a04468137ceffc94407587ce263970"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=7456c8f587d6ba1e1a4af31147993110433e21a418b159b6928702b56242b6f4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

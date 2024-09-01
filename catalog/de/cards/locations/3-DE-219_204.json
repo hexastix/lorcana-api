@@ -1,0 +1,38 @@
+{
+  "name": "Belles Zuhause",
+  "subtitle": "Maurices Werkstatt",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 1,
+  "author": "Pablo J. Rivera",
+  "deck_building_id": "4b02e8ae98da7815714d4cac86d24cb2bcc76501",
+  "culture_invariant_id": 655,
+  "sort_number": 690,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LABORATORIUM Solange du mindestens einen Charakter an diesem Ort hast, zahlst du 1 weniger, um Gegenstände auszuspielen.",
+  "card_identifier": "219/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=f3bafe26c4ec7cb0821a82b346e54607842310b79758be8106b003559579a096"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=6dfbf5ae50ccbf2424948d136c42887e0f46cfb068a725168ff4a8bb02a45d86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=50f1b8ce86bd57c5d33ec140f96fb184957e0d3e173df483857c032ef81d4494",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

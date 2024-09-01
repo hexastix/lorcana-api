@@ -1,0 +1,41 @@
+{
+  "name": "TRITON",
+  "subtitle": "Roi des Océans",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "b02a117d318568eba0e9424b437a3c859e60618a",
+  "culture_invariant_id": 160,
+  "sort_number": 160,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Roi"
+  ],
+  "flavor_text": "Parce que je l'ai dit! N'est-ce pas suffisant comme raison?",
+  "rules_text": "",
+  "card_identifier": "160/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=d7ff4913e6146b57b182f58e2244cca01a0d882f0bb60c53920bfbf0648b3580"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=8b97251602db019f5749f5271d0502d6b550d726075d472b55e521999099bd63"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=90d425e94a0cf3d7b64f85a5662ac5135fbe01af32b5f700380c8488a91cc69e",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

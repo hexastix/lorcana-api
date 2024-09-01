@@ -1,0 +1,44 @@
+{
+  "name": "Clarabelle",
+  "subtitle": "Light on Her Hooves",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jennifer Park / Livio Cacciatore",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1040,
+  "sort_number": 1048,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Clarabelle.) KEEP IN STEP At the end of your turn, if chosen opponent has more cards in their hand than you, you may draw cards until you have the same number.",
+  "card_identifier": "84/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=6d5143f84891db5591fb8b187a4b2309c1ce286769374fd46ae2c63ce9721fb0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=ad4513a72c8ec93a85f34ccb573eb2e54805a56565f12e2d2d3fee0dbef0f782"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d12b87787dc7e7b72e0618ab5f730490644806a4ccad5751222f17bfbe51dbef",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d5e0bd38f6189d165fd6e89052fb0ed6e21cacbd976b18354ff69184fd76f04b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

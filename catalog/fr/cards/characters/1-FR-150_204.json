@@ -1,0 +1,41 @@
+{
+  "name": "MALÉFIQUE",
+  "subtitle": "Sinistre visiteuse",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Nicholas Kole",
+  "deck_building_id": "adecc4b6ee1d237ebac87d8e0f1e47f2dd689564",
+  "culture_invariant_id": 150,
+  "sort_number": 150,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "La princesse, en grandissant, aura la grâce et la beauté. Chacun l'aimera et lui sera dévoué. Mais ma volonté est telle qu'avant l'aube de ses seize ans, elle se piquera le doigt à la pointe d'une quenouille.",
+  "rules_text": "",
+  "card_identifier": "150/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=eb5755edb331789237710b9b5f7649ab721aaaa3b586a40cfb4276cfd27209c1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=0305b782c2dd4aefda7d3b39febc82a3c1b597418412aab354b94701cbaff553"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=252090c9d14cc08a34fe3f981ff2ee8118f664605ff4198dfb3b7b7270a52e11",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

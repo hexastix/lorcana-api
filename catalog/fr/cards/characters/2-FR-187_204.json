@@ -1,0 +1,40 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Instructeur d'archerie",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cristian Romero",
+  "deck_building_id": "b7376a880042a6d1090a8b02680975f23786dc0a",
+  "culture_invariant_id": 403,
+  "sort_number": 427,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Apprends ce qu'il faut faire, puis apprends à le faire sans réfléchir.",
+  "rules_text": "LEÇON DE TIR À L'ARC Lorsque ce personnage est envoyé à l'aventure, vos personnages gagnent Insaisissable pour le reste de ce tour. (Ils peuvent défier les personnages avec Insaisissable.)",
+  "card_identifier": "187/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=4903b9cae506d7109e8e3873653c240b1a24bb6aec8f62956b815aaae094d881"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=359b3e0e354aa125ff941a1e65e844ef267b34d961a5f134d31a7d067f5ac219"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=d040206cf9e365c202e64e30a79b79db39ea97152516883819de5799d10803f0",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Hercules",
+  "subtitle": "Wahrer Held",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Marcel Berg",
+  "deck_building_id": "aec8753f7f97cb51feeedf58b45f27661b18c44e",
+  "culture_invariant_id": 181,
+  "sort_number": 181,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Jetzt musst du's zugeben: Das war ziemlich heldenhaft.",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "181/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=5bffee7b886ae0eaa647d1a91db75961a0c556aebb493cf467c6062623792fa5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=c89e913c94d35be543321011f48d29ea1bd5cf15f26c7da73978d40d6fc0f806"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=4101a5dd36eee162c3d6d7a6c92b37045f4ac29ef1515e6edcb1b93df46b6cb9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

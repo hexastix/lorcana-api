@@ -1,0 +1,35 @@
+{
+  "name": "Der Boss ist doch der Held",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "9ff06b2f3d099b1b25c66e78bb07316465d065f7",
+  "culture_invariant_id": 499,
+  "sort_number": 534,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Sag es gleich, soll’s denn sein?",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Schaue dir die obersten 5 Karten deines Decks an. Lege sie anschließend in beliebiger Reihenfolge auf dein Deck und darunter. Sammle 1 Legende.",
+  "card_identifier": "63/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=c412940b2cc58423cc70be2847e91d79e860fb73fd4a0d61e0d1ba76ee948abe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=7b797f55fe32cb50726262485d26b151cab7c52859de46e920b39ddfa8d56aa9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=b2be06dd7c8e9efbbe12547a96d48ca2c9afc8427a2a51738d24baa47769e0fb",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

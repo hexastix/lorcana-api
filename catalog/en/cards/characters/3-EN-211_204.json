@@ -1,0 +1,42 @@
+{
+  "name": "Morph",
+  "subtitle": "Space Goo",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "7224e6e62fbce5a57e8680667aef2f012bf27b3b",
+  "culture_invariant_id": 647,
+  "sort_number": 682,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "MIMICRY You may play any character with Shift on this character as if this character had any name.",
+  "card_identifier": "211/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=23b1ead5667a977493bec5d1288916e827f62360d67115ae53abab31f0d20ba2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=b2e324a7b25e3008e43bd3da3871a6b0ee93d93377235372975d4c6988973ed3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=b256e61d11797738dfe4587e8d7d484fe8cfd5b7d2c80ab4980d8d8f829ae56c",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

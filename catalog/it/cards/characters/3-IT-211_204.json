@@ -1,0 +1,42 @@
+{
+  "name": "Morph",
+  "subtitle": "Blob Spaziale",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "7224e6e62fbce5a57e8680667aef2f012bf27b3b",
+  "culture_invariant_id": 647,
+  "sort_number": 682,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Alieno"
+  ],
+  "flavor_text": "",
+  "rules_text": "IMITAZIONE Puoi giocare qualsiasi personaggio con Trasformazione su questo personaggio, come se avesse qualsiasi nome.",
+  "card_identifier": "211/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=0772d86ecb53461afe54de83af505cda131c48f62652892ce75ca8bc016de845"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=5ddeb7453b86a5f077d4f9ff24bea506c1267d60e1e9e97ebf7daaecb2b81783"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=b256e61d11797738dfe4587e8d7d484fe8cfd5b7d2c80ab4980d8d8f829ae56c",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

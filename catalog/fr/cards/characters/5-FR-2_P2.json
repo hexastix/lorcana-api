@@ -1,0 +1,44 @@
+{
+  "name": "Kristoff",
+  "subtitle": "Garde-rennes",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e249ebb7a0862363fa2c8ea6e2d6b7a453b278a5",
+  "culture_invariant_id": 1181,
+  "sort_number": 1189,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "CHANT DU TROUPEAU Jouer ce personnage vous coûte 1 de moins par carte Chanson dans votre défausse. Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "2/P2 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=eda5360ff970a2cd854010fcd6875cd7f175f2bbad5743dbfea62544a1af0d9e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=997fbdd8d2087e04755c3c1bb4a5f13a277379fa626f11e55957efd4596ad225"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=264bc87a665973ba59bf9e2d628a127bdf2add1939773c5d7eeaa9ae68805606",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

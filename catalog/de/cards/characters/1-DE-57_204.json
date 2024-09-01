@@ -1,0 +1,41 @@
+{
+  "name": "Mme. Kommode",
+  "subtitle": "Belles Vertraute",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "e8b7912c61ab4cfa9b8e401d6d8cf06846c4f12a",
+  "culture_invariant_id": 57,
+  "sort_number": 57,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "Wenn man einfach Haute Couture besitzen muss.",
+  "rules_text": "",
+  "card_identifier": "57/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=8b7c58cf696b0f3cdef151a8a5dc80c390d51cf9e302be2680efd7869a535336"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=86654d0e3193287d40c7c79f55074a557023d6b79eed1bde1fb9182b848ce474"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=0c4fd7a074e05b85d6b741c93468ac369d42afada62701a4f4ec4f565f7a6818",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

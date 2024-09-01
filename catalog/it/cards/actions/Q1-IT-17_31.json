@@ -1,0 +1,32 @@
+{
+  "name": "Scuffiare",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Javi Salas",
+  "deck_building_id": "e5316128daeff0be3b14de6b348d768b04cc8214",
+  "culture_invariant_id": 930,
+  "sort_number": 950,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Se hai 6 o meno , aggiungi le prime 3 carte del tuo mazzo al tuo calamaio, a faccia in giù. Se hai 7 o più , ogni giocatore avversario sceglie ed esilia uno dei suoi personaggi.",
+  "card_identifier": "17/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=d3890cf59297bf048183f4498b94299689abdda67f380b895ff1fe44edbc729d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=1da62e88ecb177c25ea10cb3a1a2b8ca04807d5d7c1adc66c7298514aca6ffaf"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

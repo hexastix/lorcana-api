@@ -1,0 +1,34 @@
+{
+  "name": "Retour de Bruno",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "491ba73c6014d66a41525858502fc4bf26828e36",
+  "culture_invariant_id": 717,
+  "sort_number": 727,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Là, j'ai raté quelque chose, je ne sais pas quoi, mais ça devait être important.",
+  "rules_text": "Reprenez en main une carte Personnage de votre défausse. Puis choisissez un personnage et retirez-lui jusqu'à 2 jetons Dommage.",
+  "card_identifier": "26/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=a7af017c98496dd118e76eee2b438def05f48803b63648663b0f7a1e6d3dc9a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=5d37084f438004547f21ce4a333a3c93e4c3e48276b15fd01587d0c815c556e1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=8518ffd56a50c949bf9433866ed528cafdb4a2320f7c1b356036f00ffb70ae8c",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

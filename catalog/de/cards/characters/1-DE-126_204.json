@@ -1,0 +1,44 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Brandgefährlich",
+  "strength": 8,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "92788505267291d061bce171dae43b361f5c9eca",
+  "culture_invariant_id": 126,
+  "sort_number": 126,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Impulsiv"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Gottheit"
+  ],
+  "flavor_text": "Die Flammen ihres Zorns sind Zeichen ihres Verlusts.",
+  "rules_text": "Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn möglich.)",
+  "card_identifier": "126/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=122ab0bf2c8a6d7ac581f85284ce2a810ae1c07e28c0417d7f3ae7afb729bdd9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=a055032561dbbfa8f5857c10daa857a94a821226284b809a663c0b7f7fbad46d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=00d8f01c547e4615fc7e0dda496d1c2f807afddc33bbbdb2cacab730c1c88b7e",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

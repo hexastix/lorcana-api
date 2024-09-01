@@ -1,0 +1,41 @@
+{
+  "name": "Billy Bones",
+  "subtitle": "Keeper of the Map",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Roger Pérez",
+  "deck_building_id": "d7d799fb79fd062f882454cc0fc3d4f41da3025e",
+  "culture_invariant_id": 540,
+  "sort_number": 575,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "He's after me chest, that fiendish cyborg and his band of cutthroats.",
+  "rules_text": "",
+  "card_identifier": "104/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=5cfefd402bb1fda210cb5a477fd64f1de5abf9e31804b2e8e988c296f92b010a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=c9c28ddcb83d363f003f7d8981578dd131aa183944cfd7eb53e4950ef657f5a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=d96663b7aed2803417961159b661f22b55941037bcd5a7fd37c72ba8a1a84ac8",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Rosen-Laterne",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "4f471ae492d30e74f2e140335be59db281b294d1",
+  "culture_invariant_id": 756,
+  "sort_number": 766,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Die verwandelte Rose machte kurzen Prozess mit der Wunde des Biests. Aber auch die sanfteste Magie hat ihren Preis.",
+  "rules_text": "GEHEIMNISVOLLE BLÜTENBLÄTTER , 2 – Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "65/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=ce484a7130699f0291c03997a75461b33540862f8a154755cc82776ec46262e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=58f9e85d8d454bd0f47dd5f8984b533bae4a639a7d16914567c540069b7f151b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=4654d6b4c49c16b547975a00d56dd1ec6115cd9291dd64f878ba5aa34345cc48",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

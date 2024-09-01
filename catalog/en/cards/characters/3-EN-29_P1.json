@@ -1,0 +1,45 @@
+{
+  "name": "John Silver",
+  "subtitle": "Greedy Treasure Seeker",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Kumatori Gaku",
+  "deck_building_id": "47e5c25af32615987611612bbee8871f3cb76552",
+  "culture_invariant_id": 687,
+  "sort_number": 698,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "I was never much good at games. Always hated to lose.",
+  "rules_text": "CHART YOUR OWN COURSE For each location you have in play, this character gains Resist +1 and gets +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "29/P1 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=3b26d44759071622e80fc205a0f56e18060ff7ae3350175150dc9e1eac5dc02e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=2252baecfff4bbbaac4c5b5caa64f0cf83eff2cf9a6a71170994ae639c28dfbe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=6757e8490d8cdf0585b07a58468fa24c3ca04c72d04ee5ed4fd9d7c139b675d5",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

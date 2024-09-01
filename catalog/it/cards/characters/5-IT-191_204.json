@@ -1,0 +1,42 @@
+{
+  "name": "Gongolo",
+  "subtitle": "Cavaliere Allegro",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "3a59888573730230b6c46d076009658727fb43a8",
+  "culture_invariant_id": 1147,
+  "sort_number": 1155,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Cavaliere",
+    "Sette Nani"
+  ],
+  "flavor_text": "",
+  "rules_text": "SCATTO VELOCE Durante il tuo turno, questo personaggio ottiene Sfuggente. (Può sfidare altri personaggi con Sfuggente.)",
+  "card_identifier": "191/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=838ae561f5aba237d8655c03cae1810b3d95416f3937783cd3f06637c37dc403"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=6f922b9f7b79e010dd18e9112fed06a29b09fb114ddcbfb8b9ba8e413b041cd5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=15310bc54f96505c46d79a98bab7b5d200c2847556009a63ae2f334c10d22838",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

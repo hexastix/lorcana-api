@@ -1,0 +1,42 @@
+{
+  "name": "Maui",
+  "subtitle": "Whale",
+  "strength": 8,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Sandara Tang",
+  "deck_building_id": "0fcf0e2feea7eeb8a66963a14505ba849931709b",
+  "culture_invariant_id": 550,
+  "sort_number": 585,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "flavor_text": "Always ready to make a splash.",
+  "rules_text": "THIS MISSION IS CURSED This character can't ready at the start of your turn. I GOT YOUR BACK 2 — Ready this character. He can't quest for the rest of this turn.",
+  "card_identifier": "114/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=352b753df8d6a9ce3884a55afeae3090e05aa40f169f4358946c17c5354605a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=51b20c245c2d637dbbf1e03fb8b56df2f65357b1837c4460199b152c7c91548f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=179faeaeafae9a6eb649e110cde30170ae195871ab975937f436bae4e9985cdc",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

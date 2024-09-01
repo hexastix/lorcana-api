@@ -1,0 +1,42 @@
+{
+  "name": "Scar",
+  "subtitle": "Tricheur vicieux",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "e36200725d9e116115b62410d83a714d9c837c7a",
+  "culture_invariant_id": 341,
+  "sort_number": 365,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) PAPA N'EST PAS LÀ POUR TE SAUVER Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous pouvez le redresser. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "125/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=61def504602f009f791e4fcf25c9c00e47a3663ba7db81a5b74484d1fc78f521"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=96c0583e90c3c468ead516ec0e8020c64c6bfc9a3dba9e6a485fffd6f0c09203"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a9602df47d3597bfe385d27efeb585875b072f565283587af8e1abe4505a0d81",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

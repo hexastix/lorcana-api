@@ -1,0 +1,44 @@
+{
+  "name": "Kida",
+  "subtitle": "Protector of Atlantis",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 642,
+  "sort_number": 677,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Kida.) PERHAPS WE CAN SAVE OUR FUTURE When you play this character, all characters get -3 until the start of your next turn.",
+  "card_identifier": "206/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=23000e9c93f87eadc6c69fce5785d56a71a323b00d06a7bc18663d46a9a1ca0d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=a781205a06a18dee55f7e6d987541d191bfa988b105982db82d4c22d9057433b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=ca42b88b822dd1ac1389688d3acc0d8a9b01f00b2d70985bebc094663546ed57",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

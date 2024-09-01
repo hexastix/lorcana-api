@@ -1,0 +1,35 @@
+{
+  "name": "Endors-toi sans peine",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Linh Dang",
+  "deck_building_id": "2e42cd9c7fabd5179439829be568bfd49bf41ac9",
+  "culture_invariant_id": 1085,
+  "sort_number": 1093,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Mais il se fait tard",
+  "rules_text": "(Vous pouvez un personnage coûtant 7 ou plus pour chanter cette chanson gratuitement.) Redressez tous vos personnages. Ils ne peuvent pas être envoyés à l'aventure pour le reste de ce tour.",
+  "card_identifier": "129/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=d0831df40d5d0cd68ebc5f07fe645279c7d0bdf3c20a328d097f27ecd1471123"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=c6fa1896ba84de6e1afb034bdea8e67b8e40fd8b46df391cd089592d4292d531"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=a36bf0b8288d00882eb0a30076096d0229a31fe8e67a9afbc87cbc3bae51143d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Grumpy",
+  "subtitle": "Skeptical Knight",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "5cc0f712cdf1add499e1fd33c027af155c88d367",
+  "culture_invariant_id": 1142,
+  "sort_number": 1150,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "flavor_text": "",
+  "rules_text": "BOON OF RESILIENCE While one of your Knight characters is at a location, that character gains Resist +2. (Damage dealt to them is reduced by 2.) BURST OF SPEED During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "186/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=d1dd3662ac0c125819d63b54766a8eabf85a77cfb851a8c97339d764034fab81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=a8ee41d8b6bce0448d166629d5f94a42459cd503acdcc03e833a4260880e2fa9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=91dd7d5b8448fe2a8202516013fc370715e2cb1817ea572a58bed0b513d76d75",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

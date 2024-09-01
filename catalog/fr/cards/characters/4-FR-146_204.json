@@ -1,0 +1,42 @@
+{
+  "name": "Hans",
+  "subtitle": "Noble crapule",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Dustin Panzino / Leonardo Giammichele",
+  "deck_building_id": "f7ae3c4a9105e86a37c801caf8ee53341d140429",
+  "culture_invariant_id": 837,
+  "sort_number": 847,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Prince"
+  ],
+  "flavor_text": "Hans était persuadé de pouvoir amener Anna à Ursula. Tout ce dont il avait besoin était quelque chose appartenant à Kristoff pour la leurrer.",
+  "rules_text": "INTRIGUES ROYALES S'il y a un personnage Princesse ou Reine en jeu lorsque vous jouez ce personnage, gagnez 1 éclat de Lore.",
+  "card_identifier": "146/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=15523169c8185e8350c3fb2f2e213eb8032387d1337f6af107420c7d7cbf0e7f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=a0364b4a42b6180772959524225008c4890548d1ccfea5c54b5de5cb28fdd2a2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=2e34cccba71e444afc74a1af9dc802505aa3503d1a4027a817d0d7250b4ce018",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

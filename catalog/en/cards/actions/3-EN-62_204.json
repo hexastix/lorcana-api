@@ -1,0 +1,38 @@
+{
+  "name": "Last-Ditch Effort",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cf37b6d51b29ef3781307521b75714776bf0549a",
+  "culture_invariant_id": 498,
+  "sort_number": 533,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: My opponent has only a Cogsworth – Grandfather Clock in play, who has Ward. Can I still play Last-Ditch Effort and give my character Challenger +2 even though I can’t choose an opposing character?\r\nA: Yes. When there are no eligible opposing characters to choose for the first part of Last-Ditch Effort, that part of its effect simply finishes without exerting a character. However, the second part of its effect still happens, so you still choose a character of yours to get Challenger +2 until the end of the turn.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I got your back.",
+  "rules_text": "Exert chosen opposing character. Then chosen character of yours gains Challenger +2 this turn. (They get +2 while challenging.)",
+  "card_identifier": "62/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=dc7a4ef44191ce33a5d20f6836d7713cf376e9293070276e716211a68fcf17bc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=4a6d941979d4711677b868417cb93dfff6c8d231c7df40430b092af063405a36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

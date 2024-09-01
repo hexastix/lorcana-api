@@ -1,0 +1,40 @@
+{
+  "name": "Amelia",
+  "subtitle": "Strega delle Ombre",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "de8a56862fd217ae3944c941190c168deb5fa9ba",
+  "culture_invariant_id": 924,
+  "sort_number": 944,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Aggrovigliato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Le sue antiquate magie sono poco più che bazzecole, se comparate alle mie. Nonostante ciò, ha comunque una sua utilità.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "11/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=b56c69fe2b6f811d554baf284bcae533a9fa89f9d5686bed6787c7aabdcc1129"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=2cda8bfbdb56bbdbccd088c07bf656b394cd76c00c918119eed0e0fc9743280c"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

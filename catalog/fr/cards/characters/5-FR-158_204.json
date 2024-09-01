@@ -1,0 +1,43 @@
+{
+  "name": "Belle",
+  "subtitle": "Du bal",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "c796ea97ede34aa2b1d64bb7ef28514ead03681f",
+  "culture_invariant_id": 1114,
+  "sort_number": 1122,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) INVITÉE À LA FÊTE Lorsque vous jouez ce personnage, vos autres personnages gagnent Hors d'atteinte jusqu'au début de votre prochain tour.",
+  "card_identifier": "158/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=8c80f307169f2ab45498ce02af101223718df3ba05f20fa2b6411dd466c25429"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=a18890a3c96d302f24d704a3ccea5cb76c95b68c658ae7000ee242d3f1c3001a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=ea2cafb25c3817012000afb50b9970fa1ddc6d780c14839e97794c5283eb29b1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

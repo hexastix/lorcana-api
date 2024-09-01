@@ -1,0 +1,40 @@
+{
+  "name": "Bruno Madrigal",
+  "subtitle": "Veggente Ineffabile",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Brian Kesinger",
+  "deck_building_id": "565d29c1eb50c275e9386694241d3a081a52d866",
+  "culture_invariant_id": 915,
+  "sort_number": 935,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Aggrovigliato",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "Le sue peculiari capacità sono già state parecchio utili.%—Ursula",
+  "rules_text": "PROFEZIA OSCURA Quando giochi questo personaggio, ogni giocatore avversario mette le prime 3 carte del suo mazzo nei suoi scarti.",
+  "card_identifier": "2/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=81b92a61928711dcc41264ba777907df7b96d4bc8e5f09a3e47aaa432209c860"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=16958b226d9cb30a811f3fe6e7db9d7099545aa3a04353b8e76605e9ed45ccf8"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

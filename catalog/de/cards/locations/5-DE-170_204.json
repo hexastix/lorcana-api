@@ -1,0 +1,37 @@
+{
+  "name": "Merlins Hütte",
+  "subtitle": "Das Haus des Zauberers",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Gabe",
+  "deck_building_id": "b8c3e0fa48f7dd83d249333474e56e59bc3fc146",
+  "culture_invariant_id": 1126,
+  "sort_number": 1134,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WISSEN IST MACHT Alle Mitspielenden (auch du) spielen mit der obersten Karte ihres Decks offen.",
+  "card_identifier": "170/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=7db957197735c4ec5ddaba0122571400d326b325a357563ddad10713864f185b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=6e4c4bb5800c85c7a4dd16e683928572dc87458e7a20097fda40b6f88fccc534"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=141dae7ce171684a66ee56553efd220c8ca2060aa67688597ed36ed96fa65760",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

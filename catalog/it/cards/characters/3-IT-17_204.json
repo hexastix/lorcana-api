@@ -1,0 +1,49 @@
+{
+  "name": "Pluto",
+  "subtitle": "Guardia Risoluta",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Dave Alvarez / Alice Pisoni",
+  "deck_building_id": "7fd9befad39f19fd09370a0976c47a9fe3a3593d",
+  "culture_invariant_id": 453,
+  "sort_number": 488,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Posso scegliere di non rimuovere alcun danno da Pluto – Guardia Risoluta all’inizio del mio turno?\r\nA: Sì. Anche se non puoi scegliere di non usare l’abilità Cane da Guardi di Pluto, la puoi comunque usare per rimuovere un qualsiasi ammontare di danno da Pluto, da 0 a 3. \r\n\r\nQ: Se gioco Pluto – Guardia Risoluta usando la sua abilità Trasformazione, posso usare la sua abilità Guardiano per farlo entrare in gioco impegnato?\r\nA: Sì.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Pluto.) Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) CANE DA GUARDIA All'inizio del tuo turno, rimuovi fino a 3 danni da questo personaggio.",
+  "card_identifier": "17/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=23e0de6738c50f8dc3b98ce1b4ba398737d506ec242ec0c7fc761c501107fdab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=6696fbd830951787f9a5207d20d28212430f89be03b5d8f8a72cb1d0d6ea8ae6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=5f7a58550f47de7728fecbcee4d30b8dac37ab4587e3bdd9eef130ce31cccad8",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

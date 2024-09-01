@@ -1,0 +1,42 @@
+{
+  "name": "STITCH",
+  "subtitle": "Nouveau chien",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alex Accorsi",
+  "deck_building_id": "409ccaff640db6b84e1ee98232013e2c9c43b5d1",
+  "culture_invariant_id": 22,
+  "sort_number": 22,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Lilo: David, regarde, j'ai un chien. David: Ben voyons… euh t'es sûre que c'est un chien, ça? Lilo: An-an. C'était un chien de berger avant qu'il se fasse écraser.",
+  "rules_text": "",
+  "card_identifier": "22/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=05e4bfae8d63fedacdbe5b84b3926b8ad8a579c23bd130c1026c2841c01e25c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=12fc93f8abb30d4e03bd89718676589216870f6c69e22e9f82bad6406e268688"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=120280ca9b9cfac4b0f6b88b74e20f78216af106abfe2563546314d08000d7e9",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

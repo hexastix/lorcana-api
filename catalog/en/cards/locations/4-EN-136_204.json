@@ -1,0 +1,37 @@
+{
+  "name": "Training Grounds",
+  "subtitle": "Impossible Pillar",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matthew Oates",
+  "deck_building_id": "35674539959c7627310558941f91d1dac8adff48",
+  "culture_invariant_id": 827,
+  "sort_number": 837,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "STRENGTH OF MIND 1 — Chosen character here gets +1 this turn.",
+  "card_identifier": "136/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=23d12af624c58ad437074a821cfc9e2e6dbf30ce552ab5c45152a451ca117433"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=d9748d4de73a8203456bfa33759a7610b6b898c4a1ef595efdf15f1f70044d3e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=9465dc6148ad7288148c09db0635dd357e97af137a42debb0f38053296d728c1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

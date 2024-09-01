@@ -1,0 +1,41 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Begnadete Heilerin",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "345752dc9d9f01dec742580418fa17e39c835485",
+  "culture_invariant_id": 18,
+  "sort_number": 18,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "LEUCHTEND SCHÖN Wenn du diesen Charakter ausspielst, entferne bis zu 3 Schaden von einem deiner Charaktere. Ziehe 1 Karte für jeden Schaden, den du auf diese Weise entfernt hast.",
+  "card_identifier": "18/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=a3af074c92bd24a41b617e7ea353f8f9bb9d49902207d98fd88e26a5d86dad18"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=b348fb9d5805a0d55558a8d7bcaa61c3f17738947811649e77f7e641bf8b9e68"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=99acfda111c7dd3d87130e179b25672d558726880978ff20720ea8705f833320",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

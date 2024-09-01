@@ -1,0 +1,33 @@
+{
+  "name": "Captain Hook's Rapier",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeremy Adams",
+  "deck_building_id": "f569e647c2ddc5040c35ccaf20487c31e3b00586",
+  "culture_invariant_id": 635,
+  "sort_number": 670,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GET THOSE SCURVY BRATS! During your turn, whenever one of your characters banishes another character in a challenge, you may pay 1 to draw a card. LET'S HAVE AT IT! Your characters named Captain Hook gain Challenger +1. (They get +1 while challenging.)",
+  "card_identifier": "199/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=60694b4b3b2b5a1020b05878e8237603f82a34dac0d543c582a098280b6cc3e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=5c3ae7d5fefb7c9a2afe599a13d0c5ea00f9f13fc911c56b95657921da68a3a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=779dad561d74d80c0616fe60f50ff0ea004bd3333985d68e3a90d5d708b3965a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

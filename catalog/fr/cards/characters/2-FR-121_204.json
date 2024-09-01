@@ -1,0 +1,40 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Le plus beau des rats",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "f70a88424f6eced04d922558f866b8c6a4774eed",
+  "culture_invariant_id": 337,
+  "sort_number": 361,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Cette fois-ci, rien, et surtout pas Basil, ne se dressera devant moi!",
+  "rules_text": "CECI EST MON ROYAUME Lorsque vous jouez ce personnage, choisissez un personnage adverse avec 3 ou moins et épuisez-le. Choisissez l'un de vos personnages et redressez-le. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "121/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=f3fae826856063a97738cb8bfb0248af9c13f7085087397d84dc7835235d7cbd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=dfe6bbb1aa230da5498a6b254e3c5e626ce07e41c02d3e3f71f945d2cd134884"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=3aec6fc356a301d9ea34161153cec0f439d1611dac672256c0612a826721cf9e",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

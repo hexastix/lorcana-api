@@ -1,0 +1,40 @@
+{
+  "name": "Madame Samovar",
+  "subtitle": "Théière enchantée",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "d2fc1a97d9660d223273dc3416d8fa2ad2e68950",
+  "culture_invariant_id": 743,
+  "sort_number": 753,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL Y AURA DES JOURS MEILLEURS Lorsque vous jouez ce personnage, si vous avez un personnage Lumière ou Big Ben en jeu, vous pouvez piocher une carte.",
+  "card_identifier": "52/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=bd4154fbd0f75d4fd39969e71eaead54e72522bf8ecba09badb6eadd950123e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=5707f692ce51aafc6578423849c36808063931f054e2ad91bba219dbac14dff3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=9db98e7747c3fa8247952b21d67476f67a0e3113ff5268e042f1ca83ec5437a2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

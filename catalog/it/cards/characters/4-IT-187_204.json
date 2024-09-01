@@ -1,0 +1,44 @@
+{
+  "name": "Topolino",
+  "subtitle": "Stregone Giocoso",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "92ca31b3dd2f356cf1cd1d09a4c9d9744440282d",
+  "culture_invariant_id": 878,
+  "sort_number": 888,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Topolino.) Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) SPAZZARE VIA Quando giochi questo personaggio, infliggi danno a un personaggio a tua scelta pari al numero di personaggi Scopa che hai in gioco.",
+  "card_identifier": "187/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=9d3abddb94be9d6000f277dd998a692acb51a0ad31b573775cff8c24bc664abf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=6a7afdc4b713ad51b9c228ca3ad07b4e26271d73288a14c7b5d3f04ec026c62c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=85c88c4806143e61ef2d5c4b4a490108736c90554a1c91a6ca3bb4062045b9bf",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

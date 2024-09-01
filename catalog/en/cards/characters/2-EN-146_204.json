@@ -1,0 +1,41 @@
+{
+  "name": "Duke Weaselton",
+  "subtitle": "Small-Time Crook",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "R. la Barbera / L. Giammichele",
+  "deck_building_id": "b51612597f56a105b1d978244f4cde86b568d13e",
+  "culture_invariant_id": 362,
+  "sort_number": 386,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "It's <Wee>-sel-ton.",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "146/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=32575425e73353d80bdd8d99c5e83e03ff07ac7a442edd8a557f1fe56aa5cf48"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=8171fae5b51fe85a5aba80c4a8e30e788fd2cc1b6ae92581a25b29d94f36fd8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=63af9ee66befdd7e7cb7948b26d47acfdf2769f37b68beaffd9790759bd3b2eb",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

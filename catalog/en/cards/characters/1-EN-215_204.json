@@ -1,0 +1,44 @@
+{
+  "name": "Simba",
+  "subtitle": "Returned King",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "54d1da804f89e6da94d1e9a335acf6a5baa79ff5",
+  "culture_invariant_id": 215,
+  "sort_number": 215,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Challenger +4 (While challenging, this character gets +4.) POUNCE During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "215/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=8ade928b410e803827891927e518e21ee24ef592006045540891e3ed03029a9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=977b2f361cd34102ef5965ccf02664ce1369b5d444a2acac8e85a64abafefbe8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=7ee9fedc6ec962ad1158f4c9d04c8c8f86f59c49dc67e05417877116a5be24c0",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

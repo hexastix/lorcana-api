@@ -1,0 +1,33 @@
+{
+  "name": "Mauis Fischhaken",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "a9e7ec404bfc922091cf146ebf47177ce8ea39db",
+  "culture_invariant_id": 568,
+  "sort_number": 603,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "JETZT IST MAUI ZEIT! Wenn du einen Maui-Charakter im Spiel hast, darfst du die Formwandler-Fähigkeit dieses Gegenstands kostenlos einsetzen. FORMWANDLER , 2 – Wähle eine Möglickeit aus: • Gib einem Charakter deiner Wahl in diesem Zug +3. • Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Wendig. (Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "132/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=9efc27fc9f321e8fc5cc1f1bf26dd571234ff53b83106c350b8b95c4816e171b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b6aee1cb24743c4db778741b9f3186d5dd9833d70d1dc5e3464630a87ea5f7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b1556988ba39f385e78d3384c624a404fafe0aecee9515f283e9dd28c78f2d0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Gazelle",
+  "subtitle": "Pop Star",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Lauren Barger",
+  "deck_building_id": "3a77973047a9e2dc5748299006ede3868e00d061",
+  "culture_invariant_id": 967,
+  "sort_number": 975,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Good evening, Lorcana! We’re here tonight to celebrate what’s possible when we stand together as one.",
+  "rules_text": "Singer 5 (This character counts as cost 5 to sing songs.)",
+  "card_identifier": "11/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=9c5e9b5801799ba2338655ccd3b8b2209cadc44684f2b095aa8532f03b2466ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=45081f6b0a8e8cc3223cf5cb01843147047e0de919d2c4c975bdfb35603be499"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=706dc0908a614f4196515aae14c324a7b495f66a31a29e230450c25f30503e9d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

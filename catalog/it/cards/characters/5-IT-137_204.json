@@ -1,0 +1,42 @@
+{
+  "name": "Re Candito",
+  "subtitle": "Sovrano dello Zucchero",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Otto Paredes",
+  "deck_building_id": "2f4f4aa121c52c3d9ab1e896125b9922b052d1eb",
+  "culture_invariant_id": 1093,
+  "sort_number": 1101,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Re",
+    "Pilota"
+  ],
+  "flavor_text": "Miei dolci sudditi, posso garantirvi senza alcuna esitazione che mai nella mia vita sono stato più felice.",
+  "rules_text": "",
+  "card_identifier": "137/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=78bae3219d0a864b9a15d3220471f1d372c44daaa259ed1e94bd32353ae28fc7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=37a378a02a7e27fbbd4f0f894dc37bb75e995343e7e794f650d517c27aa914c2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=95ad68a1ab321d8ea5a262b067179b8d595fdf1d8e11f7a134b91d384913bea4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bataille de nourriture !",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f85cdc600cc088e804abb8ad835dbe403eb00bdf",
+  "culture_invariant_id": 1155,
+  "sort_number": 1163,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hyuck, qui a commandé ce gâteau RENVERSÉÉ-ÉÉÉ ?",
+  "rules_text": "Vos personnages gagnent \", 1 — Choisissez un personnage et infligez-lui 1 dommage.\" pour le reste de ce tour.",
+  "card_identifier": "199/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=a0a92f7e56fbd68baa46b9ee8a97de73282787d42a5c9b4fa8281e671176504a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=6ed36ed4bbeefbc3436cf2214f1bb113368c0ba14b18c1fcb76794477fc25a64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=cf998d615cfb791311c0f31fd842cb8228e1dcbe782e366cc59cd2689bf9ef51",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

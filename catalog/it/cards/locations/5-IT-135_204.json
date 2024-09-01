@@ -1,0 +1,37 @@
+{
+  "name": "Pista di Sugar Rush",
+  "subtitle": "Linea di Partenza",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 0,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cristian Romero",
+  "deck_building_id": "3d26c3f06233e002b80a865b2044fc6742045f95",
+  "culture_invariant_id": 1091,
+  "sort_number": 1099,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "AI VOSTRI POSTI! Una volta per turno, puoi un personaggio a tua scelta in questo luogo e infliggergli 1 danno per spostarlo in un altro luogo gratis.",
+  "card_identifier": "135/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=c5d0f598a04086ca3359bbe2309f8e940e32699ecd6d6b8c32c41878dc3f4d8f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=44ab2e9e8bc0c0947401ac5a12da11270ebc0deaad1a7f6f85065c44895c3f0f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=ac380cdd36fdfd1e6cbb9f513046a595a5c3292d2821310a3d3fcc0970683d0a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

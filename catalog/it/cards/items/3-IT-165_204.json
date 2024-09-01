@@ -1,0 +1,33 @@
+{
+  "name": "Numero Uno",
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "6d8acbfa2c88c40a18a277b2a9ba61ba059ab1a3",
+  "culture_invariant_id": 601,
+  "sort_number": 636,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Questa piccola monetina ha cambiato la vita di Paperone per sempre.",
+  "rules_text": "DECINO FORTUNATO , 2 — Scegli uno dei tuoi personaggi e ottieni leggenda pari al suo.",
+  "card_identifier": "165/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=b7b3e54edcc1022e99f3e4223de64d671550882caaf692a39da92e9ddb6bfd0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=deab11319b4358b8d2e5e87aaaed6483358e9b8271f988c34c3fbb6655282ba0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=2a6416f4e93ca69d4cad3f29365c926e767b6fa0643e2fb4d629824089ff4638",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

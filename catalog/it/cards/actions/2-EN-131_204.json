@@ -1,0 +1,40 @@
+{
+  "name": "The Most Diabolical Scheme",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "3f6d21f1b5fcecdb1b1f40696d7d1016f0e483ba",
+  "culture_invariant_id": 347,
+  "sort_number": 371,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: Can I play The Most Diabolical Scheme if I do not control a villain character?\r\n\r\nA:Yes, you can. However the first part of The Most Diabolical Scheme’s ability is required to use the second part of the ability. So if you play The Most Diabolical Scheme without a villain character in play then you will not be able to banish an opposing character"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Now comes the real tour de force Tricky and wicked, of course",
+  "rules_text": "(A character with cost 3 or more can to sing this song for free.) Banish chosen Villain of yours to banish chosen character.",
+  "card_identifier": "131/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=f3458f4179774c6333d5ea6e38c4ab8584ba064fcfac65117aadcab717ae41f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=1885c8aba26993a9af2eece74223b2f3b18e644358f71f912516609e2ecb3342"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=5eb5320996eb38360c36d3c35dc143650a806148728e9a5811bb475999d56035",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

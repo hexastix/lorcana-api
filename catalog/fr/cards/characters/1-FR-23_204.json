@@ -1,0 +1,44 @@
+{
+  "name": "STITCH",
+  "subtitle": "Rock star",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 23,
+  "sort_number": 23,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "L'avantage d'un concert sur la plage, c'est qu'il y a toujours de la place pour accueillir plus de monde.",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Stitch.) FANS DÉCHAÎNÉS Chaque fois que vous jouez un personnage coûtant 2 ou moins, vous pouvez tout de suite l'épuiser pour piocher une carte.",
+  "card_identifier": "23/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=0b10672643c00da36c626a87491f0e9bdd09d675406b54388ee01e43f83c374f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=c91422f17b6fb91d0c82e277050d33957a37baf5339bc1afb1d5271a5cdda9be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=533609ad0a3d7b1ac1e2400f155d16e5ba94857fca344d11f2acd467137614d5",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

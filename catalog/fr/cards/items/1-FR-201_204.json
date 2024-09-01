@@ -1,0 +1,33 @@
+{
+  "name": "MIROIR DE LA BÊTE",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "18dcabfdfb43e19ba99de9e95d9530bce929e93e",
+  "culture_invariant_id": 201,
+  "sort_number": 201,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Horrifiée par son aspect effroyable, la Bête se terra au fond de son château avec, pour seule fenêtre sur le monde extérieur, un miroir magique.",
+  "rules_text": "MONTRE-MOI , 3 – Si vous n'avez plus de carte en main, piochez une carte.",
+  "card_identifier": "201/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=9c91ffcee9dec805fd8af414ef451567d31a36d366569f691fa4a661d677bc4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=712c0068f5ea339a5f0cb0794653021b3a2227ce406e164c2e35439728742aa3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=f933a47b98408c40faaca32c5f08a0d961db812f3166096cc878c612ee535f8d",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

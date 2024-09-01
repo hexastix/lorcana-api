@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Don de la famille",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "a80ea3347166fc9a06f7ab61484c236899f23496",
+  "culture_invariant_id": 709,
+  "sort_number": 719,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa à celle d’un autre personnage au choix pour le reste de ce tour.) SAUVER LE MIRACLE Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages Madrigal gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "18/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=d2b4b17050ccc33356d0f4b0fd9d0ffbab8d44fe401228e82ac4562f688bcb29"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=d4707838dea27bc73d09b606b0c7222ece3d8930fffe576ef763c0fcca6530ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=332291b05af9573cd89c007bf1cd603e440fc822978c52ae6ecfcac1ebe34654",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Leader dei Bimbi Sperduti",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "2285e2c33a254aaef5023dfa9eb28a60fcdce67e",
+  "culture_invariant_id": 518,
+  "sort_number": 553,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho un Peter Pan – Leader dei Bimbi Sperduti ne Il Castello della Regina – Stanza dello Specchio, che ha 2{L}. Se sposto Peter Pan in Villa De Mon – Dimora di Crudelia, che ha 1 {L}, e poi lo sposto di nuovo ne Il Castello della Regina, posso usare la sua Ascoltavo le Tue Fiabe per ottenere 2 leggenda?\r\nA: No. devi usare l’abilità Ascoltavo le Tue Fiabe di Peter Pan – Leader dei Bimbi Sperduti la prima volta che si sposta in un luogo ogni turno. Se nel tuo turno non si è spostato e lo sposti in Villa De Mon, ottieni 1 leggenda. Non puoi usare di nuovo la sua abilità Ascoltavo le Tue Fiabe per quel turno.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Gli Illuminatori cercavano qualcuno che li aiutasse a ritrovare un libro magico scomparso, e Peter fu il primo ad offrirsi.",
+  "rules_text": "ASCOLTAVO LE TUE FIABE Una volta per turno, quando questo personaggio si sposta in un luogo, ottieni leggenda pari al di quel luogo.",
+  "card_identifier": "82/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=399705ea3e690eaa11fb80eac07869d798f3004fe8c70a280d4a0f4d0a029a62"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=0bdf759a7cfe8c2be2793dd86757c12d0dd26f5d32c0b5bcffcbf254dcd672fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=6dfa71b6ac2f8018ef692605dffa3c7d423d150b4695fe0dc2b3129ef8f0a5e9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

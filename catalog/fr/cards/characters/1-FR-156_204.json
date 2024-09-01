@@ -1,0 +1,42 @@
+{
+  "name": "PHILOCTÈTE",
+  "subtitle": "Entraineur de héros",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "bc5a3301196e31a727216ba5bd0ecf0f0dcae69a",
+  "culture_invariant_id": 156,
+  "sort_number": 156,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "Il faut être le meilleur pour entraîner les meilleurs. Et j'entraîne les meilleurs!",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "156/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=bbdaf7c082476a088e7587c4b6c8e9b971dca759a668a8b225d86949fc7e56f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=cb943c8b291e072497c32944157237e0999cc40ad50239e756d5112857fb0cc3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=9894a9fe8c1beed9f48a35bb81b0af80d22fc3086c5333e695af833897a4b53e",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

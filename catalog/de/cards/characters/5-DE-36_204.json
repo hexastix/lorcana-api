@@ -1,0 +1,40 @@
+{
+  "name": "Der Nokk",
+  "subtitle": "Mystischer Geist",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Randy Bishop",
+  "deck_building_id": "7bad7251f3367547d9b0c27a5401a24cf5853ffc",
+  "culture_invariant_id": 992,
+  "sort_number": 1000,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "GEZEITENWECHSEL Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "36/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=0a07df58160bd993c4b59ecae3bc9c0c82f81722bab4ef72e0882df3fc421b37"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=aad45aaee41ad1b89c5e014c8d950d36065c04c402601a5da0183964d264f5e1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=ed26f8e8ab7ea12f90fcfc812abf0fa3bac56978e0c93e15860b3998327b1ae9",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

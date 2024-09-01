@@ -1,0 +1,42 @@
+{
+  "name": "Wildcat",
+  "subtitle": "Mechanic",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "d65da805f8e4842f708b27639020b476a285cbb7",
+  "culture_invariant_id": 528,
+  "sort_number": 563,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "I can take <anything> apart in under five minutes!",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) DISASSEMBLE — Banish chosen item.",
+  "card_identifier": "92/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=dd884e1495a46631978338912e00a0faec81fde8c4a64f9bf64fc8a3363d40f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=4474310f3f3a56a423cf2e2cc4235c29a7ae2e25f781b8ea0b4329c58b7a4349"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=5d73dac7efc2195059c8cd2bab6df68b4a35a23c3f2ea006adbc940ab5579cd8",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

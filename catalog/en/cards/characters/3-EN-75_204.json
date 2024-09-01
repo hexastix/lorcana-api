@@ -1,0 +1,40 @@
+{
+  "name": "Helga Sinclair",
+  "subtitle": "Vengeful Partner",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "b5dc77f02c6bd98a899931617aa411e51cb55e4e",
+  "culture_invariant_id": 511,
+  "sort_number": 546,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "You said we were in this together!",
+  "rules_text": "NOTHING PERSONAL When this character is challenged and banished, banish the challenging character.",
+  "card_identifier": "75/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=49a1a14450d06b1916cc2a7d4d7b84276514a5a61f88a8b3d13c5b3aa19bb0bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=20a4734b9262621584892d04b136d6ca30f08252c5ab7d6534cc5682652cc0c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=22c89976558d7a739fb195ef0cf9a24f935bce8a0147f6e5352d181d9cb87c7d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

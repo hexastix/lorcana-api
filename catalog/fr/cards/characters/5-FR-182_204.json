@@ -1,0 +1,43 @@
+{
+  "name": "Namaari",
+  "subtitle": "Fille déterminée",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Jenna Gray",
+  "deck_building_id": "ea7fa748b4cca0af4bd518d76cb8babd68cdf40c",
+  "culture_invariant_id": 1138,
+  "sort_number": 1146,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE N'AI VRAIMENT PAS LE CHOIX Jouer ce personnage vous coûte 2 de moins pour chaque personnage adverse banni via un défi ce tour-ci. Résistance +3 (Les dommages qui lui sont infligés sont réduits de 3.)",
+  "card_identifier": "182/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=659bb804bdc23c567b64cb0b44c33a6a88a857122ddec71317ee687b2b7a242d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=dd73f0bf5a6b1e8d9af02701dc6052d03693a727bf0f31153bf141bd31f0cbda"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=b742c6c095999f4a2021a0b1d76b36ea6413c72921c0e21fc3d62314ce0e837b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

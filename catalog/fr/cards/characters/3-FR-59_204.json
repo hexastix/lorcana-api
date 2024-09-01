@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Sorcière des mers",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "John Loren",
+  "deck_building_id": "4521d899a2717c3b4cb0b936f066e13e266d14cb",
+  "culture_invariant_id": 495,
+  "sort_number": 530,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Lorsque je déclenche la capacité “Trop tard” d’Ursula – Sorcière des mers, puis-je choisir un personnage redressé ?\r\nR : Oui, vous pouvez. Toutefois, notez que la capacité “trop tard” d’Ursula n’épuise pas un personnage, mais l’empêche juste de se redresser au début de son prochain tour.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Le contrat est déjà prêt.",
+  "rules_text": "TROP TARD Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage adverse qui ne pourra pas être redressé au début de son prochain tour.",
+  "card_identifier": "59/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=a1c1785639497833b387acce62c4c753cdec6639ed3a5f412f50fe34f524577f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=a7cdf0fb5e6814d67592745ed08b97d51c262b0c0a0ede28c88808686104d99a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=ff0510c4ee359487221a9426f642dd1e4f457a5922888b1c091d08da575962b4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

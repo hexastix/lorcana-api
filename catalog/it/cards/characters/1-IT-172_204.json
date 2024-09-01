@@ -1,0 +1,42 @@
+{
+  "name": "La Bestia",
+  "subtitle": "Testarda",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "502da9f4533484bfe02fb51fd83498e2d63e3275",
+  "culture_invariant_id": 172,
+  "sort_number": 172,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Quella ragazza non vedrà mai niente in me... tranne che un mostro.",
+  "rules_text": "ROMPERE Quando giochi questo personaggio, puoi esiliare un oggetto a tua scelta.",
+  "card_identifier": "172/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=72589452f10bcf03b273218dc54de96cd00d89365236c1393aef9b7b2292dc00"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=fa3453f519be421004563eab633ac0f1d79cc90b1b4d6aa043eb0f082196bc44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=99487817d75cef3249bc2c63a90e1dd1485d282d0e51cf526d1be86a8ad9df39",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

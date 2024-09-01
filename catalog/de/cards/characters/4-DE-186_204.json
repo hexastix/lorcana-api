@@ -1,0 +1,43 @@
+{
+  "name": "Zauberbesen",
+  "subtitle": "Marschmeister",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Otto Paredes",
+  "deck_building_id": "5b62db7d0c2cf0af385d111c8e065a46ee86e2da",
+  "culture_invariant_id": 877,
+  "sort_number": 887,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Besen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) ARMEE VON BESEN Dieser Charakter erhält +2 für jeden weiteren Zauberbesen-Charakter, den du im Spiel hast.",
+  "card_identifier": "186/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=7876f33cd8153dc2ef14f90f0c85c4312c80bf3a2d6a055ee15429388aa449e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=b5486de70b9534cc8373e5619a0079d73efe497768d83daad8ea49d61d5aaf2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=2eb67f61dac4aaa771e93d642a3c559fabc0c27bc48545eb37e341f508f248c6",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Joyeux",
+  "subtitle": "Chevalier guilleret",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "3a59888573730230b6c46d076009658727fb43a8",
+  "culture_invariant_id": 1147,
+  "sort_number": 1155,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Chevalier",
+    "Sept Nains"
+  ],
+  "flavor_text": "",
+  "rules_text": "RAPIDE COMME L'ÉCLAIR Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "191/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=e0cc57f5bfeb6986e39eb47ec4ce15e03c021bd5c5011bb0bc249f99d492f7ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=81064cdde4eae50dc6be2c137911ccb77e0657c0d038c9d94f236fcb3b370355"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=15310bc54f96505c46d79a98bab7b5d200c2847556009a63ae2f334c10d22838",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

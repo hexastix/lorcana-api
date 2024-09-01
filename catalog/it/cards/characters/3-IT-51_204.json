@@ -1,0 +1,46 @@
+{
+  "name": "Malefica",
+  "subtitle": "Signora di Ogni Male",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
+  "culture_invariant_id": 487,
+  "sort_number": 522,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho in gioco una Beast – Tragic Hero con 4 segnalini danno e una Malefica – Signora di Ogni Male, e il mio avversario ha in gioco soltanto un Flounder – Voce della Ragione. Se gioco A Whole New World e pesco 7 carte, posso spostare tutti e 4 i segnalini danno da Beast a Flounder con l’abilità Divinazione di Malefica?\r\nA: No. Puoi usare l’abilità divinazione di Malefica ogni volta che peschi una carta. Se peschi più carte allo stesso tempo, hai altrettante opportunità di usare quell’abilità. Dopo che hai spostato 2 segnalini danno su Flounder, che ha 2 {W}, quest’ultimo viene esiliato. Nota che quando usi l’abilità Divinazione di Malefica mentre non ci sono personaggi avversari in gioco, non potrai spostare alcun segnalino danno, risolvendo quindi l’abilità senza fare nulla.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "SAPERE OSCURO Ogni volta che questo personaggio va all'avventura, puoi pescare una carta. DIVINAZIONE Durante il tuo turno, ogni volta che peschi una carta, puoi spostare 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "51/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=7d524ba22f845930de8b26561f1fade53f473216aef3731327e40dc591f42613"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=42fb1061da6e70459ccf223b04c44b6e84263bf69b5d9a5f666b6a93a15c5dd5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=04d18cf79806593a91558cf0f94d72f91e24721ac279352cc1d19f203a9a9e0d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

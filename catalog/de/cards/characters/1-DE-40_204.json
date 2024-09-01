@@ -1,0 +1,42 @@
+{
+  "name": "Elsa",
+  "subtitle": "Amtierende Königin",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Duyen Nguyen / Aubrey Archer",
+  "deck_building_id": "0c66ceaa85ceec0fa1c10c4146b02d093fa8d2a4",
+  "culture_invariant_id": 40,
+  "sort_number": 40,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "Ich wusste gar nicht, wozu ich im Stande bin.",
+  "rules_text": "",
+  "card_identifier": "40/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=ef96a0b1b446c54a4d53eec6ee769d9220d75d563f6f64aded9cdf972571573d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=29f7311b66af633e03bbc4784e3cdc5ca63356df90509a62421b648847aa1802"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=bd6fb1a7ef7513a98308c38790eb4d85f0bd396be23908f45a365472b2bae7b1",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

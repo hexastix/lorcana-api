@@ -1,0 +1,34 @@
+{
+  "name": "Il Ritorno di Bruno",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "491ba73c6014d66a41525858502fc4bf26828e36",
+  "culture_invariant_id": 717,
+  "sort_number": 727,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Devo essermi perso un passaggio importante.",
+  "rules_text": "Riprendi in mano una carta personaggio dai tuoi scarti. Poi rimuovi fino a 2 danni da un personaggio a tua scelta.",
+  "card_identifier": "26/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=77932d24535583a200d058585fad019e2598826d9e7f9dbb067dc9fee7aaf6a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=f315ad278ea48887ebd3ed1cc20bb154612a42da2d79dabc12503b4418aa831e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=8518ffd56a50c949bf9433866ed528cafdb4a2320f7c1b356036f00ffb70ae8c",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

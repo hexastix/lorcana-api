@@ -1,0 +1,33 @@
+{
+  "name": "Ein Geschenk machen",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Dylan Bonner",
+  "deck_building_id": "cd7d8f2725ca5bf77ca34f0bf089e7810fd2ea21",
+  "culture_invariant_id": 496,
+  "sort_number": 531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Aus magischer Tinte ist dieses Geschenk.%Flieg, mein Diener, wirst von mir gelenkt!%—Malefiz",
+  "rules_text": "Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "60/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=85e1cc6b5b721b34499eccf57fde42a20b56d2cc45b2790dbe3c2124e32878fc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=60a908127a7d81a29174af1ded2eefa6a4ac35ebd8842cd1eaa9a8c84fb707fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=b87f4d821297d7dcf9df76c306a77d101d30a84c660b45e2b67d6d7b0cb624d2",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

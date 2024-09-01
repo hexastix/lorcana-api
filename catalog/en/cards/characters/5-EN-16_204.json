@@ -1,0 +1,40 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Donald's Date",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 1,
+  "author": "Francesco D'ippolito / Giuseppe di Maio",
+  "deck_building_id": "2ed178001e5757cae12c87f032cde03a7dc7948f",
+  "culture_invariant_id": 972,
+  "sort_number": 980,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "BIG PRIZE Whenever this character quests, each opponent reveals the top card of their deck. If it's a character card, they may put it into their hand. Otherwise, they put it on the bottom of their deck.",
+  "card_identifier": "16/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=773b9c14f1b57ea399a60b3d631e5dcb3363306932a3b9b9dc24dcce5cdc9d54"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=1b617295c9194c06df38e938724e4967b3e2dff5e8c09744fd73288c5f8cce64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=8b48f0889608c3ddb6b82ab470833d2a3dd8617115acc9885eab39c2213eab93",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

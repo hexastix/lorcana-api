@@ -1,0 +1,41 @@
+{
+  "name": "Trilli",
+  "subtitle": "Fata Molto in Gamba",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "fd89ea25a0c3cdeeea1cff6ca1da06b611c4a945",
+  "culture_invariant_id": 593,
+  "sort_number": 628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Fata"
+  ],
+  "flavor_text": "Vive in un mondo di possibilità.",
+  "rules_text": "POSSO USARLO IO Ogni volta che uno dei tuoi oggetti viene esiliato, puoi aggiungere quella carta al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "157/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=ebb69d55736b112d566f074721e18999f107e69715d3402fa86600cfc6b49e7e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=04eca0b733deb5649b061989fafcebe01f0a8a932bd94fb92385d5519870bbb6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=7e48d65f24ae74d5ee1c4ab68dd0da9218a16d79f28fb3b2cc27ee3c76bf7292",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

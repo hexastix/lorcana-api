@@ -1,0 +1,45 @@
+{
+  "name": "Hercules",
+  "subtitle": "Divine Hero",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "1372c6d5229587e89693707e53401c018887b762",
+  "culture_invariant_id": 397,
+  "sort_number": 421,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Prince",
+    "Deity"
+  ],
+  "flavor_text": "A good guy to have around when something wrecks your inkworks.",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Hercules.) Resist +2 (Damage dealt to this character is reduced by 2.)",
+  "card_identifier": "181/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=ec9c29b446310a52ec50684a3927a48a43c790d72a6c69583dfbc07911169670"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=66ed7443d69699d6225b5dcf0f4fd79fa26cce7eb6ebcc8e9ab0019e8286b410"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=fd47a4c7911b81e5114e7fd4acb375e2858bb4b31584e6e3a7a5b7a932b362b4",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

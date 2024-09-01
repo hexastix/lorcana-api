@@ -1,0 +1,41 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Majestätische Herrscherin",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "edc8d296f601e44b6311621379644a538907c472",
+  "culture_invariant_id": 243,
+  "sort_number": 267,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Königin"
+  ],
+  "flavor_text": "Zweifle nicht an ihr oder ihrer Macht. Und wehe, du gehorchst nicht.",
+  "rules_text": "",
+  "card_identifier": "27/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=53d03eb2305063cc2f34a3e6337c4ed7b6904d9971fca2480003eeddf1d902f4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=d4223e8d0754a2b76ac36418e98b761a888addd6e40cfe779a16cd438fdbcc51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=57bc1f8a855122e4d0bae258f22353f3473df34f69c7b93e8f3c3ddd0e4d5356",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Meccanica di Dolcetti",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "a074d9a5fe4ec9e9905316dcc6f56e1a9de0a03b",
+  "culture_invariant_id": 965,
+  "sort_number": 973,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa",
+    "Pilota"
+  ],
+  "flavor_text": "Prendo qualunque cosa abbiate... basta che dentro ci sia dello zucchero.",
+  "rules_text": "DEVI PAGARE PER GIOCARE Ogni volta che questo personaggio va all'avventura, un personaggio avversario a tua scelta riceve -1 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "9/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=82539f692c29ea4177ecd20073bf503d4575153a281ac34dbe0ac4102c52b71a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=000e36ff690eec87a661f76e788d8db4a0b1ec9081ad69eb9e318ad8cd7a1ab3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=04678c0a66a63fa5c3afa53070c02be1d6197a065a6b784b9e0ac2d2d0f276bd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

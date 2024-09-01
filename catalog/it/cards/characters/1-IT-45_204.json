@@ -1,0 +1,44 @@
+{
+  "name": "Jafar",
+  "subtitle": "Stregone Malvagio",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jake Parker",
+  "deck_building_id": "b3001090c82926f995dda5332ff5f0546257b061",
+  "culture_invariant_id": 45,
+  "sort_number": 45,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Finiamola coi sotterfugi. È ora di far vedere a quel sultano lagnoso di che cosa è capace uno stregone.",
+  "rules_text": "Sfidante +3 (Mentre sta sfidando, questo personaggio riceve +3.)",
+  "card_identifier": "45/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=5af8358b02de76cd4413f13705af2eafbe6a1b0a6cd580a9c4d92a9fbce70a96"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=10c7d2682fd8f9dca163e7ffaab01c90e2850bd9744e5cc5bed415e73b188b7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=b44f2aee26434ed1d14ff63c355f2d36e38ae727fde6a301ac446c26aae18fa2",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

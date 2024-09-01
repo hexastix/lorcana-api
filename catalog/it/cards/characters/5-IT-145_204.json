@@ -1,0 +1,42 @@
+{
+  "name": "Sceriffo di Nottingham",
+  "subtitle": "Vecchio Bracalone",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Josep Solé",
+  "deck_building_id": "8cd569041e6c00c0075b3630d2e937fda1bd1dd1",
+  "culture_invariant_id": 1101,
+  "sort_number": 1109,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "TUTTO FA, ANCHE SE È POCO Per ogni oggetto che hai in gioco, paga 1 in meno per giocare questo personaggio. Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "145/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=07388cd3aea7bb00f12fd94c2d29457534d24b5296bef66d0e7b0d6ae37cf5f2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=b8c474e10614feac5808230387325829211815644e69c8caa229459e96d3f93f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=22b455ac4dbd8467dbbd7d2413160542ac0a45b8df18e405fa35cc9cf70e3005",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

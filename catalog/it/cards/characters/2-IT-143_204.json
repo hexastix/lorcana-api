@@ -1,0 +1,40 @@
+{
+  "name": "Tockins",
+  "subtitle": "Orologio Parlante",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "7b50975b1d3f12da9b7fe8822eb27ad690318c58",
+  "culture_invariant_id": 359,
+  "sort_number": 383,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ora basta, stiamo esagerando. Sono io il responsabile!",
+  "rules_text": "VIENI QUI I tuoi personaggi con Attaccabrighe ottengono \" — ottieni 1 leggenda.\"",
+  "card_identifier": "143/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=cc7c53f8ec64c6c75fbc51db6c4c39f41de1d260887f3143888bce850ce50a98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=966261b8fadfbfbb44ab845968835a45ca2fa98cfdb6e1653da3fecb0b09ac78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=9d2ee24e020b8593ae29dbadfca96d3c7595724926a364b4a56bec5c787cc10e",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

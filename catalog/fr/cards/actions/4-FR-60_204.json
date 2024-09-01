@@ -1,0 +1,35 @@
+{
+  "name": "Pauvres âmes en perdition",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "ed007086370af05d97b329a2a69bacfeebcf26e7",
+  "culture_invariant_id": 751,
+  "sort_number": 761,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "En mal de tout",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage, un objet ou un lieu coûtant 2 ou moins et renvoyez-le dans la main de son propriétaire.",
+  "card_identifier": "60/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=05cf5c8bf7edc5b6c772692f53d533045b56ff94fd33fcf979b0b8525e4bd9d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=cdb7dcc86178294bf62b55facc6d3d041d81e9a0250bca4f53254e12eb0077b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=83f7011a900b5400c4681533f6b9970c998bd878297340e0d58aad261c540cf1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

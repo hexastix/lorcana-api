@@ -1,0 +1,42 @@
+{
+  "name": "Regina",
+  "subtitle": "Consultatrice di Specchi",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jennifer Gheduzzi / Livio Cacciatore",
+  "deck_building_id": "371c9acb79a2f91a8f8547ba6113431120735ea8",
+  "culture_invariant_id": 592,
+  "sort_number": 627,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "Ha una sola domanda, e sarà meglio che la risposta le piaccia.",
+  "rules_text": "CALCOLATRICE E VANITOSA Ogni volta che questo personaggio va all'avventura, puoi guardare le prime 3 carte del tuo mazzo e rimetterle in cima al mazzo in qualsiasi ordine.",
+  "card_identifier": "156/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=b8d8578ca59730c0f77a7f91c87e18d61b0b07a3113ce61a9e78dd0bffede8f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=eded18e294316d370e8b113cbf148df3e66592da49da082197877996a66e2665"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=3a0c852cc1b39dd083e64e124b7e01d487baeeb6d3185be93e354362186fc54e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

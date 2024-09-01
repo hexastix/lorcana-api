@@ -1,0 +1,45 @@
+{
+  "name": "Stitch",
+  "subtitle": "Rock Star",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 688,
+  "sort_number": 699,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Alieno"
+  ],
+  "flavor_text": "La parte migliore di un concerto sulla spiaggia è che c'è sempre posto per una persona in più.",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Stitch.) FAN ADORANTI Ogni volta che giochi un personaggio con costo 2 o inferiore, puoi impegnarlo per pescare una carta.",
+  "card_identifier": "30/P1 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=e839546f4f45c0e5f05a498176fd60e9ff94c5f68b2063829b294bcb50da237a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=0f5b90c96336dbed8dfd60a006164e7fd0dd3551f64a2c404f0ce1bce9ac80ba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
+  "special_rarity_id": 1,
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

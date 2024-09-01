@@ -1,0 +1,39 @@
+{
+  "name": "Jolly Roger",
+  "subtitle": "Nave di Uncino",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Nicolas Ky",
+  "deck_building_id": "36d37324c4f3d29d9f0101c7ee1a08bf9b00908e",
+  "culture_invariant_id": 685,
+  "sort_number": 696,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ANIMO, MANIGOLDI! I personaggi ottengono Lesto mentre si trovano in questo luogo. (Possono sfidare nel turno in cui vengono giocati.) TUTTI IN COPERTA! I tuoi personaggi Pirata possono spostarsi in questo luogo gratis.",
+  "card_identifier": "27/P1 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=6de8743b5e2d090798c13a7a782ea20722f66de772791ca3106cf094eedc0116"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=4b7a6a5b54b215ae25aee63e219916e7d3e7bb0edd6edd3f3f20702a68bec4ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=1dcf21eb139b1c7a04691864a801cbe5c93341a8216d537028e1abd8ff8443dc",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

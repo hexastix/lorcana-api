@@ -1,0 +1,42 @@
+{
+  "name": "Jafar",
+  "subtitle": "Voleur de lampe",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "35e65e00328e23cb522209e460c94442dcdfae23",
+  "culture_invariant_id": 477,
+  "sort_number": 512,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Je souhaite commander à la Terre.",
+  "rules_text": "JE SUIS TON MAÎTRE, À PRÉSENT Lorsque vous jouez ce personnage, regardez les 2 premières cartes de votre pioche. Remettez l'une d'elles sur le dessus de votre pioche et l'autre en dessous.",
+  "card_identifier": "41/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=8019caff8f794a113f7b67b9e59b091afaee73bdbd6d60813366f0928cd7a4f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=e79168afb3dcd8c459f5718291b83e26464b5307a09286f1f264c7a1505cf538"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=eb6c51aa9d9f28d8a594dee96f24f61cdfb6d554a257b2e1f248ea8b950125f2",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "RLS Héritage",
+  "subtitle": "Galion solaire",
+  "willpower": 8,
+  "quest_value": 2,
+  "move_cost": 3,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "d4aef0fcfa1c528b3a1c3a7a33b1a84160fb6748",
+  "culture_invariant_id": 572,
+  "sort_number": 607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "C'EST NOTRE BATEAU Les personnages sur ce lieu gagnent Insaisissable. (Seuls les personnages avec Insaisissable peuvent défier ces personnages.) NE TRAVAILLEZ PAS LES UNS CONTRE LES AUTRES Tant que l'un de vos personnages se trouve sur ce lieu, y déplacer un personnage vous coûte 2 de moins.",
+  "card_identifier": "136/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=56593e8d62b2779c4f7ababd14df4af1e3a9090400e559332b472efd97e1e2cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=3a4a5527592b6a047f5f61d6b00dd506c31ed132291b718ba26179ca6a651052"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=7a3320919748138d9d13491db8c9d60fb44f9929b669516bc16b5e055cbd046c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

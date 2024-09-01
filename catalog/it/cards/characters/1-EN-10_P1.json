@@ -1,0 +1,43 @@
+{
+  "name": "Yzma",
+  "subtitle": "Alchemist",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Hadjie Joos",
+  "deck_building_id": "cc784eaecc22b71074cd8719bfd0a42af0f17a3d",
+  "culture_invariant_id": 668,
+  "sort_number": 226,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "When I want your opinion, I will give it to you!",
+  "rules_text": "YOU'RE EXCUSED Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+  "card_identifier": "10/P1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=9db922680bc3fc7c4be5e35f0eb73bef48b0e35291497a056234d545275d8058"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=0126832b85c58ade438f27459a22e4bba44707100ee9c1968072f5230980a1dd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=cf5b2a409e9ca4eca3cbc73cd47c87bce8f570785f5d1b359dc8b143a5693d2c",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

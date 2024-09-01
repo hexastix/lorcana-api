@@ -1,0 +1,36 @@
+{
+  "name": "Herz aus Stahl",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jared Nickerl / Alex Accorsi",
+  "deck_building_id": "7a794400c5430b77a9bd93dc9c73e7ae38d73f5e",
+  "culture_invariant_id": 417,
+  "sort_number": 441,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Augen wie ein Adler%und ein Herz aus Stahl",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Zähle deine Charaktere im Spiel. Füge einem Charakter deiner Wahl dieselbe Anzahl Schaden zu.",
+  "card_identifier": "201/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=fa6a48e0f9528759d344a5df2523a2e68941825bb7aa5008b7eb115531d107cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=282b6d7d10d657670d0e18bbe54911b092e705d2ec15e0de9f1b3f2dd40a7737"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2457ebd1ee3e51ac1d043e608c27ff8eaf39a01d30f14409e80425603db1009a",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Cobra Bubbles",
+  "subtitle": "Un Semplice Assistente Sociale",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jake Parker",
+  "deck_building_id": "2c1112f2434eab13dc7e7061e2ab001050dae14f",
+  "culture_invariant_id": 220,
+  "sort_number": 244,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Fammi capire bene. Il tuo 'magico' libro degli incantesimi è stato trascinato via da una marea di 'magico' inchiostro?",
+  "rules_text": "",
+  "card_identifier": "4/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=86749f32252799cbf6e83e2b080e4364a084a5340271b18c92e69295be18cd91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=ea34c822ebad6cb086f4fe02e9aef2cca7b122cd74ef2e70dfa7905f5e35bd46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=3930b25829464a71beb37704d155506803f9395f9020ace169951e84343f6cff",
+  "card_sets": [
+    2,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

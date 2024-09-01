@@ -1,0 +1,42 @@
+{
+  "name": "Phil",
+  "subtitle": "Trainer der Helden",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "bc5a3301196e31a727216ba5bd0ecf0f0dcae69a",
+  "culture_invariant_id": 156,
+  "sort_number": 156,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor"
+  ],
+  "flavor_text": "Man muss der Beste sein, um die Besten zu trainieren. Und ich trainiere die Besten!",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "156/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=bad601dd0ba273ed7df83cb673d32de5cd586cacf49f66eb58190f74ac32ec73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=59e65426cc91f2af339e9a30ba36bf025fb3fff82698aa59979b5701e32d9db3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=9894a9fe8c1beed9f48a35bb81b0af80d22fc3086c5333e695af833897a4b53e",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

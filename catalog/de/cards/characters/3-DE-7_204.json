@@ -1,0 +1,48 @@
+{
+  "name": "Kida",
+  "subtitle": "Wächterin von Atlantis",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Adam Fenton",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 443,
+  "sort_number": 478,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich spiele Kida - Wächterin von Atlantis in meinem Zug aus. Wenn eine andere Person nun in ihrem Zug einen Maui - Held von allen ausspielt, hat dieser Maui auch -3 Stärke?A: Nein. Kidas „So haben wir vielleicht noch eine Zukunft“-Fähigkeit beeinflusst nur Charaktere, welche bereits im Spiel sind, wenn Kida ausgespielt wird.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Sie ist erwählt worden. —König Kashekim Nedakh",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Kida-Charaktere auszuspielen.) SO HABEN WIR VIELLEICHT NOCH EINE ZUKUNFT Wenn du diesen Charakter ausspielst, gib allen Charakteren bis zu Beginn deines nächsten Zuges -3.",
+  "card_identifier": "7/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2cc3fb84c2669c05507bf08d6e28e1c073747a8c8168ff6fc637c16eb560c6cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4b733c2586ac37a9adceaeb15066b0ce91d0e2d14da02e25758dcf9320913c07"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=989e3154e0895817a79d146dbdd462abd5d637ded28ed2698febf52e0a0582a4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

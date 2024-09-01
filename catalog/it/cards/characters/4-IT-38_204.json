@@ -1,0 +1,41 @@
+{
+  "name": "Bruno Madrigal",
+  "subtitle": "Uscito dalle Ombre",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "e14d5d0b9b6bc59f80886c989f265721cdc6c6fc",
+  "culture_invariant_id": 729,
+  "sort_number": 739,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "ERA LA TUA VISIONE Quando giochi questo personaggio, un personaggio a tua scelta ottiene \"Quando questo personaggio viene esiliato in una sfida, puoi riprendere in mano questa carta\" per questo turno.",
+  "card_identifier": "38/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=8e7f1e83e35e4777a10255d87327db5798b95abb887f8ed731809aa6137adbff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=78c87de30e78bd9c47c7eef779d10ae8e88d32cb51875590182ccc9b0ca8d39f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=8042cfbc70c1aebb1693cfefecfa460804e3f038fa61dfbd18fe756c09ef65a5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

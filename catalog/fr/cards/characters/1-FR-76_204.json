@@ -1,0 +1,43 @@
+{
+  "name": "GÉNIE",
+  "subtitle": "Déchaîne ses pouvoirs",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Javier Salas",
+  "deck_building_id": "02fc7753ceabfc92ab97788a14f4f5fcc65106a9",
+  "culture_invariant_id": 76,
+  "sort_number": 76,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Génie.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) POUVOIR COSMIQUE PHÉNOMÉNAL! Lorsque ce personnage est envoyé à l'aventure, vous pouvez jouer gratuitement une carte action coûtant 5 ou moins.",
+  "card_identifier": "76/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=fa12dad875331ad76167b681f12349f46981ccba3d3de47e36a35e5f54b9e809"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=ff221a62e24df5f8849c40d1f365bdfc967ff273936865ed424e62735b44d535"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=e4d5eded0413b0725731e0f8660b9f1d09ecbc2ed1aa31207be051e0d99897d6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

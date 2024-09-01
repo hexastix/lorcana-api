@@ -1,0 +1,42 @@
+{
+  "name": "Aurora",
+  "subtitle": "Principessa Regale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "c027ddc916cbad713b592183ff0d19138efe8b46",
+  "culture_invariant_id": 140,
+  "sort_number": 140,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Dicono che se sogni qualcosa più di una volta, questa si avvererà di certo!",
+  "rules_text": "",
+  "card_identifier": "140/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=b0b49528d6583efba290dd61795db054372255eda38a7643fad650f1b29664b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=f824d1921a5555dbe17d46faf351302d3cf7a91d6b444414563e9799dc35d65a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=89d4cf8db7ffd49464669016f1e151dc42c25c96b9c3adb4d29f4f97bb6a7bd4",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

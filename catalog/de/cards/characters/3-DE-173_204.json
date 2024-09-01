@@ -1,0 +1,45 @@
+{
+  "name": "Gustav der Riese",
+  "subtitle": "Schrecken des Königreichs",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "159f4fcc6c094491eec5963594b65da8fb42798f",
+  "culture_invariant_id": 609,
+  "sort_number": 644,
+  "additional_info": [
+    {
+      "title": "Errata - Kartentext",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Text der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem Text: \"Jedes Mal, wenn einer deiner anderen Charaktere in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du diesen Charakter bereit machen.\" gespielt. \r\n\r\nAlte Version - Befreien:\r\nJedes Mal, wenn einer deiner Charaktere in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du diesen Charakter bereit machen.\r\n\r\nNeue Version - Befreien:\r\nJedes Mal, wenn einer deiner anderen Charaktere in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du diesen Charakter bereit machen."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "GEFESSELT Dieser Charakter kommt erschöpft ins Spiel und wird zu Beginn deines Zuges nicht bereit gemacht. BEFREIEN Jedes Mal, wenn einer deiner anderen Charaktere in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du diesen Charakter bereit machen.",
+  "card_identifier": "173/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=301576e8c156fe956d90d66a9e8cf22a7deeb411343e3189273b6078832fbde0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=3c247bf44a0bda0665e42c18a1eafc7b5da8baa36ad548617e6abe7e4b384006"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=58ec35a38571e5d12d4f439738aedd627bcfa16859a6f814aee550dd56ec658c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

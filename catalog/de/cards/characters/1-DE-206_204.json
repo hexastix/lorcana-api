@@ -1,0 +1,42 @@
+{
+  "name": "Stitch",
+  "subtitle": "Sorgloser Surfer",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Milica Celikovic",
+  "deck_building_id": "37f056db280fdfb5863b00cac14a30c155046633",
+  "culture_invariant_id": 206,
+  "sort_number": 206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "OHANA Wenn du diesen Charakter ausspielst und mindestens 2 weitere Charaktere im Spiel hast, darfst du 2 Karten ziehen.",
+  "card_identifier": "206/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=fc58e9a7ac69a90b50e00c994e026b9f13fe3f4c9d1ad7f015b1be1223f3415d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=7d23b787897756f7d8fa624b1a61bc6dbf6a2ff458f779377118878f2d456808"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=c7c2f008bd66d2ba185853d5177e0edd5dfe4b23136a75ad9e33f2bd4ea52601",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Chien-Po",
+  "subtitle": "Soldato Imperiale",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "d1fd5839ad177cf9b28ff3c6336c8cb568683243",
+  "culture_invariant_id": 869,
+  "sort_number": 879,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "178/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=981f87740a13598396b4ef419608eac8592bc560994cd7d7547d9bbb304f8cf4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=4f822f7c06dfd622507393f6e16d9fc1bb0eca0b5df540a173f1ae584ae861e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=dc6044cddb0d5b8e4a0ec10ecf529df89e4a6fe97c4955a758e2e910901b8394",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pegasus",
+  "subtitle": "Wolkenflitzer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "abaaf071fa4ea8b6931182d9e08847f123d363c2",
+  "culture_invariant_id": 774,
+  "sort_number": 784,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Pegasus-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) SPRING AUF! Falls du Gestaltwandel benutzt hast, um diesen Charakter auszuspielen, erhalten deine Charaktere bis zu Beginn deines nächsten Zuges Wendig.",
+  "card_identifier": "83/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=963f35e23c91befccc536bb14c103d9d99b7dd396beff14a2a0b00ed0d244727"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=c893271125c6d42abd8fb438e5941d2dd2ac9ae2a959fde5899b223a97bfe504"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=1538362609e7af16ad779ea562e78b50c997cbfce3c9057eea3fe3517d3abfd7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

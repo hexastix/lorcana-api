@@ -1,0 +1,46 @@
+{
+  "name": "Belle",
+  "subtitle": "Strange but Special",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e473ddb0872912473fc4fa98e92df1be8c0a8101",
+  "culture_invariant_id": 142,
+  "sort_number": 142,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: When I use Belle – Strange but Special’s Read a Book ability, can I place any card into my inkwell or does it need to have the inkwell icon?\r\n\r\nA: Belle’s Read A Book ability only allows you to put another card into your inkwell; it doesn’t override any other rules of the normal process of adding a card to your inkwell. The card must have the inkwell icon and you must show it to all players before putting it in your inkwell.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Far-off places, daring sword fights, magic spells, a prince in disguise...",
+  "rules_text": "READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown. MY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4.",
+  "card_identifier": "142/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=13db246bd68672e3ab9ad8580de9d8f979cfee1cc7749af65766b05ea83053da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=0fadd93dc58db41d0f979ee21753b2d996b36348baf44800c1c36510be36baf9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=1351c5137ee45a723595fb9c553babe999be6631d37c805d5de6a84a4d48f916",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

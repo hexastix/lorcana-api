@@ -1,0 +1,46 @@
+{
+  "name": "Belle",
+  "subtitle": "Eine ganz besondere Mademoiselle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e473ddb0872912473fc4fa98e92df1be8c0a8101",
+  "culture_invariant_id": 142,
+  "sort_number": 142,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Wenn ich die Fähigkeit „Lies ein Buch!“ von „Belle - Eine ganz besondere Mademoiselle“ benutze, kann ich dann eine beliebige Karte in meinen Tintenvorrat legen oder muss sie das Tintenvorrat-Symbol haben?\r\n\r\nA: Belles Fähigkeit „Lies ein Buch!“ erlaubt dir nur, eine weitere Karte in deinen Tintenvorrat zu legen; sie setzt keine anderen Regeln außer Kraft. Die Karte muss das Tintenvorrat-Symbol haben und du musst sie allen Mitspielenden zeigen, bevor du sie in deinen Tintenvorrat legst.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Ferne Länder, mutige Schwertkämpfe, Verzauberungen, ein verkleideter Prinz …",
+  "rules_text": "LIES EIN BUCH! Du darfst in deinem Zug 1 zusätzliche Karte aus deiner Hand verdeckt in deinen Tintenvorrat legen.MEIN LIEBLINGSBUCH Solange du 10 oder mehr Karten in deinem Tintenvorrat hast, erhält dieser Charakter +4.",
+  "card_identifier": "142/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=b3bf541e5d469bb0639006890f9f3a96a71596e4f2e159cc6c21bb13e58086b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=22e4b6ba6c515fc0623a8f0f432068b48e1ef2b3adcfda951b8f315610d31517"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=1351c5137ee45a723595fb9c553babe999be6631d37c805d5de6a84a4d48f916",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Prinz Naveen",
+  "subtitle": "Ukulelespieler",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "7019f88f23a40f374d0cc8e7cbb8cb18fd60de3a",
+  "culture_invariant_id": 959,
+  "sort_number": 967,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singen 6 (Die Kosten dieses Charakters gelten als 6 für das Singen von Liedern.) SCHÖN, NICHT WAHR? Wenn du diesen Charakter ausspielst, darfst du ein Lied, das 6 oder weniger kostet, kostenlos ausspielen.",
+  "card_identifier": "3/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=ef5e80f9045b51e63a4f0e80ca01a189e0d4ddaf10a45fdaf0c81048951a8f6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=0817a79137a9d26096501e055fdd76a2da425676495f4eaa354965c6a6b101f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c95767c3baf0888161fb7da0fcfc925e2a28b15bda08420a252f96bd9564b87f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=caba409d64866f37efcec3892c611766fef554f41117a356efd27b8e1e05c44c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

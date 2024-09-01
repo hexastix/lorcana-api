@@ -1,0 +1,43 @@
+{
+  "name": "Ariel",
+  "subtitle": "Singing Mermaid",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "9e45cd57bcaee1034e81d1c387fdbd8b35cdab85",
+  "culture_invariant_id": 694,
+  "sort_number": 704,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Watch and you’ll see—some day I’ll be part of your world!",
+  "rules_text": "Singer 7 (This character counts as cost 7 to sing songs.)",
+  "card_identifier": "3/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=8856943cfdbfbb5ce6d1ffe25dd3fde33876a78b46e4af051e974642d5a3612b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=1d34ef3058fdc37bb502e8e573cafc71976da46ab3b20d927775d895f0f4b08e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=2c8754526d6123e374d4bdfed2aeda3037981cc8fea5cf30f9d1c41b56999179",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

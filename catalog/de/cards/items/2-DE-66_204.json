@@ -1,0 +1,33 @@
+{
+  "name": "Krocketschläger",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "e970bdbe2afc322fb9f32c852422fe71892d93a6",
+  "culture_invariant_id": 282,
+  "sort_number": 306,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "RASENDER IGEL Verbanne diesen Gegenstand – Ein Charakter deiner Wahl erhält in diesem Zug Rasant. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "66/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=f00a031e1a6fb54f61a1fb07cbe9d517b0b7a15ca8f503e2c1a084ee7f8c3160"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=11746725ca7abce87b9c97cb21f4efb32593162f90020003d0eb5b1ae278d331"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=279742f9cf1307e0b0de8850f20c20c2757786c858ec759674a3c17e94f466f6",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

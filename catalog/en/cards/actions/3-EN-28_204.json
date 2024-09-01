@@ -1,0 +1,35 @@
+{
+  "name": "The Bare Necessities",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maxine Vee / David Navarro Arenas",
+  "deck_building_id": "987449c640af6e3414a562b19f5b4b29603a7c6d",
+  "culture_invariant_id": 464,
+  "sort_number": 499,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Forget about your worries and your strife....",
+  "rules_text": "(A character with cost 2 or more can to play this song for free.) Chosen opponent reveals their hand and discards a non-character card of your choice.",
+  "card_identifier": "28/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=3a413abb64072a4a283fd78532f9686b69d0c50305120bb182ef5747cb392543"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=ff996d9432a1e0333bae282dd7fe024ccf0e4b7fc6b57a9bc7307758ecf32e52"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=464cf7d77168408503c4e3e3e1830d78baf8f7d9e6b4b866c1251bf216d2b816",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

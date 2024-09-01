@@ -1,0 +1,45 @@
+{
+  "name": "La Reine",
+  "subtitle": "La plus belle",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "c18044cdeaee089bbfac4cac5d6c3aa8e04a92bd",
+  "culture_invariant_id": 1100,
+  "sort_number": 1108,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages La Reine.) Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) REFLETS DE LA VANITÉ Pour chaque autre personnage La Reine que vous avez en jeu, ce personnage-ci gagne +1.",
+  "card_identifier": "144/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=d0672c96121797a168b9daaae480cef49c083630d812087f5bfb24f26701ab76"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=83fd65200bc2ee615c351de7eaef820837ccc46cef01e3c45249c9ad6d6168ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=40807cabdd43406adff20a22a07ba487f5c48d219654fa5bbe3ff7f91c87571a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

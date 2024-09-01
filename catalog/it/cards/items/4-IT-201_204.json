@@ -1,0 +1,33 @@
+{
+  "name": "Arco Imperiale",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Yari Lute",
+  "deck_building_id": "cded588bc643a1accb5d62c5fb7c6a8644f34ebf",
+  "culture_invariant_id": 892,
+  "sort_number": 902,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ENTRO GITTATA , 1 — Un personaggio Eroe a tua scelta ottiene Sfidante +2 e Sfuggente per questo turno. (Riceve +2 mentre sta sfidando. Può sfidare i personaggi con Sfuggente.)",
+  "card_identifier": "201/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=5b7d769ae896d6a2935fb23b47a7f5933a18bab6fde51d2feaf1a203e52c1ed3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=c98a03765cce13c38fdfc0336b1b2a58abd7318774604f4abe0209e7fef990d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bd3246a91bade142dcf95f0db5a53b89da42fe77a8e8785d308941463bc0d67e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

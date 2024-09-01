@@ -1,0 +1,33 @@
+{
+  "name": "Avalanche",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Justin Gerard",
+  "deck_building_id": "dd99c25c4f87c03bd08c6475bb933b3a8e370b00",
+  "culture_invariant_id": 886,
+  "sort_number": 896,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un peu de neige n'a jamais fait de mal à personne. Ce gros rocher, par contre...",
+  "rules_text": "Infligez 1 dommage à chaque personnage adverse. Vous pouvez choisir un lieu et le bannir.",
+  "card_identifier": "195/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=c04837222d00c08f2168022adf240fb0cbe1ba75f7f8f73ba022a17ca2cd1ba9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=3e37f5c4595653c839a32a8388fe87ec3a756eeae9c8d6765d5842ba929a4c04"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9ca3a7539a5651ff34bf6bb932c05740534439bdc8d38efc66a25a5a75259745",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

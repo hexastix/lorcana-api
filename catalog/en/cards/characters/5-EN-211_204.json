@@ -1,0 +1,43 @@
+{
+  "name": "Clarabelle",
+  "subtitle": "Light on Her Hooves",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Natalie Dombois",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1167,
+  "sort_number": 1175,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Clarabelle.) KEEP IN STEP At the end of your turn, if chosen opponent has more cards in their hand than you, you may draw cards until you have the same number.",
+  "card_identifier": "211/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=b0855807ad995d527552b240a5c47548ec3d55394a54c5dbd4694bf7fb81f8e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=2af1853d2239aed2e8923c25961d5e101f2e98f551379513706eeb60e34ee661"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=3dbe37673ea9ba261de7d75e2fde0fde32d0d977576024eac24102359e99bad8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

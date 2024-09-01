@@ -1,0 +1,33 @@
+{
+  "name": "Stocco di Capitan Uncino",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeremy Adams",
+  "deck_building_id": "f569e647c2ddc5040c35ccaf20487c31e3b00586",
+  "culture_invariant_id": 635,
+  "sort_number": 670,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "INSEGUITELI, PRESTO! Durante il tuo turno, ogni volta che uno dei tuoi personaggi esilia un altro personaggio in una sfida, puoi pagare 1 per pescare una carta. INCOMINCIAMO! I tuoi personaggi chiamati Capitan Uncino ottengono Sfidante +1. (Ricevono +1 mentre stanno sfidando.)",
+  "card_identifier": "199/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=8098c8421e8ab1e8474be92028bf34a9829a972401ee8f9c35a56d0fdd97fe8f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=e50418ea909ae6da03224a83d616e740ea7654d36193e1178b93c4db041d0780"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=779dad561d74d80c0616fe60f50ff0ea004bd3333985d68e3a90d5d708b3965a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

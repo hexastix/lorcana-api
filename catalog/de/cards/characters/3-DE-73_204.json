@@ -1,0 +1,45 @@
+{
+  "name": "Bruder Tack",
+  "subtitle": "Pfarrer von Nottingham",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Denny Minonne",
+  "deck_building_id": "36d317eaeebe671e69cbcdf9e312cd7ae4db6a4d",
+  "culture_invariant_id": 509,
+  "sort_number": 544,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich spiele eine Partie eins gegen eins. Ich habe 4 Karten in meiner Hand. Die gegnerische Person hat 3 Karten in ihrer Hand. Wenn ich jetzt Bruder Tack - Pfarrer von Nottingham aus meiner Hand ausspiele, wer muss dann eine Karte abwerfen?\r\nA: Ihr beide müsst eine Karte abwerfen. Die Anzahl an Handkarten wird nach dem Ausspielen von Bruder Tack gezählt, also gilt er nicht mehr als Karte auf deiner Hand, so dass du und die gegnerische Person mit jeweils 3 Handkarten gemeinsam die meisten Handkarten im Spiel habt.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Scher dich raus aus meiner Kirche! Raus! Raus! Raus!",
+  "rules_text": "DU DIEBISCHER SCHURKE Wenn du diesen Charakter ausspielst, wählen alle Mitspielenden (auch du), mit den meisten Karten auf der Hand, je 1 Karte aus ihrer Hand und werfen sie ab.",
+  "card_identifier": "73/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=3a4f6a932a4939ac74ffa558b5cb72c918f56736098c9134efdf36f33b8c7b2b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=ab5b55786794e9264f27891a6cfba37df0a1fee1ebd8f15fce07f24afa263357"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=d780c3f344206cdd2220dfa21f551e2dcb0004edb322a87806845f410377fa2f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

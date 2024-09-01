@@ -1,0 +1,36 @@
+{
+  "name": "HAKUNA MATATA",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "820f02f5beebca54dc425f38c78f9f8bccea8dea",
+  "culture_invariant_id": 27,
+  "sort_number": 27,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Mais quelle phrase magnifique!",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Retirez jusqu'à 3 jetons Dommage de chacun de vos personnages.",
+  "card_identifier": "27/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=e8f031fb387e37818a5e21d2a7c3d8d727fbec6479e9a6bfb13307ee10ab41e9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=3505c9950403e7c6e71881329133ac32f12051edab2e2d18279ced0dbf057805"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=5d58d5edca77fc5864f433ea7d70e57812d89968db5272972481b61cc4606b5d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Helga Sinclair",
+  "subtitle": "Socia Vendicativa",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "b5dc77f02c6bd98a899931617aa411e51cb55e4e",
+  "culture_invariant_id": 511,
+  "sort_number": 546,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Hai detto che eravamo insieme in questo affare!",
+  "rules_text": "NIENTE DI PERSONALE Quando questo personaggio viene sfidato ed esiliato, esilia il personaggio che lo ha sfidato.",
+  "card_identifier": "75/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=218c63501f9740ea4fd6c11960725bd70130a17ae486032000e179e222c8e69e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=a16dcf9aebc819dfe13606e31fab4a70fe582a0fa3e02a3581183581e35d874b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=22c89976558d7a739fb195ef0cf9a24f935bce8a0147f6e5352d181d9cb87c7d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

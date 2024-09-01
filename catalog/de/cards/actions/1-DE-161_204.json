@@ -1,0 +1,38 @@
+{
+  "name": "Entwickle dein Gehirn",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Pao Yong",
+  "deck_building_id": "7e7a5204a324e3773bc06deedaedb33fe5803b64",
+  "culture_invariant_id": 161,
+  "sort_number": 161,
+  "additional_info": [
+    {
+      "title": "FAQ - Sonstiges",
+      "body": "F: Was passiert, wenn eine Karte mir eine Aktion vorschreibt und ich nicht alles tun kann, was auf der Karte steht?\r\n\r\nA: Wenn eine Karte dir vorschreibt, eine Aktion auszuführen, tue so viel wie möglich, um die Anforderungen zu erfüllen. Dies gilt NICHT für Aktionen, die ein Teil der Kosten sind.\r\n\r\nBeispiel: „Entwickle dein Gehirn“ sagt: „Schaue dir die obersten 2 Karten deines Decks an. Nimm 1 davon auf deine Hand und lege die andere unter dein Deck.“ Wenn du nur noch eine Karte in deinem Deck hast, schaust du dir diese Karte an und nimmst sie dann auf die Hand.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wissen und Weisheit — darin liegt die wahre Kraft! — Merlin",
+  "rules_text": "Schaue dir die obersten 2 Karten deines Decks an. Nimm 1 davon auf deine Hand und lege die andere unter dein Deck.",
+  "card_identifier": "161/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=2e8cd1a6f4f76f13f2a86db9c62837c905ac98392464afae42f914dab241664b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=907922e498cc39ff253249e988f7a8b815e4994b8ad9e392cc114519c2632fee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=f7137ff3f82b0e9b002bf1006ea409194e0d4b7a3a9b3ac7eec4fa24c9eb30cd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

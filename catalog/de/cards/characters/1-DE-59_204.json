@@ -1,0 +1,41 @@
+{
+  "name": "Ursula",
+  "subtitle": "Machtgierig",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "03678905c24f0e4a27521efc04da800f6f83e668",
+  "culture_invariant_id": 59,
+  "sort_number": 59,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Die erste Regel des Schurken-Daseins: Wenn du böse sein willst, musst du Stil haben.",
+  "rules_text": "DAS IST ZU EINFACH! Wenn du diesen Charakter ausspielst, verlieren alle gegnerischen Mitspielenden je 1 Legende. Du darfst für jede auf diese Weise verlorene Legende 1 Karte ziehen.",
+  "card_identifier": "59/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=5f33178954129c7a51fc2f9bb40508a8cbcd9f67bc81d557905eb43b2fc178f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=c7da662e1204f88f86a875402f80d19df31d73094f03b808f34cbf0bc789f9c2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=944c3d24344c302f06d8ab8e16f61f2a61daf059375400c1e6bdc8ec2e70a32b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

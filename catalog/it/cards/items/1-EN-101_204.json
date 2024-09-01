@@ -1,0 +1,33 @@
+{
+  "name": "Dr. Facilier’s Cards",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "9ed2b53642b3c2e3a044510d81777c87acd0b5f3",
+  "culture_invariant_id": 101,
+  "sort_number": 101,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Take a little trip into your future with me! —Dr. Facilier",
+  "rules_text": "THE CARDS WILL TELL — You pay 1 less for the next action you play this turn.",
+  "card_identifier": "101/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=22d4eac396b6bca870f50a4c7038b475a4d05d2c50226bf3bb8021c81c2b59c3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=f4ef94e73da4b4f9ece91c2456618d47671e93c967dc620cf9711206576b8124"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=b8679bd40cb1c0af018b931648346749e6d362005cc62382b6ccb1d466abc2e8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

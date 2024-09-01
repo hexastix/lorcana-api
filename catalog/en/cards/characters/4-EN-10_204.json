@@ -1,0 +1,40 @@
+{
+  "name": "Gaston",
+  "subtitle": "Despicable Dealer",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "227600aa724c645ab4db45734ad272f904d89fe5",
+  "culture_invariant_id": 701,
+  "sort_number": 711,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Yes, yes, everything will be ready. Just make sure you do your part.",
+  "rules_text": "DUBIOUS RECRUITMENT — You pay 2 less for the next character you play this turn.",
+  "card_identifier": "10/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=fc8a5520c3a9b13d63a24c4024652f1b40afc5d7db09b03b52d12b16561c5362"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=d70c17b52921a4e7a1490e0c9fe0ebd0c459ebe75852e935689874f1548518d1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=f2d121d1bbd52614f953dda1658b3609ae42152c692a3ff125588bd43735dbf0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

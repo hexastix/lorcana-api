@@ -1,0 +1,41 @@
+{
+  "name": "Rabbit",
+  "subtitle": "Reluctant Host",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "4e9c3770679408ef21521a605b22faedadaaeb71",
+  "culture_invariant_id": 374,
+  "sort_number": 398,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Pooh: Isn't there anybody here at all?%Rabbit: Nobody!%Pooh: Somebody's there... because somebody must have said 'Nobody.' ",
+  "rules_text": "",
+  "card_identifier": "158/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=0af979bbddca7f251c611bc1eb7be565991ca91d35535a11fba3dc05236195d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=92fc678fc9e0f32fcbbd308fd7a92a9ead926e8e95cc5672fcec7c189d71bbb7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=7f67eb99635f8bc1df8692e6c43403ba3744faf1f73f3032eb83668b50104251",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

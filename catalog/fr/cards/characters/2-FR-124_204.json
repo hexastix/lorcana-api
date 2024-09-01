@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Combattante de Kumandra",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "3250060df7f4fd11ca6980bbeb750a59d5b24581",
+  "culture_invariant_id": 340,
+  "sort_number": 364,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Je rêve d'un Kumandra uni. Je me bats pour réaliser ce rêve.",
+  "rules_text": "",
+  "card_identifier": "124/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=b00d5c785cab71f942b2c015436faaf0b447b87fb421f31a668231db4e96efbe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=5a1a5fb4f9903da1f8da39996e00d75b870f7cc2ecb20e1e7dccf7098d54b16d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=edfdf2a80744dc1434a9895d167f27b0a8e15a5d06955e2023f2f05cf4c2fda6",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

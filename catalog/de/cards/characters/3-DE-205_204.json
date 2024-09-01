@@ -1,0 +1,41 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Übeltäter",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 10,
+  "author": "Thomas Brissot",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 641,
+  "sort_number": 676,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "DIE MACHT DES BÖSEN Für jede Charakterkarte in deinem Ablagestapel zahlst du 1 weniger, um diesen Charakter auszuspielen. DIE GEISTER BESCHWÖREN Wenn du diesen Charakter ausspielst, mische alle Charakterkarten aus deinem Ablagestapel zurück in dein Deck.",
+  "card_identifier": "205/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=039c5893e2a91475a5b940d0e78e92be614ffabc2d3c8c32291925dfc764f085"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=dc4e3b9f2923f920f098002fa303e605b43c04777dbb36e3318227eca24d0cc9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=304ec0fd5826a98aa06221d8911b7374ca7b1243a9842424eb579d363d236f8f",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

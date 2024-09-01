@@ -1,0 +1,40 @@
+{
+  "name": "Orazio",
+  "subtitle": "Losca Canaglia",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "fb1f97b1f33d5d99e2c0a5c21f6d84dde83a0934",
+  "culture_invariant_id": 79,
+  "sort_number": 79,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ehi, non ci sono, Gaspare.",
+  "rules_text": "",
+  "card_identifier": "79/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=9f01d4353add526b21b7da57b1b9f0991e98462d5a166aa8f499722182affd08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=eaedc0d46755a1a3b715eb260be277eccadbbf488a6f92e0f4da37b2a9b1b4a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=57a33d91c14e9e0dd173882e818596589ede7dfc64daa3c4bedcc196148f20c3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

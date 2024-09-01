@@ -1,0 +1,42 @@
+{
+  "name": "Pinocchio",
+  "subtitle": "On the Run",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "9f2f8c38e0d5bc874368f36fa428ddb654ec140d",
+  "culture_invariant_id": 273,
+  "sort_number": 297,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "He raced into the Inklands without a thought.",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Pinocchio.) LISTEN TO YOUR CONSCIENCE When you play this character, you may return chosen character or item with cost 3 or less to their player's hand.",
+  "card_identifier": "57/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9c6a4d93ee8e8d1aeb0a53866ad3dd98bbdebd0a6a71c400ef4a7adbeb3d9246"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=416b247276671f8ad29e43c2d2ff4296f036dc6259f3cb7d05df16245b3ac265"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=4968045e4774b5fc30d989b713bb804dcc8e292febb0d3f511ed530651d0738b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

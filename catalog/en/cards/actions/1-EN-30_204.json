@@ -1,0 +1,36 @@
+{
+  "name": "Part of Your World",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "385d2d6b1f6d4093408da9cd744c87865c9a538b",
+  "culture_invariant_id": 30,
+  "sort_number": 30,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "What would I give If I could live out of these waters?",
+  "rules_text": "(A character with cost 3 or more can to sing this song for free.) Return a character card from your discard to your hand.",
+  "card_identifier": "30/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=b4f9cbf69f9984c088a2e11785218f33744d6e6e8e768ee344a040b100ea770c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=cc195db136b4247b875e8292938d3c73826c2cdea99d20d1b3f6cb3631d1478c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=f625b6f6d29b22c2eaa3cd8d25d79167669b3b9d52779c87895c9e7033a92e91",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

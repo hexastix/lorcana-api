@@ -1,0 +1,35 @@
+{
+  "name": "Vitalisphäre",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sandara Tang",
+  "deck_building_id": "39a768502f12e152241c2e471fcc3ba9e2aaad51",
+  "culture_invariant_id": 825,
+  "sort_number": 835,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "EXTRAKT AUS RUBIN 1 , Verbanne diesen Gegenstand – Ein Charakter deiner Wahl erhält in diesem Zug +2 und Rasant. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "134/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=fe9bbe78027c74dc727286709612090a9386ed298ca3f0a241b749f559b8adf1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=fa77903bd72103b6f5080eb9527394aa1092ab58b8152641dd3d35f3ffe26bc3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=a9aa2f91696f04f0ac3ae949549fbdccf453a5311bd0e5e7769ea789388cda5b",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

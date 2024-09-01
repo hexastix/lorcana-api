@@ -1,0 +1,34 @@
+{
+  "name": "Zepter von Arendelle",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Grace Tran",
+  "deck_building_id": "c727888823a011c91f8ab8c27400f74ffd775c06",
+  "culture_invariant_id": 170,
+  "sort_number": 170,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "BEFEHL — Ein Charakter deiner Wahl erhält in diesem Zug Unterstützen. (Jedes Mal, wenn der Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "170/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=2910f12cbe6034dcfd172c058708e1dabf3511ce2b1989753c8cb7c9cc540176"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=b6e695a1cb912514195b30a929130e77ad63329c9f6ca51b5b59ed0eaa006f6b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=64a9b777bd3b4362509daffd9470f0e2af3dca97a5e46ee9849313b021378096",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

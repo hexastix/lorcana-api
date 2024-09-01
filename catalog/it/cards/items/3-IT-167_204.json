@@ -1,0 +1,33 @@
+{
+  "name": "Porta Blindata",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Nicolas Ky",
+  "deck_building_id": "d4e40d3f6a1cb410ae20b81b5ccb4c8c6304b4ad",
+  "culture_invariant_id": 603,
+  "sort_number": 638,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Solo Paperone sa di <questo> caveau. E non ha intenzione di cambiare le cose.",
+  "rules_text": "SIGILLATO I tuoi luoghi e i tuoi personaggi in un luogo ottengono Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "167/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=024c81d6460ed12f4acf1efe0590d99ff159da2ab9cbb277120c2e069d90ffec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=93792c4922c865971783088705222dcd9446ee6ba524a4d7799b834b5d278628"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=2e72268aa77d4d4c29b3719a2f91022da629447d5c91832a9f1612fd4d3a546b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

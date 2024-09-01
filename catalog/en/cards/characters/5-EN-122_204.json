@@ -1,0 +1,40 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Daisy's Date",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Francesco D'ippolito / Giuseppe di Maio",
+  "deck_building_id": "b19631e75285a54e5b0d403510612154cb7cd88f",
+  "culture_invariant_id": 1078,
+  "sort_number": 1086,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He keeps his eye on the prize.",
+  "rules_text": "PLUCKY PLAY Whenever this character challenges another character, each opponent loses 1 lore.",
+  "card_identifier": "122/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=f869f05efd7f7c7c79bc634e78d4e4bda6507e6a56c32eb0c2d8204e230e3577"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=e9d4b66997e995da07fb151c77d463c80f2bdf735ca4b8c4a4ca3ccfb51249f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a381d44a19fc5dfab7a33b7684259f28776e9b7a836b8d70a42e954b63ed27e3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

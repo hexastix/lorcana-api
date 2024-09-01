@@ -1,0 +1,38 @@
+{
+  "name": "Tod dem Biest",
+  "rarity": "UNCOMMON",
+  "ink_cost": 10,
+  "author": "Ian MacDonald",
+  "deck_building_id": "39f7d10f346a5d4cfce7f3ea92434317a4b05178",
+  "culture_invariant_id": 889,
+  "sort_number": 899,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 10 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 10 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Wähle bis zu 3 Charaktere und/oder Orte und füge jedem davon 3 Schaden zu.",
+  "card_identifier": "198/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=165d891e560daa0674665c5fd7a20edace2114c32e2219dcebe4af4ffec3b57c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=ce2c1e47182755897541c5b635b07667467392b3dd3436314d0e52c25012483f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=786c193119443b24c97b487da6da46c94be27db9665c9f832441e778c16731c3",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

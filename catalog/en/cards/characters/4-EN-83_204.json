@@ -1,0 +1,43 @@
+{
+  "name": "Pegasus",
+  "subtitle": "Cloud Racer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "abaaf071fa4ea8b6931182d9e08847f123d363c2",
+  "culture_invariant_id": 774,
+  "sort_number": 784,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Pegasus.) Evasive (Only characters with Evasive can challenge this character.) HOP ON! When you play this character, if you used Shift to play him, your characters gain Evasive until the start of your next turn.",
+  "card_identifier": "83/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=6d1a933e754fec400d7cf1c62e3f066435534282936fc0056d4b9e91de81a741"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=7565a2ece564d236bdbcc332b9c89df50c5d9f67dcee7999d39606044ad8a40b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=1538362609e7af16ad779ea562e78b50c997cbfce3c9057eea3fe3517d3abfd7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Der große Mäusedetektiv",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "f3066e534c839456566a4571a3fe088026b39ce7",
+  "culture_invariant_id": 354,
+  "sort_number": 378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Detektiv"
+  ],
+  "flavor_text": "Irgendeine Lösung findet sich immer.",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Basil-Charaktere auszuspielen.) ES GIBT IMMER EINE CHANCE Falls du Gestaltwandel benutzt hast, um diesen Charakter auszuspielen, darfst du beim Ausspielen 2 Karten ziehen.",
+  "card_identifier": "138/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b35e79b6523bb3b86de74e986b71ec27a3e5c86ed11393dbbb7fd17ed8a7705c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=a1c9d910b8ded1fde80482091f489c5a1e493d5ca0e02f44278786b26a849832"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b9a7a5d872a048c01fb38310323699c9408ecd58c8f0f758cc741d911441f50f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

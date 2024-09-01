@@ -1,0 +1,42 @@
+{
+  "name": "Nala",
+  "subtitle": "Lionçonne malicieuse",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "d157b0da6c78bd4595a8ec024848d4a5d27f0244",
+  "culture_invariant_id": 1182,
+  "sort_number": 1190,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le titre de championne de cache-cache de Lorcana était à sa portée.",
+  "rules_text": "",
+  "card_identifier": "3/P2 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=3f903bddba95630c5cc17e8b25e47675eca4744707f755045e1e052f59dbd7ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=14b6a560fbacf629a6a14f989e1061354f42a7c5c9280b187a92f2f453c7fbed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=a3a3ad782871a4a836aabad0a8243d0934643066c8b52545e081c4450fcf4a8f",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

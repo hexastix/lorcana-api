@@ -1,0 +1,41 @@
+{
+  "name": "Capitaine Amélia",
+  "subtitle": "Commande le vaisseau",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "06f07cce4b8529674c6da0f1709720cf364f1e60",
+  "culture_invariant_id": 574,
+  "sort_number": 609,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Capitaine"
+  ],
+  "flavor_text": "J'ai repéré une structure étrange à l'horizon. %A bâbord toute, timonier!",
+  "rules_text": "DISCIPLINE Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier les personnages avec Insaisissable.)",
+  "card_identifier": "138/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=a594d0d9ffa994fe75cea1dae49e500bee9f60f790b310e3fd6272e58eacb9e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=a7141c10957fda828e13a8c181296583187c9e4e2e9c0c3e62e3a5d4586e5f0e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=85ef64cc1303ad9c91df9b413902955bf7f587f40dacfa1791cec999e53e0e01",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

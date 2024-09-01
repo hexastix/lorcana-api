@@ -1,0 +1,40 @@
+{
+  "name": "Eule",
+  "subtitle": "Überzeugender Redner",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Agnes Christianson",
+  "deck_building_id": "dfe6a38e469b63500f416689faee62ce3f319149",
+  "culture_invariant_id": 372,
+  "sort_number": 396,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Anhand der Lichtqualität und der leichten Änderung der Windrichtung kann ich mit Sicherheit sagen, dass es Zeit für den Tee ist.",
+  "rules_text": "",
+  "card_identifier": "156/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=0bdc7884f389051044662e29d06dc1c82f6daab3366dd110af1a476b667b7a62"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=064c616fb8ec783ca4656d1b560bfbf94bc0b14dfdf67f61480194432b312730"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=1cd2c94f4f083f47e82dee4ff54358cbe8446efc9f2e1d868e20d8a3eb299930",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Luisa Madrigal",
+  "subtitle": "Magisch stark",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "e5dd22ae0e83e9f520522e07643858b4e2d081e7",
+  "culture_invariant_id": 738,
+  "sort_number": 748,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete",
+    "Madrigal"
+  ],
+  "flavor_text": "Dieser Stein? Kein Problem. Geh und hol die Vision, Hermana",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "47/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=cd22a091f32559ea17ad11d1886c5a16a62bf34307e81fded66d03fedbf94871"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=1e4d0a3e22360b4517aff683a3ac693a621fa96fac20985ccfa223285ae2a5ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b5797be9fc2f3378c121a082d727e8ee3d75012b31d077bc2036faae9bb9839b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

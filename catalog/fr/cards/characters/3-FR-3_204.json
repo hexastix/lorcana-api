@@ -1,0 +1,45 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Répand le mal",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Evana Kisa / Jochem van Gool",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 435,
+  "sort_number": 470,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si j’ai 10 cartes personnage dans ma défausse, puis-je utiliser la capacité “Allons, les enfants” de Perdita – Mère dévouée pour jouer Chernabog – répand le mal depuis ma défausse ?\r\nR : Non, vous ne pouvez pas le jouer via la capacité de Perdita. La capacité “Le pouvoir du mal” de Chernabog ne permet de diminuer son coût en encre qu’au moment de le jouer, sans que cela modifie son coût réel. Ainsi, même si vous avez 10 cartes personnage dans votre défausse, Chernabog est toujours considéré comme un personnage ayant un coût de 10 encres.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Partout, les ténèbres appellent leurs serviteurs.",
+  "rules_text": "LE POUVOIR DU MAL Ce personnage vous coûte 1 de moins pour chaque carte Personnage dans votre défausse. INVOCATION DES ESPRITS Lorsque vous jouez ce personnage, remettez tous les personnages de votre défausse dans votre pioche, puis mélangez-la.",
+  "card_identifier": "3/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=f8054524ff620432a71dd9f97f9d6ac6087a126e60d6b022c2dad37950f5aeb4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=09fc2d11746bfd28a960178e3c0e505a5475d961ca1472e1c5421ccca6c196bf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=15007b7f06365f789800232f41248f068cef345296f1f1eb3186ae1b306722cf",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

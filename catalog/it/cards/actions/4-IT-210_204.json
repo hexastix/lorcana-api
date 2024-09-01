@@ -1,0 +1,38 @@
+{
+  "name": "Ci Son Due Stelle nel Ciel",
+  "rarity": "ENCHANTED",
+  "ink_cost": 10,
+  "author": "Saulo Nate",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 901,
+  "sort_number": 911,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 10 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 10 o superiore può per cantare questa canzone gratis.) Un giocatore a tua scelta pesca 5 carte.",
+  "card_identifier": "210/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=d7c7bed6df3646f97b381d059dd72d0c4733b5105a7e7c86997b01bfbdbb5d6c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=9dab1bd354327ead2d2c5e96a6dce84b843c871eaab9b63d40ec3a15499fee00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=b1e0d342413361c3c54db82bc1dcb8f92bcb5437ca49760de42dde1fcbb8a461",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

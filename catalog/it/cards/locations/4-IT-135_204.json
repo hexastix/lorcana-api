@@ -1,0 +1,37 @@
+{
+  "name": "Il Bell'Anatroccolo",
+  "subtitle": "Pub Poco Raccomandabile",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "d8442ef512485e4740ec831c0beeb50cf8069b5c",
+  "culture_invariant_id": 826,
+  "sort_number": 836,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TRAMBUSTO QUOTIDIANO Ogni volta che un personaggio con 3 o superiore sfida un altro personaggio mentre si trova in questo luogo, ottieni 1 leggenda. Se il personaggio sfidante ha 6 o superiore, ottieni invece 3 leggenda.",
+  "card_identifier": "135/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=5cae1c8e865849985e13fb2d9d4e50a363ec59c9f2373432789c1e47732a45b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=617b788bd28e9333a9da63c3a1e1d0fe9d94752e82fdb0dabfc46f58f55844cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=30cbed654a81bcec67b1df5e2d7f0976de09c83e905cfd7baa7d316968c7be2f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

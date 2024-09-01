@@ -1,0 +1,33 @@
+{
+  "name": "Plate Armor",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "915ef4e692a5bc97a06aca3c141fd01f48a150b1",
+  "culture_invariant_id": 1157,
+  "sort_number": 1165,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WELL CRAFTED — Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)",
+  "card_identifier": "201/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=0b7da007fcd0e58b2f0e2f494015770cec7458e0b00025796bfa0944052989aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=69e2b0e5f03b0f82e3386a6c4c84e51103d457943f4f39466e9b85bf94eba0c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=f6733aa748e2e99c3749c43aa12f22bd39f894a1288fc2a804319969e920f9ca",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

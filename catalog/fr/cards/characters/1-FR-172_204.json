@@ -1,0 +1,42 @@
+{
+  "name": "LA BÊTE",
+  "subtitle": "Colérique et aigrie",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "502da9f4533484bfe02fb51fd83498e2d63e3275",
+  "culture_invariant_id": 172,
+  "sort_number": 172,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Elle te voit comme un tortionnaire et comme un monstre.",
+  "rules_text": "DESTRUCTION Lorsque vous jouez ce personnage, vous pouvez choisir un objet et le bannir.",
+  "card_identifier": "172/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=d5dc01cfd722603b11e0aa4d21ba28158dd3ca23b29f423d3971aa8862e11b78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=4a410dbda9481525b72c64eef80908b2a96efde31eb43bbe61a2f19311b32719"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=00d4f0177f717a02a187cfd21b023d7cc23ccad261b87485598ad377ac66343b",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

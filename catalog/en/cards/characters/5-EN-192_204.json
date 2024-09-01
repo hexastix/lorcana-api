@@ -1,0 +1,43 @@
+{
+  "name": "Simba",
+  "subtitle": "Son of Mufasa",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "794f84fd2ebc3cb03afad4d4a6a7dc5cf90a4cd5",
+  "culture_invariant_id": 1148,
+  "sort_number": 1156,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Simba.) FEARSOME ROAR When you play this character, you may banish chosen item or location.",
+  "card_identifier": "192/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=9f77f0bd1bd56775377fceb9c9483b7d1987c707e3e8397d1e4c7941f2d16004"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=ba22ef90fad14425d8c8f4b00e7f3e8444e86110cb3de2e55d67ef78596eeeae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=e7e21d8986ffaa0aa668e994b9d719cc691289deda183841dc531d05537f0b69",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

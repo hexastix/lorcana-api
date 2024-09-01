@@ -1,0 +1,41 @@
+{
+  "name": "Alma Madrigal",
+  "subtitle": "Matriarca della Famiglia",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Maxine Vee",
+  "deck_building_id": "18a98fa235abcf4d0b586d93830e89dc0ca67460",
+  "culture_invariant_id": 693,
+  "sort_number": 703,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Madrigal"
+  ],
+  "flavor_text": "È solo Abuela che però dirige egregiamente questo show.%—Mirabel",
+  "rules_text": "TUTTI A TAVOLA Quando giochi questo personaggio, puoi cercare un personaggio Madrigal nel tuo mazzo e rivelare quella carta a tutti i giocatori. Rimescola il tuo mazzo e metti quella carta in cima ad esso.",
+  "card_identifier": "2/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=f0ec5b4a7f447ee7ca45c8912279e29d1179baf409fb5758a1ca423693564a7a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5acdc1afb7fcebe9192ac0f9bd049ada5513c9fac4d2348e48541283bf1386f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3a0a5145a0090527d45b6c456ff9d086d3c264bd01bd88563d033dfbb521d7b5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

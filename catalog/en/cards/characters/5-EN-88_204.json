@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Sneaky Sleuth",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "5ec6356f453925f30d4ba08d072c6193045d6291",
+  "culture_invariant_id": 1044,
+  "sort_number": 1052,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Robin Hood.) CLEVER PLAN This character gets +1 for each opposing damaged character in play.",
+  "card_identifier": "88/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=8c4e630cb6d3fda71533381081e92cb1fa41ea67a3c0a75066e87e51a21a26cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=32d423afba51f0b8ee66477ef2d12ce9f51192a26d66c0d670bf3390e7a7a087"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=fcdd9ccfb6f991d8b809fb9ae5a72b632efd9b54ea320efc992ebb4d1ae18e97",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

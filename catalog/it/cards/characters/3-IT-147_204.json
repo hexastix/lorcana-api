@@ -1,0 +1,43 @@
+{
+  "name": "Kit Nuvoletta",
+  "subtitle": "Navigatore",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Roger Pérez",
+  "deck_building_id": "47773147eebaaca874ca1bcb4a9b47503e4dc810",
+  "culture_invariant_id": 583,
+  "sort_number": 618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione",
+    "Protetto"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Kit Nuvoletta.) Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)",
+  "card_identifier": "147/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=42c9f5f88a5eb4c6d06d7c4cd37666163fb0369e2851b4d83736852dd3b3e37f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=78da7508364c72adaa6884e560559fb039497d79bca7851d4b3b0f3c8f658caf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=e14e2b802c90ba3d6bb0f86bf2538b64392b83f08485d307b0cc22cdbc78f72a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

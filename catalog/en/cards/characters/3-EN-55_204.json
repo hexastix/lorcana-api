@@ -1,0 +1,42 @@
+{
+  "name": "Stratos",
+  "subtitle": "Tornado Titan",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Jared Nickerl / Alice Pisoni",
+  "deck_building_id": "9155d58b6e558f58fcffee4ccc7f4308e8834c1d",
+  "culture_invariant_id": 491,
+  "sort_number": 526,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Titan"
+  ],
+  "flavor_text": "Blow Zeus away!",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) CYCLONE — Gain lore equal to the number of Titan characters you have in play.",
+  "card_identifier": "55/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=cdb733b74a9d28c7330b1abe78eec202ee31f193b93c7414f3285231ee0a4ce9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=b4141cb9f67332d9f4027b831e48db7b6d5257b0db1a52b828564e978d1c3a7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=f89fae2b1e87533b689c260b8aba4d62e136e2b977c02f11f0a9918ce8519c73",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

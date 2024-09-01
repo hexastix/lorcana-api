@@ -1,0 +1,43 @@
+{
+  "name": "DINGO",
+  "subtitle": "Mousquetaire",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "88974b7ccdf603a29b402df56365c9ac1c82289f",
+  "culture_invariant_id": 4,
+  "sort_number": 4,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Mousquetaire"
+  ],
+  "flavor_text": "En garde, hyuck!",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il vous défie, un personnage adverse doit, si possible, choisir l'un de vos personnages avec Rempart.) ET DEUX FOIS RIEN! Lorsque vous jouez ce personnage, vous pouvez retirer jusqu'à 2 jetons Dommage de chacun de vos personnages Mousquetaire.",
+  "card_identifier": "4/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=57368d599f740eed98905c59170dd7f343ec1e2e3e22c68d84061d2674ea4536"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=59502e28f8c50777dd47088bb3877a3dbf541410494e85cd4dd0669d0f704906"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=0241db3d1cc94e47b2646edc885b88a410827c5f62fb00f6db10c7e0ad92df28",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

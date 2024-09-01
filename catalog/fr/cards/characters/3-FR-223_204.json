@@ -1,0 +1,44 @@
+{
+  "name": "Porcinet",
+  "subtitle": "Capitaine pirate de Winnie",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "122c433c05a0334dea67706084da9d47eef28c95",
+  "culture_invariant_id": 945,
+  "sort_number": 694,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Yo-ho! Il y a de l'éclat de Lore là dehors, et je vais le t-trouver!",
+  "rules_text": "ET JE SERAI LE CAPITAINE! Tant que vous avez au moins 2 autres personnages en jeu, ce personnage gagne +2.",
+  "card_identifier": "223/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=862e35d3e153f14ba4faea8f0eb2ff2946725b273ff05fd411b15e999231cc64"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=d010c99b47a45d0907c3287809a69b299dd7faeaa6214df1cabf94259dc57fcc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=1502b0ea9cbc6d5818a0801f10dbc51fc702b715c7aef8e5db2f99ec93e2b705",
+  "foil_type": "Silver",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

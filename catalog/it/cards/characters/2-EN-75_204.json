@@ -1,0 +1,42 @@
+{
+  "name": "Cheshire Cat",
+  "subtitle": "From the Shadows",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Jeff Murchie",
+  "deck_building_id": "91da2e177e44b0cdfd1e446b5b8aabb79e2ebafb",
+  "culture_invariant_id": 291,
+  "sort_number": 315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Cheshire Cat.) Evasive (Only characters with Evasive can challenge this character.) WICKED SMILE — Banish chosen damaged character.",
+  "card_identifier": "75/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=cddb50adf9d2ba5ba9f601e0dc0606fce01f35629c04d242faa988d5740c2e27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=d4068ea5ad7ff3c357e0d659c3449a70beeaf7afa0bf63d801dee1602825e4f4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=332a207511fa5b16051135ccd2c9c8e1013a9b43a0e3d1cf9941b1812be95513",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

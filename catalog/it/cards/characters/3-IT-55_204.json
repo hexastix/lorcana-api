@@ -1,0 +1,42 @@
+{
+  "name": "Stratos",
+  "subtitle": "Titano del Tornado",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Jared Nickerl / Alice Pisoni",
+  "deck_building_id": "9155d58b6e558f58fcffee4ccc7f4308e8834c1d",
+  "culture_invariant_id": 491,
+  "sort_number": 526,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Titano"
+  ],
+  "flavor_text": "Spazzare via Zeus!",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) CICLONE — Ottieni leggenda pari al numero di personaggi Titano che hai in gioco.",
+  "card_identifier": "55/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=75acc067681f6b5157ff07f7c487c97c851c9423f6d0829128f50848afb6c36d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=5f16cb736ebd402c49e0149544e9af03fe56174d7435a9a6250d8c6f2a8093d6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=f89fae2b1e87533b689c260b8aba4d62e136e2b977c02f11f0a9918ce8519c73",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

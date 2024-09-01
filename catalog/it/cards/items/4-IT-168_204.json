@@ -1,0 +1,34 @@
+{
+  "name": "Blocco di Ghiaccio",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "67c3a9d35138ced621a95e5ffb3c11d66ec99f27",
+  "culture_invariant_id": 859,
+  "sort_number": 869,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L'inchiostro congelato può essere raccolto e processato per diversi e utili scopi.",
+  "rules_text": "LAVORO DA BRIVIDI — Un personaggio a tua scelta riceve -1 per questo turno.",
+  "card_identifier": "168/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=cdc771adbdd4384ecdcfbb476f35351eb14bb0308fc5ac494509ee0b13b93b73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=f53897cb9e499c7f9f90a58d7aae18f7182be5ad0b4f5ebcbba824a127e262e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=015e1a85f827c093a94c73f5058e43361520536958d4af99ebf711cdb5397d44",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

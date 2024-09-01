@@ -1,0 +1,40 @@
+{
+  "name": "Heihei",
+  "subtitle": "Amico Affamato",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "1fcbc21b6e560c7749bf04b54c03b38cfe8db2f2",
+  "culture_invariant_id": 919,
+  "sort_number": 939,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Alleato"
+  ],
+  "flavor_text": "Non ha idea di come mai si trovi qui. E nemmeno Ursula.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "6/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=086c751edaa68d34673afe3ee7a99dcf156e84cb7ad82312f059199cdf5e12a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=ddab1e5c797d4d58b2faedc02461e4ec116c875dc426e53352fb55b196af3834"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

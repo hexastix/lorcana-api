@@ -1,0 +1,33 @@
+{
+  "name": "MONTRE À GOUSSET",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "33b357a4ae708cc24a69167fda5f9129aa942bb6",
+  "culture_invariant_id": 68,
+  "sort_number": 68,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Si vous croyez que ça m'étonne. Votre horloge est détraquée. Elle retarde de deux jours. — Le Chapelier Fou",
+  "rules_text": "EN RETARD! , 1 – Choisissez un personnage, il gagne Charge pour le reste de ce tour. (Il peut défier le tour où il est joué.)",
+  "card_identifier": "68/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=6aff00892d038626373710bcc7b04b81426ebf2408e2dbed333514596849b5a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=85ca02e0dbc5b5fb807b6efe05990a8e14ceac05c159b2f9573fc3e6205af1d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=2bf2fa7c5001def4d455b79ecac66e544d4894e8f3ddaabadd45e519606e23de",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

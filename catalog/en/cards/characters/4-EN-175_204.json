@@ -1,0 +1,43 @@
+{
+  "name": "Ariel",
+  "subtitle": "Sonic Warrior",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "6a0d7fa630c6ddef725f555467e4c5b51515a664",
+  "culture_invariant_id": 866,
+  "sort_number": 876,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Ariel.) AMPLIFIED VOICE Whenever you play a song, you may pay 2 to deal 3 damage to chosen character.",
+  "card_identifier": "175/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=6e8180e8150e4651f1a31f779d6b77bd3a9398ef87476c343654a12771bd7fc7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=46e5298f877101ba189aa1ee836082428995b5a558e0ad61d009b1045260616c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=9c435f4a94411e8d7b1ee775b69230240e74a692508141cfb2396e570f98af21",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

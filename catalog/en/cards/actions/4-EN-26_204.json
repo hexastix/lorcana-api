@@ -1,0 +1,34 @@
+{
+  "name": "Bruno's Return",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "491ba73c6014d66a41525858502fc4bf26828e36",
+  "culture_invariant_id": 717,
+  "sort_number": 727,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I feel like I missed something important.",
+  "rules_text": "Return a character card from your discard to your hand. Then remove up to 2 damage from chosen character.",
+  "card_identifier": "26/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=e95b0ad05fd747cdb88a1ff3d8045fb9878fb11c6649c61793b13ff814ea2933"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=a3c7662ed76ef1367dbe5fa649504d76de164a2044c0d58faf4ba464c87d8dda"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=8518ffd56a50c949bf9433866ed528cafdb4a2320f7c1b356036f00ffb70ae8c",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

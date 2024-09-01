@@ -1,0 +1,32 @@
+{
+  "name": "Glückstreffer",
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Luigi Aimé",
+  "deck_building_id": "89bb5b5f63329b81c593cf53c757ea3f16035f16",
+  "culture_invariant_id": 934,
+  "sort_number": 954,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Die gegnerischen Mitspielenden wählen gemeinsam einen deiner Gegenstände und verbannen ihn.",
+  "card_identifier": "21/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=ac38c5c4bb4f164d3b637a2908fa97191a50c2a7d79c4359fc62e36723c14772"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=7ba8536eefb252a13543b86dac971ec5bf1682c63fdb1d071bfe9852280f8c8b"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

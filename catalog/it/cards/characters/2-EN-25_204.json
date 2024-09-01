@@ -1,0 +1,43 @@
+{
+  "name": "Snow White",
+  "subtitle": "Well Wisher",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Javi Salas",
+  "deck_building_id": "b98e167eead8609a7571bb2108cdad63d4cfcfdd",
+  "culture_invariant_id": 241,
+  "sort_number": 265,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Snow White.) WISHES COME TRUE Whenever this character quests, you may return a character card from your discard to your hand.",
+  "card_identifier": "25/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=67fa0679ac4f1ab529b6bf300fc05be9f25502ef26a98a3dd675050a56832686"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=4df30ce3f5e1e052ddec90c6217d13049369e3bebe8f47bb264122aac2646a99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=7b5bd6cfb8f56561171195a1afc222d9f06e2f903ce1dbc67fc25d3e7938afbf",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

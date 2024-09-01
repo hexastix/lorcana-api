@@ -1,0 +1,42 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Brave Little Tailor",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "24d9608bc36bf0e9c6e158b0569ebcd8d0515343",
+  "culture_invariant_id": 115,
+  "sort_number": 115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "115/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=4af122b4bf9422baa7aedc291a82ed2bfa98e386bf6c5713c09bd8058b417598"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=fa657b7d90601b52275db06f9b86c22bee9b87c2f8db922095f6c86b63db6d97"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=26c65cfa9fd11c34cdd1c3ced391add4a95772523ddf67b3c2850c728a02dc59",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

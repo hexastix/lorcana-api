@@ -1,0 +1,33 @@
+{
+  "name": "CARTES DU DR. FACILIER",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "9ed2b53642b3c2e3a044510d81777c87acd0b5f3",
+  "culture_invariant_id": 101,
+  "sort_number": 101,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Venez découvrir votre avenir avec moi! — Dr. Facilier",
+  "rules_text": "DIVINATION – La prochaine carte action que vous jouez durant ce tour coûte 1 de moins.",
+  "card_identifier": "101/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=08ef5847a23be0212545b6bb7027ba8ff687c4176b2a9953612095d39afe5500"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=f1757652411ddb052cbff046e6225c8de69748bcabb457b29cd3e74d83c76516"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=b8679bd40cb1c0af018b931648346749e6d362005cc62382b6ccb1d466abc2e8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

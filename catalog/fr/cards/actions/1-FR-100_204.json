@@ -1,0 +1,33 @@
+{
+  "name": "TRAHISON BRUTALE",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Michaela Martin",
+  "deck_building_id": "136b3048b89e5bbb29de953662fc59ebfb914b8d",
+  "culture_invariant_id": 100,
+  "sort_number": 100,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un véritable roi doit apposer sa griffe. — Scar",
+  "rules_text": "Choisissez un personnage, il gagne +2 pour le reste de ce tour. S'il s'agit d'un personnage Méchant, il gagne +3 à la place.",
+  "card_identifier": "100/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=e71b8423b5e7a741bc64f48559b475cfe3c811db6d48bc5df98e7edc234402a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=69a3b1388a4f8800a2f611c632694d488cc59d8b609fb124f8c508d6cfc86963"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=d24605bcff8e82662d46904926a3e349133ec28cc5e0f09a3d112ad19ab03fb3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

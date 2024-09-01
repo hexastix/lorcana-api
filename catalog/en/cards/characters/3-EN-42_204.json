@@ -1,0 +1,49 @@
+{
+  "name": "Jafar",
+  "subtitle": "Striking Illusionist",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Nicola Saviori",
+  "deck_building_id": "d7bc114b05b2a9acf333a7ac61dcd6201048884f",
+  "culture_invariant_id": 478,
+  "sort_number": 513,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If my Jafar – Striking Illusionist sings Friends on the Other Side, do I gain 2 lore due to his Power Beyond Measure ability?\r\nA: Yes. Exerting a character is the cost to have that character sing a song, so Jafar will already be exerted when the effect of Friends on the Other Side has you draw 2 cards.\r\n\r\nQ: During my turn, I exerted my Jafar – Striking Illusionist to quest with him. When I draw a card at the beginning of my next turn, do I gain 1 lore from Jafar’s ability Power Beyond Measure?\r\nA: No. The first thing players do at the beginning of their turn is ready their exerted cards. By the time you draw a card at the start of your turn, Jafar will be ready and you won’t be able to use his Power Beyond Measure ability until he’s exerted again.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Jafar.) Evasive (Only characters with Evasive can challenge this character.) POWER BEYOND MEASURE During your turn, while this character is exerted, whenever you draw a card, gain 1 lore.",
+  "card_identifier": "42/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=09fa5be044ef8d197986e37922ffee04d35cbb2c2eed0ec1f6347f74243ab736"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=d7c1ea6fee8900700806f94e3fc37e142b99709744bf514ecad181e4acbc2623"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=644d7c1a73deb48caf904401b174995c614b09a237edaeb3565c40b7d5007504",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

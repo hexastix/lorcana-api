@@ -1,0 +1,44 @@
+{
+  "name": "Minnie",
+  "subtitle": "Plongeuse émerveillée",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Adam Fenton",
+  "deck_building_id": "21266db7b36d71ffdf1724077c586bfa8a5b870e",
+  "culture_invariant_id": 330,
+  "sort_number": 354,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable",
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Minnie.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) AVENTURES SOUS-MARINES Si vous jouez au moins deux cartes Action durant votre tour, ce personnage gagne +2 pour le reste de ce tour.",
+  "card_identifier": "114/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=2499ba733e0d992ef97765a02253f4df2b1a5f5ca94c7ce74bed1fbd19917b2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=64f5560167517a0052eb52342aa53b4cbd8ff0c3d23c9cfcefc5f4af1731e6e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=d187fc0f13dbe39dba4c1c74343978d930c025a85f0a11ae5ab00ccd28665056",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

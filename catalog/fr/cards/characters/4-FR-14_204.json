@@ -1,0 +1,40 @@
+{
+  "name": "Max",
+  "subtitle": "Chien de berger fidèle",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "b250a8edcddaa91a173c4dbc846a67a388852f79",
+  "culture_invariant_id": 705,
+  "sort_number": 715,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "VIENS, MON CHIEN Si vous avez un personnage Prince Eric en jeu, jouer ce personnage coûte 1 de moins.",
+  "card_identifier": "14/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=9bd90f13a4b2af1bd9b16d8b43cf49f89c902857d382751bb1df2a2fcd95a1c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=e6c20fa116ab7e28da4d7ca8ead5064cd3f664ec1cf3438773e15c31012de685"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=485b96a71e6d7339696c6d8f9143010c6fd8b0269181017a2b31cf5fc44f152e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Luisa Madrigal",
+  "subtitle": "Rock of the Family",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "82cce795ee075eb98b612b69862d2f8c19ca368b",
+  "culture_invariant_id": 875,
+  "sort_number": 885,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "There's no way Ursula's creatures are getting to that donkey.",
+  "rules_text": "I'M THE STRONG ONE While you have another character in play, this character gets +2.",
+  "card_identifier": "184/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=4be870fda371df02261d606ce02080fc6ffac17bc2e88086b3f09ee4f6019ba0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=cecfd7a6523d34918a94b52afa083d2c4770bd6d2fc514304150579a3e12442a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=5fa6e45be424a83be2eb8a9dc1828ae04c6d49f1d6479b6c7a91f84629a22692",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Patch",
+  "subtitle": "Chiot intimidant",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "dcd8b13bdaaf51885db54956f3a56d6f87a5f371",
+  "culture_invariant_id": 450,
+  "sort_number": 485,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chiot"
+  ],
+  "flavor_text": "Tout comme Ouragan, il tiendra tête à n'importe quel méchant.",
+  "rules_text": "ABOIEMENT – Choisissez un personnage qui subit -2 jusqu'au début de votre prochain tour.",
+  "card_identifier": "14/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=54501d2af348f234562b55c1af629abca78b138504827d84c9c90fe533518435"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=ab22a8e5275ea3fd448bcbccb15cb74fcf336c9b8470f3ae7938072536dc1f5c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=00371f403b99643f1b46ed324209b0209cd842a0fc6dcfa39ae0309adf8eb2a1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

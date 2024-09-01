@@ -1,0 +1,42 @@
+{
+  "name": "GÉNIE",
+  "subtitle": "Fait le show",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Giulia Riva",
+  "deck_building_id": "53677bcf26b3b3a85ed1c61ea70cfd53296be7c2",
+  "culture_invariant_id": 75,
+  "sort_number": 75,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Et quand je dis abracadabra, on s'éclate et tu disparaîtras par magie.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) TU DISPARAIS Lorsque vous jouez ce personnage, choisissez un personnage et renvoyez-le dans la main de son propriétaire.",
+  "card_identifier": "75/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=74031796fe9f170919346cf1c3e97f2a2aa87a24133edb607137c1591fe96458"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=0a474d67c0c6b6f9d741f6df49116795e3b0a1873be32248c4e4bbd68efac080"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=94f6d707fc8f07df9f0adeb60678cf37e439e745f7f6a4245bc39794726ba4f5",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

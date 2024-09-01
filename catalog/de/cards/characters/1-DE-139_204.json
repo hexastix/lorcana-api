@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Wächterin der Träume",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "88f3b49fc2874d9eb1cb392887fe8c005c52bba9",
+  "culture_invariant_id": 139,
+  "sort_number": 139,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Während die Prinzessin schlummerte, erwachte ihre Macht.",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Aurora-Charaktere auszuspielen.)SCHÜTZENDE UMARMUNG Deine anderen Charaktere erhalten Behütet. (Gegnerische Karten können diese Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "139/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=584516c44139bf9515d07c74f176d99c2c09fee346048debc36ff3c7d868c55c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=361f99b19efed36fda225633c7d67d8850fc585a33737d9a0a44fd047b98b1a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=ea53fb440348173618862407933c744140e99710ff62b752386bd34b84e0b89d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

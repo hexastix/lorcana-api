@@ -1,0 +1,41 @@
+{
+  "name": "LA FÉE CLOCHETTE",
+  "subtitle": "Mini tacticienne",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "53e3a38f0b94170b6766ad77868a9a1f3f572889",
+  "culture_invariant_id": 194,
+  "sort_number": 194,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "Parfois, tout ce qu'il faut c'est un soupçon de génie tactique.",
+  "rules_text": "PLANS DE BATAILLE - Piochez une carte puis défaussez-en une.",
+  "card_identifier": "194/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=6359c80381ef6ccf8924b07d3e021a2088426b4f1c42c19262f63f19243ffdad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=a38fd0a6581413d57eb63f18af8cd3dcad1b298e01fc5befbab11ada4f05a667"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=f8d5ba6af81a2cc7e8c47d50d8c90b27c95c6b05d583ab70bfa43aba500f28b1",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

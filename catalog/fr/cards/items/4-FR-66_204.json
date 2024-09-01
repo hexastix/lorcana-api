@@ -1,0 +1,35 @@
+{
+  "name": "Trident de Triton",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "4cac163f4d3f43aef8387cb36619d3521d9b290d",
+  "culture_invariant_id": 757,
+  "sort_number": 767,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Imaginez tout ce pouvoir entre de mauvaises mains...%—Ursula",
+  "rules_text": "SYMBOLE DE POUVOIR Bannissez cet objet – Choisissez un personnage qui gagne +1 par carte dans votre main pour le reste de ce tour.",
+  "card_identifier": "66/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4c32842facf85f8efa38816512284ed5fa6729c8377d49873b3dfb15d2bc35ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=9f18b9d3db85a2f8091bcf018e601bddf068e5e0b31ee169e777d5ea8dd36ea9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4793f60193ff1093d36c1ac7ecc5c859651c6e8ca950d2510a54c0661c9e80fc",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

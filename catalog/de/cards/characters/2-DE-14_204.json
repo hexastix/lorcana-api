@@ -1,0 +1,46 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Verratener Anführer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "63a29aa0ab62842bfd36595e8ed690cfdc1ed928",
+  "culture_invariant_id": 230,
+  "sort_number": 254,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Mein Mufasa wird verbannt und ich benutze seine Fähigkeit „Eines Tages geht die Sonne unter“. Die Karte, die durch die Fähigkeit aufgedeckt wird, ist eine Aktionskarte. Wenn ich diese Karte zurück auf das Deck lege, liegt sie dann offen oder verdeckt dort?\r\n\r\nA: Verdeckt. Alle Karten im Deck sind zu jeder Zeit verdeckt, sofern nichts anderes angegeben ist.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "EINES TAGES GEHT DIE SONNE UNTER Wenn dieser Charakter verbannt wird, darfst du die oberste Karte deines Decks aufdecken. Falls sie eine Charakterkarte ist, darfst du sie kostenlos und erschöpft ausspielen. Falls nicht, lege sie zurück auf dein Deck.",
+  "card_identifier": "14/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=14c1867cf5d4993df7e896a2dd2777c415cf6f940e2d414044c459bf79b3cad0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cc856355bf738e2a6bce00d4d2aa861b4f6e47c2a2c7cf60231045f21332c028"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cb7ff7df800f3601621da9eee5aee9dbc1eca9a6dfedb72c2fe2b94a08607276",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

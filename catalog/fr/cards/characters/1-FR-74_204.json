@@ -1,0 +1,46 @@
+{
+  "name": "FLYNN RIDER",
+  "subtitle": "Charmant voleur",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "5fbb4404791aacf38f1c7a5736e154eb4a398b23",
+  "culture_invariant_id": 74,
+  "sort_number": 74,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: J'ai 2 cartes en main. Mon Jafar- Gardien des Secrets défie Flynn Rider - Charmant voleur de mon adversaire. Quand la capacité « Le grand Jeu » de Flynn Rider Charmant voleur se déclenche-t-elle et combien de dommages Flynn Rider subit-il suite au défi ?\r\nA: La capacité Le grand Jeu de Flynn Rider- Charmant voleur se déclenche dès qu'il est choisi pour le défi d'un personnage adverse. Cela signifie que le joueur qui lance le défi doit se défausser d'une carte avant que des dommages ne soient infligés durant le défi (à l'un ou l'autre des personnages). Dans l'exemple ci-dessus, vous devrez vous défausser d'une de vos deux cartes, ce qui signifie qu'il ne vous en restera plus qu'une. La capacité de Jafar - Gardien des Secrets augmente sa force d'un montant égal à la quantité de cartes dans votre main, il aura donc une force de 1 lorsqu'il infligera des dommages à Flynn Rider.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Je ne souhaitais pas en arriver là, mais vous ne me laissez pas le choix.",
+  "rules_text": "LE GRAND JEU Chaque fois que ce personnage est défié, le joueur qui a lancé le défi choisit et défausse une de ses cartes.",
+  "card_identifier": "74/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=53f7caa528466b3e7850120336df650faa795d8b6250479c891923b3f1f36d83"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=abc0ab5315dd5c565d19c178b7afd57bf8d75cd996fc159309c2fb03c32cb176"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b8e3df720c206a08c1c8a08b02e9ef311b99a7abd2971140cfbe66eeb9bcfd65",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

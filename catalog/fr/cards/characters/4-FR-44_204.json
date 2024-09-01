@@ -1,0 +1,42 @@
+{
+  "name": "Flotsam & Jetsam",
+  "subtitle": "Anguilles piégeuses",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Brian Kesinger",
+  "deck_building_id": "c63d1e30731763bca52de192578836dccb9a5fb1",
+  "culture_invariant_id": 735,
+  "sort_number": 745,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter: Défaussez 2 cartes (Vous pouvez défausser 2 cartes pour jouer ce personnage sur l'un de vos personnages Flotsam ou Jetsam.) (Ce personnage est considéré comme portant à la fois les noms Flotsam et Jetsam.)",
+  "card_identifier": "44/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=cf6b59f5bab2c19c5a880ec7df353dda87a0450e9116f73305294885cf2150f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=48cce3e2f6bdbd69e4f5e4f7d11c20e15777f59beb25a2a8df9dbe6f1bd35aa6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=513ad29e295570477140dac1b01bb77e7decfd06e6156234f441b258eda78855",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

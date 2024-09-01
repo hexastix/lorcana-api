@@ -1,0 +1,42 @@
+{
+  "name": "Arthur",
+  "subtitle": "Novice Sparrow",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Brian Weisz",
+  "deck_building_id": "29f376ad78c551ed84b353cdcbe6ae4a1bceaa40",
+  "culture_invariant_id": 1077,
+  "sort_number": 1085,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Reckless"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Hold it, boy. Not so fast. —Merlin",
+  "rules_text": "Reckless (This character can't quest and must challenge each turn if able.)",
+  "card_identifier": "121/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=05ab5cd46009f2608aa63db02724d6f468b9f58d67fc7948116a8ac81921dd67"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=253ededf0aa9cca7bcef135132e171b4e2936730a8560d52fe40de72addeb552"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=4187999e49412661c4e4582d44ebb23091b8f7146ed635dac147422105856aa3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

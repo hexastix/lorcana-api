@@ -1,0 +1,45 @@
+{
+  "name": "Hercule",
+  "subtitle": "Héros divin",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "1372c6d5229587e89693707e53401c018887b762",
+  "culture_invariant_id": 397,
+  "sort_number": 421,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Prince",
+    "Dieu"
+  ],
+  "flavor_text": "Un bon gars à avoir à portée de main quand quelque chose ruine vos créations d'encre.",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Hercule.) Résistance +2 (Les dommages qui lui sont infligés sont réduits de 2.)",
+  "card_identifier": "181/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=d7af6b05b69e3e661a3aabd470c9782e65bde8ddc7112ca1c85a6f4067c4bdcb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=a7d02662207fd35b4bf74e60c9c8d9d377d52e1371c1f503842399e1292da644"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=fd96ce6b15af90702cb6f1ffc2b28311a91402e8aa51919e45900a4bcd88ad6a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

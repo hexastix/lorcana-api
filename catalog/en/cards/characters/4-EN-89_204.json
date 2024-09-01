@@ -1,0 +1,40 @@
+{
+  "name": "The Fates",
+  "subtitle": "Only One Eye",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jon Densk / Hayley Evans",
+  "deck_building_id": "a006d6c335ba5f1e0446f91c16ab10467268b77b",
+  "culture_invariant_id": 780,
+  "sort_number": 790,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "We know everything. —Lachesis",
+  "rules_text": "ALL WILL BE SEEN When you play this character, look at the top card of each opponent's deck.",
+  "card_identifier": "89/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=12be0df46de91cda884ae9dc23d715a6be5bd319a524c21a32917cdb352cb1b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=ce7e97105f0080c389f9f9567555906baed7bbac9b5fef3ce8a840ec063df375"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=310af1dba59fd7ae455ca8163685c66726d053b69678165e4d58f83d75121320",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

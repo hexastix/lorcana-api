@@ -1,0 +1,33 @@
+{
+  "name": "Maurice's Workshop",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Antonia Flechsig",
+  "deck_building_id": "9eb2122e42f3807342d6c09800108855dec2073b",
+  "culture_invariant_id": 384,
+  "sort_number": 408,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The solution you need could be just a few adjustments away.",
+  "rules_text": "LOOKING FOR THIS? Whenever you play another item, you may pay 1 to draw a card.",
+  "card_identifier": "168/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=0d009bb29027decd92f7ce1cfb044472c4abdabc01c22ed81aaa11e273de6be4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=7eb182e362d8fdaa0771460bb0437f04698d1f95653398a65c889b2eb7f1d5db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=791c260b8a84e4325fa3fa99fa4b69989c10d49619b6367acc42123537429899",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

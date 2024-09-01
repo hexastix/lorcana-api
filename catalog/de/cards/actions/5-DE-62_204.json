@@ -1,0 +1,33 @@
+{
+  "name": "Wissen und Weisheit sammeln",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "5c09a4c51f5fe4668bbd8723ebc416da70603684",
+  "culture_invariant_id": 1018,
+  "sort_number": 1026,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Denk nach! All das Wissen war direkt hier vor unserer Nase. Wir mussten nur an der richtigen Stelle suchen.",
+  "rules_text": "Sammle 2 Legenden.",
+  "card_identifier": "62/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=4ce868ae42bcf121d3ad6606bb616aa1a49f1024d1f6a505d026a21f38ade401"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=feeab2f87190192e0e2513fd1bfb7d6d4f0b0fc424dede143387b936a41c675c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=200304562daded762a5c1241cf101f6c53e5232d66f8f238d5a999c35aafb5d2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

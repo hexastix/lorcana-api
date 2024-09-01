@@ -1,0 +1,44 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Electrified Owl",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Michaela Martin",
+  "deck_building_id": "578bdd170d24c10c27b0de9d21eb62b130201c69",
+  "culture_invariant_id": 1003,
+  "sort_number": 1011,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift",
+    "Evasive",
+    "Challenger"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Archimedes.) Evasive (Only characters with Evasive can challenge this character.) Challenger +3 (While challenging, this character gets +3.)",
+  "card_identifier": "47/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b25c3ae3f99b4afcd2dc432c1493d57fc25e5547b5e798a0c8e08a6c4a4db5e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=dddf50e2d32084233a8ed43798db83f86662b45b7515de693cf38b52efb33c90"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=092cfe9158c58ff7ad2671dab59f6ef5885b56e13fa5d5a867edad403b0a9794",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

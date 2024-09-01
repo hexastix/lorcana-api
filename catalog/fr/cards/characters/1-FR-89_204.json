@@ -1,0 +1,41 @@
+{
+  "name": "MICKEY MOUSE",
+  "subtitle": "Pilote de bateau à vapeur",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "98e74f278b9358ae6e4e6e05ffa6b6c7aa4a416b",
+  "culture_invariant_id": 89,
+  "sort_number": 89,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Capitaine"
+  ],
+  "flavor_text": "Sur les rivières, à travers les Terres d'Encres, le petit bateau à vapeur siffle en réponse à la joyeuse mélodie de son pilote.",
+  "rules_text": "",
+  "card_identifier": "89/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=b98fd92e295a959157bd510c8c041be65cd1fdee9066bfbf2e1d85c2bdedb2db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=d4f5394edf53dad4eebb3503fe0a568e5ac57febeaa79629548545d3f09b1f60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=bf89ae2761bc11cd85a59fcebf26be79f8a9eefabc33ec436ae3d8019ddbd1c8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

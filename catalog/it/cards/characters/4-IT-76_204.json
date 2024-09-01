@@ -1,0 +1,43 @@
+{
+  "name": "Era",
+  "subtitle": "Regina degli Dei",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "908c1d368aae7b1e8b09740cb282e4eae501ef42",
+  "culture_invariant_id": 767,
+  "sort_number": 777,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Regina",
+    "Divinità"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) DEA PROTETTIVA I tuoi personaggi chiamati Zeus ottengono Protetto. SEI UN VERO EROE I tuoi personaggi chiamati Ercole ottengono Sfuggente. (Solo altri personaggi con Sfuggente possono sfidarli.)",
+  "card_identifier": "76/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=a83a2a22ec80b74e598c6f45bc6b9b46bb4d0dbc77399e9a32cd93891ed3a2d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=d0e7a7ed0626b8a751c2f84070b01343da079c8d3e7e843196680d9adb050eb0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=69a471523617fb2564e6baaf06cb4929284893231dbe75dd4b141ca9173db47a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

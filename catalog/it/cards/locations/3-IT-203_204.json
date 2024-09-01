@@ -1,0 +1,37 @@
+{
+  "name": "Nottingham",
+  "subtitle": "Castello del Principe Giovanni",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Bryn Jones",
+  "deck_building_id": "49eaf235e4c4e6023ea58dbe1ef6315db3948ef4",
+  "culture_invariant_id": 639,
+  "sort_number": 674,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sir Biss: Dico, ssssire, il castello di vostra madre sarebbe il posto perfetto per dare vita al nostro piano!%Principe Giovanni: Mamma!",
+  "rules_text": "",
+  "card_identifier": "203/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=532e99f80e92cf5433a1c907622927ffcb0bf25a4057cbe4045d6e04aa4f7048"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=6d709b2cbe9195f8b70b376208f8427b63103fc29a3c71b8de6d807569f0f628"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=b7b96921d4ddf121010ef8791345865b9f772624913564fd30d18f942f705131",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

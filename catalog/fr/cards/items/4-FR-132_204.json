@@ -1,0 +1,35 @@
+{
+  "name": "Médaillons Lestés",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Defne Tözüm",
+  "deck_building_id": "e357b66e6d92b0712271abd9ecb5a28d7d32212c",
+  "culture_invariant_id": 823,
+  "sort_number": 833,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DISCIPLINE ET FORCE , 2 – Choisissez un personnage qui gagne +2 pour le reste de ce tour. Chaque fois qu'il défie un autre personnage durant ce tour, vous pouvez piocher une carte.",
+  "card_identifier": "132/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=4aabdacb541cdae6021710414ee6d67700e41e96fa2e35329b9b5b08f14c696d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=92f4c8e1ca239c754638c416ac1d836ffb2832c4c95586cb901ca683e47dde99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=2d173b9c8671871b34cd322b543fd6a68ebb54123a47b1e5131e39df4e7a6555",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Lucky",
+  "subtitle": "Der 15. Welpe",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "14af32285e4e637e9c48c8e3b7aad9d9d7fc3cc9",
+  "culture_invariant_id": 444,
+  "sort_number": 479,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich nutze die Fähigkeit „Ein Prachtexemplar“ meines Lucky - Der 15. Welpe und decke zwei Charaktere auf, welche 2 oder weniger kosten. Kann ich mich dazu entscheiden, nur einen dieser Charaktere auf meine Hand zu nehmen?\r\nA: Nein. Wenn du Karten für Luckys „Ein Prachtexemplar“-Fähigkeit aufdeckst, musst du dich entscheiden entweder alle Charaktere mit Kosten von 2 oder weniger oder keinen Charakter auf deine Hand zu nehmen."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "",
+  "rules_text": "EIN PRACHTEXEMPLAR – Decke die obersten 3 Karten deines Decks auf. Du darfst davon jeden Charakter, der 2 oder weniger kostet, auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck. HUNDELIEBE Jedes Mal, wenn dieser Charakter erkundet und du mindestens 4 weitere Charaktere im Spiel hast, erhalten deine anderen Charaktere in diesem Zug je +1.",
+  "card_identifier": "8/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=ea1d86e3296f076012cf41f83058a4c7215b6f3b05b13805ea209744b6dfa6e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=143f71ebc31d74626685de3aec7f0f673e37bd040871a1754bda2c660e1fc65e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=37cadf9447b5cc816009c10cf13fc019e7dfda6024fe1c7add2b583cf9942234",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

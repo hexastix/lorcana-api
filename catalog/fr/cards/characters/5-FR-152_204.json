@@ -1,0 +1,41 @@
+{
+  "name": "Minnie",
+  "subtitle": "Inventrice à l'esprit vif",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Lauren Levering",
+  "deck_building_id": "c0b4aae2229dabf0c8d5b00e3aeb6187d965ef0c",
+  "culture_invariant_id": 1108,
+  "sort_number": 1116,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "Le Glaceur 2000 ne fait pas le poids face à ça.",
+  "rules_text": "CATAPULTE À GÂTEAU Lorsque vous jouez ce personnage, choisissez un personnage qui subit -2 pour le reste de ce tour.",
+  "card_identifier": "152/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e9d11cf0cad52dc2306f772d83b5438430938673a163d6233020c323876bc434"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=099409f013f3bf57532667d354d73d6e708f2dc769d0a78ffad450c46ede6b18"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e676401d777eb4124fefdf8ea01045a3507e9acfa471dda09807fe6d2b4cb16f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

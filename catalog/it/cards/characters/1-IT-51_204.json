@@ -1,0 +1,41 @@
+{
+  "name": "Topolino",
+  "subtitle": "Stregone Caparbio",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Nicholas Kole",
+  "deck_building_id": "7b1a76e2d2e48966c05afd3777ab1b57b83cd005",
+  "culture_invariant_id": 51,
+  "sort_number": 51,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Incantatore"
+  ],
+  "flavor_text": "Punta sempre a fare piazza pulita.",
+  "rules_text": "ANIMARE LE SCOPE Paga 1 in meno per giocare i personaggi Scopa. LAVORATORE INSTANCABILE Ogni volta che un tuo personaggio Scopa viene esiliato in una sfida, puoi riprendere in mano quella carta.",
+  "card_identifier": "51/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=4642398a389a8d8765da90bc0f079771d48cbd9634b11e85ef2ba8e9f17df7a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=1911a8c55abbad3afc60c82cddfb47fadf8526f2bbe5854613d6eee5634d6fce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=898f7e3fac2b2904e55b2370b254470c0aaf7ed6385cb7c49ee59c85e42cc53e",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

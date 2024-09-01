@@ -1,0 +1,40 @@
+{
+  "name": "Megara",
+  "subtitle": "Cinica Affascinante",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Yu Nguyễn",
+  "deck_building_id": "8e31efeb3393cdf6117bf0de38f47c93204d5f89",
+  "culture_invariant_id": 770,
+  "sort_number": 780,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Con l'amore, arriva sempre una fregatura.",
+  "rules_text": "PATTO LOSCO Quando giochi questo personaggio, scegli e scarta una carta o esilia questo personaggio.",
+  "card_identifier": "79/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=33008ad500e70271f7eacda549b2a4caf4ec6a66c7d2dd743ae33b8de7e03d47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=daf60aa0d64072b44a3b801eea1d7ee221ac7bcdcd5e198f55977bf81ec7a22a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=bf40ea663b73c166dc65fa8c1dd9c9f8343efabb60e50fa870db55dd45af501b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

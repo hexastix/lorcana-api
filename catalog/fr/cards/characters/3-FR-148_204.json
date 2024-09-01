@@ -1,0 +1,42 @@
+{
+  "name": "Kit",
+  "subtitle": "Ourson intrépide",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentin Palombo",
+  "deck_building_id": "3f5ab1825bd1fe21e090a0b8eff482833549bc44",
+  "culture_invariant_id": 584,
+  "sort_number": 619,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ravi d'avoir récupéré son aéro-surf, il s'élança dans les Terres d'Encres.",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "148/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=c12da2100df964d670b38699a7bec749df210b12eefd1f5aa498f5e3fd2c669c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=4b94ff8e5b50c899612e4efef6bc0afb210f1b637c295e08b810a1e90b58ce2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=927a3590f41c92076f847f48bb42926149d7d476b9aef20b97cbd13a316ea03b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

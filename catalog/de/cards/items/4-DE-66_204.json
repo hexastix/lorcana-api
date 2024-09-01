@@ -1,0 +1,35 @@
+{
+  "name": "Tritons Dreizack",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "4cac163f4d3f43aef8387cb36619d3521d9b290d",
+  "culture_invariant_id": 757,
+  "sort_number": 767,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Stell dir all diese Macht in den falschen Händen vor...%—Ursula",
+  "rules_text": "SYMBOL DER MACHT Verbanne diesen Gegenstand – Gib einem Charakter deiner Wahl in diesem Zug +1 für jede Karte auf deiner Hand.",
+  "card_identifier": "66/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=e1dbab2d2af7642fb80cad7ee7f2bb60c97c9f5553eec6c99b225de91cd904e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=5e8b1b61e893dc8794c6812c19efe37c5150267f47b9d623453c36cd814f3485"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4793f60193ff1093d36c1ac7ecc5c859651c6e8ca950d2510a54c0661c9e80fc",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

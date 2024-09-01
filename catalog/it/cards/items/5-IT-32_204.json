@@ -1,0 +1,33 @@
+{
+  "name": "Cromicon d'Ambra",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Dustin Panzino",
+  "deck_building_id": "ff6fa7884f48d5a7efc043dc128bbb578edad508",
+  "culture_invariant_id": 988,
+  "sort_number": 996,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Date conforto ai deboli e agli stanchi.%—Iscrizione",
+  "rules_text": "LUCE D'AMBRA — Rimuovi fino a 1 danno da ogni tuo personaggio.",
+  "card_identifier": "32/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=f00f7d19a8fa412d052be959d009c401e10a803b44f27879f371dc1a3ab76ccd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=65679dfe40063552385dbd1ddd968d5d9e5a62cf73cc81e3e3fac3ad0f44aeaf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=cfa47ad216e2e63d7dfe9c76213998987b1363c0375b5683cc27fb0bb691d617",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

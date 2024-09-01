@@ -1,0 +1,32 @@
+{
+  "name": "Whirlpool",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "8650c1723c7bcc41e48f9a2077b8c630670a6978",
+  "culture_invariant_id": 941,
+  "sort_number": 961,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Exert all opposing characters. They can’t ready at the start of the their next turn.",
+  "card_identifier": "28/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=d4d328c1eec190cc79292c66299d2f52d2ab5051e0f4d71f1b3d7f8eccacf20b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=ae0a50778cbbaea77f3a0635611b3e137a5faea3a972e265ef3145987d424ace"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "MULAN",
+  "subtitle": "Soldat impérial",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Mel Milton",
+  "deck_building_id": "55c43a8042650d3b7d79099e5ff68e2941e49d7f",
+  "culture_invariant_id": 118,
+  "sort_number": 118,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "UN EXEMPLE Lorsque ce personnage en bannit un autre via un défi durant votre tour, tous vos autres personnages gagnent +1  pour le reste de ce tour.",
+  "card_identifier": "118/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=a71a42d848edb78a2027834470d49fe5221c3b904e2b2d8f83277ac8ef321c5d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=99bc9d7a5f334793b3ecfe153ed33a7a6541b57649151c8348d58dca338e55c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=575894a9860d6d17445dc7dd0db87318dcefbc22ff0d303aca2f876b5e2dc35c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

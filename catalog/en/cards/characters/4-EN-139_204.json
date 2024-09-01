@@ -1,0 +1,43 @@
+{
+  "name": "Ariel",
+  "subtitle": "Treasure Collector",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Miss Tania Soler",
+  "deck_building_id": "40c4bd3ba073f42de5b7fe1697a04fdd67105db4",
+  "culture_invariant_id": 830,
+  "sort_number": 840,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) THE GIRL WHO HAS EVERYTHING While you have more items in play than each opponent, this character gets +2.",
+  "card_identifier": "139/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=13f77ecfb642ca807346b0736378749ee55ff0147250ace1daf83813fa7597dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=ac741e4bb8cc91c340ac3655c0c2a8a3d325cbc8913ce345a6af66898b0e7536"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=51023af3782b5a405cc2535c2e889747fff092734a692105f2f770d0671ac0b2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

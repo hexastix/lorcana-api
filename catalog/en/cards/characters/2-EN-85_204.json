@@ -1,0 +1,45 @@
+{
+  "name": "Lucifer",
+  "subtitle": "Cunning Cat",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "ee4d4809396b53e10d975f147e56450ed93eaaff",
+  "culture_invariant_id": 301,
+  "sort_number": 325,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: If my opponent plays a Lucifer- Cunning Cat and I have only 1 card in my hand which is a character card do I have to discard it?\r\n\r\nA: Yes. If you do not have an action card in hand when Lucifer- Cunning Cat is played you must choose to discard 2 cards. When you choose to discard more cards than you have left in hand you must discard as many cards as you can."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "There must be <something> good about him. —Cinderella",
+  "rules_text": "MOUSE CATCHER When you play this character, each opponent chooses and discards either 2 cards or 1 action card.",
+  "card_identifier": "85/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9e25b780f16f0d3cdf59d7f1d554dd943dd457b97c9bf727878912e41733a546"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=15309146e9765b50ba7304b94ffdba4d9679f49882ac2ba2eed6350dd1310f1c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=caa9b4d98dbb41b5774d0770153faffab424f5c419ba662cf1aecd3f8bbd55c2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

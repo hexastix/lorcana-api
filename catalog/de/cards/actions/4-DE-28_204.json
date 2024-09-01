@@ -1,0 +1,37 @@
+{
+  "name": "Diese Familie",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Giulia Riva",
+  "deck_building_id": "4d9b353aa7f368d78fa825e4fdce71da6b544363",
+  "culture_invariant_id": 719,
+  "sort_number": 729,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 7 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 7 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Schaue dir die obersten 5 Karten deines Decks an. Du darfst bis zu 2 Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "28/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=f011696ac567426252443b461ab1696c09bfccb05ea9c5d032f86bba88ca9916"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c24eb0aecfd01ed265a4d55dc2dd69d7950cc45315dfce373a708e5baa8f0fc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=33c924e3858167decf60f86616f4bd2fa1f7f7fc4d7dca4fbbf47a288d74130b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

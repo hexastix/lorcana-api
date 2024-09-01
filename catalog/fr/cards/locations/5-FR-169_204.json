@@ -1,0 +1,37 @@
+{
+  "name": "Le grand Illuminarium",
+  "subtitle": "Salle de bal resplendissante",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "2a85c33d948660b7c2e070d5eec49a5d5b4e5f30",
+  "culture_invariant_id": 1125,
+  "sort_number": 1133,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L’allégresse de la fête illumine toute la pièce.",
+  "rules_text": "ACCUEIL CHALEUREUX Les personnages sur ce lieu avec Soutien gagnent +1 et +2.",
+  "card_identifier": "169/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=eb33a01d6b84a945e105d933736dd3fe373b471b15e77ac957f7e80396285529"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=3724c8b768ca1f776cf12dec61356b202be69e3837a5cb2978f5a1e66886d1a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=9f47906677cbdf5fc196243ae3cca674159da917d4924e3bf4ee0d68ec301a7f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

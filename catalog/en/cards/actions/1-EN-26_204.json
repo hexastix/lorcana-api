@@ -1,0 +1,33 @@
+{
+  "name": "Control Your Temper!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "55f9630150960925f548c841768e0cd6ac3aa1ef",
+  "culture_invariant_id": 26,
+  "sort_number": 26,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chosen character gets –2 this turn.",
+  "card_identifier": "26/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=6e4c22f051be10179435b31b8c724615bb5ca2e0244a7306ad4664c1ac7a3864"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=c94516af98b5f6f85edc296dd7e1b3aea6f4950e8632eec10b95b0712976b00e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=192ddf2551b3f5613e58801005513a70761bcabed1738294e0b39e214527fc24",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

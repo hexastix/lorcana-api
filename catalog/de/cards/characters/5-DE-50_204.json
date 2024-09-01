@@ -1,0 +1,42 @@
+{
+  "name": "Olaf",
+  "subtitle": "Fröhlicher Passagier",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Andrea Parisi",
+  "deck_building_id": "6b436a5973bdf158f42db6f0468d40f368f6e4e9",
+  "culture_invariant_id": 1006,
+  "sort_number": 1014,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "DEN WEG FREI RÄUMEN Für jeden gegnerischen erschöpften Charakter im Spiel, zahlst du 1 weniger, um diesen Charakter auszuspielen. Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "50/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=e2d37dbbaea1598134208937fd355ec8acb44554a845237d5c0b08d131a6dbc8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=bf650d387e93a41bbe1f6991137f4eeebb12a53157e5ec147a36af403e6079b0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=53dd8c678549066e3f77d5b2f8c92c5aaee6445f1b970ff65f446f7dc2e46b9a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

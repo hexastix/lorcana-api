@@ -1,0 +1,40 @@
+{
+  "name": "Madre Gothel",
+  "subtitle": "Manipolatrice Presuntuosa",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "efb38f749cb6a632dcfeab1adc5d4aa4e4297a8d",
+  "culture_invariant_id": 1045,
+  "sort_number": 1053,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Nessuna bella donna aspetta in fondo alla fila senza protestare.",
+  "rules_text": "RESTA CON ME Quando giochi questo personaggio, puoi pagare 3 per far riprendere in mano al suo giocatore un personaggio a tua scelta.",
+  "card_identifier": "89/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=16a8411c41ef2c8602dded8fe323284c67079118d9982f90da4490085993376d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=a34d070acb5a2ebe1afb9b2d52b32c1db2b6e4412dcc31d020c93c17a97b5ac6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=5b0d5188289910cacbbc38ce8f77cb7c7165cdeec333c86640664904ef3bfcde",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

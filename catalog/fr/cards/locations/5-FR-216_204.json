@@ -1,0 +1,38 @@
+{
+  "name": "Fête de Ratigan",
+  "subtitle": "Arrière-salle sordide",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Rachel Elese",
+  "deck_building_id": "d7c49b894c3a37882bbb3d7e033724e8e84eb280",
+  "culture_invariant_id": 1172,
+  "sort_number": 1180,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FÊTE DES PARIAS Tant que vous avez un personnage ayant au moins un dommage sur lui sur ce lieu, ce lieu gagne +2.",
+  "card_identifier": "216/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=b625a0bca5af84973e93354e3dbf550277c0c9de8c36b2124e802a94b5d10af1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=dcd2b500319849041b4e8981b01d4f7a854b87e814745aa5ae4213a12fb15193"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=c9172ba8b690cc38ced83bdeb4a5c8d91c1d895376170360eb22f09b283cbd4c",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

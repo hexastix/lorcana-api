@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Sharpshooter",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "f66d5ab4d3a54fec003c4f80526a7a6667ce7c86",
+  "culture_invariant_id": 1074,
+  "sort_number": 1082,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "MY GREATEST PERFORMANCE Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.",
+  "card_identifier": "118/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=aebc17caf980386c43c999a928b207d536e8b3a51695954321a9e7165d5c91d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=9d8dd42de85749dab4903359f571aad3fb5b6f183fb936a6e50d10c7176da589"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=b4e27b57683227fd5b5d25a98ac1120396b07b18b91cb2406e933206e7ebcd81",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=8ccac8868f408c3b6149ed1101e8f5b635c1aa13b863e49f0042f3ea45a6ce3b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

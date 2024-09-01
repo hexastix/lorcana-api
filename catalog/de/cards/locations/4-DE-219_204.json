@@ -1,0 +1,38 @@
+{
+  "name": "Arielles Grotte",
+  "subtitle": "Geheimer Ort",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "ade3b9a1cc4c9a87627a75f1318e62b804de153e",
+  "culture_invariant_id": 910,
+  "sort_number": 920,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SCHATZKAMMER Solange du mindestens 3 Gegenstände im Spiel hast, erhält dieser Ort +2.",
+  "card_identifier": "219/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=d7b304ecc7b51fcadeabbc7ac14284240bb64f7a6202f7d68577b12097980a38"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=8163868ad287c153fcda8b30a788153ef428662435ff3fbb6341885bc33c162d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=8a560c3dbb9f5681298b4f286a60d62fcaa84d43863214f20a1bb232f8012f1c",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

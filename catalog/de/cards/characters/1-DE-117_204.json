@@ -1,0 +1,41 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Vom Ozean auserwählt",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Tanisha Cherislin",
+  "deck_building_id": "045c9d82ec1f6de1fc7e93d21807204b5adf2985",
+  "culture_invariant_id": 117,
+  "sort_number": 117,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Du bestimmst, wer du bist.",
+  "rules_text": "DU BIST NICHT, WAS MAN SIEHT Wenn du diesen Charakter ausspielst, darfst du einen Te-Kā-Charakter deiner Wahl verbannen.",
+  "card_identifier": "117/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=0907a2e8f249499abab318ff4d1bf05572e139335989608756f4d14569a139f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=2755719b56d09aa3e81ddedc2689d1360b5c5d485aaed5d6898779e90c4eeb9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=62a5a3a2dc1ded7c0619c7e62b96c3a8b2fe83836fa2f73b5b8953b55b99cb51",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

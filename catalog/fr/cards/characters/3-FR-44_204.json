@@ -1,0 +1,46 @@
+{
+  "name": "Balais magiques",
+  "subtitle": "Plumeau dansant",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Giulia Riva",
+  "deck_building_id": "cb2138848bcc8eaa3b83ee763a9e79f2de568321",
+  "culture_invariant_id": 480,
+  "sort_number": 515,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Puis-je choisir un personnage déjà épuisé avec la capacité “Nettoyage à fond” de Balais magiques – Plumeau dansant ?\r\nR : Oui, vous pouvez et dans ce cas, ce personnage ne pourra pas se redresser au début de son prochain tour.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Balai"
+  ],
+  "flavor_text": "Propreté tout en souplesse.",
+  "rules_text": "NETTOYAGE À FOND Si vous avez un personnage Mage en jeu lorsque vous jouez ce personnage, vous pouvez choisir un personnage adverse et l'épuiser. Il ne pourra pas être redressé au début de son prochain tour.",
+  "card_identifier": "44/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=a18fad409de3b76ed5b570ce884a7e24573c09d421aa2f59f3cb00ba97c5c87e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=fee1c8c3d3913215ad9ffbe01fa057741287e98e07951bfa3aea8e90d309e6fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=e91350a3a5fd6c1da04dfe1b6f4b7eafb2b16713ae391f3510a868d7ad355998",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

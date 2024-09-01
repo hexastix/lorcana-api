@@ -1,0 +1,40 @@
+{
+  "name": "Cuordipietra Famedoro",
+  "subtitle": "Imbroglione Solitario",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Federico M. Cugliari",
+  "deck_building_id": "456a3064e0e69929c0b9426e3bc37b6341b3573a",
+  "culture_invariant_id": 576,
+  "sort_number": 611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "E comunque nessuno può dirmi che fare!",
+  "rules_text": "NON SE LO ASPETTERANNO MAI! Durante il tuo turno, questo personaggio ottiene Sfuggente. (Può sfidare altri personaggi con Sfuggente.)",
+  "card_identifier": "140/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=27505ba9cae2be07560ca4e002096a86075bbf983aa3847c862441a2b21ca013"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=b48b5fe2f07c750d3aecdb5cfda3aca596b6d1a809c0555f7bb6b720923f4c07"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=968fb036d4f5707a4e87b230b0fa16a7b61f497ca1f1d60357862155c1e3f30c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

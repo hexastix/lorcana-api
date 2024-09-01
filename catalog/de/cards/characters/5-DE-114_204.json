@@ -1,0 +1,41 @@
+{
+  "name": "Taffyta Muttonfudge",
+  "subtitle": "Publikumsliebling",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "a6456a6446cdb4d9a61078c45ea55152f8bbcc31",
+  "culture_invariant_id": 1070,
+  "sort_number": 1078,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Verlier niemals dein Ziel aus den Augen. Den zweiten Platz.",
+  "rules_text": "PUBLIKUMSMAGNET Wenn du diesen Charakter ausspielst und mindestens einen Ort im Spiel hast, verlieren alle gegnerischen Mitspielenden je 1 Legende.",
+  "card_identifier": "114/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=c8acab3e674a6c12b29b233baa254a5a3d3b7957f6115a333e5dccce316d75df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=9506da54d983d763f9e3f9f1ef581774af76d40702e073ac666050b7d87fff12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=d4c2b3f6472163f752249c9b3583f6ed3ed9e6e4f66a34ca0786e3f9c12022fe",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

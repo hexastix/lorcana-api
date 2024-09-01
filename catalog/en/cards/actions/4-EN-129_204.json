@@ -1,0 +1,35 @@
+{
+  "name": "Be King Undisputed",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "6a96a371b36522fc0c2a15b36f8bc89a4f1a96f7",
+  "culture_invariant_id": 820,
+  "sort_number": 830,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Respected, saluted",
+  "rules_text": "(A character with cost 4 or more can to sing this song for free.) Each opponent chooses and banishes one of their characters.",
+  "card_identifier": "129/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=ba26f86a4a9ebd895809177c77fa25de2dff2ff0bd6405a23297482b0644f965"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=c72f0a0346376886e4b1ccd4f5810d0f7809a053620f2c00691949f223566e8a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=137ad338e338f9bf64bc4d4451627df773a84edb1f31a6831d45f24e8d9fc9dc",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Boshaft und eitel",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "094496e1f92348975aa93f49b2bb514555b8d8d7",
+  "culture_invariant_id": 56,
+  "sort_number": 56,
+  "additional_info": [
+    {
+      "title": "FAQ - Kosten",
+      "body": "F: Wenn ich „Einfrieren“ benutze und die „Die Königin - Boshaft und eitel“ meines Gegners auswähle, kann ich dann mit der Fähigkeit „Höre mich!“ der Königin eine Karte ziehen?\r\n\r\nA: Nein. Wenn eine Fähigkeit Kosten hat, dann muss der jeweilige Spieler der Karte diese Kosten bezahlen, um die Fähigkeit zu nutzen. Wenn ein anderer Effekt Die Königin erschöpft, darf man damit keine Karte ziehen. Und natürlich kann man die Fähigkeit auch nur einsetzen, wenn Die Königin bereit ist."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Königin"
+  ],
+  "flavor_text": "Erhabene Schönheit gepaart mit unvergleichlicher Gerissenheit. Besteht noch Zweifel, wer die Schönste ist?",
+  "rules_text": "HÖRE MICH! — Ziehe 1 Karte.",
+  "card_identifier": "56/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=018a6cd8d9e2faaa83827856ab922cc02c451afa35c774731d63dbddf9032f99"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=c5b09cd25294a39eddca1954ffae1c53847529b7fbbadfe26e06fbc1ead8f808"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=dfd954b54d70198f9b386992c79e5590af3fda602c79141c381c5f39c9d89c2c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Try Everything",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Nicolas Ky",
+  "deck_building_id": "0a5e3974022258c07e0af28d56ba5709c9bb85e9",
+  "culture_invariant_id": 981,
+  "sort_number": 989,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "I want to try even though I could fail",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per cantare questa canzone gratis.) Rimuovi fino a 3 danni da un personaggio a tua scelta e preparalo. Non può andare all'avventura o sfidare per il resto di questo turno.",
+  "card_identifier": "25/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=79c8ea90a79d7b81ff5d412f4f6f79369daa3d80412ef3f3a91c1eccba0e2707"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=1c018a2ec46b36be2116815f3d5d816353f576e0bd67f29f3e600e6fbee4f09b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=980dd78339a426f128fda18796a90cc8da33563d64d80960f684c4a6c398aee4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "So Shiny!",
+  "strength": 5,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "66d3b6106914373f1b4612e524cff18f5144a3a1",
+  "culture_invariant_id": 159,
+  "sort_number": 159,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Watch me dazzle like a diamond in the rough!",
+  "rules_text": "WHAT HAVE WE HERE? When you play this character and whenever he quests, you may return an item card from your discard to your hand. GLAM This character gets +1 for each item you have in play.",
+  "card_identifier": "159/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=61298c83daaf4e6acc6305aec03fbc6f3fced75ff0052eb5f28c4b028a840bd0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=1eb9e2684046cdb71ba28312ca8df8ccfd73ae9d34882e05fc3768d8cc3b6bc1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=88b00bc32ddb4f6ab2b64e8daee7b7e6599f9fad2838efc3b7ebb5cb09e7effe",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

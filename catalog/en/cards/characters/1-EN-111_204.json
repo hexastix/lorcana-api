@@ -1,0 +1,42 @@
+{
+  "name": "Goofy",
+  "subtitle": "Daredevil",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "2cf1d9fb4a6212482783f1497e8c8a756df859b0",
+  "culture_invariant_id": 111,
+  "sort_number": 111,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "Sometimes you gotta give it the ol’ jump and hyuck.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "111/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=b811b7b6a2b93f526549cbebfed597c6e1f0a513dee1e7b0ad87f1de29192af1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=ec143e209c6f4ea538cf4e5d03172008eb7be4149e039f922e6923bb9c5c4b2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=ce2b13d795ecd1fa0f0bc39570aa17129fdbd3f5285a262e614f87fcbd8e3a31",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

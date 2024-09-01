@@ -1,0 +1,45 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Capitaine Mousquetaire",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "1f7fdffbe44a423876467063b69dc2d789758da9",
+  "culture_invariant_id": 707,
+  "sort_number": 717,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart",
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Mousquetaire",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Mickey Mouse.) Rempart, Soutien MOUSQUETAIRES UNIS Si vous jouez ce personnage en utilisant sa capacité Alter, vous pouvez piocher une carte pour chaque personnage avec Rempart que vous avez en jeu.",
+  "card_identifier": "16/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=5093a50d6b8b5d404ec13754fb75b4099c6094ff655e4be9b34f1d0b26960b52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=958e1ccafb1cd2a489df4b26e46e0bc8b2ca11abb6131f1e1afea2b6942b47fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=c110beffde06177aaa23fa62125424e2fe97f1d0ec1a994f927e8131b9cc1b4b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

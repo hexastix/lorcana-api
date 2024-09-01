@@ -1,0 +1,37 @@
+{
+  "name": "La vie d'un pirate",
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "740b1d11aff60c73e623704984ea2d1ed98a312f",
+  "culture_invariant_id": 819,
+  "sort_number": 829,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "À l'unisson"
+  ],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "On s'dilate la rate%Quand on est pirate",
+  "rules_text": "À l'unisson 6 (Vous pouvez n’importe quel nombre de vos personnages ou de personnages de vos coéquipiers coûtant au total 6 ou plus pour chanter cette chanson gratuitement.) Chaque adversaire perd 2 éclats de Lore et vous gagnez 2 éclats de Lore.",
+  "card_identifier": "128/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=27bb46cda38ae62e23617b1b13aa4d7809650dbaeb4f69180ca3ca3b529ae467"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=48f24daa1e2386ea1b1fb00ed7a8b8f1604814615a77ba9877abebb72c062574"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=1cc7a6ad2fadf9c20e6c849ae5e3cd56dde7d78cd5d74b5b80a22646f74e9eca",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

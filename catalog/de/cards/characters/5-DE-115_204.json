@@ -1,0 +1,39 @@
+{
+  "name": "Denahi",
+  "subtitle": "Rächender Bruder",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mike Parker",
+  "deck_building_id": "adab77f9fef673a37441d973404956b042bb30ce",
+  "culture_invariant_id": 1071,
+  "sort_number": 1079,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Es wird dir noch leid tun, was du getan hast! Ich verfolge dich bis zum Azuriten-Meer, wenn es sein muss!",
+  "rules_text": "",
+  "card_identifier": "115/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=75eb5d1f4ef23a831e67249919e95d4b19f9c6ed36ca3cb05415d639179fa562"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=bead12cc216858e600a244c10fdd4ae1c9a915976f2fe462e4058a0251f4f6c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=45dad1cf9c987afa49aa6a3d403ee7ab70238fb29a486d1177f6660c0e83b2e2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

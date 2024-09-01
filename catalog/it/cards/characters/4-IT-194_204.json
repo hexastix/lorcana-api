@@ -1,0 +1,42 @@
+{
+  "name": "Yao",
+  "subtitle": "Soldato Imperiale",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "277f711b5cc9107e8bae7d0ab1d79e8e08ca13f3",
+  "culture_invariant_id": 885,
+  "sort_number": 895,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ti colpirò così forte da far venire il capogiro ai tuoi antenati.",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.)",
+  "card_identifier": "194/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=b6fae5fa2a72fe66b5c3696f1d3777a61c4f996354bcd2ceec44af21cd874703"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=ccd2e526d41f65c8be80f27e132b9bd73d82e797d928314473b18dd4bc515bd5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=580cf97a2b08b7af8a4e3588d7d779f11888647fcdcf57c28dc55c3d818916b2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Heilendes Leuchten",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Philipp Kruse",
+  "deck_building_id": "c4353a13ff7ad0865ca1e7860a6c5feb8d15866d",
+  "culture_invariant_id": 28,
+  "sort_number": 28,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Dreh jetzt nur nicht durch! – Rapunzel",
+  "rules_text": "Entferne bis zu 2 Schaden von einem Charakter deiner Wahl.",
+  "card_identifier": "28/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=6910f75cebb67b5a24d5e05c81a2a441ff232d9d490831671be57d0b894b59af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=dbf86087ee40d2958f103563b2b7992348e5e6bf2cc0dc534208f2701c58848c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=3a3da9375c1624fd5799f04900c1c86cb47256ba6d2330a116fe467a8f57b4db",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

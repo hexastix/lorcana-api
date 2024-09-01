@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "King of the Pride Lands",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Luis Huerta",
+  "deck_building_id": "ce63a503da81e5566193b8b840955f4ac9517ea3",
+  "culture_invariant_id": 155,
+  "sort_number": 155,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "A king must care for all of the creatures in his kingdom, no matter their size.",
+  "rules_text": "",
+  "card_identifier": "155/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=0280daf9bf1cf75450de793c4f70581bdf664b18f4e62d42bbcec8c08038aa73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f589a39de3f018617ca5656e4593bfe41a98480aafb47a37edcc9ff512407a01"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=7a48ea3323d815355f171f1636873fe6286da061377fe94d0103a4fbd9f56340",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

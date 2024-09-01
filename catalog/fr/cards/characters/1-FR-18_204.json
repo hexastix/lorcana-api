@@ -1,0 +1,41 @@
+{
+  "name": "RAIPONCE",
+  "subtitle": "Guérit les blessures",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "345752dc9d9f01dec742580418fa17e39c835485",
+  "culture_invariant_id": 18,
+  "sort_number": 18,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "RÉPANDS TA MAGIE Lorsque vous jouez ce personnage, retirez jusqu'à 3 jetons Dommage de l'un de vos personnages. Piochez une carte par jeton ainsi retiré.",
+  "card_identifier": "18/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=8fff80ec277d30599468056d6445ff6fcd976f5821d5b613095b54fc2e9c81f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=c64858885d5229f09c1328c1316065eb180de56833e745affd274b0b961e13b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=99acfda111c7dd3d87130e179b25672d558726880978ff20720ea8705f833320",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

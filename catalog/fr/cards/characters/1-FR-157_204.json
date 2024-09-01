@@ -1,0 +1,40 @@
+{
+  "name": "ROBIN DES BOIS",
+  "subtitle": "Archer sans égal",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "John Loren",
+  "deck_building_id": "70178c995e77dc152c2c3be988201b087ac1a747",
+  "culture_invariant_id": 157,
+  "sort_number": 157,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Nous autres… Nous empruntons à ceux qui ont trop de fortune.",
+  "rules_text": "NOURRIR LES PAUVRES Si un adversaire a plus de cartes en main que vous lorsque vous jouez ce personnage, piochez une carte. JOLI TIR Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier les personnages avec Insaisissable.)",
+  "card_identifier": "157/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dd8236710908e035a7694e0a0690e50e905876728646458d97dcf39d4b019e98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=8c76578c419a65fb822f3c5739beb6e34b033202c80332bbe0c377ed0ab7241e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=095fde80acecddb543a8ea4c17eba6cbdee3bd9b52e9109bde34a0129fad7b04",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Arielle",
+  "subtitle": "Spektakuläre Sängerin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "cae9d71be6c7f2ae989356aff5c1d3e307890630",
+  "culture_invariant_id": 2,
+  "sort_number": 2,
+  "additional_info": [
+    {
+      "title": "Illustratorin",
+      "body": "Die Illustratorin der Karte ist Alice Pisoni"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singen 5 (Die Kosten dieses Charakters gelten als 5 für das Singen von Liedern.) MUSIKALISCHES DEBÜT Wenn du diesen Charakter ausspielst, schaue dir die obersten 4 Karten deines Decks an. Du darfst 1 Liedkarte daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "2/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5916e588bbe1a882be5a3f8d72c880dce23caf85dc1f924e6605082948af0ed3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=806ff13170735b08f6e4d90e769566f1422dde8f5b3d2aff2aa86e95dfef6b25"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=8831a3c8eef43e43e51969336e47ffef700a2f632aed5efb83f48643921127b3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

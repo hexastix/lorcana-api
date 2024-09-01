@@ -1,0 +1,40 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Boisterous Fowl",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "5880e4814c3c2fb5e6a2d48ca24bf6960f564337",
+  "culture_invariant_id": 108,
+  "sort_number": 108,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Who you callin’ boisterous, buster?",
+  "rules_text": "",
+  "card_identifier": "108/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=60a06b3926f345b324ffdd910aaba0a6919b3f637d89970e49ae250b66db6240"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=961cd2f2c322c068169575da2e6fd9793e885d220f6f56ee02807ac221e90946"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=d40fb3ee101b5577a6f957299ec6d8054354149b1985b862dcff2c5719236968",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Kida",
+  "subtitle": "Protectrice de l'Atlantide",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Adam Fenton",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 443,
+  "sort_number": 478,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Je joue Kida – Protectrice de l’Atlantide, puis vient le tour de mon adversaire qui joue Maui – Idole des Hommes. Est-ce que la Force de son Maui est réduite de 3 ?\r\nR : Non, la capacité “Peut-être pourrons-nous sauver notre avenir” de Kida ne s’applique qu’aux personnages en jeu au moment où elle est jouée.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Elle a été choisie. —Roi Kashekim Nedakh",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Kida.) PEUT-ÊTRE POURRONS-NOUS SAUVER NOTRE AVENIR Lorsque vous jouez ce personnage, tous les personnages subissent -3 jusqu'au début de votre prochain tour.",
+  "card_identifier": "7/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=f6a9340c7408c1e0caf785d439526de5c2fe01d2002a418c0f7456bce118eb6a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=1d2ae2f8032fa5a07e90a534c78b80419b73425f630def619f4f4edd1b97d540"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=989e3154e0895817a79d146dbdd462abd5d637ded28ed2698febf52e0a0582a4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

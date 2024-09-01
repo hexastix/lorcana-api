@@ -1,0 +1,33 @@
+{
+  "name": "Maurice‘ Werkstatt",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Antonia Flechsig",
+  "deck_building_id": "9eb2122e42f3807342d6c09800108855dec2073b",
+  "culture_invariant_id": 384,
+  "sort_number": 408,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Die Lösung deines Problems könnte nur ein paar Handgriffe entfernt liegen.",
+  "rules_text": "SUCHST DU DAS HIER? Jedes Mal, wenn du einen anderen Gegenstand ausspielst, darfst du 1 bezahlen, um 1 Karte zu ziehen.",
+  "card_identifier": "168/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=38f9c11d97294a5e7282f4542520db4bf9ca1d4972a99ca06b080553b5cd8bd4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=e302d321017737a7c1f00ed3c1fd05410b576d70c3c92f8f6319904256e4bffd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=791c260b8a84e4325fa3fa99fa4b69989c10d49619b6367acc42123537429899",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

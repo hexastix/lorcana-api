@@ -1,0 +1,33 @@
+{
+  "name": "Lente d'Ingrandimento di Basil",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "02918ccd3a403f27aeb1591007157c27c8cb9736",
+  "culture_invariant_id": 1122,
+  "sort_number": 1130,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ma è un pezzo della Corona Esamantica!%—Basil",
+  "rules_text": "TROVARE CIÒ CHE È NASCOSTO , 2 — Guarda le prime 3 carte del tuo mazzo. Puoi rivelare una carta oggetto e aggiungerla alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "166/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=2800484290e86d7355b7caa00b9bd677ae705c51de312bb9a575f6fc10406824"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=2c264d195965cb9ebc5d10fabac057df128672293cd5e2479c7643dd193d9971"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=0b6d572bedc32e8302f336d42c9d8433ae59b16563f338a517ce8d1218bde594",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

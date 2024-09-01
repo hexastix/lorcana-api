@@ -1,0 +1,42 @@
+{
+  "name": "La maison de Belle",
+  "subtitle": "Atelier de Maurice",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Alex Shin",
+  "deck_building_id": "4b02e8ae98da7815714d4cac86d24cb2bcc76501",
+  "culture_invariant_id": 604,
+  "sort_number": 639,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si j’ai deux personnages sur La maison de Belle – Atelier de Maurice, puis-je réduire le coût de mes objets de 2 encres ?\r\nR : Non, vous ne pouvez le réduire que de 1. Quel que soit le nombre de personnages sur La maison de Belle – Atelier de Maurice, vous ne réduisez le coût des objets que de 1. Par contre, si vous avez 2 cartes La maison de Belle – Atelier de Maurice en jeu, avec chacune un personnage sur ce lieu, le coût de vos objets est réduit de 2.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Certains des outils les plus importants de Lorcana sont fabriqués ici.",
+  "rules_text": "LABORATOIRE Tant que vous avez au moins un personnage sur ce lieu, les objets vous coûtent 1 de moins.",
+  "card_identifier": "168/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=fef5be0478e069997d306355568b3aeaf98a19b0f2de1b8a630ca1ba6b2a7e9b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=8c22a9a49a61bbfd5aa50dcc2c1095297ed63bbc98de41a4c857184518aed444"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=da1e8cbbc24b80d32e07910f6a825499d8037fe4d8affeeebe70aa184733abb3",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Signe le contrat",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno Ayala",
+  "deck_building_id": "3b50bdfe85abebdd4bce7a6a74f0c24ee3a3d869",
+  "culture_invariant_id": 721,
+  "sort_number": 731,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque adversaire peut choisir et défausser une carte. Vous gagnez 2 éclats de Lore pour chaque adversaire qui ne le fait pas.",
+  "card_identifier": "30/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=2317d182396ee9f37fbde8cd406ed5e6fe2aed482e3e8525b04ec7e8bf76b63b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=0fba688ec3c107226822606313b227f0e34646f655e81e818df6c70487169f93"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=c869813c94185ddd131f920fde60414e07982d074802efb76fdeae97fec24b0a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Regina di Agrabah",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "200fff92d3781279a953ae4972866a4954a0ed17",
+  "culture_invariant_id": 149,
+  "sort_number": 149,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Regina"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Jasmine.) PROVVIDENTE Quando giochi questo personaggio e ogni volta che va all'avventura, puoi rimuovere fino a 2 danni da ogni tuo personaggio.",
+  "card_identifier": "149/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=df295a158a1e0fdce5615f23742ced21fee2d5ce4a02588ce9cf171fbe8a7377"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=13d938b3d7d7dfe2df1184aeec00d9b950be440076105a5433d9e11b9257e0e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=b2bef5ac616f1d5988650acb5e7896b8a76e6770d790f1b07becf0846793ce92",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

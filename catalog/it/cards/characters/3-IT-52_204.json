@@ -1,0 +1,42 @@
+{
+  "name": "Mamma Odie",
+  "subtitle": "Voce della Saggezza",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "73a02488dd4a721f27d76641765f67896fd2a61b",
+  "culture_invariant_id": 488,
+  "sort_number": 523,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Incantatore"
+  ],
+  "flavor_text": "Questo era quello che le serviva, Juju!",
+  "rules_text": "ASCOLTATE LA VOSTRA MAMMA ADESSO Ogni volta che questo personaggio va all'avventura, puoi spostare fino a 2 segnalini danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "52/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=87adaa0d685b8630b758d3a16bee58fb53e71ec45463a0fc91728a896f3b84a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=6b3a80c8c6af991191b58679db736e84aaa595cebb0231ffb0904cb6b90238f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=061d63b47a7a47cbf6eb09aaf4e051e20f5b7b947745a20bc24cf5bcca23378b",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

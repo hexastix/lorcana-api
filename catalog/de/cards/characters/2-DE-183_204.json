@@ -1,0 +1,43 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Wüstenkreuzer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "077493459c0e7e98dc94b63ce4fbe302e7b7ce6f",
+  "culture_invariant_id": 399,
+  "sort_number": 423,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Dschafar-Charaktere auszuspielen.) ALSO, WO WAREN WIR? Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du 1 Karte ziehen.",
+  "card_identifier": "183/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=b9ec586b8d42d87ed44b8a77974fb71b8f4e335b95a45e72b91064938ed00800"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=e4b98b1a0be909127329d4e9dcabcbb2f8b30d203cc9da79f46bc4b16711df53"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=96f2647b39b410d74f2b0ffff5c5f78d1c94b9c3da6230a6381b458b9eddc6c7",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

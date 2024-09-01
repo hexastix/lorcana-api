@@ -1,0 +1,48 @@
+{
+  "name": "Goofy",
+  "subtitle": "Musketier",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "88974b7ccdf603a29b402df56365c9ac1c82289f",
+  "culture_invariant_id": 4,
+  "sort_number": 4,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Musketier"
+  ],
+  "flavor_text": "En Garde!",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) UND ZWEI IM DUETT! Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Schaden von jedem deiner Musketiere entfernen.",
+  "card_identifier": "4/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=d86225c084c448cede68503122252e95d733949768abd09e232e9ff94e6445b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=5f250c0b75e12ad2a389b8e339a1e80d1a58391ef59d361bef5f4cdd4246b99d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=0241db3d1cc94e47b2646edc885b88a410827c5f62fb00f6db10c7e0ad92df28",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

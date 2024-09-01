@@ -1,0 +1,49 @@
+{
+  "name": "Chief Tui",
+  "subtitle": "Respected Leader",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Pirel",
+  "deck_building_id": "5ec21d0830840f21954cd2a68de6906e36a893ed",
+  "culture_invariant_id": 143,
+  "sort_number": 143,
+  "additional_info": [
+    {
+      "title": "Errata - Support",
+      "body": "The correct wording is “another chosen character’s {S}.”"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "You can always rely on the strength of those who love you.",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "143/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=98a5a9ca07415ec198bfabbe8461598fb09868e9aa35827c4f85f224afed63a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=c41f5767bbb96744efeaeec4bdc2bac00dcbca667c2b7f121e6a616a7a065033"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2cf55e6b39a0b4c13680106a021e38a24c4476725155b12c631173cc2bf84638",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

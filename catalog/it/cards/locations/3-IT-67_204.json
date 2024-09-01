@@ -1,0 +1,42 @@
+{
+  "name": "Il Castello della Regina",
+  "subtitle": "Stanza dello Specchio",
+  "willpower": 7,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Matthew Oates",
+  "deck_building_id": "9ab00d3ccf3aa6a5a6653a6a70340dd4cfdf1666",
+  "culture_invariant_id": 503,
+  "sort_number": 538,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Quando nomino una carta per l’abilità Incredibile Energia del Cappello dello Stregone, quale informazione devo dire della carta?\r\nA: Quando nomini una carta per l’abilità Incredibile Energia del Cappello dello Stregone, non è necessario dichiarare il nome della versione della carta, nemmeno se la carta nominata è un personaggio o un luogo.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Coloro che interrogano lo specchio possono scegliere la domanda — ma non la risposta.",
+  "rules_text": "USARE LO SPECCHIO All'inizio del tuo turno, per ogni personaggio che hai in questo luogo, puoi pescare una carta.",
+  "card_identifier": "67/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ec112bb56ddafaa54842cad80dbb7a810e4ab0f89348b3a4dab7e016f96dd0dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a709179258fd3a0638220091a41a5620d3548eb7aecc7f44291e78da577b7b0c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=8a99d064f55e2a906a1c81e00725b8177086d1cef78c41ba8fecc6b69ac1b005",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

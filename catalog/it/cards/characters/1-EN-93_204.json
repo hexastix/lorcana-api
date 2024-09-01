@@ -1,0 +1,43 @@
+{
+  "name": "Tinker Bell",
+  "subtitle": "Most Helpful",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Caner Soylu",
+  "deck_building_id": "7d6f88911941e9ab84662a1acc5938a3572d710b",
+  "culture_invariant_id": 93,
+  "sort_number": 93,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) PIXIE DUST When you play this character, chosen character gains Evasive this turn.",
+  "card_identifier": "93/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=070b0bc00ba072933e3c3a14a28d3004fb16f336f44883b1b24cd221b197c232"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=d7d8a0de24c6cf27e8eafd758a0edc99c280dad9a744bafe9e8281d9c56af5c1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=ea2e7b5c65eb252b235dd962a740b9244932df308e615cb6f5ac66874694af39",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

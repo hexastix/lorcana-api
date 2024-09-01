@@ -1,0 +1,36 @@
+{
+  "name": "You're Welcome",
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "d1b38a28131ef676d9daa53b83ce02ff56acc2bc",
+  "culture_invariant_id": 1169,
+  "sort_number": 1177,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 4 or more can to sing this song for free.) Shuffle chosen character, item, or location into their player's deck. That player draws 2 cards.",
+  "card_identifier": "213/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=a0455c1ef4ded9b2aa188a0581c37669c05d56cf8747e3f71f2a21e7c111ce41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=543736d240ef827a5e83dae78b9656b38340d4a35ee39aa1146892934d224552"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=96587a11f10e88b8699f637dd08a9d013a8bd2339d45cd18aee9e4d60f6cca32",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

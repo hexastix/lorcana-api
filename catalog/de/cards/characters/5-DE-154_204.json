@@ -1,0 +1,44 @@
+{
+  "name": "King Candy",
+  "subtitle": "Süße Abscheulichkeit",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Jake Parker",
+  "deck_building_id": "5e50dc86485330fa31a424a5ef8789c56472efd4",
+  "culture_invariant_id": 1110,
+  "sort_number": 1118,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "König",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner King-Candy-Charaktere auszuspielen.) DEN CODE VERÄNDERN Wenn du diesen Charakter ausspielst, darfst du 2 Karten ziehen, lege dann eine Karte von deiner Hand unter dein Deck.",
+  "card_identifier": "154/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=0bae0b9008db47f3ab16f4c24a85daad9cc67329e17503880241caae4f8c4061"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=3cbdbfcc2c4d2ae1116b4fa0ad42bb67c3986ef790e2d03a3c55d3028ffd588f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=329c23fce92b6b812cbf01f5e1418ed1472c8b83a12428a0a3b1e9ec84e272bc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

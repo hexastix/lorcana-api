@@ -1,0 +1,41 @@
+{
+  "name": "Ursula",
+  "subtitle": "Power Hungry",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "03678905c24f0e4a27521efc04da800f6f83e668",
+  "culture_invariant_id": 59,
+  "sort_number": 59,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "The first Rule of Villainy: If you’re going to be evil, you’ve got to have STYLE.",
+  "rules_text": "IT'S TOO EASY! When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way.",
+  "card_identifier": "59/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=dd0be000228f983b183080ee59b1ff6d3d9b5772ae81f022e19fed0d0e902d77"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=898326dd211db7f351cd3cf5704fc5842bbf6fed9bb501684bad604474c582a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=944c3d24344c302f06d8ab8e16f61f2a61daf059375400c1e6bdc8ec2e70a32b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

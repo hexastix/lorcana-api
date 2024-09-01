@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "True-Hearted",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e1b3cea0cee4d2729aad03d87771e607533f1d94",
+  "culture_invariant_id": 829,
+  "sort_number": 839,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Knight"
+  ],
+  "flavor_text": "Make sure you know what’s truly important and be willing to fight for it.",
+  "rules_text": "LET ME HELP YOU Whenever this character quests, your other Hero characters get +1 this turn.",
+  "card_identifier": "138/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=346d5b86cacfd5941b150859beae2e9b59390ba2f9d87951a7a981d48267da4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=de9e6c9c6c1815f8b422abc6d7bf1ec87e9bc044cd5254d433d4d1bdb1e13460"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=1872b1f7d824d5862a9c1885b606080f8205bf5465619ad9bda55bb9584a1735",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

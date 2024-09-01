@@ -1,0 +1,43 @@
+{
+  "name": "Magic Broom",
+  "subtitle": "Brigade Commander",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Otto Paredes",
+  "deck_building_id": "5b62db7d0c2cf0af385d111c8e065a46ee86e2da",
+  "culture_invariant_id": 877,
+  "sort_number": 887,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.) ARMY OF BROOMS This character gets +2 for each other character named Magic Broom you have in play.",
+  "card_identifier": "186/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=44eec5a2d7fe0a5c539de039d4e736f884c4ef7f94116996b73c9b1b71861224"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=62966e64b5f96cc56b7a061302dd297e5f93bd625a67a0a85a7794dbf4dbbe78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=2eb67f61dac4aaa771e93d642a3c559fabc0c27bc48545eb37e341f508f248c6",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

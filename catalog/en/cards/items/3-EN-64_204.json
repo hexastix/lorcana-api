@@ -1,0 +1,38 @@
+{
+  "name": "The Lamp",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Ever Galvez / Anna Stosik",
+  "deck_building_id": "c3691753bf9b5b6ef060569d9c6f8fa67de42e66",
+  "culture_invariant_id": 500,
+  "sort_number": 535,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have 2 copies of Jafar – Lamp Thief and 1 Genie – Supportive Friend in play. If I use the Good or Evil ability of The Lamp, what are my choices?\r\nA: If you have a character named Jafar in play when you use the Good or Evil ability of The Lamp, you must draw 2 cards. You can’t draw more cards even if you have other Jafar characters in play. If you have a character named Genie in play, you must return a chosen character with cost 4 or less to their player's hand. Neither is optional, and if you have both a character named Jafar and a character named Genie in play, you must do both.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GOOD OR EVIL Banish this item — If you have a character named Jafar in play, draw 2 cards. If you have a character named Genie in play, return chosen character with cost 4 or less to their player's hand.",
+  "card_identifier": "64/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=5c40021efc06c670a291814e980e82855e954a103e46fa04e3731eaf9b348974"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=425692c98fc3c834e235ef869844101d0bca4a55ca0c07a7974d1d5c1a500cae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=d3c0aff6ff57b7a9e77ed12ddba1beea66a0152127cbf3a1c9237c13e915d566",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

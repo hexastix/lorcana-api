@@ -1,0 +1,33 @@
+{
+  "name": "Mit Schwung in die Aktion",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "619c55ff131a58ac8714449f5ee1788379659e58",
+  "culture_invariant_id": 753,
+  "sort_number": 763,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Ein Charakter deiner Wahl erhält in diesem Zug Rasant. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "62/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=83c23689dfe969cb2e6852e865dc046ea438b31633f52a344c9bab2a8ca356df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=02bad5df5ed391a30d119cfc0ad844e514993b0e3dba52224db87f1ff87226f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=d9c2980f16a8c089e49a403b128040d17deb74bfcbd2233d2b089af2947290a0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

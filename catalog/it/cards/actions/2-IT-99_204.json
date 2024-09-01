@@ -1,0 +1,33 @@
+{
+  "name": "Improvvisare",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mané Kandalyan",
+  "deck_building_id": "3ab79a09520ac3d506965f3d02a348a861f725c5",
+  "culture_invariant_id": 315,
+  "sort_number": 339,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Shan-Yu: Pare che tu sia a corto di idee.%Mulan: Non è esatto!",
+  "rules_text": "Un personaggio a tua scelta riceve +1 per questo turno. Pesca una carta.",
+  "card_identifier": "99/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=93939788d4e6d080ced39a06c2dfa918998792d05b8d77573693f56e5026f90e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=73b93e9760a49a62ed694beee030957c0e9d0cd02ff1ccd8c3f64fc1fe88f13f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=d344cda2d43e0302203ee55733be2c419346627a7ecd56b3dce400ddf9200128",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

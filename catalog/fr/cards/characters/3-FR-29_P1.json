@@ -1,0 +1,45 @@
+{
+  "name": "John Silver",
+  "subtitle": "Chasseur de trésor avide",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Kumatori Gaku",
+  "deck_building_id": "47e5c25af32615987611612bbee8871f3cb76552",
+  "culture_invariant_id": 687,
+  "sort_number": 698,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Alien",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "C'est pas mon truc, ce genre de blagues. J'ai toujours été mauvais joueur.",
+  "rules_text": "CHOISIS TOI-MÊME TON CAP Ce personnage gagne +1 et Résistance +1 pour chaque lieu que vous avez en jeu. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "29/P1 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=e527f0fa0d5ea676201bd9be44a99f9dfdc5a263b764cb7fa24e32a7023d075b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=2c25de29a27767811cba39ae6e70cc339c3d7313fd5a88bf571a83d47a6b0527"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=01349eb7a38ac5847a375956df68e4b7276f937eef0ce7f058dd9244b4b446d7",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

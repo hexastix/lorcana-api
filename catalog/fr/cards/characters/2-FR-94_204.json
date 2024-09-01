@@ -1,0 +1,41 @@
+{
+  "name": "Tiana",
+  "subtitle": "Véritable princesse",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Casey Robin",
+  "deck_building_id": "5c924acbc256cf4a2612d7335de9b611b4607541",
+  "culture_invariant_id": 310,
+  "sort_number": 334,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Découvrir qui vous êtes vraiment illuminera votre cœur.",
+  "rules_text": "",
+  "card_identifier": "94/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=3dc88e2272e0be5e28ab5f881921996fcefd21618a8c7a89d0788f3e38e52897"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=e642a32b1ba95d9d88edcc780fcc25d58f02b9112e384c76cc35771b2ee2582c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=f5e9ed2aadc506d7db2fc73cc1678611b57d34849ccc98bf9e13d75183a3e1b0",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

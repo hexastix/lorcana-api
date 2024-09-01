@@ -1,0 +1,41 @@
+{
+  "name": "Le Roi de Cœur",
+  "subtitle": "Monarque du Pays des Merveilles",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "0daff0afef432846506fd1740303222ded737937",
+  "culture_invariant_id": 1013,
+  "sort_number": 1021,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Roi"
+  ],
+  "flavor_text": "Ordre du roi ! Vous avez entendu ce qu’elle a dit!",
+  "rules_text": "ÉCOUTEZ LA REINE ! — Choisissez un personnage épuisé qui ne se redresse pas au début de son prochain tour.",
+  "card_identifier": "57/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=4be6d2c5d8a7e60ad25b99ff1cb39c07ec7f1fa2d20945d35ff4cbff182e1712"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ca88f648e7dfd8e42f5d39743b9411c05dea8b9fca270f35291a8273735f0fb6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=6e5ab4509d92d925a97cf966aca48242443d41f79b26e281b6cb478661d4b324",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

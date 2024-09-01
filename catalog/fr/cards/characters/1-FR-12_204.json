@@ -1,0 +1,41 @@
+{
+  "name": "MICKEY MOUSE",
+  "subtitle": "Véritable ami",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Dave Beauchene",
+  "deck_building_id": "a393e1fbe54391026a76fa1f3896c5cff218962b",
+  "culture_invariant_id": 12,
+  "sort_number": 12,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Tant qu'il sera là, les nouveaux venus dans le Grand Illuminarium seront toujours accueillis chaleureusement.",
+  "rules_text": "",
+  "card_identifier": "12/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=e38d0f92a2ed545a36ae4ac8d1b00eac95aaece4e692a2268adebd5191d32818"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=8dfd90d0a3bfe84c49cd5756485f1ad0253dd9bf148e81a45acc7788ee61e0ab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=0844603d6b3960b16b9a7c0fca73df70e56723045fdc600ba99bd458cef424e7",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ehrenwerter John",
+  "subtitle": "Nicht sehr ehrenwert",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "b3edb87ace39ce0527520caef3e29894e03b5816",
+  "culture_invariant_id": 325,
+  "sort_number": 349,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Dieses Kerlchen müsste doch ein Vermögen wert sein!",
+  "rules_text": "GEMACHTE LEUTE Jedes Mal, wenn du eine Flutgestalt ausspielst, verlieren alle gegnerischen Mitspielenden je 1 Legende.",
+  "card_identifier": "109/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=0e09348d87f95962ea830adf9e55302aad175e7710927bcd7cabf148b3c6d3ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=a9533d75960fe7f45541e0010d79063eca46c919cab1ea1375a11b0def9ce9a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=85d34eba1433179c7a8a7cf2ba8ff9c8c758a2118a6436a8bbd55f147c822f1b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

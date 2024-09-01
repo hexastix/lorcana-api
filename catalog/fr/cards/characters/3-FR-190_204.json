@@ -1,0 +1,42 @@
+{
+  "name": "Robin des Bois",
+  "subtitle": "Champion de Sherwood",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Rudy Hill",
+  "deck_building_id": "dae8c3a792a698cb6ccee25e5671d6b03e79414c",
+  "culture_invariant_id": 626,
+  "sort_number": 661,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Robin des Bois.) COMBATTANT ÉMÉRITE Chaque fois que ce personnage en bannit un autre via un défi durant votre tour, gagnez 2 éclats de Lore. POUR LE BIEN D'AUTRUI Si ce personnage est banni via un défi, vous pouvez piocher une carte.",
+  "card_identifier": "190/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=80f6ed49dedec42b0826b5dbf1cb94e73a202d962c99788a26b3c5a4bf2fc3c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=ae7996e8935e989d5570de2ea8a6bca37078b56b95308710ea3d3c2b8fe74494"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=ebdf617d949d0bdd7f685055e820df036500f87490a273857203066091fd2a1e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

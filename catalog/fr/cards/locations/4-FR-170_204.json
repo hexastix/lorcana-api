@@ -1,0 +1,37 @@
+{
+  "name": "Camp d'Hiver",
+  "subtitle": "Tente médicale",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Elodie Mondoloni",
+  "deck_building_id": "8a5ad6651326a91ac526f3f47fc3888894212935",
+  "culture_invariant_id": 861,
+  "sort_number": 871,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ASSISTANCE AUX BLESSÉS Chaque fois qu'un personnage sur ce lieu est envoyé à l'aventure, retirez-lui jusqu'à 2 jetons Dommage. Si c'est un personnage Héros, retirez-lui jusqu'à 4 jetons Dommage à la place.",
+  "card_identifier": "170/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=a2e560e89c5851230b873f05d52dd53b9cf69aaa34f3c54086a618fa61eedd93"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=4e1bce980bb32668893a31a3f49958a35dafe9a13101723d0cf3834d584c3bc7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=df840a1028970110d65f0d92f9867bb6c2a5495e557dda1379f04285099ca91e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

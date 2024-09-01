@@ -1,0 +1,44 @@
+{
+  "name": "Kida",
+  "subtitle": "Protectrice de l'Atlantide",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 642,
+  "sort_number": 677,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Kida.) PEUT-ÊTRE POURRONS-NOUS SAUVER NOTRE AVENIR Lorsque vous jouez ce personnage, tous les personnages subissent -3 jusqu'au début de votre prochain tour.",
+  "card_identifier": "206/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=c869ac9a58b49334e9ca37effd7fc7aac1b7a71b85c942fbe9717896879d2c55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=ce83cb352d0ac2cfd414b28a9ac96c4e21225a563a7d9996879c7dea965e3b95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=ca42b88b822dd1ac1389688d3acc0d8a9b01f00b2d70985bebc094663546ed57",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

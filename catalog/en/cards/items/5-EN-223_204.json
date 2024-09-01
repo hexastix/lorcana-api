@@ -1,0 +1,35 @@
+{
+  "name": "Half Hexwell Crown",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Billy Wimblett",
+  "deck_building_id": "b811b3defd86d738200c72437085b562903d888b",
+  "culture_invariant_id": 1179,
+  "sort_number": 1187,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Even incomplete, the broken crown holds dark and mysterious powers.",
+  "rules_text": "UMBRA'S POWER , 2 — Draw a card UMBRA'S GIFT , 2 , Discard a card — Exert chosen character.",
+  "card_identifier": "223/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=ca7f48ab181db94f08fb7fd1781fb945fc0e3d20839dadf7454de74ccbf1f4d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=9ea62e0fb7f69bdfe0b2e94a04f25de6933cb3aa089ba9b4580cc277637402ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=c342263742358ed873e9ad3e3a9bf6e74d77f29089b033deb58322aeef1d6c2d",
+  "foil_type": "Glitter",
+  "card_sets": [
+    5,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

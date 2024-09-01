@@ -1,0 +1,42 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Eroe dell'Isola Che Non C'è",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Aubrey Archer",
+  "deck_building_id": "3d77178da6fc4c690c8c13e19ea96bad2ba4627b",
+  "culture_invariant_id": 555,
+  "sort_number": 590,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Con Peter, i piani prevedevano spesso di tuffarsi a capofitto nel pericolo.",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) DA QUESTA PARTE, TRILLI Mentre hai un personaggio chiamato Trilli in gioco, questo personaggio riceve +2.",
+  "card_identifier": "119/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=376cd9e45bbd6b21695b83f822ed2806061a1c2126edbf807a454abd56cec723"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=543516aca1b949f9991245d52d6f0f4cb1d75d6bb30a15cb6bc85f11a1b1a34c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=217b9277fcafe6bcdc5a75c896de29738d7477dde9156d0c2d78a89c42d13395",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

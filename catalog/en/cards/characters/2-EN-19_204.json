@@ -1,0 +1,48 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Gifted Artist",
+  "strength": 0,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "5323f351160ce7e27e6c6f0a14b74b17e2b6f539",
+  "culture_invariant_id": 235,
+  "sort_number": 259,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: Three of my characters have 2 damage each on them. If my Rapunzel- Gifted Artist sings Hakuna Matata in that situation, how many cards can I draw with her Let Your Power Shine ability?\r\n\r\nA: 3 cards. Rapunzel- Gifted Artist’s ability triggers for each individual character of yours that has damage removed from them regardless of how much damage is removed from that character.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Rapunzel.) LET YOUR POWER SHINE Whenever you remove 1 or more damage from one of your characters, you may draw a card.",
+  "card_identifier": "19/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=a2de50ab0cb02d82b4ea767786d8b52b3cda433005e953829488c0b15e835cfc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=17c0193f303709639fb013d015840188852a36bead2e5f6950c1729172c05aad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=4ba014a6b64929aaa600a0881f23d5bbaa2ee3981a2eadc312f4c8d8fdd72d9b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

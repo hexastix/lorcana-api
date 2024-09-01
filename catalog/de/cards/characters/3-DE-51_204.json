@@ -1,0 +1,46 @@
+{
+  "name": "Malefiz",
+  "subtitle": "Herrin des Bösen",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
+  "culture_invariant_id": 487,
+  "sort_number": 522,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich kontrolliere ein Biest - Tragischer Held mit 4 Schadensmarken und der einzige Charakter, den eine gegnerische Person im Spiel hat, ist ein Fabius - Stimme der Vernunft. Wenn ich jetzt „Ein Traum wird wahr“ spiele und sieben Karten ziehe, kann ich mithilfe der Fähigkeit „Wahrsagung“ alle 4 Schadensmarker von Biest auf Fabius bewegen?\r\nA: Nein, kannst du nicht. Für jede einzelne Karte, die du ziehst, aktiviert sich Malefiz „Wahrsagung“-Fähigkeit, selbst wenn du mehrere Karten auf einmal ziehst. Zwischen jedem Einsatz der „Wahrsagung“-Fähigkeit, wird ein Charakter dessen Schadensmarken seine Willenskraft erreichen oder übersteigen verbannt. Das bedeutet, sobald du zwei Schadensmarken auf Fabius bewegst, wird er verbannt. Wenn die „Wahrsagung“-Fähigkeit sich danach für weitere gezogene Karten aktiviert, während keiner der Mitspielenden einen Charakter kontrolliert, kannst du keine Schadensmarken bewegen und die Fähigkeit wird abgehandelt, ohne etwas gemacht zu haben.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "FINSTERES WISSEN Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 Karte ziehen. WAHRSAGUNG Jedes Mal, wenn du in deinem Zug 1 Karte ziehst, darfst du 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "51/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=305bfc27521447d3c35bbec84559251628eb2df83faecaea3962ed2d75987ec1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=06c2761688863dfb5f7fd97c8163a60b21b5d59d51887737020341bc16b286f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=04d18cf79806593a91558cf0f94d72f91e24721ac279352cc1d19f203a9a9e0d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

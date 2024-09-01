@@ -1,0 +1,37 @@
+{
+  "name": "Agrabah",
+  "subtitle": "Place du marché",
+  "willpower": 5,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "f6be00bb8a78d746c64ad7bda45503e70b441aad",
+  "culture_invariant_id": 570,
+  "sort_number": 605,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Bienvenue à Agrabah, cité de la magie noire, de l'enchantement et des plus belles marchandises de ce côté du Jourdain.%—Marchand",
+  "rules_text": "",
+  "card_identifier": "134/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=ede0018b11512b0136cbe59594c8c69f53f66e4c1fa83d9cff718d4ef53d0347"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=9f12dcb2c728c435321b6ddd27f02dbf6188c21ab85c6d2b6adbea66263b2fe2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=a626d883998650c73378b77e61513e8da6b42a619b9377725f75e2c33429482d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

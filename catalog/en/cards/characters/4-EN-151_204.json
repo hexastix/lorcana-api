@@ -1,0 +1,41 @@
+{
+  "name": "Pascal",
+  "subtitle": "Inquisitive Pet",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Noukah",
+  "deck_building_id": "36d6ffd3b7830b2c8821ce4335b74e9387d55072",
+  "culture_invariant_id": 842,
+  "sort_number": 852,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "If you want to find something hidden, get someone who’s an expert at hiding.",
+  "rules_text": "COLORFUL TACTICS When you play this character, look at the top 3 cards of your deck and put them back in any order.",
+  "card_identifier": "151/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=96435ab74521dd17147502c24ba9ea892cf45f0392bb1ce607644bb95c30c6ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=5098b3536394ffef73a8b72904e724216ecbd9abfe18790c92895e9e8ef73768"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=a5c918667cb457a9d28cdc310d2dce733917b4955e3eb29ea8d17f6a3a02d0c3",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

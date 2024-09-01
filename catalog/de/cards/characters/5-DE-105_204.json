@@ -1,0 +1,40 @@
+{
+  "name": "Maximus",
+  "subtitle": "Team Champion",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "5aa4a5a95aa496e560025d060007f42140401cae",
+  "culture_invariant_id": 1061,
+  "sort_number": 1069,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Beim Tauziehen wird man oftmals nicht nur von seinen Emotionen mitgerissen.",
+  "rules_text": "KÖNIGLICHE BELOHNUNGEN Am Ende deines Zuges, wenn du mindestens einen Charakter mit 5 oder mehr im Spiel hast, sammelst du 2 Legenden. Wenn er sogar 10 oder mehr hat, sammelst du stattdessen 5 Legenden.",
+  "card_identifier": "105/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=1eb5553b685837cac0c63f674f64374069025439098f45ddc50bffc800f44a6c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=e40019346476370106e593feb78cc0753f9dbf1ee4b87d62991ff7caa7e11d75"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=cf408a99493a1ece534db7758fecec1a1d5acde192d4adc692d7cde09cb5b757",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

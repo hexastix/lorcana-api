@@ -1,0 +1,33 @@
+{
+  "name": "Glimmer contre Glimmer",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "32d58396c6366bd44e37140214651921b4bc231f",
+  "culture_invariant_id": 1086,
+  "sort_number": 1094,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hadès : Écoute, petit. Si je dois être banni dans le Livre de Lore, tu viendras avec moi.%Hercule: C’est ce qu'on verra.",
+  "rules_text": "Choisissez et bannissez l'un de vos personnages pour choisir et bannir un autre personnage.",
+  "card_identifier": "130/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=2f272d3922d59de752a84eed70386a68a1dddd4ecf8d2353db9aa8e09ee3cc61"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=b88f0437ed6024947daac010c4dd9986636bc15ea0cc2892da51e6999351135d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=ed12896035228ab25747865bdd68d7c0a69afc9d381e602040e1fe63f8187bd0",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

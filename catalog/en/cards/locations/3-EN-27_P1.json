@@ -1,0 +1,39 @@
+{
+  "name": "Jolly Roger",
+  "subtitle": "Hook's Ship",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Nicolas Ky",
+  "deck_building_id": "36d37324c4f3d29d9f0101c7ee1a08bf9b00908e",
+  "culture_invariant_id": 685,
+  "sort_number": 696,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LOOK ALIVE, YOU SWABS! Characters gain Rush while here. (They can challenge the turn they're played.) ALL HANDS ON DECK! Your Pirate characters may move here for free.",
+  "card_identifier": "27/P1 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=43834d7ef195fbf18b130370680eb672b9888903304d7eebc7bcb2fb395408ff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=6a634debaa4f3db5eb19576a2db4154190df7f4f873bbbdabad3d0b0b3e06739"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=746b5659683d9df9d2e54ad68accd7f5c013a03f3dcda9e4e15a54c9d683953f",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

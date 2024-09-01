@@ -1,0 +1,43 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Schattenfinder",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "3a02b32b7275fe9cb597814a840f682abcc7a7ae",
+  "culture_invariant_id": 745,
+  "sort_number": 755,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) FLIEGEN NATÜRLICH Deine anderen Charaktere mit Wendig erhalten Rasant.",
+  "card_identifier": "54/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=d322a02fbd2d131cf4e962034eaefa6a6b4133a98b3f5c30daca63619c3609f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=c20f26d8667d79ee2f6d7ecb44d6a3bcf1735331e52b9b634be74b42862a1c59"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=5f9ce1a2189c039d749a6cec71f421a49c1ee6061c652f4281fafece54e4e2cf",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

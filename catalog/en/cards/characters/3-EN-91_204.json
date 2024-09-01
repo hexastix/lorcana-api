@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Deceiver of All",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "bccdff72dc44581df3cb3328c67dd24f72bbc799",
+  "culture_invariant_id": 527,
+  "sort_number": 562,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: When can I play the additional song using Ursula – Deceiver of All’s ability What a Deal?\r\nA: When using the What a Deal ability of Ursula – Deceiver of  All, you must play the song immediately after you played it the first time. You can’t wait until later in the turn.\r\n\r\nQ: The only character in play is my Ursula – Deceiver of All, who currently has 1 damage. If I have Ursula sing Let the Storm Rage On, can I use her What a Deal ability to play it again?\r\nA: Yes. When you play Let the Storm Rage On, if there’s a character in play you can choose to deal 2 damage to, you must do so. Even if Let the Storm Rage on banishes your Ursula – Deceiver of All, you can still use her What a Deal ability. In this case you won’t be able to deal 2 damage to a character, as there aren’t any in play, but you still draw a card.\r\n\r\nQ: My Ursula – Deceiver of All sings The Boss is On a Roll. I choose to place 4 cards on top of my deck and 1 card on the bottom. If I use her What a Deal ability to play The Boss is On a Roll again and choose to put 1 more card on the bottom of my deck, where does my copy of The Boss is On a Roll go in relation to the other cards I placed on the bottom of my deck?\r\nA: The Boss is On a Roll will be the bottom-most card of your deck, regardless of how many cards you put on the bottom of your deck each time you played it. The card played a second time with Ursula – Deceiver of All’s ability What a Deal is placed on the bottom of your deck after its effect has finished.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "I don't want much—just the most powerful lore!",
+  "rules_text": "WHAT A DEAL Whenever this character sings a song, you may play that song again from your discard for free, then put it on the bottom of your deck.",
+  "card_identifier": "91/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=4cc40bc3f03a7fbe7cff6ed5eb4a4f87d9d3d00cd6c823d14650bd6ca475b285"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=37f2ad77832faef0fa9b9ee86ef6b4784b6b381272f589a54b765d5e9fcbaa5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a0b1cfc28b4d2541feb3608640875cb37984ff7ca4ad8c23598cbaa114aec4a0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

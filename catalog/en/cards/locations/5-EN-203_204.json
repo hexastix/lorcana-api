@@ -1,0 +1,37 @@
+{
+  "name": "Bad-Anon",
+  "subtitle": "Villain Support Center",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Saulo Nate",
+  "deck_building_id": "cc71c1618903c39c8004b62c6773737e15c61cef",
+  "culture_invariant_id": 1159,
+  "sort_number": 1167,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "THERE'S NO ONE I'D RATHER BE THAN ME Villain characters gain \", 3 — Play a character with the same name as this character for free\" while here.",
+  "card_identifier": "203/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=890f265d5db3cde4a21e030fc78bbf00591c99a64cb2840432d596bd890a87df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=fd15992e29207086f0a26cbccf5c99e52e924c6b9a3bba07893c6e0ed939d9f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=035aa18ad946eec1e1c123467a14b2c1e1148a78bb220694e1abf14650372fbd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

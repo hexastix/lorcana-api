@@ -1,0 +1,32 @@
+{
+  "name": "La Corona Esamantica",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "026482f32fe2d467df72c4520da3860668ffd316",
+  "culture_invariant_id": 942,
+  "sort_number": 962,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Quando la posò sulla sua testa, Ursula avvertì una scarica di potere, mentre la corona sbloccava una magia ben più profonda.",
+  "rules_text": "I VANTAGGI DEL POTERE — Pesca una carta.",
+  "card_identifier": "29/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=9b18424f3eef83b63e4b464c55b2d07188bda6ad56007a979d87ca20a67c44bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=0e72692ac206977ecea279e782c569cb85f2ec3e2a0b5d77bcdda40dcfd08a1e"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "The Queen",
+  "subtitle": "Regal Monarch",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "edc8d296f601e44b6311621379644a538907c472",
+  "culture_invariant_id": 243,
+  "sort_number": 267,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "Don’t question her. Don’t doubt her. And above all, don’t disobey her.",
+  "rules_text": "",
+  "card_identifier": "27/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=afcad09b1948644329f70bf1631d5ed5545be6c6788bc6aecfa806705a476a81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=fb5e1cfa23d54748253177cef08c9d597b74093445cdbdce913b15d05d19d845"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=32215a78b8a6de06de1270e18df9bca31705499728b8ce904683207aca88e011",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

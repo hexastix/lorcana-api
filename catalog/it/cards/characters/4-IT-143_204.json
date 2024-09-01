@@ -1,0 +1,41 @@
+{
+  "name": "Fa Li",
+  "subtitle": "Madre di Mulan",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sarah Schmidt",
+  "deck_building_id": "87d69cfa8aa0f85fd83e4afe751103cb242c7dbe",
+  "culture_invariant_id": 834,
+  "sort_number": 844,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore"
+  ],
+  "flavor_text": "Quando è lontana da casa, Mulan pensa spesso a lei e alla sua presenza rasserenante.",
+  "rules_text": "",
+  "card_identifier": "143/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=36be11fec467a5c2fc4b16ccecc56574910d512fd4317abc6a80cd47b77c473b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=3cb8b7b4febc4fc44d0a4fdb3a9ace9d44e55e9c4a5e94b91c1327ce68e82a75"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=c74b4031a0e34a555c45a7263d00dc35e0aa7a0a0c2b66ed38a98e142e7c45d9",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

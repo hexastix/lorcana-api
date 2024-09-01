@@ -1,0 +1,44 @@
+{
+  "name": "Jafar",
+  "subtitle": "Wicked Sorcerer",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jake Parker",
+  "deck_building_id": "b3001090c82926f995dda5332ff5f0546257b061",
+  "culture_invariant_id": 45,
+  "sort_number": 45,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do.",
+  "rules_text": "Challenger +3 (While challenging, this character gets +3.)",
+  "card_identifier": "45/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=2e787e3daa50ff5959247df6c0b064a9c75e24fb0368b1626c19cc72798bb7f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=7662250728a9fef83829a046f4887b60a4bdd138c62d5cffda33ce66436d2877"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=782e958a7941bde0c5312b8f40373047cd6fc49ca8df30508fe4885c856abd33",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

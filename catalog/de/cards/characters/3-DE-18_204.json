@@ -1,0 +1,46 @@
+{
+  "name": "Pluto",
+  "subtitle": "Freundliches Hündchen",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "98a41ededf0b9cfe8fa7096aaf97b6290be8f370",
+  "culture_invariant_id": 454,
+  "sort_number": 489,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Kann ich die Fähigkeit „Braver Junge“ meines Pluto - Freundliches Hündchen benutzen, um die Gestaltwandel-Kosten eines meiner Charaktere zu reduzieren?\r\nA: Ja, kannst du. Bedenke nur, wenn du den Gestaltwandel auf deinen Pluto durchführst, mit welchem du die Kosten für den Gestaltwandel reduziert hast, dass der neue Charakter das Spielfeld erschöpft betritt, sofern Pluto zum Zeitpunkt des Ausspielens noch erschöpft ist.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Er kann es kaum noch erwarten, neue Freunde zu finden!",
+  "rules_text": "BRAVER JUNGE – Du zahlst 1 weniger für den nächsten Charakter, den du in diesem Zug ausspielst.",
+  "card_identifier": "18/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=642dbf4cc6171e758742584faad7b667358b15a7a2b0d9861add8d2634e7addc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=934a49f656c914ea821132189c153af980c8bf29024920c5433624a4957d9414"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=0ab109d2b2894ad3d78ccf916f1c88f2de8b50c1b4e6debf0fa9e926dc4247be",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

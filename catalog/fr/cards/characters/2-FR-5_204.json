@@ -1,0 +1,41 @@
+{
+  "name": "Prof",
+  "subtitle": "Chef des Sept Nains",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kendall Hale",
+  "deck_building_id": "78808ef4f46068f8cf74e84d569167ddb81dc47f",
+  "culture_invariant_id": 221,
+  "sort_number": 245,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Sept Nains"
+  ],
+  "flavor_text": "C'est lui le chef ici.",
+  "rules_text": "À CHACUN SA PART Lorsque ce personnage est envoyé à l'aventure, le prochain personnage que vous jouez durant ce tour vous coûte 1 de moins.",
+  "card_identifier": "5/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=d0fff641b13d95281fe5aa6974c1b654b23910b047d60d42f7e5a150b290fcc8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=0468418a0b3b07834ff8aa8b21db593d8c195c988c64fcc9c03f46c662501a6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=63f00943266e9ada463dc0cb1b7de4a6f6067ba285df55fb9e439389ec135022",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "LE DUC DE WESELTON",
+  "subtitle": "Dignitaire opportuniste",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "8b4fd5b66b54e7069a367ca9e58ca43303833526",
+  "culture_invariant_id": 73,
+  "sort_number": 73,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "De la sorcellerie. Je savais qu'il se passait des choses douteuses, par ici.",
+  "rules_text": "",
+  "card_identifier": "73/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=bb3023805186d0c2df0b761b8922b9ea4f5a6934a2c3151975928ad389509625"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=1b1b154a98ef0b7e383453def39b468262e8550788b291b124c47506a5570b7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=fa337045244640fccfcc7bb440d24d8f3b896d81e3168a6634dd3e04931016d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

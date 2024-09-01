@@ -1,0 +1,33 @@
+{
+  "name": "Surf Aereo",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jenna Gray",
+  "deck_building_id": "cc66d741f2606521d3e52b9282371857f133830f",
+  "culture_invariant_id": 533,
+  "sort_number": 568,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Rinvenuto all'interno del relitto del Sea Duck, era ancora come nuovo.",
+  "rules_text": "IO ALLORA VADO — Se hai giocato 2 o più azioni in questo turno, pesca 1 carta.",
+  "card_identifier": "97/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=9a4d305c477463d6f58dee8704a557b723e6fb808b3ee1b7dea2b4ed8de7ff56"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=9a9dd4f9c1772e778b51368a87ba5e2af036899e9dd588f6a435eff265f6b0c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=3f98e61542078f3eb00348545701d662ef53d9e0ff1ee4c63b3fb16baaaf2db7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

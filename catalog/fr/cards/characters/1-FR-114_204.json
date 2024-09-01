@@ -1,0 +1,44 @@
+{
+  "name": "MAUI",
+  "subtitle": "Idole des Hommes",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Pirel / Marco Giorgianni",
+  "deck_building_id": "e7461b5e5c9e2bd3760cbfd6a8b7995386f18c2e",
+  "culture_invariant_id": 114,
+  "sort_number": 114,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Combattant",
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu"
+  ],
+  "flavor_text": "Je pense que ce que tu essayes de dire, c'est ‘Merci!’.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "114/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=776d638edc091ec4bdd84b6ffffc9e60c918f90f4dd15bd442333664b893fd10"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=a11ef4b886ade58618dc8d08e6be0769282572e0b05162aba32cc5f482b21f63"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=f6593be9dd82c7960c6503ad40615b53bc9376ab76c92391e0389146a7a935e3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

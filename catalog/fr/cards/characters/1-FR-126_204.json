@@ -1,0 +1,44 @@
+{
+  "name": "TE KĀ",
+  "subtitle": "Démon de la Terre et du Feu",
+  "strength": 8,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "92788505267291d061bce171dae43b361f5c9eca",
+  "culture_invariant_id": 126,
+  "sort_number": 126,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "Elle brûle de retrouver ce qu'on lui a volé.",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "126/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=2b304d0221982b02b2e8d0a4b23bc8431af5c72c918cd776c19fe0efaca29ab8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=0d830093fa5abd96e85de28fbd46263fdf6f6c27a07ecb8cbcbf97f9ff5c8064"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=00d8f01c547e4615fc7e0dda496d1c2f807afddc33bbbdb2cacab730c1c88b7e",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

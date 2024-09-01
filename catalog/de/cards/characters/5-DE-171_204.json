@@ -1,0 +1,41 @@
+{
+  "name": "Stitch",
+  "subtitle": "Team Außenseiter",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Karen Hallion",
+  "deck_building_id": "46c74815d938940a1435bdae976105ce9951db9f",
+  "culture_invariant_id": 1127,
+  "sort_number": 1135,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "Er ist zwar nicht der größte Glimmer im Team, aber er hat es dennoch faustdick hinter den Ohren.",
+  "rules_text": "HAU RUCK! Wenn du diesen Charakter ausspielst, darfst du einem Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "171/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=98cc70c97c7e6037a42d5f89bf9c424d41cce3528739f34b24488eaf42d70952"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=276ec113c57afff41fd51929a9a2c4cdf99d93d30ddde7f7a30263d03f884857"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=84978e3477e760e2d38dbb09c49b20c47f17d2c1ed7b8c8cf1eb7fbecb32c95a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

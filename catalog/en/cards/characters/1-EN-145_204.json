@@ -1,0 +1,40 @@
+{
+  "name": "Flounder",
+  "subtitle": "Voice of Reason",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Brian Weisz",
+  "deck_building_id": "3d1fec6cbeed388a7009113f866cf41cb9c468d1",
+  "culture_invariant_id": 145,
+  "sort_number": 145,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Excitement. . . adventure. . . danger lurking around every cor— AAAAAGGH!",
+  "rules_text": "",
+  "card_identifier": "145/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=6060b7689ca63ecf7d7b58bf45b51869819dbf60400fd4c277ea3d00b86d3e78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=50032caff4053fee08d73816c64e2045fef9e4138c769320d5476d84d60e189a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=40ff1df5b00ee11e9bb446d0520f06e3089e7909fed3cee1bed654197a34a81a",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

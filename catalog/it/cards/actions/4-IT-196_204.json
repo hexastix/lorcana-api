@@ -1,0 +1,35 @@
+{
+  "name": "Una Furia Vivente",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jennifer Park",
+  "deck_building_id": "fb56f29241ca17496d5e5417bca9cff146007bf3",
+  "culture_invariant_id": 887,
+  "sort_number": 897,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Io non chiedo se sia dura%Faccio tutto con disinvoltura",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per cantare questa canzone gratis.) Esilia tutti gli oggetti.",
+  "card_identifier": "196/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=eb52b34b9b270de756c07a6309880d1a16f64e8c24f2fb3ece81ad4f3b14103c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=ae0279de80ddc423da627a10af644d2130b50838681e3c6a0434e4bbddfad92d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=26b4dc0a53f55d81b920f89e78bfea9c5c6b60a6329b93ac303f5aa6d4613822",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

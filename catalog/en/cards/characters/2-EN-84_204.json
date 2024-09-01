@@ -1,0 +1,40 @@
+{
+  "name": "Little John",
+  "subtitle": "Loyal Friend",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "e8f06c9f22b299b64fb4ee57e0e387f17cbf9daf",
+  "culture_invariant_id": 300,
+  "sort_number": 324,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "What’s the rush, Rob? Take a load off! There’s plenty of time to go lookin’ for lore lost in that crazy ink.",
+  "rules_text": "",
+  "card_identifier": "84/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=8f560e60e092e57345471798fe65cd14c0d58bf6346ce6d481b755512f21bf3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=4c5691d1287c77f41cc86a4998808baeb8fd748e7b0630ece850f1965963d207"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=8d55db512fec000f5c6e71549ec7a7b94b1659d1581d0fee65b89eb2b707d402",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

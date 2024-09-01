@@ -1,0 +1,43 @@
+{
+  "name": "Zeus",
+  "subtitle": "God of Lightning",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "dadb267eccd432e2568673dafcf9b187459bc477",
+  "culture_invariant_id": 61,
+  "sort_number": 61,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Challenger",
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Deity"
+  ],
+  "flavor_text": "A little lightning solves a whole lot of problems.",
+  "rules_text": "Rush (This character can challenge the turn they're played.) Challenger +4 (While challenging, this character gets +4.)",
+  "card_identifier": "61/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=4af6fa86a47e6f7ad5dd482ae0c8d1249dc78e361b368430c040265e0328d750"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=7e983a784b85b7174c7f7f10420749bf393f3f95fccb6417f20e4021919b6af2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=ba2dca85b3cf1c2de05f43dba50e888fe103005d3ca2f67c6b8786648a55e2bb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

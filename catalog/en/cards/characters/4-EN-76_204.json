@@ -1,0 +1,43 @@
+{
+  "name": "Hera",
+  "subtitle": "Queen of the Gods",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "908c1d368aae7b1e8b09740cb282e4eae501ef42",
+  "culture_invariant_id": 767,
+  "sort_number": 777,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Queen",
+    "Deity"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) PROTECTIVE GODDESS Your characters named Zeus gain Ward. YOU'RE A TRUE HERO Your characters named Hercules gain Evasive. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "76/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=e8f40e03e283e8d756987d19faec97850efb69e6482eb80f62ce881c88cd49da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=e32b2dd1a8e4bdbd1c45f916d47e03d0ab7fe4e2d8e2f80c9d5c770324db94e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=69a471523617fb2564e6baaf06cb4929284893231dbe75dd4b141ca9173db47a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

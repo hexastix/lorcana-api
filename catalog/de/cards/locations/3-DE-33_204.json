@@ -1,0 +1,37 @@
+{
+  "name": "Das Geweihte Land",
+  "subtitle": "Königsfelsen",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Beverly Arce / Jonathan Livslyst",
+  "deck_building_id": "df2e59641883d44ec34c12b9ba600f92f8be0ec2",
+  "culture_invariant_id": 469,
+  "sort_number": 504,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WIR SIND ALLE EINS Charaktere an diesem Ort erhalten +2. ZUHAUSE DER LÖWEN Wenn du mindestens einen Prinz oder einen König an diesem Ort hast, zahlst du 1 weniger, um Charaktere auszuspielen.",
+  "card_identifier": "33/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=bbecd1c9ce32eb0725022cbf30b16c37bec78c702fb8fa690ba796d39039a1ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=832382e3aa4791f4f94cd51bd9bb77a2d55fb54e3ad09cc15ca60b0d65085e8c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=ee0f520a17193a7a5ab1cada4e811d5ac57607010b68a275cee11a53bd411636",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

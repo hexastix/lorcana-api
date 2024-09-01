@@ -1,0 +1,36 @@
+{
+  "name": "Hakuna Matata",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "820f02f5beebca54dc425f38c78f9f8bccea8dea",
+  "culture_invariant_id": 27,
+  "sort_number": 27,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Ma che dolce poesia!",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per cantare questa canzone gratis.) Rimuovi fino a 3 danni da ogni tuo personaggio.",
+  "card_identifier": "27/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=765adfae07a0d83eeffa4b2ace224b2a1075be2df6c23ef8649501510d452e10"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=9b3f76dc49c4915f868d33344c0df5a75a050598efd9d348b0f77c2f55f8420e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=10e26deb33f1d85985e64e33bbd3091a05dd5ed6ac09ca8431b7285e2f8c4c5f",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

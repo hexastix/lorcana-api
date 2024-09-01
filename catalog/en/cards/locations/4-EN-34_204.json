@@ -1,0 +1,37 @@
+{
+  "name": "The Underworld",
+  "subtitle": "River Styx",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "172aa537f6281e65f28f8367da7244dd30dfc468",
+  "culture_invariant_id": 725,
+  "sort_number": 735,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SAVE A SOUL Whenever a character quests while here, you may pay 3 to return a character card from your discard to your hand.",
+  "card_identifier": "34/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=1ce0205360093803f11bde73b768e15e48138290d0fde9af9f50a03e491ddff9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e93bb1d72a91e26ca7750addfd6b69dcc560677094790131c61dcf516248780f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=52bbc638c58ff23269aa04effaf20432e13d94d1488c5b8442600722c043c952",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

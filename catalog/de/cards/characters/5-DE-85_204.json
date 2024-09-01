@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Diplomatische Königin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Dylan Bonner / Celeste Jamneck",
+  "deck_building_id": "ccc44e0dfdc4c493db2af13ca258445a6e8d8e7b",
+  "culture_invariant_id": 1041,
+  "sort_number": 1049,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Königin"
+  ],
+  "flavor_text": "",
+  "rules_text": "KÖNIGLICHE ENTSCHEIDUNG Wenn du diesen Charakter ausspielst, darfst du 2 bezahlen, um eine der Möglichkeiten auszuwählen: • Alle gegnerischen Mitspielenden wählen je 1 Karte aus ihrer Hand und werfen sie ab. • Gib einem Charakter deiner Wahl in diesem Zug +2. • Verbanne einen beschädigten Charakter deiner Wahl.",
+  "card_identifier": "85/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=1004998057a6476420a18902607b8b759629e2193a0d85492666eeb9fe55cc3b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=7b552f738160aa74c13ab3d408e93138754d05d65d500b1606f484bb1a131d0e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=3f46605d83d59b41d2b2737a38b20dca2ed18c4b7083f8c284bcc8db5531bdc4",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9ada7a964599e084fbd34d5c52ae8bcdd51e438906e6fccdfac963b9adc831bb",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

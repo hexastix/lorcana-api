@@ -1,0 +1,37 @@
+{
+  "name": "Ich bin bereit",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Anna Rud / Anna Stosik",
+  "deck_building_id": "eddcb5e8b24a67d1fe9ba072650341d9017300d3",
+  "culture_invariant_id": 686,
+  "sort_number": 697,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 4 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Schaue dir die obersten 2 Karten deines Decks an. Nimm 1 davon auf deine Hand und lege die andere verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "28/P1 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=8abaf5eae96be998acfa22957536c59f9241dec7ddc1d04f4810f3cb73a6534b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=855e5738c7b02f90fed60551c600fee6b267082980e1f7454841552c4c653c64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=0dc67ad9e12e002d9c9ef1225a6f48e0803391d33a83b5f0137b89dd878ecab0",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

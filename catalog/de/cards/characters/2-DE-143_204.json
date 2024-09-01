@@ -1,0 +1,45 @@
+{
+  "name": "Von Unruh",
+  "subtitle": "Sprechende Uhr",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "7b50975b1d3f12da9b7fe8822eb27ad690318c58",
+  "culture_invariant_id": 359,
+  "sort_number": 383,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Mein „Basil - Aus der Baker Street“ wurde durch den Effekt von „Das Biest gehört mir!“ ausgewählt und ist derzeit Impulsiv. Wenn ich eine Kopie von „Von Unruh - Sprechende Uhr“ im Spiel habe und meinen Basil erschöpfe, um 1 Legende zu sammeln, kann ich seine Unterstützen-Fähigkeit nutzen?\r\n\r\nA: Nein, das kannst du nicht. Das Sammeln von Legenden mit Von Unruhs Fähigkeit „Moment mal“ gilt nicht als Erkunden, daher kannst du Unterstützen nicht einsetzen, wenn du „Moment mal“ einsetzt.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Also, jetzt reicht es aber. Ich trage hier die Verantwortung.",
+  "rules_text": "MOMENT MAL Deine Charaktere mit Impulsiv erhalten: „ – Sammle 1 Legende.“",
+  "card_identifier": "143/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=0fc89d656de19faed5e47762fcbc9efd24688f1fc8532e01096313266435a45a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=0c979f2409be9c7bcc9139a201a67ab63dcabf62e26d790b91f7dce8fbf19a65"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=4c6d88668f34b09ef97fde959edfc8f1806ad1e8a4dd9aa9b9ebfc8785a236ce",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

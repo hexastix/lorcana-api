@@ -1,0 +1,40 @@
+{
+  "name": "Schwefel",
+  "subtitle": "Schelm der Unterwelt",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kristina Chouri / Mariana Moreno",
+  "deck_building_id": "fdf450f84ae445d0b49e32dfd310ba191b6790f7",
+  "culture_invariant_id": 303,
+  "sort_number": 327,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Wer behauptet, dass es heutzutage schwierig ist, gute Helfer zu finden? Ach ja … ICH! – Hades",
+  "rules_text": "ALLES IM GRÜNEN BEREICH Wenn du diesen Charakter ausspielst, gib einem Charakter deiner Wahl in diesem Zug +2. Wählst du einen Pech-Charakter, gib ihm in diesem Zug stattdessen +4.",
+  "card_identifier": "87/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=be827b9d173205c93c96726bec5dc4e1b8eff9263a8fee3436b5dcdf1ede6e50"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=5361bfbd2ba5dc705a2b6deafc080e76b161eb46e85ed0902012ee2c61c571fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=dc208dddc13a105afd4a794682fb172e856c17a28ebe82464fd00765f3fc2dc7",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

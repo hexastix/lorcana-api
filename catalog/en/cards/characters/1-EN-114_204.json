@@ -1,0 +1,44 @@
+{
+  "name": "Maui",
+  "subtitle": "Hero to All",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Pirel / Marco Giorgianni",
+  "deck_building_id": "e7461b5e5c9e2bd3760cbfd6a8b7995386f18c2e",
+  "culture_invariant_id": 114,
+  "sort_number": 114,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rush",
+    "Reckless"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "flavor_text": "What I believe you were trying to say is ‘Thank you.’",
+  "rules_text": "Rush (This character can challenge the turn they're played.) Reckless (This character can't quest and must challenge each turn if able.)",
+  "card_identifier": "114/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=c8ed5ae9ec5c8f192a875e0bd56d7fb19a27dbeba302fd93069295d5564dc658"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=2264ab41ed123e9acba5d2ae6eb3ef4be60109ae7687daa2a3acdb433aff8382"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=f6593be9dd82c7960c6503ad40615b53bc9376ab76c92391e0389146a7a935e3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

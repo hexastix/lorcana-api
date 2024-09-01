@@ -1,0 +1,43 @@
+{
+  "name": "Mulan",
+  "subtitle": "Elite Archer",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "06e306a4259dd86efa3be5c32d8bc2d7de24b052",
+  "culture_invariant_id": 805,
+  "sort_number": 815,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Mulan.) STRAIGHT SHOOTER When you play this character, if you used Shift to play her, she gets +3 this turn. TRIPLE SHOT During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters.",
+  "card_identifier": "114/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=c9326646655d0ea0ad66103b812885dfb5f02d9effbc59b753ba33391943be77"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=9343eb8cae3922c03dc04f3822c8b8a03f939ca753da65e1e602a435bf4d29a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=01bbb900083439a0b1d3b388c00f88e1725feae4d69e412e6f0e062a0216a80b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

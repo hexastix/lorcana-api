@@ -1,0 +1,42 @@
+{
+  "name": "Elsa",
+  "subtitle": "Queen Regent",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Duyen Nguyen / Aubrey Archer",
+  "deck_building_id": "0c66ceaa85ceec0fa1c10c4146b02d093fa8d2a4",
+  "culture_invariant_id": 40,
+  "sort_number": 40,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "I never knew what I was capable of.",
+  "rules_text": "",
+  "card_identifier": "40/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=ceedd268f8d55c7103b623c2a1fdd437dd7b29350c2efc861a30bd11da309a6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=16c778276ec5671469b74cbe696ceb0229b7470dde3c1ef20ebdbd0e62be755c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=bd6fb1a7ef7513a98308c38790eb4d85f0bd396be23908f45a365472b2bae7b1",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Pico de Paperis",
+  "subtitle": "Sedicente Genio",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Matt Chapman",
+  "deck_building_id": "d7e1108b37f8a0a012a164b49ae361f7ec8a9efe",
+  "culture_invariant_id": 1107,
+  "sort_number": 1115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Quindi, ecco, c'è un vuoto oscuro ai confini di Lorcana. Una totale assenza di radiazioni elettromagnetiche! Di che cosa è fatto? Non lo so! Semplicemente la luce è scomparsa. Puff!",
+  "rules_text": "",
+  "card_identifier": "151/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=22b829e4f122a032ee20f894eb0922f41811b7e6f9906b2b136ce9e0d54b57ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=26fac6ae4eb58ec299217a7bc686b39f4f0e46d4863c00299c131a054f8c2c86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=260cc43df4b46966c02f51a40892ca5cefe174b86f4e8ba5676c659eae067d7a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

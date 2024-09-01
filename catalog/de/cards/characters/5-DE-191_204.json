@@ -1,0 +1,42 @@
+{
+  "name": "Happy",
+  "subtitle": "Ritter der Lebensfreude",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "3a59888573730230b6c46d076009658727fb43a8",
+  "culture_invariant_id": 1147,
+  "sort_number": 1155,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Ritter",
+    "Sieben Zwerge"
+  ],
+  "flavor_text": "",
+  "rules_text": "GESCHWINDIGKEITSSCHUB In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "191/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=facde3a3c5cf3e4f93f0f49733b01a3c5d6188b96525968e6e9adb4c69cae7a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=bd91928c849f85bbd9a43c23f9dd68f64ca9c0f7d7b915b0c9465a72bc747714"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=15310bc54f96505c46d79a98bab7b5d200c2847556009a63ae2f334c10d22838",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

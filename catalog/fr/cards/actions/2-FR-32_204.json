@@ -1,0 +1,35 @@
+{
+  "name": "De zéro en héros",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "e304dbf3757b9b3aee99fb65f9752724aac895c5",
+  "culture_invariant_id": 248,
+  "sort_number": 272,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Le prochain personnage que vous jouez durant ce tour vous coûte -X , X étant le nombre de personnages que vous avez en jeu à ce moment-là.",
+  "card_identifier": "32/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=c8bcf4f02ff17a44847940ce162213af7aa6b54a8e11d7a1005ea5aa0569ce74"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=13f04f24a5d3b86f440e8faa6dcd2ca92b164f0324c55d840f26ceca78d5e7e8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=eb8bf73035569b8879b2247118dc84ce8fab20d03f68b8eecd3988f6ee9575ca",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

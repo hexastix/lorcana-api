@@ -1,0 +1,43 @@
+{
+  "name": "Belle",
+  "subtitle": "Ingegnera Creativa",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Gabriel Romero",
+  "deck_building_id": "86b4fc6edf4957af2c46cf5c14f83207899645cc",
+  "culture_invariant_id": 141,
+  "sort_number": 141,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa",
+    "Inventore"
+  ],
+  "flavor_text": "Con un po' di ingegno e molta passione andrai lontano in questo mondo.",
+  "rules_text": "INVENTRICE Ogni volta che questo personaggio va all'avventura, paga 1 in meno per giocare il tuo prossimo oggetto per questo turno.",
+  "card_identifier": "141/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=2d066152e0e369158c49051c240038a40732184743a069724ae34534352e95a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=d3c6830b342cabe570ab879c932f745cf1bd185453e2c71b4ad2f0663b52f73d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=75dcf2d2a3507bb2b35cdf7b3b5ba0e64032b4dfbbf7078cc1d562b69c5790bf",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

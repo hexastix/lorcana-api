@@ -1,0 +1,42 @@
+{
+  "name": "Chat du Cheshire",
+  "subtitle": "Sorti de l'ombre",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Jeff Murchie",
+  "deck_building_id": "91da2e177e44b0cdfd1e446b5b8aabb79e2ebafb",
+  "culture_invariant_id": 291,
+  "sort_number": 315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable",
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Chat du Cheshire.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) SOURIRE MALAISANT - Choisissez un personnage blessé et banissez-le.",
+  "card_identifier": "75/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=a9b59cd37945255539e0dfaaa54452d665bca67e2f7c3916aeb53e6fe06189c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=be9dbc7f7eca131bd82c6dbf752459a1dbd024f2841ae3d6113eaeecf9c0f04d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=2a8790b7ab55a935684f173fa1f911b5758c813a2cebf88ff60dccfd3e1462e2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

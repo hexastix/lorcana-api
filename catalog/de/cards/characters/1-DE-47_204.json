@@ -1,0 +1,46 @@
+{
+  "name": "Zauberbesen",
+  "subtitle": "Wasser marsch!",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Dav Augereau / Giulia Riva",
+  "deck_building_id": "bc8813175a24333e18cacec3c84b7c1084c21790",
+  "culture_invariant_id": 47,
+  "sort_number": 47,
+  "additional_info": [
+    {
+      "title": "FAQ - Kosten",
+      "body": "F: Wenn ich 2 Exemplare von „Micky Maus - Eigenwilliger Zauberer“ im Spiel habe, kostet dann mein „Zauberbesen - Wasser marsch!“ 1 Tinte weniger oder 2 Tinte weniger?\r\n\r\nA: Zauberbesen kostet dann 2 Tinte weniger, 1 Tinte für jede Kopie von Micky Maus - Eigenwilliger Zauberer.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Besen"
+  ],
+  "flavor_text": "In der mächtigen Geschichtenschmiede, bekannt als das Große Illuminarium, gibt es immer was zu tun.",
+  "rules_text": "FEGEN Wenn du diesen Charakter ausspielst, darfst du 1 Karte deiner Wahl aus einem Ablagestapel zurück in das zugehörige Deck mischen.",
+  "card_identifier": "47/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=e2d75eb932310f53bb9de6c275e06daea388237670e6b6aac8e611aaf5b45f57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=82ec35b4a20b9cec9a9546ea0ad5815a07e9e8ba954fbf3c4d5b3faa12b6a804"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=d8d7b4805d08ed8a2fbbadb65ea164d9b907d141e5f00951bb365eb616ab6c7a",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

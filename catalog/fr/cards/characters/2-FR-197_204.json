@@ -1,0 +1,41 @@
+{
+  "name": "Tiana",
+  "subtitle": "Serveuse consciencieuse",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "5fd6b648da175096eb786f728eef9a5e41cd3450",
+  "culture_invariant_id": 413,
+  "sort_number": 437,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Ce sera un endroit très spécial, avec de la bonne nourriture pour remplir les estomacs des gens et du jazz pour nourrir leurs âmes.",
+  "rules_text": "",
+  "card_identifier": "197/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=184a3689abd90f81c7c510a421e803caa267d13eee967e12c25ca54854f2053d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=d3e6a6a77dbf04242e22b7e0c37ee4986df14e31ed6d1eb2e14f6f34d37fb396"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=5f7d51a423dff35173c428a7d9c757686bb6e772dea78776d478e34b882bcf00",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

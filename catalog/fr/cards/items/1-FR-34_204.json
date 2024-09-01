@@ -1,0 +1,33 @@
+{
+  "name": "PENDENTIF EN COQUILLAGE D'URSULA",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jenna Gray",
+  "deck_building_id": "788d367996da4e38abe1f058df4a45990215968f",
+  "culture_invariant_id": 34,
+  "sort_number": 34,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Chanter est un merveilleux passe-temps… à condition d'avoir la voix qu'il faut. — Ursula",
+  "rules_text": "MAINTENANT, CHANTE! Chaque fois que vous jouez une chanson, vous pouvez payer 1 pour piocher une carte.",
+  "card_identifier": "34/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=83bbaac7add01201391e2fb16281acff48748a031ab6823fa487632a7d4b82f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=f7e17519a75f1cd5c8652273dd2dc2c5f1a08234b5d8541bdc5f8cef62b4c43f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=3b987f3160896581929c605095f2e7b0f54acb94a8318e9e2bf7fcd078afe3e3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Aufbrausender Vogel",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "5880e4814c3c2fb5e6a2d48ca24bf6960f564337",
+  "culture_invariant_id": 108,
+  "sort_number": 108,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Wen nennst du hier aufbrausend, Freundchen?",
+  "rules_text": "",
+  "card_identifier": "108/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=42bbdb953afe065f4fb28a0087306b756ba6803f6e2e80456f2c876bc0707e81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=2c0060450a915308cc79f06471d0dde2eba437523f5e281973e5e5c8cea5aea3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=d40fb3ee101b5577a6f957299ec6d8054354149b1985b862dcff2c5719236968",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Kit Nuvoletta",
+  "subtitle": "Tipo Tosto",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba6592b2078506e7c5389f3ec79be99fb7ce9be",
+  "culture_invariant_id": 684,
+  "sort_number": 695,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "È stato bello ragazzi, ma devo andare. Yahoooo!",
+  "rules_text": "SURF TRA LE NUVOLE Quando giochi questo personaggio, puoi far tornare un personaggio avversario a tua scelta con 2 o inferiore in mano al suo giocatore.",
+  "card_identifier": "26/P1 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=abad4793d42cc35e8307ec57d74ca2913c50e1645085013e03be868e050a0a3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=a77e325f07dbd0a83ac6ed199af7bf81dc1a72edd1e26c32c95cf890a8a249c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=fd551bf38438a8845ffd94f83d35bfc05dd438ebbf70d0bf2838e7e7766ade63",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

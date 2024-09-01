@@ -1,0 +1,44 @@
+{
+  "name": "Madame Mim",
+  "subtitle": "Lila Drache",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Ally Zermeno",
+  "deck_building_id": "8beb7231237cf3bc2a7b1289fd773536113e9112",
+  "culture_invariant_id": 263,
+  "sort_number": 287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin",
+    "Drache"
+  ],
+  "flavor_text": "Hab ich was gesagt von keine lila Drachen? Nein!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) GEWONNEN, GEWONNEN! Wenn du diesen Charakter ausspielst, musst du ihn verbannen oder 2 deiner anderen Charaktere wählen und zurück auf deine Hand nehmen.",
+  "card_identifier": "47/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b4bfbfe892b2b6155e873f29eabda50c387509ae56db2089d84cadbe0bbf369b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=5ce2ba63efe76210027e7838a92298908f6682bba2fb1c145813226c6783eda0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=17bc8ceab2687c8c49149f0958d4e1e7928c7b28f233e53fb8d4cefcb55ea2c1",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

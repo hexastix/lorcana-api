@@ -1,0 +1,46 @@
+{
+  "name": "Simba",
+  "subtitle": "Rightful Heir",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "867f1aaf903530b9c3ec81d29e0e6c7a78f9725e",
+  "culture_invariant_id": 190,
+  "sort_number": 190,
+  "additional_info": [
+    {
+      "title": "FAQ - Challenges",
+      "body": "Q: If I banish a shifted Floodborn card in a challenge while I have a card that lets me gain 1 lore when I banish a character, how much lore do I gain?\r\n\r\nA: No matter how many cards are in a shifted character’s stack, they still count as a single character. Only the top card of a shifted character’s stack is considered banished for the purpose of effects like this.\r\n\r\nExample: If you banish a shifted character with Simba – Rightful Heir, you still gain only 1 lore from his ability I Know What I Have to Do.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "I can’t hide anymore. It’s time to accept my destiny.",
+  "rules_text": "I KNOW WHAT I HAVE TO DO During your turn, whenever this character banishes another character in a challenge, you gain 1 lore.",
+  "card_identifier": "190/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=b63dfbc3fa217feff835816d8c72094d6dc2e522033c3e3a6b1660077a0efb47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=421217638a1ae646dfac8301b160d0e09726d24111dfb572118815ff17181e44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=c200b52b4c3f7f14b7c52dbb89c41d6eb9e96aea0afa051021ec791acb5ca466",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

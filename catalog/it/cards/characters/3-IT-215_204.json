@@ -1,0 +1,44 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Flagello dei Pirati",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "6f685f0a2a2fbce4b5ece504fc70f70dc4bae551",
+  "culture_invariant_id": 651,
+  "sort_number": 686,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Peter Pan.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) SEI IL PROSSIMO! Ogni volta che sfida un personaggio Pirata, questo personaggio non subisce danni dalla sfida.",
+  "card_identifier": "215/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=6fe59285fe1ef57a68160439f8d46039096b84ee00191374c35eff321f91ae16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=786332e0249f44e7fc2784fa188bb87fcc47b783d89f526cc94fc111078858b6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=c05becf300a41da3a58b4f7d9666736559f5caa359b973127407c43cd75c95ab",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

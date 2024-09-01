@@ -1,0 +1,44 @@
+{
+  "name": "CAPITAINE CROCHET",
+  "subtitle": "Pirate impitoyable",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Cam Kendell",
+  "deck_building_id": "cb7f49afcece80ca059a1b80ac84424a7d69eeaa",
+  "culture_invariant_id": 107,
+  "sort_number": 107,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Tu n'oserais pas affronter Crochet en combat singulier!",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) LÂCHE! Tant que ce personnage est épuisé, les personnages adverses avec Insaisissable gagnent Combattant. (Ils ne peuvent pas être envoyés à l'aventure et doivent défier à chaque tour s'ils le peuvent.)",
+  "card_identifier": "107/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=5b31b96922fa9ce6330679719b2a7b652e7b605c505a327704d311583885f0e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=076868301f27d986fedeef2fa241858b31f0aec5735d3bc185f413806a181775"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=097817ce9d07b92c34d57c340eb9c7ca669caaa616ee05aff25405013e228a22",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Iduna",
+  "subtitle": "Madre Premurosa",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jake Murphy",
+  "deck_building_id": "9bd57fcb99a507768c2ed76d095a7b67706581f7",
+  "culture_invariant_id": 838,
+  "sort_number": 848,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Regina"
+  ],
+  "flavor_text": "Perdi ciò che tu hai più amato%È allora che lo avrai trovato.",
+  "rules_text": "AMORE DUREVOLE Quando questo personaggio viene esiliato, puoi aggiungere questa carta al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "147/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=ddab0c098622204550b9eed166afe7d44a6acb4b788ad62518b8da9be3c919a9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=cba75a987401864dd6386092c4d8dd4f6f370220191a6f28f9a6b99ec6e9f877"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=dc988b0f7b572dc5b0120ea3b5504b9f989573ab524d67458a489853bdb02209",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

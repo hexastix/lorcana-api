@@ -1,0 +1,38 @@
+{
+  "name": "On Your Feet! Now!",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "c2489a966a450b41881a99cd9bb1f009bd92d32d",
+  "culture_invariant_id": 566,
+  "sort_number": 601,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I have a character with Resist+1 in play when I play On Your Feet! Now! will that character be able to quest after I ready them?\r\nA: No. On Your Feet! Now! affects all of your characters that are in play for each of its effects. First it will ready them and deal 1 damage to each of them. Those with Resist +1 will reduce that damage by 1 before any damage is dealt to them and receive no damage. All your characters will be unable to quest the rest of the turn, even if they were ready when On Your Feet! Now! was played and even if they didn’t receive damage from it. \r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Catch them! Before they get away!",
+  "rules_text": "Ready all your characters and deal 1 damage to each of them. They can't quest for the rest of this turn.",
+  "card_identifier": "130/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=86e90335bc5d1627ec799a74afa5c7c5e1f305a1f4854ecb7097651f582aff3f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=285a232c1676b2eb99b7a76796538d1715bcbb13a129ed9499b7c471228209ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=817a48ad15b609fffcd84b464cd5103113e57dfc15c1c4c4b1553225339f663b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

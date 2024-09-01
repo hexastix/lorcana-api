@@ -1,0 +1,40 @@
+{
+  "name": "Kronk",
+  "subtitle": "Right-Hand Man",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jake Parker",
+  "deck_building_id": "16ae0c63dad8f7e9a23de31e17f65ff2e726a9e2",
+  "culture_invariant_id": 183,
+  "sort_number": 183,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Oh yeah. It’s all coming together!",
+  "rules_text": "",
+  "card_identifier": "183/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=3711a3dd7c1822725a2c1c4578ad241933a4d0be4f6fdc9bce55c37e8fbf2ead"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=60c9f5032b776f18141fbba00e84890455b9d8e6d5a00eafa659f46c275b491b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=70cc798cb7987a36f5baeb4818c17942d5519bbc557df4d5a5102a23a7f0ad85",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

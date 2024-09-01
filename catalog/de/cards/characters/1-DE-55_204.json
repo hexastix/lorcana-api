@@ -1,0 +1,40 @@
+{
+  "name": "Sven",
+  "subtitle": "Offizieller Eislieferant",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "e5a8c4b90dc84d19a4aaae97b279a35a00cd5b09",
+  "culture_invariant_id": 55,
+  "sort_number": 55,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Achtung, Rentier im Anflug! – Kristoff",
+  "rules_text": "",
+  "card_identifier": "55/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=33ee9fdafae49825598abb35ec596b55faf0c3c19e93f73b040cfa71fd7d4758"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=c8880931276ae0c07586f3760cc4cf67074733b629fc33b7e50282bd81c0df2f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=883ee4d25bc87fa509523592692abe715da9eed5397175ee7ca4a4ab45ec8761",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

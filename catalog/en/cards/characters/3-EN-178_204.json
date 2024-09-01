@@ -1,0 +1,42 @@
+{
+  "name": "Little John",
+  "subtitle": "Resourceful Outlaw",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "4956d247c5c7ffb227f85ae9fef3452d613bf2d5",
+  "culture_invariant_id": 614,
+  "sort_number": 649,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Little John.) OKAY, BIG SHOT While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "178/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=7b5ca8e5998c18544bc0a2cbe5f3cb97fa2e3adb7a609785f9efac6bc09b8b4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=160beb82843cb813ac4880c47e60e5312d25a5e9f51d51600407caecc41067b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=ebf3161d81a3b1aeeae7c8fe10ea601e6b40aab7029612ab6d411e9eb98363b9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

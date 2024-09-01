@@ -1,0 +1,41 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Gifted with Healing",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "345752dc9d9f01dec742580418fa17e39c835485",
+  "culture_invariant_id": 18,
+  "sort_number": 18,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "GLEAM AND GLOW When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way.",
+  "card_identifier": "18/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=75678546524afdc743b96ea267302da15f07e5e30efef6206547fff1a8f9f92d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=caa2bef1b38be1751b3351b75b58c00e9a3199a6b66b863794f05db96b7f3b89"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=99acfda111c7dd3d87130e179b25672d558726880978ff20720ea8705f833320",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

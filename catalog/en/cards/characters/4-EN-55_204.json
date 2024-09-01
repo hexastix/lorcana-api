@@ -1,0 +1,40 @@
+{
+  "name": "Pico",
+  "subtitle": "Helpful Toucan",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hadjie Joos",
+  "deck_building_id": "27be5df4d628d5a4e6cf0eb59be64a452c0bb9cc",
+  "culture_invariant_id": 746,
+  "sort_number": 756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He spotted a mysterious glow in the mountains nearby. Could it be the missing piece of the prophecy?",
+  "rules_text": "",
+  "card_identifier": "55/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=4c22277324617c3a4e8c1dfb37b0a94bc0be8f09cdfa179a658bd0e00ce215e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=02f49513600e8315756ee741f10c5410b3f375286f1fadf893404a3f7a9df07c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=0e7ad983fe645c8b31d60900e70ed352d4e92a59e56e498f8a383090b006a04c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

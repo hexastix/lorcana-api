@@ -1,0 +1,40 @@
+{
+  "name": "Flotsam",
+  "subtitle": "Ursula's \"Baby\"",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "b522f69e8b55e7da75eb298f56319d3827cae2d5",
+  "culture_invariant_id": 734,
+  "sort_number": 744,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Now the crown <and> the trident are mine! —Ursula",
+  "rules_text": "QUICK ESCAPE When this character is banished in a challenge, return this card to your hand. OMINOUS PAIR Your characters named Jetsam gain “When this character is banished in a challenge, return this card to your hand.”",
+  "card_identifier": "43/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=3cfb39dc9398e562de637810db1160f97cf681df18ad0f76ae79df10fc27c648"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=6004fa2c64d88588442cd492dc701b751e61d1cb9bb0549b97a3a98fa45d250a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=897a1e59ac2a41f3c53a36e990fe12b927d5cb0e7657dd4f783b1dcd98e9ab10",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

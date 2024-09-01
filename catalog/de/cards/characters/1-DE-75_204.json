@@ -1,0 +1,42 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Bei der Arbeit",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Giulia Riva",
+  "deck_building_id": "53677bcf26b3b3a85ed1c61ea70cfd53296be7c2",
+  "culture_invariant_id": 75,
+  "sort_number": 75,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Wünsch dir mal ‚Abrakadabra‘, Fetzen fliegen und auf einmal sind sie nicht mehr da!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)VERSCHWINDEN Wenn du diesen Charakter ausspielst, darfst du einen Charakter deiner Wahl zurück auf die zugehörige Hand schicken.",
+  "card_identifier": "75/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=abefbae9e246da425f34a8c5054153a48b7f2f711f1e2b1cb7e4d9b691781c8d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=8fb6450711031954c63bbbe5394a69539cb97ec2c7dcc1f1ccc1364720f8fea0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=94f6d707fc8f07df9f0adeb60678cf37e439e745f7f6a4245bc39794726ba4f5",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

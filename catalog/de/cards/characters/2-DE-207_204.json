@@ -1,0 +1,42 @@
+{
+  "name": "Arthur",
+  "subtitle": "Zauberlehrling",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Jake Parker",
+  "deck_building_id": "3c45ec5faee5f49118a102e59e99043cc430699b",
+  "culture_invariant_id": 423,
+  "sort_number": 447,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "SCHÜLER Jedes Mal, wenn dieser Charakter erkundet, darfst du einen deiner anderen Charaktere wählen und zurück auf deine Hand nehmen, um 2 Legenden zu sammeln.",
+  "card_identifier": "207/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=5f282ff830b594b4232ad79da64cec514ae08d0a9309918c02e71b9b5ddafb3a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=16b4e0b33263a3d8c54b429664ac9ae49cbd1885bbf5de7d6f0064acb655de1a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=6f1600758e025e742596978126efea2330015d9bb7b9f2ddf97d64d2034aff75",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

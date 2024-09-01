@@ -1,0 +1,43 @@
+{
+  "name": "Prinz Eric",
+  "subtitle": "Elegant und kühn",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "b003941c689f0757920787101a49607295e99da1",
+  "culture_invariant_id": 187,
+  "sort_number": 187,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich habe sie schon einmal verloren, Grim, das passiert mir kein zweites Mal!",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.)",
+  "card_identifier": "187/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=f7e11125e3062be5eb0c482fddc67a2602545590a6f808e19967a9fb75937ed6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=a4b50d5185ddedfe7bfded1ee6112a8a12e0ee0b326bc190cbdeb2edf2b657f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=dd3c734d72a0f4d60edd1f0e3a195b5f21d124f85fa9bd5f0c7cc61900e90275",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Madame de Trémaine",
+  "subtitle": "Marâtre autoritaire",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "6165fc64a0e304e3d44cc5ec4ec2c07b6c24207c",
+  "culture_invariant_id": 327,
+  "sort_number": 351,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Ne vous y trompez pas: cette fois-ci, je veillerai à ce que la clé reste en sécurité!",
+  "rules_text": "PAS POUR TOI Lorsque vous jouez ce personnage, chaque adversaire ayant plus d'éclats de Lore que vous perd 1 éclat de Lore.",
+  "card_identifier": "111/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=2c364da633e0529cd8792158252a2eb81ded838c1b51317d64d6bf03c0654e75"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=1d6f63fc0e6cf56f408a5d5535e62e81470c43d1db337b17d6a36c6e02f51155"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=710c7cdee36183b760ca80bd8a79cba79c0eac81f924ab71b8f2ff3d70f0c5a5",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

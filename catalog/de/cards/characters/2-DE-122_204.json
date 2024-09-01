@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Eigensinnig",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "c75d35692903d3cf6571ffe9cf34ca6854cb779e",
+  "culture_invariant_id": 338,
+  "sort_number": 362,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Zwei Teile Mut, ein Teil Cleverness und eine ganze Menge Entschlossenheit.",
+  "rules_text": "DAS ALLERWICHTIGSTE: NICHT STERBEN Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du ihn bereit machen. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "122/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=0ab1ad371111c4b038b930c4ff59d3153d7dfb448f805cc485e9641dfd1f09d9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=f3d4faef04730130e61ac641ff1dbbdfbbbe5beca1490662dd89ab922dd11845"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=5080a89f4a349355f722778785d267abcc91474a7c95b9bbd51136e78dc42c3b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

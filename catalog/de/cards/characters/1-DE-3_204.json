@@ -1,0 +1,43 @@
+{
+  "name": "Cinderella",
+  "subtitle": "Behutsam und freundlich",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Javier Salas",
+  "deck_building_id": "933453208f4cab4b5eacd5391db6a6cf95b7e691",
+  "culture_invariant_id": 3,
+  "sort_number": 3,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singen 5 (Die Kosten dieses Charakters gelten als 5 für das Singen von Liedern.) EIN WUNDERVOLLER TRAUM — Entferne bis zu 3 Schaden von einer Prinzessin deiner Wahl.",
+  "card_identifier": "3/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=3d02c3c08f07a2f5c097441a505bce3a9f8c03142e81ec6909b07b6e16025e5e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=fd9b0f0d3b0221521370ad13f338228e39133fe4dfb45fac2295782015fb710b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=1cb28e0e8d95a11a09cbd0db109ab7f2cc027303f3c7d6ecdee43949b183ce3f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

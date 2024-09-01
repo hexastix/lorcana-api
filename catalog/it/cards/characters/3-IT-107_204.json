@@ -1,0 +1,40 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Esploratore per Caso",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "455defcf78009f1d2942d2ea1cc9a69334c1b7ff",
+  "culture_invariant_id": 543,
+  "sort_number": 578,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Sta esaminando la noce di cocco.",
+  "rules_text": "VAGARE INSENSATO Una volta per turno, quando questo personaggio si sposta in un luogo, ogni avversario perde 1 leggenda.",
+  "card_identifier": "107/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=0b72b7dab86246787355feadcf493ff45f6b1a33764deb6f5b89b95655fdc0a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=c160148c7fa911fe2891cd0e286775b5ef591f7ca53b0f91161a37f0081d8501"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=5c7ee0d0fa42f814e08dad7d0d5e3a1e4a9c6d12bcd5b8592c510768af082467",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

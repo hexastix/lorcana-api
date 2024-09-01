@@ -1,0 +1,40 @@
+{
+  "name": "Minnie Mouse",
+  "subtitle": "Zipping Around",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "8433f91cfb8ba15b376066e72658edc6d2b85843",
+  "culture_invariant_id": 331,
+  "sort_number": 355,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Zero to fun in under three seconds!",
+  "rules_text": "",
+  "card_identifier": "115/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=ce192faefbdd682c8aab820301d6ecc962a0f9880417bbaff84b74130d01d8d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=61467875fe7102e8d83a05169aa6c1fef6bf5e9c23b6d20be42f7ab71410ed2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=75fb9466ddd6862692f44882c5fc048f9666ff4476162a271f66b52d73c8143a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Le Chapelier Fou",
+  "subtitle": "Hôte sinistre",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "John Loren",
+  "deck_building_id": "891388d818254bcc4ce20199fc0faa3ebdba38d8",
+  "culture_invariant_id": 923,
+  "sort_number": 943,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Envouté",
+    "Allié"
+  ],
+  "flavor_text": "Il est tout bonnement fou de fêtes. Il célèbre déjà ma victoire!%—Ursula",
+  "rules_text": "",
+  "card_identifier": "10/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=e721aea74d526c634bf9b2171916c0dab511b600c4f0c31c04e26383fde13100"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=4af23173b2e60f6889bdd14bfced70be07594e5335b652e748965e8deca2fa96"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

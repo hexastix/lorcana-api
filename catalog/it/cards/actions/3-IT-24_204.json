@@ -1,0 +1,33 @@
+{
+  "name": "99 Cuccioli",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Agnes Christianson",
+  "deck_building_id": "5e43d8ea46210ff6a851a826904c6a9136ea4936",
+  "culture_invariant_id": 460,
+  "sort_number": 495,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Uno, due, tre, quattro, sei e tre nove, più due undici...%—Rudy",
+  "rules_text": "Ogni volta che uno dei tuoi personaggi va all'avventura per questo turno, ottieni 1 leggenda.",
+  "card_identifier": "24/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=3644aa321369a2cbef3582f7fce3d3f976765df83e3e2013d91872321e0d7743"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=72fad844e7099c10a46cc161a342ce13761b14807ae1596198b31046881101a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=9aaa0c0c32c9980c917f0ed77c4d5d7dfe56947401abb0cb74b4716a69241b2b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

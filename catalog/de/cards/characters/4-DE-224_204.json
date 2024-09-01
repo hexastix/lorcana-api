@@ -1,0 +1,45 @@
+{
+  "name": "Mulan",
+  "subtitle": "Elite-Bogenschützin",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "06e306a4259dd86efa3be5c32d8bc2d7de24b052",
+  "culture_invariant_id": 948,
+  "sort_number": 925,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Mulan-Charaktere auszuspielen.) SCHARFSCHÜTZIN Falls du Gestaldwandel benutzt hast, um diesen Charakter auszuspielen, erhält er in diesem Zug+3. DREIFACH-SCHUSS Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einem anderen Charakter Schaden zufügt, füge bis zu 2 Charakteren deiner Wahl genauso viel Schaden zu.",
+  "card_identifier": "224/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=5a20de926bc31eb733b1fe2d7ad45302dd303860a6f086377615ce893b9db961"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=2941e5a16136d1ed75965d52e0b020c0e7fc9abbbadecbd5474aa04ad6b9a2fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=c10cbd6dfa8ef4ebfd3fd6fca59d3700841d9aefa40662bfbc11d0596ad90937",
+  "foil_type": "Silver",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

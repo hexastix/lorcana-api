@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Che Riunisce la Famiglia",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 5,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "f283e9f31fd0b57fa5892870d98a03793352b776",
+  "culture_invariant_id": 1186,
+  "sort_number": 1194,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Madrigal"
+  ],
+  "flavor_text": "Non c'è nulla che non possiamo realizzare insieme!",
+  "rules_text": "NON SENZA LA MIA FAMIGLIA Non puoi giocare questo personaggio a meno che tu non abbia in gioco 5 o più personaggi.",
+  "card_identifier": "7/P2 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=7d1029ec1579c0f8e266443ffa75e55d87e17d547ab6a75c317e9913cd2a94d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=337064b71deb9f11bc99718264ffd47f8da6e1c96a620aa9598d74d5df74283b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=312e25b08cd4cf9b4129c6857a08304ea014d61e5ee904782a44042f488a5239",
+  "special_rarity_id": 1,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

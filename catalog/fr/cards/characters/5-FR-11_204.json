@@ -1,0 +1,42 @@
+{
+  "name": "Gazelle",
+  "subtitle": "Pop star",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Lauren Barger",
+  "deck_building_id": "3a77973047a9e2dc5748299006ede3868e00d061",
+  "culture_invariant_id": 967,
+  "sort_number": 975,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Bonsoir, Lorcana ! Nous sommes ici ce soir pour célébrer les possibilités qui s’offrent à nous lorsque nous nous unissons.",
+  "rules_text": "Mélomane 5 (Ce personnage est considéré comme ayant un coût de 5 pour chanter des chansons.)",
+  "card_identifier": "11/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=7d62413bae990eac6dc449ed3a5f7cbbdbd86a6d3fe6505027f3c3f5ba642242"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=28275ca7f4a4ddb577ef185264a910c528c8ad06ffbed5ac9b19766f3f269e73"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=706dc0908a614f4196515aae14c324a7b495f66a31a29e230450c25f30503e9d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Gerade Rechtzeitig",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "dbb279be140cfc1223bb35466a3781b83db4d5a8",
+  "culture_invariant_id": 29,
+  "sort_number": 29,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Die besten Helden erscheinen immer zum perfekten Zeitpunkt — ganz gleich, ob sie es wissen oder nicht.",
+  "rules_text": "Du darfst einen Charakter, der 5 oder weniger kostet, kostenlos ausspielen.",
+  "card_identifier": "29/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=704399d8efb3808dbb13bd5de7b2bc8597bb5075d51ea98ad5c91018149b988b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=c6e83d5a62b4b9aa80e4de7d71a465361a5c0a429d0c7f13ade886b0d5dfb331"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=bb439372dd47dd7285b7ab667d0686192c8be893fc78541c19ac0a0e7eba10f0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

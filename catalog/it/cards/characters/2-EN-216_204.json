@@ -1,0 +1,44 @@
+{
+  "name": "Namaari",
+  "subtitle": "Morning Mist",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Jenna Gray",
+  "deck_building_id": "b374629cdd5ecdc326ac5f23af8fd172452f319a",
+  "culture_invariant_id": 432,
+  "sort_number": 456,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) BLADES This character can challenge ready characters.",
+  "card_identifier": "216/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=10aead5e74d8b2fbc8b253d9aadd557949931acbc1a0107c0dafcadb41fd9881"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=d52368fac76f3a3cbe7bd9fa34589a73ad74bf74a27492c882cc08602cd55019"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=6444717ac970f7b412686d17c273ac5a45c371dea20ef8c453c9e8396e44407a",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

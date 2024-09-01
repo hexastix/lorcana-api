@@ -1,0 +1,41 @@
+{
+  "name": "Malefiz",
+  "subtitle": "Unerwünschter Gast",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "c3436e71471bedffbf745dff08472a9567ae7c90",
+  "culture_invariant_id": 1007,
+  "sort_number": 1015,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "WAS FÜR EINE PEINLICHE SITUATION Jedes Mal, wenn dieser Charakter erkundet, darfst du eine Karte von deiner Hand auswählen und abwerfen, um einen Charakter, Gegenstand oder Ort deiner Wahl, der 3 oder weniger kostet, auf die zugehörige Hand zurückzuschicken.",
+  "card_identifier": "51/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=32a58267c215e4208a51825576a694ceb2c34b63ac88cded6fa7bb0c1b15008e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=9e9ad371e48d90a324dc5772d78a333bc7afd1b7c736112a2b108dba6fe4443e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=684ac2a1fcb623928fa0b70b672dace462a42c6c5fb19758b99e209fc767f665",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

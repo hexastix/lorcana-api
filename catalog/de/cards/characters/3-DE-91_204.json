@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Täuscht alle",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "bccdff72dc44581df3cb3328c67dd24f72bbc799",
+  "culture_invariant_id": 527,
+  "sort_number": 562,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wann kann ich das zweite Lied, durch die Fähigkeit „Was für ein Deal“ meiner Ursula - Täuscht alle, einsetzen?\r\nA: Wenn du Ursulas Fähigkeit „Was für ein Deal“ einsetzt, musst du das zweite Lied, direkt nach dem Einsatz des ersten singen, du kannst es nicht zu einem späteren Zeitpunkt benutzen.\r\n\r\nF: Der einzige Charakter auf dem Spielfeld ist meine Ursula mit einem Schadensmarker. Wenn ich Ursula jetzt benutze, um „Ein Sturm zieht auf“ zu singen, kann ich ihre „Was für ein Deal“-Fähigkeit benutzen, um das Lied ein zweites Mal zu spielen?\r\nA: Ja, kannst du. Wenn du „Ein Sturm zieht auf“ spielst und einen Charakter wählen kannst, musst du dies auch machen und diesem 2 Schaden zufügen. Selbst wenn „Ein Sturm zieht auf“ deine Ursula dadurch verbannt, kannst du ihre „Was für ein Deal“-Fähigkeit dennoch benutzen. In diesem Fall kannst du zwar kein Schaden mehr zufügen, da keine Charaktere mehr auf dem Spielfeld liegen, du ziehst aber trotzdem eine Karte.\r\n\r\nF: Meine Ursula singt „Der Boss ist doch der Held“. Ich entscheide mich dafür, 4 Karten auf meinem Deck und 1 unter meinem Deck zu platzieren. Wenn ich jetzt Ursulas „Was für ein Deal“-Fähigkeit benutze, um „Der Boss ist doch der Held“ erneut auszuspielen, und mich nochmal dazu entscheide 1 Karte unter mein Deck zu legen, wo lege ich „Der Boss ist doch der Held“ jetzt in Relation zu der 1 Karte, die durch dessen Fähigkeit unter das Deck gelegt wird, hin?\r\nA: „Der Boss ist doch der Held“ wird die unterste Karte deines Decks sein, egal wie viele Karten du durch den zweiten Einsatz des Liedes unter dein Deck legst. Die Karte, die durch Ursulas „Was für ein Deal“-Fähigkeit gespielt wird, wird unter dem Deck platziert, nachdem du ihre Fähigkeit vollständig abgehandelt hast.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Ich will nicht viel - nur die mächtigsten Legenden!",
+  "rules_text": "WAS FÜR EIN DEAL Jedes Mal, wenn dieser Charakter ein Lied singt, darfst du dieses Lied erneut von deinem Ablagestapel kostenlos ausspielen. Lege es danach unter dein Deck.",
+  "card_identifier": "91/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=2ac56ca106d8884eb8c04577d982ab73f2525bdeb0895dd5ac73af05d5fd3c49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=c49126123a103041a057a21ab38310a3380c41be3ab7ed8dabdd3fc2f0e11744"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a0b1cfc28b4d2541feb3608640875cb37984ff7ca4ad8c23598cbaa114aec4a0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "The Sorcerer's Tower",
+  "subtitle": "Wondrous Workspace",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "d54dd1bcc51723c954c04a6587a405b569bcc0c9",
+  "culture_invariant_id": 504,
+  "sort_number": 539,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Everything you need to make some magic.",
+  "rules_text": "BROOM CLOSET Your characters named Magic Broom may move here for free. MAGICAL POWER Characters get +1 while here.",
+  "card_identifier": "68/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=f92a48e729bc7399a85dcff5ced0b3d30f0f97abda773820b570a900cf9c4a33"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=5986b2c4768c1831e5e70f6daf0ec360b80e11eb76717b2c501d913dfa5c2eea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=e5c8a1e984ca022fa72d9f29bc153714e61e7933e68484130a4b23b7b83ae9fc",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

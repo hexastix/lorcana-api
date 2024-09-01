@@ -1,0 +1,39 @@
+{
+  "name": "Requin",
+  "subtitle": "Terreur aux dents longues",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Jared Nickerl",
+  "deck_building_id": "959b61ebf7f106f9ffafe726f042ffcabb89f247",
+  "culture_invariant_id": 927,
+  "sort_number": 947,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Envouté",
+    "Allié"
+  ],
+  "flavor_text": "Il adore plonger dans un problème à pleines dents.%—Ursula",
+  "rules_text": "GROSSE BRUTE Lorsque vous jouez ce personnage, infligez 2 dommages à chaque personnage adverse ayant au moins 1 jeton Dommage.",
+  "card_identifier": "14/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=c48470b6aff2befb2bde3f83a94656af1448ad2a87e31b7fd593a0e8958561da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d8b628be16bd178cb42176a7cff4d0c6ecc6204ec20c3bb5318f682508e716a9"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

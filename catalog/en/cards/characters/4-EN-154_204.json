@@ -1,0 +1,40 @@
+{
+  "name": "Scuttle",
+  "subtitle": "Expert on Humans",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "31704def1d802226e01db38740244b78a7210207",
+  "culture_invariant_id": 845,
+  "sort_number": 855,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Wow. This is special. This is very, very unusual.",
+  "rules_text": "LET ME SEE When you play this character, look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "154/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=c4680d4c0ecc8218dc4f70b96389e28599cb6a40e10a1235cd8f2c6f345738c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=72189f8d32aff94dd81fc9da652ef4cc7784a66e3f0671856b9a60ad7add148d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=80a5869faf2f522358812aff74d3e7d29afd3ef3a4ee1647b6803c73489350a5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

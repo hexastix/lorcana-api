@@ -1,0 +1,43 @@
+{
+  "name": "Granitos",
+  "subtitle": "Stein Titan",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "2577f4cffb832d0b016b61a458da02cb03a8fb23",
+  "culture_invariant_id": 616,
+  "sort_number": 651,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Titan"
+  ],
+  "flavor_text": "Zeus zerquetschen!",
+  "rules_text": "Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.) STEINHAUT – Ein Charakter deiner Wahl erhält in diesem Zuges Robust +2.",
+  "card_identifier": "180/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=560f8b816586c8b6837cf2108aadfa0c402b299431887a6758cf10dc097b5db5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f184918c4781b984f56d4ad3f84da20fa1cad31815ed8ecbf5bc8d9388640a0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=bdc1e564ff00f5879b82e753a5c096348a472fd59b4698ef1f1394666a46c9a9",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

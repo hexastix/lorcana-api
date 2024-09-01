@@ -1,0 +1,33 @@
+{
+  "name": "Panneaux déroutants",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "560069c50fe9ddb3a3f3ce8b2aefc1174c7eb7fc",
+  "culture_invariant_id": 283,
+  "sort_number": 307,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Alice: Je vous remercie mais je dois savoir quel chemin je dois prendre.%Chat du Cheshire: Eh bien, cela dépend de l'endroit où vous désirez vous rendre.",
+  "rules_text": "DIRECTION LE PAYS DES MERVEILLES Bannissez cet objet – Choisissez l'un de vos personnages en jeu et renvoyez-le dans votre main.",
+  "card_identifier": "67/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=9a90406a414b1fd84c62f9ebd2e660d9bb17d6e0d63684a8b030db6260ecda91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=d10b25046de4dcc26afe4e1d9f2b0728e7038f1790dc6be5b7fd121301946fe6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=37ca3d221d2b8a6618020997ec3739aeb951f90c6a7cc01040558741eef6f954",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

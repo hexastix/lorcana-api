@@ -1,0 +1,46 @@
+{
+  "name": "Christopher Robin",
+  "subtitle": "Abenteurer",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "09c622f4623326886425e229b1bd88910dc489bc",
+  "culture_invariant_id": 218,
+  "sort_number": 242,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Kann die Fähigkeit von Christopher Robin mehr als einmal im selben Zug ausgelöst werden?\r\n\r\nA: Ja, das kann sie.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Schau mal, Puuh! Hast du je etwas so Großartiges gesehen? – Christopher Robin",
+  "rules_text": "WIR WERDEN IMMER ZUSAMMEN SEIN Jedes Mal, wenn du diesen Charakter bereit machst und mindestens 2 weitere Charaktere im Spiel hast, sammelst du 2 Legenden.",
+  "card_identifier": "2/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=dd53c4fb09c7dbc116909990ce92136b63d2343de0930649d5279c2c462944c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3cf071c37e0e3558a9b778bc6ceb74f41306ed0553cce2dc45b93b7cac2a4d9f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=2c3436cf8787f4823c1da635474e1aa72b046d10f06c2fffc99df5f9baac9bb9",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

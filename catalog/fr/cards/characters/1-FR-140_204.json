@@ -1,0 +1,42 @@
+{
+  "name": "AURORE",
+  "subtitle": "Princesse Royale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "c027ddc916cbad713b592183ff0d19138efe8b46",
+  "culture_invariant_id": 140,
+  "sort_number": 140,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Mais si on fait le même rêve plusieurs fois, on dit qu'il se réalise un jour.",
+  "rules_text": "",
+  "card_identifier": "140/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=ffde1f481dcbdf2755037ce8fcb5b76b46e7d47b558099d2862abfdff25fc662"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=aabf1990e5e45af171e0e86a25db64d7493fb54086afc9727f366c10f8f22631"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=171f7db7b14a347f7a1234bf90215e822bd3c689f4689cef4042f62ab7c0fa6f",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

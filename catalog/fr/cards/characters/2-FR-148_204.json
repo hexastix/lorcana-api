@@ -1,0 +1,40 @@
+{
+  "name": "Grand Pabbie",
+  "subtitle": "Le plus vieux et le plus sage",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "5fda7961be7e170285551784dcfb8f728e92a982",
+  "culture_invariant_id": 364,
+  "sort_number": 388,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "Lorsqu'il parle même le ciel écoute.",
+  "rules_text": "SAVOIR ANCIEN Chaque fois que vous retirez au moins 1 jeton Dommage de l'un de vos personnages, gagnez 2 éclats de Lore.",
+  "card_identifier": "148/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=de56390c01985954056c3a379e173ceb170458def2cee6c282b04fe0fcad66c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=cfbb0f228e9ee156016772d969cb0a1354f29c026960e89e236e61b3fc52abb7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=5e6111e8552b03e8292bbed889696c40059d08e8daad9abcbcc6ecadfbbbb8e6",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

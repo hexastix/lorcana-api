@@ -1,0 +1,43 @@
+{
+  "name": "Ombre de Peter Pan",
+  "subtitle": "Décousue",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Giulia Riva",
+  "deck_building_id": "d5557ab7eb7b97bdfce53586c13fcb4c32995437",
+  "culture_invariant_id": 271,
+  "sort_number": 295,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) Charge (Ce personnage peut défier le tour où il est joué.) SUR LA POINTE DES PIEDS Vos autres personnages avec Charge gagnent Insaisissable.",
+  "card_identifier": "55/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=1d87881efd78c59cf04b801ec4d6ca216708e83e13ffac9cd42cde074e80c275"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=8647e29ec2e4968d5c588224e899c0eba78be2941dd6b395a0b2a7079a24b5f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=e1ae98b80425a4ea1956c59af163eb901d3a88c1081fbb4c33ea887d715bee59",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

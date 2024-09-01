@@ -1,0 +1,43 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Re di Atlantide",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "6171faef1161c353aae832650702ac027410eea5",
+  "culture_invariant_id": 516,
+  "sort_number": 551,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Re"
+  ],
+  "flavor_text": "Non sai con che cosa hai a che fare.",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Milo Thatch.) LI COGLIEREMO DI SORPRESA Quando questo personaggio viene esiliato, fai tornare tutti i personaggi avversari nelle mani dei loro giocatori.",
+  "card_identifier": "80/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=d0e461c1b3e912a8fab2fd4bcfc4f4f7675dd63bb9f5b1b1caec56d939744c00"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=7029d7af9fe33e88d7fa311defef0240a4e8dc728c2e793a10af20870cf00d83"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=1ac942911d04eee50c2ccb1392823503ca66b84052ef48524516970f2f8b664c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

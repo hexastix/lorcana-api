@@ -1,0 +1,43 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Uninvited",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "6a637ad79b7ce9fad777fb8a1163379b2f2e1f9e",
+  "culture_invariant_id": 680,
+  "sort_number": 232,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "She had no invitation—and needed no introduction.",
+  "rules_text": "",
+  "card_identifier": "22/P1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=af066a306df5e48203f657aea30bb0da9091e974f762bfffde6d822f39c86941"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=d744696e8f91c39001035981c44f8145c6f8bb7a2af4ae131df9c099542d3d5c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=98f17dbea4f0d2ccc4cc6d18df74ad231de120e9ee1615bb2ed88b63e75c5e02",
+  "special_rarity_id": 1,
+  "foil_type": "Satin",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

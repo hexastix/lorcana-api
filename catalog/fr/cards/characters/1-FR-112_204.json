@@ -1,0 +1,40 @@
+{
+  "name": "LE FOU",
+  "subtitle": "Agitateur de foule",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "4a3e5d428b7702fa462f17ae49962203afeb1ab5",
+  "culture_invariant_id": 112,
+  "sort_number": 112,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Il suffit d'une toute petite impulsion pour entraîner une foule sur la mauvaise direction.",
+  "rules_text": "ATTISER LES FLAMMES Lorsque vous jouez ce personnage, choisissez un personnage et redressez-le. Celui-ci ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "112/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=b5c76ce8e4a95b73acca09f80f92427e9be02585d8fa2a94a4b6299987748414"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=51b48c6d74661b01bcc44c187257f2b87bab767fe903d51281d7c32008371231"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=39593f799abbfb061e959ea8630bcb9332caa28b32a9281aa0b0c314108756ee",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

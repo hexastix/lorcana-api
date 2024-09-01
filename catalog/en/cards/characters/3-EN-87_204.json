@@ -1,0 +1,42 @@
+{
+  "name": "Skippy",
+  "subtitle": "Energetic Rabbit",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "d1dd02f4399d22aed3de073b0011d0a9fa633020",
+  "culture_invariant_id": 523,
+  "sort_number": 558,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Even the bravest outlaw knows when to lie low.",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "87/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=00e03e3ca794da41e11d88392e500092b09615f9be25932e94927739dc12df97"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=82c3f5fd684dac637345d0a46b045e913ae922afbdcbc537bbe7cc2b20314df3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=f6f45327d6188ddbab1bbfbdda7c948025378e0724ab82a512a6ce7536d0f33f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Tritone",
+  "subtitle": "Il Re del Mare",
+  "strength": 5,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "b02a117d318568eba0e9424b437a3c859e60618a",
+  "culture_invariant_id": 160,
+  "sort_number": 160,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Re"
+  ],
+  "flavor_text": "'Perché lo dico io' non è forse una motivazione sufficiente?",
+  "rules_text": "",
+  "card_identifier": "160/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=a94ac63b127b80015188c894dffd5498a45168fc4b3437b2761a2500699d76db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=3ed179d26779ecbdb00bea28dfcab5e2acc9fe86073afb50a80cbe135824d6ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=58adc475a5ad331022f191f7c907c5f9366d21665f250585f6136b67d3658738",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

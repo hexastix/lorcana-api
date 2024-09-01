@@ -1,0 +1,41 @@
+{
+  "name": "Käpt'n Hook",
+  "subtitle": "Hinterhältiger Duellant",
+  "strength": 7,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "206adc2d84556fe4b6f75c6754f8e7a9acb55bf9",
+  "culture_invariant_id": 916,
+  "sort_number": 936,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verstrickt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Eine offensichtliche Wahl, natürlich. Er ist so voller Verrat und Täuschung. Er erinnert mich an... mich.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "3/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c929816a5293e386877736e862b6d115866e7f2d7ebee3b15de37f2be62ec003"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=e93dfd936c85f15ab45e173a4d8434f3c2e34fc795a2f90416c1786aeed72a15"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

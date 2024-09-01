@@ -1,0 +1,39 @@
+{
+  "name": "Gaston",
+  "subtitle": "Egotistical Bully",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "00beb9482024175e155d1cbf601131fa949ad836",
+  "culture_invariant_id": 918,
+  "sort_number": 938,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Entangled",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "POSITIVELY PRIMEVAL When you play this character, deal 4 damage to the opposing character with the lowest cost. (If there’s a tie, the opposing players choose from the tied characters.)",
+  "card_identifier": "5/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=cd9e9da40033724131db41e130b348f3019c806c5d89b339f9215e616d2effbc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=3b027c33f295723ace85312f0a3dd232f5fb56432281e258a645af326a8bf9f0"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

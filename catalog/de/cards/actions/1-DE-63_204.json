@@ -1,0 +1,38 @@
+{
+  "name": "Einfrieren",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "adcdee7c29e76d6c7249456e6ff99ae44efe9e6e",
+  "culture_invariant_id": 63,
+  "sort_number": 63,
+  "additional_info": [
+    {
+      "title": "FAQ - Kosten",
+      "body": "F: Wenn ich „Einfrieren“ benutze und die „Die Königin - Boshaft und eitel“ meines Gegners auswähle, kann ich dann mit der Fähigkeit „Höre mich!“ der Königin eine Karte ziehen?\r\n\r\nA: Nein. Wenn eine Fähigkeit Kosten hat, dann muss der jeweilige Spieler der Karte diese Kosten bezahlen, um die Fähigkeit zu nutzen. Wenn ein anderer Effekt Die Königin erschöpft, darf man damit keine Karte ziehen. Und natürlich kann man die Fähigkeit auch nur einsetzen, wenn Die Königin bereit ist."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es wird Zeit für eine Abkühlung.",
+  "rules_text": "Erschöpfe einen gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "63/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=efce9abe16c2d3c18edbea46ea5d51c4d76911f03606a8cc6300eb5a3f19525b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=468ab24a6d6793ffae7538a9e195c3e54fd20e20c396a558f64333242c5779eb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=c913cd5277499ab920f3a438b17c4bdcb563e047398070a3490ddada5a7dc32b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

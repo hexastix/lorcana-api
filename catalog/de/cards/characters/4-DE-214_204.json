@@ -1,0 +1,43 @@
+{
+  "name": "Goofy",
+  "subtitle": "Supergoof",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Sam Nielson",
+  "deck_building_id": "d68e1198d53d0e18c6b1f08b1308f124fed05118",
+  "culture_invariant_id": 905,
+  "sort_number": 915,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) SUPER-ERDNUSS-KRÄFTE Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, sammelst du 2 Legenden.",
+  "card_identifier": "214/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=f54afb8516921bab4581c92a060f2cac0f50c00f5b41dde994e8e8bf74c8c3f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=5ad4fe367f3619ad248943b106bb79fdcb54bcab3a5021a12d87cdd4491705b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=e46022eaf6f3b46834ed6c646578de21261d63c34f638f655a6115a89e502969",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

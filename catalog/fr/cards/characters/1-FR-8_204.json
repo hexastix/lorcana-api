@@ -1,0 +1,40 @@
+{
+  "name": "LE FOU",
+  "subtitle": "Empoté",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Andrey Chumak",
+  "deck_building_id": "224000dbb0cebd90c025c1855cfddd5fe747691f",
+  "culture_invariant_id": 8,
+  "sort_number": 8,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Tout méchant convenable a besoin d'un bon lèche-botte.",
+  "rules_text": "LOYAL Si vous avez un personnage Gaston en jeu, jouer ce personnage coûte 1 de moins.",
+  "card_identifier": "8/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=667896d445114b58018ba03d507e7e3c3308b26cef854f634d2519c37c03c33d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=11742d7dc1502c3e6c89dc1e99ab8c9ac6cdb81d7878b6c6569814807011f1e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=91cebdd9f39dca6f2bc4a09cdb01b635bf1c07ff1cf3ef48f5d79edf4dc16dc3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

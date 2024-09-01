@@ -1,0 +1,37 @@
+{
+  "name": "Die Bibliothek",
+  "subtitle": "Ein Geschenk für Belle",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Roberto Gatto",
+  "deck_building_id": "2740051e62c6c85db38c623243de3a6437a10a88",
+  "culture_invariant_id": 1024,
+  "sort_number": 1032,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "IN EINEM BUCH VERSUNKEN Jedes Mal, wenn einer deiner Charaktere an diesem Ort verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "68/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=f9cd2015adc411377c1b7d8f23e9f2e807801d0e1bd71561ac267e83c2e0f8d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=2c4e9445543bb3bf620a505bbdda2c640ed6d0828bd877eb0896e010c34f6c3f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=919e3580146367caade2096026e334328936bad4638add2cbaffee92e5bca15f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

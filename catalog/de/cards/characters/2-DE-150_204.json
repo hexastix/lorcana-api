@@ -1,0 +1,40 @@
+{
+  "name": "James",
+  "subtitle": "Vorbild",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Hong",
+  "deck_building_id": "cdf205a53c5799da903a61cbd2d7679484a1306c",
+  "culture_invariant_id": 366,
+  "sort_number": 390,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor"
+  ],
+  "flavor_text": "",
+  "rules_text": "NIE AUS DEN AUGEN VERLIEREN Wenn dieser Charakter verbannt wird, darfst du diese Karte verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "150/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=8f0fbcba3c6a69fc563e2e276b84430d12df6702fa15c1de856fb9593ff3a419"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=5a07aed813deb73e224ae8f9fb8b46454bca264c673381c4bb81ea92feaef03c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=9e5307edd5ca81bf5ad988a0d536492b0f80fd84d3769de40d06f7eafbfa98af",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Rage du Hurleur nocturne",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Antoine Couttolenc",
+  "deck_building_id": "d25d7ef8b4fe1c826e2faa544124363358944a73",
+  "culture_invariant_id": 1051,
+  "sort_number": 1059,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je pense que quelqu’un prend les prédateurs pour cible et les fait devenir sauvages !%— Judy Hopps",
+  "rules_text": "Piochez une carte. Choisissez un personnage qui gagne Combattant lors de son prochain tour. (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "95/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=a69be6e590ab2d4647d56d26157e08b6ae675bc5529c3185329ef3d1412b6aa5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=de6ac97e6b1adadead8fe1b7e0ef99de0926d8738c7e4f5c8db3fe7cc21fd212"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1614d0aed39cc415f469d99a9f0ebd3d89bf31911497952e6df48b1643bb130f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

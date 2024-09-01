@@ -1,0 +1,46 @@
+{
+  "name": "Anna",
+  "subtitle": "Heir to Arendelle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "20a51339c61aabe023260759617f97e2400e3068",
+  "culture_invariant_id": 35,
+  "sort_number": 35,
+  "additional_info": [
+    {
+      "title": "FAQ - Other",
+      "body": "Q: Say I have an Elsa in play and I choose a ready character for Anna – Heir to Arendelle’s ability Loving Heart. If that chosen character is exerted later in the turn, will they stay exerted during the start of the next turn?\r\n\r\nA: Yes, the chosen character will stay exerted by Anna’s effect.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen"
+  ],
+  "flavor_text": "Two sisters, one mind.",
+  "rules_text": "LOVING HEART When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn.",
+  "card_identifier": "35/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=aab7ce422ec8942e95a6f02620eb30ef325062829f7a0315d070694cf8e396cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=b123db45025d14c58d13d844fd4baebfe7a2dd6043f024e107855f72fbc1d98d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=f0bb0324ed453a5f4242c7026587e0d773208db63d18cf54048815c259205c4f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

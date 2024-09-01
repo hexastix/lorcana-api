@@ -1,0 +1,35 @@
+{
+  "name": "Sei hier Gast!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "75b3d826dbb7634142ce2c3a3fe0bab654ec37d0",
+  "culture_invariant_id": 25,
+  "sort_number": 25,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Schaue dir die obersten 4 Karten deines Decks an. Du darfst 1 Charakterkarte daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "25/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=f30d2b267334989afad9703bd34ed611c5049f664dcc5e603762ef1b08d844ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=8e4a1f00702da44e4a80ed45c1d944fc173a76ce75fda2837ae86b6386f447a2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=3ec109ae7f496d3d6347f49f55596d7ae3fda32b52ca4a88561b5a435b70c0a2",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

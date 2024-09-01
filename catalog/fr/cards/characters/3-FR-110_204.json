@@ -1,0 +1,40 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Cherche des sensations fortes",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Marcel Berg",
+  "deck_building_id": "d25704530ae20b397f53eac2d82614244a0b01a1",
+  "culture_invariant_id": 546,
+  "sort_number": 581,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Si tu veux une plus grand récompense, il faut prendre de plus grands risques.",
+  "rules_text": "",
+  "card_identifier": "110/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=b092b26f42bcc4e773fd45cfa0bc87cbdf2bedf86c27e420f32ef82c4bc9448d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=e3d707420a25b59d4297f71270f7288ae6a82fe653e114368002abf5ee9423f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4bc0fe91c85a65974a9e87daaf8c0b06e0e4b535a25fab8a6170ea0b78eae2f3",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

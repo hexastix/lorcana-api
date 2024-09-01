@@ -1,0 +1,42 @@
+{
+  "name": "Malefiz",
+  "subtitle": "Hexerin",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "cfeceefcaf48b610eb3bfdce490c108d8cc86302",
+  "culture_invariant_id": 49,
+  "sort_number": 49,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin"
+  ],
+  "flavor_text": "Du wagst es, mich herauszufordern? Du Narr! Meine Magie ist mächtiger, als du es dir nur vorstellen kannst!",
+  "rules_text": "WIRKE MEINEN ZAUBER! Wenn du diesen Charakter ausspielst, darfst du 1 Karte ziehen.",
+  "card_identifier": "49/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=16306862d9b346b17c46a57d5ff95de101d7b995601e673ff46cafdb66376ffa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=cc1b5303351eac61bfdc3f200faf340387ea11312bfa5020b82a7054b2cefbab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c7bcd0119c2bf844893db5994ce73ba11c77f8194414b44f6dafdf10f2a52ac9",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

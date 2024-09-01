@@ -1,0 +1,47 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Hüter der Geheimnisse",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Marcel Berg",
+  "deck_building_id": "ee9d82aaf3c52ce93cf24d12435b7bbf781da971",
+  "culture_invariant_id": 44,
+  "sort_number": 44,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich habe 2 Karten auf meiner Hand. Mein Dschafar - Hüter der Geheimnisse fordert einen gegnerischen Flynn Rider - Charmanter Gauner heraus. Wann wird die „Wer kann hierzu schon Nein sagen“-Fähigkeit meines Flynn Rider ausgelöst und wie viel Schaden nimmt er dann durch die Herausforderung?\r\nA: Flynn Riders Fähigkeit „Wer kann hierzu schon Nein sagen“ wird aktiviert, sobald er für eine Herausforderung ausgewählt wird. Das bedeutet, die Person, welche die Herausforderung gestartet hat, muss eine Karte abwerfen, bevor die Charaktere sich gegenseitig Schaden zufügen. Im oberen Beispiel musst du also 1 deiner 2 Karten abwerfen, wodurch du nur noch 1 übrig hast. Dschafars Fähigkeit erhöht seine Stärke abhängig von der Anzahl deiner Handkarten, hat also in dem Moment, wo er Flynn Schaden zufügt, nur 1 Stärke."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Es gibt mehr als einen Weg, um Geheimnisse zu verbergen.",
+  "rules_text": "VERSTECKTE WUNDER Dieser Charakter erhält +1 für jede Karte auf deiner Hand.",
+  "card_identifier": "44/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=8100d3c661ef1ceb2f9f083ef4c4fe4c58ea33bb893d4ed3e1e20984d3092fcf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=76434aa86aaf42618dd30d553a12df3cee09d04c593ef174d037adba3b74b715"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=fceb138f38a32424dacb1e93b0827b2bc2d0ec18f4d6536736a15989d789555f",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

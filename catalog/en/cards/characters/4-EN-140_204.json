@@ -1,0 +1,43 @@
+{
+  "name": "Aurora",
+  "subtitle": "Lore Guardian",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "8a04e29b3d058277b73ebe312aa9cf6677675652",
+  "culture_invariant_id": 831,
+  "sort_number": 841,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named Aurora.) PRESERVER Opponents can't choose your items for abilities or effects. ROYAL INVENTORY one of your items — Look at the top card of your deck and put it on either the top or the bottom of your deck.",
+  "card_identifier": "140/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=b0fa2555f5c7ed28cba5412fc4abb190115a8f3bdbbc7b1a1af01ffebcb26002"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=a1f4a157ef4b45e3d7726b6ea4be1a1c3be0401b8bf55c9dfd8776ae6fbda2bc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=cd558ca33639d5566f578b4669eb9c5ba3fcfbb35e27aa03b02304740c24447d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

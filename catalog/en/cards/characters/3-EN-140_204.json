@@ -1,0 +1,40 @@
+{
+  "name": "Flintheart Glomgold",
+  "subtitle": "Lone Cheater",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Federico M. Cugliari",
+  "deck_building_id": "456a3064e0e69929c0b9426e3bc37b6341b3573a",
+  "culture_invariant_id": 576,
+  "sort_number": 611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Nobody tells Flintheart Glomgold what to do!",
+  "rules_text": "THEY'LL NEVER SEE IT COMING! During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "140/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=afa03b5ce4ab1c3e98659a294761242275f7241779a7cdf52ea5f0b110a67f29"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=8d67bf52dcb6214a098b29811896ce36cee272dd67613179cbf684d0919b8743"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=968fb036d4f5707a4e87b230b0fa16a7b61f497ca1f1d60357862155c1e3f30c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

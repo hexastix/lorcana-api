@@ -1,0 +1,44 @@
+{
+  "name": "ELSA",
+  "subtitle": "Esprit de l'hiver",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 42,
+  "sort_number": 42,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "La glace est plus solide que tu ne le penses.",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Elsa.) GEL INTENSE Lorsque vous jouez ce personnage, choisissez jusqu'à 2 personnages et épuisez-les. Ils ne peuvent pas être redressés au début de leur prochain tour.",
+  "card_identifier": "42/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=36ba6981e141d1b08adf271e4a4f3fb4a842ad7f5f371100b5f4f65be04d483a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=ce7e05e296a2196b2287621bbefed0c2b0bc4e3d558cea1502cdcb968ab6a3c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=8287523c7185d1e798e4e4f1b708f788c27b28990dcc7fddf9fc0532d90aa798",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

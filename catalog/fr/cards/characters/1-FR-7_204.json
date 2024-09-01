@@ -1,0 +1,43 @@
+{
+  "name": "HEIHEI",
+  "subtitle": "Picoreur de bateau",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jenna Gray",
+  "deck_building_id": "6dfdbf904cb6a8f2f700f9839e50902b7dd4bcad",
+  "culture_invariant_id": 7,
+  "sort_number": 7,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Parfois, les qualités ne sont pas visibles au premier abord. Il arrive qu'elles soient cachées… bien cachées. — Vaiana",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "7/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=68a81fa3a04664086b719fbeaab564f90710f04271a68c7723326e70481b6f2a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=57cc3e371b126ea67ebdb2abaf479f8427f11bea84ab9a80b22d53c97d0894fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=f5f83f3fa3e030e3996e444d7c8d21598d56d6fafa28360d0231d643eb7fd4fa",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

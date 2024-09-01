@@ -1,0 +1,45 @@
+{
+  "name": "Raya",
+  "subtitle": "Force inarrêtable",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Grace Tran",
+  "deck_building_id": "01f560e64dbad8d5d3b665a79d9438c1da824796",
+  "culture_invariant_id": 884,
+  "sort_number": 894,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.) Résistance +2 (Les dommages qui lui sont infligés sont réduits de 2.) L'IMPORTANT, C'EST D'ESSAYER Chaque fois que ce personnage en bannit un autre via un défi durant votre tour, vous pouvez piocher une carte.",
+  "card_identifier": "193/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=58f3e08bbb720d9e36bbb0adf8426cd517c1d94a20f445af8e82adef9d81d5c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=6c598740c4520d04d1113a9ffd51ed4f3596efaa5c094bc04dfc819893f30f57"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=06b6b46dc2da33da473da7aa88b725a359a12074353fc7e9c1185958f80819a3",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

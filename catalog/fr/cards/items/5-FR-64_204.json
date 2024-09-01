@@ -1,0 +1,33 @@
+{
+  "name": "Rétrosphère",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "6cf03faac3b20c17430e1e021cb4f2745c895067",
+  "culture_invariant_id": 1020,
+  "sort_number": 1028,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "EXTRAIT D'AMÉTHYSTE 2 , bannissez cet objet — Choisissez un personnage, un objet ou un lieu ayant un coût de 3 ou moins et renvoyez-le dans la main de son propriétaire.",
+  "card_identifier": "64/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=6b09d93f92b503d742e3a925b58729be9ead8c78faf2b0735a002521eb6726a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=2e774046cf47c92b602c79a57989cb24f8304f926c5bf692f4fb9992b0e24bf1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=531e15639866e4857bb06d9cb6212e2d33bbc3f3b308ae7d99ec1ab516b109b1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Schneewittchen",
+  "subtitle": "Ein gutes Herz",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Otto Schmidt",
+  "deck_building_id": "c2b84efc0c0118127f1f4b58632fde2830b55b79",
+  "culture_invariant_id": 1176,
+  "sort_number": 1184,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinzessin",
+    "Ritter"
+  ],
+  "flavor_text": "",
+  "rules_text": "SELBSTVERSTÄNDLICHE ANFÜHRERIN Dieser Charakter erhält Robust +1 für jeden anderen Ritter, den du im Spiel hast. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1 pro anderen Ritter.)",
+  "card_identifier": "220/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=d88a55d0c0e331c1594c9a08ee4dfb96fc8a38f0da3605961fa48e6f973e5568"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=5d1b5ab426118b47f6d74cfbb8a6960e7606f02bf9520a226b356586764dfa07"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=0e82a41944c07e1438fd26c8e7b02b4c42b41991baddd972b579d2811f326259",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

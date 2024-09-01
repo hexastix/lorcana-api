@@ -1,0 +1,43 @@
+{
+  "name": "Elsa",
+  "subtitle": "Regina delle Nevi",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicholas Kole",
+  "deck_building_id": "9b02f08020a21f05415b5cfa5c0d376fb04d8a1d",
+  "culture_invariant_id": 41,
+  "sort_number": 41,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "Ricreata dall'inchiostro magico, Elsa si è ritrovata in un mondo completamente nuovo. Per fortuna, il ghiaccio funziona sempre allo stesso modo.",
+  "rules_text": "CONGELARE — Impegna un personaggio avversario a tua scelta.",
+  "card_identifier": "41/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=f3c74763344c38f2b54d5d5bb62c6f97ae65e2cd05b4b0fc93901d63b58b081e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=889b228b376c0d2fecba7a5ce0653b788a4410bf21b35a605973ffa92bd6e47a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=21f3fb5ee0e68ee210d24bc135a8ce8905efe20caa4e716470c86c1d3d0ebb86",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

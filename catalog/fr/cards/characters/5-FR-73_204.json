@@ -1,0 +1,40 @@
+{
+  "name": "Ulf",
+  "subtitle": "Mime",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Matt Chapman",
+  "deck_building_id": "85817c98f4f43a007a486a14f7afd0a47aeec8a4",
+  "culture_invariant_id": 1029,
+  "sort_number": 1037,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ses performances sont d'une qualité indiscutable.",
+  "rules_text": "NUMÉRO SILENCIEUX Ce personnage ne peut pas être pour chanter des chansons.",
+  "card_identifier": "73/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=ecf878028e62b42d284976a6a45b11ec4a87767daf317a974c2777b2ba3555f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=2a3250a893ab8e645d851087968f46c1f35be3fbae3478dc6fbbfb4b30c3208a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=8697d6c1961ee88edc704a8b0128df51beebe3802c07a81255b60a29eed16e0e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

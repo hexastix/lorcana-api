@@ -1,0 +1,44 @@
+{
+  "name": "Anna",
+  "subtitle": "Maestà Mistica",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jackie Droujko",
+  "deck_building_id": "435579c3cb397e6133a748ff09f53a84bb5a48ff",
+  "culture_invariant_id": 1002,
+  "sort_number": 1010,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Anna.) POTERE ECCEZIONALE Quando giochi questo personaggio, impegna tutti i personaggi avversari.",
+  "card_identifier": "46/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=184d086eaa46f63bd7a829f71e94ddb6b58b7b9ce2245dec652ceea6292a7ef8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=a72501660f36ee7f81aaecb71376e311cd6f1295d9878c199f9def75cbbff348"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=40e38a6ce69dd0937ea4e0514bf424eb0dc1010023b61b2648614b7520b6af9d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Geheimnisvolle Rose",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Olivier Désirée",
+  "deck_building_id": "c4c4f0e3ace8d22946df975891f7711d501b13c5",
+  "culture_invariant_id": 755,
+  "sort_number": 765,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tinte umgab Belles letzte Hoffnung, das Biest zu heilen. Da sie keine andere Wahl hatte, griff sie danach...",
+  "rules_text": "DIE VERSTRICKUNG AUFLÖSEN Verbanne diesen Gegenstand – Gib einem Biest-Charakter deiner Wahl in diesem Zug +2. Wenn du einen Belle-Charakter im Spiel hast, verschiebe bis zu 3 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "64/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=55b89577ef32a9ce372cc7216fd4c896a26a7a9b19a76a283febaff5f3c54545"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=b3ad4b765078aacf1fd687fd89c90d6899461200780f27f60477b7b4efa5f3ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fa7fa510c0eabec254957473238ef87a1b5fbfbbf128268ff46aa524ccf66316",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

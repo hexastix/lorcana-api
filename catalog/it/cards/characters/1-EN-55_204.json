@@ -1,0 +1,40 @@
+{
+  "name": "Sven",
+  "subtitle": "Official Ice Deliverer",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "e5a8c4b90dc84d19a4aaae97b279a35a00cd5b09",
+  "culture_invariant_id": 55,
+  "sort_number": 55,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Reindeer comin’ through! —Kristoff",
+  "rules_text": "",
+  "card_identifier": "55/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=5ba3d39e1664421129d7e3a6e0091c1d9a95c774b0cdf236a0a075cb51f2db36"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=042e6278a66eefdf4f071d00c93ea687fca957a65f9a8f061c17b69717297946"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=883ee4d25bc87fa509523592692abe715da9eed5397175ee7ca4a4ab45ec8761",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

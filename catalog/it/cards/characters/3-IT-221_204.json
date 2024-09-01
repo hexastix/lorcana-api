@@ -1,0 +1,43 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Campione di Sherwood",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Noukah",
+  "deck_building_id": "dae8c3a792a698cb6ccee25e5671d6b03e79414c",
+  "culture_invariant_id": 657,
+  "sort_number": 692,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Robin Hood.) COMBATTENTE ESPERTO Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, ottieni 2 leggenda. PER IL BENE DEGLI ALTRI Quando questo personaggio viene esiliato in una sfida, puoi pescare una carta.",
+  "card_identifier": "221/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=88a73183cfa4f24be9acf3b24d00fccebdd7bc76e1921c068e1b580a5f230a5d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=1d770f329d293e25c9de9dd2e1749691c69c5ae74a34215842e3e71a99e9de25"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=968c389c0a62a061916dc00d6ac0b455b3b71545f1555d14a3600074708e86f4",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

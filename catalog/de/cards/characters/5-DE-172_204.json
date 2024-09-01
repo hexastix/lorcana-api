@@ -1,0 +1,45 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Tyrannischer Hypnosekünstler",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Cam Kendell",
+  "deck_building_id": "788ce5ab348a5417b600e7c2902097c8a264500b",
+  "culture_invariant_id": 1128,
+  "sort_number": 1136,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Niemand wird mich von der zerbrochenen Krone fernhalten!",
+  "rules_text": "Herausfordern +7 (Während dieser Charakter herausfordert, erhält er +7.) EINSCHÜCHTERNDER BLICK Gegnerische Charaktere, die 4 oder weniger kosten, können nicht herausfordern.",
+  "card_identifier": "172/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5b9b4191d7b256a73082d1c5441f6ef688354587decef55a6e737dbdecd57213"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5aff91e7327004321e18ae0d4bf86a33c10b245386d4542be90e84e7d29c6a70"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a8ea427dac2b86e4d2067eb92aa5c5568173d0b96236a83a12109df4060e5b25",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=d71b1737d349e69139cca8a141f2ed26992ee5515b485ced75008910afa73ebc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

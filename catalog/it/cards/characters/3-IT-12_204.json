@@ -1,0 +1,43 @@
+{
+  "name": "Nani",
+  "subtitle": "Sorella Protettiva",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "ba2f05538e1999601db469cfe0b44f78bcbdb61c",
+  "culture_invariant_id": 448,
+  "sort_number": 483,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Lascia che me ne occupi io, Lilo.",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "12/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=06e566d16d637a2bacb302660d2a04c78b75fa8dceb34575fe3fa67b74228f90"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=7481e2b15d9bfed43c4b621d00bee811651cc65a488098de28f522680da872b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=363c605d05de0d1f2a810541757ce7f90a3fde8cc0653ee93302b8be5fa4a02d",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

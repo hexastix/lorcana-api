@@ -1,0 +1,38 @@
+{
+  "name": "The Mob Song",
+  "rarity": "UNCOMMON",
+  "ink_cost": 10,
+  "author": "Ian MacDonald",
+  "deck_building_id": "39f7d10f346a5d4cfce7f3ea92434317a4b05178",
+  "culture_invariant_id": 889,
+  "sort_number": 899,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sing Together"
+  ],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sing Together 10 (Any number of your or your teammates’ characters with total cost 10 or more may to sing this song for free.) Deal 3 damage to up to 3 chosen characters and/or locations.",
+  "card_identifier": "198/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=cac3d8af641bd0b42ebcd89067a857a1f8c458a6892141b8e9402eacdfbc47fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=5c075352e45b281830c9c47d26d57678e11adcb9e53b42f285a545bf0bb8330e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=786c193119443b24c97b487da6da46c94be27db9665c9f832441e778c16731c3",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

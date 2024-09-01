@@ -1,0 +1,48 @@
+{
+  "name": "Kida",
+  "subtitle": "Protector of Atlantis",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Adam Fenton",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 443,
+  "sort_number": 478,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: During my turn I play Kida – Protector of Atlantis. During my opponent’s next turn, if they play Maui – Hero to All, does he also have -3 Strength?\r\nA: No. Kida’s ability Perhaps We Can Save Our Future applies only to characters in play when she’s played.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "She has been chosen. —King Kashekim Nedakh",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Kida.) PERHAPS WE CAN SAVE OUR FUTURE When you play this character, all characters get -3 until the start of your next turn.",
+  "card_identifier": "7/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=9a2e6216667a35cc1f3474a5b233906cf29d1a37685bea19c37ddf0a76cbdfd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5d2235a77557ed0a1f4fa845e502c4d6c29ccde09a501d3754018fe1d02ab19b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=989e3154e0895817a79d146dbdd462abd5d637ded28ed2698febf52e0a0582a4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

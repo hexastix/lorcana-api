@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Wahres Herz",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e1b3cea0cee4d2729aad03d87771e607533f1d94",
+  "culture_invariant_id": 829,
+  "sort_number": 839,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Königin",
+    "Ritterin"
+  ],
+  "flavor_text": "Du musst unbedingt wissen, was wirklich wichtig ist, und auch bereit sein, dafür zu kämpfen.",
+  "rules_text": "LASS MICH DIR HELFEN Jedes Mal, wenn dieser Charakter erkundet, erhalten deine anderen Heldinnen und Helden in diesem Zug +1.",
+  "card_identifier": "138/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=236ff12e678860f5f90780443c65b8f91053ebe19405522cc6a4e51f767d1aab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=3d117bf604ac65de4fada1a4fbc9c750f3e72c2089419a32eec91791380435aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=1872b1f7d824d5862a9c1885b606080f8205bf5465619ad9bda55bb9584a1735",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

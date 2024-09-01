@@ -1,0 +1,42 @@
+{
+  "name": "Sebastian",
+  "subtitle": "Compositore di Corte",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "1fa28a7f4b2398c8cc72ea121b01ac0cccdda582",
+  "culture_invariant_id": 19,
+  "sort_number": 19,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Melodioso"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Sono qui per comporre sinfonie e non per stare alle costole di un'adolescente dalla testa dura.",
+  "rules_text": "Melodioso 4 (Questo personaggio conta come di costo 4 per cantare le canzoni.)",
+  "card_identifier": "19/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=5c6bb13ab3459a283a36b899677ddb7fba345a39e1e940cbc1e2a3ed5f45f4ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f6bc5a24bb25cf3c03785a6f1ef1e36eaf5f256f29d17c008996289caa797c9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=5c0bfe6280ba9792f92375e2fb889bbedc33853123b4468308baf01ee3cbde86",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

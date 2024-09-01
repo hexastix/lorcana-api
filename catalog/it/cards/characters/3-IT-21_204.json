@@ -1,0 +1,44 @@
+{
+  "name": "Rolly",
+  "subtitle": "Piccolo Affamato",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Defne Tözüm / Denny Minonne",
+  "deck_building_id": "35a17094ae0ea85e5bf8c8c37dfc63064b508a63",
+  "culture_invariant_id": 457,
+  "sort_number": 492,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cucciolo"
+  ],
+  "flavor_text": "Ho fame, mamma, veramente.",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "21/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=057401d9b1900fe631b902f4e8b4ef91254c3ef6b884557942c93e9f68f63bd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=406e38dacae147b7c13c248dfe16dba87995a2f0383fd4a4efd0ba03148eaa16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=4962597958c52a3b5f22a9e963aca325f532138dc21d6889de962406c89c3dea",
+  "card_sets": [
+    3,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

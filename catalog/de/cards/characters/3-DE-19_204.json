@@ -1,0 +1,45 @@
+{
+  "name": "Pongo",
+  "subtitle": "Entschlossener Vater",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "f2e3f62dba601d0b7718e2d5a5a6d161f72cd084",
+  "culture_invariant_id": 455,
+  "sort_number": 490,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich drei Kopien von Pongo - Entschlossener Vater auf dem Spielfeld habe, wie oft kann ich die „Dämmerungsbellen“-Fähigkeit einsetzen?\r\nA: 3-mal. Jede Kopie von Pongo kann ihre eigene „Dämmerungsbellen“-Fähigkeit einsetzen. Bedenke auch, wenn du einen Pongo zurück auf deine Hand nimmst und diesen im selben Zug erneut ausspielst, kannst du seine „Dämmerungsbellen“-Fähigkeit erneut einsetzen.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Wir werden unseren Weg finden. Ich weiß, dass wir das schaffen!",
+  "rules_text": "DÄMMERUNGSBELLEN Einmal pro Zug, darfst du 2 bezahlen, um die oberste Karte deines Decks aufzudecken. Falls sie eine Charakterkarte ist, nimm sie auf deine Hand. Falls nicht, lege sie unter dein Deck.",
+  "card_identifier": "19/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e5899414fd0d6e3c7af041c98c6fca6f1dbc8a814b46ef5d7b7dad310e33fdaa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=5e1f1f128ba121f6b23a809f4f6b28694a84db12d34e175d3ace0f8c5713d568"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e50de09495e5ed70dff1829a933f07b108fb0b63ef87fa80164a8ae8bf7dbe2e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

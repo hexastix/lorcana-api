@@ -1,0 +1,46 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Mistress of All Evil",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
+  "culture_invariant_id": 487,
+  "sort_number": 522,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have a Beast – Tragic Hero with 4 damage and a Maleficent – Mistress of All Evil in play, and my opponent only has a Flounder – Voice of Reason. If I play A Whole New World and draw 7 cards, can I move all 4 damage counters from Beast to Flounder using Maleficent’s Divination ability?\r\nA: No. You may use Maleficent’s Divination ability every time you draw a card. If you draw multiple cards at the same time, you have that many opportunities to use the ability. After you move 2 damage counters to Flounder, who has 2 {W}, he’ll be banished. Note that when you use Maleficent’s Divination ability while there are no opposing characters in play, you won’t be able to move any damage counters, so the ability will resolve without doing anything.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "DARK KNOWLEDGE Whenever this character quests, you may draw a card DIVINATION During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character.",
+  "card_identifier": "51/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=face9baaac78bf71f1ceed24ebd36d7272e84591c224e202f9a18f5c7813756b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=23506722f1738bd4a3e1f6f0f6953e25ab9f6c6f24f2e5d8b10845bcda258cdd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=04d18cf79806593a91558cf0f94d72f91e24721ac279352cc1d19f203a9a9e0d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

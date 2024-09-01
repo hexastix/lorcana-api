@@ -1,0 +1,40 @@
+{
+  "name": "Tipo",
+  "subtitle": "Wachsender Sohn",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "f80eee1a0d8f58f63e04f6f9578c9d603326d912",
+  "culture_invariant_id": 1113,
+  "sort_number": 1121,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Mama, Mama! Ich bin schon wieder gewachsen!",
+  "rules_text": "WIE GROSS BIN ICH JETZT? Wenn du diesen Charakter ausspielst, darfst du 1 beliebige Karte aus deiner Hand verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "157/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=e3d65ae7662fca7c11e30f180f6f7d21799f8c9903bccd472d67b28d4733a6a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=5f9dab4ed93abdb94baadbcd5f5b22cadeaf984cc3f6c2094a4c235ed2708323"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=60e97693f47afa7a5a55d7a96ccdd96c58c41ddd68d3398b7ce94febb553872d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

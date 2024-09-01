@@ -1,0 +1,40 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Curious Partner",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "796e3ba27b40636c46b51f8702e8b0a0dcb4df08",
+  "culture_invariant_id": 852,
+  "sort_number": 862,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Some say he's easily distracted. They're not wrong... —Raya",
+  "rules_text": "",
+  "card_identifier": "161/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=49d3703582ff844837f3ac696d84fa58d86d0f2f962fc1960808b1b7148a3c1d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=c26fa290a186f8b6876ce6340698b5e13f7642c4199d36635e02fcd421389e98"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=ef7c7ebcf01c78adf1ab574761c29e45886853eee3605ad0f42f76b645335fb8",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

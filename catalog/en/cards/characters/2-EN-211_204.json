@@ -1,0 +1,44 @@
+{
+  "name": "Lady Tremaine",
+  "subtitle": "Imperious Queen",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
+  "culture_invariant_id": 427,
+  "sort_number": 451,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Lady Tremaine.) POWER TO RULE AT LAST When you play this character, each opponent chooses and banishes one of their characters.",
+  "card_identifier": "211/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=bfd4bf0842788b1894abe6cdce13c9e687b00b1ce24419b30c638eaee338e994"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=0db415191a4cf91cc77ac944e7e651299c5d485ae9a666707bc3840c1120cc68"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=8764584facbc8a53dfea61947ef9623e9591863ca763f38eef28aac47063f76b",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

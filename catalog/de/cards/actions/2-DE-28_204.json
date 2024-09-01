@@ -1,0 +1,33 @@
+{
+  "name": "Nun halt doch still",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Connie Kang / Jackie Droujko",
+  "deck_building_id": "af7ad8e2f2e28d3c3a1323718ae5d87054755485",
+  "culture_invariant_id": 244,
+  "sort_number": 268,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es könnte ein wenig brennen.",
+  "rules_text": "Entferne bis zu 4 Schaden von einem Charakter deiner Wahl.",
+  "card_identifier": "28/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=e0e14a410a9e2021e181bd4061a11cba7bfad9fb1b3ec60ae2d1c2c62e5e65bc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=7ab8f12ab7674f48261555c6af7c94432f7cf8474c9cd72efb419031efd4bfd9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=a74332b0aed8975617386da43a65cba27755797f68b0c7eb3f407f940512d0fb",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

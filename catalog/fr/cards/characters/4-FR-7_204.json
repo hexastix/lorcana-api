@@ -1,0 +1,41 @@
+{
+  "name": "Daisy",
+  "subtitle": "Mousquetaire espionne",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "a34164ff051a6a764bee43f9f9096b7deeec2e20",
+  "culture_invariant_id": 698,
+  "sort_number": 708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Mousquetaire"
+  ],
+  "flavor_text": "Elle a un talent pour déjouer les plans cachés.",
+  "rules_text": "INFILTRATION Lorsque vous jouez ce personnage, chaque adversaire choisit une carte de sa main et la défausse.",
+  "card_identifier": "7/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=df31603e44bf45f2b37f13131b2becc5af845d4c07571cf805e439c5eb3e00ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=a3f6e298a25ca324a45f92f6c2590c2f202d5f4b82c71ff27f90b5ea24303979"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=c8c6e27d92212900919784fa4e9cfbb1c4b5b26bb78da598b45785530750ed4f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

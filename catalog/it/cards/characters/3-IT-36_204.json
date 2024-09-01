@@ -1,0 +1,40 @@
+{
+  "name": "Seguaci di Chernabog",
+  "subtitle": "Creature del Male",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Monica Catalano",
+  "deck_building_id": "543369c0676bd8eef7719a7222f19cca6fe00083",
+  "culture_invariant_id": 472,
+  "sort_number": 507,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Che il caos regni sovrano.",
+  "rules_text": "ANIME INQUIETE Ogni volta che questo personaggio va all'avventura, puoi esiliarlo per pescare una carta.",
+  "card_identifier": "36/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=d492d48da4cf9b10cccc20e12766d7b59c3d844e33abfbce3c4fa2f30cb8f813"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=d278ad026586187af46eefd7a8d9094b441159de336c6f25053fcf05f00f56d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=67f5e4108fddd067776ed66c71b414c25ba9d57d97ba96d596948f112031feaa",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

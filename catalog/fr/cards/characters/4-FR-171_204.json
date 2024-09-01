@@ -1,0 +1,42 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Courageux sauveur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Randy Bishop",
+  "deck_building_id": "58ce9f9e7b38c0ef9c7d5b24e03675a9b0c0e182",
+  "culture_invariant_id": 862,
+  "sort_number": 872,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter: Défaussez une carte Lieu (Vous pouvez défausser une carte Lieu pour jouer ce personnage sur l'un de vos personnages Aladdin.) PASSAGE EN FORCE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un objet et le bannir.",
+  "card_identifier": "171/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d8d5297cc52a810b8b41662fc05920ea7da742f1220498ccb6e7a7428746c0c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=dcf2196c66e26400a91f5e150fc1e539ef3175bb69752aa90123ba09f7c414d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=f3eb6034f1232bc6672f7351040c151d8beda58043e4fc1a91356afcf4b59660",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

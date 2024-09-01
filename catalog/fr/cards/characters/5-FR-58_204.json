@@ -1,0 +1,43 @@
+{
+  "name": "Camilo Madrigal",
+  "subtitle": "Changeforme de la famille",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Saulo Nate",
+  "deck_building_id": "e4d5e8f774c50c619ff2d88974512f4e419a3b3c",
+  "culture_invariant_id": 1014,
+  "sort_number": 1022,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "MIMÉTISME Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un autre de vos personnages et gagner autant d'éclats de Lore que son , puis le renvoyer dans votre main.",
+  "card_identifier": "58/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=d06289ac0dee864503d9cb78644e28f082eb3fccfed3a2e5417c7deff35029b0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=0aec14fa68fcefcf358fa5a1f0ffea2284f2f5a9fa332de3d221a08410f9ff0d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=97d79e969306ee40d7f00a2b2671da925c4ab2762d9154e533299c082d4648e8",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=c9cebb291872f44f9765a0a1a5049d3b487f39b7516d5c46574ecdad2f2211cd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

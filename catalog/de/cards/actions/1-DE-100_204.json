@@ -1,0 +1,33 @@
+{
+  "name": "Grauenhafter Verrat",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Michaela Martin",
+  "deck_building_id": "136b3048b89e5bbb29de953662fc59ebfb914b8d",
+  "culture_invariant_id": 100,
+  "sort_number": 100,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ein wahrer König nimmt die Dinge selbst in die Hand. – Scar",
+  "rules_text": "Gib einem Charakter deiner Wahl in diesem Zug +2. Wählst du eine Schurkin oder einen Schurken, dann gib dem Charakter stattdessen +3.",
+  "card_identifier": "100/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=d10829bde0b0474e584d41b5e17d196afa780b48f0fd0664e06dae25ecffd526"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=49aaf3be625df8fc97de3e1bf25ffe502b9f9e3ade27380745da2b9db9631943"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=d24605bcff8e82662d46904926a3e349133ec28cc5e0f09a3d112ad19ab03fb3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Artù",
+  "subtitle": "Re Vittorioso",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Anna Stosik",
+  "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
+  "culture_invariant_id": 1150,
+  "sort_number": 1158,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Re"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Artù.) NOMINATO CAVALIERE DAL RE Quando giochi questo personaggio, un personaggio a tua scelta ottiene Sfidante +2 e Resistere +2 e può sfidare i personaggi preparati per questo turno. (Riceve +2 mentre sta sfidando. Il danno che gli viene inflitto è ridotto di 2.)",
+  "card_identifier": "194/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=c03a20c792a5230e254851a051af88fd9b893019007d0abc82f46f4e84b9acbe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=7a4bf64d881738d2be9c8edd87054301ac15e4226261df18de47971c6953fc15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1289129f73528aef89b3d17c2be2a79e1a4d4ce66d510bb3419d56f7ec85b2c6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

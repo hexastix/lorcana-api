@@ -1,0 +1,42 @@
+{
+  "name": "La Reggia di Tiana",
+  "subtitle": "Ristorante Jazz",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "c279e0883210f8f220e5fe8ac1b7f74b5404072f",
+  "culture_invariant_id": 470,
+  "sort_number": 505,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Se il mio unico personaggio con Guardiano si trova ne La Reggia di Tiana – Ristorante Jazz, il mio avversario può sfidare i miei personaggi?\r\nA: Sì. Un personaggio sfidante deve sfidare un personaggio avversario con Guardiano se possibile, ma l’abilità Una Serata Fuori de La Reggia di Tiana rende i personaggi in quel luogo impossibili da sfidare. Quindi, i personaggi sfidanti possono sfidare qualsiasi personaggio che potrebbero normalmente sfidare.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "A New Orleans i sogni possono diventare realtà.",
+  "rules_text": "UNA SERATA FUORI I personaggi non possono essere sfidati mentre si trovano in questo luogo.",
+  "card_identifier": "34/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=ac32a75fe4de02eb06f2d0053a60722c9e47de3cc1ca3d7da1d6a06dd74fcb76"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=6a1cea9e01f0df86e61ed225baa050212f35814d7a1234c1eeb06c3d616b3a37"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=f2269a214df93ebc22d7cf4e8703f8b400f0f34a3d5f51711fe06f17062e1d2d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

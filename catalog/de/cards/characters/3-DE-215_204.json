@@ -1,0 +1,44 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Piratenfluch",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "6f685f0a2a2fbce4b5ece504fc70f70dc4bae551",
+  "culture_invariant_id": 651,
+  "sort_number": 686,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Peter-Pan-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) DU BIST DER NÄCHSTE! Dieser Charakter erhält keinen Schaden durch Herausforderungen, während er einen Piraten oder eine Piratin herausfordert.",
+  "card_identifier": "215/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=f90f4656114dd4b0c63746f1c39a6c63117f51981ba58f6677d69302cdcb4286"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=87224083ff5db714cc94abc8627855e95ebdf6b51218df6a08a427576c9f89dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=c05becf300a41da3a58b4f7d9666736559f5caa359b973127407c43cd75c95ab",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

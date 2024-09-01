@@ -1,0 +1,41 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Dampfschiff-Kapitän",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "98e74f278b9358ae6e4e6e05ffa6b6c7aa4a416b",
+  "culture_invariant_id": 89,
+  "sort_number": 89,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Kapitän"
+  ],
+  "flavor_text": "Auf den Flüssen des Tintenreichs antwortet das Pfeifen des Dampfschiffs auf die fröhlichen Melodien seines Kapitäns.",
+  "rules_text": "",
+  "card_identifier": "89/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=6e5f3f3b666dbe48e61bcacedea757b2ae029ca3a316f171d4293be67c9aaa68"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=cdc9dcb99e5cab90906bb82ad3959ed1455f3be6b9d2f12c644e9e9e9e112566"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=bf89ae2761bc11cd85a59fcebf26be79f8a9eefabc33ec436ae3d8019ddbd1c8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

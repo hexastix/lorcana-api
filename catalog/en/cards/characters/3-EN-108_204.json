@@ -1,0 +1,44 @@
+{
+  "name": "Hydra",
+  "subtitle": "Deadly Serpent",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jochem van Gool",
+  "deck_building_id": "d268c6eeb569494fa6c7d349a73b63ef781128e1",
+  "culture_invariant_id": 544,
+  "sort_number": 579,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I use Mouse Armor’s Protection ability to give my Hydra – Deadly Serpent Resist +1 and then challenge Minnie Mouse – Always Classy with that Hydra, can I use its Watch the Teeth ability to deal damage to Minnie Mouse?\r\nA: No. Minnie Mouse – Always Classy has 1 {S} so will deal 1 damage to Hydra – Deadly Serpent, but Resist +1 will reduce that damage by 1 before any damage is dealt to Hydra. The Hydra won’t be dealt any damage.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "More heads are better than one.",
+  "rules_text": "WATCH THE TEETH Whenever this character is dealt damage, deal that much damage to chosen opposing character.",
+  "card_identifier": "108/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=276eff1494245c073f1f43cdf8ef31a77507fab682c1e28497c543c51839c2d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=65b4437f35a8892b7494dfbb32ccf5836524fac7024a6ad6d01a95ef99b9be1d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=eb3a1953b71b5d7fe68e140519dd649910953ba19f8bf5a70c77c5aa031d9a03",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

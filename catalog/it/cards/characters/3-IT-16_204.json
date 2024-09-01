@@ -1,0 +1,43 @@
+{
+  "name": "Pimpi",
+  "subtitle": "Capitano del Pirata Pooh",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "122c433c05a0334dea67706084da9d47eef28c95",
+  "culture_invariant_id": 452,
+  "sort_number": 487,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Arr! C'è della leggenda qua fuori, e io la t-troverò!",
+  "rules_text": "E IO SONO IL CAPITANO! Mentre hai altri 2 o più personaggi in gioco, questo personaggio riceve +2.",
+  "card_identifier": "16/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=41fe85ff75e01f59164a22d2943105d7844dc142b5d8d0f656372cf8d88cba13"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=0968c95e8dd9ba2e8a8dd624302a08f7940afbef648c8b3e05aeb606b0cba948"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=fd944185936870786bd648d22d8c987dee893ee573d398a1ae0ee2d4abef15ea",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

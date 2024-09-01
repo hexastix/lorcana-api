@@ -1,0 +1,41 @@
+{
+  "name": "MICKEY",
+  "subtitle": "Sorcier renégat",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "7b1a76e2d2e48966c05afd3777ab1b57b83cd005",
+  "culture_invariant_id": 208,
+  "sort_number": 208,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "ANIMER LES BALAIS Les personnages Balai vous coûtent 1 de moins à jouer. TRAVAILLEUR INFATIGABLE Si l'un de vos personnages Balai est banni via un défi, vous pouvez le reprendre en main.",
+  "card_identifier": "208/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=3007c2b764e0e9b42d9e8a17272dec830e562c80fc0d50f3401404c495169659"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=34277890a7ae385aab14c2113831bbb579149714bd5410bb11404e3da65f6be4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=4a0c1f3d86cdbf78d4b5261e065460a5377f123123a4b53503cbd28b56a254e6",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Magische Goldene Blume",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cory Godbey",
+  "deck_building_id": "b14e84279a07a659f613dce649d53864d810ff65",
+  "culture_invariant_id": 169,
+  "sort_number": 169,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es war einmal ein kleiner Tropfen Sonnenlicht, der vom Himmel herabfiel … – Flynn Rider",
+  "rules_text": "HEILENDER BLÜTENSTAUB Verbanne diesen Gegenstand — entferne bis zu 3 Schaden von einem Charakter deiner Wahl.",
+  "card_identifier": "169/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=d58f32478f799ac83b67bb182f885b41d8e92ac471a8bfa99a78f80d3815c133"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=dc522f6beb1bfd20a569a8a594c35f791d498043a19c8e2002a242128aa00346"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=5aeca7121a9d5e95dd452f043f1f4410c4bb87b1be8cd21c14375ac143488cfc",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

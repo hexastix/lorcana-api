@@ -1,0 +1,33 @@
+{
+  "name": "Cromicon di Smeraldo",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "e8d2c7ee84a66e7cf0184644c8a27abafeef32a3",
+  "culture_invariant_id": 1056,
+  "sort_number": 1064,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Abbiate fiducia nei venti del cambiamento.%—Iscrizione",
+  "rules_text": "LUCE DI SMERALDO Durante il turno degli avversari, ogni volta che uno dei tuoi personaggi viene esiliato, puoi far riprendere in mano al suo giocatore un personaggio a tua scelta.",
+  "card_identifier": "100/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=601291be6181271ef394cce62b5bed028ee052dac4b7c9377e100a09bc25e9e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=717d88a879b83b96ef2c708d6868f49d54648aa42bacd673f4201f7ede0bde36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=094cc5adec3d56b45f8ccba8ce096aa97e77b075c7e3ec146ef36c4ce17ac910",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

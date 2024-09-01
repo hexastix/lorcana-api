@@ -1,0 +1,42 @@
+{
+  "name": "The Muses",
+  "subtitle": "Proclaimers of Heroes",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "f9536062101bef78b378b2a25c8f9677d0a8486b",
+  "culture_invariant_id": 781,
+  "sort_number": 791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can’t choose this character except to challenge.) THE GOSPEL TRUTH Whenever you play a song, you may return chosen character with 2 or less to their player’s hand.",
+  "card_identifier": "90/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=ae78e6409cc00425478d661c2fb2f3ebf7fb73d4873f2e7490dc58520459f63b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=6b42f047f6dba2e160905d54fa15d868c3c16621eff604a2dff186ed38f81289"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=0d703325c368e672baf0286ff83fc35efe45c7b8c8e880efae45be4e57d8c1f7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

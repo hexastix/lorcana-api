@@ -1,0 +1,37 @@
+{
+  "name": "Casa Madrigal",
+  "subtitle": "Casita",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rachel Elese",
+  "deck_building_id": "86c8f197eff8c61973ac292a62a4be6cd966c168",
+  "culture_invariant_id": 758,
+  "sort_number": 768,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UNSER ZUHAUSE Zu Beginn deines Zuges, wenn du mindestens einen Charakter an diesem Ort hast, sammelst du 1 Legende.",
+  "card_identifier": "67/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=2dbc5104641fbc263bd012d1bd30521640ba284fcf306f29d44e316e7fc9559a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=78d00d2e879cc31e8f0b8787e0e5828fdcc503094914c4bbb372a803938ee18e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ba77fc50df5f8415a3448fd4ca7d4fd3bda3b77e2fad2058d46226336f1ae055",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

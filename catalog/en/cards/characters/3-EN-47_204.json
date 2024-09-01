@@ -1,0 +1,47 @@
+{
+  "name": "Magic Carpet",
+  "subtitle": "Flying Rug",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cory Godbey",
+  "deck_building_id": "9057e685beb641fbff4086da8f552e1388fa0350",
+  "culture_invariant_id": 483,
+  "sort_number": 518,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Can I use Magic Carpet – Flying Rug’s Find the Way ability to move a character of mine to an opposing location?\r\nA: No.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Carpet and I can swoop in, grab the lore, and be back before anyone knows it!%—Aladdin",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) FIND THE WAY — Move a character of yours to a location for free.",
+  "card_identifier": "47/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=7aaf1118e78a98b7555189f117de84b6f92d09f8024aa9dfdfc9fea925650277"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=5fc260fb4e05b0cc5e5753257d8e2468b65d0e2fd80a97388caf902c4c508628"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=67a9132f4023c6e85b78b25a2be0e9e403de558d3730f9d2a221536df9bb5e3c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

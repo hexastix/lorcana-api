@@ -1,0 +1,41 @@
+{
+  "name": "Hades",
+  "subtitle": "Höllischer Intrigant",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "89f9ee7889da4ebacb49419bd4b8dae4220a5c7c",
+  "culture_invariant_id": 147,
+  "sort_number": 147,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "Sieh mal, der muss doch eine Schwäche haben, weil, wie wir wissen, jeder eine Schwäche hat.",
+  "rules_text": "KÖNNTE DA EIN HAKEN SEIN? Wenn du diesen Charakter ausspielst, darfst du einen gegnerischen Charakter deiner Wahl verdeckt in den zugehörigen Tintenvorrat legen.",
+  "card_identifier": "147/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=6a89665be0cbd533d4a57a114f3d975938f6ffb1e8843b11dc622866a9ff94d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=54250237df5f0ca6e322c713b463f6e5bfdc7fa2ed577dccf181332ee005bb4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=cacdcf08971a4ae648db388689b716ab216161180e8fe330d84356065d7afabb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

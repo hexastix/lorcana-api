@@ -1,0 +1,41 @@
+{
+  "name": "Camilo Madrigal",
+  "subtitle": "Spiritosone",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "06c33d8303cbe3698922ef017c553b693cb45e56",
+  "culture_invariant_id": 731,
+  "sort_number": 741,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "MOLTE FORME All'inizio del tuo turno puoi scegliere uno: • Questo personaggio riceve +1 per questo turno. • Questo personaggio ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "40/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=f2b535d6610edf8cc0ab1ad5075bef8292cb267f9db7d93f4f302fb9bf25563c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=5ed639b7351a34e4297bfec72a34bca8526327b009d260e0b3614e5445dcd69d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=f1c43f6e84da1dd5d6f5bafc279375fb962ba7a38a37decc8070db3e7d9ce256",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

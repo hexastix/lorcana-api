@@ -1,0 +1,35 @@
+{
+  "name": "Mezza corona esmantica",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Billy Wimblett",
+  "deck_building_id": "b811b3defd86d738200c72437085b562903d888b",
+  "culture_invariant_id": 1179,
+  "sort_number": 1187,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La corona spezzata nasconde poteri oscuri e misteriosi.",
+  "rules_text": "UN RITROVAMENTO INASPETTATO , 2 — Pesca una carta. UN POTERE RISCHIOSO , 2 , Scarta una carta — Impegna un personaggio a tua scelta.",
+  "card_identifier": "223/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=43be24e460e52ea43cbb2a18016993226a55d015ea144a541c24e07181cd2b86"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=02a17aa407b05d800d521c7a50fbd9db09daed93da1c08f83bf334eec2e4fd36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=c961e0e09332a6049654cb839f29046887d8908dfe44e48bc0bdd8500b9ddd8a",
+  "foil_type": "Glitter",
+  "card_sets": [
+    5,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

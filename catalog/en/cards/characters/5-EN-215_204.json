@@ -1,0 +1,41 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Sharpshooter",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Vanessa Morales",
+  "deck_building_id": "f66d5ab4d3a54fec003c4f80526a7a6667ce7c86",
+  "culture_invariant_id": 1171,
+  "sort_number": 1179,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "MY GREATEST PERFORMANCE Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.",
+  "card_identifier": "215/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=97cc668aaab95f591683e4a0aa2418c30f0512d9411f7a42058d8aa507c3d662"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=88ea0a13b51c023bbdfb11ce37aaccfc217bc974b8cb1fe52b7d44fc2e0ca5ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=013529cef90dce7f0a18e80197c6f61d062f4fdd23d52c447d4035e97aff53c6",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

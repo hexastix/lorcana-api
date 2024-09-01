@@ -1,0 +1,42 @@
+{
+  "name": "MICKEY MOUSE",
+  "subtitle": "Bandit rusé",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Alex Accorsi / Kendall Hale",
+  "deck_building_id": "b4686c93b98817dbfb085e87dc16976e08af7556",
+  "culture_invariant_id": 88,
+  "sort_number": 88,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "Une souris verte... qui courait sur les toits...",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Mickey Mouse.) MAUVAISE ORIENTATION Chaque fois que vous jouez une carte action, choisissez un personnage adverse. Il ne peut pas être envoyé à l'aventure durant son prochain tour.",
+  "card_identifier": "88/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=404e80e5bda3b652c8d4efdf6078b7582d4a32734780a109b61e322b2ee2d7b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=eba1f18358fc4390d2d1cf66a51b7111587d83dcc9e6d67c8ecf86d737282075"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=eec599b2e3f1c3937c0007efc358704d25f68997df78863724d126816d7bf316",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

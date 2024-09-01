@@ -1,0 +1,32 @@
+{
+  "name": "Die Hexwellkrone",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "026482f32fe2d467df72c4520da3860668ffd316",
+  "culture_invariant_id": 942,
+  "sort_number": 962,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Nachdem sich Ursula die Krone auf den Kopf setzte, spürte sie die freigesetzte Magie und einen Anstieg an Macht.",
+  "rules_text": "VORZÜGE DER MACHT – Ziehe 1 Karte.",
+  "card_identifier": "29/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=ac504a05bf97072c3ca90bc5ddaf6ed0f8ad7ccb78feb43331568d84004a9d53"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=1f0b97ec30187c83f4b292ad08a97aaa7c43c7b959a36de483fd8c035e279f30"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

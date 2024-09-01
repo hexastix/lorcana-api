@@ -1,0 +1,36 @@
+{
+  "name": "Wer bin ich?",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kevin Hong",
+  "deck_building_id": "50c0788f5b4c0f5b30affccb1bff25e00b788c33",
+  "culture_invariant_id": 65,
+  "sort_number": 65,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Wann zeigt mir mein Spiegelbild, wer ich wirklich bin?",
+  "rules_text": "(Du kannst einen Charakter, der 1 oder mehr kostet, , damit er dieses Lied kostenlos singt.)Schaue dir die obersten 3 Karten deines Decks an. Lege sie in beliebiger Reihenfolge zurück auf dein Deck.",
+  "card_identifier": "65/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=d2e29012c331be3d863b3bea65e88d5f0e5f9c8bc4bfeac2ceaf4512d6427dde"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=ec70e238524ac270b83e22320977d8b443e607b90402775fd75b52ab553d6d77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=3b8520f4a8d67935c21818eea2659d6eb9bd958739d3efa4178fdc6267a1a0f6",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

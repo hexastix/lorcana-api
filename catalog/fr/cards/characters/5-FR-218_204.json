@@ -1,0 +1,45 @@
+{
+  "name": "Sa Sucrerie",
+  "subtitle": "Douce abomination",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Lorenza Pigliamosche",
+  "deck_building_id": "5e50dc86485330fa31a424a5ef8789c56472efd4",
+  "culture_invariant_id": 1174,
+  "sort_number": 1182,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Roi",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Sa Sucrerie.) CHANGER LE CODE Lorsque vous jouez ce personnage, vous pouvez piocher 2 cartes. Si vous le faites, remettez 1 carte de votre main en-dessous de votre pioche.",
+  "card_identifier": "218/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=34903a153735c454e3091db9d63b49ed70236c5f69c402f853d5624840f720bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=70e06e64994e8aa6abf4590d3e8bdfce438cf519faccf82ced903840cf9801de"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=2452638fbe9e5260a8bb54ce347cd2401f841c34158ee99b55ee62a0bc9e0d4f",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

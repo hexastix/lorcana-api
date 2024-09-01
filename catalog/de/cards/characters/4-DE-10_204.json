@@ -1,0 +1,40 @@
+{
+  "name": "Gaston",
+  "subtitle": "Verruchter Händler",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "227600aa724c645ab4db45734ad272f904d89fe5",
+  "culture_invariant_id": 701,
+  "sort_number": 711,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Ja, ja, es wird alles bereit sein. Sieh nur zu, dass du auch deinen Teil dazu beiträgst.",
+  "rules_text": "ZWEIFELHAFTE REKRUTIERUNG – Du zahlst 2 weniger für den nächsten Charakter, den du in diesem Zug ausspielst.",
+  "card_identifier": "10/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=88719dd73729949e5332f7181efc6964a3db9ed502e7c9d678cf64e5dce051c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=3e81bb04a39af3a5a5d6765b127abdc3bcd076e3bec643b117b2cfbb506ee930"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=f2d121d1bbd52614f953dda1658b3609ae42152c692a3ff125588bd43735dbf0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

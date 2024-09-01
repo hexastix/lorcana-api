@@ -1,0 +1,32 @@
+{
+  "name": "Magia del Groviglio",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Luca Pisanu",
+  "deck_building_id": "1ca60cd1fe1e5add4a58fb39ebb9b17a08fb9f3a",
+  "culture_invariant_id": 933,
+  "sort_number": 953,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Affascinante, non è vero? Non essere timido — guarda più da vicino...%—Ursula",
+  "rules_text": "Ogni giocatore avversario scarta una carta. Dopodiché aggiungi questa carta al tuo calamaio, a faccia in giù.",
+  "card_identifier": "20/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=0735f83433d7100cc351a8b2458de3604c389289069c01801ca2c71f7f20469c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=590f4cc05e2fc25e6047dabf1b39d0bd5e7beff789d96eb53c17f11eb0884dca"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

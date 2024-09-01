@@ -1,0 +1,48 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Musketier",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Dav Augereau",
+  "deck_building_id": "eb0f321c8ffffb426862310ebc9a55e6e2d2d5df",
+  "culture_invariant_id": 177,
+  "sort_number": 177,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Musketier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) BLEIB AUF DER HUT! Deine Musketiere erhalten in deinem Zug Wendig. (Sie können Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "177/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=719278cc22867c600390e8e582bbf40efdbb56eae8427214c6109de3f2275956"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=a37fa440adbf6975f2c16eeffe07dbbe0417162e60697c8ad4a1371a21d1fb5a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=5a2cfd2e38822fb4ec90dbef762a48d2f1bfd56d0273f78f3cca17a9549eb040",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

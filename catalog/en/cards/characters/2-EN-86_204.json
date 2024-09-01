@@ -1,0 +1,40 @@
+{
+  "name": "Pain",
+  "subtitle": "Underworld Imp",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kristina Chouri / Mariana Moreno",
+  "deck_building_id": "1fe8193faae4a3e917c75b66570a89630455f0c7",
+  "culture_invariant_id": 302,
+  "sort_number": 326,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Get a move on! I'm a busy god, lots to do—meetings, curses, a little light scheming.%—Hades",
+  "rules_text": "COMING, YOUR MOST LUGUBRIOUSNESS While this character has 5 or more, he gets +2.",
+  "card_identifier": "86/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd9b86fcc5e75ffca4bb6c421c097cac0215452e973e250a4a53483de378faef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd582dd8fcd9ca6adbe6c5cc4c840a56f7a4d84d89bad4f959f0d627b960fa9f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c3f7d7eabe6f0e870d4448898906926c340fcf42f0451eba23b9f171c9243589",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

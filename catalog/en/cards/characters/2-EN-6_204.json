@@ -1,0 +1,41 @@
+{
+  "name": "Dopey",
+  "subtitle": "Always Playful",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kendall Hale",
+  "deck_building_id": "1bf42885e3bfca3782dbf920f153ae8a775eaa03",
+  "culture_invariant_id": 222,
+  "sort_number": 246,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Seven Dwarfs"
+  ],
+  "flavor_text": "He's a real gem.",
+  "rules_text": "Odd One Out\\ When this character is banished, your other Seven Dwarfs characters get +2 until the start of your next turn.",
+  "card_identifier": "6/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=dd7b3b386d3cb8b2a7b409c44622c67950a8f8940a13742241c01b2b9066362c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=4ff6dc7481827986453ad2a6b6528e35a57326051d1bcbc2a9dcf3a194f0d237"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=515f0a824ea73fd0a6a23412abd450051f10d33e96d9792b3c7b9369d44d1e1b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

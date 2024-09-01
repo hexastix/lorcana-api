@@ -1,0 +1,41 @@
+{
+  "name": "La Bonne Fée",
+  "subtitle": "Au cœur pur",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Matt Chapman",
+  "deck_building_id": "83b99c29716dc645e59792cecd067f6715bc51fd",
+  "culture_invariant_id": 258,
+  "sort_number": 282,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "Dépêchons-nous car même les miracles prennent un peu de temps.",
+  "rules_text": "ÇA Y EST, JE CROIS QUE J'Y SUIS Lorsque vous jouez un personnage Cendrillon, vous pouvez choisir un personnage et l'épuiser.",
+  "card_identifier": "42/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=7e6f593a4190c053ec9c43697477c7d590a6991b4abe261cc1993c5e4a1df464"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=197f39a64865c5a4c96f7d3310d811a1cfa4d5151e9f53b3d6b901d09eabc0a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=3efd96b126486a3536ee3aa4fc1a2463f38dd050c5403aa87ad35a88c7bdb4bb",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

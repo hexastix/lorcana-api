@@ -1,0 +1,41 @@
+{
+  "name": "Alice",
+  "subtitle": "Tea Alchemist",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Nicola Saviori / Raquel Villanueva",
+  "deck_building_id": "1c21022c9fe68d3bc59e89fd423ebca777a22505",
+  "culture_invariant_id": 471,
+  "sort_number": 506,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Sorcerer"
+  ],
+  "flavor_text": "With the right tea leaves and a little magic, she creates the perfect cup for any party guest.",
+  "rules_text": "CURIOUSER AND CURIOUSER — Exert chosen opposing character and all other opposing characters with the same name.",
+  "card_identifier": "35/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=b14fd1b46ad272f05a1eccb9321a8f14c7c0009824b0a6f7edb7c058be0beee3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=35d65ddedc942a3a124675ddbb813c374a5ea42160a71adf97f8b8144870087d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=1183e47d09d1a712d3c9d13f4cf333a55aabb8e29a94bb6df63434cc2688098f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

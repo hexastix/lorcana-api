@@ -1,0 +1,42 @@
+{
+  "name": "Naseweis",
+  "subtitle": "Großzügige Fee",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "3327481e6f129bd0a97e63a5c7d2bff9190b7ffd",
+  "culture_invariant_id": 458,
+  "sort_number": 493,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete",
+    "Fee"
+  ],
+  "flavor_text": "Jede Menge Beeren—und Freundschaft—für alle.",
+  "rules_text": "NEUE FREUNDE FINDEN Wenn du diesen Charakter ausspielst, schaue dir die obersten 4 Karten deines Decks an. Du darfst 1 Charakterkarte daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "22/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4e44cba02e76f752af2bac7ba9c6cbb829534b663c980b8a4d3ba2b0356f1eae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=6f20f1d3815f7435856c3461c4413f7a1e7c0aeea89dd7c0bb7b6b1356caa330"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=728194612882850cc7469c0ee4db33d190b269e449aa4089d973e1db5141157b",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

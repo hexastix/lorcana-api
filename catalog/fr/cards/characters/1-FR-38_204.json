@@ -1,0 +1,43 @@
+{
+  "name": "DR. FACILIER",
+  "subtitle": "Charlatan",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "1fd605fe2fe7ee5b8de1e22cc92998c2f04e0304",
+  "culture_invariant_id": 38,
+  "sort_number": 38,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Enchanté. Et chapeau bas de la part du Dr. Facilier.",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "38/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=ad19ff0e5dd6dbff8d5a74c7e21ae0aa6da5df6662ccf594f4cead0662f87243"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=56c1c4a889fd35fddd0de4c9f24fcbe921f03f61c2a8cfc502a143c9ee624871"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=fcea0c92b50396db0831c09b15ae40305059ff072b8d8e44febde7bb13d3c7d6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

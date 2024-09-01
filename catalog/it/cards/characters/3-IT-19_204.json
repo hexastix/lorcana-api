@@ -1,0 +1,45 @@
+{
+  "name": "Pongo",
+  "subtitle": "Padre Determinato",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "f2e3f62dba601d0b7718e2d5a5a6d161f72cd084",
+  "culture_invariant_id": 455,
+  "sort_number": 490,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Se ho tre copie di Pongo – Padre Determinato in gioco, quante volte posso usare l’abilità Telegrafo del Crepuscolo?\r\nA: Tre volte. Puoi usare l’abilità Telegrafo del Crepuscolo di ogni copia di Pongo – Padre Determinato. Nota che, se riprendi in mano un Pongo e poi lo rigiochi, puoi usare di nuovo la sua abilità Telegrafo del Crepuscolo.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Troveremo la strada. So che ce la faremo!",
+  "rules_text": "TELEGRAFO DEL CREPUSCOLO Una volta per turno, puoi pagare 2 per rivelare la prima carta del tuo mazzo. Se è una carta personaggio, aggiungila alla tua mano. Altrimenti, mettila in fondo al tuo mazzo.",
+  "card_identifier": "19/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=0e00881a0e5447d2995ede0ea04a77107700e7a1f655f0f75b3e874b176a1419"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=df7634274ba7741849357a05def286ded2374b21655418bf6540fe75c0ce295b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e50de09495e5ed70dff1829a933f07b108fb0b63ef87fa80164a8ae8bf7dbe2e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

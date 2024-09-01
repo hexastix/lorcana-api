@@ -1,0 +1,42 @@
+{
+  "name": "Scroop",
+  "subtitle": "Hinterlistig",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "12e992ed5c1b1f3b4983f8fe3780e871b2743fb4",
+  "culture_invariant_id": 558,
+  "sort_number": 593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Alien",
+    "Pirat"
+  ],
+  "flavor_text": "Behalte ihn stets vor dir. Und wenn möglich in Windrichtung.",
+  "rules_text": "BRACHIAL Solange dieser Charakter beschädigt ist, erhält er +3.",
+  "card_identifier": "122/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=91d925b9c03bbd6a8ab545ff418de4bf20be270e254a0df9888067146aec1565"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a0384553a83a3f4752b1cdf01dbc6e58f4d315e7a750676e2c1dc01a6654638b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=4dd8c30579150f92a12bbb521a98e7bcc9876adae0dc5301d4418f19a5684a8d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pegasus",
+  "subtitle": "Flying Steed",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3232a625c1ad1451c0bd29fcfbc149d3d2a38166",
+  "culture_invariant_id": 811,
+  "sort_number": 821,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He zigs, he zags—what else do ya need? —Phil",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "120/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=ffcc502f4f9ea6179020c209068a862bb531e18e3786476b9712e6b54f8d06bd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=7875dc900f68e9027374f9bd39fc88ad6cd26abe1bf6e9e4f30c7c8c3f35c910"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=ed53dc5cfa923a6caeffac1ec1f437e79580c1f1846a02dd543232dd3c052bc2",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

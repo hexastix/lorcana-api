@@ -1,0 +1,37 @@
+{
+  "name": "Sous l'océan",
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Dylan Bonner",
+  "deck_building_id": "e81fec386fd1647801df51920cfaf2d60ad090b5",
+  "culture_invariant_id": 786,
+  "sort_number": 796,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "À l'unisson"
+  ],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "On fait carnaval tous les jours",
+  "rules_text": "À l'unisson 8 (Vous pouvez n’importe quel nombre de vos personnages ou de personnages de vos coéquipiers coûtant au total 8 ou plus pour chanter cette chanson gratuitement.) Remettez tous les personnages adverses avec 2 ou moins sous la pioche de leur propriétaire, dans l'ordre de votre choix.",
+  "card_identifier": "95/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=183b734eb6945a45f9e7a834fd896c07bc2d2f152a984e73e9b3df478aedaae8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=a5a5c326be3fa066dfae753147f8677cdf7129915b8acd7017aedb506acc5d0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=488d0c18a009c4f3586400ad46c5268d7ff82b1eac0593499455a8d53b542c9a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

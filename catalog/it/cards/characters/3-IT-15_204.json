@@ -1,0 +1,45 @@
+{
+  "name": "Peggy",
+  "subtitle": "Madre Devota",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Defne Tözüm / Livio Cacciatore",
+  "deck_building_id": "b1005675a4c65117f039b0b5707c31167707af7b",
+  "culture_invariant_id": 451,
+  "sort_number": 486,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Uso l’abilità Più Vivo Che Mai di Lucky – Quindicesimo Cucciolo e rivelo 2 personaggi che hanno costo 2 o inferiore. Posso scegliere di aggiungere solo uno dei due personaggi alla mia mano?\r\nA: No. Quando scegli quali carte aggiungere alla tua mano con l’abilità Più Vivo Che Mai di Lucky, devi aggiungere o tutti i personaggi rivelati che hanno costo 2 o inferiore, oppure nessuna carta.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "I suoi cuccioli la seguiranno ovunque.",
+  "rules_text": "VENITE VIA, PICCOLI Quando giochi questo personaggio e ogni volta che va all'avventura, puoi giocare gratuitamente un personaggio con costo 2 o inferiore dai tuoi scarti.",
+  "card_identifier": "15/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=7fffa0ecab6585bbe74a89ec93ee47af959676b902372f3661b48ebfab9645ba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=d6fbfd863a1d3ac280855b0a175e05340ba39fbb4d06e3132c7767ab53f47de4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cf694ff478b9d5c9189c4380877d6bf6132128d9bf43507b842a37156208ac1c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

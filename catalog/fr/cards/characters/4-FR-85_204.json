@@ -1,0 +1,41 @@
+{
+  "name": "Pat",
+  "subtitle": "Tricheur-né",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "2f8a8a1f35e467578c986936eff493b9b875b067",
+  "culture_invariant_id": 776,
+  "sort_number": 786,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mousquetaire"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE VAIS T'ÉCRASER! Si ce personnage a 5 ou plus lorsqu'il est envoyé à l'aventure, choisissez un personnage avec 2 ou moins et renvoyez-le dans la main de son propriétaire.",
+  "card_identifier": "85/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=68434baca49edf6f66efb91d20ab36ca5cdb2fb2c9a42ba0a5e8559cb22f3c41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=c1e2f69286ab5059c6c4ba426e68b169ee6b0a0bb41b5d90f3d4ecf2a74d330d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=25762ba837b7839449dec05889ad024e44a3f3b06ed27f5726b9021e47765685",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

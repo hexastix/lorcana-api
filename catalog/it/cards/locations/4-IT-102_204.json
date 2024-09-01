@@ -1,0 +1,37 @@
+{
+  "name": "Il Giardino di Ursula",
+  "subtitle": "Pieno di Anime Sole",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "bfdd7ccd7b6612d9bacfba22591df0987519db23",
+  "culture_invariant_id": 793,
+  "sort_number": 803,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ABBANDONARE OGNI SPERANZA Mentre hai un personaggio impegnato in questo luogo, i personaggi avversari ricevono -1.",
+  "card_identifier": "102/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=fa82c1334878de200bef2482c40e2dbe79c5d2c0bfaca0d1e0febb6485797f73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=51705841aab1b9f9da5b73f34516bf78c05ee047d224de26d2888a43ec3b0428"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=92b0f49bd66e6c081836f15ce757a11c1005045298cbb14106b35b968ba85739",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

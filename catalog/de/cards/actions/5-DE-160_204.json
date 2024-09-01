@@ -1,0 +1,33 @@
+{
+  "name": "Prophezeiung der Zukunft",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "0366689dbfdf33fe2cb12178345f2f0b38c13555",
+  "culture_invariant_id": 1116,
+  "sort_number": 1124,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wir müssen das Illuminarium reparieren bevor es zu spät ist. Und wir brauchen diese Geräte, diese Chromikons dafür.",
+  "rules_text": "Schaue dir die obersten 5 Karten deines Decks an. Nimm 1 davon auf deine Hand und lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "160/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=187462dfc688450aa1f67898b10e55c3e5b146fb4fd1c144d8a984c96e0be640"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=683ea9e354e44ebbb535ed4739f3117018d526f4e8f147fb90b729c62153984f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=980bcb73aec7f65250570f50ca17c19d8c1780c929d62869187fe30bb161aba8",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

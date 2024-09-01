@@ -1,0 +1,45 @@
+{
+  "name": "Re Candito",
+  "subtitle": "Dolce Abominio",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Lorenza Pigliamosche",
+  "deck_building_id": "5e50dc86485330fa31a424a5ef8789c56472efd4",
+  "culture_invariant_id": 1174,
+  "sort_number": 1182,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Re",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Re Candito.) MODIFICARE IL CODICE Quando giochi questo personaggio, puoi pescare 2 carte, poi metti una carta dalla tua mano in fondo al tuo mazzo.",
+  "card_identifier": "218/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=2165d8fe5d4084868e1712fdc6d019be285860c5fe8914256636087a1fc45906"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=f66956164471bf4c1f8c9ddc2965be3a67da4887c71493646dcebdf001afa8e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=7194d615ddc175626fc36844c7994333e780da578e0f1e2354c6f7b9ed74f403",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

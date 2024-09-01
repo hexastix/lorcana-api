@@ -1,0 +1,44 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Pilota del Gran Premio",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hyuna Lee",
+  "deck_building_id": "2483833c1a9722badae219f59fbfceff004e5d39",
+  "culture_invariant_id": 1080,
+  "sort_number": 1088,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) PIXELLESSICA Quando giochi questo personaggio, ottiene Sfuggente fino all'inizio del tuo prossimo turno. (Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "124/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=e0150a2e5f0bf3a3bd4c7148ebaff4b8c17af37fb39b2d9f5d2d8aa76674fee8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=bd1bcbeb6c1766cee66a439ceecf5387a758490bb5b93c45ed879017a6315980"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=c16013b58bc24d6d1f20373017b9322eb85dd330b0ab9aba1c68aff66085f42e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hälfte der Hexwell-Krone",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "John Loren",
+  "deck_building_id": "b811b3defd86d738200c72437085b562903d888b",
+  "culture_invariant_id": 1021,
+  "sort_number": 1029,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Die zerbrochene Krone verfügt über dunkle und geheimnisvolle Kräfte.",
+  "rules_text": "UNERWARTETER FUND , 2 – Ziehe 1 Karte. GEFÄHRLICHE MACHT , 2 , Wirf 1 Karte ab — Erschöpfe einen Charakter deiner Wahl.",
+  "card_identifier": "65/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=ab8d0db9d2ca5bd1e96d9fb11a951fdbfe652bafc451add7f3113d622d8416a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=894506d9e3c2110dc6df89a40d08d3b66259f6fec876deb8d091e753dd6b67ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=bd944e3425c761165fe612226c01b2d825dc7e35064a1ab422a25400290f25a2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

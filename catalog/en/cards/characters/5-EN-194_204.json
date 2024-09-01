@@ -1,0 +1,45 @@
+{
+  "name": "Arthur",
+  "subtitle": "King Victorious",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Anna Stosik",
+  "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
+  "culture_invariant_id": 1150,
+  "sort_number": 1158,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Arthur.) KNIGHTED BY THE KING When you play this character, chosen character gains Challenger +2 and Resist +2 and can challenge ready characters this turn. (They get +2 while challenging. Damage dealt to them is reduced by 2.)",
+  "card_identifier": "194/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=a668b8566dec581e59431d381aceb3ef4f6624d031f46caf2a7e6c91a3350a0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1020f73c64175b5647d22074431e79000d2792a96b7cfa1b7969df53988fd727"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1289129f73528aef89b3d17c2be2a79e1a4d4ce66d510bb3419d56f7ec85b2c6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

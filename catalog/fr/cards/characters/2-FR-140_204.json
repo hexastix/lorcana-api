@@ -1,0 +1,41 @@
+{
+  "name": "Basil",
+  "subtitle": "Enquêteur perspicace",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Roger Pérez",
+  "deck_building_id": "3a7f3f63e93f17ac109c273f404bb327b1e3421f",
+  "culture_invariant_id": 356,
+  "sort_number": 380,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Détective"
+  ],
+  "flavor_text": "Il n'y a aucun doute: quelque chose se trame dans le Grand Illuminarium.",
+  "rules_text": "",
+  "card_identifier": "140/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=ab067b391096fe93257f24bc73d77e5dff4fcc4cd4f77cb325bd3794dae28aa0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=e29f7233743439107b4a9d884447548929eba3da6bb88c41d6b9f9d2bc060f8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=29e2d0257f64c88b3fd0a58b84290c31eadcf799267d9d4e3be7f2d35164a642",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

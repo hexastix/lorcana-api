@@ -1,0 +1,41 @@
+{
+  "name": "Naseweis",
+  "subtitle": "Winzige Taktikerin",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "53e3a38f0b94170b6766ad77868a9a1f3f572889",
+  "culture_invariant_id": 194,
+  "sort_number": 194,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündete",
+    "Fee"
+  ],
+  "flavor_text": "Manchmal braucht man nur ein kleines taktisches Genie.",
+  "rules_text": "SCHLACHTPLÄNE — Ziehe 1 Karte. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "194/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=8cee03c6c1bc36fd01d874c3f686f30ff1afe579aa4d9e0cd99eba56b47bef9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=96a0a5b7ca479efd5ebf50dd43e54bece24df5b7605b5a67c331f862ef544e53"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=f8d5ba6af81a2cc7e8c47d50d8c90b27c95c6b05d583ab70bfa43aba500f28b1",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

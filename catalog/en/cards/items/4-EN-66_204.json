@@ -1,0 +1,35 @@
+{
+  "name": "Triton's Trident",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "4cac163f4d3f43aef8387cb36619d3521d9b290d",
+  "culture_invariant_id": 757,
+  "sort_number": 767,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Just imagine all this power in the wrong hands... —Ursula",
+  "rules_text": "SYMBOL OF POWER Banish this item — Chosen character gets +1 this turn for each card in your hand.",
+  "card_identifier": "66/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=d4163ad25cc131682b31c11e2068a75151a08bef18db0888261a724b2683036a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=7c6c3c17d99285d3d1e3030094c7d9e5fa143d58a4d85f58cf8809c333534e84"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4793f60193ff1093d36c1ac7ecc5c859651c6e8ca950d2510a54c0661c9e80fc",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

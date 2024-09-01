@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Dreaming Guardian",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Clio Wolfensberger",
+  "deck_building_id": "88f3b49fc2874d9eb1cb392887fe8c005c52bba9",
+  "culture_invariant_id": 213,
+  "sort_number": 213,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Aurora.) PROTECTIVE EMBRACE Your other characters gain Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "213/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=0b5c71ce6d2211244c576a5e3a460a9d3fc848324c6265652e2ea8b77889b025"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=3316c1af0b864ec17f189debb255998836475148369aabcd715de3f0180c02b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=be1fec3a499100cf0af1460bc64eea004d2ce00f9d3ad5644c9d76791d180fc7",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

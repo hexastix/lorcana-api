@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Rauflustiges Löwenjunges",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Agnes Christianson",
+  "deck_building_id": "b436bb8ce948a9539f8ff990a98d60b02b0a1b99",
+  "culture_invariant_id": 559,
+  "sort_number": 594,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Nach einem kleinen Imbiss wird er sich auf die Jagd nach Legenden begeben.",
+  "rules_text": "",
+  "card_identifier": "123/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=55c4f4bae349e08d6e277762e41cf6375c555edf7c1253f155ad9ffda121949d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=ad5fbb6db11b61fb66a570ce7e87d9cf11ffa442fad97f1537f32b314a459f66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=244dd18a84f24a669266edcb5c9d83108588fc5ed176a4ba355957b63190d202",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

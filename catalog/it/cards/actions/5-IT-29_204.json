@@ -1,0 +1,33 @@
+{
+  "name": "Invitato al Ballo",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "131285f868d7a8dcc13be15bf7ce5a95fa706fa1",
+  "culture_invariant_id": 985,
+  "sort_number": 993,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Rivela le prime 2 carte del tuo mazzo. Aggiungi le carte personaggio rivelate alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "29/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=0887b37504ac0ea625a6a2d06c6183383a09742ddd3176077c705e1920bc0d64"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=c9ed9c40c8147de9b956824894cfebf327236658437608f30b10c2a208907b88"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=363678ef4a2ea552106d6819fd05c671db455160c6ddf52a40b7d0d5efa6bdbf",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

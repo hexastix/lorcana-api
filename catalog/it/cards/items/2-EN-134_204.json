@@ -1,0 +1,38 @@
+{
+  "name": "Dinner Bell",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "b7177bb86d3f1a7a6cd295c806ef9d9a5af10448",
+  "culture_invariant_id": 350,
+  "sort_number": 374,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: Can I choose a character of mine with no damage counters on it for the You Know What Happens ability of Dinner Bell?\r\n\r\nA: Yes, you can. In this instance you would not draw any cards because there are no damage counters on the chosen character but you would still banish that character."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The delicate sound of impending doom.",
+  "rules_text": "YOU KNOW WHAT HAPPENS , 2 — Draw cards equal to the damage on chosen character of yours, then banish them.",
+  "card_identifier": "134/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=c94e2c9ebdf71f88a3e8b1e26b27db87caa070334941aa51383aad467ac82e92"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=557a49d8edfe9a259a980b084e1364bcce90849d0dbe4774bcc6ec26491571d5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=3d47880c5b38b10900a4467122a00404dc7b84a7e4045a721436649c25289f5d",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

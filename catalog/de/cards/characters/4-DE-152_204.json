@@ -1,0 +1,43 @@
+{
+  "name": "Prinz Phillip",
+  "subtitle": "Galanter Verteidiger",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "bb53658c9147113243c4c288f17f357b4f9b6cb3",
+  "culture_invariant_id": 843,
+  "sort_number": 853,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) BESTE VERTEIDIGUNG Jedes Mal, wenn einer deiner Charaktere mit Unterstützen ausgewählt wird, erhält er in diesem Zug Robust +1. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "152/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f37b620ee6661bdb70c0cf5754592a14563933774da9a34ae45df36dfc0e5203"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=aab12e0fd002a4d294f95cba53601bd16cdcc2c23b52fe3a1165813410bff92e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=0005a978102f6548b810fae4dbb85c2dd9bdcd559a000e5681afad5a82b5e076",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

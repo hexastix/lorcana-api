@@ -1,0 +1,41 @@
+{
+  "name": "VAIANA",
+  "subtitle": "de Motunui",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "0253f6c8757d9698e3b28f4f973b3ccc6d5bd4ae",
+  "culture_invariant_id": 14,
+  "sort_number": 14,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Je suis Vaiana de Motunui. Tu vas monter sur mon bateau, traverser la mer et restituer le cœur de Te Fiti.",
+  "rules_text": "NOUS ALLONS LE RÉPARER Lorsque ce personnage est envoyé à l'aventure, vous pouvez redresser vos autres personnages Princesse. Elles ne peuvent pas être envoyées à l'aventure pour le reste de ce tour.",
+  "card_identifier": "14/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=29b06058f8948a3bcaf4413abe2b5c44effb96906d057276da616655afcfe94d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=0c2e781e2ad81b7295cb99a73c7a80292691017661e1c56d5cce6a6d68f7ee16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d7dc133e53a5048d41463e4f628c1d379c017bd2ba5dafda424c1b9eab3eb1e7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

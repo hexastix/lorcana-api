@@ -1,0 +1,35 @@
+{
+  "name": "Invocateur d'encre caché",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Adam Fenton",
+  "deck_building_id": "9a55893ec9534cdf491712143ca14b5696e02b1f",
+  "culture_invariant_id": 952,
+  "sort_number": 929,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "On dirait qu'il est là depuis toujours.%—Polochon",
+  "rules_text": "ENCRE FRAÎCHE Lorsque vous jouez cet objet, piochez une carte. TRÉSOR INESPÉRÉ Toutes les cartes de votre main sont considérées comme ayant.",
+  "card_identifier": "36/P1 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=1875632e4831ad6fb523884df13de5d53b1bdefcdf66ac9d7b77d70112440a08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=9659ccb15e1991bc5a20551ebf69e92c92aed33145ec3ed7db79b1a79054b86e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=dc96f97cbe5736e29cd2e5bc39983e12d79fd768b1f6dc09e49172b3ad10a649",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

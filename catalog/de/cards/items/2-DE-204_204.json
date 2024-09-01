@@ -1,0 +1,33 @@
+{
+  "name": "Hantel",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Antonia Flechsig",
+  "deck_building_id": "f4a817b51d3a5cca4d03b98d0eddc55294471120",
+  "culture_invariant_id": 420,
+  "sort_number": 444,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Von Hercules höchstpersönlich empfohlen!",
+  "rules_text": "KRAFTTRAINING Jedes Mal, wenn du einen Charakter mit 4 oder mehr ausspielst, darfst du 1 bezahlen, um 1 Karte zu ziehen.",
+  "card_identifier": "204/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=be1b544331787b6b313e5ba43ff4ddc07debdf9577fcb889ebbd45f95c060347"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=940b689f78fcd9dde921dfce4170ad7b1538fa4ab1d0d7b2c40065b0d0b2d1cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=ea331142720b4c474e5d9e1e71f5b3128be5d75477f6ca2ede84f21db3ef945b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

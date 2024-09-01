@@ -1,0 +1,40 @@
+{
+  "name": "Maximus",
+  "subtitle": "Team Champion",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "5aa4a5a95aa496e560025d060007f42140401cae",
+  "culture_invariant_id": 1061,
+  "sort_number": 1069,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "It's easy to get carried away when it comes to tug-of-war.",
+  "rules_text": "ROYALLY BIG REWARDS At the end of your turn, if you have any characters in play with 5 or more, gain 2 lore. If you have any in play with 10 or more, gain 5 lore instead.",
+  "card_identifier": "105/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=f38edb1fdb6d9e5fd6d9500d20c42fc5fb9cd57c30ee16b1cf9d5aafaf91ec13"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=704bf174c570a991e65de5785f2ac38ec708e99edffb8fa4c430138b110ee718"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=cf408a99493a1ece534db7758fecec1a1d5acde192d4adc692d7cde09cb5b757",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

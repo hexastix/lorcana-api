@@ -1,0 +1,42 @@
+{
+  "name": "Little John",
+  "subtitle": "Fuorilegge Intraprendente",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "4956d247c5c7ffb227f85ae9fef3452d613bf2d5",
+  "culture_invariant_id": 614,
+  "sort_number": 649,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Little John.) OK, BUFFONE Mentre questo personaggio è impegnato, i tuoi personaggi con Guardiano ottengono Resistere +1 e ricevono +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "178/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=f10cdf5b2624fd5211623786041b519dee538389790488fe8fdae58f2890cc98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=68bfaf3849c27efcc0930fa354c62f627d9480027d0f2ce9746a8c204237d9c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=ebf3161d81a3b1aeeae7c8fe10ea601e6b40aab7029612ab6d411e9eb98363b9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

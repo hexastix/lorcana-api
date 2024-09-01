@@ -1,0 +1,33 @@
+{
+  "name": "Force hypnotique",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Giulia Riva",
+  "deck_building_id": "02fc9a9247b0b6880e17a7e30bd4b6da98fd0d70",
+  "culture_invariant_id": 1015,
+  "sort_number": 1023,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Soudain, Basil fut envahi du désir de trouver la Couronne brisée.",
+  "rules_text": "Piochez une carte. Choisissez un personnage qui gagne Offensif +2 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "59/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=a064e9fd881f94ee3c1d55722e8096d8580c7efa8ca94dd1e87ae3ddd3062c69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=df477be77760856fc17f31ca5be7f07d2cf05649246bbaea14aebe945709e9d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=3ceb112f20cac1cacddd82da14b008715b135a538ea19ba51180367fd5b29582",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

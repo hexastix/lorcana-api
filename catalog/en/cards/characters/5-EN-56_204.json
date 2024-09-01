@@ -1,0 +1,41 @@
+{
+  "name": "Anna",
+  "subtitle": "Eager Acolyte",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "c801dbdc4d416248bc9ca308a30a407246504470",
+  "culture_invariant_id": 1012,
+  "sort_number": 1020,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen"
+  ],
+  "flavor_text": "Okay, I can totally move small stuff. I need something bigger... Where's Kristoff's sled?",
+  "rules_text": "GROWING POWERS When you play this character, each opponent chooses and exerts one of their ready characters.",
+  "card_identifier": "56/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=0eec6fa0ecd0565ebd59dede167dbec47e969688d93552825b8f394089bd88cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=401b5f81092253b15144a9ff5c91cc0addbbad5d2b1f55c02a09ea8b7efafa7b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=a32e34796d11d8aec299b96b2b6df1a023bd91755ffc1b9703dfc41595628d69",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

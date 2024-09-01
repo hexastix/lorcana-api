@@ -1,0 +1,43 @@
+{
+  "name": "Belle",
+  "subtitle": "Vom Ball",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "c796ea97ede34aa2b1d64bb7ef28514ead03681f",
+  "culture_invariant_id": 1114,
+  "sort_number": 1122,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) IN DIE FEIER GELEITET Wenn du diesen Charakter ausspielst, erhalten deine anderen Charaktere bis zu Beginn deines nächsten Zuges Behütet.",
+  "card_identifier": "158/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=5d45ea3f082ec7dc80a835ccff78e77e1cdbefeb0a4e7c2560e3384625fffaef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=435af433931b9a3e1829f498183db02a0ef7edcb53c28fabdd604f7938bbe81e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=ea2cafb25c3817012000afb50b9970fa1ddc6d780c14839e97794c5283eb29b1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

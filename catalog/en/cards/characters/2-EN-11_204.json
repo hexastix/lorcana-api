@@ -1,0 +1,43 @@
+{
+  "name": "Happy",
+  "subtitle": "Good-Natured",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kendall Hale",
+  "deck_building_id": "0157bb5c2ecca10239adf522033e57b4905afa65",
+  "culture_invariant_id": 227,
+  "sort_number": 251,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Seven Dwarfs"
+  ],
+  "flavor_text": "You couldn't pick a better friend.",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "11/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=5852384226fb284f45b1461f6514ab229f991bca51cac656421e37936b2c54c4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=426b40a094b604a5dac5c01151655c6c64524c7ea429bdf33444821ad77d7dc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=7d8b7509eaf0bc2467d38216020b567e864b62d297c252669c8f295c47eac8d3",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

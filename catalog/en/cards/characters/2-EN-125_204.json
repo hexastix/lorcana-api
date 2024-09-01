@@ -1,0 +1,42 @@
+{
+  "name": "Scar",
+  "subtitle": "Vicious Cheater",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "e36200725d9e116115b62410d83a714d9c837c7a",
+  "culture_invariant_id": 341,
+  "sort_number": 365,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rush (This character can challenge the turn they're played.) DADDY ISN'T HERE TO SAVE YOU During your turn, whenever this character banishes another character in a challenge, you may ready this character. He can't quest for the rest of this turn.",
+  "card_identifier": "125/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=2d63afc045d83c56443a1c404de14083b5e5dace9c46e119d6a4b515e7d45a9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=2f78aaf355877d8a226789f00adef599fe8e159fe04069008ebee73e6ae6f999"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=c5dc97d38116ac20bc9b4e8829e4b0f945ce205928dc7d7bb4357eee15af16b7",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

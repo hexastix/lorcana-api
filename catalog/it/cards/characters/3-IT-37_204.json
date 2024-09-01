@@ -1,0 +1,40 @@
+{
+  "name": "Diablo",
+  "subtitle": "Famiglio Fedele",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Agnes Christianson",
+  "deck_building_id": "ed97dc8603ee549c8cb27492b9b46a29191afdaf",
+  "culture_invariant_id": 473,
+  "sort_number": 508,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Con un po' di magia potenziata dall'inchiostro, nulla sfugge alla sua vista.",
+  "rules_text": "IN CERCA DI AURORA Ogni volta che giochi un personaggio chiamato Malefica, puoi guardare la prima carta del tuo mazzo. Mettila in cima o in fondo al tuo mazzo.",
+  "card_identifier": "37/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=3e490515fcddeac45eb9ffcdd850349ceadd46a2198c907273ccdf75c8714c0e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=639642d8f170e250950c34631db849057b600fdbb8ba42e1abb506c292d83392"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=c9e317a0c1e2b72c141596cce087ce47a7145e3dca6afa181e8823b5c0cb9aca",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

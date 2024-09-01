@@ -1,0 +1,43 @@
+{
+  "name": "JOHN SILVER",
+  "subtitle": "Pirate extraterrestre",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "11558c64b32cb39749583bcfb6fd5638e6a0ea03",
+  "culture_invariant_id": 82,
+  "sort_number": 82,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Alien",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Surtout, te laisse pas impressionner par cette quincaillerie, l'ami.",
+  "rules_text": "CHERCHEZ LA BAGARRE Lorsque vous jouez ce personnage ou qu'il est envoyé à l'aventure, choisissez un personnage adverse qui gagne Combattant durant son prochain tour. (Il ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "82/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=88ca777acc0d4ec72a38e7ea7bb47e990bbd1f9f97ed4ae259a0a5d15213299b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=8aa0b4c2af2b1b5dec8a5a000ef70bf17b6033da4e4f7e25c0b2db23c2613205"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=003a62db372e1c49c672b673f5a58d774e94f818048006a5eaef9f56e2471009",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

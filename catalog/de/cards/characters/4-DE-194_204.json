@@ -1,0 +1,42 @@
+{
+  "name": "Yao",
+  "subtitle": "Soldat des Kaisers",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "277f711b5cc9107e8bae7d0ab1d79e8e08ca13f3",
+  "culture_invariant_id": 885,
+  "sort_number": 895,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ich werd dir so eine verpassen, das selbst deinen Ahnen noch der Schädel brummt",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.)",
+  "card_identifier": "194/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=ece6f289810e69cc335b3b5fdab8ebbca523aba8672d9cdd7be689b94d3ac50a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=aa5df2c6bc5daea992ec2607459d29ede0b60a7d1e45254f69537c4aad9999d5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=580cf97a2b08b7af8a4e3588d7d779f11888647fcdcf57c28dc55c3d818916b2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

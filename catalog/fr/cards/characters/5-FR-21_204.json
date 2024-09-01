@@ -1,0 +1,40 @@
+{
+  "name": "Ralph la Casse",
+  "subtitle": "Amiral Couche-culotte",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Hyuna Lee",
+  "deck_building_id": "90be88771bf33875d53ee455138650dd821cd7ba",
+  "culture_invariant_id": 977,
+  "sort_number": 985,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "S'il doit faire un discours sur la victoire, il restera bref.",
+  "rules_text": "LA MEILLEURE AMIE DU MONDE Lorsque vous jouez ce personnage, renvoyez une carte Personnage de votre défausse dans votre main. S'il s'agit d'un personnage Princesse, gagnez 2 éclats de Lore.",
+  "card_identifier": "21/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=80be7ea907384862f1eb073bb82c21125b0b2596454c78867358028655160d28"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=074f760999cd60bd6ab6e451182738c4a7363dfe3a5427f48abe7c42bbefd200"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d06f8ca2e13e1e1c8728d85e7f60d0097f8893754d024500cc2313acfb54d398",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

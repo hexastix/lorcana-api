@@ -1,0 +1,46 @@
+{
+  "name": "Principe Giovanni",
+  "subtitle": "Re Fasullo",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "4fe5203a587a4cc07595526f729193ba91b0f403",
+  "culture_invariant_id": 519,
+  "sort_number": 554,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Io ho 10 leggenda e il mio avversario ha 12 leggenda. Se vado all’avventura con il mio Principe Giovanni – Re Fasullo, che ha 2 {L}, posso usare la sua abilità Riscuotere le Tasse per far perdere 2 leggenda al mio avversario?\r\nA: No. Quando un personaggio va all’avventura, ottiene immediatamente leggenda pari al suo {L}. Questo significa che per poter attivare l’abilità Riscuotere le Tasse di Principe Giovanni – Re Fasullo per far perdere leggenda a un avversario, questo deve avere più leggenda di te dopo aver contato anche i 2 punti leggenda ottenuti dall’avventura del Principe Giovanni.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Principe"
+  ],
+  "flavor_text": "Fenomeno d'incapacità, nei libri di storia lui sarà...%—Sceriffo di Nottingham",
+  "rules_text": "RISCUOTERE LE TASSE Ogni volta che questo personaggio va all'avventura, ogni avversario con più leggenda di te perde 2 leggenda.",
+  "card_identifier": "83/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=1021190c9229f9b6517f4da1b1b32f44fcf6a55611dafc3322ef79eb227848a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=7ac5d0166bb52084c176535882af22847d37a8e3fc152ff81363ad3bf62b2622"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=4eca62cf5f48cab60e18c500cd42d0e953185030f9388f9064d3bd9a02aab449",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

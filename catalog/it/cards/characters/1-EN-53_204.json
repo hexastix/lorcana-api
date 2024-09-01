@@ -1,0 +1,40 @@
+{
+  "name": "Pascal",
+  "subtitle": "Rapunzel’s Companion",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Brian Weisz",
+  "deck_building_id": "b814a14e2ffdfc65f2f3431f069419dede125422",
+  "culture_invariant_id": 53,
+  "sort_number": 53,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "A true friend is always there for you, whether you can see them or not.",
+  "rules_text": "CAMOUFLAGE While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "53/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=0c857d2f480d0a0f2229191940d8718cbfa94228397eda833924fa5cde4cf20b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=9a7196d5154e405e39e5ae7d22d6e15b6d45e6a32c37274f5a9f11c1ef34a695"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=7bba993c4e10925c392e8aad6b350c76ba81cc0fc521b9b286d3ad6408b89635",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

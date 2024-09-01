@@ -1,0 +1,43 @@
+{
+  "name": "Happy",
+  "subtitle": "Gutmütig",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kendall Hale",
+  "deck_building_id": "0157bb5c2ecca10239adf522033e57b4905afa65",
+  "culture_invariant_id": 227,
+  "sort_number": 251,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Sieben Zwerge"
+  ],
+  "flavor_text": "Einen besseren Freund kannst du nirgendwo ausgraben.",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "11/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=f2ea7f50c0703e76fe35c2213d0667bf76608243e20e63347a5e9732976056f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=392be53e0ee4c5fb44b880808fd592c68bd8bf59156105e89f0b69d53a2e9135"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=46713116ce85806d3da17436bde69757e4322f810fbafe1dc9b43753999ecc7a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

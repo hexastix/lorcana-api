@@ -1,0 +1,40 @@
+{
+  "name": "Ludwig von Drake",
+  "subtitle": "Self-Proclaimed Genius",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Matt Chapman",
+  "deck_building_id": "d7e1108b37f8a0a012a164b49ae361f7ec8a9efe",
+  "culture_invariant_id": 1107,
+  "sort_number": 1115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "So you see, there’s a dark void at the edge of Lorcana. A complete absence of electromagnetic radiation! What’s it made of? I don’t know! The light’s just gone. Kaput!",
+  "rules_text": "",
+  "card_identifier": "151/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=65cdbab206ddfb8136cddd2d2b71996612e6b11dba9d0fd812d8f6c033c766b8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=be8e04f8860f28dffd7175881ae38394a05f1c5a91aa7f2b033c627ce2d137dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=260cc43df4b46966c02f51a40892ca5cefe174b86f4e8ba5676c659eae067d7a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

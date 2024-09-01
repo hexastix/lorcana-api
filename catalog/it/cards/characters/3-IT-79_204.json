@@ -1,0 +1,40 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Cartografo Brillante",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "b3b814e24ecb8a0f93f8872738ab7cc294d0fec5",
+  "culture_invariant_id": 515,
+  "sort_number": 550,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Credetemi, studiare geroglifici può davvero portarvi lontano!",
+  "rules_text": "",
+  "card_identifier": "79/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=6fbe7e8f4e0324bd03cc0d87ca95b2d6342fb3cec47ddc388a8b5487500e8e0a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=10781984e2634256dcc69e73e3c2e0ed218f050e4fa1bcf7a4a5558c241d84d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=fb7a7b64f75db3776bd1526031ea6959d5626884c5265b9d9ad2eaed32489156",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

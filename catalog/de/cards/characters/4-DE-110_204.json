@@ -1,0 +1,42 @@
+{
+  "name": "Khan",
+  "subtitle": "Geliebtes Ross",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Nicholas Kole",
+  "deck_building_id": "6b9d427c13f4bf6e25d74e6d6073361045e3d3af",
+  "culture_invariant_id": 801,
+  "sort_number": 811,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Leise wie ein Schatten und schneller als der Wind: Khan, der mächtigste Hengst.",
+  "rules_text": "",
+  "card_identifier": "110/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=015ab2b5f3d951c7ed0860edeab82b2f74f4bc6d084b68b9764f1e379229e973"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=3ce015e4620fd986d89eccd091d278789a98c71b0cdedc424ca6572c34de97c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=e8bf4ce7cf6d9e244f1281bd1a90a358a596a7e7e7e2a07872fd0ecfb4834983",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

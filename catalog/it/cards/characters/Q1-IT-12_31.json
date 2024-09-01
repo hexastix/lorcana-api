@@ -1,0 +1,39 @@
+{
+  "name": "Minni",
+  "subtitle": "Subacquea Stralunata",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "4ee51d93e13d4ebe640eb44752aa430fb7dd3afa",
+  "culture_invariant_id": 925,
+  "sort_number": 945,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Aggrovigliato",
+    "Eroe"
+  ],
+  "flavor_text": "La prima — nonché la migliore — dei miei glimmers aggrovigliati.%—Ursula",
+  "rules_text": "PRESENZA CONFONDENTE Quando giochi questo personaggio, ogni giocatore avversario perde 2 leggenda.",
+  "card_identifier": "12/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=484893032a11e27c6e2d6b5bff91244d364ad0b0115d581bfb52c4771913aeed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=4c7565970fd35d70f66471e99dd9f4d538b625b57112044aa47f7e76c8396792"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

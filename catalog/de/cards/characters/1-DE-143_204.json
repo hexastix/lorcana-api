@@ -1,0 +1,44 @@
+{
+  "name": "Tui",
+  "subtitle": "Respektierter Anführer",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Pirel",
+  "deck_building_id": "5ec21d0830840f21954cd2a68de6906e36a893ed",
+  "culture_invariant_id": 143,
+  "sort_number": 143,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "Du kannst dich immer auf die Kraft derer verlassen, die dich lieben.",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "143/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=d9cfe1692800696cfd8dd5c6f0363c91351ef63edea389a984716648a4c9b685"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=83b526e6bd7fba8918e60412e3cc0872840f27bcd78e3e141a7390ab7ae2d866"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2cf55e6b39a0b4c13680106a021e38a24c4476725155b12c631173cc2bf84638",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

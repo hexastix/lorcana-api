@@ -1,0 +1,41 @@
+{
+  "name": "Scar",
+  "subtitle": "Usurpatore Focoso",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "7d99fe23e8c2e603315ea08fde248d7d2782459a",
+  "culture_invariant_id": 122,
+  "sort_number": 122,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo"
+  ],
+  "flavor_text": "Consumato dalle fiamme dell'ambizione.",
+  "rules_text": "",
+  "card_identifier": "122/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=57d07b072f4357989f67e473ba83a80b9c3fe19de2420a3ca91bd148af384b34"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=c553cff2eb753e652a9b0fb8722748b8e492261cdb08aa47b3bc69ac418d1792"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=e4888126dad88158fa207495074c195449c21b1666b52f7d959fdad4d16001aa",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

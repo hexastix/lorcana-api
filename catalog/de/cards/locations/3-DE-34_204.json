@@ -1,0 +1,42 @@
+{
+  "name": "Tianas Palast",
+  "subtitle": "Jazz Restaurant",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "c279e0883210f8f220e5fe8ac1b7f74b5404072f",
+  "culture_invariant_id": 470,
+  "sort_number": 505,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich einen erschöpften Charakter mit Beschützen in Tianas Palast habe, kann ein gegnerischer Charakter irgendeinen meiner Charaktere herausfordern?\r\nA: Ja. Bei einer Herausforderung muss ein Charakter zuerst gegnerische Charaktere mit Beschützen auswählen, wenn möglich. In diesem Fall ist es jedoch nicht möglich, da der Charakter mit Beschützen durch Tianas Palast geschützt wird, daher kann der herausfordernde Charakter jeden anderen Charakter wählen, den er unter normalen Umständen auch herausfordern kann."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In New Orleans können Träume wahr werden.",
+  "rules_text": "AUSGEHEN Charaktere an diesem Ort können nicht herausgefordert werden.",
+  "card_identifier": "34/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=137a86d00a2a06c6ad59e0e33494aff8392ba8c339e168fca5e147c2f955f5cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=d1053a4e90f9aa45e6e6e7b0992848b582492f9e7d9682002e5d4036a3b757fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=f2269a214df93ebc22d7cf4e8703f8b400f0f34a3d5f51711fe06f17062e1d2d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

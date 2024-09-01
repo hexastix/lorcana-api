@@ -1,0 +1,41 @@
+{
+  "name": "MADAME DE GARDEROBE",
+  "subtitle": "Confidente de Belle",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "e8b7912c61ab4cfa9b8e401d6d8cf06846c4f12a",
+  "culture_invariant_id": 57,
+  "sort_number": 57,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Toujours présente quand tu as besoin du meilleur de la mode.",
+  "rules_text": "",
+  "card_identifier": "57/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=782dcf6d6c324e79feb4308a1bfe752773bd7a09731ec7a4fbde1cf91b91300b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=97e5545b7217e1430e1cfe858ea11835415307c589dc21e966207dbe4336b4db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=0c4fd7a074e05b85d6b741c93468ac369d42afada62701a4f4ec4f565f7a6818",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Prinz Eric",
+  "subtitle": "Grimmiger Bräutigam",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Jared Nickerl",
+  "deck_building_id": "48a3f71bd8d187da764325bd6fd1571a1e670515",
+  "culture_invariant_id": 926,
+  "sort_number": 946,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Verstrickt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "URSULAS WACHTPOSTEN Dieser Charakter kommt erschöpft ins Spiel. Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "13/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=8881637d54f5f48001a5117c83c8adc96c7029e1c43113596ef2891219afd3b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f6286b1b439e3933dab8406fe125387b413317a3a874c648f76cbea1b843665e"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

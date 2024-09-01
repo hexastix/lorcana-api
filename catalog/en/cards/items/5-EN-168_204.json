@@ -1,0 +1,33 @@
+{
+  "name": "Sapphire Chromicon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Dustin Panzino",
+  "deck_building_id": "2e9957576c0c2c349d09a69356f9ee57db0b41c7",
+  "culture_invariant_id": 1124,
+  "sort_number": 1132,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Knowledge is eternal. —Inscription",
+  "rules_text": "POWERING UP This item enters play exerted. SAPPHIRE LIGHT , 2 , Banish one of your items — Gain 2 lore.",
+  "card_identifier": "168/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=4811ddae7ba5eb4c32c1c711c03ce0f2e7678c7da99c289b0348e15ea81c0b42"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=03ed882f693e00dde8cfb2b5ece6e208450b68031ea3b3a6266a076c81232261"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=673f9e9a1f5584516857f833fb7f3c88ec91e26a5ad328633fbab799211cc1f5",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

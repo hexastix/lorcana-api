@@ -1,0 +1,41 @@
+{
+  "name": "Malefica",
+  "subtitle": "Incantatrice Vendicativa",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Aris Zentelis",
+  "deck_building_id": "4afe89c73c75c477fc902b884f141fa3cf0c5a95",
+  "culture_invariant_id": 1010,
+  "sort_number": 1018,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Evidentemente il mio invito è andato perso. Che peccato. Lasciate che vi aiuti con le decorazioni...",
+  "rules_text": "",
+  "card_identifier": "54/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=a3e857ff11dc0242667c83c97e9e61e7206dd9d8518bcc6553c2d880002bb6e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=f3c5e19f622cf88b269383959f3ddf3bd128a31f8a85bd51c67aa26be5cdeb03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=fa9b075b3fb9febc6c39904cf4e6cc630386cea0bc89bfeb74b2de9ed27a7bf0",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

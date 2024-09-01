@@ -1,0 +1,40 @@
+{
+  "name": "Daisy",
+  "subtitle": "Rendez-vous de Donald",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 1,
+  "author": "Francesco D'ippolito / Giuseppe di Maio",
+  "deck_building_id": "2ed178001e5757cae12c87f032cde03a7dc7948f",
+  "culture_invariant_id": 972,
+  "sort_number": 980,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "GROS LOT Chaque fois que ce personnage est envoyé à l'aventure, chaque adversaire révèle la carte du dessus de sa pioche. S'il s'agit d'une carte Personnage, il peut la prendre en main. Sinon, il la place sous sa pioche.",
+  "card_identifier": "16/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=a146d05ecca598beed8f68ce50ecee0e1965a69e789eb7aaf328d7859e943fed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=7d37e632a7eefbaa5b31dedd7818f83c6d05773105642e474e94b2472fe7ea16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=8b48f0889608c3ddb6b82ab470833d2a3dd8617115acc9885eab39c2213eab93",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

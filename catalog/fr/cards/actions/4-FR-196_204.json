@@ -1,0 +1,35 @@
+{
+  "name": "Ils cassent en deux comme je veux",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jennifer Park",
+  "deck_building_id": "fb56f29241ca17496d5e5417bca9cff146007bf3",
+  "culture_invariant_id": 887,
+  "sort_number": 897,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Toutes les missions les plus pénibles %sont pour moi car je suis indestructible.",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Bannissez tous les objets.",
+  "card_identifier": "196/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=3e793d6de1a9add88c057e8f96a1d68fc289e5dbec6407d832ce797cceef4052"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=31670ce188105b815761a30ac73585ea865540b12607a7232154f5a360410b50"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=26b4dc0a53f55d81b920f89e78bfea9c5c6b60a6329b93ac303f5aa6d4613822",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

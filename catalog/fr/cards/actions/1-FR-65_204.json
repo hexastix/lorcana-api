@@ -1,0 +1,36 @@
+{
+  "name": "Réflexion",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kevin Hong",
+  "deck_building_id": "50c0788f5b4c0f5b30affccb1bff25e00b788c33",
+  "culture_invariant_id": 65,
+  "sort_number": 65,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Perdu dans ces réflexions où mon âme s'égare.",
+  "rules_text": "(Vous pouvez un personnage coûtant 1 ou plus pour chanter cette chanson gratuitement.) Regardez les 3 premières cartes de votre pioche. Remettez-les sur le dessus de votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "65/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=1f185c1856070e941db687521942663c4c5d15f48b640e32afb39a83104c3e95"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=ea9516bf2e7e22ba94813cdd6fc4ce02a6ee000be75bd04ada9cdad4b517fda1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=3b8520f4a8d67935c21818eea2659d6eb9bd958739d3efa4178fdc6267a1a0f6",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "In Picchiata",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "b79271249a893d1000e32bdb11f4305ccf9defd7",
+  "culture_invariant_id": 564,
+  "sort_number": 599,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho usato l’abilità Aiutante di uno dei miei personaggi andati all’avventura per aumentare la Forza della mia Felicia – Always Hungry a 6 {S}. Posso giocare In Picchiata ed esiliare quella Felicia per esiliare un personaggio avversario con 5 {S} inferiore?\r\nA: Sì. Il personaggio che scegli di esiliare con l’effetto di In Picchiata deve avere meno Forza di quanta ne aveva il personaggio che hai esiliato con In Picchiata nel momento in cui lo hai esiliato. In questo esempio, potresti scegliere un qualsiasi personaggio avversario con 5 {S} o inferiore. \r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Esilia uno dei tuoi personaggi con Attaccabrighe per esiliare un personaggio a tua scelta con meno del tuo personaggio.",
+  "card_identifier": "128/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=44e433c396d45266dd6d3a862d41c3eaf10f9ef6638cb792df47da321c597374"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=d9b8a71b592a03f3173a4909be3694f2841ae23143d1fe23511794f70aecc7ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=03cb25ded57c7acfce51d05618f2db492c1779c267c027479a09dc335f00106b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

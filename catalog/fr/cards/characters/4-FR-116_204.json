@@ -1,0 +1,42 @@
+{
+  "name": "Mulan",
+  "subtitle": "Soldate blessée",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jared Mathews",
+  "deck_building_id": "bb7a79d70c819d07b5aa5eeea67d67b342b43405",
+  "culture_invariant_id": 807,
+  "sort_number": 817,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Elle n'abandonnera jamais.",
+  "rules_text": "BLESSURE AU COMBAT Ce personnage entre en jeu avec 2 jetons Dommage.",
+  "card_identifier": "116/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=5bd1e91684cbd6c501787030cbe57391c068b005f52cdc37876990674ca67439"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=c509a18b51a145418042cefd0beb6bb8d9f03c9bef17fb45f61fdc4779c9f638"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=66806ff4daa6f8b966ba3913a1d7d3c4b86d28023ecc0cbb738d136645212027",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

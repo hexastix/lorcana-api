@@ -1,0 +1,40 @@
+{
+  "name": "James",
+  "subtitle": "Parent modèle",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Hong",
+  "deck_building_id": "cdf205a53c5799da903a61cbd2d7679484a1306c",
+  "culture_invariant_id": 366,
+  "sort_number": 390,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "",
+  "rules_text": "NE PERDS JAMAIS, JAMAIS DE VUE Lorsque ce personnage est banni, vous pouvez placer cette carte dans votre réserve d'encre, face cachée et épuisée.",
+  "card_identifier": "150/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=4d2f714dd7879e822fe1cf12d23d15d2fc06e39a17327248707cbe9c30496f43"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=6718c2329f44c843ef28f7582800d7345b00781d8243c4fe892485ca0795d8da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=9e5307edd5ca81bf5ad988a0d536492b0f80fd84d3769de40d06f7eafbfa98af",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

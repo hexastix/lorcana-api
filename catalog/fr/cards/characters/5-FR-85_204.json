@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Reine diplomate",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Dylan Bonner / Celeste Jamneck",
+  "deck_building_id": "ccc44e0dfdc4c493db2af13ca258445a6e8d8e7b",
+  "culture_invariant_id": 1041,
+  "sort_number": 1049,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "DÉTERMINATION ROYALE Lorsque vous jouez ce personnage, vous pouvez payer 2 , pour choisir entre : • Chaque adversaire choisit une carte de sa main et la défausse. • Choisissez un personnage qui gagne +2 pour le reste de ce tour. • Choisissez un personnage ayant au moins un dommage sur lui et bannissez-le.",
+  "card_identifier": "85/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=f4741fc2e1a3df794039ff5831f60279c5b52b98204989b698bd68087c67c40e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=ca59aa38a3a8d827078b9e97be3582ed8b1e21550f984e42303e4190cf6c8c20"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=3f46605d83d59b41d2b2737a38b20dca2ed18c4b7083f8c284bcc8db5531bdc4",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9ada7a964599e084fbd34d5c52ae8bcdd51e438906e6fccdfac963b9adc831bb",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

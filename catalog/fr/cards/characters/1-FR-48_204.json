@@ -1,0 +1,41 @@
+{
+  "name": "MALÉFIQUE",
+  "subtitle": "Attendant son heure",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Grace Tran",
+  "deck_building_id": "8e5d2579bbefbbf47af0d10c5c66ccaf2c3e4a95",
+  "culture_invariant_id": 48,
+  "sort_number": 48,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Il ne faut jamais précipiter les choses, au risque de faire échouer le meilleur des plans.",
+  "rules_text": "",
+  "card_identifier": "48/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=5c80cb61a89721bf42bc07514e239783171eff3630482d269828a501a4c263bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=813f09f46837816e45ddb27dd0e0c5cf6ba4c14e3ee8439ef4b2c66a20e7b8ad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=e761ed2d70d2843f28e3a3df987e9f28ca94c93b9ad4608ce75fe03ff8752c42",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

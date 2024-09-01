@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Zukünftiger König",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Nicholas Kole",
+  "deck_building_id": "5de9049716db6093e203ad3ba87b04894b400848",
+  "culture_invariant_id": 188,
+  "sort_number": 188,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich werde der beste König sein, den das Geweihte Land je gesehen hat!",
+  "rules_text": "WEISST DU WAS? Wenn du diesen Charakter ausspielst, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "188/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=acaa8cf8766fc60347a6282f0fc081d3e7f25f842f7ae90c85e68857588fdb79"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=ce1ebfc49542f705409c84c5d44b037689233eab0bb505bc2c247dd3ff64eec1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=b7e068a14703574e32dffdb7586190c4ef42eb4f8c60e4651b9c3b7c26b1d15c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Flippige Höhlenforscherin",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Grace Tran",
+  "deck_building_id": "03cd2ba64edd0e7a28f0f078e1b44e0cff723283",
+  "culture_invariant_id": 619,
+  "sort_number": 654,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin"
+  ],
+  "flavor_text": "Sie wird sich von jedem Stress erhöhlen.",
+  "rules_text": "REISE Solange dieser Charakter an einem Ort ist, erhält er +2.",
+  "card_identifier": "183/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=df6a28cbe3aea279279a05321c6a24628c3915567843ee2e25ea1cd5bc86ad8f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=98840e8b39adcd1c34fe74ee2f30a8f36b3a9c7c9f37816a53793ce98ea330cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=926ce16006ab3e3ff5b1a46dc16dcb8a8eb0ec1e133edbea6d7a9811911ee4e4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

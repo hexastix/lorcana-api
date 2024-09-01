@@ -1,0 +1,37 @@
+{
+  "name": "Sherwood Forest",
+  "subtitle": "Versteck der Gesetzlosen",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "cb0b3f11503ac2065fa15cb7f7ee80a1d45319a9",
+  "culture_invariant_id": 1057,
+  "sort_number": 1065,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WALDHEIMAT Deine Robin-Hood-Charaktere können sich kostenlos zu diesem Ort bewegen. VERTRAUTES GELÄNDE Charaktere an diesem Ort erhalten Behütet und: „, 1 — Füge einem beschädigten Charakter deiner Wahl 2 Schaden zu.“ (Gegnerische Mitspielende können die Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "101/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=d5d418d0745765828f9e22709c99d6dc5a5066b5f6abed5f9a11a3303d782cd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=172113b831d9424fb9be8874f6c4dcc260d34927a4f1c3715ff6bea93fa1b16f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=3db4fb02b9fd6d0a7167f58a2e58cc67081579e8648929d67b3180f68b97988f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

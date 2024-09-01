@@ -1,0 +1,42 @@
+{
+  "name": "Anna",
+  "subtitle": "Soeur prise au piège",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Dustin Panzino",
+  "deck_building_id": "e5e2f18ec74cf99d35ffb1156cb3e0d369d06625",
+  "culture_invariant_id": 914,
+  "sort_number": 934,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Envouté",
+    "Héros",
+    "Reine"
+  ],
+  "flavor_text": "Ah, ces souverains! Si beaux. Si naïfs. Si facilement impressionnables.%—Ursula",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "1/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=de2bd2ad834607d26035deb6b9d85e928e6974a40947d384699ab9cc262d54cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=b035ddecd4ae8ea3d059433bd98bfe616e894cfb85d4d8f5c67ef389d5a37b5c"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

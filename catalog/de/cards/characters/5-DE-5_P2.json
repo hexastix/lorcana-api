@@ -1,0 +1,44 @@
+{
+  "name": "Chicha",
+  "subtitle": "Hingebungsvolle Mutter",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "5e3fa2a8aeb1d42d259f76ba44d01ee2b3db912c",
+  "culture_invariant_id": 1184,
+  "sort_number": 1192,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) EINS UNTERWEGS Jedes Mal, wenn du in deinem Zug 1 Karte in deinen Tintenvorrat legst, falls es die zweite Karte ist, die du in diesem Zug in deinen Tintenvorrat gelegt hast, darfst du 1 Karte ziehen.",
+  "card_identifier": "5/P2 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=29334fffd61fedf501c57373e20935cd08d3eb50746a18cc4b43ef6667e2ddb1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=3d514b8e75669199047b72c09fbb6da96491abaef3bb0c2ed4117a1b01486a4d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=1334c899c81a6650bee78086486ea9c5129cf216daea7f24d78d95c9f30d8c5d",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

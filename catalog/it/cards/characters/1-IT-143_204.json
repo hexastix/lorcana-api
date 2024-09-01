@@ -1,0 +1,44 @@
+{
+  "name": "Capo Tui",
+  "subtitle": "Leader Rispettato",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Pirel",
+  "deck_building_id": "5ec21d0830840f21954cd2a68de6906e36a893ed",
+  "culture_invariant_id": 143,
+  "sort_number": 143,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "Puoi sempre fare affidamento sul sostegno di coloro che ti vogliono bene.",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "143/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=0fb3db3e5bd93fdac619166cca1af8867b63fb99c74052d1967dc5a12abe6fe1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=e62056cb1e9477fd993ab2508ee9b17d43af6139ad75346032350c047940b36f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2471729af98a21fc72962bab0c2c7f58065df1e64b709ae805a5bbf4c56c52c1",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

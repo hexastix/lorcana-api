@@ -1,0 +1,48 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Musketier",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "222a49ab00ebfa5c98e9df4f600b676cbbeb4f6d",
+  "culture_invariant_id": 186,
+  "sort_number": 186,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Musketier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) ALLE FÜR EINEN Deine anderen Musketiere erhalten +1.",
+  "card_identifier": "186/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=11ff3c1e919ddc62532b5a7ad0a660308102ec093ea73c785e7c0a10ebd272ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=74f6cd53023fbca26cd3456cec938271459c2d52db06a44ec22c2dca9528e64b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=abd74063bf2753fca478183873c95589ae2b4915a4a657cd943ae314a6c1ea98",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Stitch",
+  "subtitle": "Rock Star",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 23,
+  "sort_number": 23,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: Say I have Stitch – Rock Star in play and a cost 3 character in my hand. If I use Lantern so I can pay 1 {I} less to play that character, can I then exert them to draw a card?\r\n\r\nA: It’s not the cost of the character you play that’s reduced by Lantern; it’s the amount you have to pay. The new character’s cost would still be 3, so they wouldn’t qualify to be a fan of Stitch.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "The best part about a beachside concert is that there’s always room for one more.",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Stitch.) ADORING FANS Whenever you play a character with cost 2 or less, you may exert them to draw a card.",
+  "card_identifier": "23/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=bcc096f8eede5c22bc649aa6a6849d587bb6495b4f75caf7119920fb8844fb35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=eef8d0e89c0a237fa97dcf098401e6ac49a6f33d254a9cc9a728077e91be0d2f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=533609ad0a3d7b1ac1e2400f155d16e5ba94857fca344d11f2acd467137614d5",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "ALADDIN",
+  "subtitle": "Hors-la-loi héroïque",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "cfc67a48052e7fe6021c909c8e07562aba8240e6",
+  "culture_invariant_id": 104,
+  "sort_number": 104,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Aladdin.) EXPLOIT AUDACIEUX Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous gagnez 2 éclats de Lore et chaque adversaire en perd 2.",
+  "card_identifier": "104/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=821270283c9b8184d1a31535d0ba46562fb4d9b29365e163cfe00670446632ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=337389349dcc554646fc94c2a4f3005e91188c40bf23457adeeb53d41a96fc24"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=13af492004fceb2e47989920ae7b089dfad40c2a99ab2f5a9b538de7b2b6a089",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

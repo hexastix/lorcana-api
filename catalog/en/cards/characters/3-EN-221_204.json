@@ -1,0 +1,43 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Champion of Sherwood",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Noukah",
+  "deck_building_id": "dae8c3a792a698cb6ccee25e5671d6b03e79414c",
+  "culture_invariant_id": 657,
+  "sort_number": 692,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Robin Hood.) SKILLED COMBATANT During your turn, whenever this character banishes another character in a challenge, gain 2 lore. THE GOOD OF OTHERS When this character is banished in a challenge, you may draw a card.",
+  "card_identifier": "221/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=1ecbd95104f33d0dba915a9b864b6720204c700bc31f38f67c10e46c6195671b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=c6776846770e91f9368562ae8eb0fb507216e02bc998bf97f53c3ab14eb069a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=968c389c0a62a061916dc00d6ac0b455b3b71545f1555d14a3600074708e86f4",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

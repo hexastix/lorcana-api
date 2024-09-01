@@ -1,0 +1,337 @@
+{
+  "card_sets": [
+    {
+      "name": "The First Chapter",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=7c5297b5-a06a-4928-83d1-c344d44e9606",
+      "id": 1,
+      "sort_number": 1,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Rise of the Floodborn",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=7b1b6ef3-4e79-4c08-848e-7328a8860207",
+      "id": 2,
+      "sort_number": 2,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Into the Inklands",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/56fa945edb2310c3b4797ea856f0d32711186616.png?checksum=f84fcbda-8bec-4195-9421-5e430205ccbb",
+      "id": 3,
+      "sort_number": 3,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Ursula's Return",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/d7a5abb696bf6dfd0e824386bfa452d0c4ad2a8f.png?checksum=9fd09318-c072-4a95-8828-9fcce73fb17c",
+      "id": 4,
+      "sort_number": 4,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Shimmering Skies",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/a4f8b4e794b8dcf9b9801afbfa6688102f7f6e26.png?checksum=d07ebcdd-1262-402e-846e-870e3a471a62",
+      "id": 5,
+      "sort_number": 6,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Illumineer's Quest Deep Trouble",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quests/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=06112b58-ade0-490d-aa66-2b368d56eb1c",
+      "id": 6,
+      "sort_number": 5,
+      "type": "QUEST"
+    },
+    {
+      "name": "Gateway",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quests/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=5922dbe3-5cd7-49ae-808e-91b8fab5c3de",
+      "id": 7,
+      "sort_number": 7,
+      "type": "QUEST"
+    }
+  ],
+  "search_filters": {
+    "item_subtypes": [],
+    "action_subtypes": [
+      {
+        "term_in_search_filter": "Song"
+      }
+    ],
+    "location_subtypes": [],
+    "character_subtypes": [
+      {
+        "term_in_search_filter": "Storyborn"
+      },
+      {
+        "term_in_search_filter": "Dreamborn"
+      },
+      {
+        "term_in_search_filter": "Floodborn"
+      },
+      {
+        "term_in_search_filter": "Alien"
+      },
+      {
+        "term_in_search_filter": "Ally"
+      },
+      {
+        "term_in_search_filter": "Broom"
+      },
+      {
+        "term_in_search_filter": "Captain"
+      },
+      {
+        "term_in_search_filter": "Deity"
+      },
+      {
+        "term_in_search_filter": "Detective"
+      },
+      {
+        "term_in_search_filter": "Dragon"
+      },
+      {
+        "term_in_search_filter": "Entangled"
+      },
+      {
+        "term_in_search_filter": "Fairy"
+      },
+      {
+        "term_in_search_filter": "Hero"
+      },
+      {
+        "term_in_search_filter": "Hyena"
+      },
+      {
+        "term_in_search_filter": "Inventor"
+      },
+      {
+        "term_in_search_filter": "King"
+      },
+      {
+        "term_in_search_filter": "Knight"
+      },
+      {
+        "term_in_search_filter": "Madrigal"
+      },
+      {
+        "term_in_search_filter": "Mentor"
+      },
+      {
+        "term_in_search_filter": "Musketeer"
+      },
+      {
+        "term_in_search_filter": "Pirate"
+      },
+      {
+        "term_in_search_filter": "Prince"
+      },
+      {
+        "term_in_search_filter": "Princess"
+      },
+      {
+        "term_in_search_filter": "Puppy"
+      },
+      {
+        "term_in_search_filter": "Queen"
+      },
+      {
+        "term_in_search_filter": "Racer"
+      },
+      {
+        "term_in_search_filter": "Seven Dwarfs"
+      },
+      {
+        "term_in_search_filter": "Sorcerer"
+      },
+      {
+        "term_in_search_filter": "Tigger"
+      },
+      {
+        "term_in_search_filter": "Titan"
+      },
+      {
+        "term_in_search_filter": "Villain"
+      }
+    ],
+    "character_abilities": [
+      {
+        "term_in_search_filter": "Bodyguard"
+      },
+      {
+        "term_in_search_filter": "Challenger"
+      },
+      {
+        "term_in_search_filter": "Evasive"
+      },
+      {
+        "term_in_search_filter": "Reckless"
+      },
+      {
+        "term_in_search_filter": "Resist"
+      },
+      {
+        "term_in_search_filter": "Rush"
+      },
+      {
+        "term_in_search_filter": "Shift"
+      },
+      {
+        "term_in_search_filter": "Singer"
+      },
+      {
+        "term_in_search_filter": "Support"
+      },
+      {
+        "term_in_search_filter": "Ward"
+      }
+    ],
+    "item_abilities": [],
+    "action_abilities": [
+      {
+        "term_in_search_filter": "Sing Together"
+      }
+    ],
+    "location_abilities": []
+  },
+  "special_rarities": [
+    {
+      "name": "Challenge",
+      "id": 3
+    },
+    {
+      "name": "Promo",
+      "id": 1
+    },
+    {
+      "name": "Scenario",
+      "id": 2
+    }
+  ],
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
+  "news": [
+    {
+      "title": "Ursula's Return",
+      "subtitle": "New Stories",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/ursula",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "Challenge Toronto!",
+      "subtitle": "Read Article",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/events_challenge2024_toronto_announcement",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
+    },
+    {
+      "title": "News from D23!",
+      "subtitle": "Read Article",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/events_d23-2024",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=648995f6277501815bd28d81fe861060fc12f6872f8cbf8245337fafb75514c8"
+    },
+    {
+      "title": "App Update",
+      "subtitle": "Learn More",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/set5-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=c0e9afa219cf3d0f5ccb05e51a78c8dd9d8fff619eb4036d3b7d3411ba340c7d"
+    },
+    {
+      "title": "Artist Spotlight ",
+      "subtitle": "Nicholas Ky",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/artist_spotlight_s5_nicolas-ky",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
+    },
+    {
+      "title": "Errata Update",
+      "subtitle": "Changes to Shimmering Skies",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/july2024-errata",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
+    },
+    {
+      "title": "Lorcana at Gen Con",
+      "subtitle": "Learn More",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/gencon2024-details",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=a5024278c1ff72f94978c0f5346c151bb2839db81d35efde59857a2627c723a4"
+    },
+    {
+      "title": "Deep Trouble",
+      "subtitle": "New Lore Counter!",
+      "target_type": "LoreCounter",
+      "target_object": null,
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "New Set...",
+      "subtitle": "Ursula's Return",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/product/ursulas-return",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
+    },
+    {
+      "title": "New Event",
+      "subtitle": "Lorcana Challenge",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/challenge-announcement",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
+    },
+    {
+      "title": "COMPETE IN…",
+      "subtitle": "Set Championships",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/inklands-championships",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
+    },
+    {
+      "title": "First Look",
+      "subtitle": "Card Previews",
+      "target_type": "SearchResults",
+      "target_object": {
+        "expansions": [
+          "Into the Inklands"
+        ]
+      },
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
+    },
+    {
+      "title": "Announcing",
+      "subtitle": "Into the Inklands",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news/s3-announcement-1",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=88818757298da1212cff649b9b4bfd1542e711277abd945e390ed0b0f6ffdb49"
+    },
+    {
+      "title": "Floodborn",
+      "subtitle": "Mass release",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news/s2mass_release",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=8c77d3882abd2b21e4f5ec7b56bd3b08991d1cd33cf34d908d4502e0a781d8b6"
+    },
+    {
+      "title": "ENCHANTED",
+      "subtitle": "New Rarity",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/enchanted-reveal",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
+    },
+    {
+      "title": "TEASER",
+      "subtitle": "THE STORY BEGINS",
+      "target_type": "WebPage",
+      "target_object": "https://youtu.be/74nOdRwf92c",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=94d94c056ddd7905dc74f6166f64577027053f025fe4a26cbb785d97b2925b1e"
+    },
+    {
+      "title": "Sign Up!",
+      "subtitle": "Play Events",
+      "target_type": "WebPage",
+      "target_object": "https://melee.gg/Lorcana",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
+    }
+  ]
+}

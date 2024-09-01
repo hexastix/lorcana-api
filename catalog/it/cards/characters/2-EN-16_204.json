@@ -1,0 +1,48 @@
+{
+  "name": "Mulan",
+  "subtitle": "Reflecting",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lissette Carrera",
+  "deck_building_id": "dba0b0c949ec8f04e71f20cf8f771c414b558411",
+  "culture_invariant_id": 232,
+  "sort_number": 256,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: I quest with my Mulan- Reflecting and use her Honor to the Ancestors ability. The card on the top of my deck is a copy of Be Prepared and I chose not to play that card. What happens to the card in this case?\r\n\r\nA: The card is returned to the top of your deck. Even if the card is a song card as long as you choose not to play it then the card is returned to the top of your deck, face down.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named Mulan.) HONOR TO THE ANCESTORS Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck.",
+  "card_identifier": "16/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=aa3b645d04472c6dad114bafd3830626700aaa230bd8c8eb3dce500e35dc1479"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=265c2d254ba237cd4d6210889910e4612ea4935a5c23254583c20b233e0ace8b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=42cf8cad1674070570d12284fd7d972e1261a75600165018a94a0913cfe590ff",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

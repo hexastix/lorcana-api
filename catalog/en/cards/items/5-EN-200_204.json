@@ -1,0 +1,33 @@
+{
+  "name": "Shield of Arendelle",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "629ec024c2e311b02a232a0ba846ef924eb73d12",
+  "culture_invariant_id": 1156,
+  "sort_number": 1164,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DEFLECT Banish this item — Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "200/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=813a4d63a29d83dac3203dd4e156f1433fef48829343d9984a441bc04efe9bec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=8354b48bc9db4cb7d41bef3759e2f8baae75d376eea3d75ccc095ac63d086455"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=0294b9261e26323092cb4fc6330faf05e5bcc2484045bea7a520b4ce649f2e21",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Prinz Eric",
+  "subtitle": "Ursulas Bräutigam",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "e529775247b312583f7d987816f1a0041efaf5ad",
+  "culture_invariant_id": 713,
+  "sort_number": 723,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Prinz-Eric-Charaktere auszuspielen.) IN VANESSAS BANN Solange du mindestens einen Ursula-Charakter im Spiel hast, erhält dieser Charakter +2 und Beschützen. (Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "22/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=6032f30b34f1d70f18e99ee8811f59742ee2691525a6f1d1451e492f637c6692"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=3ce07b8ace1bded594c26ef037b2271a49b5789b1f56d740e4205a1060abc088"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=cb01cf73988c8ff06556156074103d4c7cc69373091dc752dca8a7bf9bd5fa9f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Great Mouse Detective",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "f3066e534c839456566a4571a3fe088026b39ce7",
+  "culture_invariant_id": 354,
+  "sort_number": 378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Detective"
+  ],
+  "flavor_text": "A solution always presents itself.",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Basil.) THERE'S ALWAYS A CHANCE If you used Shift to play this character, you may draw 2 cards when he enters play.",
+  "card_identifier": "138/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=2bc9461e2b51498a471bd30be9c7e402d1e3749e52460a822b9b4316a5206437"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=5a5094248fe8427c802361c53f6a1f602225b968f1ae5b43317b94c4a1a3aa54"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=e4606aaf77182546ab18490dd015c2c9c93612f6cf926350de26812bfc698adc",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

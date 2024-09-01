@@ -1,0 +1,33 @@
+{
+  "name": "Rose mystique",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Olivier Désirée",
+  "deck_building_id": "c4c4f0e3ace8d22946df975891f7711d501b13c5",
+  "culture_invariant_id": 755,
+  "sort_number": 765,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L'encre représentait le dernier espoir de Belle de soigner la Bête. Sans avoir d'autre choix, elle tendit la main vers elle...",
+  "rules_text": "DISSIPER L'ENVOUTEMENT Bannissez cet objet – Choisissez un personnage La Bête qui gagne +2 pour le reste de ce tour. Si vous avez un personnage Belle en jeu, choisissez un personnage et déplacez jusqu'à 3 de ses jetons Dommage sur un personnage adverse de votre choix.",
+  "card_identifier": "64/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=cfb1534d940176e9ebe24bd43bd5796a0bb122f4d5cb7490e2cfce62724ac854"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=9451910b64508c37834b6525c040211a150dc3a8690db3aeda7153127d82d150"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fa7fa510c0eabec254957473238ef87a1b5fbfbbf128268ff46aa524ccf66316",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Flora",
+  "subtitle": "Buona Fata",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Eri Welli",
+  "deck_building_id": "2748ac33fb9196c968a8b393fdd03e40908589e4",
+  "culture_invariant_id": 1031,
+  "sort_number": 1039,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Fata"
+  ],
+  "flavor_text": "Non preoccuparti, cara! Basta un tocco di bacchetta per trasformare questi rovi in qualcosa di bello.",
+  "rules_text": "RIDICOLAGGINE Mentre viene sfidato, questo personaggio riceve +2.",
+  "card_identifier": "75/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=6b5a125af96ccd836e46ebb96968770ba29df6c00fdb09a3acbfdcd5cdb55a5b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=00231164e93db5b88cc3d0b9e1c7de86fe39e574e3264ce369153c0092e2b73d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=2f4e1cfd9975fe1b638eb244a18ba76deebd799e9b07084b5fd36f70443f8fc2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

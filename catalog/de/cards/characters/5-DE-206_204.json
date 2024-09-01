@@ -1,0 +1,45 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Sugar Rush Prinzessin",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Natalie Dombois",
+  "deck_building_id": "6587479529519fdd93c24cecd1d0c2d05d2524b1",
+  "culture_invariant_id": 1162,
+  "sort_number": 1170,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinzessin",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Vanellope-von-Schweetz-Charaktere auszuspielen.) ERKLÄRE ICH HIERMIT Jedes Mal, wenn du eine andere Prinzessin ausspielst, gib allen gegnerischen Charakteren bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "206/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=b282cb47579284b4680d251aa4349eaa6b67228d8cb0f894698e406c6fe9e51d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=740f99ff0e9684849ceed9001b5815601d3cfd111d74b245229510f712e71fe0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=a05a36a1a1f5ff2877c547cb191607b1bca0efe586e60ba34c78e6281bf2ee0d",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Paperino",
+  "subtitle": "Lanciatore di Torte",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Gabriel Quinn",
+  "deck_building_id": "92fccc7cdd7f354c194d3872d469ff147c33e442",
+  "culture_invariant_id": 1170,
+  "sort_number": 1178,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Cavaliere"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Paperino.) TORTA DI UMILTÀ Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, ogni avversario perde 2 leggenda. PAPERO IRACONDO Mentre un avversario ha 10 o più leggenda, questo personaggio riceve +6.",
+  "card_identifier": "214/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=bc0a99df6d0aab0de0fa326833c33f079954f9586b2a82da2ba187ac06a2f513"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=2b2994af083f1814390873723c263b7658ba8d716797cf3ab2c293c9d190c717"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=d022f46089702d172cc7ff4ccafbb63122343bc28c28c9d0b413f650dbbfb2db",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

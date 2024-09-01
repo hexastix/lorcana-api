@@ -1,0 +1,42 @@
+{
+  "name": "Yen Sid",
+  "subtitle": "Mächtiger Zauberer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Alan Batson",
+  "deck_building_id": "1aa8732475a085d134487bd92f161c07bcdcbb3e",
+  "culture_invariant_id": 900,
+  "sort_number": 910,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "RECHTZEITIGES EINGREIFEN Wenn du diesen Charakter ausspielst und einen Zauberbesen-Charakter im Spiel hast, darfst du 1 Karte ziehen. ARKANES STUDIUM Solange du mindestens 2 Zauberbesen-Charaktere im Spiel hast, erhält dieser Charakter +2.",
+  "card_identifier": "209/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e61a97ca285a9ed37e61777559850755696efcd3967e99553ee06ba5e1bcdf75"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=3ac4619e379aa25fe924f2722c77c1d543e4e9fef1ae5f39b98c545b5940bb4c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=87b638e38e9377e3b8e54a902554047eb72b615efde48bf1426ab9f85411bd2a",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

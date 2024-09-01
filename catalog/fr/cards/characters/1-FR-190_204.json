@@ -1,0 +1,41 @@
+{
+  "name": "SIMBA",
+  "subtitle": "Héritier légitime",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "867f1aaf903530b9c3ec81d29e0e6c7a78f9725e",
+  "culture_invariant_id": 190,
+  "sort_number": 190,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Je ne peux me cacher indéfiniment. Il est temps d'accepter mon destin.",
+  "rules_text": "JE SAIS CE QUE JE DOIS FAIRE Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous gagnez 1 éclat de Lore.",
+  "card_identifier": "190/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=486a9b70a97228a1da2c2f5d0c4f59a6fe70aa6e04fc0ce5d07cc6b5073ffbb4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=dae679f1e84c1d5b8c6a8d8529a28ed2580b26b63bed5a05a136a97da30a0ff9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=c200b52b4c3f7f14b7c52dbb89c41d6eb9e96aea0afa051021ec791acb5ca466",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

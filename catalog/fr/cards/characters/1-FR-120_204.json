@@ -1,0 +1,42 @@
+{
+  "name": "PONGO",
+  "subtitle": "Sacripant",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "0b91137c16607aa4f8e758e7b1ffc78257c42cd4",
+  "culture_invariant_id": 120,
+  "sort_number": 120,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "À vrai dire, je n'avais établi aucun plan… enfin je…, je cherchais à attirer l'attention. Vous savez… histoire de créer une ambiance.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "120/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=f7ecc109cba5be24df5e3945bfd968e21a825473bbf138659410ac2f6d4ef462"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=cf08783220ea5771dc8e2d0de7c1352c2bcbfdf895047fd6c4fc66d51e575b72"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=61f3b6079d4e9b1746b371b3ce7e246965ae7af3920c63a1b03e417e42071e54",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

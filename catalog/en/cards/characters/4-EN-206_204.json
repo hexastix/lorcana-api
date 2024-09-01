@@ -1,0 +1,44 @@
+{
+  "name": "Minnie Mouse",
+  "subtitle": "Musketeer Champion",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "cafbe429486948b0c90695e0d88422c1815a0ad8",
+  "culture_invariant_id": 897,
+  "sort_number": 907,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Musketeer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) DRAMATIC ENTRANCE When you play this character, banish chosen opposing character with 5 or more.",
+  "card_identifier": "206/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=320b461a2007a7aae266fc4047a4290721e3f5c7b3df90efde3bd2ba98010903"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=f6d9971d6f0ded02410cd1378c11f114745d344b095b257b7f2249ac7f185649"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=80e8c413d5351dedbccc12b881c0e83b6447757050bfd0ada2a02b947c90c832",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

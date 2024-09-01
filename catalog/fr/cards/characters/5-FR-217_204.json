@@ -1,0 +1,42 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Souverain du Rocher des Lions",
+  "strength": 4,
+  "willpower": 9,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Jochem van Gool",
+  "deck_building_id": "97ba44b060278c8f2f5f75a9a77b64ea977369c1",
+  "culture_invariant_id": 1173,
+  "sort_number": 1181,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "UN ÉQUILIBRE DÉLICAT Lorsque vous jouez ce personnage, épuisez toutes les cartes de votre réserve d'encre. Ensuite, renvoyez 2 cartes au hasard de votre réserve d'encre dans votre main. CETTE IMMENSITÉ BAIGNÉE DE LUMIÈRE Chaque fois que ce personnage est envoyé à l'aventure, redressez toutes les cartes de votre réserve d'encre.",
+  "card_identifier": "217/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=48cd8cf5bba74a1ed45ef54f4a7b9af74dec84eecc9102fe418523eee7c19b94"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=19c606e3162b2d4a57fb362a691c309444459e5e56cf20ea930adedf6bb655f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=6b54b14f4c2975bd864a24e5fd9699ae282b8d01174b6050350865ec636cdecb",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

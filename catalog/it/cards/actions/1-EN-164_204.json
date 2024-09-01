@@ -1,0 +1,35 @@
+{
+  "name": "One Jump Ahead",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Bill Robinson",
+  "deck_building_id": "fbc3343ba157343b6f977e1486027bbe0b7ab1f7",
+  "culture_invariant_id": 164,
+  "sort_number": 164,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Gotta eat to live, gotta steal to eat— Tell you all about it when I got the time",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Put the top card of your deck into your inkwell facedown and exerted.",
+  "card_identifier": "164/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=3c9d92d33e335a5901bc7b50965fd28015bf3dec62e636330644c086bd271e31"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=e5b2520bab4b2df543a6346d783a58c8e1942cf9bf44115f3513a0eb61ccfd14"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=fb605a9ef4ce47acb4b865d3ca1dcad8746aefbb3e29bac911a3ffd2a5bb65bd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

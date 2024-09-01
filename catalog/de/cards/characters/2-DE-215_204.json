@@ -1,0 +1,46 @@
+{
+  "name": "Hercules",
+  "subtitle": "Göttlicher Held",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "1372c6d5229587e89693707e53401c018887b762",
+  "culture_invariant_id": 431,
+  "sort_number": 455,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Robust"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinz",
+    "Gottheit"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Hercules-Charaktere auszuspielen.) Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "215/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=288c998db37a92a71ec03b730abfd6d5c7488c4cd33df234dcd549ed0b031ad4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=be057863cd52081d1ba1fc46b1fe193406cdae3b3270763c4fc84b9af6bcfd58"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=089bdf5db88068a7922e9feda9136f9cccff7970bed14ae4fa82c2f9f512e4d6",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

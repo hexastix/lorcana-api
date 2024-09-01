@@ -1,0 +1,45 @@
+{
+  "name": "Principe Naveen",
+  "subtitle": "Suonatore di Ukulele",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "7019f88f23a40f374d0cc8e7cbb8cb18fd60de3a",
+  "culture_invariant_id": 959,
+  "sort_number": 967,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Melodioso"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Melodioso 6 (Questo personaggio conta come di costo 6 per cantare le canzoni.) È BELLISSIMA, NO? Quando giochi questo personaggio, puoi giocare una canzone con costo 6 o inferiore gratis.",
+  "card_identifier": "3/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=b391abcb9a3fc9e3bea996e02359420a37313641dfd1eb1d843d3d1ec76d5476"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=0c8b275e19e57be17eab100ea427ff61bc35c3a7babfd2b41770c3ee3ef3b55e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c95767c3baf0888161fb7da0fcfc925e2a28b15bda08420a252f96bd9564b87f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=caba409d64866f37efcec3892c611766fef554f41117a356efd27b8e1e05c44c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "HADES",
+  "subtitle": "Roi de l'Olympe",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "b49576fe526d49f6abcdf5af9e3eb03f64505194",
+  "culture_invariant_id": 205,
+  "sort_number": 205,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Roi",
+    "Dieu"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Hadès.)SINISTRE COMPLOT Ce personnage a + 1 pour chaque autre personnage Méchant que vous avez en jeu.",
+  "card_identifier": "205/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=5b21edc8e04b8db2b7f59f1dc69c8cefc416f06427c5e6a7f4af48c81b56c916"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=b52ee5e040b1ecb3b14f6ed56d8134c81574cd1f0b11ddca5209e7cdefbcf74d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=3ddf5721833b699b8c5475172f78afbceb2762d6e366ae72fdd095f7f7cf17be",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

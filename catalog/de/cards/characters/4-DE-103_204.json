@@ -1,0 +1,41 @@
+{
+  "name": "Biest",
+  "subtitle": "Verwundet",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3f8fb210c1173eefb48305622dfa9ba4ebeeaa26",
+  "culture_invariant_id": 794,
+  "sort_number": 804,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Es war nicht die Größe der Wunden, sondern die krankmachende Substanz, die diese unerträglichen Schmerzen verursachte.",
+  "rules_text": "DAS TUT WEH! Dieser Charakter kommt mit 4 Schaden auf ihm ins Spiel.",
+  "card_identifier": "103/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=e169e7e0d010dffe348938af5a8a8c21471f1bc7ad8644ffa0a117db2e34f007"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=c4132453ab684f5545da437c74996a1e11ecf51df112b4911018caa8fb7224d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=2d248a9197dc65e5f6919e93649a0a6a7f41d74ac4a0f58951e0ec3d558c5df8",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

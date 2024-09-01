@@ -1,0 +1,45 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Übeltäter",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Evana Kisa / Jochem van Gool",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 435,
+  "sort_number": 470,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich 10 Charaktere in meinem Ablagestapel habe, kann ich die Fähigkeit „Kommt, Kinder“ meiner Perdi - Engagierte Mutter benutzen, um Chernabog - Übeltäter aus meinem Ablagestapel zu spielen?\r\nA: Nein, kannst du nicht. Chernabogs „Die Macht des Bösen“-Fähigkeit beeinflusst nur die Menge an Tinte, die du bezahlen musst, um ihn aus deiner Hand auszuspielen. Das bedeutet, selbst mit 10 Karten in deinem Ablagestapel gilt Chernabog immer noch als Charakter mit Kosten von 10."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Die Dunkelheit ruft all ihre Untertanen.",
+  "rules_text": "DIE MACHT DES BÖSEN Für jede Charakterkarte in deinem Ablagestapel zahlst du 1 weniger, um diesen Charakter auszuspielen. DIE GEISTER BESCHWÖREN Wenn du diesen Charakter ausspielst, mische alle Charakterkarten aus deinem Ablagestapel zurück in dein Deck.",
+  "card_identifier": "3/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=d0194fdc4f427764d3f39d37c8c60db2b5ed3b74156a1bd7bbe1b3b6eaebb50e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=4f26e976a7e1e953ee54b4f8295838abc26e0902db0819d430df52de78062130"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=15007b7f06365f789800232f41248f068cef345296f1f1eb3186ae1b306722cf",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

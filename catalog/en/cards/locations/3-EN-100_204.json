@@ -1,0 +1,37 @@
+{
+  "name": "De Vil Manor",
+  "subtitle": "Cruella's Estate",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ryan Moeck",
+  "deck_building_id": "416bac0341350b57e21af4fcde238c89c9ec758e",
+  "culture_invariant_id": 536,
+  "sort_number": 571,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "They say the ol’ place is haunted, or bewitched, or some such fiddle-faddle. —Colonel",
+  "rules_text": "",
+  "card_identifier": "100/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=4759206f60c1d478cc6ea657fbcd451e306c2bc010065f220474a56e231b2187"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=1a195b6b5b7f57e2a166c9fcc4ab2ca4c3df9584096ab0f092243b3204b31f84"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=4da975ab159b51590b0f8217f9528c3db552e5b098d7ed83125202a0ede51e77",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

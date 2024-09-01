@@ -1,0 +1,40 @@
+{
+  "name": "Die Schicksalsgöttinnen",
+  "subtitle": "Nur ein Auge",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jon Densk / Hayley Evans",
+  "deck_building_id": "a006d6c335ba5f1e0446f91c16ab10467268b77b",
+  "culture_invariant_id": 780,
+  "sort_number": 790,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "Wir wissen von allem!%—Lachesis",
+  "rules_text": "ALLES WIRD GESEHEN Wenn du diesen Charakter ausspielst, schaue dir die oberste Karte des Decks aller gegnerischen Mitspielenden an.",
+  "card_identifier": "89/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=ffb32e793ff28a7003269b0d790a9adebba22f50b45cb14cebd33eceddefd0c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=2574b4f4a41fdc591db3728e76ece76c49e2dcdd703c350d9da44a1da05ef988"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=310af1dba59fd7ae455ca8163685c66726d053b69678165e4d58f83d75121320",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

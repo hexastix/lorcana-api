@@ -1,0 +1,33 @@
+{
+  "name": "What Did You Call Me?",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Luis Huerta",
+  "deck_building_id": "5339a38eed9968c3a46b91a0af5b667b76794ef5",
+  "culture_invariant_id": 348,
+  "sort_number": 372,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "No one can have a higher opinion of you than I have, and I think you're a slimy, contemptible sewer rat! —Basil",
+  "rules_text": "Chosen damaged character gets +3 this turn.",
+  "card_identifier": "132/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=d5f7329e152b66d416030921cbff9f5dc7da64c2bc9aa8a69f796bb475ae30c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=0661e91eab2eef64843609a790939ef72e59533a7e43c0fdfe2e3b0db12c1cf1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=ab2b3b7e85b3d434a8f8f859d0d78452e4cd620bf42a14ed63b6d86feddafe99",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

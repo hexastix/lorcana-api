@@ -1,0 +1,33 @@
+{
+  "name": "Sphère d'endurance",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "657a90059a6feb1b954c3f1140bec62e1776e73d",
+  "culture_invariant_id": 891,
+  "sort_number": 901,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PLEINE DE RESSOURCE Lorsque vous jouez cet objet, vous pouvez piocher une carte. EXTRAIT D'ACIER 1 , Bannissez cet objet – Choisissez un de vos personnages qui gagne Rempart jusqu'au début de votre prochain tour. (Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "200/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=2a355271c889f23bc88f4d35970fb5f5c745771be2bc9160dcacbde722839c72"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=f5f616ccbcee6cd7843cc9622c7a5c31bf0f35c0ebc460028eec700e544fc4a1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=3929de99675ee88a9609d557e3c40e3da503ca5105ca6a4c5b694e0757171ab6",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

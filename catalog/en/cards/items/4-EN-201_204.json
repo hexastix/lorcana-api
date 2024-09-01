@@ -1,0 +1,33 @@
+{
+  "name": "Imperial Bow",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Yari Lute",
+  "deck_building_id": "cded588bc643a1accb5d62c5fb7c6a8644f34ebf",
+  "culture_invariant_id": 892,
+  "sort_number": 902,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WITHIN RANGE , 1 — Chosen Hero character gains Challenger +2 and Evasive this turn. (They get +2 while challenging. They can challenge characters with Evasive.)",
+  "card_identifier": "201/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=f99235782c5c81b3566650c9086189274f6e9dd9b43472b834c3d8e6ee5c1d95"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=6205beb4f70e3e0eeadb6e9d48528087cccb021c98363a9bfeee0e95585431ad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bd3246a91bade142dcf95f0db5a53b89da42fe77a8e8785d308941463bc0d67e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Fiocco",
+  "subtitle": "Alce del Nord",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ron Baird",
+  "deck_building_id": "678f68c55dfedbbaffb7e07321b6342581a6b658",
+  "culture_invariant_id": 960,
+  "sort_number": 968,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Andiamo a cercare qualche rametto, eh? Me lo farei proprio, uno spuntino!",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "4/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=05c0187b942580a52af112738e77d25f143454ab33335f28ae3f0e6b5050b5b7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=eff977ee1b09cbf4d1e31cdfb82a0e095c00cf4a39a07bdfdec012f02b7f0f32"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=a281f98f94fcbcbbbd7dd60d5b214ed3032a214ffce7c90269b67483317f3c69",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

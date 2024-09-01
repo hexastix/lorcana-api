@@ -1,0 +1,43 @@
+{
+  "name": "Olaf",
+  "subtitle": "Carrot Enthusiast",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Lauren Levering",
+  "deck_building_id": "b3fc93c88e4ea1c9c39db15bb3f974ab1d257511",
+  "culture_invariant_id": 840,
+  "sort_number": 850,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift: Discard an item card (You may discard an item card to play this on top of one of your characters named Olaf.) CARROTS ALL AROUND! Whenever he quests, each of your other characters gets + equal to this character’s this turn.",
+  "card_identifier": "149/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=7c339dbbf1d0c9ee72ce4ba5e97b1ed9898cfec5ca32bbcef5d93ea103efc6a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=d238feab1b38f7ec37b3a24dddfb12c01eb2517fabf80a78884bc77011127b9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=4c5c9064720cb1f2f7140e5566e354adf12895aabff5b25e2229ba82ecbd0477",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

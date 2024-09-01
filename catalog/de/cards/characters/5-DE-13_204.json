@@ -1,0 +1,42 @@
+{
+  "name": "Kristoff",
+  "subtitle": "Rentier Hüter",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e249ebb7a0862363fa2c8ea6e2d6b7a453b278a5",
+  "culture_invariant_id": 969,
+  "sort_number": 977,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "GESANG DER HERDE Für jede Liedkarte in deinem Ablagestapel, zahlst du 1 weniger, um diesen Charakter auszuspielen. Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "13/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=8543b8629d3a2b10e7e90402f27eb2fb0e483b1001d876f129703be164f36749"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=ca120163ddf3b1060bda637e4be02c841559170ca012cba1b377db6d0bd4f730"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=9b94befbcd844586ea37c1688924a38764aad071d4a084b76e7dfceea5db39ff",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

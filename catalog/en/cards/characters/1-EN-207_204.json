@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Spirit of Winter",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 207,
+  "sort_number": 207,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Elsa.) DEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
+  "card_identifier": "207/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=2482758bd15a8f10dc43c2b9ca61e4924c0776fef10d03604905ae3e0957ea75"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=337bd8646094c393d2921fc13ee4ffb6cb82942f833e166419ac8034643638cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=7bde3628b94523f87fe9e3d2f90111e2909bd19a9551ccb33cdd1ee6b0f9a715",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

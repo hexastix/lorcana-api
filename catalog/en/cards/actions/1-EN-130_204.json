@@ -1,0 +1,35 @@
+{
+  "name": "Dragon Fire",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "d9ec006d3956dca4006cbf745c589057a0ba0663",
+  "culture_invariant_id": 130,
+  "sort_number": 130,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Rare is the hero who can withstand a dragon’s wrath.",
+  "rules_text": "Banish chosen character.",
+  "card_identifier": "130/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=55f776d22cd09d02ac6be36cd3128c4bb3d76b4ef93ec036ddb56c0aa9ff96b7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=e35d41bd9d51575b803f079ea4db5cd7aac2ead10d67bf15061aca39fe0198f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=b5992a35a6731f39afe4331f1b858f2ce2a1c8e1e0d453bcfdbad075a62afbfe",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

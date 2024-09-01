@@ -1,0 +1,45 @@
+{
+  "name": "Arthur",
+  "subtitle": "Roi victorieux",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Anna Stosik",
+  "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
+  "culture_invariant_id": 1150,
+  "sort_number": 1158,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Arthur.) ADOUBÉ PAR LE ROI Lorsque vous jouez ce personnage, choisissez un personnage qui gagne, pour le reste de ce tour, Offensif +2, Résistance +2, et peut défier les personnages redressés. (Les dommages qui lui sont infligés sont réduits de 2 et lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "194/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=85f6aad4e67b3daa5fc8c61cb1efbe2d57193021b1cafe937f75799fd8731a27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3f2f40148b6471c144208566f6d15502ce4e4c0f01135dbf4fef66c06c2c98f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1289129f73528aef89b3d17c2be2a79e1a4d4ce66d510bb3419d56f7ec85b2c6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "LA FÉE CLOCHETTE",
+  "subtitle": "Alliée de Peter Pan",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Adrianne Gumaya",
+  "deck_building_id": "598be1e1fde814f7659cf509dad4db7131a68730",
+  "culture_invariant_id": 58,
+  "sort_number": 58,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) LOYALE ET DÉVOUÉE Vos personnages Peter Pan gagnent Offensif + 1. (Ils gagnent +1 lorsqu'ils défient.)",
+  "card_identifier": "58/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=75a928fd3cc7987da880b992ddc01f66dba6d7a4ccdae3e7cf819ae4b54e2ee4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=36af117014b97a8dd8dce2c52232d6bcc5c022880dbf9b07fdff371d74f60003"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=49eaa910708eb973edeeba8dae5bbb78076b0241b8f6ceb584247e66816d5c0c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

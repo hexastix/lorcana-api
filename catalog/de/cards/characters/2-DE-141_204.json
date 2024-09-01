@@ -1,0 +1,39 @@
+{
+  "name": "Onkel Raupe",
+  "subtitle": "Ruhig und gefasst",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Cory Godbey",
+  "deck_building_id": "05117f1bf13d4fb9861daaa0459dfe4a2b7ed70e",
+  "culture_invariant_id": 357,
+  "sort_number": 381,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt"
+  ],
+  "flavor_text": "Eile mit Weile und halte den Takt.",
+  "rules_text": "",
+  "card_identifier": "141/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=918fef8ec7192f44994eb0106ec9ec354026734e5732598e062e70d51854de18"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=f8ee2c258c1f406ade5ae1823474e3d7538409f5c8c28b79e52739c0d5d9c2af"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=92c1ba781bab46c2680d15e4906ff83b4f38eb0dba9458df8cbeac12ae854422",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

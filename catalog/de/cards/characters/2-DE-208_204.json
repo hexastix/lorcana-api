@@ -1,0 +1,45 @@
+{
+  "name": "Madame Mim",
+  "subtitle": "Lila Drache",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "8beb7231237cf3bc2a7b1289fd773536113e9112",
+  "culture_invariant_id": 424,
+  "sort_number": 448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Magierin",
+    "Drache"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) GEWONNEN, GEWONNEN! Wenn du diesen Charakter ausspielst, musst du ihn verbannen oder 2 deiner anderen Charaktere wählen und zurück auf deine Hand nehmen.",
+  "card_identifier": "208/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=c53a7a3b68c855d40e07ba8a8007ead7a01aa65b5db5702acb717b2cd46eabb0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=daf0a4639ee139e2addb5b41f999fb01fd4d2d77f0e4d22c7f804413951bc6e1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=31f8f3ea460e43d0ab47dceb94ab1b1429a81ba15e2d07fc2ed8675184f0b55c",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

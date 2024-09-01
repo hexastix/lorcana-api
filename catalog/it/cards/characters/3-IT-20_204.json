@@ -1,0 +1,41 @@
+{
+  "name": "La Regina di Cuori",
+  "subtitle": "Imperatrice del Paese delle Meraviglie",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brianna Garcia",
+  "deck_building_id": "bd2e003703e8ab3b1f1f403fc5b4ed14d7335aa1",
+  "culture_invariant_id": 456,
+  "sort_number": 491,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Regina"
+  ],
+  "flavor_text": "Quante più Terre d'Inchiostro conquista, tante più ne desidera.",
+  "rules_text": "TUTTE LE STRADE QUI SONO MIE Ogni volta che questo personaggio va all'avventura, i tuoi altri personaggi Cattivo ricevono +1 per questo turno.",
+  "card_identifier": "20/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=fe9f007368e2bdfee452373573d7fcbbd29906868b91cb68db1fc2b58d9809b2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=ed151536c764ef198a10091b6fc122c57793b268aa2a008b9f5a0d7999b7f2aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=341134eadb46fa12c9cf73e5e585c91d26659a58a041e9885508e02a513cbf0d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

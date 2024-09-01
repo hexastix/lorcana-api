@@ -1,0 +1,42 @@
+{
+  "name": "Chien-Po",
+  "subtitle": "Soldat Impérial",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "d1fd5839ad177cf9b28ff3c6336c8cb568683243",
+  "culture_invariant_id": 869,
+  "sort_number": 879,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "178/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=8c42c8d28f0eca3fa38d430560b59663b1d48cab2d5541d261c80fdaf0d9cd3a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=28a223f8d3c7f9a709c4cca652e4432a2d3fbdb04047e2111e3802ac1ed19adc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=dc6044cddb0d5b8e4a0ec10ecf529df89e4a6fe97c4955a758e2e910901b8394",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

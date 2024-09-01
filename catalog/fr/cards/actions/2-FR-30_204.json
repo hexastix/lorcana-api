@@ -1,0 +1,35 @@
+{
+  "name": "Peignons les roses en rouge",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "003e83f940426d943bddbae6a42d20fe26abf042",
+  "culture_invariant_id": 246,
+  "sort_number": 270,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez jusqu'à 2 personnages, ils subissent -1 pour le reste de ce tour. Piochez 1 carte.",
+  "card_identifier": "30/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=de09e71b697031746da5072501435330a9cb8a139765d941bcb6f5da1553dceb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=c2ef0b8265a378a498b1be44f62d337126146d9111326187e18d81ca555383ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=2217430470961d5ae233253d97b44136d770e075e9805ac38a31bab291fc5f4c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

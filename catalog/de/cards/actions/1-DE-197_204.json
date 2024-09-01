@@ -1,0 +1,33 @@
+{
+  "name": "Feuert die Kanonen!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "dd9d07e58d8392f3d0e80b4241b33f20d81e96ac",
+  "culture_invariant_id": 197,
+  "sort_number": 197,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Käpt'n Hook: Doppelte Ladung und gut gezielt! Herr Smee: Doppelt gezielt ist halb geladen!",
+  "rules_text": "Füge einem Charakter deiner Wahl 2 Schaden zu.",
+  "card_identifier": "197/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=b6f3ca3f22c87ff754df5fbff1227028d23e05130675b3b747348b9b56d0c387"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=35384a76a30bcd8b55ec8b20e27ad8708673ccfce9f9e10deb5acfc364cdbb7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=dd4e08ab4d9f92e620a8350aa47db0a4bcb628f5523126e78a340172893fd6d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

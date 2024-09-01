@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Découvreuse de prophétie",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "d093d99a5578a883cc8f720171886790e355e192",
+  "culture_invariant_id": 710,
+  "sort_number": 720,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Madrigal"
+  ],
+  "flavor_text": "Pourquoi Bruno aurait-il brisé cette prophétie? Serait-ce quelque chose de dangereux? Nous devons le découvrir!",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "19/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=49ef218ef9b487628b3fd2d6c813389adfe0cecec133d270110ce089dff5d451"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=b698570cc8ef93d8b9d55dd16cee4f233b52179ad54e1a88719d1fd383b3be43"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f06bd73dad02fd45451719f5d6add3e0762ce5a162191435f46a299d7db434a9",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

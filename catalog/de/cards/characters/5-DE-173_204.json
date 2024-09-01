@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Verschollener Prinz",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b66d745358da7ec9b30e05117dd8f73ea6ae5746",
+  "culture_invariant_id": 1129,
+  "sort_number": 1137,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Außerdem ist das mein Königreich. Wenn ich nicht dafür kämpfe, wer dann?",
+  "rules_text": "DER VERGANGENHEIT STELLEN Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du 1 Karte ziehen.",
+  "card_identifier": "173/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=860b516adad19d79a67d2f880d72f13c2eee93639cd1eef897f9f4664a934d70"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=0a12c488cd188e93ac29e488c0a476b65270769dbf44f2f0ab708b1abc6c81fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2aaa821ed3a5e16c35c2ff0b7d1beb214a1878f99423dcc047a7062a40f5087e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

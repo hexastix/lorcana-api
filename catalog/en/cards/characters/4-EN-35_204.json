@@ -1,0 +1,41 @@
+{
+  "name": "Antonio Madrigal",
+  "subtitle": "Animal Expert",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ellie Horie",
+  "deck_building_id": "ed2c6a48f6ed632a88bdc391071033dde8e10b17",
+  "culture_invariant_id": 726,
+  "sort_number": 736,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "Once upon a time, there was a casita in the mountains with a very special family....",
+  "rules_text": "",
+  "card_identifier": "35/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=079976826c96eebd05cc030d1a85388ca7407047c2c31bcc6e847d8e9247a37c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=99d04d52fac3a1c41f29d3bb660463949b7207a9cfba5faeb7392b59ef64bcb6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=2269cba09819373e8c52f4d250c022063c4b0e85f639a7a84d03481ea6c92e0e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

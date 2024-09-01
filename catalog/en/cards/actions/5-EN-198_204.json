@@ -1,0 +1,33 @@
+{
+  "name": "Duck for Cover!",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gianluca Barone",
+  "deck_building_id": "8ec09ec81b578d2b3836f585a32e058381fe846c",
+  "culture_invariant_id": 1154,
+  "sort_number": 1162,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chosen character gains Resist +1 and Evasive this turn. (Damage dealt to them is reduced by 1. They can challenge characters with Evasive.)",
+  "card_identifier": "198/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=a1147b49d871c9b10577689078646fa1a4e8b49988daf218c14d20de0f8c1c3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=559962dd549b4b05fea723a9e32cb3ea187a347e17a0a872e6c2b6b420f7c80a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=c8f467a5d273a03c723d33b8d4cd0722b9a7aad15fa916716931dc166e527043",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Don Kanaille",
+  "subtitle": "Piratenprinz",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "24ea5904a2f26342b5785ee8bc9953780df09477",
+  "culture_invariant_id": 507,
+  "sort_number": 542,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Prinz",
+    "Pirat"
+  ],
+  "flavor_text": "Du hast nicht erwartet, <mich> hier zu finden, oder? Tja, ich auch nicht.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "71/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=41e17e340ddc624e49d9bc4f7b1f8fce14e0742de21e09c1fcf15735c695842d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=841f36787bf3c1b0b3b6e562c2c91fcfa9e6309944666886754de23ea8be9205"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=2a1629c1e7ab517c881f9d30bc61a282336ced2fab5bc4a185eff981299abe96",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

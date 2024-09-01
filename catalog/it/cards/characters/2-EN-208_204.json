@@ -1,0 +1,45 @@
+{
+  "name": "Madam Mim",
+  "subtitle": "Purple Dragon",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "8beb7231237cf3bc2a7b1289fd773536113e9112",
+  "culture_invariant_id": 424,
+  "sort_number": 448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer",
+    "Dragon"
+  ],
+  "flavor_text": "Did I say no purple dragons? Did I?",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) I WIN, I WIN! When you play this character, banish her or return another 2 chosen characters of yours to your hand.",
+  "card_identifier": "208/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=1ed67ea746e01d3f5bf947fcfaaa75619f9386b748892841859b3a33ada416de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=641828b2a2eeef62630830e3b5f23916382ebe7c190823b336abcefc8549c809"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=97116512ab481be72e7be3d343d6f8d6c19403d7f26632520f0158189b2e6bc8",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

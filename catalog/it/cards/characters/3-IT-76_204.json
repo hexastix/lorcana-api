@@ -1,0 +1,42 @@
+{
+  "name": "Jetsam",
+  "subtitle": "Marmaglia",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "df5150338f9402043e441bce48da10db7dde0b61",
+  "culture_invariant_id": 512,
+  "sort_number": 547,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Deve esserci della leggenda potente qui, molto potente.",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) COPPIA INQUIETANTE I tuoi personaggi chiamati Flotsam ottengono Protetto.",
+  "card_identifier": "76/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=845e50d02efa8db257214f1df2d2419d91b91505d90c1f4bb5b35101e532e1c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=9146b7a3436e2e539e04d2194f14abbee07e6ad8d29cdc47abbeaee7cf1a4961"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=1b392d9d9d4c661f30e67fb08954d655017d6fad020ab021a236cdcfdad82be2",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

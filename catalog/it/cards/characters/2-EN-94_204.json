@@ -1,0 +1,41 @@
+{
+  "name": "Tiana",
+  "subtitle": "True Princess",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Casey Robin",
+  "deck_building_id": "5c924acbc256cf4a2612d7335de9b611b4607541",
+  "culture_invariant_id": 310,
+  "sort_number": 334,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Finding your true self will set your heart aglow.",
+  "rules_text": "",
+  "card_identifier": "94/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=1415f152f045af242ee8769afbc28607dbd48b082a896b3f6b7e59b021c030ea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=c8cbe11054c01cb6c63fb105dfa88c1f2b6df2c25ce284c35e89bf5e7a2c96fe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=0b70857aa5d9bf1496e5115da801ee3ddbaa160d1e03118abf2b72d56fef90fc",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

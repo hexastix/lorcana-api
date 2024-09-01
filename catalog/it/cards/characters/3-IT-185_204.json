@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Campione delle Terre del Branco",
+  "strength": 3,
+  "willpower": 10,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Evana Kisa / Livio Cacciatore",
+  "deck_building_id": "dc5f98f30910aabb4171a43ece0eb6dd9d70bd88",
+  "culture_invariant_id": 621,
+  "sort_number": 656,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "Basta il suo nome a far tremare di paura i suoi nemici.",
+  "rules_text": "",
+  "card_identifier": "185/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=0016d81994550b88ae0b5fdcf12b3a1a280f4b8a95f650d0bec77436ef11f924"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=61f24c268d8bb866a7a3bb7f5898694c5cc422cfa7c3b37c62c8014dc1318cac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=e3dd2b02fefd6327ccffe792e8e1f8c3b0f6f09ae67e4d67c1386e585c4b3cce",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

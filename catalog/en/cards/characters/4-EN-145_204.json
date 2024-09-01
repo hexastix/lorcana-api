@@ -1,0 +1,41 @@
+{
+  "name": "Hades",
+  "subtitle": "Meticulous Plotter",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "68146d6fa08641ea608a09555035a71d11aef35e",
+  "culture_invariant_id": 836,
+  "sort_number": 846,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "This neat little scheme has Ursula's tentacles all over it. That sneaky sea witch... Wait! I can use this. She can keep those obnoxious Illumineers busy while I roll out my own plan.",
+  "rules_text": "",
+  "card_identifier": "145/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=e515bb4f3f72ec62edbfcc6fea2c69ebe380deb798e678a7c1ae3db4f5e883bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=51b1e9223cc91c8b72157a263519c1401d137ba65ab14b2abe181e57d84e0a37"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=2e1b50fc03fe445de96f71def37fdc5a02e09065110e2d58efe807567f015fec",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

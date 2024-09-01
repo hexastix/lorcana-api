@@ -1,0 +1,40 @@
+{
+  "name": "In Sekunden auf Hundert",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "e304dbf3757b9b3aee99fb65f9752724aac895c5",
+  "culture_invariant_id": 248,
+  "sort_number": 272,
+  "additional_info": [
+    {
+      "title": "Errata - Kartentext",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Text der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem Text: \"Zähle deine Charaktere im Spiel. Der nächste Charakter, den du in diesem Zug ausspielst, kostet dich diese Anzahl {I} weniger.\" gespielt. \r\n\r\nAlte Version:\r\n(Du kannst einen Charakter, der 2 oder mehr kostet, {E}, damit er dieses Lied kostenlos singt.) \r\nZähle deine Charaktere im Spiel. Der nächste Charakter, den du ausspielst, kostet dich diese Anzahl {I} weniger.\r\n\r\nNeue Version:\r\n(Du kannst einen Charakter, der 2 oder mehr kostet, {E}, damit er dieses Lied kostenlos singt.) \r\nZähle deine Charaktere im Spiel. Der nächste Charakter, den du in diesem Zug ausspielst, kostet dich diese Anzahl {I} weniger."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Zähle deine Charaktere im Spiel. Der nächste Charakter, den du in diesem Zug ausspielst, kostet dich diese Anzahl weniger.",
+  "card_identifier": "32/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=16d79980e02b5dcb6b9bacf9c04b45ed9202bb4e69ac56bd033e08200c29a6ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=04771dbb3f2f994a04aac5fda1f2414249461d46f5818be81cafa88ef419796c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=eb8bf73035569b8879b2247118dc84ce8fab20d03f68b8eecd3988f6ee9575ca",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

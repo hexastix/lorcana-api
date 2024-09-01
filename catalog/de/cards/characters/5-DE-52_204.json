@@ -1,0 +1,39 @@
+{
+  "name": "Monstro",
+  "subtitle": "Wal aller Wale",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Ivan Shavrin",
+  "deck_building_id": "29ee1170b2ca2e8b9dff1156c7e6bb4b0c5e68c0",
+  "culture_invariant_id": 1008,
+  "sort_number": 1016,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Das große Biest durchbrach die Oberfläche des Azuriten-Meers und der Schrei erklang, Monstro! Monstro!",
+  "rules_text": "",
+  "card_identifier": "52/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=66a18d375aae2bc58ad7b6dbfb73effcb6dca7cca3e43697bcbc261131e9983c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=3a41fbfdf1676dd5465a1cea4c07b92079ad6d879d1faa5bd3cc7e67620ed015"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=fc53e91e8c5850a503e49c616622434a1884943b213b6bfb382d7ff231ed1255",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

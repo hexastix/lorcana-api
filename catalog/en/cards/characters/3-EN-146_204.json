@@ -1,0 +1,41 @@
+{
+  "name": "King Louie",
+  "subtitle": "Bandleader",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "COMMON",
+  "ink_cost": 7,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "d3d1a60e7ac85755cb91c50a947795076bb062e6",
+  "culture_invariant_id": 582,
+  "sort_number": 617,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "King"
+  ],
+  "flavor_text": "Hold up, cuz. Why not sit back and enjoy some sweet beats?",
+  "rules_text": "",
+  "card_identifier": "146/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=d9bb9e49c44fbe3c094fd85506fb31d36b25f8908a15e5a0ae1daa177c997791"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c7fda723685f6372f20f26681148758c2289a2e7556a0db6eba429033360d5ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c8ae43d0c1a25470c0a0eb88e8116907efa4d6bb8c3bc2d0c79545ad8126cc21",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

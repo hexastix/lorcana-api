@@ -1,0 +1,42 @@
+{
+  "name": "Kronk",
+  "subtitle": "Enquêteur sans permis",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alex Accorsi",
+  "deck_building_id": "020df7caff144b7a745a51d6252d5a5861fb6489",
+  "culture_invariant_id": 1134,
+  "sort_number": 1142,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "<Ça>, c’est peut-être une chromicône. Probablement pas. J'aurais vraiment dû faire plus attention à ce que disait ce sorcier…",
+  "rules_text": "Offensif +1 (Lorsqu'il défie, ce personnage gagne +1.)",
+  "card_identifier": "178/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=d117bad5c5e461b30c68fec8c9751f06403159089a109f812bc32f8147deb4fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=96a7e93fae1f98de73341993ab27885216d58dcb353a49a6555141977a7be2b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=3475df2c8d62c551ad42a56f39611457c5906a4dd2a30ae501288a6f6e0d68fe",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

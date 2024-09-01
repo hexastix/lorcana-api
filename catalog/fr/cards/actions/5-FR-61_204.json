@@ -1,0 +1,35 @@
+{
+  "name": "L'explorateur",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jake Murphy",
+  "deck_building_id": "0cca9fb008e3df3430585d8838427da91697bdd4",
+  "culture_invariant_id": 1017,
+  "sort_number": 1025,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Choisissez une carte de votre défausse et mélangez-la dans votre pioche. Révélez la carte du dessus de votre pioche. Si la carte révélée a le même nom que la carte choisie, vous pouvez la jouer gratuitement. Sinon, ajoutez-la à votre main.",
+  "card_identifier": "61/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=4e90b3e0fe96c7c2c9d2f0d43e59d1527aae3614d729b16582dc166b792b8825"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=7338f5ba083591867b3cac7bb21741fa8bc9cf2f3df0581d9e36c5bdb4905856"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=d809a72b946203f89e9a685aece4f3df61cf6f28287ff60ca107af23b7153e7f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

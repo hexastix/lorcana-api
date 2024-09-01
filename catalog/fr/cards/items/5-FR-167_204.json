@@ -1,0 +1,33 @@
+{
+  "name": "Sac de voyage de Merlin",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "ffc4e3a63293eb9cdd1008929f04b9fad112083f",
+  "culture_invariant_id": 1123,
+  "sort_number": 1131,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Curieuse façon de faire les bagages.%- Arthur",
+  "rules_text": "HOCKETY POCKETY , 1 — Choisissez une carte Objet de votre défausse et placez-la dans votre main.",
+  "card_identifier": "167/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=232213de4406e2d04b16e10862aed84c193cff46ba0d42512255612529f44a87"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=94639e5714105f1f5338a2ce07ba86e91694338a2f845d0727a29c804303705e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=b6e6d79e3ba44d59ef29197cccb142b3538f2b175a85a6fa3ceda9421437dbb9",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

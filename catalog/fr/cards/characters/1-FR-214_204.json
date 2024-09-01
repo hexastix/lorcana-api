@@ -1,0 +1,42 @@
+{
+  "name": "BELLE",
+  "subtitle": "Étrange demoiselle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "e473ddb0872912473fc4fa98e92df1be8c0a8101",
+  "culture_invariant_id": 214,
+  "sort_number": 214,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "LIRE UN LIVRE À chaque tour, vous pouvez placer une carte supplémentaire de votre main dans votre réserve d'encre. MON PASSAGE PRÉFÉRÉ! Tant que vous avez 10 cartes ou plus dans votre réserve d'encre, ce personnage a +4.",
+  "card_identifier": "214/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=282f53272f17638af12decfe65d661c791240014f01dcd71e248940e90d2e65c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=dbc7a735b6f01ef91e66213bce23a8d25db19a982a90f26d27942b143adef262"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=a893b188a9c18c12b582c3124b9a69e927248c1e8b5f58fe6d58098258dfd318",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

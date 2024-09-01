@@ -1,0 +1,39 @@
+{
+  "name": "Jolly Roger",
+  "subtitle": "Navire du Capitaine Crochet",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Nicolas Ky",
+  "deck_building_id": "36d37324c4f3d29d9f0101c7ee1a08bf9b00908e",
+  "culture_invariant_id": 685,
+  "sort_number": 696,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "JE VEUX L'AVOIR MORT OU VIF! Les personnages sur ce lieu gagnent Charge. (Ces personnages peuvent défier le tour où ils sont joués.) TOUT LE MONDE À SON POSTE! Vos personnages Pirate peuvent être déplacés gratuitement sur ce lieu.",
+  "card_identifier": "27/P1 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=5a0cd0eef3745bdce47019404047870ccf79103079edf0080a8ecbf4f030e8c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=dc0c9cc81e8a4c6369ce332f0cce854132fbeb0a220f6bb11f1631e1a3f80451"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=bee5eec7f9091f18d81b6b5db11fea2fccd964d6f4a1a437b927172a2b0a65c3",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

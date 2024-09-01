@@ -1,0 +1,33 @@
+{
+  "name": "L'Inganno di Ursula",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "e8e8b6146e68fc314030023117c7ad8ef501a416",
+  "culture_invariant_id": 787,
+  "sort_number": 797,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Come osi fare il doppio gioco con me! gridò Ursula, lanciandosi contro l'altro glimmer.",
+  "rules_text": "Ogni avversario può scegliere e scartare una carta. Per ogni avversario che non lo fa, tu peschi una carta.",
+  "card_identifier": "96/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=34f65add1d6dff5cee2f5a648667b82b4770759376a5ac220d5f962d9333b3f9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=7ceaac198fbaa6fae1635c4f9457a40445daaaf655bfe8c4a12d037ce81c122c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=883cc534df4840f25810165a861bddb18eca44ee794d1a4b12de25854b1f9438",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

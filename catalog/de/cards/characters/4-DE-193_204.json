@@ -1,0 +1,45 @@
+{
+  "name": "Raya",
+  "subtitle": "Unaufhaltsame Kraft",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Grace Tran",
+  "deck_building_id": "01f560e64dbad8d5d3b665a79d9438c1da824796",
+  "culture_invariant_id": 884,
+  "sort_number": 894,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern",
+    "Robust"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.) Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.) DU HAST DEIN BESTES GETAN Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du 1 Karte ziehen.",
+  "card_identifier": "193/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=f71962e9efcb26eae47e8de14d0d3e12e8130e49970c8f25f23ed2d8d252cbf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=2678faaf74bf42208f3e9d506f403295d7c05c7733c3d66cdecb7e6876141b91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=06b6b46dc2da33da473da7aa88b725a359a12074353fc7e9c1185958f80819a3",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

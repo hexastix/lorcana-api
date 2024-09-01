@@ -1,0 +1,40 @@
+{
+  "name": "Kenai",
+  "subtitle": "Fratello Grande",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Chunxi Mu",
+  "deck_building_id": "24d95c1e01ef2ed85eb6d9a0623f71835ef9e722",
+  "culture_invariant_id": 961,
+  "sort_number": 969,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Devi prenderti cura del tuo fratello piccolo, non importa quanto rompiscatole sia.%—Kenai",
+  "rules_text": "FRATELLI PER SEMPRE Mentre questo personaggio è impegnato, i tuoi personaggi chiamati Koda non possono essere sfidati.",
+  "card_identifier": "5/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=c52303a5cde21573ebb9dca2b2c8b6c4fa03821ec038d6fc5e0271c0bc178432"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=13eae3add26454db5da0359b95835284cf34499715f69214a4b20be3daa88a92"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=4d0c9bb1565478e49575af9ff5a75c6df6977543a24bdef4ccee2d09702d1f0b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

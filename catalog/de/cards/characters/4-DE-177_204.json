@@ -1,0 +1,40 @@
+{
+  "name": "Chi-Fu",
+  "subtitle": "Berater des Kaisers",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "4fe35d3556761c5dcb31d03ea92e405eb1f8c27e",
+  "culture_invariant_id": 868,
+  "sort_number": 878,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Du, da! Halte die Schlacht von hier fern! Ich muss dem Kaiser sofort schreiben.",
+  "rules_text": "ÜBERVORSICHTIG Solange dieser Charakter unbeschädigt ist, erhält er +2.",
+  "card_identifier": "177/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=93750656dba6ebe0cbd886945562a71b20d942fc09ef31804e0c120639f5d678"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=4415f6ba3b86d0a3b22127e97e3e1d8bc655635c550704c666e2bffd8d824527"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=66e2c3adaae19c7e9bd221e6673a5c58353d35b32265b6524168c533711cf903",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

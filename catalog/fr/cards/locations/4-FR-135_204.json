@@ -1,0 +1,37 @@
+{
+  "name": "Le Canard Boiteux",
+  "subtitle": "Taverne malfamée",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "d8442ef512485e4740ec831c0beeb50cf8069b5c",
+  "culture_invariant_id": 826,
+  "sort_number": 836,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "REMUE-MÉNAGE ROUTINIER Chaque fois qu'un personnage sur ce lieu avec 3 ou plus en défie un autre, gagnez 1 éclat de Lore. Si le personnage qui défie a 6 ou plus, gagnez 3 éclats de Lore à la place.",
+  "card_identifier": "135/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=2c8a25e089dc48e72b7ac1067a685411e7e86795e750ec6a3f153ab94dbaf241"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=cb54d0216d003900f9d26294c88e0dd594abc69aab01ab23c3be09fa298efe39"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=30cbed654a81bcec67b1df5e2d7f0976de09c83e905cfd7baa7d316968c7be2f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

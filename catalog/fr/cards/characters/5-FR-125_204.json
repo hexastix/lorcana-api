@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Successeur aventureux",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentin Palombo",
+  "deck_building_id": "f366b5591bf174421106ad9ef1b368decafc6ace",
+  "culture_invariant_id": 1081,
+  "sort_number": 1089,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE ME RIS DU DANGER Lorsque vous jouez ce personnage, choisissez un personnage qui gagne +2 pour le reste de ce tour.",
+  "card_identifier": "125/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=8e4258d06317c485faeec102156fdbfc3a2728f2fc73b0d08e1e75ab4544a2f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=31fb71e403f98bcea7b4cd7bab47dcc432d8791d619105f7c95ee9d3c6518d9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=12ba27dbf97de0d3b7e71cb5a71459f1d4e8f682118252a403a07df1d6af27ab",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

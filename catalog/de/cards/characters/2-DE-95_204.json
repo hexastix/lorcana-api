@@ -1,0 +1,41 @@
+{
+  "name": "Virana",
+  "subtitle": "Oberhaupt von Zahn",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Mané Kandalyan / Luca Pinelli",
+  "deck_building_id": "fb59ea3d5974b3dc636e39a74b0d35c27ce3b5cd",
+  "culture_invariant_id": 311,
+  "sort_number": 335,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Königin"
+  ],
+  "flavor_text": "Ich muss schwierige Entscheidungen treffen, um meine Tochter in dieser unbekannten Welt zu beschützen.",
+  "rules_text": "",
+  "card_identifier": "95/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=e731b5ef768e2168de0b475814256dc6426090f1c5060331fec94686a8d1bcf0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=0bf6dfaf55203da92995dcbbe9530eb4dbf751379536c9da8a5510aa062d0cee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=e891341a9d3c1dea70f3d04ada76d72ee1272d6307b5abeab625a536656217af",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

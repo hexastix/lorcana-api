@@ -1,0 +1,40 @@
+{
+  "name": "Kristoff",
+  "subtitle": "Offizieller Eismeister",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "dcc435a4545c40e6dfe713fe317f78e418982a15",
+  "culture_invariant_id": 182,
+  "sort_number": 182,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Kristoff: Was heißt hier Angebot und Nachfrage? Ich verdien meine Brötchen mit dem Verkauf von Eis.Anna: Uh, das ist wohl grad eine hart umkämpfte Branche, was? Ich meine, das ist wirklich — ähm, großes Pech.",
+  "rules_text": "",
+  "card_identifier": "182/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=df7c0da509cc37e70806d82a92a869613e092e77f242d8640f59e61464857d42"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=a2550c99df1eb87ce973dc9945077907ebc3f0c9614785ac1710540bc83b7d3e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=a55337ff82ffcd1badbc46816559c21c2b234f31b0d1f24dbb388f5797df950f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Principe Giovanni",
+  "subtitle": "Amante dell'Oro",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "a9c072cf5b48edda82d051442b832712beead027",
+  "culture_invariant_id": 1103,
+  "sort_number": 1111,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Principe"
+  ],
+  "flavor_text": "Un malvagio cospiratore sia di giorno che di notte.",
+  "rules_text": "BELLISSIME, ADORABILI TASSE — Gioca gratis un oggetto dalla tua mano o dai tuoi scarti con costo 5 o inferiore, impegnato.",
+  "card_identifier": "147/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=bc591c3d84b229de9f34ad1b4a2f46b67aeed3385aff4ae57c95847a6103e3fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=af471147538f9c4995d8036ad264d7307fef1e5879a8d8497282c153161841d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=a9f1d5b303ab7b47c88b89d6150246bb32cf2780684ca53602ce160c4d8c20f3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

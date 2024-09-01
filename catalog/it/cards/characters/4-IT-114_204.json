@@ -1,0 +1,43 @@
+{
+  "name": "Mulan",
+  "subtitle": "Arciera d'Élite",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "06e306a4259dd86efa3be5c32d8bc2d7de24b052",
+  "culture_invariant_id": 805,
+  "sort_number": 815,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Mulan.) TIRATRICE PRECISA Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, riceve +3 per questo turno. TRIPLO BERSAGLIO Durante il tuo turno, ogni volta che questo personaggio infligge danno a un altro personaggio durante una sfida, infliggi lo stesso ammontare di danno a fino a 2 altri personaggi a tua scelta.",
+  "card_identifier": "114/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=6123c2e44de493ea11ad096f265a56c1aaf6aacba7d5066009a52c1f6d072de6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=12fbb91a3c092b2f42043f50e1ce6565db41109d1320167bfbfe860f0c67db14"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=01bbb900083439a0b1d3b388c00f88e1725feae4d69e412e6f0e062a0216a80b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "The Hexwell Crown",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "026482f32fe2d467df72c4520da3860668ffd316",
+  "culture_invariant_id": 942,
+  "sort_number": 962,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "When she placed it on her head, Ursula felt a rush of power as the crown unlocked a deeper magic.",
+  "rules_text": "PERKS OF POWER — Draw a card.",
+  "card_identifier": "29/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=57b9841d6bf4d5aab7388cb162b2f3bec323f82ef9f6136dda60f7a266198f73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=b72f8515d6ad71d195a192a3eda3c7544db2544412d6291e41a92ef695e5e907"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

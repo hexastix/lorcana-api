@@ -1,0 +1,44 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Tortenritter",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Gabriel Quinn",
+  "deck_building_id": "92fccc7cdd7f354c194d3872d469ff147c33e442",
+  "culture_invariant_id": 1170,
+  "sort_number": 1178,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Ritter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Donald-Duck-Charaktere auszuspielen.) PUSTEKUCHEN Wenn du diesen Charakter ausspielst, falls du Gestaltwandel benutzt hast, um diesen Charakter auszuspielen, verlieren alle gegnerischen Mitspielenden je 2 Legenden. WÜTENDE ENTE Solange mindestens eine gegnerische Person 10 oder mehr Legenden hat, erhält dieser Charakter +6.",
+  "card_identifier": "214/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=2b063339b142662637a228312d6c8c521fa95debec1a601f424b5390b6367a50"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=28afcfe3d907f7156d3b23aa5a550e0905e45335afd731801775a26d2b927d91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=1065261a28f69a49059586cc853ea917ba0a129e683e72d2d4b102b625b11882",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

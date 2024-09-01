@@ -1,0 +1,34 @@
+{
+  "name": "Wiedererwachen",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "97dd8cdfab89963b2a8c0116f6a21bf32932860e",
+  "culture_invariant_id": 1163,
+  "sort_number": 1171,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Spiele eine Charakterkarte, die 5 oder weniger kostet, kostenlos aus deinem Ablagestapel aus.",
+  "card_identifier": "207/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=ccc70b3f24f3cef66ade3b3d65d9086d1a23a9113dfd16e2829968b4e868b417"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=0e6d774d7c61cfecba6d6a0b8da38290dc9dfc4d6587a7fa4c5131345048877e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=4abc4609a30c61d7a2ff15c44cf789ea201968a1ea690d1c697591f15196c422",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

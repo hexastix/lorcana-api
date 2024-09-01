@@ -1,0 +1,33 @@
+{
+  "name": "The Sorcerer's Spellbook",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Julie Vu",
+  "deck_building_id": "dc6543d1125aab8c86e10f0d622bc9608042ca5c",
+  "culture_invariant_id": 284,
+  "sort_number": 308,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Illumineers seek the power of knowledge—but must be aware of the price.",
+  "rules_text": "KNOWLEDGE , 1 — Gain 1 lore.",
+  "card_identifier": "68/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=0c1db31d959690d0a1158c82eacfbdcfa26f28d7baf8a41bff4cc79628c8433f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=7a8057524d27dabe9d20159c552c08330ac1c95f3e41f826ff6eb2921ba49638"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=edb29f386a5cbb0815a21f41fc7911a6a1e087ca5bb8b12a6a03d775b05a7342",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

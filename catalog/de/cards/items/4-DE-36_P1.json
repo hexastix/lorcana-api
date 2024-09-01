@@ -1,0 +1,35 @@
+{
+  "name": "Verborgener Tintenformer",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Adam Fenton",
+  "deck_building_id": "9a55893ec9534cdf491712143ca14b5696e02b1f",
+  "culture_invariant_id": 952,
+  "sort_number": 929,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es sieht so aus, als wäre er schon ewig hier.%—Fabius",
+  "rules_text": "FRISCHE TINTE Wenn du diesen Gegenstand ausspielst, ziehe 1 Karte. UNERWARTETER FUND Behandle jede deiner Handkarten so, als würde sie um das Kosten-Sechseck zeigen.",
+  "card_identifier": "36/P1 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=76070dd1d2b09e144ac237640f9c2bf6d3f5d049d57fd3305347f6ad05a73adf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=acfdb0f284d3297c249d265b864d7300650ce9a20ff657f5f5884a746a22cf6d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=a15bd994c7ec24e8a69fc130f8e591a54d9649a92d0203601d093ce7eebe7669",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

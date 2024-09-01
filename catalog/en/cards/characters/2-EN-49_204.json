@@ -1,0 +1,42 @@
+{
+  "name": "Madam Mim",
+  "subtitle": "Snake",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Brian Weisz",
+  "deck_building_id": "ecab4fc40a795437b551bd71d462df6cbe7b0bce",
+  "culture_invariant_id": 265,
+  "sort_number": 289,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "I’ve got you rattled now!",
+  "rules_text": "JUST YOU WAIT When you play this character, banish her or return another chosen character of yours to your hand.",
+  "card_identifier": "49/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=4fd44b2dc808aaf0ebf618d73458f9adc20bb50077d21b1096c28288d8287ddd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=5b3442d55f869650ce04c23f7983db4af469412423f31c2f21bf0083c6a71009"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=8deb533dfdf88b601bd80df81d3384c45499380344341b999c0d593dcde4b459",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Flotsam",
+  "subtitle": "Riffraff",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "2bb99c6ebaa84faa87f503ede5ffc12cd846451b",
+  "culture_invariant_id": 508,
+  "sort_number": 543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Ursula needs lore to complete her plan....",
+  "rules_text": "EERIE PAIR Your characters named Jetsam get +3.",
+  "card_identifier": "72/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=9cfecc8919217811e0b2b0ba0012e99d9ed0c9a7d41d09dc85640bad0ed32a8e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=f48e1eacfcd46fcf3cc39c6fba7021514e0ef95ba7ced1c4179567f0875d10cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=e485364f11f1476efb48230f8e899a8e42eead7c8704892cee7f90044b6511b5",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

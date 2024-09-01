@@ -1,0 +1,41 @@
+{
+  "name": "La Fée Clochette",
+  "subtitle": "Fée très maline",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "fd89ea25a0c3cdeeea1cff6ca1da06b611c4a945",
+  "culture_invariant_id": 593,
+  "sort_number": 628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "Elle vit dans un monde où tout est possible.",
+  "rules_text": "JE PEUX UTILISER CECI Chaque fois que l'un de vos objets est banni, vous pouvez le placer dans votre réserve d'encre, face cachée et épuisé.",
+  "card_identifier": "157/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=179f4d197269add53dc4ee64241ca8e0219227516e255787f329cfdb2ce8dc35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=2ad7ebd5501c91dfd6654f45149239e4e21820def5128c5af8b2b99595265af7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=7e48d65f24ae74d5ee1c4ab68dd0da9218a16d79f28fb3b2cc27ee3c76bf7292",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

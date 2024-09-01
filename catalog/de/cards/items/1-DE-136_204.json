@@ -1,0 +1,33 @@
+{
+  "name": "Schwert der Wahrheit",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "9b5182da33f5675484c3cc54fbac2e74faa4cfc2",
+  "culture_invariant_id": 136,
+  "sort_number": 136,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Fast so mächtig wie der Kuss der wahren Liebe.",
+  "rules_text": "LETZTER ZAUBER Verbanne diesen Gegenstand — verbanne eine Schurkin oder einen Schurken deiner Wahl.",
+  "card_identifier": "136/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=1641e6ae944c8f9df3271284f23cc48aa46bd962b00850472467de5ee9fb8174"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=ae8d61254d0971e08bd99a065297e1d52b96a532368e4f554c03c578a86901e5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=4a83dd14c907263ddd1351a2d9dddb22ec4a4e62791b32249a46b9da1a5138f9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

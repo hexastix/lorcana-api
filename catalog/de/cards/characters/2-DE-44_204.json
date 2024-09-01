@@ -1,0 +1,42 @@
+{
+  "name": "Jiminy Grille",
+  "subtitle": "Pinocchios Gewissen",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "6a0e1c5bd5e10ee679a0aaa9eb92ba73c5bafe57",
+  "culture_invariant_id": 260,
+  "sort_number": 284,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor"
+  ],
+  "flavor_text": "Das ist ja fantastisch!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) DIE KLEINE INNERE STIMME Wenn du diesen Charakter ausspielst, darfst du 1 Karte ziehen, falls du einen Pinocchio-Charakter im Spiel hast.",
+  "card_identifier": "44/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=eeb6c6dfbf26c81986660120914e6018122bb12c85fb2185191e2060de74673e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=08d1de6fc6aa8d66659db7454804a4cbec73b021965ac80ec7d6cff1dd7cd623"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=25bf41bc3abf5182df3f66a5a5e93682a6905187944ef14b5d9e77be3394f812",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

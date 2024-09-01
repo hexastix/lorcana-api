@@ -1,0 +1,44 @@
+{
+  "name": "SIMBA",
+  "subtitle": "Roi de retour",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "54d1da804f89e6da94d1e9a335acf6a5baa79ff5",
+  "culture_invariant_id": 215,
+  "sort_number": 215,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Offensif +4 (Lorsqu'il défie, ce personnage gagne +4.) BOND Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier les personnages avec Insaisissable.)",
+  "card_identifier": "215/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=9430e3d691fb6c14fbc388e5180b1c5d5c4f7b65404e981a084195848630c0c1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=b5d08546603210152f684b3d5b625498c8096b6684dc0866d5ea35613337d80a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=fa7e7451750430841f45649f794dba96b9f2b9b7767312b0185dbb25c691227a",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

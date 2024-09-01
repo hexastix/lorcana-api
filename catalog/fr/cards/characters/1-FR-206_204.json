@@ -1,0 +1,42 @@
+{
+  "name": "STITCH",
+  "subtitle": "Surfer insouciant",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Milica Celikovic",
+  "deck_building_id": "37f056db280fdfb5863b00cac14a30c155046633",
+  "culture_invariant_id": 206,
+  "sort_number": 206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "OHANA Si vous avez au moins 2 autres personnages en jeu lorsque vous jouez ce personnage, vous pouvez piocher 2 cartes.",
+  "card_identifier": "206/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=aec2838bba56f927994a5551b785987dc3defb3cd29d31690283a88570ab6cd5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=3c3ca11c8b5308bafc25123b320d4a3b2c7987ec1bbc3d44b63f12e8f368581b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=29718d611598c48e49ce1547efeadcd4df01d7cbe87156f10fa08fbe2e725322",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

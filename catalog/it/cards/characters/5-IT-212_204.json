@@ -1,0 +1,43 @@
+{
+  "name": "Scar",
+  "subtitle": "Leone Vendicativo",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Dominik Mayer",
+  "deck_building_id": "94e713f1c1f184e73a082487f65cd724657ffbec",
+  "culture_invariant_id": 1168,
+  "sort_number": 1176,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) LA VITA A VOLTE È INGIUSTA, NON È VERO? Ogni volta che uno dei tuoi personaggi sfida un personaggio danneggiato, puoi pescare una carta.",
+  "card_identifier": "212/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=d41dbf1667d676357eac746528e296146af2f909e3b9685a938042181ad3f4c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=05a70e34b454dcca7e676845a413d01d5f085fc2e99e9af88540a149c03d24fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=43261794744addadd5f374621f0e089a44b53d0c44b79a2fc4344ab7233d6223",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

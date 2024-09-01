@@ -1,0 +1,44 @@
+{
+  "name": "Idra",
+  "subtitle": "Serpente Letale",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jochem van Gool",
+  "deck_building_id": "d268c6eeb569494fa6c7d349a73b63ef781128e1",
+  "culture_invariant_id": 544,
+  "sort_number": 579,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Se uso l’abilità Protection di Mouse Armor per dare alla mia Idra – Serpente Letale Resistere +1 e poi sfido Minni – Sempre Elegante con quell’Idra, posso usare la sua abilità Attento ai Denti per infliggere danni a Minni?\r\nA: No. Minnie Mouse – Sempre Elegante ha 1 {S} e quindi infligge 1 danno all’Idra – Serpente Letale, ma Resistere +1 ridurrà quel danno di 1 prima che questo venga inflitto all’Idra. All’Idra, quindi, non viene inflitto alcun danno.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Più teste sono meglio di una.",
+  "rules_text": "ATTENTO AI DENTI Ogni volta che questo personaggio subisce danno, infliggine lo stesso ammontare a un personaggio avversario a tua scelta.",
+  "card_identifier": "108/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=01122343167de81aedaa9c5258ac20c27b5cef6ec027d860df397d24cec6424f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=dde37402cc6f36f1d6a3d36956dcb51cc6e515fbb1473900da985bdd3a0f7f39"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=eb3a1953b71b5d7fe68e140519dd649910953ba19f8bf5a70c77c5aa031d9a03",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

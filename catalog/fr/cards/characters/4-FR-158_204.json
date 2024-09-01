@@ -1,0 +1,42 @@
+{
+  "name": "Triton",
+  "subtitle": "Champion d'Atlantica",
+  "strength": 7,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 9,
+  "author": "Erin Shin",
+  "deck_building_id": "f2fe9fa097286b7fd01ef42ad1ab79f945b35dd5",
+  "culture_invariant_id": 849,
+  "sort_number": 859,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Triton.) PRÉSENCE IMPOSANTE Les personnages adverses subissent -1 pour chaque lieu que vous avez en jeu.",
+  "card_identifier": "158/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=3b70ac9a119b6fc8fffe673db84168119bed159260f96cb5dc1d8747ccffb38f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=39a29179741ceb27f544409ca63ddcef3cfe2b51f4914253419bb2cc1c991555"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=ac987cad532a7b9360646f8811d9c64d5189c3984b8ede70c6f277642cd6f0f6",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

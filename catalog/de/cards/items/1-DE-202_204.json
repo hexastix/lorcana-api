@@ -1,0 +1,38 @@
+{
+  "name": "Bratpfanne",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "fcbe5d71be133653c06facfe85f5e8eade8472a3",
+  "culture_invariant_id": 202,
+  "sort_number": 202,
+  "additional_info": [
+    {
+      "title": "Errata - Kartentext",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Text der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem Text: \"Verbanne diesen Gegenstand – Wähle einen Charakter. Er kann in seinem nächsten Zug nicht herausfordern.\" gespielt. \r\n\r\nAlte Version - Klong!:\r\nVerbanne diesen Gegenstand – wähle einen gegnerischen Charakter. Er kann in seinem nächsten Zug nicht herausfordern.\r\n\r\nNeue Version - Klong!:\r\nVerbanne diesen Gegenstand – Wähle einen Charakter. Er kann in seinem nächsten Zug nicht herausfordern."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sie ist ein schönes Kochgeschirr, aber als Waffe ist sie wirklich umwerfend.",
+  "rules_text": "KLONG! Verbanne diesen Gegenstand — wähle einen gegnerischen Charakter. Er kann in seinem nächsten Zug nicht herausfordern.",
+  "card_identifier": "202/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=75018a2188c3e38b1c003316c4f4ce74fea22aed3cef0c1497317e33da1fa329"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=b2d753637e504414090ddc92d89f206153eaaf45f5bf55c495292c43a7433213"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=0a2289dd7e7a8171e9e592a3306f49883119cb094aa6c7a0460c6a0707298e99",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

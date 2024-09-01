@@ -1,0 +1,44 @@
+{
+  "name": "Diablo",
+  "subtitle": "Araldo Devoto",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "bd36724ac6baa50386ab4443e026f5d0e787b2cf",
+  "culture_invariant_id": 902,
+  "sort_number": 912,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione: Scarta una carta azione (Puoi scartare una carta azione per giocare questa carta sopra a uno dei tuoi personaggi chiamato Diablo.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) SORVOLA TUTTA LA REGIONE Durante il turno di ogni avversario, ogni volta che quell'avversario pesca una carta mentre questo personaggio è impegnato, puoi pescare una carta.",
+  "card_identifier": "211/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=9e82de0eec53d9647122e3b77bb2775feedd2c3f0ca5536247599f6f29529ad8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=9022c06ea6e76308c8bce62e5e5eb466f69f655b8dea5ddc59c217b60c280963"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fdf248719fa64097b176ca4d949a5c0d8469db0fddfb608d97f67fdf9dde94a8",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

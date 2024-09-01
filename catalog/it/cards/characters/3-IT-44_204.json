@@ -1,0 +1,46 @@
+{
+  "name": "Scopa Magica",
+  "subtitle": "Spolverino Danzante",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Giulia Riva",
+  "deck_building_id": "cb2138848bcc8eaa3b83ee763a9e79f2de568321",
+  "culture_invariant_id": 480,
+  "sort_number": 515,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Posso scegliere un personaggio impegnato per l’abilità Pulizia Energica di Scopa Magica – Spolverino Danzante?\r\nA: Sì. Nota che anche in questo caso il personaggio scelto non si può preparare all’inizio del suo prossimo turno.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Scopa"
+  ],
+  "flavor_text": "Ordine superlativo.",
+  "rules_text": "PULIZIA ENERGICA Quando giochi questo personaggio, se hai un personaggio Incantatore in gioco, puoi impegnare un personaggio avversario a tua scelta. Quel personaggio non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "44/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=206ff299060cf3822ac3988be12b400b6dcce11f7952341991f3a2f6e8735cba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=1dfdef21b67c5dfb7d7c756093110aaa9c67c7f473612349888e7892eb702b3c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=e91350a3a5fd6c1da04dfe1b6f4b7eafb2b16713ae391f3510a868d7ad355998",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

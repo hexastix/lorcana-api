@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Détective Privé",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "f3066e534c839456566a4571a3fe088026b39ce7",
+  "culture_invariant_id": 354,
+  "sort_number": 378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Détective"
+  ],
+  "flavor_text": "Il y a toujours une solution.",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Basil.) TANT QU'IL Y A DE LA VIE, IL Y A DE L'ESPOIR Si vous utilisez Alter pour jouer ce personnage, vous pouvez piocher 2 cartes lorsqu'il entre en jeu.",
+  "card_identifier": "138/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=e05c9e7f27f24feb44fcca03a7c336e6dfdd84b99e881c81e33e1e2cd3675b57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=28d427d74bc6169f5ef3ceb09e83f4a2adb22ebfecbc9a95704719e0b89b0e00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b9a7a5d872a048c01fb38310323699c9408ecd58c8f0f758cc741d911441f50f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tatziatella",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "651952e179e63cca4db165a7416ab0c4d3f16556",
+  "culture_invariant_id": 385,
+  "sort_number": 409,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "JUMBO-POP Wenn du diesen Gegenstand ausspielst, darfst du 1 Karte ziehen. DAS IST KIRSCHHOLZ Verbanne diesen Gegenstand – Entferne bis zu 2 Schaden von einem Charakter deiner Wahl.",
+  "card_identifier": "169/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=4f02e2c67ab970b08874a2fb41b3d226236fb9bbdeda7da6b4e93d740ce58a55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=f80d82d307059f307c718bdf338c113f58ab10a6f3c2b50babc036d9d488368e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=a05ba5e0537617437500bbd0608b9df7a7de8efe0f2b94c1d576fca3abf72dc9",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

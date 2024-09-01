@@ -1,0 +1,34 @@
+{
+  "name": "Talismano Sumero",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Adam Bunch",
+  "deck_building_id": "785c3874dacb812c954b54cfba364b5a22125aa3",
+  "culture_invariant_id": 569,
+  "sort_number": 604,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Spirito sorgi dall'oscurità, mostrati in questa mia realtà.%—Lena Sabrewing",
+  "rules_text": "FONTE DI MAGIA Durante il tuo turno, ogni volta che uno dei tuoi personaggi viene esiliato in una sfida, puoi pescare una carta.",
+  "card_identifier": "133/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=5ea42a07328e80da37ebe61579cfd95ac8826283e8b40cbfa0c2e1e1c2a0e578"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=9bc7b5611258d074c59b2db354b99614656d1db897ed3fded8f06677e675ea4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=a90f71fe4bc5de5cb9b20b7902fc75546f66f30404ecd3b1f203b347eed9d252",
+  "card_sets": [
+    3,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

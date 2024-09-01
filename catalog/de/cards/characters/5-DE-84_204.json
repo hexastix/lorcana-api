@@ -1,0 +1,44 @@
+{
+  "name": "Klarabella",
+  "subtitle": "Mit leichten Hufen",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Jennifer Park / Livio Cacciatore",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1040,
+  "sort_number": 1048,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Klarabella-Charaktere auszuspielen.) IM TAKT BLEIBEN Am Ende deines Zuges, wenn eine gegnerische Person deiner Wahl mehr Karten auf der Hand hat als du, darfst du so viele Karten ziehen, bis ihr die selbe Anzahl an Handkarten habt.",
+  "card_identifier": "84/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d979e153e525f131e5a85a83367aeab7e017d00e5e653ad2002bea121a59d5f4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=6c9912043b44ad651dd312c3a95ea96b8f936b614968ae72800a328b1c76ac3c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d12b87787dc7e7b72e0618ab5f730490644806a4ccad5751222f17bfbe51dbef",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=d5e0bd38f6189d165fd6e89052fb0ed6e21cacbd976b18354ff69184fd76f04b",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

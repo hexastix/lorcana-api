@@ -1,0 +1,40 @@
+{
+  "name": "Tritone",
+  "subtitle": "Re Accorto",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "633d4a96c208e764155fc83b9f94d76fda5454b9",
+  "culture_invariant_id": 850,
+  "sort_number": 860,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Re"
+  ],
+  "flavor_text": "Se questo deve essere l'unico modo, ebbene sia.",
+  "rules_text": "CONSEGNARE ALL'ABISSO , esilia uno dei tuoi oggetti — Ottieni 3 leggenda.",
+  "card_identifier": "159/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=798f48ed3ed6aa07c258c889e5b7865aa61bf4e62f5999c6741dda2c64706c27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=a71c401439207c16a0cc47f570d8a9a629ed5fc8203bab692b444207fb2139c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=60e248f3e571b24afdb3a84b713af0d0136a3339c12aac363bff092b6074768e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

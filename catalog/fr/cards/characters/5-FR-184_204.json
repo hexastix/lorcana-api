@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Injustement traitée",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "de2bbba966f5728b34ff142c8f594b4bc193ef32",
+  "culture_invariant_id": 1140,
+  "sort_number": 1148,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Que voulez-vous dire par ‘pas sur la liste’ ?! Je vous ai dit de <toujours> me mettre sur la liste!",
+  "rules_text": "JE T'AVERTIS ! Durant votre tour, chaque fois que l'un de vos personnages en bannit un autre via un défi, vous pouvez choisir un personnage et lui infliger 1 dommage.",
+  "card_identifier": "184/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=5ded19893fb1bb6184fb72bc633d7be6d5929820359a1e1873a8b95f6b9cc9e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0cc1981f1b15831aa8cd078062a2eac814d7b56d3a51c2087ea4b71d861779d6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=baa0af97938d193154e55ba3566047269820141a77197ad95e44d7c3ed365754",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

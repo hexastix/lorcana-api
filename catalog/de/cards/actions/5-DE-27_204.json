@@ -1,0 +1,33 @@
+{
+  "name": "Wiedererwachen",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Jared Mathews",
+  "deck_building_id": "97dd8cdfab89963b2a8c0116f6a21bf32932860e",
+  "culture_invariant_id": 983,
+  "sort_number": 991,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Nicht alles, was verloren ist, ist für immer weg.",
+  "rules_text": "Spiele eine Charakterkarte, die 5 oder weniger kostet, kostenlos aus deinem Ablagestapel aus.",
+  "card_identifier": "27/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=0fe564391c954f5766527b2ba2be65ac0eeea4ea397a6c1ab5047f9c9aa8a32d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=9f5865d3bfab18dee333d05990bb91fe08d755955750912cb05ed4c7fe2bd1a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=2aefc94a2b9baf3eb6cff5e4b84751cc918571b9c15e74ddcb11689ed7d19826",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

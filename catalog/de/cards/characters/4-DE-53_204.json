@@ -1,0 +1,42 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Wettermacherin",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1aea1a364780b0736c993d3055013dd602442cf8",
+  "culture_invariant_id": 744,
+  "sort_number": 754,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "BRUNO KÜNDIGT REGEN AN Wenn du diesen Charakter ausspielst, darfst du einen gegnerischen Charakter deiner Wahl erschöpfen. Wenn er nicht an einem Ort ist, wird er zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "53/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=8489e7d2c3b78187ba9a0512f8013ab282a2fb293bb926eb364758c74f2f18fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=7456852a065b13e06870a5b5c74f2b07f4bbf581a4fdc8172ebd352737ec306a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=5e5e3c5dd4992f3ebeb7ef7dc21bb2a3a1859f3000243838b49cc1aa0d88d7e5",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

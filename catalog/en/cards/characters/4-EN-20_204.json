@@ -1,0 +1,41 @@
+{
+  "name": "Pluto",
+  "subtitle": "Rescue Dog",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "90509aa765f200ec9ee3743bb833e8fd9c8dfbb2",
+  "culture_invariant_id": 711,
+  "sort_number": 721,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "When you need help, his is the first face you want to see.",
+  "rules_text": "TO THE RESCUE When you play this character, you may remove up to 3 damage from one of your characters.",
+  "card_identifier": "20/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=493588a489e5333333a978b4527db5835724c0247a1db80200ec4597dd29a419"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=85b135c8d39520dea86c5d939a7d5850878ee6cd0885d436def5ec1622e089b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=6d67d51a65c70a9d244f78c02e25bbde1f9734ff8991f73753aa6c6a7eca3cc0",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

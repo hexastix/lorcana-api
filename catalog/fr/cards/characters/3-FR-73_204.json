@@ -1,0 +1,45 @@
+{
+  "name": "Frère Tuck",
+  "subtitle": "Prêtre de Nottingham",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Denny Minonne",
+  "deck_building_id": "36d317eaeebe671e69cbcdf9e312cd7ae4db6a4d",
+  "culture_invariant_id": 509,
+  "sort_number": 544,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Lors d’une partie à 2 joueurs, j’ai 4 cartes en main et mon adversaire en a 3. Si je joue Frère Tuck – Prêtre de Nottingham, lequel d’entre nous doit défausser une carte ?\r\nR : Votre adversaire et vous-même devez chacun défausser une carte. L’effet qui compare le nombre de cartes en main de chaque joueur s’applique après avoir joué Frère Tuck. Il ne compte donc plus dans le nombre de cartes dans votre main. Par conséquent, vous et votre adversaire avez chacun 3 cartes en main et êtes à égalité dans le nombre de cartes en main au moment où se déclenche la capacité de Frère Tuck.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Sortez de mon église! Ouste! Ouste! Ouste!",
+  "rules_text": "IMMONDE COQUIN Lorsque vous jouez ce personnage, le joueur ou les joueurs ayant le plus de cartes en main choisissent une carte et la défaussent.",
+  "card_identifier": "73/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=146abefd92e9d26fb3db63f2c1dd52353d12062e484ea553dcdbd4e040d25e71"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=065ef19b58d502216b4681802f50790aafc4dc684c9cfd772f4e2c84920ba849"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=d780c3f344206cdd2220dfa21f551e2dcb0004edb322a87806845f410377fa2f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

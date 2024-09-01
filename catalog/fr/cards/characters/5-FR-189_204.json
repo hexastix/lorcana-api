@@ -1,0 +1,42 @@
+{
+  "name": "Timide",
+  "subtitle": "Chevalier servant",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Mariana Moreno",
+  "deck_building_id": "3cf4b19a2648e56f2b033173866e792f12a00589",
+  "culture_invariant_id": 1145,
+  "sort_number": 1153,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Chevalier",
+    "Sept Nains"
+  ],
+  "flavor_text": "",
+  "rules_text": "IMPRESSIONNER LA PRINCESSE Tant que vous avez un personnage Blanche-Neige en jeu, ce personnage-ci gagne Rempart. (Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "189/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=25682efafc0e5bb14ab05dbb58fd10577838f8331e952861ff9e7069fc2f379e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=25828c9ea1e8e1bd05876a92766d0d842706e0cb31a986d81d1ca9adf750254f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=983c9e8ee5bdd7ad2fde6060aa2cbc08b17e32a7540a515fed67c5df82f80a0e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

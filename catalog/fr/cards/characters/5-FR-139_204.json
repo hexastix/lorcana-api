@@ -1,0 +1,44 @@
+{
+  "name": "La Reine",
+  "subtitle": "La plus cruelle",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "6522f49b10eefa0162d9f38ed91efba1027e5efc",
+  "culture_invariant_id": 1095,
+  "sort_number": 1103,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "Ayant constaté ce que l’Encre faisait à d’autres Glimmers, elle se demanda quels pouvoirs elle pourrait gagner...",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "139/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=9406cfbb5bdb0c5d27fcb090d2ed09b9bdbbe31cee70632f4957232abc40c4d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=4c0ea2910c1f1fbf7a167729ca49ccc1c42a5268fc5d409b4d746413d8dcac55"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=16d3c017d5d5559319b772940e23ea10695214dcd00d11f80b01818b4cdd75ed",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

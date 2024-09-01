@@ -1,0 +1,38 @@
+{
+  "name": "Letzter Versuch",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cf37b6d51b29ef3781307521b75714776bf0549a",
+  "culture_invariant_id": 498,
+  "sort_number": 533,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Eine gegnerische Person hat nur einen Von Unruh - Standuhr im Spiel, welcher Behütet hat, und keine weiteren Charaktere, kann ich trotzdem Letzter Versuch spielen um meinem Charakter Herausfordern +2 zu geben?\r\nA: Ja, kannst du. Wenn Letzter Versuch einen Charakter auswählen möchte, um diesen zu erschöpfen, aber keinen auswählbaren Charakter finden kann, schlägt der erste Teil der Fähigkeit fehl. Du kannst aber trotzdem ein Ziel für die zweite Fähigkeit auswählen um diesem bis zum Ende des Zuges Herausfordern +2 zu geben.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ich geb dir Deckung!",
+  "rules_text": "Erschöpfe einen gegnerischen Charakter deiner Wahl. Wähle danach einen deiner Charaktere, er erhält in diesem Zug Herausfordern +2. (Während der Charakter herausfordert, erhält er +2).",
+  "card_identifier": "62/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=05f97683f1e64d104ef3d0215ea1259eb5759bc62f4b0d79bcc2107767f6e784"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=e35ff584ed5142876f0aea8aee965fe233458bccb224c5eab35ae11a98d4a99e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

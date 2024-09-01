@@ -1,0 +1,37 @@
+{
+  "name": "Il Grande Illuminarium",
+  "subtitle": "Sfavillante Salone delle Feste",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "2a85c33d948660b7c2e070d5eec49a5d5b4e5f30",
+  "culture_invariant_id": 1125,
+  "sort_number": 1133,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ogni superficie riluce della gioia dei festeggiamenti.",
+  "rules_text": "CALDO BENVENUTO I personaggi con Aiutante ricevono +1 e +2 mentre si trovano in questo luogo.",
+  "card_identifier": "169/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=73bb514afc85bcbdbf59d6f8531b564e46d01e2888ad2e06f8f3149521e4190b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=c3b0eaf8374ffbb8272f092264943ca3a321a1adb0087fab80b3f8d01d3ea885"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=9f47906677cbdf5fc196243ae3cca674159da917d4924e3bf4ee0d68ec301a7f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

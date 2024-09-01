@@ -1,0 +1,33 @@
+{
+  "name": "Dernier canon",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jared Nickerl",
+  "deck_building_id": "6c5152c3b21edb6a64d7891cda39fae29a7ee4e2",
+  "culture_invariant_id": 418,
+  "sort_number": 442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Il suffit d'un seul tir pour tout changer.",
+  "rules_text": "ARME-TOI 1 , Bannissez cet objet – Choisissez un personnage, il gagne Offensif +3 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne + 3.)",
+  "card_identifier": "202/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=b75f31abbd2da83397241cfa5070de8f2647e35eb8963ed157166d17fe1e5f19"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=bbf0b3e8f769b37b8d05b7c8d51d325c0a748c906dc4eecb7554070e5c6965cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=32cda0e36336a213f5dd8a00cb340c1cfcd60b55a84dde1a8a0e2de6ad3f4275",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

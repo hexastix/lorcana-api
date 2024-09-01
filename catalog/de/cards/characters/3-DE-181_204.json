@@ -1,0 +1,40 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Unerschütterlicher Entdecker",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Louis Jones",
+  "deck_building_id": "455e0ad8701e0c3a71632e7c7d3de965c41fe998",
+  "culture_invariant_id": 617,
+  "sort_number": 652,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Micky wusste genau, wo er mit der Suche nach dem Zauberhut anfangen musste, aber er hatte nicht erwartet, dass dieser bewacht wurde.",
+  "rules_text": "SCHAUEN WIR UNS DAS MAL AN Dieser Charakter erhält +1 für jeden Ort, den du im Spiel hast.",
+  "card_identifier": "181/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7252ccab6008eb86900f64a7d586c9a9b20970b152a8318ea91bb0afbeb5b260"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=1626bb97124f89380f5662e6a9b2ea6c34196a0ade2dc32b90ef8c4686fa806e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=94cc2ae649c7ee5ef47fe0d356e513debe625d0ebe304df747b6b67b7d5da838",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

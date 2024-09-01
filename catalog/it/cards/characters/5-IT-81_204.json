@@ -1,0 +1,41 @@
+{
+  "name": "Ed",
+  "subtitle": "Festaiolo Svalvolato",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "5e6406aaa374d7b2bc273392407785819a729b39",
+  "culture_invariant_id": 1037,
+  "sort_number": 1045,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Iena"
+  ],
+  "flavor_text": "Per quanto lo riguarda, il cattivo gusto non esiste.",
+  "rules_text": "OSPITE RUMOROSO I personaggi danneggiati non possono sfidare questo personaggio.",
+  "card_identifier": "81/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=c771c9b22bc67508a1ac3dfd50ee52e71a69f8fcdc70472a8e99539aaebb886e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=cb70bf322b251de7208083592725e77291007148fa3a379e13f61f0cb7341d0a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=7b4d53734124cd74b3264ca512d7ca9b6c28ae4f06e1b1e9d869371bfb6141f4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

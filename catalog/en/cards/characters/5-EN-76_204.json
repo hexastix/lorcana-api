@@ -1,0 +1,41 @@
+{
+  "name": "Merryweather",
+  "subtitle": "Good Fairy",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eri Welli",
+  "deck_building_id": "6c35723c292aac252c2a8a33118cbc89f23b554c",
+  "culture_invariant_id": 1032,
+  "sort_number": 1040,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Fairy"
+  ],
+  "flavor_text": "The most beautiful color is blue!",
+  "rules_text": "RAY OF HOPE When you play this character, you may pay 1 to give chosen character +2 this turn.",
+  "card_identifier": "76/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=193755062ae804d793c29eb5586978d6dca7f225e557cde6004f513247634538"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=54a8043d274e06752ba2e17cbf6a7547bf11c6cfdae32e5f69a90615358ec698"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=77b13d832f0ac068552f0e2ca3c8a1ef5875fc1b1ece676149e40be2b25130b8",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

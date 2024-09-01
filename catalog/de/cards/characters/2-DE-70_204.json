@@ -1,0 +1,46 @@
+{
+  "name": "Biest",
+  "subtitle": "Unerbittlich",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "1f998b8d166c57c497364060cda6ba1cc7a4a1bf",
+  "culture_invariant_id": 286,
+  "sort_number": 310,
+  "additional_info": [
+    {
+      "title": "FAQ 3",
+      "body": "F: Mein Gegner kontrolliert eine Kopie von „Fabius - Stimme der Vernunft“ und 4 Kopien von Mäuserüstung. In seinem Zug hat er die „Schutz“ Fähigkeit aller 4 Kopien von Mäuserüstung verwendet und jedes Mal Fabius ausgewählt, sodass er Robust +4 hat. Wenn mein Biest jetzt den gegnerischen Fabius herausfordert, kann ich die Fähigkeit „Neuer Aufschwung“ von Biest nutzen, um ihn bereit zumachen?\r\n\r\nA: Nein, das kannst du nicht. Wenn einem Charakter mit Robust 4, 4 Schaden zugefügt werden würden, aber alle 4 durch Robust verhindert werden, dann wurde auch kein Charakter beschädigt. \r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich werde denjenigen finden, der aus dem versiegelten Buch der Legenden entkommen ist. Komm mir dabei nicht in die Quere!",
+  "rules_text": "NEUER AUFSCHWUNG Jedes Mal, wenn ein gegnerischer Charakter Schaden erhält, darfst du diesen Charakter bereit machen.",
+  "card_identifier": "70/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=fd0bdd7509e95aa9b9915d6276fb9d23a98b8299c71b52dcf05f89abbc7d072c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=71c11f0343c71df5a7119b395f73c14c7d7dbb4bc35d54872050f62951b60a49"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9597bfbbba2d4058d332ff6325fd864c3662ad78b1e5587ec2de39385498bba9",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

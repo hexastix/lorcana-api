@@ -1,0 +1,41 @@
+{
+  "name": "Mulan",
+  "subtitle": "Combattant en armure",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "d7114e7a4426e7b0c237363dd0c72b71183ddbe2",
+  "culture_invariant_id": 880,
+  "sort_number": 890,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Peut-être que ce que je voulais, c'était la preuve que je vaux quelque chose. Et quand j'ai regardé dans le miroir, j'ai cru voir quelqu'un de bien.",
+  "rules_text": "",
+  "card_identifier": "189/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=1da2f19c22a958f1aa1e9cfc3c441940dc3706ca19e5c325b5bf0f53570b2b4c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=3e29c4de84436801d2905cda7e42693f2ee20f7ac8e1269a75acd214b9bdf11d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=da54b4e92e8ebaa8bd20cb68418347fc4282db0f6ce3582d4f3338df3f27ece2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Scudo di Virtù",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Eri Welli",
+  "deck_building_id": "36603d551c1f7baf9ea15d2dc93a461dbead7c0b",
+  "culture_invariant_id": 135,
+  "sort_number": 135,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Armati di questo magico Scudo di Virtù e di questa possente Spada di Verità, poiché queste armi di giustizia trionferanno sul male. —Flora",
+  "rules_text": "IGNIFUGO , 3 — Prepara un personaggio a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "135/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=6dd5f7836f57e249e8b7e99ffe6c96904e271726b33612708d70eb077fb0a101"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=47e3475a3dd0fe2ef052f25d37db55e7f10ad95a8dc36f3672cebfd1e6e6a8bc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=59ecdda2cf32ba4143ba460eef262bc1669b369288402b2307406d76084347c3",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

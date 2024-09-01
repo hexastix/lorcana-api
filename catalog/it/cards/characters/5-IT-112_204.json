@@ -1,0 +1,40 @@
+{
+  "name": "Topolino",
+  "subtitle": "Ballerino Entusiasta",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "a0cc1cbe850b058691e14ae966fb8a3cf4055116",
+  "culture_invariant_id": 1068,
+  "sort_number": 1076,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Adora stare sotto i riflettori con una stella come Minni.",
+  "rules_text": "PARTNER PERFETTI Mentre hai in gioco un personaggio chiamato Minni, questo personaggio riceve +2.",
+  "card_identifier": "112/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=9ceff111b656d2bbe0a9b4a7ed707049a98c5b3bc25ceefc96582f30af6efc11"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=2388145522f982d395a04507acc017928c960175ee4d6740f514d058339fb9cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=6f597fca4085f67b10e2cb0960938677bebad1ad9d710bc143d41efe91d51adc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

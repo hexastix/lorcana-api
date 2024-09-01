@@ -1,0 +1,44 @@
+{
+  "name": "Ercole",
+  "subtitle": "Beneamato Eroe",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f866b4683c87eff51a272c4dd392843627dd0da3",
+  "culture_invariant_id": 871,
+  "sort_number": 881,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.)",
+  "card_identifier": "180/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=039bba5d75f003ac632aac3dd9c8a5c6bd220e7f20353c9897438c00cd6ae378"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=50eb14509c6e200de813b38a5695b6b8030801738b8dab8ff2c4b5edce78cf48"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=5f74361dc290c16f1c4d8ff698b66b57a73ed94ab8bdb78a5a0ac239c031f0d1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

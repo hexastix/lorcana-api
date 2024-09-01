@@ -1,0 +1,37 @@
+{
+  "name": "La Terre des Lions",
+  "subtitle": "Le rocher des lions",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Beverly Arce / Jonathan Livslyst",
+  "deck_building_id": "df2e59641883d44ec34c12b9ba600f92f8be0ec2",
+  "culture_invariant_id": 469,
+  "sort_number": 504,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "C'EST COMME LES MAILLONS D'UNE CHAÎNE Les personnages sur ce lieu gagnent +2. DEMEURE DES LIONS Si un personnage Prince ou Roi se trouve sur ce lieu, jouer des personnages vous coûte 1 de moins.",
+  "card_identifier": "33/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=5c4cf1b0670351c00b2508c4e4760871f7f204d5887c041ffe718fc97a6d199b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=ffc7ccd6dee4e4f5b13b19f4ff7f8eca0515ee630a3d4dbf91dca3a3f730caaf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=ee0f520a17193a7a5ab1cada4e811d5ac57607010b68a275cee11a53bd411636",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

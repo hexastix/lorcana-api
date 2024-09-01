@@ -1,0 +1,40 @@
+{
+  "name": "Pete",
+  "subtitle": "Wrestling Champ",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "5d4ac7161bfe7af9982b72789e53ee2a506ae7bf",
+  "culture_invariant_id": 1143,
+  "sort_number": 1151,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "flavor_text": "He'll have you seeing double.",
+  "rules_text": "RE-PETE – Reveal the top card of your deck. If it's a character card named Pete, you may play it for free.",
+  "card_identifier": "187/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=7a095f547d0b127ee315af1c54f22fdba890495466cb379a626a25dfabf46722"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=56299cc6d93cb2f5d47c464f7b1d05dad909a2f457e564bcd5940aa4fb6a4c15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=0eccfc1c3f9b76dd75e7d61966ed4d7bc06615afad6d64825bef296e9fcb9ff6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

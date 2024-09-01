@@ -1,0 +1,37 @@
+{
+  "name": "The Great Illuminary",
+  "subtitle": "Radiant Ballroom",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "2a85c33d948660b7c2e070d5eec49a5d5b4e5f30",
+  "culture_invariant_id": 1125,
+  "sort_number": 1133,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Every surface glows with the joy of celebration.",
+  "rules_text": "WARM WELCOME Characters with Support get +1 and +2 while here.",
+  "card_identifier": "169/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=d14adf5fadb5b95a41da2fbac37c82c3c885f00fde2a4308d6de0e337c3e3e74"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=ba3ceba9674b74ce63e426ffb205c9f1b2900faca9b358e323d1212ca0b08bf5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=9f47906677cbdf5fc196243ae3cca674159da917d4924e3bf4ee0d68ec301a7f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

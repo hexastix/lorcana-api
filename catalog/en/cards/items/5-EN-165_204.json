@@ -1,0 +1,33 @@
+{
+  "name": "Medal of Heroes",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Toni Bruno",
+  "deck_building_id": "286a732f67c5d41fdf485c1310e810e1f5b650f5",
+  "culture_invariant_id": 1121,
+  "sort_number": 1129,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "You have etched in the rock of virtue a legacy beyond compare. —General Hologram",
+  "rules_text": "CONGRATULATIONS, SOLDIER , 2 , Banish this item — Chosen character of yours gets +2 this turn.",
+  "card_identifier": "165/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e3e8249dbfd9d61d13fa84b8b4fad0a1b6d0a699e5448bb44a391cc0aacebe39"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=1c60ebd655aaa008cbe47c22194e4a01accf8a1521583ed0a4bf10ecdc77ef85"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=5e26c8640203558f637c15f29e2ef7d99222e9546194c2ea11046a5cf42138dc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

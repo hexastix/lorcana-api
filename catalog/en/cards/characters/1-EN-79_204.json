@@ -1,0 +1,40 @@
+{
+  "name": "Horace",
+  "subtitle": "No-Good Scoundrel",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "fb1f97b1f33d5d99e2c0a5c21f6d84dde83a0934",
+  "culture_invariant_id": 79,
+  "sort_number": 79,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Well, they ain’t in here, Jasper.",
+  "rules_text": "",
+  "card_identifier": "79/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=acd66676948455cc07477f649fa65994888bb6d30433f0279e9be72505eb6037"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=9d9028eb1bab1c859bd88d11db2572f4279b5e36c527831f13c8b47c842e7e55"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=6975f7c4b308cdc54ef65a372e81d4698f1ea362698691f651f6e5236d1d1abf",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

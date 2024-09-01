@@ -1,0 +1,41 @@
+{
+  "name": "Porcinet",
+  "subtitle": "Si petit animal",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kiersten Hale",
+  "deck_building_id": "94befa3b5fbc740a96bf7108e9ac93016e840fac",
+  "culture_invariant_id": 234,
+  "sort_number": 258,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Pour un si petit animal, il a un très grand cœur.",
+  "rules_text": "",
+  "card_identifier": "18/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=72def6510c65b560687a9e42b757bdff5cbbcf86391afa3605e5cbb76efc1aab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=1ef273e3460054ec5e78befd50ea127a703579072aab828d6e1c68a3fc3f905e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=72feaa88766c94d3a5027e975f924c61bdb7afe0471aa99d72282d5e59e5fe80",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

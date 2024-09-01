@@ -1,0 +1,43 @@
+{
+  "name": "Olaf",
+  "subtitle": "Happy Passenger",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Alice Pisoni",
+  "deck_building_id": "6b436a5973bdf158f42db6f0468d40f368f6e4e9",
+  "culture_invariant_id": 1165,
+  "sort_number": 1173,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "CLEAR THE PATH For each exerted character opponents have in play, you pay 1 less to play this character. Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "209/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=a31ce1c3a664786e79c78debc11b8dcc77603116f6816439e6ab695a7b3668bd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e450d8518449d5745b1325d657132bbce5b803af83bd7c4bbfe0d97c182a1547"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=86dba9a264ca777b215361db98a5eca8f7e10de2f089bdb2abfadecc35c216d8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

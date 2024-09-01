@@ -1,0 +1,43 @@
+{
+  "name": "Maui",
+  "subtitle": "Soaring Demigod",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "5dbaface98eade9dac7b113a051ff1632bc17fc4",
+  "culture_invariant_id": 549,
+  "sort_number": 584,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Reckless"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "flavor_text": "You got any more of those chickens hanging around?",
+  "rules_text": "Reckless (This character can't quest and must challenge each turn if able.) IN MA BELLY Whenever a character of yours named HeiHei quests, this character gets +1 and loses Reckless this turn.",
+  "card_identifier": "113/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=d292c2e0490c85c7852ff2bb6735eacb820b54016c3b027eee154cab6664e42a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=c752fed11c2b330f7eae2316b9dd6199cacfedababa7b4a3810754bbf43e3eb5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6ab29418751cb96955ee5e86fce4209ddf9cdd7397866bb54a87bce2688cd315",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

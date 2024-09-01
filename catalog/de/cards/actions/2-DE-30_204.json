@@ -1,0 +1,40 @@
+{
+  "name": "Wir malen die Rosen rot",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "003e83f940426d943bddbae6a42d20fe26abf042",
+  "culture_invariant_id": 246,
+  "sort_number": 270,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "F: Kann ich denselben Charakter zwei Mal wählen, um diesem insgesamt -2 Stärke durch „Wir malen die Rosen rot“ zu geben?\r\n\r\nA: Nein, das kannst du nicht. Wenn du mehr als einen Charakter mit der Fähigkeit von „Wir malen die Rosen rot“ wählst, müssen es verschiedene Charaktere sein.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Gib bis zu 2 Charakteren deiner Wahl in diesem Zug jeweils -1. Ziehe 1 Karte.",
+  "card_identifier": "30/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=ae5f714aed8e93e6f65c47af5004b2f98856c0616b7a334bfef21e0557af33d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=82894af7b1cb302af89d9a45262bd619021b99688e03570217d6e54ecd2909cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=2217430470961d5ae233253d97b44136d770e075e9805ac38a31bab291fc5f4c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

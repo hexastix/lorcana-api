@@ -1,0 +1,33 @@
+{
+  "name": "Wer's findet, darf's behalten",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Andy Estrada / Stefano Zanchi",
+  "deck_building_id": "5e2657fa5dbffd004f504784ce267a28e50d742c",
+  "culture_invariant_id": 1016,
+  "sort_number": 1024,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Drei Wünsche, kommt sofort!%—Jago",
+  "rules_text": "Ziehe 3 Karten.",
+  "card_identifier": "60/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=de0867d8e5c18f7f2a2b0de63dc4397f0d33aa0eacc5d641d4566881ace84e5a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=c57b04c2f72b0ec0efd528d2f339918535e142b72c203c570c8b02c8c18dcad4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=e4fb0770cd879f8d034ca62143b9474c9980df9d06f13aefceb23ff3b618fcfc",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

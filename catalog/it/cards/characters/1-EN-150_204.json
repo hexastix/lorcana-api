@@ -1,0 +1,41 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Sinister Visitor",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Nicholas Kole",
+  "deck_building_id": "adecc4b6ee1d237ebac87d8e0f1e47f2dd689564",
+  "culture_invariant_id": 150,
+  "sort_number": 150,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel.. . .",
+  "rules_text": "",
+  "card_identifier": "150/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=58709b66cc6896c911f95407f185819f223e23f62d74476e32b2563ec2af1488"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=ddfc5189a2c3de8c365e200a57596b264bce3ae7d5f2a3f3794d329087c1e7d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=252090c9d14cc08a34fe3f981ff2ee8118f664605ff4198dfb3b7b7270a52e11",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

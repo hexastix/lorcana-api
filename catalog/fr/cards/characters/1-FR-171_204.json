@@ -1,0 +1,40 @@
+{
+  "name": "ALADDIN",
+  "subtitle": "Hors-la-loi acculé",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Randy Bishop",
+  "deck_building_id": "eebe1c4ff92d2e3ba65cbbd98be63816dfdd9b5b",
+  "culture_invariant_id": 171,
+  "sort_number": 171,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Oh, oh! On dirait que le vaurien a trouvé un sabre… et du courage! — Razoul",
+  "rules_text": "",
+  "card_identifier": "171/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=645d916de2bd82375dc3f685c97a571fc8c84666f45a13806d01c68424703408"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=308ef00c0ec39c402d4ee7eae03cb5da833b5a1ddb13f1d50e78da5721ea8e7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=0f6c1a2102609300678659dc4b9e0054ede9707f4f1893a7cc006455bebc0de4",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

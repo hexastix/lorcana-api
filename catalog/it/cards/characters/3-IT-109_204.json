@@ -1,0 +1,45 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Viaggiatore Spaziale",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "69de13009dc28237f575685f6879507f0b8a9a5e",
+  "culture_invariant_id": 545,
+  "sort_number": 580,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Se gioco un luogo usando l’abilità Guarda qui! di Jim Hawkins – Viaggiatore Spaziale, posso muoverlo in quel luogo usando la sua abilità Prendere in Mano il Timone?\r\nA: Sì. Nota che puoi farlo non appena uno dei due (o entrambi) entra in gioco.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Farai tremare le stelle, davvero.%—John Silver",
+  "rules_text": "GUARDA QUI! Quando giochi questo personaggio, puoi giocare gratis un luogo con costo 4 o inferiore. PRENDERE IN MANO IL TIMONE Ogni volta che giochi un luogo, questo personaggio può spostarsi in quel luogo gratis.",
+  "card_identifier": "109/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=dae88ff87d32774dd22ca6d29a82cb7b59bd014e137aaf1fca96595bd823f749"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=3402c94f0daaadd00f983a7c3b71f32422ed190d14543dd68268dd54c007401d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=706f82e5f42932d4f69671a060ea2df29955b94f61c0881376d760dae12f2d38",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

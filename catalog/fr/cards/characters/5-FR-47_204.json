@@ -1,0 +1,44 @@
+{
+  "name": "Archimède",
+  "subtitle": "Hibou électrique",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Michaela Martin",
+  "deck_building_id": "578bdd170d24c10c27b0de9d21eb62b130201c69",
+  "culture_invariant_id": 1003,
+  "sort_number": 1011,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Insaisissable",
+    "Offensif"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Archimède.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) Offensif +3 (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "47/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=281a20862188468f3e76617a7df2b18e4177ef751ee374ca62f611bcbed342e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=4b1fd8251372006736de858dd16ccecc2d4c40a19abfd78e330256050159c1ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=092cfe9158c58ff7ad2671dab59f6ef5885b56e13fa5d5a867edad403b0a9794",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

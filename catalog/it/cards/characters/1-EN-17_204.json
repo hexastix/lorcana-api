@@ -1,0 +1,40 @@
+{
+  "name": "Pumbaa",
+  "subtitle": "Friendly Warthog",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jenna Gray",
+  "deck_building_id": "32fd3b35af3bf2b32dc0ef71e6096d08e28b2b30",
+  "culture_invariant_id": 17,
+  "sort_number": 17,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "You gotta put your behind in your past.",
+  "rules_text": "",
+  "card_identifier": "17/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=62f638558339f4ffac4ef45977d986a45fde01fe5d89d09ad56985d41c69fe6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=e50891192761aa46ac3cb4892409b44493dc559df90c71747f9f192024e3085a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=59134cef0e43a0a3e4d933bce8749dd51536836a18421dbff8797fe3571a2217",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

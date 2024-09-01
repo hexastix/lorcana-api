@@ -1,0 +1,33 @@
+{
+  "name": "PLUME EN FORME D'ARÊTE",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Tanisha Cherislin",
+  "deck_building_id": "71199ad50613a681494b9d5ea29643eddfd5a045",
+  "culture_invariant_id": 168,
+  "sort_number": 168,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Si tu veux vraiment passer le pont, il faut payer l'addition. — Ursula",
+  "rules_text": "SIGNE! - Placez une carte de votre main dans votre réserve d'encre, face cachée.",
+  "card_identifier": "168/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=637214e1a22ea6044db8844fd2e2d208f5092525ca47efa3ff7a748dbd23b301"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=2281a3ae40d07fe9f10db3be88447f4f23986e24f665c7688737e50d57ab5328"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=a7283502245d29fb0014e613987bd7e196b63e97c93a03eb45ac1ce3093d1cb7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

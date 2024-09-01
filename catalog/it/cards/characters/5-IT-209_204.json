@@ -1,0 +1,43 @@
+{
+  "name": "Olaf",
+  "subtitle": "Passeggero Felice",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Alice Pisoni",
+  "deck_building_id": "6b436a5973bdf158f42db6f0468d40f368f6e4e9",
+  "culture_invariant_id": 1165,
+  "sort_number": 1173,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "SPIANARE LA STRADA Per ogni personaggio impegnato che gli avversari hanno in gioco, paga 1 in meno per giocare questo personaggio. Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "209/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=cbd91f0371d200f710ff20e922fd66d4a5e0146d432013726fea2c1c5d460e95"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=a56ea19e3e13f155e9d1e57349ea7ca2ec87bb6d6fbc620eb33fd362360d917e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e67e57bff39838139239a23c53cc22054b11d684cb22a89df346f54d55183a1f",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Topolino",
+  "subtitle": "Direttore della Banda",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "db76b4423fa5a9cc7723c556824d7eeed5c20bf0",
+  "culture_invariant_id": 950,
+  "sort_number": 927,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) ATTACCARE IL PEZZO Quando giochi questo personaggio, un personaggio a tua scelta ottiene Aiutante per questo turno.",
+  "card_identifier": "34/P1 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e37352a13782201fc77c26403129036947d92a521b6e63ecf90d8bb0a7053aa9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=775ac470e1d8f64b3d85bffe534615e074eb01b3b337fe683bfcaf399df9665d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e8f7fcb4bcc1c93c5d7fa1986ab3fe81c2ef00b3e585914da273839ebee2e6b1",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

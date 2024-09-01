@@ -1,0 +1,48 @@
+{
+  "name": "Gräfin Tremaine",
+  "subtitle": "Gebieterische Königin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
+  "culture_invariant_id": 326,
+  "sort_number": 350,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Wenn ich „Gräfin Tremaine - Gebieterische Königin“ spiele und mein Gegner eine „Lilo - Wünscht sich was“ und einen „Prinz John - Der Gierigste“ im Spiel hat, welche Charaktere können für die Fähigkeit „Endlich an der Macht“ von Gräfin Tremaine ausgewählt werden?\r\n\r\nA: Obwohl Gräfin Tremaine dein Charakter ist, wählt dein Gegner aus, welchen Charakter er mit ihrer Fähigkeit verbannen möchte. Das bedeutet, dass Prinz John trotz seiner Behütet Fähigkeit ausgewählt werden kann, weil nicht du sondern dein Gegner die Auswahl trifft."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurkin",
+    "Königin"
+  ],
+  "flavor_text": "Die zwölfte Regel des Schurken-Daseins: Wenn du keinen Thron hast, schnapp dir einen.",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Gräfin-Tremaine-Charaktere auszuspielen.) ENDLICH AN DER MACHT Wenn du diesen Charakter ausspielst, wählen alle gegnerischen Mitspielenden je einen ihrer Charaktere und verbannen ihn.",
+  "card_identifier": "110/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=efc6e01bae120c7dbf4cc6e15e54d7da4864d0050ba1250e7e7107359004626d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=86e03a15f01ad7c568f6c6dc55117dc790e5a9cc419ffcd508d686501f33a646"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=33a6d224e186a463b42553570985e71770d9ea15c9f2a039d48efffc2ebe3e44",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

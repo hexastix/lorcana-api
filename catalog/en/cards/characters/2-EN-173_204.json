@@ -1,0 +1,43 @@
+{
+  "name": "Beast",
+  "subtitle": "Tragic Hero",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Evana Kisa",
+  "deck_building_id": "4b874fe55f677240c7632e1507c8b94e37428079",
+  "culture_invariant_id": 389,
+  "sort_number": 413,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "It must be my destiny—to remain a beast forever.",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Beast.) IT'S BETTER THIS WAY At the start of your turn, if this character has no damage, draw a card. Otherwise, he gets +4 this turn.",
+  "card_identifier": "173/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=e8bf89059ec256e21c8a0810383cab336a0d82bd6e2345608685d46cb51f4c8e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=6161ae16f031048b60c8e0508883b439164f8a322a7261552acdebf7cf53c07f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=b599d9a30cded21c844e4c0a342172c042a3993b1add36eedd52399f19dd009c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

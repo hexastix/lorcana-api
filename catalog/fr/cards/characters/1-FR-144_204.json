@@ -1,0 +1,43 @@
+{
+  "name": "DONALD",
+  "subtitle": "Inventeur fanfaron",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Cam Kendell",
+  "deck_building_id": "827efa2d86fedbf475bd6d3956aa3b8d96bb21fc",
+  "culture_invariant_id": 144,
+  "sort_number": 144,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "Marcher malin, aller plus loin... et travailler moins!",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "144/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=75991382f7cdf1c2f76ea12164212701a26fb02edffdf56e4497cd7a3ff2bdf0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=b7ef4af1d673b6d6faec682d2cca9c5b0ae722b9d625eec294c84674a6f0cf6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=16221bf44fd13a2f8c3fd8603d8aab3eea7b777a46fc42637b1128deab217d2d",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

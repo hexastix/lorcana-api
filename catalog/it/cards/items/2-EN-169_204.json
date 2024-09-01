@@ -1,0 +1,33 @@
+{
+  "name": "Pawpsicle",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "651952e179e63cca4db165a7416ab0c4d3f16556",
+  "culture_invariant_id": 385,
+  "sort_number": 409,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "JUMBO POP When you play this item, you may draw a card. THAT'S REDWOOD Banish this item — Remove up to 2 damage from chosen character.",
+  "card_identifier": "169/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=ea904611265a379d008cdb76ffaa006d292bd71f6a9bfaf94753c451ac73997d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=cef6ce33bf4fdbfafed51311ad6ef0478de4c18466726bd39ff7cb8b2809d71a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=a05ba5e0537617437500bbd0608b9df7a7de8efe0f2b94c1d576fca3abf72dc9",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

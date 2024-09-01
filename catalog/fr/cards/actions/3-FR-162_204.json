@@ -1,0 +1,33 @@
+{
+  "name": "Réparation",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "e8a7d6f2bc4132a0f764d5e084371ff67d21a516",
+  "culture_invariant_id": 598,
+  "sort_number": 633,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "J'envisage d'ouvrir un magasin ici. Qu'en penses-tu?",
+  "rules_text": "Retirez jusqu'à 3 jetons Dommage de l'un de vos lieux ou personnages.",
+  "card_identifier": "162/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=114da959cf2a5e9e73e68273321673c85b91861e40b1496ed0178fccab4fc48d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=db87c362d39b7b125d31655d38e32f132fc11d47ba4a98f4893f0ba384921e03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=38cd10054d9c21e58c85bb26e67e1e25a15dd8f8e01c07bc0319d20beb8ce5d5",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

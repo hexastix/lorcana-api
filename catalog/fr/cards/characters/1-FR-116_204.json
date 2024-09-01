@@ -1,0 +1,41 @@
+{
+  "name": "MINNIE",
+  "subtitle": "Toujours élégante",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "75c1ac4c95df0e008ea454975ee2641680d4f4c0",
+  "culture_invariant_id": 116,
+  "sort_number": 116,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Personne ne fait le poids, face à son sens de la mode.",
+  "rules_text": "",
+  "card_identifier": "116/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=c0ae696fc6cad6410042700e49ce5ad1d22eb559e0a178a78d1cc3a6f905789f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=d5ad6dfd47d1bb1934d989a7193a994926e7ba6e37998878532c435bca7fbb2b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=4cae48495389610cdea83a380a93a600101d2eea58142f37246ef22b7b75d30f",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

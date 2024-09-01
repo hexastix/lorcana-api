@@ -1,0 +1,42 @@
+{
+  "name": "Anna",
+  "subtitle": "Braving the Storm",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Maria Dresden",
+  "deck_building_id": "511e7eed599c91d73d5cc4ea8991964dc1efe12a",
+  "culture_invariant_id": 828,
+  "sort_number": 838,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen"
+  ],
+  "flavor_text": "After talking to Olaf, Anna marched into the unexpected storm to save Kristoff.",
+  "rules_text": "I WAS BORN READY If you have another Hero character in play, this character gets +1.",
+  "card_identifier": "137/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=e4e75a08609af938685fe5de36e749af53b0a9f0002bb7abc28225dc2665de22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=f26f8b6f38d15c796be792d2b975989108f973eb8c39a13feb9fc88fb9170983"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=e8450bf4fe88a93dc3d3d0b433ee04b8f8466efaf9ab4ea822b91d31f6ad1dfc",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

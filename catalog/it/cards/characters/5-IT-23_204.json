@@ -1,0 +1,40 @@
+{
+  "name": "Sven",
+  "subtitle": "Renna Destriero",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "4fac01ae24ed46541c989cd4724efec55c02a694",
+  "culture_invariant_id": 979,
+  "sort_number": 987,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "GIOCHI DA RENNE Quando giochi questo personaggio, puoi preparare un personaggio a tua scelta. Non può andare all'avventura o sfidare per il resto di questo turno.",
+  "card_identifier": "23/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=0a68bfa50c841fd0eb7cf91c99fbce58c71fec222395b317a1d64a3dd5465d1e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=5c451fbf5c4ae423b3cae1abea8d8d404a2c406a3c91dc0ef2d073a4388d7776"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=f8647dbeb8ffe50047df096a710360a09d5d2f339db75e3821c16f7f51ea2cec",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

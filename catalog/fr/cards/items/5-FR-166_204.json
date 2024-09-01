@@ -1,0 +1,33 @@
+{
+  "name": "Loupe de Basil",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "02918ccd3a403f27aeb1591007157c27c8cb9736",
+  "culture_invariant_id": 1122,
+  "sort_number": 1130,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ça alors, un morceau de la Couronne d’Hexasort !%— Basil",
+  "rules_text": "RÉVÉLER L'INVISIBLE , 2 — Regardez les 3 cartes du dessus de votre pioche. Vous pouvez révéler une carte Objet parmi elles et la prendre en main. Remettez les autres cartes sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "166/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=5bdb956bd77ea66154028c064a68c95c8e20979732f562637b7644f411113b43"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=f7fc4183c78fb6c665cc1dfc7626282ddf98da7cd4ac0bfa4ae34c6d3086944f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=0b6d572bedc32e8302f336d42c9d8433ae59b16563f338a517ce8d1218bde594",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

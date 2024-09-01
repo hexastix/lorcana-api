@@ -1,0 +1,45 @@
+{
+  "name": "Cendrillon",
+  "subtitle": "Cœur vaillant",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Grace Tran",
+  "deck_building_id": "3d67840e2611347a4132ec418a46982679ab9939",
+  "culture_invariant_id": 393,
+  "sort_number": 417,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Résistance",
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Chevalier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Cendrillon.) Résistance +2 (Les dommages qui lui sont infligés sont réduits de 2.) ÉPÉE CHANTANTE Lorsque vous jouez une chanson, ce personnage gagne \"Ce personnage peut défier des personnages redressés\" pour le reste de ce tour.",
+  "card_identifier": "177/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b4a9ed54fa0b43958f1a058af157d88cc20e5faead362764a4e73e1c9b5ff138"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=06e415f3a9cbde52b6dcc78d2961f3af42c16ca1ce2c1fc54e9c1bdc193690f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=997dcc53e273abbc76b41733912d18c2ff4d64eebaa093507cc153350c20ea5f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Le monde qui est le mien",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "eda07f1975c14c7a148e840d0f3693f196882259",
+  "culture_invariant_id": 345,
+  "sort_number": 369,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez l'un de vos personnages blessés et redressez-le. Celui-ci ne peut pas être envoyé à l'aventure pour le reste de ce tour. Piochez une carte.",
+  "card_identifier": "129/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=2607f294e7bf2d0f5d76db9407432a77928b22460860f620e2a8df91fc7fd47c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=b0cc518aadf41d3382f244accfac68b7f8177bddf395a28c8818e872dd0c2cda"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=ae7cd80e310865d73153751f67b4aeb63402d0612fcbe2f7dead34fa2744e9cb",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

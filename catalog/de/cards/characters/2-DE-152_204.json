@@ -1,0 +1,40 @@
+{
+  "name": "Judy Hopps",
+  "subtitle": "Optimistische Polizistin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Arianna Rea",
+  "deck_building_id": "939cd97703bd3991f17d78942c5d5c9e4db17b28",
+  "culture_invariant_id": 368,
+  "sort_number": 392,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin"
+  ],
+  "flavor_text": "Ich werde herausfinden, was mit diesem Buch der Legenden passiert ist. Darauf können Sie sich verlassen!",
+  "rules_text": "NENNEN SIE MICH NICHT NIEDLICH! Wenn du diesen Charakter ausspielst, darfst du einen Gegenstand deiner Wahl verbannen. Wer den Gegenstand im Spiel hatte, zieht 1 Karte.",
+  "card_identifier": "152/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f41f64f1e8ea80b84f284e95aab26c0c5b00e4ff049e1246d24f035123389449"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=73fd4ce2699964327240e28600ad88ee149ffa1e16cfbcec77896b02a0d17d59"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=b3f3dcb78e6d81266b7131af754c349cfc26c70c8aa04d3e7072f743ae0a1574",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

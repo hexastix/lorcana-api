@@ -1,0 +1,40 @@
+{
+  "name": "Rajah",
+  "subtitle": "Royal Protector",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Sandara Tang",
+  "deck_building_id": "36be3bec8183584cb53505ad713a85eb409bbbf4",
+  "culture_invariant_id": 883,
+  "sort_number": 893,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "As regal as his namesake and just as powerful.",
+  "rules_text": "STEADY GAZE While you have no cards in your hand, characters with cost 4 or less can't challenge this character.",
+  "card_identifier": "192/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=efa448d21dc7868f903af2eb011a897571ec0b84d83fe3f248617d7b5d705bcf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=92759e2cfcfaf57d3c6f45b574b259f9b997f9ffcac265028c4bd8e09b0a6825"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=ef5167748cd7fd613042d09a9fa021a1af51ba08d2b7c813b2d36980e902040d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

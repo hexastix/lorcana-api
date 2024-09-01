@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Covert Agent",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "ad3cc196c4a8bfac7a7bfd593107b6b1e1bebe29",
+  "culture_invariant_id": 525,
+  "sort_number": 560,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "For such a flashy dresser, he sure is hard to spot.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) HIDE While this character is at a location, he gains Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "89/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=78b54e387f0af0992f822bed8586963338cb611a54b7030e7cc0ae24a79d9e19"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=c0184cb296b6d7784f363c578f2567490d5388ddebb7089c8276f3fcaf8f95ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=ad0c02169433da8b2c7125726b2dae0fc82327b00a81cb2490be60782a38095a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

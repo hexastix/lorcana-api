@@ -1,0 +1,42 @@
+{
+  "name": "Miss Bianca",
+  "subtitle": "Rescue Aid Society Agent",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jeff Merghart",
+  "deck_building_id": "856f8987d811850242fd68b59881b2c78568dc0a",
+  "culture_invariant_id": 446,
+  "sort_number": 481,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Our society has never failed to answer a call for help. —Mr. Chairman",
+  "rules_text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+  "card_identifier": "10/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=c40125879600e529d16390b74584d2c69343ecd22c06ffd80c7cf5a32f059f78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=013079ea2d6e2dd266eed2f9008ece3ef14792df4c47f081f8f95a31d18629b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=4ff34a3f4a22b463c903f1f032b5dde33cc3d2de7e20d5f02b3350d996473e1f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

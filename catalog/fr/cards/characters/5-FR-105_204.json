@@ -1,0 +1,40 @@
+{
+  "name": "Maximus",
+  "subtitle": "Champion de l'équipe",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "5aa4a5a95aa496e560025d060007f42140401cae",
+  "culture_invariant_id": 1061,
+  "sort_number": 1069,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Il est facile de se laisser emporter lorsqu'il est question de tir à la corde.",
+  "rules_text": "UNE RÉCOMPENSE DIGNE D'UN ROI À la fin de votre tour, si l'un de vos personnages a 5 ou plus, gagnez 2 éclats de Lore. S'il a 10 ou plus, gagnez 5 éclats de Lore à la place.",
+  "card_identifier": "105/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=079a4a5e4911ca4f4c83e23661331fecffed2724d33c86bc0a2d4be4869a1786"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=d181f5a9868b61576b8ee0c61337fb8eb8a24e6bddcaddd0a2893b664ac3863f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=cf408a99493a1ece534db7758fecec1a1d5acde192d4adc692d7cde09cb5b757",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

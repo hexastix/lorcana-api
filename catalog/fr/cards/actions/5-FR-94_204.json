@@ -1,0 +1,33 @@
+{
+  "name": "Déduction sous hypnose",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Elodie Mondoloni",
+  "deck_building_id": "15120252cebb874fa99bde7fc2f9934b81be20c8",
+  "culture_invariant_id": 1050,
+  "sort_number": 1058,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un dispositif de sécurité ! Facile à déjouer, c’est évident. Une fois que j’aurai fait de la place pour la Couronne, je... pourrai... la.... lui... apporter.",
+  "rules_text": "Piochez 3 cartes, puis choisissez 2 cartes de votre main et placez-les sur votre pioche dans l'ordre de votre choix.",
+  "card_identifier": "94/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=5f22c87309ade89e2751ccafc2e4d5c1fb24f3877afe78c633b7be23deaa1437"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=c9f8846021609374ec1c76fd47f0c81c5b9f911f9991fe44d7f839f21bc40cde"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=19fb08343603ce8da40759da2457cfd8641bd308fa32b4f01265333c1fe2e666",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

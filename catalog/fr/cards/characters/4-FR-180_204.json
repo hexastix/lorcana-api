@@ -1,0 +1,44 @@
+{
+  "name": "Hercule",
+  "subtitle": "Héros bien-aimé",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f866b4683c87eff51a272c4dd392843627dd0da3",
+  "culture_invariant_id": 871,
+  "sort_number": 881,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.) Résistance +1 (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "180/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=d427a3336b30506eb9cc553b88beade2f43684fad495e5ed021150304cff3b12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=955166d55a9b63b172fcc50ba43ec61297e39d01d668e36a0c4897d7b57f0d71"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=5f74361dc290c16f1c4d8ff698b66b57a73ed94ab8bdb78a5a0ac239c031f0d1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

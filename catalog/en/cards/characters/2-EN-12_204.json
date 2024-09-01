@@ -1,0 +1,45 @@
+{
+  "name": "King Louie",
+  "subtitle": "Jungle VIP",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Hadjie Joos",
+  "deck_building_id": "0c3fed9a867179785f504207a81666bcfe1b2abc",
+  "culture_invariant_id": 228,
+  "sort_number": 252,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: My King Louie- Jungle VIP has 6 damage on it. I use my King Louie to challenge a 2 strength character of my opponent’s. If King Louie banishes the opposing character in the challenge can I use his ability before he would be banished because of the challenge?\r\n\r\nA: No, you cannot. Both characters involved in a challenge receive damage at the same time and are also banished due to taking damage equal to or greater than their willpower at the same time if applicable. This means that at the time King Louie’s ability is able to trigger he would already be banished and therefore no longer in play. Note that this does not change if King Louie is the character being challenged instead.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "King"
+  ],
+  "flavor_text": "Cool it, boy. Unwind yourself.",
+  "rules_text": "LAY IT ON THE LINE Whenever another character is banished, you may remove up to 2 damage from this character.",
+  "card_identifier": "12/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=99b88fe5b5e381e3e12a2e60fda0b21118e0a94bca882fdf4f07f19d28b04e1c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=74206498928088b6c973c4d3dd02bd14330c2673d9084e411bbdc3db64475117"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=d09efb0e089dc90a889e278077af722480863dcd91e6a35c4e91dbae3720e333",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

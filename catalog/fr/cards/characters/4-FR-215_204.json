@@ -1,0 +1,45 @@
+{
+  "name": "Sisu",
+  "subtitle": "Sœur responsable",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "João Moura",
+  "deck_building_id": "e06b6bded6dddec463efd1631f0f3855a2a886ca",
+  "culture_invariant_id": 906,
+  "sort_number": 916,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Dieu",
+    "Dragon"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Sisu.) LAISSE-MOI GÉRER ÇA! Lorsque vous jouez ce personnage, bannissez tous les personnages adverses ayant 2 ou moins.",
+  "card_identifier": "215/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=d68f8045e52e4aac9dc317349f38d9c411700fcd7965ab39295aff7962571bc6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=8ec378a9442df8c56872868fc77104d90f2efe8ae7e9b596ba59b57f91961150"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=4387938b4560c13338579d8c2bf29880839b0a8edcc237ed96172a0adfb9bb76",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

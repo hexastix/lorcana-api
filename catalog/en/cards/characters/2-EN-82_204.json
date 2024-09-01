@@ -1,0 +1,49 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "His Own Biggest Fan",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "E. Meleranci / L. Giammichele",
+  "deck_building_id": "8812a7f3b2b166bdddc6961bfc5a2b1a783b1d51",
+  "culture_invariant_id": 298,
+  "sort_number": 322,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: If I am playing a 4 player game and one of my opponent’s has 2 cards in hand, another has 1 card in hand and my last opponent has no cards in hand, how much lore will my Flynn Rider- His Own Biggest fan have?\r\n\r\nA: Flynn Rider will have 1 lore. Flynn loses one card for each card in every opponent’s hand, so adding the two cards in one of your opponent's hands together with the one in the other’s hand he will lose a total of 3 lore and have just 1 left."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named Flynn Rider.) Evasive (Only characters with Evasive can challenge this character.) ONE LAST, BIG SCORE This character gets -1 for each card in your opponents' hands.",
+  "card_identifier": "82/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=342fcf8bc214d7b98c1fcba873428e646a8e4500299d06667792a1f2325da19d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=8ce7650350b9b9781d03cd8b7376a933b3850683cc6fe29855d2fa2c88fff446"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=e02b2b2ce53a9b27e28448b69fc47177dcbb2e7969162368dbfa208ce3029669",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tigger",
+  "subtitle": "Superste Sache",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "aeb12d5f9810897355e57f169ef318f584e11c64",
+  "culture_invariant_id": 127,
+  "sort_number": 127,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Tigger"
+  ],
+  "flavor_text": "Ich bin der sprungtastischste Springer, der jemals gesprungen ist!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "127/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=76c61bb9f607d15d885cf031461e6d37703f4b8ff3184fd33329a5b52073c144"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=adf1fed34aceed4f0f399e0c746f9351559b70f01381c69521cf8724dff00096"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=feeb1bbf8a76aaa07ce49017a5e879d8992a190282793c1bb3cd46ca0d9cb84c",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

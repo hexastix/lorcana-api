@@ -1,0 +1,40 @@
+{
+  "name": "Seigneur Hector",
+  "subtitle": "Seigneur du château",
+  "strength": 7,
+  "willpower": 10,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Brian Weisz",
+  "deck_building_id": "80e2547ae3c98a93d6ec2ac5deb2e43f6b6be670",
+  "culture_invariant_id": 1144,
+  "sort_number": 1152,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chevalier"
+  ],
+  "flavor_text": "Eh bien, ma foi, ne reste pas ici. Buvons à la santé de mon fils Kay... Et espérons qu’on soit débarrassé de cet affreux magicien, Marvin ou je ne sais quoi.",
+  "rules_text": "",
+  "card_identifier": "188/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=8523cc66ae7cfdcc24c4703da2d3c27dfc16f92bdfe2247d1cb11561fac3c3be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=5923edcc59cd7d24aee375978ac1cf11f41c74089ceb107c479f4254a96c413b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=71818d154c22a2986133a683dfe238abd1c4952b59dd2c6d0e4511886e9a5f0c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Starkey",
+  "subtitle": "Hinterhältiger Pirat",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Adam Ford",
+  "deck_building_id": "17b27e31ba063f2c7253c785852ec64a1adf6d30",
+  "culture_invariant_id": 524,
+  "sort_number": 559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Weise ihm die gewünschte Richtung und er wird den Rest erledigen.",
+  "rules_text": "",
+  "card_identifier": "88/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=e07520930af74504e36aa303336a2a1316dc2c08a92eb2eb6ddfcf799b50db98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=9f902ddc52a468a44007509d97861ebdc40d93ce1a2d8879595a37ca3eae8fb5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=f551d41033a4003662c629e5ef3cf1d64573f19e2ac686f45d2bc698af836b85",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

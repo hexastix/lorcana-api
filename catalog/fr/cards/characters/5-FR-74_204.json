@@ -1,0 +1,41 @@
+{
+  "name": "Ed",
+  "subtitle": "Hyène rieuse",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Otto Paredes",
+  "deck_building_id": "b7b8cf126ca56fb72ae47f7dc67180a793b855e2",
+  "culture_invariant_id": 1030,
+  "sort_number": 1038,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Hyène"
+  ],
+  "flavor_text": "A-heh, heh, heh, heh, heh, hee, hee, heeeee.",
+  "rules_text": "VAGUE DE PEUR Lorsque vous jouez ce personnage, choisissez un personnage ayant au moins un dommage sur lui et infligez-lui 2 dommages.",
+  "card_identifier": "74/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=23d949ed122fd171d6a7e6378af11526e4e6fde9826d2975aaa54e5302dd2cd0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=4c811ff23e869b8543d9d57e867678fe4eaeec966f3e934f6d2ea6409f9be018"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=45590bafda3e057ba6667caf565348a6ff5d639a8177b8f8fb12a0027d8c859e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

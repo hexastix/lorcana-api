@@ -1,0 +1,43 @@
+{
+  "name": "Maximus",
+  "subtitle": "Palace Horse",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "9c79c4e5854191f1b12a381fa7541ea2ea9b38da",
+  "culture_invariant_id": 10,
+  "sort_number": 10,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support",
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "10/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=860317e948d2cf5e4e44774eff3f2fe8f52ad68e786e347b180d938b8c244763"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=48a7a375ae4282d719630fec3177a982dfddd91561cbd84f41a81f6f03d577c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=9f4e34f8de4a048ad5a097a61a152fe9d6e89f76351f770ac9fb85df893c621e",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

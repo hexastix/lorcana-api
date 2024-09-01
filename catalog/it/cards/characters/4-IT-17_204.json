@@ -1,0 +1,45 @@
+{
+  "name": "Minni",
+  "subtitle": "Paladina dei Moschettieri",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "cafbe429486948b0c90695e0d88422c1815a0ad8",
+  "culture_invariant_id": 708,
+  "sort_number": 718,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Moschettiere"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) ENTRATA DRAMMATICA Quando giochi questo personaggio, esilia un personaggio avversario a tua scelta con 5 o superiore.",
+  "card_identifier": "17/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=3d9034f3cb833a823852deaf5c09830d6b6157b8136c57588426f966e610572c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=ae132c7d50787b8d27193e05d2493beba9dfd6cf55380f24da90c0a8a0ba6ceb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=03d0fa66dc68a489f426bf89ba7064a379da61a0907accea3dc1235b16b2e8be",
+  "card_sets": [
+    4,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

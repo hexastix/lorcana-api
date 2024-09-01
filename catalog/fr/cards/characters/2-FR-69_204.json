@@ -1,0 +1,40 @@
+{
+  "name": "Arthur",
+  "subtitle": "Devenu fine lame",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "d2888dc6ffaf923bdccfa8bb2bfa6bf18d6530ab",
+  "culture_invariant_id": 285,
+  "sort_number": 309,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Tu sais, il ne s'agit pas seulement de monter de beaux chevaux ou de faire habilement tournoyer une épée! Un vrai maître doit savoir utiliser son cerveau tout autant que sa lame.%–Merlin",
+  "rules_text": "",
+  "card_identifier": "69/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=a7c17c921cc6d58934f326f6c66134a7ad692d0a96c38a9a684b86a4045852e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=54b0eef97d0cfd24bb63e977e643f2fd9a6ab9253bf1cef5d031251285674b2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=8ba03865192221c112d2c3c605c30314ee6e12961f5a1a7fb3ea40cacafea245",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

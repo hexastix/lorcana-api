@@ -1,0 +1,44 @@
+{
+  "name": "Hercules",
+  "subtitle": "Daring Demigod",
+  "strength": 7,
+  "willpower": 3,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Diogo Saito",
+  "deck_building_id": "e9542280047f44a8111ed52fe2df8057e99a594b",
+  "culture_invariant_id": 800,
+  "sort_number": 810,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Reckless",
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rush (This character can challenge the turn they're played.) Reckless (This character can't quest and must challenge each turn if able.)",
+  "card_identifier": "109/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=6a32debe6c4a7c3ebf56fdf3df51486ca1a988901cb4817449dc4de4b42b5370"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=302e7268bc1d15433ab22f0d66152929e60805a45ba91858c1c80f871f1146dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c28aca2f1c47f0ac0b1857ed1db9457485dfdb6f8a7cc683700ee6162151cd71",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

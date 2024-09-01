@@ -1,0 +1,45 @@
+{
+  "name": "Frà Tac",
+  "subtitle": "Sacerdote di Nottingham",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Denny Minonne",
+  "deck_building_id": "36d317eaeebe671e69cbcdf9e312cd7ae4db6a4d",
+  "culture_invariant_id": 509,
+  "sort_number": 544,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Sto giocando una partita a 2 giocatori e ho 4 carte in mano. Il mio avversario ha 3 carte in mano. Se gioco Frà Tac – Sacerdote di Nottingham, chi deve scartare la carta?\r\nA: Sia tu che il tuo avversario. Una volta che giochi Frà Tac e che la sua abilità Brutta Canaglia di un Ladro, avrai 3 carte in mano. A quel punto, tu e il tuo avversario sarete in parità per chi ha più carte in mano.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Fuori dalla mia chiesa! Fuori! Fuori! Fuori!",
+  "rules_text": "BRUTTA CANAGLIA DI UN LADRO Quando giochi questo personaggio, il giocatore o i giocatori con più carte in mano ne sceglie una e la scarta.",
+  "card_identifier": "73/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=5ce175ff61c87b9500ad54480fe208de5a049a2939b0f5c92529175b0c5430fb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=970bdcb4e116227d2421b2bb641460ae3eab94ffe23ca0adfe6d3b0611cfb322"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=d780c3f344206cdd2220dfa21f551e2dcb0004edb322a87806845f410377fa2f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

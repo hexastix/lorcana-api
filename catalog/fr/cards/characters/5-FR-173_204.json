@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Prince perdu",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b66d745358da7ec9b30e05117dd8f73ea6ae5746",
+  "culture_invariant_id": 1129,
+  "sort_number": 1137,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Ce royaume m’appartient. Si je ne le défends pas, qui le fera ?",
+  "rules_text": "FAIRE FACE À MON PASSÉ Durant votre tour, chaque fois que ce personnage en bannit un autre via un défi, vous pouvez piocher une carte.",
+  "card_identifier": "173/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=199814306a7b9972f76dd119a7b3e035735cc02475f3bc21a7f2f73d97d7bb02"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=414062b8d201ce0ad82221d44303d4dc8aa4e2f544cbd9c2cdcffe1b0de77685"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2aaa821ed3a5e16c35c2ff0b7d1beb214a1878f99423dcc047a7062a40f5087e",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

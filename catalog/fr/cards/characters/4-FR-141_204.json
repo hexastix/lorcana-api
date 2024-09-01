@@ -1,0 +1,44 @@
+{
+  "name": "Aurore",
+  "subtitle": "Princesse sereine",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "067bc768bc6b0221356cb0b7535f6bf9fced1949",
+  "culture_invariant_id": 832,
+  "sort_number": 842,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Sa musique remplit de joie et de lumière les jardins de l'Illuminarium.",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "141/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=4c44bc28f04a8f582e78d97484c7f66a0312ca675ad7a535a0c7bef750475979"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=2550d4bfde465c065cdcfdddfe7614b8fb14d35765f02ed596f5fe4e7a76e849"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=58bccbc59c2ec41047987c387ba543af34b9b09237a7463b9c71b74f3e69d01b",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

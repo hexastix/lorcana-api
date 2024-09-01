@@ -1,0 +1,42 @@
+{
+  "name": "Mulan",
+  "subtitle": "Enemy of Entanglement",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jared Mathews",
+  "deck_building_id": "dc42755db5ece09465c9e80da08501b1ee99e7d1",
+  "culture_invariant_id": 806,
+  "sort_number": 816,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Ursula’s messengers fled, leaving behind tendrils of dark ink.",
+  "rules_text": "TIME TO SHINE Whenever you play an action, this character gets +2 this turn.",
+  "card_identifier": "115/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=c4133c51ddbcd41043573ffc4d8317a3276103a7988d85c3908402557657ed27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=967490aa0c34d54b27dae945b6e684c00e82cd9a51ea8af55cb7692e98fafd5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=0f53c107f1bebf100c8ed2d835a4114ae2699d072b8be5965f9309de26336117",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

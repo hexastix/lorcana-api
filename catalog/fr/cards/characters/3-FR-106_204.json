@@ -1,0 +1,42 @@
+{
+  "name": "Della Duck",
+  "subtitle": "Mère inarrêtable",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 0,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Rudy Hill",
+  "deck_building_id": "f9389799f1792877b71c185b548e270163ef1c81",
+  "culture_invariant_id": 542,
+  "sort_number": 577,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "J'ai survécu à la lune. En quoi les Terres d'Encres seraient-elles plus dures?",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "106/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=8de92ad379ef7a2cb7c9554ebfa0ff7aab83954493f724928f5e215b42260f05"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=4e89f48eed8d6d120bf75f726a8230e6db4cdf053158f221168e25d184eb12bd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=6f7cc4102359f810b4c687e0b3cc7c6ccfd63f38fb0c3e4634a16f22db2be086",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

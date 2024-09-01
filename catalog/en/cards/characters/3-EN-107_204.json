@@ -1,0 +1,40 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Accidental Explorer",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "455defcf78009f1d2942d2ea1cc9a69334c1b7ff",
+  "culture_invariant_id": 543,
+  "sort_number": 578,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Considering the coconut.",
+  "rules_text": "MINDLESS WANDERING Once per turn, when this character moves to a location, each opponent loses 1 lore.",
+  "card_identifier": "107/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=e5ec91d2b9128bc49bc2c6b4c187ebf1c2b6b2fa8d2896d9f22b5a4cffbf22e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=14d1941009f0882bfdb7731bff05d61560c7a328218f23c9c12b6d6f8115c85a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=5c7ee0d0fa42f814e08dad7d0d5e3a1e4a9c6d12bcd5b8592c510768af082467",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

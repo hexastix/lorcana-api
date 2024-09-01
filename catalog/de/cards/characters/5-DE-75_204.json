@@ -1,0 +1,41 @@
+{
+  "name": "Flora",
+  "subtitle": "Gute Fee",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Eri Welli",
+  "deck_building_id": "2748ac33fb9196c968a8b393fdd03e40908589e4",
+  "culture_invariant_id": 1031,
+  "sort_number": 1039,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Fee"
+  ],
+  "flavor_text": "Mach dir nichts draus, meine Beste! Im Handumdrehen kannst du diese Dornen in etwas Schönes verwandeln.",
+  "rules_text": "HAB ICH EINE WUT! Während dieser Charakter herausgefordert wird, erhält er +2.",
+  "card_identifier": "75/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=13963a237cfc0468f60b7e409c9295e344498e2b6f1126c82cb3a8bfab610a1b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=5e9ecbf595f686238f3ed1934fd67496a6ac1abf0c0e619dc48e92bf50ef4955"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=2f4e1cfd9975fe1b638eb244a18ba76deebd799e9b07084b5fd36f70443f8fc2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

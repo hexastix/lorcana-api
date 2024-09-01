@@ -1,0 +1,40 @@
+{
+  "name": "A Whole New World",
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "b194d57849a9527697e8e65c71feabd9c1528aa2",
+  "culture_invariant_id": 195,
+  "sort_number": 195,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: What happens if someone plays A Whole New World when all players have fewer than 7 cards left in their deck?\r\n\r\nA: The active player resolves first, so that player would lose the game.\r\n\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Shining, shimmering, splendid. . .",
+  "rules_text": "(A character with cost 5 or more can to sing this song for free.) Each player discards their hand and draws 7 cards.",
+  "card_identifier": "195/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=5881f22641d6665ba37646afb77702f35822dd7d58d52a0e1a5bcf52f7c1dbc8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=a43361ce99c8365608be95a3bb09481249deae3a508d5e34745ee0aa15ee012d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=8006f1718bb6a241c1a19c18f43039fa7790e6ad3ebecc6c6ae96e52ecf02a36",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

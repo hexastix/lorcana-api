@@ -1,0 +1,40 @@
+{
+  "name": "Balthazar Picsou",
+  "subtitle": "Oncle plein aux as",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "34821210949db285beda99fc388fae434447385b",
+  "culture_invariant_id": 591,
+  "sort_number": 626,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Un nouveau monde étrange est le parfait endroit pour se faire une nouvelle fortune étrange!",
+  "rules_text": "DÉCOUVREUR DE TRÉSOR Chaque fois que ce personnage est envoyé à l'aventure, le prochain objet que vous jouez durant ce tour coûte 1 de moins.",
+  "card_identifier": "155/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=622dc9db5f645143f3425b97d82113492739bc3c6c94d1eb3cacb21bf5a93f1d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=5da53fc814910f4c4a92eaec2fb6ed89a215c67b14a195ab434aff08fe60e1d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=00986127c55b9ccf84760f770d29da4f1b07e55c103b51882cc5a3bf8bd53392",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

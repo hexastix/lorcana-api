@@ -1,0 +1,40 @@
+{
+  "name": "Nana",
+  "subtitle": "Haustier der Darlings",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "cef2ff4e8de30c0cd1260a4d2a648a00a36ae52a",
+  "culture_invariant_id": 233,
+  "sort_number": 257,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "Kinder sind die besten Freunde des Hundes.",
+  "rules_text": "KINDERFRAU Jedes Mal, wenn du eine Flutgestalt ausspielst, darfst du jeglichen Schaden von einem Charakter deiner Wahl entfernen.",
+  "card_identifier": "17/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=df20c62b91cc9e3eca1ad17b5e52b8a7276c85ec1ebda14776b8a50b9e17886a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=1d8bf1130cfc7331e47851fc5bac89180f85a272d0d1957ae2c59f9645706828"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=1d52092d4c670c39ef5e7b8c5253c7e668c57b089b6a389a6315d8ae5286e2a2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

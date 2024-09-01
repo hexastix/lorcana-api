@@ -1,0 +1,38 @@
+{
+  "name": "Der Kleine Stern Naseweis",
+  "rarity": "ENCHANTED",
+  "ink_cost": 10,
+  "author": "Saulo Nate",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 901,
+  "sort_number": 911,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 10 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 10 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Eine Person deiner Wahl zieht 5 Karten.",
+  "card_identifier": "210/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=5d76f2e72658c6edf842b5ec9f13e3e1a8a3a51e847998bcb067960b66756a99"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=1d388651ebb870e85038da9ecec84018bf8f1a26fe564f447a4b353e77219b42"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=b1e0d342413361c3c54db82bc1dcb8f92bcb5437ca49760de42dde1fcbb8a461",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

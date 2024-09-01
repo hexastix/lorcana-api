@@ -1,0 +1,33 @@
+{
+  "name": "Einwickeln",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Eri Welli",
+  "deck_building_id": "d0e86cdf581903f6ffa738cc6e7a138625d40ed2",
+  "culture_invariant_id": 133,
+  "sort_number": 133,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Bleib genau dort! Ich meine, du hast keine andere Wahl, schätze ich. Aber trotzdem! Beweg dich nicht! – Rapunzel",
+  "rules_text": "Alle gegnerischen Mitspielenden verlieren je 1 Legende.",
+  "card_identifier": "133/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=80de072adbf99df80fa1370d2b7a9c853031430dab78b4a263c10c714fc19141"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=95a49286fd77c0d1b72918f5e5230933a92502377b944a96e125fc48cadddf90"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=860f9021eaae7b3480ed5250a024708afba0efe5d981d359f6bb707cc4a95707",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

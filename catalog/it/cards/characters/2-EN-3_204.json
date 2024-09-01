@@ -1,0 +1,43 @@
+{
+  "name": "Cinderella",
+  "subtitle": "Ballroom Sensation",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Casey Robin",
+  "deck_building_id": "1053acb0af19beb3e33f5d547aa4078efbd13b6c",
+  "culture_invariant_id": 219,
+  "sort_number": 243,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "With a magical dress and a song in her heart, she dazzled everyone at the ball.",
+  "rules_text": "Singer 3 (This character counts as cost 3 to sing songs.)",
+  "card_identifier": "3/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=dc7ead803c5c63c31e442b2b3bb35c8c6e40326ba2ee245b289bd87ce1efbe1e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=4166ca8930f8eb76c2f79f92ac9e003755843f0a75483f54ce285910f8283729"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=296da6257b5927513ae1a2b8556214aae1488a3d5d83eb32e113771e1a5c2732",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

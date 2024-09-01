@@ -1,0 +1,33 @@
+{
+  "name": "Ba-Bum!",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "c59c3bcfed28db27429200453a290d6c6b63217c",
+  "culture_invariant_id": 632,
+  "sort_number": 667,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Più grosso del solito bum!",
+  "rules_text": "Infliggi 2 danni a un personaggio o a un luogo a tua scelta.",
+  "card_identifier": "196/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=19d6a6cd27bc3f10640817c87dd8352eaa4cb80cd2df1dc5ee2cb23aa3dd84af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=4094d1c91402fca698125fc1699f5fc4f74156876079cfc15e4520d0fc5d82e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=3128e64720cc5496f44cf187614e27305d0acb3b3bd6b5e0a20fc59889852c6e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Ursulas gestohlener Dreizack",
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "f45fe1100aaada6b0ee262a349e34fafcb014f55",
+  "culture_invariant_id": 944,
+  "sort_number": 964,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mit meiner Magie hat der Dreizack Kräfte, von denen der törichte Meereskönig sich nie träumen ließ.%—Ursula",
+  "rules_text": "JETZT HAB ICH DIE MACHT — Sammle 1 Legende.",
+  "card_identifier": "31/31 DE Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=73476125639741b52436ca1b38b4449ee9687f66a2f34e5345037c83bcd6a9ba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quests/1/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=5280a89258162a07d4c3f9484554432c1c3f2ae3a0540000686241533faa02ce"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

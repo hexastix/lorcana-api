@@ -1,0 +1,40 @@
+{
+  "name": "Trigger",
+  "subtitle": "Unscharfschütze",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "8b2da5c9c177bac4e285d0fbfae3e11d7ffe9792",
+  "culture_invariant_id": 562,
+  "sort_number": 597,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Nimm das Ding endlich weg! Du liest zu viel Kriminalromane!%—Sheriff von Nottingham",
+  "rules_text": "ALTE BETSY Deine Nutsy-Charaktere erhalten +1.",
+  "card_identifier": "126/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=67f073b10747bfee801f1835356ae31c388010ac5ac88d090b0627d36f2d2166"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=18e1c1192620403669615ffa74e5fa42b0ba90f987dd70dfd565db035006babb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=35dcf774215b78455b9d531c4e09ef1f1d81f7ac729ab70b25030b02e9ecc354",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

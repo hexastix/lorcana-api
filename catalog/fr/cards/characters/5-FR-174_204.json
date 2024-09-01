@@ -1,0 +1,39 @@
+{
+  "name": "Rudy",
+  "subtitle": "Pourrisseur de groove",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jon Densk / Hayley Evans",
+  "deck_building_id": "b805f8afd938684690b92b32c2106c94facc91ad",
+  "culture_invariant_id": 1130,
+  "sort_number": 1138,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "L’Illuminarium ne peut pas supporter un tel groove ! Nous devons réduire le bruit ou il s'effondrera à coup sûr !",
+  "rules_text": "",
+  "card_identifier": "174/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=e91899d4f2632ff6e55902a16a85dca90c9d67fb2ae717923c7ff4c60fbb879a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=18d1860a5b72461e2d14cd66fbb785a08e2f4e9620c6ec76d5a2231e2e1b88f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=2bf2b9ccca3ad92c31e00c049cec00ccc52c4d737a5ba67fce6c602acf797581",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

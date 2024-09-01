@@ -1,0 +1,49 @@
+{
+  "name": "Moana",
+  "subtitle": "Born Leader",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "2d55f3560e49972216272b91e7a9f71ad3897554",
+  "culture_invariant_id": 552,
+  "sort_number": 587,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have a ready Alice – Growing Girl and Moana – Born Leader at the same location. If Moana quests while Alice is ready, will Alice be able to quest this turn?\r\nA: No. Moana – Born Leader’s ability Welcome to My Boat is mandatory and affects all other characters at the location she’s at. Even if Alice – Growing Girl is ready when Moana quests, Alice won’t be able to quest later this turn. Note that Alice still won’t be able to quest this turn even if she moves to a different location or the location she and Moana are at is removed from play.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Moana.) WELCOME TO MY BOAT Whenever this character quests while at a location, ready all other characters here. They can't quest for the rest of this turn.",
+  "card_identifier": "116/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=64b81c2f07e6e763688c93bb027b7a6499068b6ed2819bca913ab109471f104b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=7261dc2cc6e92e04de1af66adc4556fbdfd4786c78f42ab4d3c9993a6f4105e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=bcf1bd15e65d1c67f4af441061be8cf453e99c036ea605745d04f841e0de48e1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

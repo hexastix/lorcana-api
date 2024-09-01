@@ -1,0 +1,42 @@
+{
+  "name": "Pimpi",
+  "subtitle": "Spadaccino Robusto",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alex Accorsi",
+  "deck_building_id": "aa5bef4f5a3c18bd9740e3b9f58fa1de1b683cc0",
+  "culture_invariant_id": 882,
+  "sort_number": 892,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) NON PIÙ COSÌ PICCOLO Mentre non hai carte in mano, questo personaggio può sfidare i personaggi preparati.",
+  "card_identifier": "191/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=5f56e30e2acd19dfe1e9c7e6dfcadb5b63b501af0f619aaf62e8b18fc6129a36"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=03c5344ca9e504bf1dccd14fab90629c15fcb0ac72f6bb68579666b6e6f518cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=c4f2d93f317a212c9e5c949e194ae9fa20af6386310cecb5b339f8b2c27dfd74",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

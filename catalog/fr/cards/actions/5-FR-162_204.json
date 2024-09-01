@@ -1,0 +1,35 @@
+{
+  "name": "Rien n'est plus pareil",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "ac2e4ae31b17ef873ac04d7effc1655e403418b9",
+  "culture_invariant_id": 1118,
+  "sort_number": 1126,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Mais comment savoir, la peur envolée%Que l’on s’est trompé",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez autant de personnages que vous le souhaitez et retirez-leur jusqu'à 2 dommages chacun.",
+  "card_identifier": "162/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=4b9ecb4e517ceaa2c4c4bcff715fd5dfee784f640164f65b26b0338b958085f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=c183b2631407d88ac18aa0b446e8427811539e95fca9e23837062c87cf596186"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=e623c12f817a7ff1cd17a64faf8d063007b6bbd3fb59725898b55073073a6b20",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

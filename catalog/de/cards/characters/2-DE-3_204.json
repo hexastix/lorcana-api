@@ -1,0 +1,43 @@
+{
+  "name": "Cinderella",
+  "subtitle": "Sensation im Ballsaal",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Casey Robin",
+  "deck_building_id": "1053acb0af19beb3e33f5d547aa4078efbd13b6c",
+  "culture_invariant_id": 219,
+  "sort_number": 243,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Mit ihrem magischen Kleid und Musik im Herzen zog sie auf dem Ball alle in ihren Bann.",
+  "rules_text": "Singen 3 (Die Kosten dieses Charakters gelten als 3 für das Singen von Liedern.)",
+  "card_identifier": "3/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=18f9203cc9426c914008102df23e136fd522d4f33954787f845d4452943f410e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=44d81eb49e9d264144b57724e44a1b674e304f12ee2b8235e030be788caad21a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=af7322791ede93c7555603c752524bced17c2f3853ff518400b3631649e3c45c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

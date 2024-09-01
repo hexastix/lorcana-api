@@ -1,0 +1,33 @@
+{
+  "name": "DÉVELOPPE TON CERVEAU",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Pao Yong",
+  "deck_building_id": "7e7a5204a324e3773bc06deedaedb33fe5803b64",
+  "culture_invariant_id": 161,
+  "sort_number": 161,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Le savoir conduit à la puissance! — Merlin",
+  "rules_text": "Regardez les 2 premières cartes de votre pioche. Ajoutez-en une à votre main et remettez l'autre sous votre pioche.",
+  "card_identifier": "161/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=01377d02f12d5ff00203be6966c7764f6d1bc4a5a222e72ec5d35651de7d6a6c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=d690c0c58540a533c6965502775ac04eef2636793f001c7eb778648e14e6c8fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=f7137ff3f82b0e9b002bf1006ea409194e0d4b7a3a9b3ac7eec4fa24c9eb30cd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

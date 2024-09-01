@@ -1,0 +1,43 @@
+{
+  "name": "Scopa Magica",
+  "subtitle": "Capitano di Brigata",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Otto Paredes",
+  "deck_building_id": "5b62db7d0c2cf0af385d111c8e065a46ee86e2da",
+  "culture_invariant_id": 877,
+  "sort_number": 887,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Scopa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) ARMATA DI SCOPE Questo personaggio riceve +2 per ogni altro personaggio chiamato Scopa Magica che hai in gioco.",
+  "card_identifier": "186/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=71cf35c74d71dec39be6d0f4dccdf61520348d713114db0f6cf0b0a7b86f09d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=c7c75787e13349f63a0173b5036a1d893fa0e954739582877234b9c54dddfe54"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=2eb67f61dac4aaa771e93d642a3c559fabc0c27bc48545eb37e341f508f248c6",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

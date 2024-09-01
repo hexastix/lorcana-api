@@ -1,0 +1,45 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Chef des enfants perdus",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "2285e2c33a254aaef5023dfa9eb28a60fcdce67e",
+  "culture_invariant_id": 518,
+  "sort_number": 553,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : J’ai un Peter Pan – Chef des enfants perdus sur le Château de la Reine qui a une valeur de Lore de 2. Si je déplace ce Peter Pan sur Le Manoir d’Enfer – Propriété de Cruella, qui a une valeur de Lore de 1, puis que je le déplace de nouveau sur le Château de la Reine, puis-je utiliser sa capacité “J’étais venu écouter les histoires” pour gagner 2 éclats de Lore au lieu d’1 ?\r\nR : Non, vous ne pouvez pas choisir d’en gagner 2. Lorsque Peter Pan – Chef des enfants perdus est déplacé sur un nouveau lieu, cela déclenche automatiquement sa capacité “J’étais venu écouter les histoires” et devez donc en résoudre les effets, à condition que ces derniers n’aient pas déjà été résolus dans ce tour. Cela implique que lorsque vous déplacez Peter Pan sur Le Manoir d’Enfer, vous devez déclencher sa capacité et gagner 1 éclat de Lore. Une fois que vous avez appliqué les effets de la capacité “J’étais venu écouter les histoires” de Peter Pan, vous ne pouvez plus l’utiliser à nouveau ce tour-ci.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Les Illumineurs avaient besoin de quelqu'un pour retrouver un grimoire disparu, et Peter fut le premier à se porter volontaire.",
+  "rules_text": "J'ÉTAIS VENU ÉCOUTER LES HISTOIRES Une fois par tour, lorsque ce personnage est déplacé sur un lieu, gagnez un nombre d'éclats de Lore égal à la de ce lieu.",
+  "card_identifier": "82/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c26918607e1d58245ab95630325495c2fa373bd67bc688f5c098580789a3f8a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=95b323598430b964ce236853ba42d816b18baa8dd2976ba8fe8fa5e47fcb2d1a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=6dfa71b6ac2f8018ef692605dffa3c7d423d150b4695fe0dc2b3129ef8f0a5e9",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

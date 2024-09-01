@@ -1,0 +1,42 @@
+{
+  "name": "Beast",
+  "subtitle": "Relentless",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "1f998b8d166c57c497364060cda6ba1cc7a4a1bf",
+  "culture_invariant_id": 426,
+  "sort_number": 450,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "SECOND WIND Whenever an opposing character is damaged, you may ready this character.",
+  "card_identifier": "210/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=533f8e2bb97bdbc452ad365880ea1423a76d5340f323ba8f2075b2b0f484ab65"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=11743843278474559281a08cfc5c257cc9d153c87350852573a045195605bf64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=35891b73dccaf913f3b6b7695644b680d9d657d28d544c28da0059c463964eeb",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

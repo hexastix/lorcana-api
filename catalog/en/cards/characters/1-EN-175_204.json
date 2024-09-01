@@ -1,0 +1,45 @@
+{
+  "name": "Captain Hook",
+  "subtitle": "Thinking a Happy Thought",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Elliot Bocxtaele",
+  "deck_building_id": "1030555f87af5d3d70406e6d85cf3a40ae98e4f2",
+  "culture_invariant_id": 175,
+  "sort_number": 175,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift",
+    "Challenger"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Captain Hook.) Challenger +3 (While challenging, this character gets +3.) STOLEN DUST Characters with cost 3 or less can't challenge this character.",
+  "card_identifier": "175/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=ab12a668a2ed38c0ea9a6702cd70e90ef1559ddaa06f57635866374244653ce5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=53c830017bc8de9d6a98c8b2630740ee3fbfb782f881b3c49f4a009eb0d6fa7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=b46447f787daf40762efc7dcafbc41c7a8ec02c0fbd83014dff34350d0011681",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

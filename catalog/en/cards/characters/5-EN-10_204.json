@@ -1,0 +1,42 @@
+{
+  "name": "Fix-It Felix, Jr.",
+  "subtitle": "Trusty Builder",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "c139143d214c2a6edd012e7428ca9ff6081cb764",
+  "culture_invariant_id": 966,
+  "sort_number": 974,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Golly, this place is going to take some real fixing!",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "10/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=fe1e2ad103a2c9f45a271ce910e599d0a2adb196cee1134e3667adc7a31ee54d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=69487fa167f1823b1339c5cf0dd502964bff34b258ea73c73717e11db0b74cf5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=452664ff62412700ad9c94bf00bdf09bb1ffe6a5e735870920b08d51e621c719",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

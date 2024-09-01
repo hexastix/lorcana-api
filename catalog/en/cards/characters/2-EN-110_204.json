@@ -1,0 +1,48 @@
+{
+  "name": "Lady Tremaine",
+  "subtitle": "Imperious Queen",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
+  "culture_invariant_id": 326,
+  "sort_number": 350,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: When I play Lady Tremaine- Imperious Queen and use her Power to Rule at Last ability my opponent has a Lilo- Making a Wish and a Prince John- Greediest of All in play. When choosing which character to banish with the Power to Rule at last ability what characters can be chosen?\r\n\r\nA: Even though Lady Tremaine is your character your opponent chooses which character to banish with her effect. This means that despite Prince John’s ward he can be chosen to be banished by the effect and therefore your opponent can choose either of their characters to banish for the Power to Rule at Last ability."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "The twelfth Rule of Villainy: If you don't have a throne, take one.",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Lady Tremaine.) POWER TO RULE AT LAST When you play this character, each opponent chooses and banishes one of their characters.",
+  "card_identifier": "110/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=5512e9e3af9506808c7cc94df7042362c2711bfa6833e142f32c0c4154548380"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=7fd0f43f808e7440e667ca73d8f9b631584c1302c55acfe4645b57870fb1437d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=7b40181a88c735617af31759bedcd7b698a66f4ac52f69c5dd58d9727947ec86",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

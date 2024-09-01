@@ -1,0 +1,35 @@
+{
+  "name": "Lo Stretto Indispensabile",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maxine Vee / David Navarro Arenas",
+  "deck_building_id": "987449c640af6e3414a562b19f5b4b29603a7c6d",
+  "culture_invariant_id": 464,
+  "sort_number": 499,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "E i tuoi malanni puoi dimenticar…",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per giocare questa canzone gratis.) Un avversario a tua scelta rivela la sua mano e scarta una carta non personaggio a tua scelta.",
+  "card_identifier": "28/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=83268eeed15b9245479b6339cbf9aff5ada75ea76f2df55fee79e03c8311daed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=6450d0ecf0a8869debe458e569a06142e4229f6cafae1b9fb7145818156a2397"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=464cf7d77168408503c4e3e3e1830d78baf8f7d9e6b4b866c1251bf216d2b816",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

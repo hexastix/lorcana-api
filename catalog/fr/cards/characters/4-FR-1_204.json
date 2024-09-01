@@ -1,0 +1,41 @@
+{
+  "name": "Agustín Madrigal",
+  "subtitle": "Père maladroit",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eri Welli",
+  "deck_building_id": "d1b8a27494c47e8f67ac8975a2a734b932d5ef1a",
+  "culture_invariant_id": 692,
+  "sort_number": 702,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Madrigal"
+  ],
+  "flavor_text": "Tomber pour Julieta a été la chose la plus facile qu’il ait jamais faite.",
+  "rules_text": "",
+  "card_identifier": "1/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d0ff1b815e142605421c057006ef374340bb5462495378aa457ed78db78f6d41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d9fcfb7d34922d68f039d7dc500b84e3ffdcd9204d0d8f9d0f5dab0f3bba186e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e1667297003e2f68c1431230451bcbe3474807a17a0787e1f1f7fba636ef5130",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

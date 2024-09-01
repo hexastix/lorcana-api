@@ -1,0 +1,33 @@
+{
+  "name": "Valanga",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Justin Gerard",
+  "deck_building_id": "dd99c25c4f87c03bd08c6475bb933b3a8e370b00",
+  "culture_invariant_id": 886,
+  "sort_number": 896,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un po' di neve non ha mai fatto male a nessuno. Quel grosso masso, tuttavia…",
+  "rules_text": "Infliggi 1 danno a ogni personaggio avversario. Puoi esiliare un luogo a tua scelta.",
+  "card_identifier": "195/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=e7776134dc3f8aa350504aa540ffa126e10a6fc30e19b1607f5eab0dbf711e45"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=ef1531c8f8855b9c759721340fdf859e0c05a24d8828b3a4a210e91551c42c0d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9ca3a7539a5651ff34bf6bb932c05740534439bdc8d38efc66a25a5a75259745",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

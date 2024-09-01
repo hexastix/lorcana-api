@@ -1,0 +1,42 @@
+{
+  "name": "Joshua Dolce",
+  "subtitle": "Il Dottore",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "e1f557b29f945126b59c4ccace8ec9ba4c9e013a",
+  "culture_invariant_id": 441,
+  "sort_number": 476,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ve ne state andando nelle Terre d'Inchiostro? Tornate qui se vi serve una rattoppata.",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "5/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=62ad8d17f0778a26fc78d239cb818587fd55b4d26a0aee4e6286ffb230d436c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=c68f9feb851d6bc491cf3a67ebae58476f5026e4a7e80a277e2e92d9760aa76d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=fa8979904a24f3aebe354ed19c1537fec780ae00789fba265e2eb396ee05deb6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

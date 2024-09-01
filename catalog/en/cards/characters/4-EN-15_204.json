@@ -1,0 +1,43 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Leader of the Band",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "db76b4423fa5a9cc7723c556824d7eeed5c20bf0",
+  "culture_invariant_id": 706,
+  "sort_number": 716,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) STRIKE UP THE MUSIC When you play this character, chosen character gains Support this turn.",
+  "card_identifier": "15/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=afeba27732d45e1d4338cd5e10d3683c58ca31d757937b733bc61b1313c21210"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=17966293b006ed28a7a488dd8041758853985668828270d74c1b392ee560fd1f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=f7f8ebe001a75bd1c0066362ce0d19f83a3a0c9265de787f932ddc1754396f29",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

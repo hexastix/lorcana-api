@@ -1,0 +1,43 @@
+{
+  "name": "Pimpi",
+  "subtitle": "Spadaccino Robusto",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "aa5bef4f5a3c18bd9740e3b9f58fa1de1b683cc0",
+  "culture_invariant_id": 912,
+  "sort_number": 922,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) NON PIÙ COSÌ PICCOLO Mentre non hai carte in mano, questo personaggio può sfidare i personaggi preparati.",
+  "card_identifier": "221/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=ff6427ff9a1d0df09845067e41612e1feb39f925b65ac36b1b71e469ad7dd339"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=01ce15fa0266df48529ead70f6b19fdd7a49164da9214a2c2f6c442b09dbf6f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=cccd779208091f4d7b3cd746baf226301fe282b5bbc6c72f3d553abd2e144795",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Balais magiques",
+  "subtitle": "Modèle industriel",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "886ba59539c115eb94eaabba8dec4a56a76b26c0",
+  "culture_invariant_id": 404,
+  "sort_number": 428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Balai"
+  ],
+  "flavor_text": "Même avec une charge maximum de vraiment beaucoup, ils ne peuvent pas faire grand-chose lors d'une inondation magique.",
+  "rules_text": "FAUT QUE ÇA BRILLE Lorsque vous jouez ce personnage, choisissez un personnage qui gagne Résistance +1 jusqu'au début de votre prochain tour. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "188/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=188329ad93ccc8128cf19f4737ee5151e450026f0f69825de7cfa2fddf1fff45"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=6b6a0efe9bb6d2cd6f39c5f9bd84d167469e0af7fddf7fae883398b8e5381201"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=d201be8cf90770f3343bc070a4450423ce92d04e7a05244497f5dca9e558e435",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

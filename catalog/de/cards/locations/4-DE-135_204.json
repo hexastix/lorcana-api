@@ -1,0 +1,37 @@
+{
+  "name": "Zum Quietscheentchen",
+  "subtitle": "Verrufene Kneipe",
+  "willpower": 9,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "d8442ef512485e4740ec831c0beeb50cf8069b5c",
+  "culture_invariant_id": 826,
+  "sort_number": 836,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ROUTINIERTER KRAWALL Jedes Mal, wenn einer deiner Charaktere an diesem Ort, mit 3 oder mehr , einen anderen Charakter herausfordert, sammelst du 1 Legende. Wenn der herausfordernde Charakter 6 oder mehr hat, sammelst du stattdessen 3 Legenden.",
+  "card_identifier": "135/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=fc0e04402620297e36f09fccd0918d1d240dc75da5dd19acc9993d61c96f742d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=05d5bbcdc9dfe4b223e84fb9c9611f74368d1a5b2698680ceb6ad0f37a67d1f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=30cbed654a81bcec67b1df5e2d7f0976de09c83e905cfd7baa7d316968c7be2f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

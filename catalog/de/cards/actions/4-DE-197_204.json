@@ -1,0 +1,36 @@
+{
+  "name": "Bleibt nur eine Hoffnung",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "8f6416c63cac0fad17fdf749cf9ede58f5fd446b",
+  "culture_invariant_id": 888,
+  "sort_number": 898,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Robust +2. Wenn du einen Held oder eine Heldin wählst, kann dieser Charakter in diesem Zug bereite Charaktere herausfordern. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "197/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=277698cc3349ad8e6d750e5027e7e7ecfb8737db06c1ecb092555bb8194c0c42"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4bbf41d43235b316d4134a263d807d1b7ff004af7082de61452478abf912bdc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=8500800cb9f2d70ff063f00db4d4d508e91e4acfe8cbab661f257ff20f4a7714",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

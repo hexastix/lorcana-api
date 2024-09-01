@@ -1,0 +1,41 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Musketeer Spy",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "a34164ff051a6a764bee43f9f9096b7deeec2e20",
+  "culture_invariant_id": 698,
+  "sort_number": 708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Musketeer"
+  ],
+  "flavor_text": "She has a talent for thwarting hidden schemes.",
+  "rules_text": "INFILTRATION When you play this character, each opponent chooses and discards a card.",
+  "card_identifier": "7/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=482ada476fff89ebf68e4b4268ec05558be2ec4a5d9f13fb4d27ec0d38b55f27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=1cbece83a5c24c293347ce492597aa407f6575fc39a7452608078aa2a813975c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=c8c6e27d92212900919784fa4e9cfbb1c4b5b26bb78da598b45785530750ed4f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

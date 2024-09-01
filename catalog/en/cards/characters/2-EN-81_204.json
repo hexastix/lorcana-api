@@ -1,0 +1,41 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Confident Vagabond",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ron Baird",
+  "deck_building_id": "408a955dc902338bf10c87c78906b1ddb5c84045",
+  "culture_invariant_id": 297,
+  "sort_number": 321,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "I love a good fan club, but they could at least <try> to get the nose right!",
+  "rules_text": "",
+  "card_identifier": "81/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=7d2d19c227d410e7b9e8c4d1531380a8e658d569f43c731035ddab28a6653f55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=d09d92b9264f35b7df8703ad1b78e9be24a998f25c8779869b4251a5ccf08a64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=5296f6620962d9e73825a32f619d8bed02ce3d65105f117ffeadcdc0cd43b936",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

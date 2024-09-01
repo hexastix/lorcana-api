@@ -1,0 +1,34 @@
+{
+  "name": "Platine disque",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "d6a087b851dcb654bb021e9fe5c60c69ddb6c769",
+  "culture_invariant_id": 723,
+  "sort_number": 733,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "REGARDE! Chaque fois que vous jouez une chanson, choisissez un personnage qui subit -2 jusqu'au début de votre prochain tour. HIT PARADE Vos personnages Stitch sont considérés comme ayant un coût de +1 pour chanter des chansons.",
+  "card_identifier": "32/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=d801dce50aec3e93c9522f049c0595ff19646dbbf419c89650b44ed5f6ae1e36"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=139cc6277277813c85905597443eeb69ee96fa676514fa43ae107d8c0cfc6bf0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=c5ecb538616e8c52d112fdfc7dd3e691bdad52a7c3f4aedbfbeb6ed176b53817",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

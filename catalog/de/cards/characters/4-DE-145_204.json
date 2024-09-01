@@ -1,0 +1,41 @@
+{
+  "name": "Hades",
+  "subtitle": "Akribischer Planer",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "68146d6fa08641ea608a09555035a71d11aef35e",
+  "culture_invariant_id": 836,
+  "sort_number": 846,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "Dieser hübsche kleine Plan ist ganz und gar von Ursulas Tentakeln zerfressen. Diese hinterhältige Seehexe... Warte! Das kann ich mir zunutze machen. Sie kann diese widerwärtigen Luminari beschäftigen, während ich meinen eigenen Plan verfolge.",
+  "rules_text": "",
+  "card_identifier": "145/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=15a69f4c43a07ea970bf950a4e03f44a85fd97bbcadc359f943dfae520a52be4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=cd117400658fad313971f2fc57706098fdddf0acc8e43a8e0388efd4ce2ac561"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=2e1b50fc03fe445de96f71def37fdc5a02e09065110e2d58efe807567f015fec",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

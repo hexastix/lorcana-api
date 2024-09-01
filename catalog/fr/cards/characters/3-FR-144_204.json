@@ -1,0 +1,41 @@
+{
+  "name": "Géo Trouvetou",
+  "subtitle": "Génie des gadgets",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "491914dcbb433923c33ecfff73dfb65149b0f0c1",
+  "culture_invariant_id": 580,
+  "sort_number": 615,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Inventeur"
+  ],
+  "flavor_text": "Peut-être que cette technologie sera moins mauvaise cette fois-ci...",
+  "rules_text": "SUIVEZ LES MÉANDRES DE MON CERVEAU GÉNIAL – Remettez une carte Objet de votre défausse sur le dessus de votre pioche.",
+  "card_identifier": "144/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=40661e080bb3df2574b635b4025527ea70a847dd339b16a00ffa209f455e79a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=db88f8c87f0e09cf88c8145fff1be809d4997f34d544ad9a7e7a35dd99fa3d05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=c9421f9c49f9875e4451b64fb38d33b12cc0a10fca8d693196467a5745320902",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

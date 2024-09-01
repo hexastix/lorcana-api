@@ -1,0 +1,41 @@
+{
+  "name": "SIMBA",
+  "subtitle": "Futur roi",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Nicholas Kole",
+  "deck_building_id": "5de9049716db6093e203ad3ba87b04894b400848",
+  "culture_invariant_id": 188,
+  "sort_number": 188,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Je serai le meilleur roi que la Terre des Lions ait jamais vu.",
+  "rules_text": "TU SAIS QUOI? Lorsque vous jouez ce personnage, vous pouvez piocher une carte puis en défaussez une.",
+  "card_identifier": "188/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=247c010f66007383d8c7dcf8d51a9ba9f0f0c774620151461ca173b06e98e40b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=10ea71f955eda3b285b76e4fb86b79028178ae54b2376fd027150964baec72f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=b7e068a14703574e32dffdb7586190c4ef42eb4f8c60e4651b9c3b7c26b1d15c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "TIMON",
+  "subtitle": "Dénicheur de larves",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "ba040a5f880e4b2b3145703c8510a6d12b985cf9",
+  "culture_invariant_id": 24,
+  "sort_number": 24,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le monde regorge de plaisirs savoureux. Il suffit juste de savoir où chercher.",
+  "rules_text": "UN PEU GLUANT MAIS APPÉTISSANT Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et lui retirer 1 jeton Dommage.",
+  "card_identifier": "24/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=d998d590b2d7489eca30adbf4fb47b20df27c348f4781445ccace78f513368d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=776d68ae0aa227b5caced599051eee3b2290c7edea8d831792a7955e35a1ffd1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=c446674e6f86e747df77be2016809cb547d1d09412cbfd89f0dab6698b8610e2",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

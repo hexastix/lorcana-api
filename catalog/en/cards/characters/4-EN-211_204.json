@@ -1,0 +1,44 @@
+{
+  "name": "Diablo",
+  "subtitle": "Devoted Herald",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "bd36724ac6baa50386ab4443e026f5d0e787b2cf",
+  "culture_invariant_id": 902,
+  "sort_number": 912,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift: Discard an action card (You may discard an action card to play this on top of one of your characters named Diablo.) Evasive (Only characters with Evasive can challenge this character.) CIRCLE FAR AND WIDE During each opponent's turn, whenever they draw a card while this character is exerted, you may draw a card.",
+  "card_identifier": "211/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=33044ea3f638ddb7c855d20a97bf03bd88f25b976874b76be13896ae2d3f446c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=94787dab4984846f78db3199f23130b7d7573705d98f4219fb69c3b3ae5faa59"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fdf248719fa64097b176ca4d949a5c0d8469db0fddfb608d97f67fdf9dde94a8",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

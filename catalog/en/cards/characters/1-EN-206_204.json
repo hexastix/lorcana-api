@@ -1,0 +1,42 @@
+{
+  "name": "Stitch",
+  "subtitle": "Carefree Surfer",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Milica Celikovic",
+  "deck_building_id": "37f056db280fdfb5863b00cac14a30c155046633",
+  "culture_invariant_id": 206,
+  "sort_number": 206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "OHANA When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
+  "card_identifier": "206/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=019e188939a615bf6ca1a1289d1d1c396041f03f28fa9fda613c4d6c9c8f3ec8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=0257f0a9f86ea4e6d562d298135b2ff2d1a4f6898ca0e747bd9c21f61afb40a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=0aa5dc36b58f56126d12e8b3077baed0e9cd3046373c36bbf6bd4ef3e783450d",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

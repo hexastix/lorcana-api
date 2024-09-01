@@ -1,0 +1,33 @@
+{
+  "name": "Sign the Scroll",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno Ayala",
+  "deck_building_id": "3b50bdfe85abebdd4bce7a6a74f0c24ee3a3d869",
+  "culture_invariant_id": 721,
+  "sort_number": 731,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Each opponent may choose and discard a card. For each opponent who doesn't, you gain 2 lore.",
+  "card_identifier": "30/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=989be7a2338045487022aa5bf0b1197bff6abd1ca7a1df1f9d3dc4d029c3395b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=7edbc30d1b00698f80b4ef7627f7e07318d1da9b19a4a92f4c95472cef195a70"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=c869813c94185ddd131f920fde60414e07982d074802efb76fdeae97fec24b0a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Durchwühlen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "f13778c7e4f55190ce7ec9958fcbfbbd0879d0e0",
+  "culture_invariant_id": 199,
+  "sort_number": 199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wer hat schon Zeit, Etiketten zu lesen?",
+  "rules_text": "Ziehe 2 Karten. Wähle danach 2 Karten aus deiner Hand und wirf sie ab.",
+  "card_identifier": "199/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=394cd66791f50eddd5095506fd7d4374b5f557afdfac5a8045bb9129fbe8d925"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=84d7ab1f34dee1d78f951535cb1a420924638cde7506c4e29aed268a89c5c0e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=1cd538b44a8b74d7d80b4c3c59d11b651b839970194eda4732581d972aa3becd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Pete",
+  "subtitle": "Rotten Guy",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "8b2e154aa83c63bb57795fcfc6fafc0507afe3f7",
+  "culture_invariant_id": 777,
+  "sort_number": 787,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Musketeer"
+  ],
+  "flavor_text": "Minnie: This is an outrage!   Pete: No. It’s my nefarious plan to steal the throne.",
+  "rules_text": "",
+  "card_identifier": "86/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=dadad52ed77d5c9e41a0e2c01e50af184bf8f1b6afbb6fd7e42615e186b73c8f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=3f2e29b6e74a69b9131c849fdd8a5385aa8529d6e1c6aa3f2318141c387ddd4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=49cb21b07649c697313eaf0dba93acc89cf75cbf71543ef264c2aef42db122fd",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

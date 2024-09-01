@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Ingannatrice di Tutti",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "bccdff72dc44581df3cb3328c67dd24f72bbc799",
+  "culture_invariant_id": 527,
+  "sort_number": 562,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Quando posso giocare la canzone aggiuntiva usando l’abilità Che Affare di Ursula – Ingannatrice di Tutti?\r\nA: Quando usi l’abilità Che Affare di Ursula – Ingannatrice di Tutti, devi giocare la canzone immediatamente dopo averla giocata la prima volta. Non puoi aspettare per usarla più avanti nel turno.\r\n\r\nQ: L’unico personaggio in gioco è la mia Ursula – Ingannatrice di Tutti che al momento ha 1 segnalino danno. Se uso Ursula per cantare Let the Storm Rage On posso usare la sua abilità Che Affare per giocare la canzone una seconda volta?\r\nA: Sì. Quando giochi Let the Storm Rage On, se c’è in gioco un personaggio che puoi scegliere a cui infliggere i 2 danni, lo devi fare. Anche se Let the Storm Rage On esilia la tua Ursula – Ingannatrice di Tutti, puoi comunque usare la sua abilità Che Affare. In questo caso non sarai in grado di infliggere 2 danni a un personaggio, poiché non ce ne sono in gioco ma puoi pescare lo stesso una carta.\r\n\r\nQ: La mia Ursula – Ingannatrice di Tutti canta Abbiam Vinto Ancora Noi. Scelgo di mettere 4 carte in cima al mio mazzo e 1 carta in fondo. Se uso l’abilità Che Affare di Ursula per giocare di nuovo Abbiam Vinto Ancora Noi e scelgo di mettere 1 ulteriore carta in fondo al mio mazzo, dove devo mettere la mia copia di Abbiam Vinto Ancora Noi rispetto alle altre carte che ho messo in fondo al mio mazzo?\r\nA: Abbiam Vinto Ancora Noi sarà l’ultima carta in fondo al tuo mazzo, a prescindere da quante carte hai messo in fondo al tuo mazzo ogni volta l’hai giocata. La carta giocata una seconda volta dall’abilità Che Affare di Ursula – Ingannatrice di Tutti va messa in fondo al tuo mazzo dopo che il suo effetto ha avuto termine.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Non chiedo tanto — se non la leggenda più potente!",
+  "rules_text": "CHE AFFARE Ogni volta che questo personaggio canta una canzone, puoi giocare nuovamente quella canzone dagli scarti gratis, poi mettila in fondo al tuo mazzo.",
+  "card_identifier": "91/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=170ee99f03f1049fbd4bdf2712fc4b124693be6b73e5524d636b65a96eb786ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=c6f2e40a357aa79f9fa8ee9821f10a70732ea02583f4532673cb26a5fedf1a12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a0b1cfc28b4d2541feb3608640875cb37984ff7ca4ad8c23598cbaa114aec4a0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

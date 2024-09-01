@@ -1,0 +1,43 @@
+{
+  "name": "Zeus",
+  "subtitle": "Gott der Blitze",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "dadb267eccd432e2568673dafcf9b187459bc477",
+  "culture_invariant_id": 61,
+  "sort_number": 61,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant",
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Gottheit"
+  ],
+  "flavor_text": "Ein kleiner Blitz löst eine ganze Menge Probleme.",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)Herausfordern +4 (Während dieser Charakter herausfordert, erhält er +4.)",
+  "card_identifier": "61/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=0c9235c09a439c9ed31c3df5df93a93723959ccfc08e6f80400d54151a4ecd31"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=04c61f460096ff71770157277600efd54a4ec139e25b32d7b09f62758cacc218"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=ba2dca85b3cf1c2de05f43dba50e888fe103005d3ca2f67c6b8786648a55e2bb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

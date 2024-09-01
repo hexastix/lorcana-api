@@ -1,0 +1,40 @@
+{
+  "name": "Arthur",
+  "subtitle": "Wart",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "ea4fccb865562f690c50de02ff9e7d716e781197",
+  "culture_invariant_id": 1146,
+  "sort_number": 1154,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "That boy's got real spark. Lots of spirit. Throws himself heart and soul into everything he does. —Merlin",
+  "rules_text": "",
+  "card_identifier": "190/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=a34acd36748b7955d01ca7758ba1810c2d0fd6b28c87658d95757d10579717c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=643970a7b2fe20e2484d2f6e5d8216aaa87a41ec0863db691aa5818aa8fbd6b3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=d4fa9e7e035d404fd6506bc3191c1264cf58147bba896360e9cc73390c2914c3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

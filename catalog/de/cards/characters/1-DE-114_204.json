@@ -1,0 +1,44 @@
+{
+  "name": "Maui",
+  "subtitle": "Held von allen",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 0,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Pirel / Marco Giorgianni",
+  "deck_building_id": "e7461b5e5c9e2bd3760cbfd6a8b7995386f18c2e",
+  "culture_invariant_id": 114,
+  "sort_number": 114,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Impulsiv",
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Gottheit"
+  ],
+  "flavor_text": "Also ich glaube, was du eigentlich sagen willst, ist ‚Danke‘.",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn möglich.)",
+  "card_identifier": "114/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=b872ffadb2bad9a61ca551db04b1a63684c2c44838a49c3b9aeb63c8b80bb335"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=1f86ce47dd24b911ba7c625121406af050209e381e808af29d09b383f244908c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=f6593be9dd82c7960c6503ad40615b53bc9376ab76c92391e0389146a7a935e3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

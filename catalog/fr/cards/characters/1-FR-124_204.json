@@ -1,0 +1,40 @@
+{
+  "name": "SERGENT TIBS",
+  "subtitle": "Chat courageux",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cory Godbey",
+  "deck_building_id": "797c561f7aae7add36d914600e9d79941726236f",
+  "culture_invariant_id": 124,
+  "sort_number": 124,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Oh oui, oui, j'y cours mon capitaine.",
+  "rules_text": "",
+  "card_identifier": "124/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=3a28c63057f95e38ee8c6bba118e85368d77342c7640ec42543020b50eeffebc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=4fa5c9800826e2555d0b0604f0aab9eb19760f38061f1622218dc3c3bb8abf0c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=bf73d96b42fc76ccb60d38dff69da99e286853d05a6f79a2da11578dc879e104",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

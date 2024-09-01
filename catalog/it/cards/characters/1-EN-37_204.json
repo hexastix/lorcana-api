@@ -1,0 +1,48 @@
+{
+  "name": "Dr. Facilier",
+  "subtitle": "Agent Provocateur",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "32e44d12b1db08f5e4100063542807daf6a238d8",
+  "culture_invariant_id": 37,
+  "sort_number": 37,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q. If I control Dr. Facilier – Agent Provocateur and one of my Floodborn characters who used their Shift ability to be played on top of another card is banished in a challenge, do all cards in the stack go back to my hand?\r\n\r\nA. No. Because the stack of cards all go to your discard pile first and become separate cards, you could only return the top card of the stack to your hand.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Dr. Facilier.) INTO THE SHADOWS Whenever one of your other characters is banished in a challenge, you may return that card to your hand.",
+  "card_identifier": "37/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=0b2a635a1d89039de692575bb9be9a103692be0502e9d860dff99ef33dc41024"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=1206f26b84ae9f8caeb4fd7534dc17bf2e1c9d0566adb8ae9762ebf393f2ea7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9ffd08d49c50900a589058b24f275c54f2ce1fef75dfff89da0e7b30c5817cbb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

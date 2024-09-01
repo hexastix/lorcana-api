@@ -1,0 +1,42 @@
+{
+  "name": "Stitch",
+  "subtitle": "Außerirdischer Tänzer",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "839f4d00a9e24a4cc3b359aad468d464b798d869",
+  "culture_invariant_id": 714,
+  "sort_number": 724,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "Als er zur Musik tanzte, verstand er die wahre Bedeutung von Ohana und dass er in die Familie gehört, die er gefunden hatte.",
+  "rules_text": "",
+  "card_identifier": "23/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=31be4f1c614aed1e7d0b41582f608f2178abc62cafa539b697ba5e27f157c396"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=81d626393cb73658a605c8ab7626ccac99c0d55895a232b882b6584c420d0d62"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=c834ed8db634eaf002a550511e9cf73b470c74ce46c61a7e30789ba995746d27",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

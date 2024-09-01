@@ -1,0 +1,42 @@
+{
+  "name": "FLOTSAM",
+  "subtitle": "Espion d'Ursula",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "0fb84ba893dbb130cedf653b49ff8e2427440270",
+  "culture_invariant_id": 43,
+  "sort_number": 43,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Nous connaissons quelqu'un qui peut t'aider… à certaines conditions.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) COUP BAS Vos personnages Jetsam gagnent Charge.",
+  "card_identifier": "43/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=a1ce221b6edc7fb843194d7790171682689e25c701c0dc5ac8044e448a20c8e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=760086ed42d14ec3f1276304cce2168859a97c88b280d11bd86a5b93e2823606"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=54354cf34300fdac8a7afc974d0515cce270fe3af17f45fc156e50fcbf17e908",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

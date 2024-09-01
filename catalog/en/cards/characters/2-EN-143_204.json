@@ -1,0 +1,45 @@
+{
+  "name": "Cogsworth",
+  "subtitle": "Talking Clock",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "7b50975b1d3f12da9b7fe8822eb27ad690318c58",
+  "culture_invariant_id": 359,
+  "sort_number": 383,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: My Basil- Of Baker Street was chosen by the effect of The Beast is Mine and is currently reckless. If I have a copy of Cogsworth- Talking Clock in play and exert my Basil to gain 1 lore, can I use his Support ability?\r\n\r\nA: No, you cannot. Gaining lore using Cogsworth’s Wait a Minute ability does not count as questing so you cannot use Support when you use it."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "This has gone far enough. I'm in charge here.",
+  "rules_text": "WAIT A MINUTE Your characters with Reckless gain \" — Gain 1 lore.\"",
+  "card_identifier": "143/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=5740df4db8f66ce8fcdde757451526b776c62ec901733697e2a8c2c4c842ddf0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=f9e07358d76c581c4a3e42abe4c269027bd28634705a5b1a42e80ee8e382a998"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=05f6d6ba59ca52d91c213b1e7ba797b166f0f0366c7822a0f9e990814a07894f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

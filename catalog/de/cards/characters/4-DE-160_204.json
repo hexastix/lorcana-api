@@ -1,0 +1,40 @@
+{
+  "name": "Triton",
+  "subtitle": "Junger Prinz",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "02da76ce172aef8ef2082d7b7a8bfd252dcefa0c",
+  "culture_invariant_id": 851,
+  "sort_number": 861,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "HERVORRAGENDER SCHWIMMER In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.) WÄCHTER VON ATLANTICA Jedes Mal, wenn einer deiner Orte verbannt wird, darfst du jenen verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "160/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=b89e1d4347de3958c21ff7261654ee6052d7321be5e93c1b9187a97d5bc08dfa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=61ed85883bf9ce0747d8461685e247868fab06526b185dc17b8785cd54c85e46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=267001764f92977109b400a2789caa11e947c2ba2401cb2114de9b2e78eb6418",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Highly Educated Owl",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d5d8e83c23339a91ca0c28486ec60caa97153511",
+  "culture_invariant_id": 36,
+  "sort_number": 36,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Flying is not merely some crude, mechanical process. It is a delicate art. Purely aesthetic. Poetry of motion. And the best way to learn it is to do it!",
+  "rules_text": "",
+  "card_identifier": "36/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=6f21b912c3f724a3465f7d1675be75f9e144d20648e9c8282b7561f3b344a8dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=51f78490c39591f60415b70f6eda156bf8425e7cd57b9049bf81a02493fbf5d9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e39a9f0487f0dbc190bd508afeca0562cc2bbc8c7b811edee292f734015e7df6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

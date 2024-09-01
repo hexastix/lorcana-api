@@ -1,0 +1,41 @@
+{
+  "name": "Aurora",
+  "subtitle": "Briar Rose",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Rosalia Radosti",
+  "deck_building_id": "703d2d0c9e63fb69fed427dac99aa1f1f589898f",
+  "culture_invariant_id": 138,
+  "sort_number": 138,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "There was something strange about that voice. Too beautiful to be real... —Prince Phillip",
+  "rules_text": "DISARMING BEAUTY When you play this character, chosen character gets –2 this turn.",
+  "card_identifier": "138/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b13ab844ec3b72d730e273c872e988dfe6bdd0b2277fe7ab0b046f1c4754a468"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=5fad49be9aa0d621704b0b42ddc1c882c81e0bb185c86ccb28025042af8d1ff7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=44a8d403e006786a0c62d3e4e3a572a4114af7f1696378fd93a42bd3f70b8e31",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

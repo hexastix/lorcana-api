@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Cœur sincère",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e1b3cea0cee4d2729aad03d87771e607533f1d94",
+  "culture_invariant_id": 829,
+  "sort_number": 839,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Reine",
+    "Chevalier"
+  ],
+  "flavor_text": "Assurez-vous de savoir ce qui est vraiment important, et soyez prêts à vous battre pour cela.",
+  "rules_text": "LAISSE-MOI T'AIDER Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages Héros gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "138/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=de57664c8281177a770b123607674f5271c66e5ab30deb087712afd08e1016e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=e92cf82c587a315cf5bc867f04bad3b756f93478e38dc6546742086e61606c7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=1872b1f7d824d5862a9c1885b606080f8205bf5465619ad9bda55bb9584a1735",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

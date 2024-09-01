@@ -1,0 +1,45 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Space Traveler",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "69de13009dc28237f575685f6879507f0b8a9a5e",
+  "culture_invariant_id": 545,
+  "sort_number": 580,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I play a location using Jim Hawkins – Space Traveler’s ability This Is It!, can I move him to that location using his Take the Helm ability?\r\nA: Yes. Note that you can do this as soon as either one (or both) comes into play.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "You’re gonna rattle the stars, you are. —John Silver",
+  "rules_text": "THIS IS IT! When you play this character, you may play a location with cost 4 or less for free. TAKE THE HELM Whenever you play a location, this character may move there for free.",
+  "card_identifier": "109/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c574e2d1e13e94b56b0fe13c4b9aa33dc39235d92084bc65e573b969e486a170"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=7872a79b4bd939edfe54c8363ca82d14fd3d050edc2b7983da10ea9b9e7e1a12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=706f82e5f42932d4f69671a060ea2df29955b94f61c0881376d760dae12f2d38",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

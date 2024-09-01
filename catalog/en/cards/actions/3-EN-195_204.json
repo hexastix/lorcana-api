@@ -1,0 +1,35 @@
+{
+  "name": "And Then Along Came Zeus",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "70a43800d36d83e54f6abc028f75b80ac11dbe91",
+  "culture_invariant_id": 631,
+  "sort_number": 666,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "He hurled his thunderbolt—He zapped Locked those suckers in a vault—They're trapped And on his own stopped chaos in its tracks",
+  "rules_text": "(A character with cost 4 or more can to play this song for free.) Deal 5 damage to chosen character or location.",
+  "card_identifier": "195/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=05f03c028e5a256de0f5d46aae3c0afb418c4ee59b1cf2e00431844594416b76"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=7be5765ffa91085fe91a0cd21e37e340120a7b7c61c46f71c92b6b749c4ec52e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=1273401d022ca1c9b82a72dec0600f1d939b975c9dbbdb7ffbd7674ab0be5bf6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

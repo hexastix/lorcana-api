@@ -1,0 +1,44 @@
+{
+  "name": "Grinsekatze",
+  "subtitle": "Nicht ganz da",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Caner Soylu",
+  "deck_building_id": "ff4e51a2d8a80f616afc576112c51e353e7490a9",
+  "culture_invariant_id": 71,
+  "sort_number": 71,
+  "additional_info": [
+    {
+      "title": "FAQ - Herausforderungen",
+      "body": "F: Gelten Fähigkeiten von Charakteren, die in einer Herausforderung verbannt werden, als während der Herausforderung verbannt?\r\n\r\nA: Fähigkeiten von Charakteren, die eintreten, wenn sie in einer Herausforderung verbannt werden, treten noch während dieser Herausforderung in Kraft. \r\n\r\nBeispiel: Marshmallow - Hartnäckiger Hüter die Fähigkeit: „Wenn dieser Charakter durch eine Herausforderung verbannt wird, darfst du diese Karte zurück auf deine Hand nehmen.“, und Grinsekatze - Nicht ganz da hat die Fähigkeit: „Wenn dieser Charakter herausgefordert und verbannt wird, verbanne den herausfordernden Charakter.“\r\nWenn ein Spieler also die Grinsekatze herausfordert und sie mit Marshmallow verbannt, würde die Fähigkeit der Grinsekatze Marshmallow während der Herausforderung verbannen, so dass der herausfordernde Spieler Marshmallow auf seine Hand zurückbringen kann."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Hast du nicht gemerkt, dass ich sie nicht alle beieinander habe, mein Liebling?",
+  "rules_text": "DA BIN ICH! Wenn dieser Charakter herausgefordert und verbannt wird, verbanne den herausfordernden Charakter.",
+  "card_identifier": "71/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=c848daa463615dc4b775fd682a1c7fcb707d1f0de8419f2fe2ec2da30947f341"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=92f3a38ddef5276558c36052a093210a47b1af5c84d223d5c14664bd04ca4344"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=e194d3039d5b42dfd26d5d3b008c6a3d7f9349ba250de2179e724de7e4ca4de6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Cruella De Vil",
+  "subtitle": "Perfectly Wretched",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "GusGadget / Leonardo Giammichele",
+  "deck_building_id": "cee03f2073c8ac1d8da9f9dce64776138f2df77a",
+  "culture_invariant_id": 361,
+  "sort_number": 385,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain"
+  ],
+  "flavor_text": "It's ink couture, darling. I wear only the best!",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Cruella De Vil.) OH, NO YOU DON'T Whenever this character quests, chosen opposing character gets -2 this turn.",
+  "card_identifier": "145/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=42f2bca982e5d51ee94c665507ededb09a0a0bf460e814207cfa26f66f4f9ace"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=0cdb55bdc9f0a0871158cc008a532ed8adbcb2990ec6151cd564b587588843d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=3423b24828392b0cad8a14984a6cc40e91561ba396e1328517ce46448fd8f674",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

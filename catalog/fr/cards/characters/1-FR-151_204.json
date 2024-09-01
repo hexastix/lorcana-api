@@ -1,0 +1,42 @@
+{
+  "name": "MALÉFIQUE",
+  "subtitle": "Indésirable",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "6a637ad79b7ce9fad777fb8a1163379b2f2e1f9e",
+  "culture_invariant_id": 151,
+  "sort_number": 151,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Elle n'avait pas été invitée… et n'avait nullement besoin qu'on l'annonce.",
+  "rules_text": "",
+  "card_identifier": "151/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=fb5b901c3346c03f22fa30e97a9f999686263e533a7eaa5e08d35b25cecbf5d9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=4a8bb2dd6d4e934ada52493a68b6b78468e153a28151fc51428b604fe5634a98"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=3f783a8136105e662e7f810d91388406970eeed92b5540ac2e47f78d6d4178af",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Timely Contestant",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "James Rey Sanchez",
+  "deck_building_id": "46113126c7bad0cd90cc18033e9413118fc1ccb1",
+  "culture_invariant_id": 1025,
+  "sort_number": 1033,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "TAG ME IN! For each 1 damage on opposing characters, you pay 1 less to play this character. Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "69/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=fd22e17ec8336375a8d783fae6aad16441c06a42d5b86401608676434d44e2e9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=c1319ac95da53e686348315e6cea876254a0d4d8ba8c0a857d564d1895b55896"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=a1004410c29ece95f39bd4f5c2a595bcaf335a8a3076df1844b17b5767227ba5",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

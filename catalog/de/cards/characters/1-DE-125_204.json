@@ -1,0 +1,42 @@
+{
+  "name": "Stitch",
+  "subtitle": "Scheusal",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Bill Robinson",
+  "deck_building_id": "605537d5b0a89487a307dd83926907cdd96aa2fc",
+  "culture_invariant_id": 125,
+  "sort_number": 125,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "Sein Zerstörungsprogramm zeigt Wirkung. Ab sofort ist er fixiert auf Großstädte, wo er verstopft Kanalisation, verdreht Straßenschilder und von allen Leuten stiehlt linken Schuh. — Jamba Jookiba",
+  "rules_text": "",
+  "card_identifier": "125/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=c539781b85181d77420126560cce28e35d64a8648cd09bc533731d510502aca3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=e5f3fd26a47e96fe889c26542f0d81bc6cb99fbe1e55638d5c40af6964fed3b0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=46c81eac0f71efef808093857affced40312388c5d503af03beec49a2125b617",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

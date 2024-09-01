@@ -1,0 +1,42 @@
+{
+  "name": "Pete",
+  "subtitle": "Bad Guy",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "498a07d34db6a52ef27e29b54a76950cc05708d7",
+  "culture_invariant_id": 304,
+  "sort_number": 328,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) TAKE THAT! Whenever you play an action, this character gets +2 this turn. WHO'S NEXT? While this character has 7 or more, he gets +2.",
+  "card_identifier": "88/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=21301317fee493fc28e8e01a457e9e9b4c7ef2f31181025b401719770bf7d093"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=ae70123d8e33af1401f8f411d7e52fb3b0f219c86ee5212dac74a6356e4db945"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=c3aef3eedcc1ed2fa1f5f20e134632f8bcc434524f6a6e7112557c230401c493",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

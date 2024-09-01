@@ -1,0 +1,40 @@
+{
+  "name": "Mrs. Potts",
+  "subtitle": "Enchanted Teapot",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "d2fc1a97d9660d223273dc3416d8fa2ad2e68950",
+  "culture_invariant_id": 743,
+  "sort_number": 753,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "IT’LL TURN OUT ALL RIGHT When you play this character, if you have a character named Lumiere or Cogsworth in play, you may draw a card.",
+  "card_identifier": "52/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=a0eb4869be98d8588ad62eb701d838b6aed8dc266fd40c55d0c296ee48f76536"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=42cb606f1a584204624952dd72193f7eb17eececf6aaabadf09619982c6a72c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=9db98e7747c3fa8247952b21d67476f67a0e3113ff5268e042f1ca83ec5437a2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

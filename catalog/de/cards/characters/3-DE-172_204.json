@@ -1,0 +1,42 @@
+{
+  "name": "I-Aah",
+  "subtitle": "Trübsinniger Esel",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "99d2d33370532b6247f8ecd7ee8301e6c94afd8e",
+  "culture_invariant_id": 608,
+  "sort_number": 643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Nicht gerade eine Straßensperre, aber es muss wohl reichen.",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "172/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=685561a436eb66e5582d7e7f42269d6ae13dbba0dc314c2b0f461232bbb92176"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=18a813424dd065421cd446734c46ee7daaffb6c6c1d76788f7de914add6648cd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=83d60d0b6d7229f99cafda3dad3c3110f68e9b4a54fb9a75c133e8603a0fdfde",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

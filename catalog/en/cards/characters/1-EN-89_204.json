@@ -1,0 +1,41 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Steamboat Pilot",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "98e74f278b9358ae6e4e6e05ffa6b6c7aa4a416b",
+  "culture_invariant_id": 89,
+  "sort_number": 89,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Captain"
+  ],
+  "flavor_text": "On rivers throughout the Inklands, the little steamboat's whistle answers the cheery tunes of its pilot.",
+  "rules_text": "",
+  "card_identifier": "89/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=44e8c9c27caef3c84a513400750bf67400a34e2740ec82e62462d4be777a3f1a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=15343e8045f52e8ed7915bceb0425005b36f16435d8c37a12f0980bebffc5418"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=bf89ae2761bc11cd85a59fcebf26be79f8a9eefabc33ec436ae3d8019ddbd1c8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

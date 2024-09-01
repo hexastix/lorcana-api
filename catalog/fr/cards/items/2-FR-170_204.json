@@ -1,0 +1,33 @@
+{
+  "name": "Boîte de sardines",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "09a95b1575fe35eec08ad5e0dce576e221bcff9d",
+  "culture_invariant_id": 386,
+  "sort_number": 410,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Vol 3759, embarquement immédiat! Allons chercher cet éclat de Lore!%- Orville",
+  "rules_text": "CABINE DE VOL Vos personnages épuisés gagnent Hors d'atteinte. (Ils ne peuvent pas être choisis par vos adversaires, hormis pour un défi.)",
+  "card_identifier": "170/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=58bb6931f81b8d1eb4a9813e69a7ecc7f0d55da269945c1e08c782628cc72851"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=64dd97b6addf6a726bb746330a3e6d58c57289ae9bf97684d1e349ec062f13a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=9d8a0444ccacccda8a53a8b65e7314dd4012ae88e801c6fdae0841ba35669ece",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

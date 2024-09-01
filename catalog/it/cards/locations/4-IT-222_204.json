@@ -1,0 +1,38 @@
+{
+  "name": "La Muraglia",
+  "subtitle": "Fortezza di Confine",
+  "willpower": 8,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Andreas Rocha",
+  "deck_building_id": "e5952f14f0c762b6186776b684752cbc36e40ac8",
+  "culture_invariant_id": 913,
+  "sort_number": 923,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PROTEGGERE IL REGNO Mentre hai un personaggio impegnato in questo luogo, i tuoi altri luoghi non possono essere sfidati.",
+  "card_identifier": "222/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=49bf1d2fb2a8dd0ae5dbb5edfa9fe05f3f5ba668e5df401539030f7fa9c46f4e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=dbede8fa98ee930229776bb750e7f842f9a22122a5675da1d64e2a02c8844e1d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=47ab0b6e7806f252bd095e14d77771345d2f979759003c0da4bbd2b497b71ea4",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

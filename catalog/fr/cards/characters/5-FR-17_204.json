@@ -1,0 +1,40 @@
+{
+  "name": "Félix Fixe Junior",
+  "subtitle": "Promeneur ravi",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "8554dd289e793c516ccdb856fac99c52a61d5c69",
+  "culture_invariant_id": 973,
+  "sort_number": 981,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Je crois n’avoir jamais rien vu d’aussi charmant.",
+  "rules_text": "NOM D'UN PETIT BONUS! Lorsque vous jouez ce personnage, si vous avez un lieu en jeu, piochez une carte.",
+  "card_identifier": "17/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=9706bcc802109fb9f5ff5362cd38a5d217c7bf21e732563e376ca53be9f0072a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=4d63491d1a6d86430a55f95799fab4f44ec10da88fa0a9d3ebde38f7faf8dae8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=b9cb99e32bf4c33fedb0e4fa2b6852b8506a6fc5fca1469bbc2d50144a110dcd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

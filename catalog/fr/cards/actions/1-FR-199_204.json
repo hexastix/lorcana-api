@@ -1,0 +1,33 @@
+{
+  "name": "SENS DESSUS DESSOUS",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "f13778c7e4f55190ce7ec9958fcbfbbd0879d0e0",
+  "culture_invariant_id": 199,
+  "sort_number": 199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Qui prend le temps de lire les étiquettes?",
+  "rules_text": "Piochez 2 cartes puis défaussez 2 cartes.",
+  "card_identifier": "199/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=5c118b8b1b9fde85707ea4ee33846ca2d6acc668ea0cfbcd5eba6f78eec0884a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=07f2f779c27db1adb1b84a6884dbf6aa47b832c287a2f17069234817f514cdd2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=1cd538b44a8b74d7d80b4c3c59d11b651b839970194eda4732581d972aa3becd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

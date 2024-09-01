@@ -1,0 +1,40 @@
+{
+  "name": "JASMINE",
+  "subtitle": "Déguisée",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "cd31b0163fb61bbfa637936de6f1c4a2ac6d20d5",
+  "culture_invariant_id": 148,
+  "sort_number": 148,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Princesse"
+  ],
+  "flavor_text": "Essaie de me comprendre. On ne me laisse jamais faire quoi que ce soit. Je n'ai pas un seul véritable ami… On ne m'a jamais permis de franchir la porte du palais.",
+  "rules_text": "",
+  "card_identifier": "148/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=18e190ec9e8ec413748f97e2f1c1eb4aca286be732e1ab4dcb908ed5bd390241"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=b97fd6f086a328a78ee2d1487597c4c3932f690dc05ce9528bace2cd1346394c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=ff7f9ce6c581b63d4340d00e89a99810d60403b100057a821b50d6f290f6e35c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

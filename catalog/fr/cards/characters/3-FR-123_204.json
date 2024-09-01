@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Lionceau bagarreur",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Agnes Christianson",
+  "deck_building_id": "b436bb8ce948a9539f8ff990a98d60b02b0a1b99",
+  "culture_invariant_id": 559,
+  "sort_number": 594,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Il rejoindra la chasse aux éclats... après un petit en-cas.",
+  "rules_text": "",
+  "card_identifier": "123/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=cbca8d1bc0102f9b100349f1edd6b1ac0f818afe552261949b9be14baa12f696"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=e5176b22074cf3fd996fb454ee28fd0e90d2da4d0cc48331a09f4da70dc4ca15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=244dd18a84f24a669266edcb5c9d83108588fc5ed176a4ba355957b63190d202",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "We Know the Way",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jake Murphy",
+  "deck_building_id": "0cca9fb008e3df3430585d8838427da91697bdd4",
+  "culture_invariant_id": 1017,
+  "sort_number": 1025,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 3 or more can to sing this song for free.) Shuffle chosen card from your discard into your deck. Reveal the top card of your deck. If it has the same name as the chosen card, you may play the revealed card for free. Otherwise, put it into your hand.",
+  "card_identifier": "61/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=9ec52f2537e54c7064f271d4787a58e6acdea9b91e2b936187b89029d2e8ec8d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=297ac38d505c967501cdcbb381f596acd67312b2f6c8e47f0a98dc7ad8f1a351"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=d809a72b946203f89e9a685aece4f3df61cf6f28287ff60ca107af23b7153e7f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

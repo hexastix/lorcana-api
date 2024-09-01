@@ -1,0 +1,40 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Disguised",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "cd31b0163fb61bbfa637936de6f1c4a2ac6d20d5",
+  "culture_invariant_id": 148,
+  "sort_number": 148,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Princess"
+  ],
+  "flavor_text": "Try to understand. I’ve never done a thing on my own. I’ve never had any real friends.. . . I’ve never even been outside the palace walls.",
+  "rules_text": "",
+  "card_identifier": "148/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=b313ca33a256c51f1ff81a97d06767048f2801ec817bb9db138468e0797638ed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=c0443e30111f90beaede90ada4039bb0f51103c56ba0f724181f61f4b82cca25"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=ff7f9ce6c581b63d4340d00e89a99810d60403b100057a821b50d6f290f6e35c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

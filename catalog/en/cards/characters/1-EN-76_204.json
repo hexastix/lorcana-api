@@ -1,0 +1,43 @@
+{
+  "name": "Genie",
+  "subtitle": "Powers Unleashed",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Javier Salas",
+  "deck_building_id": "02fc7753ceabfc92ab97788a14f4f5fcc65106a9",
+  "culture_invariant_id": 76,
+  "sort_number": 76,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Genie.) Evasive (Only characters with Evasive can challenge this character.) PHENOMENAL COSMIC POWER! Whenever this character quests, you may play an action with cost 5 or less for free.",
+  "card_identifier": "76/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=8b8c080ba6bf83cb1ee20872fff07a5467b2c89cfbc1f7308506fc7a94108be0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=988319657384417366feaecbcb91e857a5a3e52d98d4da88676e5f8d68860539"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=e4d5eded0413b0725731e0f8660b9f1d09ecbc2ed1aa31207be051e0d99897d6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

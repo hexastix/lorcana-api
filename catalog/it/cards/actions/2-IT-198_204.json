@@ -1,0 +1,34 @@
+{
+  "name": "Carica!",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "24beb0fe8c03ee0a1b7062c3babb64cb44f8dd73",
+  "culture_invariant_id": 414,
+  "sort_number": 438,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "A volte occorre agire con delicatezza. Questa non è una di quelle volte.",
+  "rules_text": "Un personaggio a tua scelta ottiene Sfidante +2 e Resistere +2 per questo turno. (Riceve +2 mentre sta sfidando. Il danno che gli viene inflitto è ridotto di 2.)",
+  "card_identifier": "198/204 IT 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=ae44f6d74e769bcc71cf8456d6e74d1a2067accdfe10b7fbedaa3cc03c5d09ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=3d92aa368e380e60909ea5122df00fc9c7e0a7c0543ffb17a0c71ee7173a731e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=5f9208f990220c27b19d9a9d1ee0c335152b915bd955747b83d5183129ede05f",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

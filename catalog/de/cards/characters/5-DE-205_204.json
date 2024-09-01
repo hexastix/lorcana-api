@@ -1,0 +1,44 @@
+{
+  "name": "Prinz Naveen",
+  "subtitle": "Ukulelespieler",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "7019f88f23a40f374d0cc8e7cbb8cb18fd60de3a",
+  "culture_invariant_id": 1161,
+  "sort_number": 1169,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singen 6 (Die Kosten dieses Charakters gelten als 6 für das Singen von Liedern.) SCHÖN, NICHT WAHR? Wenn du diesen Charakter ausspielst, darfst du ein Lied, das 6 oder weniger kostet, kostenlos ausspielen.",
+  "card_identifier": "205/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=e9dfb7b80147b56140388ce75bbe2f147494d3189c712b12eb39089debdbc798"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=fcf3913211b4aada15d0e58c0da10f3bafd18ec79272d6197d0ddbe06fda3fd9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=15358f046783d7d7deeef17baf5d031bd979743a7d352ad2f72bdb8f6b08c5a2",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

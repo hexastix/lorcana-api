@@ -1,0 +1,44 @@
+{
+  "name": "La Reine",
+  "subtitle": "À la tête du Conseil",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lava Hijzelaar / Ellie Horie",
+  "deck_building_id": "711db291586153124e70c559ba0991a638fc6d4f",
+  "culture_invariant_id": 1104,
+  "sort_number": 1112,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) RÉUNIR LES VILAINS Lorsque vous jouez ce personnage, regardez les 3 cartes du dessus de votre pioche. Vous pouvez révéler et placer dans votre main autant de cartes Personnage La Reine que vous souhaitez. Remettez le reste des cartes sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "148/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=0cbbe8b2dd92c1a83b1315bf0230a9290d849450c86f364e71bc6feb0f121db6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=eb40aa11ac49e7b49005ff9da64daeff41b665c627841e65e8046f0e297c32e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

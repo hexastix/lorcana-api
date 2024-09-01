@@ -1,0 +1,42 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Appreciative Artist",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "e162ea6cf826b5a99f57c8b44073d06f84dc6995",
+  "culture_invariant_id": 844,
+  "sort_number": 854,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Pascal! A new flower for the wall!",
+  "rules_text": "PERCEPTIVE PARTNER While you have a character named Pascal in play, this character gains Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "153/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=d51be73240ba9da030059659df99f6495d1d82ea0f75b924074dc50f67065aef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=6acad7c6e0992c3684d7c9cd5d08943762194edeb032cb5794cba1c0bde4bc7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=f56e8666927a947fa8780b3cee3f34b2052b94a316b2f755df1dd8653b594eb6",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

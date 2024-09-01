@@ -1,0 +1,37 @@
+{
+  "name": "Atlantica",
+  "subtitle": "Salle de concert",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alex Shin",
+  "deck_building_id": "6240734d322d9cb3fe3a5da76f4b06701345127c",
+  "culture_invariant_id": 724,
+  "sort_number": 734,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ACOUSTIQUE SOUS-MARINE Les personnages sur ce lieu sont considérés comme ayant un coût de +2 pour chanter des chansons.",
+  "card_identifier": "33/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=7643d3359f62c110e55682f4e4586596cf57bd25e3032f7b49d6a06f3e78cc46"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=0a4abc3a31b849741aa98cd25f2ef808a2e40a180cddd2eb3ff617e7a5c26078"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=5ed4fac2ff00676fa92b1832fbadba6be44cc5ff18dbc4f7f2b4338bc1a89beb",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

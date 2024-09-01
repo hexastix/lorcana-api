@@ -1,0 +1,35 @@
+{
+  "name": "SOYEZ PRÊTES !",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jared Nickerl",
+  "deck_building_id": "4579dd841c902f1f7a336b3776c97a974e5f3369",
+  "culture_invariant_id": 128,
+  "sort_number": 128,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Votre roi vous invite à la fête!",
+  "rules_text": "(Vous pouvez un personnage coûtant 7 ou plus pour chanter cette chanson gratuitement.) Bannissez tous les personnages.",
+  "card_identifier": "128/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=286161028ff384dcf5618d4987550227c1a6c0d1c36d0cb4c07feb407658cffa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=28b1ab07dc58dacdf35a393f1152af9209755b19666cb3d693bf9f212196b86f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=eaf6f4a6eb99b62090d7cc46b90f8d0e045083e4872916e536851df6dff242f0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

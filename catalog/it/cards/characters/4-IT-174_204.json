@@ -1,0 +1,41 @@
+{
+  "name": "Ariel",
+  "subtitle": "Sirena Determinata",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Dylan Bonner",
+  "deck_building_id": "3c90f7d78a7f6faad9aeb5edd3c7f5da84a98a4a",
+  "culture_invariant_id": 865,
+  "sort_number": 875,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Tutto quello che ha sempre voluto è quasi a portata di mano.",
+  "rules_text": "COSA MAI CI SARÀ Ogni volta che giochi una canzone, puoi pescare una carta e poi scegliere e scartare una carta.",
+  "card_identifier": "174/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=b454728d9b6489f80d5e6f43bb7aa6e72326b5e6df620690e057d80bcf1fb249"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=f951ff3f23f4cbdf4114a0d69ac63bd5bc93d8b4d1833b61bc2be6928166514b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=36534ca436da9dbd451906076fcb647a67ab8a51c8d0f5fbd14e16dfc538c94c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

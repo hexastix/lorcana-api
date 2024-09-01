@@ -1,0 +1,44 @@
+{
+  "name": "Minnie",
+  "subtitle": "Championne Mousquetaire",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "cafbe429486948b0c90695e0d88422c1815a0ad8",
+  "culture_invariant_id": 897,
+  "sort_number": 907,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Mousquetaire"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.) ENTRÉE THÉATRALE Lorsque vous jouez ce personnage, choisissez un personnage adverse avec 5 ou plus et bannissez-le.",
+  "card_identifier": "206/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=1dc8e2a0d892606832b8168e086d270e3464162ff28e3f0da22295ca04b138d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=1cb78bddc7a3eac1bd4fdcfec09df446cd846e8369e393bc9aa88277c46cfbd4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=80e8c413d5351dedbccc12b881c0e83b6447757050bfd0ada2a02b947c90c832",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

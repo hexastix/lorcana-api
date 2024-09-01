@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Manque de sommeil",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Pablo Hidalgo",
+  "deck_building_id": "1da037e9f2cbb7f5ff27439a3e93d845ffda617c",
+  "culture_invariant_id": 277,
+  "sort_number": 301,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Yzma: Des lamas! Tout ce que je vois dès que je ferme les yeux, ce sont des lamas!%Kronk: Bizarre. Je viens d'en voir un emporté dans l'inondation. Pauvre petit gars.",
+  "rules_text": "",
+  "card_identifier": "61/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=1d52412d2909dc58bab248375c79c65645d18e629e050f3004c5a17883d825e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=481a1ae4f3d28f255da57f285f795aaaa4d813bbf00790da55f375fd85aa31b3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=41b49a2747e2a43d4b370b5f25ddc967bb3b7649112699579eec8986cc19c8d2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

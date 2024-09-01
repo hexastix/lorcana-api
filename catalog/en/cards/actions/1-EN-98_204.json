@@ -1,0 +1,35 @@
+{
+  "name": "Sudden Chill",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Giulia Riva",
+  "deck_building_id": "af0402088e469d5b1093c6206c115b0e96e599c3",
+  "culture_invariant_id": 98,
+  "sort_number": 98,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Cruella De Vil, Cruella De Vil If she doesn't scare you, no evil thing will",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Each opponent chooses and discards a card.",
+  "card_identifier": "98/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=3c17b77d5f17099181a529605c110e12bdb64a43d3a118b13e3b000adf782b2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=7dca13fe5e4a97041b739fc18b4d53bf6f20e18c6980b39b23b13452bc1f4481"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=42141b307ae35d3b6a18d50d702ac04df3f2caba7d80f932c05a3fbfdc4b1542",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

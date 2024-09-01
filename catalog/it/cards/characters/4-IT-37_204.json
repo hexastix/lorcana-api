@@ -1,0 +1,41 @@
+{
+  "name": "Belle",
+  "subtitle": "Mistica Inesperta",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Angelina \"Spikie\" Ricardo",
+  "deck_building_id": "978ddff2c7a02c8c94056556dc73c364c4039837",
+  "culture_invariant_id": 728,
+  "sort_number": 738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Nonostante i suoi tentativi, Belle non riusciva a guarire completamente la ferita della Bestia.",
+  "rules_text": "STIA FERMO, NON FACCIA COSÌ Quando giochi questo personaggio, sposta fino a 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "37/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=6e412985683050d4ff1de9620970d6ea9378053ecb82a21ee91c4519a6211034"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=3141deb3755b12a44896c98fbb53dfaa0aee778cd61e4910edc0383eb79498b3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9e2d14e8782d29b3fad4ae121725d5bdcbae78a4e23ca7bb96fc8a65a3e4b0d5",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

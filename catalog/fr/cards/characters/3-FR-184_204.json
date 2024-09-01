@@ -1,0 +1,41 @@
+{
+  "name": "Monsieur Mouche",
+  "subtitle": "Matelos empoté",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ally Zermeno",
+  "deck_building_id": "9a550d6d1adb8c9c50c770cd0354b54e62316cdd",
+  "culture_invariant_id": 620,
+  "sort_number": 655,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Attrapez ces petits-OUCH!",
+  "rules_text": "OH LA LA LA LA À la fin de votre tour, si ce personnage est épuisé et que vous n'avez aucun personnage Capitaine en jeu, infligez-lui 1 dommage.",
+  "card_identifier": "184/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=b7325241cf9d9fb4af3d8b9ca04050046001200af13580dd1f365f29701b9b93"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=e17c5a9b5d9e67641afd815ad34edceed66a63685870cc9cacd8f1354c2719d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0d74a1a99ba99ac090bd07c5c531f1a6acbd7acc7f86c1b52d07f65fa3d1faa6",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

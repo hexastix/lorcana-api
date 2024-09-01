@@ -1,0 +1,45 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Trompeter",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "179fc22003ba7747cc37f42fe012a724fc2bd364",
+  "culture_invariant_id": 618,
+  "sort_number": 653,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich die Fähigkeit „Der Ruf Erklingt“ meines Micky Maus - Trompeter einsetze, kann ich einen Charakter kostenlos Gestaltwandeln?\r\nA: Ja, kannst du.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "DER RUF ERKLINGT , 2 – Spiele einen Charakter kostenlos aus.",
+  "card_identifier": "182/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=34aee0855fe5dfd21f475ee8e66daa3600918b02f3ef12fad29960c554840acf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=3a46dad3906481e8e26be83228f2fc372466113cb50d93383911e43e345a8fab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=51be4daadd8b7eb76438d6a38ce1e560dfd06dece912463679c1774726f1c98c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

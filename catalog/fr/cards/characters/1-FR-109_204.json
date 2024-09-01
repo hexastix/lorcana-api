@@ -1,0 +1,43 @@
+{
+  "name": "ELSA",
+  "subtitle": "Surfeuse des glaces",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni / Whitney Pollett",
+  "deck_building_id": "2c72bd1a5c7a603b9cdcd55269b6cf9c2843e321",
+  "culture_invariant_id": 109,
+  "sort_number": 109,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "Ma sœur a toujours été là pour moi. Je me dois d'être là pour elle.",
+  "rules_text": "ÇA N'EST PAS UN BLIZZARD Lorsque vous jouez un personnage Anna, redressez ce personnage. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "109/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=ce93c895f2d632f15ecb6f3a0e170581a34ca56770f974f60400cdb82860b339"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=e201c8c7a22dc377bfe0bfa6a1bcdfa0891648863b7a379916e5e34a2a67994b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=aab125224cd732812644530d66cee6ad262fcd627abefe793068c66b2b6c67c9",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

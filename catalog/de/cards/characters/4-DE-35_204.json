@@ -1,0 +1,41 @@
+{
+  "name": "Antonio Madrigal",
+  "subtitle": "Tierexperte",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ellie Horie",
+  "deck_building_id": "ed2c6a48f6ed632a88bdc391071033dde8e10b17",
+  "culture_invariant_id": 726,
+  "sort_number": 736,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Madrigal"
+  ],
+  "flavor_text": "Es war einmal eine Casita in den Bergen mit einer ganz besonderen Familie....",
+  "rules_text": "",
+  "card_identifier": "35/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=b8eab3feb519d6d1fbcb92e507bbbde6022b29698ac09bdab34a4898d9a210a9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=794dc72d72ec3cfff0af6181174698b6a0f299b5716931d1fe693d82f41cb5c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=2269cba09819373e8c52f4d250c022063c4b0e85f639a7a84d03481ea6c92e0e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

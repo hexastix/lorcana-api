@@ -1,0 +1,33 @@
+{
+  "name": "Glückskreuzer",
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "6d8acbfa2c88c40a18a277b2a9ba61ba059ab1a3",
+  "culture_invariant_id": 601,
+  "sort_number": 636,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Diese eine schlichte Münze veränderte Dagoberts Leben für immer.",
+  "rules_text": "NUMMER EINS , 2 – Wähle einen deiner Charaktere und sammle so viele Legenden, wie sein -Wert beträgt.",
+  "card_identifier": "165/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=6ba88fe9d1e1d5ef73425607d6893eb2084a9729e204163dfb9dcebdc7f41174"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=3cba69d526996b16d583c8de07491d2fea25a7b21891aa709790a958e4df7652"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=2a6416f4e93ca69d4cad3f29365c926e767b6fa0643e2fb4d629824089ff4638",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

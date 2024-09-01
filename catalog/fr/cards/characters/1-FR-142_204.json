@@ -1,0 +1,41 @@
+{
+  "name": "BELLE",
+  "subtitle": "Étrange demoiselle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e473ddb0872912473fc4fa98e92df1be8c0a8101",
+  "culture_invariant_id": 142,
+  "sort_number": 142,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "J'aime les romans de cape et d'épée, plein de magie et de princes ensorcelés.",
+  "rules_text": "LIRE UN LIVRE À chaque tour, vous pouvez placer une carte supplémentaire de votre main dans votre réserve d'encre. MON PASSAGE PRÉFÉRÉ! Tant que vous avez 10 cartes ou plus dans votre réserve d'encre, ce personnage a +4.",
+  "card_identifier": "142/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=c0a09b7c6372852ccac5961fa1dfa0212d58ee9a7f71368381a8b31ea5e2e23d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=96c6d08bfe1db006b50fa3c1034ee9cdf5aab1b504d22fe5a6a7fb96dca1a3dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=1351c5137ee45a723595fb9c553babe999be6631d37c805d5de6a84a4d48f916",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

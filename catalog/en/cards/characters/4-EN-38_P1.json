@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "Sea Witch Queen",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "John Loren",
+  "deck_building_id": "27753ec5988e180c10bd43600c45c2fb844dd27f",
+  "culture_invariant_id": 954,
+  "sort_number": 931,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Ursula.) NOW I AM THE RULER! Whenever this character quests, exert chosen character. YOU'LL LISTEN TO ME! Other characters can't exert to sing songs.",
+  "card_identifier": "38/P1 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=b7b7157f56f295f59b45117cafdef11b9c01f6c2acb6cd2305c2a6aa4e1f366f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=98dfcaa3da85c5802a16ee0fc38c0f1e64cf906a850de8e1428088bd75870ef4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=4192c5f98903736ee084f79c56060dc50adbd66b42ec52c6685986e869fa6577",
+  "special_rarity_id": 1,
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

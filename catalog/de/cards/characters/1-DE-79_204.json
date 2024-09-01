@@ -1,0 +1,40 @@
+{
+  "name": "Horace",
+  "subtitle": "Nichtsnutziger Halunke",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "fb1f97b1f33d5d99e2c0a5c21f6d84dde83a0934",
+  "culture_invariant_id": 79,
+  "sort_number": 79,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "In diesem Stall sind sie nicht, Jasper.",
+  "rules_text": "",
+  "card_identifier": "79/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=43403c128a29c63a71b314e77bb385104aaac22d9fee3aa97a512706c7967a4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=2580b10a64992bc0294800f7dd8f0fe2170c9542a9276e4718a5a9ddb9550c44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=6975f7c4b308cdc54ef65a372e81d4698f1ea362698691f651f6e5236d1d1abf",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Lively Partner",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "e0924443108d0df64a23851b0300bc32953f3c15",
+  "culture_invariant_id": 818,
+  "sort_number": 828,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) ON A ROLL When you play this character, you may move him and one of your other characters to the same location for free. The other character gets +2 this turn.",
+  "card_identifier": "127/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=f3defecd2547e71a8a4732f0411a86d0e5730decad5e724d5c5c56a2027a5bd4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=602724c86c280fe2569637e078af8f2cf90bba1a0ac0ad7bf9d5822fcea62897"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=727feb59c4da2a0acf570cac1f4cd16979f0a79ab3352c3080a782636993134d",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

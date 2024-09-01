@@ -1,0 +1,43 @@
+{
+  "name": "Naseweis",
+  "subtitle": "Stets hilfsbereit",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Caner Soylu",
+  "deck_building_id": "7d6f88911941e9ab84662a1acc5938a3572d710b",
+  "culture_invariant_id": 93,
+  "sort_number": 93,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündete",
+    "Fee"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)FEENGLANZ Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Wendig.",
+  "card_identifier": "93/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=bb220456fdd34b85fe3a4fdbe9835c11a903ccad0b1c3d110cc88f81ab021145"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=6a083f262466d6efdf8f92939f98af5902e3eab245f4ef5f8320e2b89f171af9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=ea2e7b5c65eb252b235dd962a740b9244932df308e615cb6f5ac66874694af39",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

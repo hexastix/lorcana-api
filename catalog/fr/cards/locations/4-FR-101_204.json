@@ -1,0 +1,37 @@
+{
+  "name": "La crique cachée",
+  "subtitle": "Havre de paix",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Roberto Gatto",
+  "deck_building_id": "ed1ae5d7eae7e91e80de930096d8be65b9f13e21",
+  "culture_invariant_id": 792,
+  "sort_number": 802,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Polochon, c'est parfait! J'ai hâte de l'explorer.%—Ariel",
+  "rules_text": "EAUX REVITALISANTES Les personnages sur ce lieu gagnent +1 et +1.",
+  "card_identifier": "101/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=10885312f1d37e2b03e1f6bc2401d5398cb53f0f42ef0c4c7ea69762dcaaa0b0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=868bb75549f7fea419c9ee7b8b910e8188a18008413541d657c120663cb4cd56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=aec40c130142348e3b60a7878ba839ee13ce0652696e015d1e7b9208275ddaaf",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mère Gothel",
+  "subtitle": "Conspiratrice inflexible",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Dylan Bonner",
+  "deck_building_id": "cdbf26f3c024f49ca1be07d416db32bede4c8d3b",
+  "culture_invariant_id": 1048,
+  "sort_number": 1056,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Mère Gothel.) \"LE MONDE EST TRISTE\" Lorsque vous jouez ce personnage, chaque adversaire choisit l'un de ses personnages et le renvoie dans sa main.",
+  "card_identifier": "92/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=6a9abd187784bfacd90b79aa5bca0cd4e90f59f31f8911f8e9428afca2d92571"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=6765afc19759450dd1670248ed1568c68637ab5a9ca54fed8da9be2d64f87383"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=203298209749424beb77f1f46c86800efabe56a003d21faaa216cf97235f3db8",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

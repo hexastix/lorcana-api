@@ -1,0 +1,45 @@
+{
+  "name": "Ursula",
+  "subtitle": "Seehexen-Königin",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "27753ec5988e180c10bd43600c45c2fb844dd27f",
+  "culture_invariant_id": 899,
+  "sort_number": 909,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurkin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Ursula-Charaktere auszuspielen.) JETZT BIN ICH DIE HERRSCHERIN! Jedes Mal, wenn dieser Charakter erkundet, erschöpfe einen Charakter deiner Wahl. HÖRT MIR ZU! Andere Charaktere können nicht erschöpft werden um Lieder zu singen.",
+  "card_identifier": "208/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=a1483f5cf08916a6f6d6d6c4b720bbb9b9fde7b0c121da1fbc1c92563af42cd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=bcee847f911039bb64289cd8cfcdf6d17583c0bbb119534036a52daeabfcb3d7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=996c4224c0a54d433b350e2ad0ba39b20e4beb7b22cb28bf240373241445b95f",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

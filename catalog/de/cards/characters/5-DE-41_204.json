@@ -1,0 +1,40 @@
+{
+  "name": "Erdriese",
+  "subtitle": "Lebendiger Berg",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "fa663265a818f52aa9dc5dccb009fec5fdcccae2",
+  "culture_invariant_id": 997,
+  "sort_number": 1005,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Wer hat denn den Großen aufgeweckt?",
+  "rules_text": "AUSGEGRABEN Wenn du diesen Charakter ausspielst, ziehen alle gegnerischen Mitspielenden je 1 Karte.",
+  "card_identifier": "41/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=4210a3153eff9d3c00f1d963588b60df1cd99d564d2e0355a4e7b438b8a966c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=e3dd24dab85fbaa4d8aa785666d3ce09f458da8c3cbc584bfb11f85dc0575cbb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=c236e7418fd8eecfa3e23a3da65c70076d5d5949c310d6413971c74d8cd25c50",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

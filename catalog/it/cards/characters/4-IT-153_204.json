@@ -1,0 +1,42 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Artista Entusiasta",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Aubrey Archer",
+  "deck_building_id": "e162ea6cf826b5a99f57c8b44073d06f84dc6995",
+  "culture_invariant_id": 844,
+  "sort_number": 854,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Pascal! Un nuovo fiore per la parete!",
+  "rules_text": "COMPAGNO PERSPICACE Mentre hai in gioco un personaggio chiamato Pascal, questo personaggio ottiene Protetto. (Gli avversari non possono sceglierlo se non per sfidarlo.)",
+  "card_identifier": "153/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=94871c7fedef399220b836e019a74f6139e655a6215264d3a945d0001ce268c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=1edd81ae663a8a58fc4ddc2b644950e484694214cea3b839028fcf2eb525c81f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=f56e8666927a947fa8780b3cee3f34b2052b94a316b2f755df1dd8653b594eb6",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

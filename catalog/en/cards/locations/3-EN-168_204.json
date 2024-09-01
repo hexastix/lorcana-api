@@ -1,0 +1,42 @@
+{
+  "name": "Belle's House",
+  "subtitle": "Maurice's Workshop",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Alex Shin",
+  "deck_building_id": "4b02e8ae98da7815714d4cac86d24cb2bcc76501",
+  "culture_invariant_id": 604,
+  "sort_number": 639,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I have 2 characters at Belle’s House – Maurice’s Workshop, do I pay 2 {I} less for items?\r\nA: No. No matter how many characters you have at Belle’s House – Maurice’s Workshop, you’ll only pay 1 {I} less to play items. If you have 2 copies of Belle’s House – Maurice’s Workshop in play and a character at each of them, however, you’ll pay 2 {I} less to play items.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Some of the most important tools in Lorcana are crafted here.",
+  "rules_text": "LABORATORY If you have a character here, you pay 1 less to play items.",
+  "card_identifier": "168/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=90de7cc413325e3158b8e1a39830262b55347a531db133205a5b17b4a59e6794"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=8f70e173571ec67b2f1c6f7d84e8c3f619ea6cf49215bcd7a7379a07b44f08d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=da1e8cbbc24b80d32e07910f6a825499d8037fe4d8affeeebe70aa184733abb3",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Ursula",
+  "subtitle": "La plus perfide de toutes",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "bccdff72dc44581df3cb3328c67dd24f72bbc799",
+  "culture_invariant_id": 527,
+  "sort_number": 562,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : À quel moment puis-je jouer de nouveau une chanson en utilisant la capacité “Quel contrat” d’Ursula – La plus perfide de toutes ? \r\nR : Lorsque vous déclenchez la capacité “Quel contrat” d’Ursula, vous devez rejouer la chanson que vous venez de jouer juste après en avoir résolu les effets. Vous ne pouvez pas attendre pour la rejouer plus tard dans le tour.\r\n\r\nQ : Ma Ursula – La plus perfide de toutes est le seul personnage en jeu et elle a 1 dommage sur elle. Si je chante Perdue dans l’hiver, puis-je utiliser sa capacité “Quel contrat” pour la jouer de nouveau ?\r\nR : Oui, vous pouvez de nouveau la jouer. Lorsque vous jouez Perdue dans l’hiver, s’il y a un personnage en jeu que vous pouvez choisir, vous devez infliger les 2 dommages. Même si les effets de Perdue dans l’hiver bannissent Ursula – La plus perfide de toutes, sa capacité “Quel contrat” s’est déclenchée et vous pouvez rejouer cette chanson. Dans le cas présent, vous ne pouvez pas infliger de nouveau 2 dommages à un personnage, vu qu’il n’y en a plus en jeu, mais vous piochez une carte.\r\n\r\nQ : Ma Ursula – La plus perfide de toutes chante Je complète ma collection et je choisis de placer 4 cartes sur le dessus de ma pioche et 1 en dessous. Si je déclenche la capacité “Quel contrat” pour rejouer Je complète ma collection et que je choisis de nouveau de placer une carte sous ma pioche, où dois-je placer ma carte Je complète ma collection par rapport aux autres cartes placées sous la pioche ?\r\nR : La carte Je complète ma collection est placée tout en dessous de la pioche, et ce indépendamment du nombre de cartes placées sous la pioche à chaque fois que les effets de Je complète ma collection sont résolus. En effet, lorsque vous rejouez une chanson grâce à la capacité “Quel contrat” d’Ursula, vous devez la placer en dessous de la pioche après en avoir résolu l’intégralité des effets.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Je ne veux pas grand-chose... juste les éclats les plus puissants!",
+  "rules_text": "QUEL CONTRAT Chaque fois que ce personnage chante une chanson, vous pouvez rejouer cette chanson gratuitement depuis votre défausse, puis la remettre sous votre pioche.",
+  "card_identifier": "91/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=9810e886903ec81dae389bd0be04cae185e40045a073c9a417c9616cd111ce80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=11f929635d7e54a7700942065855ede3d02f57e321fc8cb0f8e9d6b46be2e053"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a0b1cfc28b4d2541feb3608640875cb37984ff7ca4ad8c23598cbaa114aec4a0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Dalmatiner Welpe",
+  "subtitle": "Schwanzwedler",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "41a059413bf3c6cc52013cb2a2306150864300be",
+  "deck_building_limit": 99,
+  "culture_invariant_id": 436,
+  "sort_number": 471,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "Erst stehlen sie dein Herz. Und dann deinen Stuhl.",
+  "rules_text": "WO KOMMEN DIE DENN ALLE HER? Dein Deck darf Dalmatiner Welpe – Schwanzwedler bis zu 99-mal enthalten.",
+  "card_identifier": "4a/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/825256d5a3b28f88e18d2fc2f6c93d07ecd4fdd5.jpg?checksum=ee612b9e7d8578274cfe07cdfd1abd7d25b2e3ecc939a5ae3df6cf6e6afd3b30"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/825256d5a3b28f88e18d2fc2f6c93d07ecd4fdd5.jpg?checksum=559578af250a76684a3a0a7a024735cdf98ff2e5071da911307145f4cbcd9135"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/825256d5a3b28f88e18d2fc2f6c93d07ecd4fdd5.jpg?checksum=8b99734cc2a5b072c66285031c56b157326d706ecf456dc237b395e9db999947",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

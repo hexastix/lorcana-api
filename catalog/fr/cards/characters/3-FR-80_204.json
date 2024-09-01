@@ -1,0 +1,43 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Roi de l'Atlantide",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "6171faef1161c353aae832650702ac027410eea5",
+  "culture_invariant_id": 516,
+  "sort_number": 551,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Roi"
+  ],
+  "flavor_text": "Vous ne savez pas ce que vous risquez en jouant avec ce cristal.",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Milo Thatch.) ON PROFITE DE L'EFFET DE SURPRISE Lorsque ce personnage est banni, renvoyez tous les personnages adverses dans la main de leur propriétaire.",
+  "card_identifier": "80/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=ee064f6af8c522f2b3982af033b8dc61c90413a1a38b44ee53234fdc34c21985"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=d73ea9014eea476642addec5df90f98f25393fd21ee0c288896079ecac7fc8f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=1ac942911d04eee50c2ccb1392823503ca66b84052ef48524516970f2f8b664c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

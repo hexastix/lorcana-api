@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Cucciolo Spelacchiato",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Agnes Christianson",
+  "deck_building_id": "b436bb8ce948a9539f8ff990a98d60b02b0a1b99",
+  "culture_invariant_id": 559,
+  "sort_number": 594,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Si unirà alla caccia di leggenda dopo che avrà fatto un veloce spuntino.",
+  "rules_text": "",
+  "card_identifier": "123/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=f4f64265e617d0d15cc22d4d9374e2a510320dca444207252f79f24f22089904"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=79552d95fb517b9962b2d70e258fa5bb0f87a9958b1d85159ad4d0af7314bb2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=244dd18a84f24a669266edcb5c9d83108588fc5ed176a4ba355957b63190d202",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

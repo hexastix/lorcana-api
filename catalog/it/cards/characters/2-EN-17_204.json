@@ -1,0 +1,40 @@
+{
+  "name": "Nana",
+  "subtitle": "Darling Family Pet",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "cef2ff4e8de30c0cd1260a4d2a648a00a36ae52a",
+  "culture_invariant_id": 233,
+  "sort_number": 257,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Children are a dog’s best friend.",
+  "rules_text": "NURSEMAID Whenever you play a Floodborn character, you may remove all damage from chosen character.",
+  "card_identifier": "17/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=da03520c00d6279dd5137525f64f2a3f74f54a74c2b8c671cb3e7c7d94674490"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=c4b4eb5fe3bc113bc598911d1d1d650f4d5d7969da66a439dbecd454ebd11249"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=3002ac19b1fa091c95155f63110104d047a362ae050c9e1197980d7dfbf8cf5f",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Petite fusée",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Nicola Saviori",
+  "deck_building_id": "2ce76e99fa3946189d8b3985a10b16a474034d40",
+  "culture_invariant_id": 561,
+  "sort_number": 596,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Qui a bien pu se dire que ce serait une bonne idée de lui donner une armure de puissance?%—Nani",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "125/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=8c85b3dbd244a6cbdf6e18e7a785a531d4e48d411e95aeb1bf6c1713be19a8b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=9568aa2ef337ebf023bad8892f7d033f814b1d0849eed4d46dc8fdefaa97ca58"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=5efc9182b2a4ebdd5c925cd943474cd140a1e48c2f36360b35a220b335b0b375",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

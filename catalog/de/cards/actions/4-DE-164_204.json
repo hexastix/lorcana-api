@@ -1,0 +1,36 @@
+{
+  "name": "Ich weiß was geschieht",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Rachel Elese",
+  "deck_building_id": "a42da0e7fb78600ad53ee43454f669e4f312509b",
+  "culture_invariant_id": 855,
+  "sort_number": 865,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Ich kenn‘ dich%ich war bei dir einst einmal im Traum",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Gib einem Charakter deiner Wahl in diesem Zug -3.",
+  "card_identifier": "164/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=f7f090cb8f613456ad250e18dba1fcc9252444a78b57ca0ef14d1853f1b1e870"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=86b52155ae31fa2114ad5d42ce15100e4a97dcd7e7305646dfc275ef140d638b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=b2be77156e4411eb4cc4821603ba0b46ebee0eac4491c225d9e15990fa00e170",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

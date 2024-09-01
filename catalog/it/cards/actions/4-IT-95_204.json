@@ -1,0 +1,37 @@
+{
+  "name": "In Fondo al Mar",
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Dylan Bonner",
+  "deck_building_id": "e81fec386fd1647801df51920cfaf2d60ad090b5",
+  "culture_invariant_id": 786,
+  "sort_number": 796,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Vedresti che il nostro mar%È pieno di meraviglie",
+  "rules_text": "Cantare Insieme 8 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 8 o superiore può per cantare questa canzone gratis.) Metti tutti i personaggi avversari con 2 o inferiore in fondo al mazzo dei loro giocatori, in qualsiasi ordine.",
+  "card_identifier": "95/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=3ad3f275db356432723505cfd7731a5189dff64a66507a2244b0444d774160fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=3b1947f7af2a5098f36e575a6f3869659b4e38196662d3650273e59b50f1b555"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=488d0c18a009c4f3586400ad46c5268d7ff82b1eac0593499455a8d53b542c9a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

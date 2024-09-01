@@ -1,0 +1,41 @@
+{
+  "name": "Herr Smee",
+  "subtitle": "Loyaler Erster Maat",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kamil Murzyn / Eri Welli",
+  "deck_building_id": "6da7dcf840af520dd86dd608720bcfcb84825627",
+  "culture_invariant_id": 15,
+  "sort_number": 15,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Smee ist eine freundliche, sanfte Seele, die lebt, um einem alten Schurken Trost und Hilfe zu spenden. Nun, wofür ist solch' Freundlichkeit gut? – Peter Pan",
+  "rules_text": "",
+  "card_identifier": "15/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=c7a6bdff91a5df2ca184d49f9cb7f10cf8bed86e6db6fdb0c7b5650205ce2fbf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=703e304c06892a0a93fa666a75791c91d6abdafa70c67810094d37bab644b696"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=d478b412a177a2430e3144853ed3f7af81a87ff09f53ce870b7cecf0d5034556",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Basil's Magnifying Glass",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "02918ccd3a403f27aeb1591007157c27c8cb9736",
+  "culture_invariant_id": 1122,
+  "sort_number": 1130,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I say, a piece of the Hexwell Crown! —Basil",
+  "rules_text": "FIND WHAT'S HIDDEN , 2 — Look at the top 3 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "166/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=5d64cf9494305a92c984aaf19a36ec4343f9b27b15389b1e16631915007bd613"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=6f0747412d355ca0feaef1ec26a51f65218e6c6bfc5cd1333d746a312abd523f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=0b6d572bedc32e8302f336d42c9d8433ae59b16563f338a517ce8d1218bde594",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

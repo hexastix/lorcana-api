@@ -1,0 +1,45 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Evildoer",
+  "strength": 9,
+  "willpower": 9,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Evana Kisa / Jochem van Gool",
+  "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
+  "culture_invariant_id": 435,
+  "sort_number": 470,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q:\tIf I have 10 character cards in my discard, can I use Perdita – Devoted Mother’s ability Come Along, Children to play Chernabog – Evildoer from my discard?\r\nA:\tNo. Chernabog’s ability The Power of Evil only affects how much ink you must pay to play him, not his cost. Even if you have 10 character cards in your discard, Chernabog – Evildoer still has a cost of 10.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Darkness calls to minions everywhere.",
+  "rules_text": "THE POWER OF EVIL For each character card in your discard, you pay 1 less to play this character. SUMMON THE SPIRITS When you play this character, shuffle all character cards from your discard into your deck.",
+  "card_identifier": "3/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=33c36bd7a02f6c78747139a8a447c152f7ff863cd595e5a81253981611b3b9ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=b7e852c63530891e0b2c099b52ac04f45c97cea6fe702c7dbb3a3a6a1f903cfb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=15007b7f06365f789800232f41248f068cef345296f1f1eb3186ae1b306722cf",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Moi, j'ai un rêve",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Michela Cacciatore",
+  "deck_building_id": "c24ba0e28c5f3a8df3686d5068b960ef77a1875b",
+  "culture_invariant_id": 565,
+  "sort_number": 600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Tor veut tout quitter et devenir fleuriste%Gunther décorateur et styliste",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Choisissez l'un de vos personnages sur un lieu et redressez-le, il ne peut pas être envoyé à l'aventure pour le reste de ce tour. Gagnez un nombre d'éclats de Lore égal à la de ce lieu.",
+  "card_identifier": "129/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=0d1097e3a97815177bbcd68f6890e03d0e4561f66299704f1de57587b00e959e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=b4a5abb689ec5cfa858de0f8be54213a31360ea00229da39b900ce6bc97ba569"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=92d9a0c621eef43ca89b0f1f05dd928eb67cac3787a612ae9bb8d7c0bf02cf7b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

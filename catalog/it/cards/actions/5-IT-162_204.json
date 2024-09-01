@@ -1,0 +1,35 @@
+{
+  "name": "Stessa Melodia",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "ac2e4ae31b17ef873ac04d7effc1655e403418b9",
+  "culture_invariant_id": 1118,
+  "sort_number": 1126,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Ti sorprenderà%Come il sole ad est",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per cantare questa canzone gratis.) Rimuovi fino a 2 danni da un qualsiasi numero di personaggi a tua scelta.",
+  "card_identifier": "162/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=3d4a73632182142a6051559251f4ea5e1dbf11e65415fd88eea49bfb4e8a2b66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=c0d55e498fcc1aacd064ca4a0bef69691a2d3c700ee15795a7ccede7b984a695"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=e623c12f817a7ff1cd17a64faf8d063007b6bbd3fb59725898b55073073a6b20",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

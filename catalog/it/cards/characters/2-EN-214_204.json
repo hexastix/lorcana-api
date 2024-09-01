@@ -1,0 +1,43 @@
+{
+  "name": "Sisu",
+  "subtitle": "Divine Water Dragon",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "64954a34ae8d8884b8fb5dd92473c229df33a39a",
+  "culture_invariant_id": 430,
+  "sort_number": 454,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity",
+    "Dragon"
+  ],
+  "flavor_text": "",
+  "rules_text": "I TRUST YOU Whenever this character quests, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "214/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=49b1825d63f990e8d4826807c788054791db21fc535e0bbd15a3c60d23a60605"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=17a62bd92bf24c632b4747b8186c1baf68484972252b252783fc2141b78319e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=99c7a865ae62633388f12e7145fe656f209546f947e25a2bae1a723673b977c0",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

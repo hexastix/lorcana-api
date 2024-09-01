@@ -1,0 +1,43 @@
+{
+  "name": "Grand-mère Tala",
+  "subtitle": "Esprit de l'océan",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "fbf243419cbfdb464f79114d25217e7266819b65",
+  "culture_invariant_id": 653,
+  "sort_number": 688,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Mentor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Grand-mère Tala.) SAIS-TU QUI TU ES? Chaque fois qu'une carte est placée dans votre réserve d'encre, gagnez 1 éclat de Lore.",
+  "card_identifier": "217/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=64ec6b778a118ab090cb53e487c33a9d5065e58af4861a20f4b42483db8079fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=325176f69a4f0c366d9e1a66d78c990f5d2a6a6bb3f1ace4a1fe892a5045a7c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=81daec44791cc1ddb37b8c181b2bc612c8b3060d8c4d1becde995874725bb710",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

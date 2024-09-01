@@ -1,0 +1,34 @@
+{
+  "name": "Lanterna della Rosa",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "4f471ae492d30e74f2e140335be59db281b294d1",
+  "culture_invariant_id": 756,
+  "sort_number": 766,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La rosa trasformata si occupò in breve tempo della ferita della Bestia. Ma persino la magia più delicata ha un costo.",
+  "rules_text": "PETALI MISTICI , 2 — Sposta 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "65/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=2d2ae25ad818c5c49921c5e3da9d97632503fa26da25fcc655c92297fd1717a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=b427f3d7cd7090eb2b719586ceaa961660a199c2f0d623842a35f2cc34798b80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=4654d6b4c49c16b547975a00d56dd1ec6115cd9291dd64f878ba5aa34345cc48",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

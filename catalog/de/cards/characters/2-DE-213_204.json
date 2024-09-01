@@ -1,0 +1,41 @@
+{
+  "name": "Alice",
+  "subtitle": "Wachsendes Mädchen",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "a8457457371219443c6138ae91ffc24bee944433",
+  "culture_invariant_id": 429,
+  "sort_number": 453,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin"
+  ],
+  "flavor_text": "",
+  "rules_text": "DAS IST EIN GUTER RAT Deine anderen Charaktere erhalten Unterstützen. (Jedes Mal, wenn die Charaktere erkunden, darfst du ihre in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) WAS HAB ICH GETAN? Solange dieser Charakter 10 oder mehr hat, erhält er +4.",
+  "card_identifier": "213/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=7499584caf779ae3fc6de4bc666ca356deee7d21f91a4f17f5a27d6976c91bee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=34ada05b40870267689b7180141666af1041ae5ca4f847369e733d697a82d7a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=0a430fd99cfaf7bf5e151a429180873f32be50bf6cfa3e63cc47de4b5d9674ee",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

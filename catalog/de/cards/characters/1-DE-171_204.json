@@ -1,0 +1,40 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Schwertkämpfer in Bedrängnis",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Randy Bishop",
+  "deck_building_id": "eebe1c4ff92d2e3ba65cbbd98be63816dfdd9b5b",
+  "culture_invariant_id": 171,
+  "sort_number": 171,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Oh ho! Der Straßenjunge hat also ein Schwert und ein Rückgrat! – Rasul",
+  "rules_text": "",
+  "card_identifier": "171/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=b582003821da24c80ca14ceed09659a3b911a289693f0de6832eea546b6053c0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4f6aa49b05b952899f768c29be8d5f957d5778d4b077d3d54f9224eca4b388bd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=0f6c1a2102609300678659dc4b9e0054ede9707f4f1893a7cc006455bebc0de4",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Philoctetes",
+  "subtitle": "No-Nonsense Instructor",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "e37669ed7364c22a0dc38be227ed36b062d4c5cf",
+  "culture_invariant_id": 881,
+  "sort_number": 891,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "YOU GOTTA STAY FOCUSED Your Hero characters gain Challenger +1. (They get +1 while challenging.) SHAMELESS PROMOTER Whenever you play a Hero character, gain 1 lore.",
+  "card_identifier": "190/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=ccc37cffd897c7fd72cc877c52fe1a0f986f100a2e35c77e4acce679f5bd39f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=9c299a7d3ad558c668adfc3ccbe54860baffd256906d276a773a582ea811d422"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=69ca7c9f9c57b87a313a47aa39cb303a1e16cdaf4f254fe93656d94be26cf78c",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

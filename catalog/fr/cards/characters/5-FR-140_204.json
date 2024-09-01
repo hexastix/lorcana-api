@@ -1,0 +1,40 @@
+{
+  "name": "Balthazar Picsou",
+  "subtitle": "Amateur d'antiquités",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "1262f10b12ccaed7c5ea1884842b08062ba5d6b9",
+  "culture_invariant_id": 1096,
+  "sort_number": 1104,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "La pièce secrète devrait être juste ici ! Ah, je n'arrive pas à croire que j'ai dépensé un sou pour cette carte.",
+  "rules_text": "",
+  "card_identifier": "140/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=0efa793c1bb24147826b7e5f8e8956e3a82820da8e813dd263dafc9b50c08ed6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=c62c00cd4048bbc2f1753d25d922ade5de6f09a4cc3a38b6d3daf79577783578"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=19d5e88a0f64b71f686c0cf29294732a899ce5e24aed2bf2cb9ff3a0b892e766",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

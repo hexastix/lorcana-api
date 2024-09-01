@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Alien Pirate",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Jared Nickerl",
+  "deck_building_id": "11558c64b32cb39749583bcfb6fd5638e6a0ea03",
+  "culture_invariant_id": 82,
+  "sort_number": 82,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "Don't be too put off by this. . . hunk of hardware.",
+  "rules_text": "PICK YOUR FIGHTS When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "82/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=39a82f947f615205ef2feda2685485f971df6b8d6b9260612fe0adbaad68e7a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=ca2724706b8db02d623b711a39672de475714d1185bc4b48013e60e254a4d488"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=003a62db372e1c49c672b673f5a58d774e94f818048006a5eaef9f56e2471009",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

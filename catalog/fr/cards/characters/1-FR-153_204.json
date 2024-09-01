@@ -1,0 +1,43 @@
+{
+  "name": "MERLIN",
+  "subtitle": "Mentor autoproclamé",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Dave Beauchene",
+  "deck_building_id": "6df9e37cf042bea283043a907feb840a22e7db90",
+  "culture_invariant_id": 153,
+  "sort_number": 153,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Mentor",
+    "Mage"
+  ],
+  "flavor_text": "Quelle pagaille! Quelle crasse médiévale! Moustique, il faut qu'on modernise ça.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "153/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=15332248e13d94ba2697d3b43aecd440911efd748696b3f8fb2848d17c9ddbeb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=40ea37572ca0d8e5c7f30d9a291f6e3b71ab80166091b780ed01adf29bdaad7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=78a93f4c595168b9cbaf9306728bbffbc612134a9af799a319ccd42b4625b482",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

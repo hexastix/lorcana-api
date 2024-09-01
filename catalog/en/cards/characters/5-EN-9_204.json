@@ -1,0 +1,42 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Candy Mechanic",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "a074d9a5fe4ec9e9905316dcc6f56e1a9de0a03b",
+  "culture_invariant_id": 965,
+  "sort_number": 973,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "flavor_text": "I’ll take whatever you’ve got . . . as long as it’s got sugar in it.",
+  "rules_text": "YOU'VE GOT TO PAY TO PLAY Whenever this character quests, chosen opposing character gets -1 until the start of your next turn.",
+  "card_identifier": "9/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=2013f2ad7bc1cac0996cfaf4133f1abe56c10993029b549d681d999bb0d87461"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=28aa06baaf692ea9325a1370a7c0215ce4d6c62766333203b146eb51680205da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=04678c0a66a63fa5c3afa53070c02be1d6197a065a6b784b9e0ac2d2d0f276bd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

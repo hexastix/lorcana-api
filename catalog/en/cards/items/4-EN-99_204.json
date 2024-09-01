@@ -1,0 +1,33 @@
+{
+  "name": "Signed Contract",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Andrew Peña",
+  "deck_building_id": "fd1f3ba849d2d59ce5e0e3e8c3e3e7a146685998",
+  "culture_invariant_id": 790,
+  "sort_number": 800,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I would <love> to help you, of course, but there’s the little matter of the contract... —Ursula",
+  "rules_text": "FINE PRINT Whenever an opponent plays a song, you may draw a card.",
+  "card_identifier": "99/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=abf821d76d38a8b4442d916c02b10737ef99869f0870150818a065c406ea0eef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=e4ecd70792402e3e2ed296dcc47d7d4fcf57827307bc3708e3ac56e927520ffc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a1e6df8f6f2676c9804354dab5e241cc7ef1b37d18cfa0bbd7d28ef27db9ebad",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

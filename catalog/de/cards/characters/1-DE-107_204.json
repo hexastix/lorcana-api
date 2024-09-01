@@ -1,0 +1,44 @@
+{
+  "name": "Käpt'n Hook",
+  "subtitle": "Skrupelloser Pirat",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Cam Kendell",
+  "deck_building_id": "cb7f49afcece80ca059a1b80ac84424a7d69eeaa",
+  "culture_invariant_id": 107,
+  "sort_number": 107,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Du weißt nicht mal was Kämpfen heißt, du armer Wicht!",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)DU FEIGLING! Solange dieser Charakter erschöpft ist, erhalten gegnerische Charaktere mit Wendig zusätzlich Impulsiv. (Sie können nicht erkunden und müssen herausfordern, wenn möglich.)",
+  "card_identifier": "107/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=fe59261b356a244afcb5ec61a53f8e0fdd716729d4b7146f156e2ca6fef50bb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=a3dbc88c67ebd9ccd00e3bd50d9deb0b580897417f267c07048da3859dfa5c46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=097817ce9d07b92c34d57c340eb9c7ca669caaa616ee05aff25405013e228a22",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

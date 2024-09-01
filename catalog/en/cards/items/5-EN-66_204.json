@@ -1,0 +1,33 @@
+{
+  "name": "Amethyst Chromicon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Dustin Panzino",
+  "deck_building_id": "d4d96ef9fc0086b65fcb2361a63d0808cb76f94c",
+  "culture_invariant_id": 1022,
+  "sort_number": 1030,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Seek not power for its own sake. —Inscription",
+  "rules_text": "AMETHYST LIGHT — Each player may draw a card.",
+  "card_identifier": "66/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=aa5eb7e8374dd367d45bd1ab98915a2cb022855ed8ec3707524891a5f98afc4c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=845b6347578d7014b02624448f9446fb646c25152bd8a12ec2a79ca0aa04da4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=9c74a0843f90900e236e217912ff84691aa73a9440822c82d46dc85c28fff03a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Magic Broom",
+  "subtitle": "Industrial Model",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "886ba59539c115eb94eaabba8dec4a56a76b26c0",
+  "culture_invariant_id": 404,
+  "sort_number": 428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Broom"
+  ],
+  "flavor_text": "Even with a hauling weight of seriously, a lot, it can only do so much in a magical flood.",
+  "rules_text": "MAKE IT SHINE When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "188/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=0fb7f22f7ce0decd1d21bcb2ab0e5bcc11d53f185250ac104eaa55eb887bbc27"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=02fa948def29eda62ddb4ddd9d037da7da75a98d1584835b9955acb3234d82bf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=501d9ace0a856310f24ad5bf5b477c1455d06df721142e5fdc81dbcc7a5c433a",
+  "card_sets": [
+    2,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

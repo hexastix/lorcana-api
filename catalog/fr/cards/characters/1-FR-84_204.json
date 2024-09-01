@@ -1,0 +1,42 @@
+{
+  "name": "KUZCO",
+  "subtitle": "Empereur pourri gâté",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "d9db9f6bf253381915cb4e979201f2ce3217677d",
+  "culture_invariant_id": 84,
+  "sort_number": 84,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Roi"
+  ],
+  "flavor_text": "J'ai demandé des émeraudes et ça... c'est clairement du jade! C'est quoi votre problème, les gars?",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) PAS TOUCHER! Si ce personnage est défié et banni, vous pouvez bannir le personnage qui l'a défié.",
+  "card_identifier": "84/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=ba455aed99902ed370857d2fd78aac95878e53e25f9d2f63b988aef65cb86320"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=c7abaaa721d24f92b9c35fa221ce9ab9e5877087c2c5a1c79aa8706f9ce3cf2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=c6270d8cecca68cc1652271ba5f95b77724d795a33feabca06675075bf66b80c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "White Rabbit",
+  "subtitle": "Royal Herald",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "James C Mulligan",
+  "deck_building_id": "d25e463a72b570a5a6cd876b38749e5e28add26d",
+  "culture_invariant_id": 999,
+  "sort_number": 1007,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Oh me, oh my! Did a piece just fall off the Illuminary?! I’ve got to tell someone before it’s too late, late, late!",
+  "rules_text": "",
+  "card_identifier": "43/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=aba93f168e962e13073104ac238aa1e5c4e913847764659bf38a073d13281333"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=8acefe658c05674ca5fd1d10aeda42f5b8a5473a38b3a74206e1626e6a26520d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=677d65a659ff017870d7e1ec5791975daa017e162f804463bc0434b5e6e7273c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Daisy",
+  "subtitle": "Charmante Damoiselle",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "08f967d40b670a245bbb978cb87ee054ef5773f0",
+  "culture_invariant_id": 697,
+  "sort_number": 707,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Douce Daisy, la plus belle cane rencontrée%Ses mèches blondes, une cascade dorée%Son bec, un coucher de soleil d’été%Ses plumes exquises, une merveille à contempler.",
+  "rules_text": "",
+  "card_identifier": "6/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=c528dca6448f5c508be674a9991fb6cdcafd2fef1f7a40cde9976f5989c0b99b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=e6ba36df90f5effed086219ed7362f259e6b84e72d232eb8bb50bdd5d3c4becb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=16bc6dd61a263e2f20c312d95fb10d83447b727320c2536b57b1ebb10f778810",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

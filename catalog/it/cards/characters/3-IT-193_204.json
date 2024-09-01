@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Sovrano Legittimo",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "d5e96e3c5cf16c5011f1aa8018f87b668ff17dbf",
+  "culture_invariant_id": 629,
+  "sort_number": 664,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Re"
+  ],
+  "flavor_text": "Quando i pericoli si moltiplicano tutto intorno, il branco ha bisogno del suo protettore.",
+  "rules_text": "POSA TRIONFALE Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, un personaggio avversario a tua scelta non può sfidare durante il suo prossimo turno.",
+  "card_identifier": "193/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=fdc9b799c3b6b6b0382eab47b17f8acf8229e4465de5ade3cf73fcf3c33b38c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=58882ae85a8405286999afd72741aecfc14971639879a62c2b68602669ce4a57"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=2f6a33b096c6ce5264ad197c91063355a96ee4a19dc4dcf9582f5c468752f939",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

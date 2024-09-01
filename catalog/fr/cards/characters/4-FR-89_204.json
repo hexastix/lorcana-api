@@ -1,0 +1,40 @@
+{
+  "name": "Les Moires",
+  "subtitle": "Œil unique",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jon Densk / Hayley Evans",
+  "deck_building_id": "a006d6c335ba5f1e0446f91c16ab10467268b77b",
+  "culture_invariant_id": 780,
+  "sort_number": 790,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Nous savons toute chose.%—Lachésis",
+  "rules_text": "NOUS VOYONS TOUT Lorsque vous jouez ce personnage, regardez la première carte de la pioche de chaque adversaire.",
+  "card_identifier": "89/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=d1a6f80067a0e2a1579b8a639fb7020aa232892342b580dc1d067e6df3913eb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=f95f6acf7a0e4ae1d97ab404de078e49efec4bdcef69d17587dfa191900fdb05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=310af1dba59fd7ae455ca8163685c66726d053b69678165e4d58f83d75121320",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

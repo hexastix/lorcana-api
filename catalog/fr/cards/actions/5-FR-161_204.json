@@ -1,0 +1,33 @@
+{
+  "name": "Caprice royal",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Michela Cacciatore / Giulia Riva",
+  "deck_building_id": "211fa6f2c714f9c7c38c603759096a5a87b2f7c3",
+  "culture_invariant_id": 1117,
+  "sort_number": 1125,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "C’est moi le Roi ! Le Roi ! Le Roi !",
+  "rules_text": "Bannissez autant de vos objets que vous le souhaitez et piochez une carte par objet banni de cette façon.",
+  "card_identifier": "161/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=857bb2edc150e209afeb04a49ead180d8e4ff1e47d3da7218305c3f35400ee0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=c91ed1daec3be29fee79d5190764a8ec61586309c2420ed001a572e70ace053f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=e86848936ae7e5818cf501022cb1b0a1f705ce86a759711d87dc4008f8eeb1a0",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

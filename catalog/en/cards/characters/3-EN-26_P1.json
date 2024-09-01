@@ -1,0 +1,42 @@
+{
+  "name": "Kit Cloudkicker",
+  "subtitle": "Tough Guy",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Jake Parker",
+  "deck_building_id": "2ba6592b2078506e7c5389f3ec79be99fb7ce9be",
+  "culture_invariant_id": 684,
+  "sort_number": 695,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "It’s been fun, guys, but I got to be going. Yahoooo!",
+  "rules_text": "SKYSURFING When you play this character, you may return chosen opposing character with 2 or less to their player's hand.",
+  "card_identifier": "26/P1 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=bc56d63a2aba8502370bd33e373accf39ce7aa4a5e0324b4b6ab03c26b6d53f4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=ed64a34abea691b7391305b13a3ea4ea09612bae05b2e9bec4f7b92ba5674254"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=bf771e01072c14aef605ddde8e25e99493dea33bc7b87901f3c0394288a97dfd",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Pluto",
+  "subtitle": "Mickys kluger Freund",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "5c5530068c0b550700c76f4606cc8afdd60f7582",
+  "culture_invariant_id": 588,
+  "sort_number": 623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Plutos Aufgabe bestand darin, Gustav abzulenken, damit Minnie in die Höhle gelangen konnte.",
+  "rules_text": "",
+  "card_identifier": "152/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e8820e16ce4a687eddc0e1398cc09e235935fac4843cffba65b64abf1ea04de6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=3e0647fb1352563de6dc217804b99ee3de4dd3a4127259eb24c5ca10d5f39339"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=6b8c891162ce9b6c2b231ddbc877cbf1e6d8deb962e593ac04a2c20fa06a2624",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

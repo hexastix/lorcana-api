@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Sfavorito della Squadra",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Karen Hallion",
+  "deck_building_id": "46c74815d938940a1435bdae976105ce9951db9f",
+  "culture_invariant_id": 1185,
+  "sort_number": 1193,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Alieno"
+  ],
+  "flavor_text": "Non è il glimmer più grosso del gruppo, ma comunque pesta duro.",
+  "rules_text": "OH ISSA! Quando giochi questo personaggio, puoi infliggere 2 danni a un personaggio a tua scelta.",
+  "card_identifier": "6/P2 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=95f60fe8d0dc9ae56558329ab4f42c755be0c76ced2d1480f3943d696b6e6374"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=de98b60e1a05d2934cc64223245c8164120a49be3be32c876d1491bbe4b21983"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/2/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=3e765d1f4367f4302eb38337806e839b453b11352df5b20be40a83087d781d7d",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

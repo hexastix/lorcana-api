@@ -1,0 +1,33 @@
+{
+  "name": "Nascondere",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "8a4b79dfce8cd5ce2a263af63f7f8a57679803ca",
+  "culture_invariant_id": 1119,
+  "sort_number": 1127,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Fauna: Oh cielo, abbiamo fatto cadere...%Serenella: Vuoi dire <hai> fatto cadere!",
+  "rules_text": "Aggiungi un oggetto o un luogo a tua scelta al calamaio del suo giocatore, a faccia in giù e impegnato.",
+  "card_identifier": "163/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=5cb4a275a0e579015daacc65f0f27efb793852ac8833ae8582f0b3fb9e002755"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=c55aa5d67bf52de85911d3e2e79658dafc7ed307ddf0a2a1801a865cedde70d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=c990736cacf9ba7cfad7840594d74ed60cfe86a9e0ffb695160af665970aa7ae",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

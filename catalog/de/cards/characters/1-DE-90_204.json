@@ -1,0 +1,40 @@
+{
+  "name": "Mutter Gothel",
+  "subtitle": "Selbstsüchtige Strippenzieherin",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Javier Salas",
+  "deck_building_id": "79c6e202cddc31d783bd416c273e9fed9f7a7eb2",
+  "culture_invariant_id": 90,
+  "sort_number": 90,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin"
+  ],
+  "flavor_text": "Na toll. Und jetzt bin ich die Böse.",
+  "rules_text": "MACH KEIN DRAMA, BLEIB BEI MAMA Solange dieser Charakter erschöpft ist, können gegnerische Charaktere nicht erkunden.",
+  "card_identifier": "90/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=2d04cf0058f445c3dcb8321f1f80ade1c6fa3ef27011df0bc40ddfc33d51215b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=ae747561492ff4ee48435e396efa0a9e1441d43898b9ed78f197b3ee05c960ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=f0ee415646fb93823e0534568d52ca9243d1d0ab59a24e47b35c340cc75844d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

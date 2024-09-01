@@ -1,0 +1,42 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Criminal Mastermind",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michaela Martin",
+  "deck_building_id": "20f1cee3efa42ca0bdb7295992b0b9f485f9c40e",
+  "culture_invariant_id": 307,
+  "sort_number": 331,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Villain"
+  ],
+  "flavor_text": "I’ve outdone myself this time! Soon I will have everything I deserve. Riches... power... an entire kingdom at my feet!",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "91/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=8387cbccb41ff376b5895e4b6519c970bb52ad9acef957237eaf60368ddc54f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=918fe94d0d1e7249cd5b0891396f019f3bd1fe974e9c3afc14af20903304ae5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a4a2bfb941629d88aa6c79c3487d0afb6fedb7380145469a2eef6bdf73c637ef",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

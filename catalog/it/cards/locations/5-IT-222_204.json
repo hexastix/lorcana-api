@@ -1,0 +1,38 @@
+{
+  "name": "Cattivi Anonimi",
+  "subtitle": "Centro Assistenza Cattivi",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "cc71c1618903c39c8004b62c6773737e15c61cef",
+  "culture_invariant_id": 1178,
+  "sort_number": 1186,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "NON VORREI ESSERE NESSUN ALTRO A PARTE ME I personaggi Cattivo ottengono \", 3 — Gioca un personaggio con lo stesso nome di questo personaggio, gratis\" mentre si trovano in questo luogo.",
+  "card_identifier": "222/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=e2f31f94b162aebb0b1494224c6fd5f9c31dc9109a5817c226af50233b4fa885"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=12b92df09f807be2c1b0c047e0384e0dc16657feaba0b721c13e047b3f040b69"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=e33474aebb4c334ab9b018e6891070526f2b971c701d6c21ec96ccc54f4d77a1",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

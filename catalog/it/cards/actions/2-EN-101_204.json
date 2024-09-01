@@ -1,0 +1,33 @@
+{
+  "name": "Ring the Bell",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "33859d5b1f672f1eb04078991404e42b82ae7f43",
+  "culture_invariant_id": 317,
+  "sort_number": 341,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I'm afraid that you've gone and upset me. —Ratigan",
+  "rules_text": "Banish chosen damaged character.",
+  "card_identifier": "101/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=cc842dd0687b4443297b8785fc2b7b803fff13bf9486b5ceafc24107b058277e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=bb65ff8b5bf4d27859ebbc3b46e6afea39a0f15b67648634a040cfd81622ccf7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=46a3b99f133bea2ab71ea61da876659ba9c1a50aa3f631f5199ebb3dd6764202",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Capitaine Crochet",
+  "subtitle": "Duelliste sournois",
+  "strength": 7,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "206adc2d84556fe4b6f75c6754f8e7a9acb55bf9",
+  "culture_invariant_id": 916,
+  "sort_number": 936,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Envouté",
+    "Méchant",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Un choix évident, bien sûr. Si empreint de ruse et de perfidie. Il me rappelle… moi.%—Ursula",
+  "rules_text": "",
+  "card_identifier": "3/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=414fa1842518b5c40b6a311b4b1184421af0f2068ef4f1bd9606ceb7a47446b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=062c4cdee76c10dfbd18d14dcbabefdbb312a29fefed2c93c9de4c9e129375ac"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

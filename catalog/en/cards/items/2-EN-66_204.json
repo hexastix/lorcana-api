@@ -1,0 +1,33 @@
+{
+  "name": "Croquet Mallet",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "e970bdbe2afc322fb9f32c852422fe71892d93a6",
+  "culture_invariant_id": 282,
+  "sort_number": 306,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "HURTLING HEDGEHOG Banish this item — Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+  "card_identifier": "66/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=316108a13e3bd46d331d691c182925212e72e634455715cd538a1bcf8d6aa1bc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4c3b2cfdc11a4b0f41593480a4487239f64b32a436f202db255d42b0fdd25719"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=279742f9cf1307e0b0de8850f20c20c2757786c858ec759674a3c17e94f466f6",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

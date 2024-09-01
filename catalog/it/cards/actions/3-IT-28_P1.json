@@ -1,0 +1,37 @@
+{
+  "name": "Dov'è Che Andrò",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Anna Rud / Anna Stosik",
+  "deck_building_id": "eddcb5e8b24a67d1fe9ba072650341d9017300d3",
+  "culture_invariant_id": 686,
+  "sort_number": 697,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per giocare questa canzone gratis.) Guarda le prime 2 carte del tuo mazzo, aggiungine una alla tua mano e l'altra al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "28/P1 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=4dac1d149ce92f1dd0a1e2f7dd361d6d83f60b21b67c5031cd84e192fddd2cd8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=9cbb5c20fe1531a09255328a1a78672716900afecbd9afa5dd8da7abc77bab79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=5ddaf06df151fb775b9b6fd023f667bc6edce1ce5b5f93ab96cbfdc811f876b5",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

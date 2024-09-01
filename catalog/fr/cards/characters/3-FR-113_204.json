@@ -1,0 +1,43 @@
+{
+  "name": "Maui",
+  "subtitle": "Demi-dieu planant",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rob Di Salvo",
+  "deck_building_id": "5dbaface98eade9dac7b113a051ff1632bc17fc4",
+  "culture_invariant_id": 549,
+  "sort_number": 584,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu"
+  ],
+  "flavor_text": "Tu n'as pas d'autres poulets dans ce genre?",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.) DANS MON VENTRE Chaque fois que l'un de vos personnages Heihei est envoyé à l'aventure, ce personnage gagne +1 et perd Combattant pour le reste de ce tour.",
+  "card_identifier": "113/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=e148e350bc519f8b37273a751acab892b4f5c7dd1784d2a934d75064fa171dee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=ad3be61fcd9ff3a1309f9963ff7661a558bb91d2c5efd05bb6e26d3f8254a5e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6ab29418751cb96955ee5e86fce4209ddf9cdd7397866bb54a87bce2688cd315",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

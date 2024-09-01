@@ -1,0 +1,45 @@
+{
+  "name": "Perdi",
+  "subtitle": "Engagierte Mutter",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Defne Tözüm / Livio Cacciatore",
+  "deck_building_id": "b1005675a4c65117f039b0b5707c31167707af7b",
+  "culture_invariant_id": 451,
+  "sort_number": 486,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn ich die Fähigkeit „Kommt, Kinder“ meiner Perdi - Engagierte Mutter benutze, um eine Madame Mim - Schlange aus meinem Ablagestapel zu spielen, muss ich trotzdem einen Charakter auf meine Hand nehmen oder Madame Mim verbannen?\r\nA: Ja, musst du. Perdis Fähigkeit „Kommt, Kinder“ sorgt nur dafür, dass du einen Charakter ausspielen darfst, ohne seine Kosten zu bezahlen. Alle Fähigkeiten, die durch das Ausspielen des Charakters ausgelöst werden, werden wie gewöhnlich abgehandelt.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin"
+  ],
+  "flavor_text": "Ihre Welpen werden ihr überallhin folgen.",
+  "rules_text": "KOMMT, KINDER Wenn du diesen Charakter ausspielst und jedes Mal, wenn er erkundet, darfst du einen Charakter von deinem Ablagestapel, der 2 oder weniger kostet, kostenlos ausspielen.",
+  "card_identifier": "15/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cd95d065bfedfbe81bb4cd6e73e60fe8a2ec81b2769ac65bedd5d73e05692e57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=a3af75adf8658d332808ea35b4eff3612dc31b581731a1668792405c2557f97a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cf694ff478b9d5c9189c4380877d6bf6132128d9bf43507b842a37156208ac1c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

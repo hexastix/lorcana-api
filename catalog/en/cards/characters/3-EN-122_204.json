@@ -1,0 +1,42 @@
+{
+  "name": "Scroop",
+  "subtitle": "Backstabber",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "12e992ed5c1b1f3b4983f8fe3780e871b2743fb4",
+  "culture_invariant_id": 558,
+  "sort_number": 593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "Always keep him in front of you. And downwind, if possible.",
+  "rules_text": "BRUTE While this character has damage, he gets +3.",
+  "card_identifier": "122/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=d22717b7b30097b67765dc1d556fda9463f0c279e267682fb3c525a1525cd64b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=742037b8af082a22dc9e8265e62fa7321c5d9904c4855503eeb9fe16031a0d18"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=4dd8c30579150f92a12bbb521a98e7bcc9876adae0dc5301d4418f19a5684a8d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

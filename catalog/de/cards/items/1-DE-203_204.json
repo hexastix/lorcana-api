@@ -1,0 +1,33 @@
+{
+  "name": "Wappenrock der Musketiere",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Dav Augereau",
+  "deck_building_id": "1dd9513f5330b41950fea67f21d19e751b9551a2",
+  "culture_invariant_id": 203,
+  "sort_number": 203,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "So etwas wie einen einsamen Musketier gibt es nicht.",
+  "rules_text": "ALLE FÜR EINEN UND EINER FÜR ALLE Jedes Mal, wenn einer deiner Charaktere mit Beschützen verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "203/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=57f13ce2f55a8e08828c7778fbc0bfec81d00f91bccff7a14e3000efd1dc39bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=4682571301a0d307242af5e0647f003062ba31f848895e1a7e5a34159d7c71e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=877244082d579adfb9080bac9a7d4e1c372183f7c3cf14bdfc235dec8b926f9c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

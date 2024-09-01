@@ -1,0 +1,46 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Charmanter Gauner",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "5fbb4404791aacf38f1c7a5736e154eb4a398b23",
+  "culture_invariant_id": 74,
+  "sort_number": 74,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich habe 2 Karten auf meiner Hand. Mein Dschafar - Hüter der Geheimnisse fordert einen gegnerischen Flynn Rider - Charmanter Gauner heraus. Wann wird die „Wer kann hierzu schon Nein sagen“-Fähigkeit meines Flynn Rider ausgelöst und wie viel Schaden nimmt er dann durch die Herausforderung?\r\nA: Flynn Riders Fähigkeit „Wer kann hierzu schon Nein sagen“ wird aktiviert, sobald er für eine Herausforderung ausgewählt wird. Das bedeutet, die Person, welche die Herausforderung gestartet hat, muss eine Karte abwerfen, bevor die Charaktere sich gegenseitig Schaden zufügen. Im oberen Beispiel musst du also 1 deiner 2 Karten abwerfen, wodurch du nur noch 1 übrig hast. Dschafars Fähigkeit erhöht seine Stärke abhängig von der Anzahl deiner Handkarten, hat also in dem Moment, wo er Flynn Schaden zufügt, nur 1 Stärke.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Eigentlich wollte ich das nicht tun, aber du lässt mir keine andere Wahl …",
+  "rules_text": "WER KANN HIERZU SCHON NEIN SAGEN? Jedes Mal, wenn dieser Charakter herausgefordert wird, wählt die herausfordernde Person 1 Karte aus ihrer Hand und wirft sie ab.",
+  "card_identifier": "74/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=bf559b04d973cc82ebaf76d6a39ab149eeb388a62b9ca1d370043dc38b3f68a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=90601f3a3a730bab9d3d4cc468be7e17f01177c086da2d8dff457ee54d8150e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b8e3df720c206a08c1c8a08b02e9ef311b99a7abd2971140cfbe66eeb9bcfd65",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "TE KĀ",
+  "subtitle": "Sans cœur",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "29e6f53be8b584a90a734c8e03db35d6c7221778",
+  "culture_invariant_id": 192,
+  "sort_number": 192,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "Maui: T'as déjà vaincu un monstre de lave, toi? Vaiana: Non, et toi?",
+  "rules_text": "CHERCHE LE CŒUR Lorsque ce personnage en bannit un autre via un défi durant votre tour, vous gagnez 2 éclats de Lore.",
+  "card_identifier": "192/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=f19240449cafc87c6269630f457367417d755864ff09ca6d9c4ce5c411aba4c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=19ed65c2f03f8136e4cb2f41c9bc30273374ef1b37afbf58e54eb1e4354950b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=3a8de2ad54b4dbd4559c15a85933c414ff7dc4319417f97a1b9c62ff4980969d",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Diablo",
+  "subtitle": "Malefiz' Spion",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ellie Horie",
+  "deck_building_id": "724e8cde6128ddddf0d52b69c970e486816ee451",
+  "culture_invariant_id": 762,
+  "sort_number": 772,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Behalte die Seehexe im Auge, mein Liebling. Erzähl mir alles.%—Malefiz",
+  "rules_text": "SPÄHER VORAUS Wenn du diesen Charakter ausspielst, darfst du dir die Handkarten aller gegnerischen Mitspielenden anschauen.",
+  "card_identifier": "71/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=3b33977780c1dbae0d5806d63113d1a0da9c480dc4c0dddb6bb2ece4c6b090a4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6907f8098b80ad6b09e55291b73adfd82b863c50fdb291c45b4fd89841408211"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=4ae5c654837a6506d5838261175fed776078bba79ef503346e28bb92d89d8f72",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

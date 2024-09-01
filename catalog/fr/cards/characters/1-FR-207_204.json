@@ -1,0 +1,45 @@
+{
+  "name": "ELSA",
+  "subtitle": "Esprit de l'hiver",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 207,
+  "sort_number": 207,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Elsa.) GEL INTENSE\\ Lorsque vous jouez ce personnage, choisissez jusqu'à 2 personnages et épuisez-les. Ils ne peuvent pas être redressés au début de leur prochain tour.",
+  "card_identifier": "207/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=6b59fbb2d931d1f4a68719c88683da1077e2469eec6d4bf69a3c8fe3ef8cbfd1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=635652ebd6b69f038aeefde4b1eeaeb68e60af60bb57df57817171fe2fbcb9fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=8af37488c473424ae73e448891f2a3b528ccac4374b384acafd9da45e3937d98",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

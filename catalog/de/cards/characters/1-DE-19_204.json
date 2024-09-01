@@ -1,0 +1,42 @@
+{
+  "name": "Sebastian",
+  "subtitle": "Hofkomponist",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "1fa28a7f4b2398c8cc72ea121b01ac0cccdda582",
+  "culture_invariant_id": 19,
+  "sort_number": 19,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ich bin doch für Symphonien zuständig und nicht für hitzköpfige Teenager.",
+  "rules_text": "Singen 4 (Die Kosten dieses Charakters gelten als 4 für das Singen von Liedern.)",
+  "card_identifier": "19/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=6a21edd71dab610aeb55da84fd114d6857000527b2fee35a4f21d870c91bf221"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=0e9ce81e0727851e94d76066d25a6f0d24ccfecd1dbb0c3c6298af7797758910"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=77ca24e2e45615b38eeabacaeae500b1d5b00efa463db3026f533904aa34c10f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

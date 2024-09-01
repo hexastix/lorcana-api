@@ -1,0 +1,41 @@
+{
+  "name": "Scrooge McDuck",
+  "subtitle": "Richest Duck in the World",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "b91ab841ba2a2c52983687a609e0d1a647a704f8",
+  "culture_invariant_id": 654,
+  "sort_number": 689,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "I'M GOING HOME! During your turn, this character gains Evasive. (They can challenge characters with Evasive.) I DIDN'T GET RICH BY BEING STUPID During your turn, whenever this character banishes another character in a challenge, you may play an item for free.",
+  "card_identifier": "218/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=a33b7815d9af4b1e38c551da0a17b015d3e80708ceefaddc869c57fa9fa1d9e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=1c1b07f48617f7caf9ae108b50249ed9031470b374df7925cee87082a3cc2c36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=4c2fa33e064eb5a4664707560f6faed4fcd964a7905295e79af37a29545e10c3",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

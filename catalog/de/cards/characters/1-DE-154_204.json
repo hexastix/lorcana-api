@@ -1,0 +1,47 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Detektiv",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jared Nickerl",
+  "deck_building_id": "f6d5d539a411651374ae418f08e3d379fcb13ff5",
+  "culture_invariant_id": 154,
+  "sort_number": 154,
+  "additional_info": [
+    {
+      "title": "FAQ - Tintenvorrat",
+      "body": "F: Wenn eine Karte von meinem Deck durch einen Effekt wie „Micky Maus – Detektiv“ in meinen Tintenvorrat gelegt wird, kann ich dann überprüfen, um welche Karte es sich handelt, bevor sie verdeckt abgelegt wird?\r\n\r\nA: Nein. Wenn Karten in den Tintenvorrat gelegt werden, die nicht bekannt sind, wie z.B. vom Deck, dann können diese Karten von keinem der Mitspielenden angesehen werden.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Detektiv"
+  ],
+  "flavor_text": "Wo auch immer das Seegras herkam, Micky war sich einer Sache sicher: Irgendetwas war hier faul.",
+  "rules_text": "FINDE EINEN HINWEIS Wenn du diesen Charakter ausspielst, darfst du die oberste Karte deines Decks verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "154/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=8a373f66a9a72c31b15a4832aaeb721cd38948cc8742fe43222af0b1e9a2864e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=57bde5a95eaf652c50a7e47e5036cd0bb04ac38696c6178ff69cf83f842e6055"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=4ec24a3808f476c55f7e3890469747b1a9472bdf2525512b45d72ac915bda1f3",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

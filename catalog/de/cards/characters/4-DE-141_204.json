@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Gelassene Prinzessin",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "067bc768bc6b0221356cb0b7535f6bf9fced1949",
+  "culture_invariant_id": 832,
+  "sort_number": 842,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Ihre Musik erfüllt die Gärten des Illuminariums mit Licht und Fröhlichkeit.",
+  "rules_text": "Behütet (Gegnerische Karten können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "141/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=ecb13aee4b7794335aa9a1821cdfdc6e049ba84bc71a5aa4cc73000573fe16c0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=11b25429f0cf2fc5e06f6121bbaa36f3a0b5e71dce64405fd978baa170341ac5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=58bccbc59c2ec41047987c387ba543af34b9b09237a7463b9c71b74f3e69d01b",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

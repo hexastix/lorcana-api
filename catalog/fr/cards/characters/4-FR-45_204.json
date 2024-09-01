@@ -1,0 +1,43 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "Enfant chérie",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Otto Paredes",
+  "deck_building_id": "602e3638bdc1ac3933b370be9d140955b16e7df6",
+  "culture_invariant_id": 736,
+  "sort_number": 746,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) LES FEMMES D'ABORD Tant qu’aucun autre personnage n'a été envoyé à l'aventure durant ce tour, ce personnage gagne +3. LAISSEZ-MOI FAIRE Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages ne peuvent pas être envoyés à l'aventure pour le reste de ce tour.",
+  "card_identifier": "45/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=37a4250403a579d69ac2adf3ea90a7670380e6eb799f55e51367673ac3edd167"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=d62c2c4a5dc2d93159bbaff88b57530445acd5fe01f0af68f58bf064d0db4a50"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=aebe2c3f0120ba2d60e39da2dac28f05bbcf2f4034b8a8b57d72cbf95b27c2fb",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

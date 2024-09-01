@@ -1,0 +1,44 @@
+{
+  "name": "Madame de Trémaine",
+  "subtitle": "Reine impérieuse",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
+  "culture_invariant_id": 427,
+  "sort_number": 451,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Madame de Trémaine.) ENFIN, LE POUVOIR DE RÉGNER Lorsque vous jouez ce personnage, chaque adversaire choisit l'un de ses personnages et le bannit.",
+  "card_identifier": "211/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=1478beac80849980006d9cea7620aa734ef605e3ab45176899c5dc317ef6c249"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=ecfec048b1491a5040e711fc19693722843830ed312f447138a208e77a154497"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fb863c0513de14af9511b409e467c5729c7f7bf3cc64b867b68372fffe0ca582",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

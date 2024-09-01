@@ -1,0 +1,33 @@
+{
+  "name": "Last Stand",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "32e50e39d9753fadc5753212222ae6fc6b0d2376",
+  "culture_invariant_id": 245,
+  "sort_number": 269,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Let’s finish this, binturi. —Namaari",
+  "rules_text": "Banish chosen character who was challenged this turn.",
+  "card_identifier": "29/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=3796d07eb710a973107a139d83ebe0ea89719114fbbf4bd21ece7f0cf29e8284"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=0d17c668f8557ce8f07db6f98cf29d2842b4140b05b8f8cb3b9646f5d9bf2a77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=e70e43456044060b55eee70ca41ab94fb1ac8dc15271b2f86aea1bba05b23ba4",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

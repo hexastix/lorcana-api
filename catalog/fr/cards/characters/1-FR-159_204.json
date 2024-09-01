@@ -1,0 +1,40 @@
+{
+  "name": "TAMATOA",
+  "subtitle": "Bling-bling",
+  "strength": 5,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 8,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "66d3b6106914373f1b4612e524cff18f5144a3a1",
+  "culture_invariant_id": 159,
+  "sort_number": 159,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Je suis fier d'être bling-bling, comme un diamant au milieu de l'océan.",
+  "rules_text": "MAIS QU'AVONS NOUS LÀ? Lorsque vous jouez ce personnage ou qu'il est envoyé à l'aventure, vous pouvez reprendre en main une carte objet de votre défausse. SPLENDIDE Ce personnage a +1 pour chaque objet que vous avez en jeu.",
+  "card_identifier": "159/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=9d6abf6d458ca5f91601a694c327a93097bc8795ab7cf070c7256cc099733107"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=be0cfa35badeaabedc1a4630cb906e2467f6fe4d250e61d4f131d7cf86140b08"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=88b00bc32ddb4f6ab2b64e8daee7b7e6599f9fad2838efc3b7ebb5cb09e7effe",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

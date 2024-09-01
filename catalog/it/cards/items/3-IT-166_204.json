@@ -1,0 +1,33 @@
+{
+  "name": "Cilindro di Paperone",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "d177a0148325ee5b7747b7c3d15a8ae2d03ff961",
+  "culture_invariant_id": 602,
+  "sort_number": 637,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Proprio quello che serve per coronare un altro brillante affare.",
+  "rules_text": "ESPERIENZA NEGLI AFFARI — Paga 1 in meno per giocare il tuo prossimo oggetto per questo turno.",
+  "card_identifier": "166/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=6987e2147e96d15ab5b387d40087f62b4e9d5d7c41182867f40e4cfb0a7fec9c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=22de71e953b900d5671386bfc0f6bfd98498d97eec4a6cf1246e3050128f45ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=c5505013b5a01e121c22649240bdb383d0c9f25e5c31fad5b36a957a838eb321",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Prinz Phillip",
+  "subtitle": "Drachenbändiger",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Philipp Kruse",
+  "deck_building_id": "9597388eb1ea9c907abbbf2dda9fea8216bc575b",
+  "culture_invariant_id": 16,
+  "sort_number": 16,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Der Weg wahrer Liebe ist oft mit vielen Gefahren versperrt. Ihr müsst sie alle alleine bestehen. – Flora",
+  "rules_text": "HELDENTUM Wenn dieser Charakter einen anderen Charakter herausfordert und dadurch verbannt wird, darfst du den herausgeforderten Charakter verbannen.",
+  "card_identifier": "16/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=d1e9bf61740a9ecb11f00e90b8fe3bce7d8f23c9651133a7f71f4cc33d68b671"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=db9cd92dc6d8df969e158337255828b8d10952e48bb361151f12a1193d66db26"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=80a7710e790bbbc8d97cfe3bf985c4e7e0f6027f6477c4d515f9a7a81a7a6762",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

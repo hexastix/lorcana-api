@@ -1,0 +1,40 @@
+{
+  "name": "Gustav il Gigante",
+  "subtitle": "Terrore del Regno",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "159f4fcc6c094491eec5963594b65da8fb42798f",
+  "culture_invariant_id": 609,
+  "sort_number": 644,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "LEGATO Questo personaggio entra in gioco impegnato e non si può preparare all'inizio del tuo turno. LIBERARSI Durante il tuo turno, ogni volta che uno dei tuoi altri personaggi esilia un altro personaggio in una sfida, puoi preparare questo personaggio.",
+  "card_identifier": "173/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=a1632138961231c03dd46c04b7fa536d58cc60ec45594d35209440807a40e2d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=1d4176cc12854161c74216282fbb0af51777c654a0f92e2055c2c899fc6f0e59"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=58ec35a38571e5d12d4f439738aedd627bcfa16859a6f814aee550dd56ec658c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

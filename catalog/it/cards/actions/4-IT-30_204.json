@@ -1,0 +1,33 @@
+{
+  "name": "Firma Questa Pergamena",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno Ayala",
+  "deck_building_id": "3b50bdfe85abebdd4bce7a6a74f0c24ee3a3d869",
+  "culture_invariant_id": 721,
+  "sort_number": 731,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Ogni avversario può scegliere e scartare una carta. Per ogni avversario che non lo fa, ottieni 2 leggenda.",
+  "card_identifier": "30/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=c1f73a9185d7dbf27c3dd7f7c73f50c5395a197a68437119f468b6b48d1c8add"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=16efd1b5a92d6d7a042f0dc3c9530778b6eea0de0c43bdcdbf61eb4afc5bf9e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=c869813c94185ddd131f920fde60414e07982d074802efb76fdeae97fec24b0a",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

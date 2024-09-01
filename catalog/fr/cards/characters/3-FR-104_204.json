@@ -1,0 +1,41 @@
+{
+  "name": "Billy Bones",
+  "subtitle": "Gardien de la carte",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Roger Pérez",
+  "deck_building_id": "d7d799fb79fd062f882454cc0fc3d4f41da3025e",
+  "culture_invariant_id": 540,
+  "sort_number": 575,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "Ils veulent mon coffre, ce cyborg démoniaque et sa bande de conjurés.",
+  "rules_text": "",
+  "card_identifier": "104/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=907c982c553d5af2b0b3dab89f1c69152c41b098c304f94dca3c759b3e5ef08f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=de17130df6d6b2e50ffcdcec6dd51a969d60503e43cd88d75dc6a2f8767e797f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=d96663b7aed2803417961159b661f22b55941037bcd5a7fd37c72ba8a1a84ac8",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

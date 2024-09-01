@@ -1,0 +1,42 @@
+{
+  "name": "Capitaine Crochet",
+  "subtitle": "Maître épéiste",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "3b89ba6f1bf6a66aaa92aef90c5f0d4128649fc9",
+  "culture_invariant_id": 541,
+  "sort_number": 576,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "NÉMÉSIS Chaque fois que ce personnage en bannit un autre via un défi durant votre tour, redressez-le. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour. COMBAT SINGULIER Les personnages Peter Pan perdent Insaisissable et ne peuvent pas gagner Insaisissable.",
+  "card_identifier": "105/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=bb4477f383b9971fb146e20d81e9d8820f25fc0ec2f99b81965a4703fd30d0f2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=80043d333a8e6969c0e45ab0fe4badf61cd0bb6e14d2b304b2617f2f02e89e79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=72cebdaec76dbbd75f5c4092e9b568e215d56a2c0d21ece47a92ad3aed2c445d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

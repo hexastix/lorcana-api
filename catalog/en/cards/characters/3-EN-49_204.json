@@ -1,0 +1,48 @@
+{
+  "name": "Magica De Spell",
+  "subtitle": "The Midas Touch",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Lauren Levering",
+  "deck_building_id": "ef7cabaf8dc312d2e7dedf796b1297f7e1cbabaf",
+  "culture_invariant_id": 485,
+  "sort_number": 520,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I have a Lucky Dime and a Pawpsicle in play. When I quest with Magica De Spell – The Midas Touch, how much lore do I gain?\r\nA: When you quest with Magica De Spell – The Midas Touch, her All Mine ability has you pick one of your items and gain lore equal to its cost. Because Magica has 0 {L}, you don’t gain any lore from her quest itself, only from her ability. So in this example you can choose to gain either 1 or 7 lore.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "I can feel my powers growing the closer I get to Scrooge's precious dime!",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Magica De Spell.) ALL MINE Whenever this character quests, gain lore equal to the cost of one of your items in play.",
+  "card_identifier": "49/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c1bf23769c605c4d5671e9f15704e79219e659549b096084b6d95e1b170fc381"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=29064dfaaa1ee32bd31f8e90c74716b6d4333f7aafe08ad7c5192239f2d12448"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=0736aa7b7b3782eccb044232d6d857cd7c89ece22a25e89d73ea1db3d801d146",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

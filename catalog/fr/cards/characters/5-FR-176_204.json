@@ -1,0 +1,42 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Défenseur de la bataille de nourriture",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "d1324726fcfc8dc6a6c64e536b9abff579e86482",
+  "culture_invariant_id": 1132,
+  "sort_number": 1140,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Le sous-estimer, c'est la recette d'un désastre.",
+  "rules_text": "Résistance +1 (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "176/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=d4f6ab114e033f8ab5a6889630401da8c63f330b9b27ee66dcb9d3bc129afdaa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=74cd8628e8397dc19773f6e04ded43ee679165eafdb78e7c7f8e4d0e3410b4d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=39eaa812066a60698eb646856235781701037d6a07617935afb8a66ee4043e88",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

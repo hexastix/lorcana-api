@@ -1,0 +1,32 @@
+{
+  "name": "Chavirage",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Javi Salas",
+  "deck_building_id": "e5316128daeff0be3b14de6b348d768b04cc8214",
+  "culture_invariant_id": 930,
+  "sort_number": 950,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Si vous avez 6 ou moins, mettez les 3 cartes du dessus de votre pioche, face cachée, dans votre réserve d'encre. Si vous avez 7 ou plus, chaque adversaire choisit un de ses personnages et le bannit.",
+  "card_identifier": "17/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=534c9e2db004c3caaeb27f4147be1fbdc0cf01447467d8ad061d2989667ffca3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=f621e4bce315e064229b15f10c85a6abd8b2acfe9e5921c18ba59c733151f670"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Glimmer gegen Glimmer",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "32d58396c6366bd44e37140214651921b4bc231f",
+  "culture_invariant_id": 1086,
+  "sort_number": 1094,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hades: Hör zu, Kleiner. Wenn ich zurück in das Buch der Legenden verbannt werde, kommst du mit mir.%Hercules: Das werden wir noch sehen.",
+  "rules_text": "Wähle und verbanne einen deiner Charaktere, um einen Charakter deiner Wahl zu verbannen.",
+  "card_identifier": "130/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=ba09fac062dad6abe972179e977fd375a1d04d12e98a109276e1ce066cc2ef70"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=122a57678aa6e69afdedefc096a0cac44b4a65e4a1b664846dc4e799f198a9e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=ed12896035228ab25747865bdd68d7c0a69afc9d381e602040e1fe63f8187bd0",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

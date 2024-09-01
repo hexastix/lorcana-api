@@ -1,0 +1,43 @@
+{
+  "name": "Käpt'n Hook",
+  "subtitle": "Meisterhafter Schwertkämpfer",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "3b89ba6f1bf6a66aaa92aef90c5f0d4128649fc9",
+  "culture_invariant_id": 650,
+  "sort_number": 685,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "NEMESIS Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, mache diesen Charakter bereit. Er kann in diesem Zug nicht mehr erkunden. MANN GEGEN MANN Alle Peter-Pan-Charaktere verlieren Wendig und können Wendig nicht mehr erhalten.",
+  "card_identifier": "214/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=830c93f56202e4a77d0b0812af1ef174dc1bbad0742126e495eba622e4407990"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=9143644e630a75d1063f7d20241b847a93e597c34142a53b307f956ae569f04b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=51e59e17df3bac19959a52782ae008671a028fd104f66456e72a4e7e9a90e4c9",
+  "foil_type": "Lava",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

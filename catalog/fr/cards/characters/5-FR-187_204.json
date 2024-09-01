@@ -1,0 +1,40 @@
+{
+  "name": "Pat",
+  "subtitle": "Champion de lutte",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "5d4ac7161bfe7af9982b72789e53ee2a506ae7bf",
+  "culture_invariant_id": 1143,
+  "sort_number": 1151,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant"
+  ],
+  "flavor_text": "Il vous fera voir double.",
+  "rules_text": "RÉ-PAT-ITION — Révélez la carte du dessus de votre pioche. Si c'est un personnage Pat, vous pouvez le jouer gratuitement.",
+  "card_identifier": "187/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=6ad38f20578d8a12acecaa96b3ee1943331a4021300beae65d528c75c889f630"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=bd4c613ecc5c2d451261fc29526a1871921f798f7bb0750587eb60e070f3ea8a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=0eccfc1c3f9b76dd75e7d61966ed4d7bc06615afad6d64825bef296e9fcb9ff6",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

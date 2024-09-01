@@ -1,0 +1,41 @@
+{
+  "name": "Prince John",
+  "subtitle": "Gold Lover",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "a9c072cf5b48edda82d051442b832712beead027",
+  "culture_invariant_id": 1103,
+  "sort_number": 1111,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Prince"
+  ],
+  "flavor_text": "A villainous schemer from day to night.",
+  "rules_text": "BEAUTIFUL, LOVELY TAXES — Play an item from your hand or discard with cost 5 or less for free, exerted.",
+  "card_identifier": "147/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=99e4ecfececaea755f84a0abc4af30ced151251bc8a8c4e163914078938766fb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=6726190b0e63f2b8c3d974a0591a96d64e457343de48a19ed2f76cebce842994"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=a9f1d5b303ab7b47c88b89d6150246bb32cf2780684ca53602ce160c4d8c20f3",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

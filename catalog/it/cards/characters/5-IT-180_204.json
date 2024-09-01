@@ -1,0 +1,42 @@
+{
+  "name": "Eolo",
+  "subtitle": "Cavaliere Rumoroso",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "1d2e270230ea5591f099ec13cd86985cbd578105",
+  "culture_invariant_id": 1136,
+  "sort_number": 1144,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Cavaliere",
+    "Sette Nani"
+  ],
+  "flavor_text": "",
+  "rules_text": "VENTO CONTRARIO Quando giochi questo personaggio, un personaggio Cavaliere a tua scelta ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "180/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=3271a4a3f57c591bbcfeafe7b52a20fc774dd4287a8531fdf9cf32506106bf6a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=7ef94295bcbfccd1010c4cf2a49dac6f8e8beb454c6bc348abc5bc87b6dcab2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a0e546f7ec87b2310ff36ba7bc3bb4d67e273348e6f183b572287eefe05ef92c",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

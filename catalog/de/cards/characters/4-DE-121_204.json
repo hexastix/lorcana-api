@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Treue Beschützerin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "26cc86f21b2d1246e0ad32b654c821192af603c0",
+  "culture_invariant_id": 812,
+  "sort_number": 822,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Du kämpfst gegen eine ganze Armee?%—Sisu",
+  "rules_text": "KOMM MIR NICHT IN DIE QUERE Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, sammelst du 1 Legende für jeden deiner anderen Charaktere, der beschädigt ist.",
+  "card_identifier": "121/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=6febc71a900552c8dca1e5edd9bbe3c521f86c71e3ef76de0244dcc176026277"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=611f2a6a77ef20484e34c79c9f11de116f2a921d75c575bd2c56fda11693ef30"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=9cbab179bcc7f7507ce87ca8586c8b332f8094da8470eeb0dedf2f5c591c106e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

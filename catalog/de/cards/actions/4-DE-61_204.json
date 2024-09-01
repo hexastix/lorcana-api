@@ -1,0 +1,38 @@
+{
+  "name": "Der Kleine Stern Naseweis",
+  "rarity": "RARE",
+  "ink_cost": 10,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 752,
+  "sort_number": 762,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Führ uns in das Gute-Nacht-Land",
+  "rules_text": "Gemeinsam singen 10 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 10 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Eine Person deiner Wahl zieht 5 Karten.",
+  "card_identifier": "61/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=78bd8137327d7e7b4c9fe3264642093ee77cee73e638c5bfeab1918a725c8c83"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=0cfed2cf3c37dab7fc5355c7017078e6458809eb134d196289d4b729f79ff5e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=96005e640d90adcc67ff39cbb0407d20620717a92276e31b39c854e99a1f3742",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Hochgebildeter Kauz",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d5d8e83c23339a91ca0c28486ec60caa97153511",
+  "culture_invariant_id": 36,
+  "sort_number": 36,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Das Fliegen ist nicht etwa bloß ein simpler mechanischer Prozess. Sondern eine edle Kunst. Pure Ästhetik. Poesie der Bewegung. Doch man lernt das Fliegen nur, indem man fliegt.",
+  "rules_text": "",
+  "card_identifier": "36/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=7486fb5df6d536150b8a690732dc496a3ec33d3d22ca3a5786cc6c0828a3caf2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=8390d20fbefd26b36a3fc64c7034a2fab804e92a77d4d2da3e3cc4f8b1b40d4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e39a9f0487f0dbc190bd508afeca0562cc2bbc8c7b811edee292f734015e7df6",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

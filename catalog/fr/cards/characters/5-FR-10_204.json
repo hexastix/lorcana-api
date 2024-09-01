@@ -1,0 +1,42 @@
+{
+  "name": "Félix Fixe Junior",
+  "subtitle": "Constructeur fiable",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "c139143d214c2a6edd012e7428ca9ff6081cb764",
+  "culture_invariant_id": 966,
+  "sort_number": 974,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Mince, cet endroit a vraiment besoin de réparations!",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "10/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=386f098f6a63894f4b22d65361d12639462dd6e5c5454c89cfb64d1dbb5e3bd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=0000f74c3d75ffbd2d40cf9dc70918dfb7a84b9101ca0542efe0cb9b03471aff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=452664ff62412700ad9c94bf00bdf09bb1ffe6a5e735870920b08d51e621c719",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

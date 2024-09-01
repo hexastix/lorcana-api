@@ -1,0 +1,45 @@
+{
+  "name": "Bucky",
+  "subtitle": "Lehrer für Hörnchensprache",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "6c124f28a9b74875d11667138240e90833dbd228",
+  "culture_invariant_id": 289,
+  "sort_number": 313,
+  "additional_info": [
+    {
+      "title": "Errata",
+      "body": "\r\nGültig ab 9. August 2024\r\n\r\nKosten:\r\nAlt: 2\r\nNeu: 3\r\n\r\nSchlüsselwort:\r\nAlt: Behütet\r\nNeu: Keine Schlüsselwortfähigkeit \r\n\r\nAktualisierte Fähigkeit: \\Quiek\\\r\nAlt: Jedes Mal, wenn du eine Flutgestalt ausspielst, wählen alle gegnerischen Mitspielenden je 1 Karte aus ihrer Hand und werfen sie ab.\r\nNeu: Jedes Mal, wenn du eine Flutgestalt mittels ihrer Gestaltwandel-Fähigkeit ausspielst, wählen alle gegnerischen Mitspielenden je 1 Karte aus ihrer Hand und werfen sie ab."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "In der Hörnchensprache existieren sehr subtile Begriffsunterschiede. – Kronk",
+  "rules_text": "QUIEK Jedes Mal, wenn du eine Flutgestalt ausspielst, falls du Gestaltwandel benutzt hast, um jene auszuspielen, wählen alle gegnerischen Mitspielenden je 1 Karte aus ihrer Hand und werfen sie ab.",
+  "card_identifier": "73/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=ae654b46e8c6cbc1a12ead6dcdc5ea0524e51f1952f82f9eee78c4e7f23e1457"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=9855357fe93da3e616df94d2325cce75f6c02167109f80a32e0d07bd8f335df2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=9f8a5a2eb9e737d766cb5d46e2fd5b3526a1497b9b67d3abc3d8891548e2ec6e",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

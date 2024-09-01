@@ -1,0 +1,42 @@
+{
+  "name": "Jago",
+  "subtitle": "Papageichen",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "2fa1ceaaf0d1dd9e4204f55a9c73c7ef3b00dcb7",
+  "culture_invariant_id": 476,
+  "sort_number": 511,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Eure Majestät hat eine unwiderstehliche Art, mit dummen Tieren umzugehen. %—Dschafar",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "40/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=905ef7c87e794ef08b368706fa2a6eca731f95dc11a2620fad27a1ecf99bf84c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=0174637ff6094f8f7189174faa3c1e5583f47fd91da63ba112e6e7ebeada2ccc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=05484c7d39640f7d9f0a13bcae2e3fe11e47c54c6c305275149aa5a5ee808d3e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

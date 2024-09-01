@@ -1,0 +1,43 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Schamanischer Duellant",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Giulia Riva",
+  "deck_building_id": "70ab2b3db6ba7f1aa4c0f7653eb7a3b4f9427c94",
+  "culture_invariant_id": 1011,
+  "sort_number": 1019,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) ÜBERRASCHENDE FÄHIGKEITEN Wenn du diesen Charakter ausspielst, erhält er in diesem Zug Herausfordern +4. (Während dieser Charakter herausfordert, erhält er +4).",
+  "card_identifier": "55/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=66acb162b632bd5538f1d3bd0fb0669d6adcbd7c49dc3ffec46383d6fd0c4ff7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=789414867b93e60f278540fb5a61413d2b2271a45895f60eba99476d20778610"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=d87919fc0dd3c260bec8ea2492157773aa556cf5d2de2da2c68d59c41082f0cd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

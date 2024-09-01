@@ -1,0 +1,40 @@
+{
+  "name": "Max",
+  "subtitle": "Loyal Sheepdog",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "b250a8edcddaa91a173c4dbc846a67a388852f79",
+  "culture_invariant_id": 705,
+  "sort_number": 715,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "HERE BOY If you have a character named Prince Eric in play, you pay 1 less to play this character.",
+  "card_identifier": "14/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=f08699c0e01e06c2c53b2f49aedfc563eb319d53ddb19733d99671e5546c298a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=3168f5f4999ead4b26eeaf9b7b88fb2b68f15202e765fdb8413ab4829910e0e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=485b96a71e6d7339696c6d8f9143010c6fd8b0269181017a2b31cf5fc44f152e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

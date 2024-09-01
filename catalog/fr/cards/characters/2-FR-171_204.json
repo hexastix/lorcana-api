@@ -1,0 +1,41 @@
+{
+  "name": "La Bête",
+  "subtitle": "Reclus inhospitalier",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "166eafad1d590ff957396077a5bee751b022c264",
+  "culture_invariant_id": 387,
+  "sort_number": 411,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Malheur à celui qui croisera son regard.",
+  "rules_text": "VOTRE PRÉSENCE M'EST INTOLÉRABLE Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et lui infliger 1 dommage.",
+  "card_identifier": "171/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=b6873826aea79f92643c6fe2a4aa0dbb185957160f9eb4fea1c1968d6d6f415e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=28958c3c8074a4874c32261cd3c8a6c48dc159d910518ce950a365a1b12e4968"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=054781936559c9dba0a2b116aa9dad6ec11f2bcdec636c11a7e49289b6c95df3",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

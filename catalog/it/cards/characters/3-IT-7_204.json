@@ -1,0 +1,48 @@
+{
+  "name": "Kida",
+  "subtitle": "Protettrice di Atlantide",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Adam Fenton",
+  "deck_building_id": "a4c575df157436357fc9a63b3d4939d878e0384d",
+  "culture_invariant_id": 443,
+  "sort_number": 478,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Durante il mio turno gioco Kida – Protettrice di Atlantide. Se durante il prossimo turno del mio avversario, lui gioca un Maui – Hero to All, anche quel Maui riceverà -3 Forza?\r\nA: No. L’abilità Forse Riusciremo a Salvare il Nostro Futuro di Kida si applica solo ai personaggi che sono già in gioco quando lei viene giocata.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Lei è stata scelta. %—Re Kashekim Nedakh",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Kida.) FORSE RIUSCIREMO A SALVARE IL NOSTRO FUTURO Quando giochi questo personaggio, tutti i personaggi ricevono -3 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "7/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=136b37b4e2c5ccb1be7a10bd9fee27e97574ce00055b07319aa4c6b3b87ef7d1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=fde3400df0c48b9d6cd506e380b45be1482edab459d250d6de665b72622f0ee5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=989e3154e0895817a79d146dbdd462abd5d637ded28ed2698febf52e0a0582a4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

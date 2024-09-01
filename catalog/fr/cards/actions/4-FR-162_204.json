@@ -1,0 +1,37 @@
+{
+  "name": "Creuse encore et encore",
+  "rarity": "UNCOMMON",
+  "ink_cost": 8,
+  "author": "Rachel Elese",
+  "deck_building_id": "7532c69617d7ae6a280449248ba2db8345934f92",
+  "culture_invariant_id": 853,
+  "sort_number": 863,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "À l'unisson"
+  ],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "À l'unisson 8 (Vous pouvez n’importe quel nombre de vos personnages ou de personnages de vos coéquipiers coûtant au total 8 ou plus pour chanter cette chanson gratuitement.) Regardez les 7 premières cartes de votre pioche. Ajoutez-en 2 à votre main, puis remettez le reste sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "162/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=e8aca33f69a01d811ef903c8676d96e275e998c157380788e232d42548c1144d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=61652bfa7026d4fc077d90e350ff7cc659f32f86d40d551ae64a12211a16668b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=2e33dcbee52f62f0ccc0ff1ddd0de3153e98e95ae2992da273f2cea404a7a025",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

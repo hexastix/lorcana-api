@@ -1,0 +1,35 @@
+{
+  "name": "Quatre douzaines d'œufs",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "d52697d4b0ff2e40219b0dd851caf0ee7dc5cf09",
+  "culture_invariant_id": 379,
+  "sort_number": 403,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Vos personnages gagnent Résistance +2 jusqu'au début de votre prochain tour. (Les dommages qui leur sont infligés sont réduits de 2.)",
+  "card_identifier": "163/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=4646d915e9dd1fc800a257fdca191d61eb624bcd6eb7a14a1f63eeebb08ac031"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=84958cd6cf63ac6ded88c5fef163fab14da1e34c57af1abe222798866ebd10ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=595fbbe81ca1114f888f4235665f6181652300f51307e6f15121168b87fa297a",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

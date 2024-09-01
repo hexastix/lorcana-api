@@ -1,0 +1,39 @@
+{
+  "name": "Le chapeau de sorcier",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "ea5687ceaf322e37471f2bad55629dd134dcd65f",
+  "culture_invariant_id": 501,
+  "sort_number": 536,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Lorsque je nomme une carte via la capacité “Incroyable énergie” de la carte Le Chapeau de sorcier, quelles informations dois-je fournir au sujet de la carte ?\r\nR : Lorsque vous nommez une carte pour appliquer les effets de la capacité “Incroyable énergie” de la carte Le Chapeau de sorcier, vous devez juste indiquer son nom, sans préciser sa version s’il s’agit d’un personnage ou d’un lieu.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Minnie s'en approcha prudemment. La personne qui l'avait placé ici avait sans nulle doute préparé des pièges.",
+  "rules_text": "INCROYABLE ÉNERGIE , 1 – Nommez une carte puis révélez la première carte de votre pioche. S'il s'agit de la carte nommée, ajoutez-la à votre main. Sinon, remettez-la sur le dessus de votre pioche.",
+  "card_identifier": "65/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=2b5432d944cf7f3d69369eac71a50fa4a1eb940d073334372d69df852b12a8e2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=52d8d3285f8cde0904a78ffcf0f59dcc6474114e8d904d4c145183aa23b32e0d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=3de17df50c8e967ff97446bd8d22c1ce170d133a101ba7fa8505f965796e9bea",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

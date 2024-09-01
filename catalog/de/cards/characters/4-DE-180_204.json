@@ -1,0 +1,44 @@
+{
+  "name": "Hercules",
+  "subtitle": "Geliebter Held",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f866b4683c87eff51a272c4dd392843627dd0da3",
+  "culture_invariant_id": 871,
+  "sort_number": 881,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen",
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "180/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=122a48fb01a7229e2d8a86d9d1f2e8f40a36fee64e58fff31c0e37ca5e13397d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=7afd1d588deb557e4da548476203c04bba793844e6cca16c6e2fb933845d723d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=5f74361dc290c16f1c4d8ff698b66b57a73ed94ab8bdb78a5a0ac239c031f0d1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

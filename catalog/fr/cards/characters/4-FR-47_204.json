@@ -1,0 +1,43 @@
+{
+  "name": "Luisa Madrigal",
+  "subtitle": "Magiquement forte",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "e5dd22ae0e83e9f520522e07643858b4e2d081e7",
+  "culture_invariant_id": 738,
+  "sort_number": 748,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "Ce rocher? Pas de problème. Va chercher la prophétie, sœurette!",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "47/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=30a6c8022af6148801a57089fce8b8dd40dda1da1e75bf16e0521973b6f37a4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=fcb96b05c51cb150ee1084953bed51bd5df272ee8b7869828291db553387b803"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b5797be9fc2f3378c121a082d727e8ee3d75012b31d077bc2036faae9bb9839b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

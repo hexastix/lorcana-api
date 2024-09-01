@@ -1,0 +1,39 @@
+{
+  "name": "Der verrückte Hutmacher",
+  "subtitle": "Generöser Gastgeber",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Rosa la Barbera",
+  "deck_building_id": "3eb9c2ef04530dc057f7085a82915ead29d51e4d",
+  "culture_invariant_id": 86,
+  "sort_number": 86,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Der verrückte Hutmacher: Magst du noch ein bisschen Tee? Alice: Ich hab ja noch gar nichts getrunken und ich hab so schrecklichen Durst.",
+  "rules_text": "TEE-PARTY Jedes Mal, wenn dieser Charakter herausgefordert wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "86/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=d605a407756440f86f37f513b67e98aeff1ecdecba37af83904092b066f36d52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=3856d0ed9a58848aef61686499937a170e2b17c4e413110ae145722b3baf27e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c54e52b87dab0564f35b6829ed3eff964dd0fdb46164a8c946fa3b534e5bbbec",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

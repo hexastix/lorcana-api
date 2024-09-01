@@ -1,0 +1,42 @@
+{
+  "name": "Belle",
+  "subtitle": "Eine ganz besondere Mademoiselle",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "e473ddb0872912473fc4fa98e92df1be8c0a8101",
+  "culture_invariant_id": 214,
+  "sort_number": 214,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "LIES EIN BUCH! Du darfst in deinem Zug 1 zusätzliche Karte aus deiner Hand verdeckt in deinen Tintenvorrat legen. MEIN LIEBLINGSBUCH Solange du 10 oder mehr Karten in deinem Tintenvorrat hast, erhält dieser Charakter +4.",
+  "card_identifier": "214/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=a69f0dfcc4c5033f52edadc817820924e16c5c49cbabe2fdaf1008476be0c88b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=b828185c2f57716e0cce3c6a18c8ab30f278c6292e948707955ea7f805877194"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=5e44bff2628e36962cffe058df5fb25da99c6d750e5a49db44a054ac10a8ffb2",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

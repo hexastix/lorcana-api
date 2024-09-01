@@ -1,0 +1,42 @@
+{
+  "name": "The Queen",
+  "subtitle": "Diviner",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Mel Milton",
+  "deck_building_id": "25872e2f6a7538f1bad704261005852bd2804752",
+  "culture_invariant_id": 847,
+  "sort_number": 857,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "CONSULT THE SPELLBOOK — Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "156/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=8c21f95b2236e34d6fdb50c0097d83a384637ceb517fa069abe52a0cd830ebe4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=84293d51ece48b4c47b8dc537093c382902019747ded3d748617b3cc659950e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=737523940760241356dde5d347bb61dbe650be26d03718e57245fca6943028f9",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Perdita",
+  "subtitle": "Devoted Mother",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Defne Tözüm / Livio Cacciatore",
+  "deck_building_id": "b1005675a4c65117f039b0b5707c31167707af7b",
+  "culture_invariant_id": 451,
+  "sort_number": 486,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: If I use Perdita – Devoted Mother’s ability Come Along, Children and play Madam Mim – Snake from my discard pile, do I still have to return a character to my hand from play or banish Madam Mim?\r\nA: Yes. Perdita’s ability Come Along, Children only plays a character without requiring you to play their ink cost. All abilities that apply when you play that character still apply.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Her pups will follow her anywhere.",
+  "rules_text": "COME ALONG, CHILDREN When you play this character and whenever she quests, you may play a character with cost 2 or less from your discard for free.",
+  "card_identifier": "15/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=c15074827c37905fd40b6542cbf27a73a27114b53788e757f3d3ac636331a206"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=737812c3a8e809764c2fc9610e71e22f7aed0cf089c7cc336b09aa867714df6c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=cf694ff478b9d5c9189c4380877d6bf6132128d9bf43507b842a37156208ac1c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "C'EST LA FÊTE",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "75b3d826dbb7634142ce2c3a3fe0bab654ec37d0",
+  "culture_invariant_id": 25,
+  "sort_number": 25,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Regardez les 4 premières cartes de votre pioche. Vous pouvez révéler une carte personnage parmi elles et l'ajouter à votre main. Remettez les autres sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "25/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=0de1472e54025395f1011766a89cc684bde8dd0e7eb89cce47761ea113b7a239"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=7cce2ed40a8171b0d9b89ab83d0f36c7e0bc5c31648e368d998f37eacdde0d66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=3ec109ae7f496d3d6347f49f55596d7ae3fda32b52ca4a88561b5a435b70c0a2",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

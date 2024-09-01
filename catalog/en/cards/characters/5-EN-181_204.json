@@ -1,0 +1,42 @@
+{
+  "name": "Dopey",
+  "subtitle": "Knight Apprentice",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "f677c49becf6b4fbd214ebd4f49bda04509c285d",
+  "culture_invariant_id": 1137,
+  "sort_number": 1145,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Knight",
+    "Seven Dwarfs"
+  ],
+  "flavor_text": "",
+  "rules_text": "STRONGER TOGETHER When you play this character, if you have another Knight character in play, you may deal 1 damage to chosen character or location.",
+  "card_identifier": "181/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7c6a5bccf334d519155ddff50ec45e7ab115e11012fab442a3321a45c02fd646"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=1fbc7522f30b6e124dd91503e809bcde6743cefda95794e89112212bdcbdcf60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=40bebff9114084d03c1716a8709712d9ca0c2e30e177f4b7bd7c4c51426f279d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

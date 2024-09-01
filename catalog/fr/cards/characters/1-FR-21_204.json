@@ -1,0 +1,46 @@
+{
+  "name": "STITCH",
+  "subtitle": "Surfeur insouciant",
+  "strength": 4,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Marcel Berg",
+  "deck_building_id": "37f056db280fdfb5863b00cac14a30c155046633",
+  "culture_invariant_id": 21,
+  "sort_number": 21,
+  "additional_info": [
+    {
+      "title": "Errata",
+      "body": "Il y a un errata pour la carte \"Stitch - Surfer insouciant\".\r\n\r\nAncien Lore : 1\r\n\r\nNouveau Lore : 2"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Alors, comme ça, tu viens de l'espace? Il paraît qu'il y a de belles vagues là-haut. — David",
+  "rules_text": "OHANA Si vous avez au moins 2 autres personnages en jeu lorsque vous jouez ce personnage, vous pouvez piocher 2 cartes.",
+  "card_identifier": "21/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d5fae3867f04e2bdf030f337aeb9cda335ea07bebccc13a82a28a1a2d99dfc4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=58bfe2b69eac185511d34ccbf50015a7f8bc64a8aa37d2475685b534814b12da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=3347a6ef91b35e3e35e2d766d99c248f3299b55b67f53d942eb90c53a08e8f82",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ursula",
+  "subtitle": "Fiancée d'Eric",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "a2fa5270d0cdcd809f59770def2f42314f1da3a7",
+  "culture_invariant_id": 715,
+  "sort_number": 725,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Princesse",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter: Défaussez une carte Chanson (Vous pouvez défausser une carte Chanson pour jouer ce personnage sur l'un de vos personnages Ursula.) SOUS LA FORME DE VANESSA Chaque fois que ce personnage est envoyé à l'aventure, choisissez un adversaire qui révèle sa main et défausse une carte non-personnage de votre choix.",
+  "card_identifier": "24/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=3e04ede3c8916f41753c5ec40fbcc1024d96e4ec5c0e52ada15aed694350ff3e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=da5f2fd7057646ad3aee62f7d80f9ef97fa1ab983666767a8085771c25c5a9f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=5b882531aca612f2c72c5106510e97513ba94374480882972dbef517efea3589",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

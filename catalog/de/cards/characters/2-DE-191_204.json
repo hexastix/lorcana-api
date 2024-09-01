@@ -1,0 +1,40 @@
+{
+  "name": "Prinz Naveen",
+  "subtitle": "Mittelloser Prinz",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "89ba3705b86865c9670a40d72bf4c264e01414e3",
+  "culture_invariant_id": 407,
+  "sort_number": 431,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Prinz"
+  ],
+  "flavor_text": "Alles, was er besitzt, ist sein Charme.",
+  "rules_text": "",
+  "card_identifier": "191/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=af65b48259376316a58437081bd27984edb2b39c46869956bf12fd3e693db28d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=ef05484401882494537577f954fa2b7a7d5125c445d70534e86bd41d32570407"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=ad3f079f952f1c16506560a0c056e244d2015d2ce0214aa59737ade54576b0c5",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

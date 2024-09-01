@@ -1,0 +1,46 @@
+{
+  "name": "Simba",
+  "subtitle": "Rechtmäßiger Thronfolger",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "867f1aaf903530b9c3ec81d29e0e6c7a78f9725e",
+  "culture_invariant_id": 190,
+  "sort_number": 190,
+  "additional_info": [
+    {
+      "title": "FAQ - Herausforderungen",
+      "body": "F: Wenn ich eine Flutgestalt die bereits Gestaltwandel eingesetzt hat in einer Herausforderung verbanne, während ich eine Karte im Spiel habe, durch die ich immer 1 Legende sammeln kann, wenn ich einen Charakter verbanne, wie viel Legenden sammle ich dann?\r\n\r\nA: Unabhängig davon, wie viele Karten sich unter einem Charakter mit Gestaltwandel befinden, so zählt dieser immer noch als ein einzelner Charakter. Nur die oberste Karte des Stapels gilt hier als verbannt, wenn es um Effekte wie diesen geht.\r\n\r\nBeispiel: Wenn du eine Flutgestalt die bereits Gestaltwandel genutzt hat mit Simba - Rechtmäßiger Thronfolger verbannst, sammelst du trotzdem nur 1 Legende mit seiner Fähigkeit „Ich weiß, was meine Pflicht ist“.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ich kann mich nicht mehr verstecken. Es ist Zeit, meine Bestimmung zu akzeptieren.",
+  "rules_text": "ICH WEISS, WAS MEINE PFLICHT IST Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, sammelst du 1 Legende.",
+  "card_identifier": "190/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=bf2571c5cd1c15d5c3f5acd800ffaadc2717c73226463705adf8156840673331"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=acbf1f68d719136b5fdbb49b5bcaec3d75304841e571879c9649d5bc8cabcf3d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=c200b52b4c3f7f14b7c52dbb89c41d6eb9e96aea0afa051021ec791acb5ca466",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kit",
+  "subtitle": "Copilote",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Roger Pérez",
+  "deck_building_id": "47773147eebaaca874ca1bcb4a9b47503e4dc810",
+  "culture_invariant_id": 583,
+  "sort_number": 618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Kit.) Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "147/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=acd877e6a43ce9320b4322cc375aa33bb58495196dffe3f485c260dcee3f3e12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=5fbd8f6a2b2ca617cdddf40786ec9e3f3607b00da203f01315c50f8cd1e28ca0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=e14e2b802c90ba3d6bb0f86bf2538b64392b83f08485d307b0cc22cdbc78f72a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

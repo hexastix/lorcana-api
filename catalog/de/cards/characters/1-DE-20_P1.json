@@ -1,0 +1,45 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Entfesselte Energie",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 8,
+  "author": "Javier Salas",
+  "deck_building_id": "02fc7753ceabfc92ab97788a14f4f5fcc65106a9",
+  "culture_invariant_id": 678,
+  "sort_number": 230,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Dschinni-Charaktere auszuspielen.)Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)KOSMISCHE KRÄFTE! Jedes Mal, wenn dieser Charakter erkundet, darfst du eine Aktion, die 5 oder weniger kostet, kostenlos ausspielen.",
+  "card_identifier": "20/P1 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=8b2d911db7e30871dda2a5e586e264efac99bd4a81c0a95b43c5ffd4ecb8ad6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/1/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=7d9d1bdec2b555353b7d6b1d09fabf3bac08137c2ce0fdcfe47c1ccef655d5ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/1/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=0454aad26d8c168956b6b8935bbbaf447c172a82a22c36bede37a4f84ab5f377",
+  "special_rarity_id": 1,
+  "foil_type": "Satin",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Die Lampe",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Ever Galvez / Anna Stosik",
+  "deck_building_id": "c3691753bf9b5b6ef060569d9c6f8fa67de42e66",
+  "culture_invariant_id": 500,
+  "sort_number": 535,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Ich habe zwei Kopien von Dschafar - Lampendieb und eine Kopie von Dschinni - Hilfsbereiter Freund im Spiel. Wenn ich jetzt die „Gut oder Böse“-Fähigkeit meiner Die Lampe Karte benutze, welche Optionen kann ich dann auswählen?\r\nA: Wenn du die „Gut oder Böse“ Fähigkeit der Lampe benutzt, musst du zwei Karten ziehen, wenn du einen Dschafar im spiel hast. Bedenke, selbst wenn du mehrere Dschafar-Charaktere im Spiel hast, darfst du trotzdem nur einmal zwei Karten ziehen. Wenn du einen Dschinni im Spiel hast, musst du einen Charakter mit Kosten von 4 oder weniger wählen und diesen auf die zugehörige Hand schicken.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GUT ODER BÖSE Verbanne diesen Gegenstand – Wenn du einen Dschafar-Charakter im Spiel hast, ziehe 2 Karten. Wenn du einen Dschinni-Charakter im Spiel hast, schicke einen Charakter deiner Wahl, der 4 oder weniger kostet, auf die zugehörige Hand zurück.",
+  "card_identifier": "64/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=a081e3a2ddb16552e884f2f6c09bc0ee691dddd3c57262211a2cdf0ee9786c44"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fce13ba130857c678f948ceb0e91c4b26803db3f90dcacfdacc220272a82d1eb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=d3c0aff6ff57b7a9e77ed12ddba1beea66a0152127cbf3a1c9237c13e915d566",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

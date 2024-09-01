@@ -1,0 +1,41 @@
+{
+  "name": "Ich werd‘s noch beweisen",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "eda07f1975c14c7a148e840d0f3693f196882259",
+  "culture_invariant_id": 345,
+  "sort_number": 369,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Kann ich Ich werd's noch beweisen spielen, wenn ich keinen beschädigten Charakter kontrolliere?\r\n\r\nA: Ja, das kannst du. In diesem Fall ziehst du nur eine Karte.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Mache einen deiner beschädigten Charaktere bereit. Er kann in diesem Zug nicht mehr erkunden. Ziehe 1 Karte.",
+  "card_identifier": "129/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=7aecc3db55a5c1a6efb1f503114b6e019ab4b32e2fc1456aca2377f2267ee015"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=1d3d4435f5b20ad800f6aac4c97a4080da20ea7111b7def6e5b99e725a01ea35"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=ae7cd80e310865d73153751f67b4aeb63402d0612fcbe2f7dead34fa2744e9cb",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

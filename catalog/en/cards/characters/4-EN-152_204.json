@@ -1,0 +1,43 @@
+{
+  "name": "Prince Phillip",
+  "subtitle": "Gallant Defender",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "bb53658c9147113243c4c288f17f357b4f9b6cb3",
+  "culture_invariant_id": 843,
+  "sort_number": 853,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) BEST DEFENSE Whenever one of your characters is chosen for Support, they gain Resist +1 this turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "152/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=cb16662e674644fef693f6bfdfabffcd84a4712ec4c0742c7fab448eb0ee80bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f8be15b638747dfeea73c8d60038b3e237b5f3c07d2580c2a703b7720a563361"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=0005a978102f6548b810fae4dbb85c2dd9bdcd559a000e5681afad5a82b5e076",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

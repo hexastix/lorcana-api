@@ -1,0 +1,33 @@
+{
+  "name": "Fortisphäre",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mariana Moreno",
+  "deck_building_id": "657a90059a6feb1b954c3f1140bec62e1776e73d",
+  "culture_invariant_id": 891,
+  "sort_number": 901,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "EINFALLSREICH Wenn du diesen Gegenstand ausspielst, darfst du 1 Karte ziehen. EXTRAKT AUS STAHL 1 , Verbanne diesen Gegenstand – Wähle einen deiner Charaktere, er erhält bis zu Beginn deines nächsten Zuges Beschützen. (Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "200/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=bf4fee796ae2e3728c5b2109bdcf5da06f620766964a80e2848565c0b0f3ef83"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=b170a2ffc1258cf3048fd22491067d2aeea2173a06f66b1e9e54c57f00a934df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=3929de99675ee88a9609d557e3c40e3da503ca5105ca6a4c5b694e0757171ab6",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Pain",
+  "subtitle": "Immortal Sidekick",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "797d53a1d137f1aceec58731bc57f609481fbbf4",
+  "culture_invariant_id": 772,
+  "sort_number": 782,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "We totally took care of that thing you told us to do and definitely did <not> spend the day in Thebes ticketing chariots and stealing people's laundry.",
+  "rules_text": "",
+  "card_identifier": "81/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=ab71c30ba35cc7155c8fcfa4d0c45700d9cb4340d3d0bea43d900f2f64960c45"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=98037d457a5fc46c3c5f49f3738673cad8761660dc9a701460de14e515613f4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=70a4bb2f0326b629c1c42f0fdfaec4149a0115b25e8919b4dc50f11a94b0735f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Zauberbesen",
+  "subtitle": "Hüter des Illuminarium",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "aff7e808c09b68f3e297df1e5cd256f7f646571d",
+  "culture_invariant_id": 739,
+  "sort_number": 749,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Besen"
+  ],
+  "flavor_text": "Nur noch ein paar Meter bis zum Ruhestand...",
+  "rules_text": "SCHÖN UND ORDENTLICH Jedes Mal, wenn du einen anderen Charakter ausspielst, darfst du diesen Charakter verbannen, um 1 Karte zu ziehen.",
+  "card_identifier": "48/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=f6aacda7070c93334f21ac4c379359cf94ff3e9bf855f9f2c3f86edcafd3ff06"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=15b50f051b03d4fbc46e00cb19ebc87029bc768f10c11e5fb0bc33c435ab723b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=5fa577a1cc589a1e38199f3e1fc638f42158e0340bad9eed3cf9f1c3bf4331dd",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Friar Tuck",
+  "subtitle": "Priest of Nottingham",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Denny Minonne",
+  "deck_building_id": "36d317eaeebe671e69cbcdf9e312cd7ae4db6a4d",
+  "culture_invariant_id": 509,
+  "sort_number": 544,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: I’m playing a 2-player game and have 4 cards in my hand. My opponent has 3 cards in their hand. If I play Friar Tuck – Priest of Nottingham, who has to discard a card?\r\nA: Both you and your opponent. Once you’ve played Friar Tuck and can use his You Thieving Scoundrel ability, you have 3 cards in your hand. You and your opponent are tied for having the most cards in your hand.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Get outta my church! Out! Out! Out!",
+  "rules_text": "YOU THIEVING SCOUNDREL When you play this character, the player or players with the most cards in their hand chooses and discards a card.",
+  "card_identifier": "73/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=9bf38003f834aa9aef0a1fd0f496797ffa13f4bc686027b8ca7d83505a99e45c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=282b9aab5b44a4f993e7d0d8ccb59cb93f082306100a3fe621d298103ce2af50"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=d780c3f344206cdd2220dfa21f551e2dcb0004edb322a87806845f410377fa2f",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

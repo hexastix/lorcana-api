@@ -1,0 +1,33 @@
+{
+  "name": "ÉPÉE DE VÉRITÉ",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Andrew Trabbold",
+  "deck_building_id": "9b5182da33f5675484c3cc54fbac2e74faa4cfc2",
+  "culture_invariant_id": 136,
+  "sort_number": 136,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Presque aussi puissant qu'un véritable baiser d'Amour.",
+  "rules_text": "ENCHANTEMENT FINAL Bannissez cet objet – Choisissez un personnage Méchant et bannissez-le.",
+  "card_identifier": "136/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=4c3ceb73d8edb17b4c7c2dd5d5d5ec8b7ca1cbdea00702d3f0eb77cbe916a271"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=640b15d53fbbec919f5d8d2128a64843ed0cbb32ab1e5cbfaf5f71d7d2cb78f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=4a83dd14c907263ddd1351a2d9dddb22ec4a4e62791b32249a46b9da1a5138f9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

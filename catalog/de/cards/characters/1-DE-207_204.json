@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Magie des Winters",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "2106d745670d1cd790b5b9a3761e99544502433f",
+  "culture_invariant_id": 207,
+  "sort_number": 207,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Elsa-Charaktere auszuspielen.) EISESKÄLTE Wenn du diesen Charakter ausspielst, erschöpfe bis zu 2 Charaktere deiner Wahl. Sie werden zu Beginn ihres nächsten Zugs nicht bereit gemacht.",
+  "card_identifier": "207/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=fc1c0f8aec4d4d3e38ac27e902f1040dc0a1921a417519ad427490fb8ab02d06"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=30b92dfd0d554f18758b1787356428fd3fed4a7b5f664e8d8d473a6d5c9c14f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=73736edaef330672c66a769c1d1f0d4d8764bfdb814d09ab965da13a2e3eb60e",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

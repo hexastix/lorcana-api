@@ -1,0 +1,33 @@
+{
+  "name": "La Planche",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Roberto Gatto",
+  "deck_building_id": "ff3464c93b7b522cffba8844ab4fd8b78781cec5",
+  "culture_invariant_id": 824,
+  "sort_number": 834,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La vue est aussi unique que la fin.",
+  "rules_text": "AVANCE! 2 , Bannissez cet objet – Choisissez entre: • Choisissez un personnage Héros et bannissez-le. • Choisissez un personnage Méchant et redressez-le. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "133/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=355255ab83e65a996006638403a7d8fae4de01c73ae6d03377c5f755a32d929c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=4e155176fa852231b5a2c6e0e5ac376636489f2030cc5b1cba5b423b8e2a5ae3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=32277e117872f43825ea609ee136103cfcb289012251ee360e93ea625ae02d19",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

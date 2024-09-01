@@ -1,0 +1,41 @@
+{
+  "name": "Ariel",
+  "subtitle": "Whoseit Collector",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "e7f1a27c80956c21bfff7f23088ed37eb0729221",
+  "culture_invariant_id": 137,
+  "sort_number": 137,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "You want thingamabobs? I got twenty.",
+  "rules_text": "LOOK AT THIS STUFF Whenever you play an item, you may ready this character.",
+  "card_identifier": "137/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=629ecbd84d235d7d4514d56ddfd077792f20ddc188aab259815a1ab90f364f94"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=2d58bb0b420df89d3af964973d546444a3bd6c8d502c33210b272dce0c8e16bd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=3703258ce587615e446de273a6e0235d3d62eddd4492dea1b5e6db16e36a6fd3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

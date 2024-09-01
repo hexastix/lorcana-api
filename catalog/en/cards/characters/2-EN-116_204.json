@@ -1,0 +1,45 @@
+{
+  "name": "Mother Gothel",
+  "subtitle": "Withered and Wicked",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "172cf927696b8d203e6d1c4b97a9f06fe6a3d4f4",
+  "culture_invariant_id": 332,
+  "sort_number": 356,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: I control Cogsworth- Grandfather Clock and his Unwind ability is giving all of my other characters Resist +1. If I play a Mother Gothel- Withered and Wicked, how much damage will be on her?\r\n\r\nA: 3 damage. Mother Gothel’s ability does not count as damaging her so even if she has Resist she will still enter play with 3 damage counters on her."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Her feelings are written all over her face.",
+  "rules_text": "WHAT HAVE YOU DONE?! This character enters play with 3 damage.",
+  "card_identifier": "116/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=215221de232b3b7f8398897d4bc03400ba74b4ed7470dfda49d7411f858b254c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=3b7fbbaa4b55b71cd148bcd7b81e01a4d486fdfb98a58ee6bddd85d438fe2354"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=9ad37e481bc52036b7a83bf8d495e322b231ca0b5f575c1f50254c659d44442b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

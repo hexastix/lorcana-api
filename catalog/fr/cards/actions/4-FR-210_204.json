@@ -1,0 +1,38 @@
+{
+  "name": "La Deuxième Étoile sur la Droite",
+  "rarity": "ENCHANTED",
+  "ink_cost": 10,
+  "author": "Saulo Nate",
+  "deck_building_id": "532a8f3732dd8cc359abafd120e3ee2bb5c9e9b0",
+  "culture_invariant_id": 901,
+  "sort_number": 911,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "À l'unisson"
+  ],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "À l'unisson 10 (Vous pouvez n’importe quel nombre de vos personnages ou de personnages de vos coéquipiers coûtant au total 10 ou plus pour chanter cette chanson gratuitement.) Choisissez un joueur qui pioche 5 cartes.",
+  "card_identifier": "210/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=72f1b0ffb698942a44ce6baaf6290d7cefedf9e3d447fefd29158347d659d7e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=3dab866dfd41886d1ee70ac2784a199e2a5355a7fcad7810c49f3005adbd289d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=b1e0d342413361c3c54db82bc1dcb8f92bcb5437ca49760de42dde1fcbb8a461",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

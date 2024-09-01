@@ -1,0 +1,33 @@
+{
+  "name": "Décret Impérial",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Devin Yang",
+  "deck_building_id": "8b04c1aa6989c48cb5eff4b133824a7f25a7a517",
+  "culture_invariant_id": 822,
+  "sort_number": 832,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Par ordre de l'Empereur, un mâle de chaque famille doit servir dans l'armée impériale.%—Chi Fu",
+  "rules_text": "APPELÉ AU FRONT Chaque fois que l'un de vos personnages en défie un autre, le prochain personnage que vous jouez durant ce tour coûte 1 de moins.",
+  "card_identifier": "131/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=8c9474f2940e40ddf5eaccd2225786552cc716ae4fbdef71a4f8ab4486bc226e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=2f59d51f650ad7c20761525c55d59e26eb43b99309319bf863162dcb9361e7d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=fbccf5e2f503b3e50b1f3ee7424d3f28175cd00c6fa2be904713a8703bd1a1b8",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

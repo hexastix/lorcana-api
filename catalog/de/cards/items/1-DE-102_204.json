@@ -1,0 +1,33 @@
+{
+  "name": "Gestohlener Säbel",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "9d9f18605fc706396f03e12b4ffa1fdb3fcbf504",
+  "culture_invariant_id": 102,
+  "sort_number": 102,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Manchmal muss man nehmen, was man kriegen kann.",
+  "rules_text": "HIEB — Gib einem Charakter deiner Wahl in diesem Zug +1. Wählst du einen Aladdin-Charakter, dann gib ihm stattdessen +2.",
+  "card_identifier": "102/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=1957dd4c637a58073a8c7fd0f30913268e5319f8bb0f8d6a153133f74c7e237b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c56d7eb4d0009e2e4bee14ffeccc59080790455d4d51b9f1f1a5f01a1bb6614d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=ad529e6773d885fcc5bc7319897b3939a79568bad08237743ce63a43a05f425e",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

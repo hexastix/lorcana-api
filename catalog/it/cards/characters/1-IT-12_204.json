@@ -1,0 +1,41 @@
+{
+  "name": "Topolino",
+  "subtitle": "Vero Amico",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Dave Beauchene",
+  "deck_building_id": "a393e1fbe54391026a76fa1f3896c5cff218962b",
+  "culture_invariant_id": 12,
+  "sort_number": 12,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Finché ci sarà lui, tutti i nuovi arrivati nel Grande Illuminarium riceveranno sempre un caloroso benvenuto.",
+  "rules_text": "",
+  "card_identifier": "12/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=600d031a53cf025beef3fc65991969e320a4df88034c3b1afccb1d451033b592"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=18641a8267de3d7778fba284fb5856769e063f45a99bc3276a7ac3f215528e88"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=312c201479903be549d367cc9847986aada298191f9defd6b656eb6e37407d3d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

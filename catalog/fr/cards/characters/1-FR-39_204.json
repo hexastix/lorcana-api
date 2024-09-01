@@ -1,0 +1,41 @@
+{
+  "name": "DR. FACILIER",
+  "subtitle": "Étrange gentleman",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Cam Kendell",
+  "deck_building_id": "29f0a5ba87ff15dad595a8947b198bb7319d02f8",
+  "culture_invariant_id": 39,
+  "sort_number": 39,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "RÊVES RÉALISÉS Lorsque vous jouez une chanson, vous pouvez regarder les 2 premières cartes de votre pioche. Remettez-en une sur le dessus de votre pioche et l'autre en dessous.",
+  "card_identifier": "39/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=14bf671ea4b12d2b886544ce4050eb9cf4798d11c5bb1951486094464a3eddf1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=0d0da52c117898a508a8dd936d664825812c0ae6f6f9fd32fa131e604f25be06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=aa5ac79c6bfcd0f48526d9e3611f3b36cb264c5963c67e0e70fcaab086bead91",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

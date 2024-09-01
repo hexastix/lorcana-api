@@ -1,0 +1,42 @@
+{
+  "name": "Felizita",
+  "subtitle": "Immer hungrig",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 0,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Michael \"Cookie\" Niewiadomy",
+  "deck_building_id": "1b20de5f2b02e1b11d1cc8c4407911c249df3db3",
+  "culture_invariant_id": 323,
+  "sort_number": 347,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Impulsiv"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündete"
+  ],
+  "flavor_text": "Normalerweise laufen Katz-und-Maus-Spiele anders ab, nicht wahr, Dr. Wasdenn? – Basil",
+  "rules_text": "Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn möglich.)",
+  "card_identifier": "107/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=8e5f9f5a84aaeff389f2543117b66306e058a02847209c56f0946e7697c41200"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=e3312a480425067e0a3d92857266d1fb408699d625bc39263a1eba343cd786a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=d569e5e8a22d1a1c04b19bf21b4b9783fb0f101d59fcf0e0064006667b838328",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

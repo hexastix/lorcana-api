@@ -1,0 +1,36 @@
+{
+  "name": "Pour les hommes",
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "d1b38a28131ef676d9daa53b83ce02ff56acc2bc",
+  "culture_invariant_id": 1169,
+  "sort_number": 1177,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage, un objet ou un lieu et mélangez-le dans la pioche de son propriétaire. Ce joueur pioche 2 cartes.",
+  "card_identifier": "213/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=9210ac86e9eaa4891637519fedd3786ba3154ed67def36e252f54f68d3d40202"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=731a9ad2c043ab363f8accbe8f9653cb2e2e8afde9164b7f007867d689a4f1de"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=c3379fa089097d99a66ea4714698758d1a8b1fef8a3fcc15670e5df1d1023e32",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

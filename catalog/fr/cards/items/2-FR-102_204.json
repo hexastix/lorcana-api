@@ -1,0 +1,33 @@
+{
+  "name": "Piège génial de Ratigan",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "f7d80a26f58d881fa3db9124289c55a934cd1782",
+  "culture_invariant_id": 318,
+  "sort_number": 342,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Simple dans son objectif, élaboré dans son exécution - Tout comme Ratigan",
+  "rules_text": "ZAP! BOUM! TWING! Bannissez cet objet – Chaque adversaire perd 2 éclats de Lore.",
+  "card_identifier": "102/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c6e105f10a51929945a77d3cb599632e95fdfd6095770be489da83851ccd7c12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=b25ca798a3330f8ead4eff9a6ccd1d4f10f80836960d8251d734179de2b65187"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c358fc525146aa94acea2c093a32ef87220e8c601852bf452a4fa2e169d8a263",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

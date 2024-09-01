@@ -1,0 +1,40 @@
+{
+  "name": "Zazu",
+  "subtitle": "Attendente delle Terre del Branco",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ron Baird",
+  "deck_building_id": "a032ed20032f8c710c904a4c2acaa648433e35c1",
+  "culture_invariant_id": 529,
+  "sort_number": 564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Mentirei se vi dicessi che gestisco io questo posto ma, in ogni caso, benvenuti nelle Terre del Branco!",
+  "rules_text": "È ORA DI ANDARE! Mentre questo personaggio si trova in un luogo, riceve +1.",
+  "card_identifier": "93/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=f1c2ed9fb8206f4aab89e4c0c7bf4057015f0a6dc11dbe151972327a13b913f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=9d88caec6df7d0be200cc75c57923707cc8b8718a52b2c807e98e2067a450e3c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=7456c8f587d6ba1e1a4af31147993110433e21a418b159b6928702b56242b6f4",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

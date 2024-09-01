@@ -1,0 +1,43 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Wahrsagerin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "noc4urne",
+  "deck_building_id": "25872e2f6a7538f1bad704261005852bd2804752",
+  "culture_invariant_id": 909,
+  "sort_number": 919,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurkin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "",
+  "rules_text": "DAS ZAUBERBUCH BEFRAGEN – Schaue dir die obersten 4 Karten deines Decks an. Du darfst 1 Gegenstandskarte daraus aufdecken und auf deine Hand nehmen. Falls dieser Gegenstand 3 oder weniger kostet, darfst du ihn stattdessen kostenlos und erschöpft ausspielen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "218/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=2455b83ca770794962b41bae00e499b806d0c172de8f056a4030a1e6d8ce17c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=bb04d98816e320b571fbac101ab6bcd600cd2619f2e49d8d40758db320a82455"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=bdc0cef9da5f246a77d8e927596b34104c6df7c09c295768e0241c32244209fd",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

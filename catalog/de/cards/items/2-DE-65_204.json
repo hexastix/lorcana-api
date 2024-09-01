@@ -1,0 +1,38 @@
+{
+  "name": "Verbindlicher Vertrag",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "c8a9fbe523de9f6033b437c8c17e08db0304f135",
+  "culture_invariant_id": 281,
+  "sort_number": 305,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Kann ich einen Charakter, den ich gerade gespielt habe, mit Verbindlicher Vertrag erschöpfen um einen gegnerischen Charakter zu erschöpfen?\r\n\r\nA: Nein, das kannst du nicht. Um die Kosten der Fähigkeit von Verbindlicher Vertrag zu bezahlen, musst du einen deiner bereiten Charaktere erschöpfen, der mindestens seit einem Zug im Spiel ist.\r\n\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mach dir keine Gedanken, das ist nur ein Standard-Formular.",
+  "rules_text": "IN ALLE EWIGKEIT , einen deiner Charaktere – Erschöpfe einen Charakter deiner Wahl.",
+  "card_identifier": "65/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=22dfbc29d7b4fb4d9126e1a3ed0c3cc00a10e95de8219373f96b65866aa88758"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=f01ce53c21d1bedcdf1719f125bd078b46664659cefdced6720a015f445034e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=784eab786fc5282c408c1cc92c066ad4d6801369a885a6af85afc76813b5abde",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

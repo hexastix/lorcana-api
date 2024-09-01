@@ -1,0 +1,43 @@
+{
+  "name": "Ursula",
+  "subtitle": "Sorcière des mers enragée",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Adam Ford",
+  "deck_building_id": "6df2820402c29a10e4294b8b6703f720b6211791",
+  "culture_invariant_id": 748,
+  "sort_number": 758,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Rattrape-la, Flotsam! Je ne peux pas régner sur Lorcana sans la Couronne d'Hexasort!",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "57/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=42e81993f00444a2026c526641fe9cde4c9dcec064d1af734ef4c4d7b286840c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=10c8533d21f9ff7888b3aaf2c819b409608872c5b2c9ccff4ce4a90d4de60659"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=cf22d62a930abe79a3c243a0982552a8f2af4a1a4727cd308d1c04af0d239c18",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "La Reine de Cœur",
+  "subtitle": "Impératrice du Pays des Merveilles",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brianna Garcia",
+  "deck_building_id": "bd2e003703e8ab3b1f1f403fc5b4ed14d7335aa1",
+  "culture_invariant_id": 456,
+  "sort_number": 491,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "Plus elle revendique des territoires des Terres d'Encres, plus elle en veut.",
+  "rules_text": "TOUS LES MOYENS SONT À MOI Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages Méchant gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "20/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=5ae2820b888ba569c855567f73665ce3010504c05cdfd7390da6aeb3bc31b49c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=bd28223a227b1d99a40bf26568699bc73e8d647798aba9244ca620322368ec95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=341134eadb46fa12c9cf73e5e585c91d26659a58a041e9885508e02a513cbf0d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

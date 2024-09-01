@@ -1,0 +1,41 @@
+{
+  "name": "Isma",
+  "subtitle": "Ungerecht behandelt",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "de2bbba966f5728b34ff142c8f594b4bc193ef32",
+  "culture_invariant_id": 1140,
+  "sort_number": 1148,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Was meinst du mit nicht auf der Liste?! Du sollst mich doch <immer> auf die Liste setzen!",
+  "rules_text": "ICH WARNE DICH! Jedes Mal, wenn einer deiner Charaktere in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du einem Charakter deiner Wahl 1 Schaden zufügen.",
+  "card_identifier": "184/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=c164c66e68861e46ac34a11d7445ff05508a11448b474dfdfec40be33dced54d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=860433b54ce30d0c09abaddcf2cbf730bfdcd64d8b377af7732ce0634d84fca4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=baa0af97938d193154e55ba3566047269820141a77197ad95e44d7c3ed365754",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Poor Unfortunate Souls",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "ed007086370af05d97b329a2a69bacfeebcf26e7",
+  "culture_invariant_id": 751,
+  "sort_number": 761,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "In pain, in need",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Return chosen character, item, or location with cost 2 or less to their player’s hand.",
+  "card_identifier": "60/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=8ddca39d1f23e96008e390ab585664ec2c16facbe98ea4229d5138150a1007c3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=970d0e5abccbffdd30c55841aad8445a57ddba74528df4c6b09a6c853d3a0c33"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=83f7011a900b5400c4681533f6b9970c998bd878297340e0d58aad261c540cf1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

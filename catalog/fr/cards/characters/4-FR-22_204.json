@@ -1,0 +1,43 @@
+{
+  "name": "Prince Eric",
+  "subtitle": "Fiancé d'Ursula",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "e529775247b312583f7d987816f1a0041efaf5ad",
+  "culture_invariant_id": 713,
+  "sort_number": 723,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Prince Eric.) SOUS LE CHARME DE VANESSA Tant que vous avez un personnage Ursula en jeu, ce personnage-ci gagne Rempart et +2. (Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "22/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=f40199e0b5539dab02e71236cff8acc1eb9ce0dc08ca28245941f37fdfd71357"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=d66ad55506a2375bba43b026d64ce72161f25b203df796052fb9e253e4c18c62"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=cb01cf73988c8ff06556156074103d4c7cc69373091dc752dca8a7bf9bd5fa9f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

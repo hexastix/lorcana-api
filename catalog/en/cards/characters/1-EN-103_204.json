@@ -1,0 +1,40 @@
+{
+  "name": "Abu",
+  "subtitle": "Mischievous Monkey",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "52d0e83a0a5688158a89ac1eb53cde7bc4755a38",
+  "culture_invariant_id": 103,
+  "sort_number": 103,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Someday, Abu, things are gonna change. We'll be rich, live in a palace, and never have any problems at all. —Aladdin",
+  "rules_text": "",
+  "card_identifier": "103/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=3b9ad982d7d4d816f4185a0532576b9bcb9090cb2d717778ee7cbadfc07a60a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=1f877d94ea6a2626b338957165b4d2c23718ddc5b0c0bbc7060c4701a0941797"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=81b01f3bd5b004a163ae54b439e61d0fc62a5eaa8098cf41eed00d3458d24a07",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Very Large Mouse",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "f70a88424f6eced04d922558f866b8c6a4774eed",
+  "culture_invariant_id": 337,
+  "sort_number": 361,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: If the only characters my opponent controls have greater than 3 strength can I still use Ratigan-Very Large Mouse’s This is My Kingdom ability to ready one of my characters?\r\n\r\nA: Yes, you can. You will not be able to exert any characters using the ability but you can still do as much as you can of the ability."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "This time, nothing, not even Basil, can stand in my way!",
+  "rules_text": "THIS IS MY KINGDOM When you play this character, exert chosen opposing character with 3 or less. Choose one of your characters and ready them. They can't quest for the rest of this turn.",
+  "card_identifier": "121/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=ff77eba88d2b3d8ce6b80507a596b2406258eb2e5e017b32431227d434d9b0bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=5eac7db24ff44f53360f6aac5582a0fb1e31f56d22f26fbf37b754f2a248428f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=053db5230794ab37f18605c8a6684e536702ecefc9094a822dab28ceab664cd1",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

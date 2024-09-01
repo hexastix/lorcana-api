@@ -1,0 +1,40 @@
+{
+  "name": "Tor",
+  "subtitle": "Florist",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "402556072df095be47408c9b2240053e919333e0",
+  "culture_invariant_id": 782,
+  "sort_number": 792,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "They say that his arrangements are exquisite, His composites and bouquets are so divine. But when the crowds try to come and visit, There's always quite a fight to form a line.",
+  "rules_text": "",
+  "card_identifier": "91/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=ebb6a58bef4c8a0dde9f781ae5a89cafd4e52293d5a9083d225c31c02dca7efd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=1a02ffaef29f1fddc03a5b906eff56bbd656665043df3d4310c55243d8bdf134"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=981075848939d7d86d60e9b765e040d7181cbac7d1598466f3eef461b7d5c6ff",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

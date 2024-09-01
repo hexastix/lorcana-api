@@ -1,0 +1,44 @@
+{
+  "name": "Ursula",
+  "subtitle": "Reine-Sorcière des mers",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "LadyShalirin",
+  "deck_building_id": "27753ec5988e180c10bd43600c45c2fb844dd27f",
+  "culture_invariant_id": 749,
+  "sort_number": 759,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Ursula.) JE SUIS LA SOUVERAINE! Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage et épuisez-le. VOUS M'ÉCOUTEREZ! Les autres personnages ne peuvent pas être épuisés pour chanter des chansons.",
+  "card_identifier": "58/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=cdfd01a8b0ec30448acd228b19c5b8f957ee958358db1a523e63e1f8d56db545"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=3435b4af78da401d2b1ba4445de11d63f171137c63190e6d401e4eb21b05d26b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=33120f1655cb55b91260704da300213bd6837c305d1f681289552e1e427dd20e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

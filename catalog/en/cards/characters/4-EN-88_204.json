@@ -1,0 +1,41 @@
+{
+  "name": "Prince Phillip",
+  "subtitle": "Warden of the Woods",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Mike Parker",
+  "deck_building_id": "cb670ebd52463f804846e1f401536397d24fa5ac",
+  "culture_invariant_id": 779,
+  "sort_number": 789,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "He stands ready to protect his friends from any threat.",
+  "rules_text": "SHINING BEACON Your other Hero characters gain Ward. (Opponents can’t choose them except to challenge.)",
+  "card_identifier": "88/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=8af4cdb1c92c50e34b67634c26b29adf2e3f29181402d42b4c4abb66e52cd668"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=3ddc4a44fec333b55466d75b0e5cb886486196ea8cff35a74ef1cd98f6799a0f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=93c23b3e7063db0eff922712d89c067087feb8967b1e25818466531d0aeec643",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

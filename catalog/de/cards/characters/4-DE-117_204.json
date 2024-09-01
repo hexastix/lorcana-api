@@ -1,0 +1,42 @@
+{
+  "name": "Namaari",
+  "subtitle": "Erbin von Fang",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "521ce4f66df51b285ab86117acb31ce464771ddb",
+  "culture_invariant_id": 808,
+  "sort_number": 818,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurkin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "KAMPF MIT ZWEI WAFFEN Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einem anderen Charakter Schaden zufügt, darfst du einem anderen Charakter deiner Wahl die selbe Menge Schaden zufügen.",
+  "card_identifier": "117/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=31a82ce85ee38620aa8e484fc6a55daea1f0edf3a118b41b79e085aabf220efa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=84c53b9d4498c5ff046dce3cde12e843f51d216e4e255848f09f9499a0f9e52f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=081640805ebb744f0e3f2be751c12f94347d86756e3c944311aac1f1850dde23",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

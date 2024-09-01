@@ -1,0 +1,40 @@
+{
+  "name": "Dagobert Duck",
+  "subtitle": "Antiquitätenhändler",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "1262f10b12ccaed7c5ea1884842b08062ba5d6b9",
+  "culture_invariant_id": 1096,
+  "sort_number": 1104,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Der geheime Raum müsste genau hier sein! Ich kann es nicht glauben, dass ich für diese Karte einen ganzen Kreuzer gezahlt habe.",
+  "rules_text": "",
+  "card_identifier": "140/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=378265c28a51fa67cfa6f03a52e4999554eabe34c8d6766f77fb43b7c40e71cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=af877e033c28d6310e71b4fa9ae3737606af218bb51264207ee3a123a0e1f131"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=19d5e88a0f64b71f686c0cf29294732a899ce5e24aed2bf2cb9ff3a0b892e766",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

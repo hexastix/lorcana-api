@@ -1,0 +1,44 @@
+{
+  "name": "Namaari",
+  "subtitle": "Brume matinale",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Jenna Gray",
+  "deck_building_id": "b374629cdd5ecdc326ac5f23af8fd172452f319a",
+  "culture_invariant_id": 432,
+  "sort_number": 456,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il vous défie, un personnage adverse doit, si possible, choisir l'un de vos personnages avec Rempart.) LAMES Ce personnage peut défier des personnages redressés.",
+  "card_identifier": "216/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=2e7b6a83eaa4073c7d09e59cfef55dc389084461b75465cbfc7eb1b4a8a09463"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=479c78276c513569eb7d542a5ba840b43387941c87fee4887f0168ed6e82e959"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=1e28adb29f1bfd9893f821280a6d038730440220951471c3b100418e1d4e3cfe",
+  "foil_type": "Lava",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

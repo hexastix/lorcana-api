@@ -1,0 +1,43 @@
+{
+  "name": "Clarabella",
+  "subtitle": "Zoccoli Leggiadri",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Natalie Dombois",
+  "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
+  "culture_invariant_id": 1167,
+  "sort_number": 1175,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Clarabella.) STARE AL PASSO Alla fine del tuo turno, se un avversario a tua scelta ha più carte in mano di te, puoi pescare carte finché non ne hai lo stesso numero.",
+  "card_identifier": "211/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=74f2cca0637ce0795982828b13c4704445fe5232ec167f874ca458ec245c9999"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=459908a5b8ed6aaa490346570eef476c4000137a1a593babf8fb6ccbca67f982"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=eccadfbfa04bdcc030dc0a8feab886f789869d85f616ff698c57023b0323c830",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Goofy",
+  "subtitle": "Ritter für einen Tag",
+  "strength": 10,
+  "willpower": 10,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "6db4cfeb86203d0a9247630bfbebe786bd291e09",
+  "culture_invariant_id": 396,
+  "sort_number": 420,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Ritter"
+  ],
+  "flavor_text": "An diesem sagenhaften Tag stählte Sir Goofy seinen eisernen Willen und hob sein Schwert, um allen gegenüberzutreten, die Böses im Schilde führten.",
+  "rules_text": "",
+  "card_identifier": "180/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=15d5a37113ec49557c5cab0891d9bdbb4705e86b1bc42f430ad55e203a32c0be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=2a0aade3b4eb0346172f0ae32ce7d5b6e488b4ad256fe88326ac3f07404e093a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a0401f7e8c8db4d1e181e3276d7b776a903ecf5e71c91d4e543858c7f2a1c2d8",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

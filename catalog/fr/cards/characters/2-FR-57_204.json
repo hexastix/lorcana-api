@@ -1,0 +1,42 @@
+{
+  "name": "Pinocchio",
+  "subtitle": "Livré à lui-même",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "9f2f8c38e0d5bc874368f36fa428ddb654ec140d",
+  "culture_invariant_id": 273,
+  "sort_number": 297,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "Il s'est précipité dans les Terres d'Encres sans réfléchir.",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Pinocchio.) ÉCOUTE TA CONSCIENCE Lorsque vous jouez ce personnage, vous pouvez choisir soit un personnage soit un objet coûtant 3 ou moins et le renvoyer dans la main de son propriétaire.",
+  "card_identifier": "57/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=cdff964f0b606ec4aa9662dd1597b670205346e830c8ec00498fcff3d39f3ddd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=42b185b575ff1ce0b8f40dbd21a2c3cc8ad13acaf56a9e770ecfab4b47d181f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=fcd5d3884c5f16921072079696d8e0a1ccc34473bcb86761eb2b602e154f36ba",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Ludwig von Drake",
+  "subtitle": "Génie autoproclamé",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Matt Chapman",
+  "deck_building_id": "d7e1108b37f8a0a012a164b49ae361f7ec8a9efe",
+  "culture_invariant_id": 1107,
+  "sort_number": 1115,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Voyez-vous, il y a un abîme obscur aux confins de Lorcana, ne produisant aucun rayonnement magnétique! De quoi est-il fait ? Je n'en sais rien. La lumière y est simplement absente. Fait tout noir!",
+  "rules_text": "",
+  "card_identifier": "151/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=744ea18e5ca19198498e05409ba1152bc2b0b9e51d4521f5ffac5edc511fe1cd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=27b100badf1b0f445b5e4c286eac29b5bf406af3f5b8b6639952330dfbdfd3c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=260cc43df4b46966c02f51a40892ca5cefe174b86f4e8ba5676c659eae067d7a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

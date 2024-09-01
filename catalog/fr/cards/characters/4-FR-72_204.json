@@ -1,0 +1,40 @@
+{
+  "name": "Gunther",
+  "subtitle": "Décorateur et styliste",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "c451b24038a7044d5cd28931bdaafb434a04c04d",
+  "culture_invariant_id": 763,
+  "sort_number": 773,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Je déteste couvrir cette trappe. Elle fait vraiment partie intégrante de la pièce!",
+  "rules_text": "YEUX DE CHIEN BATTU Lorsque ce personnage est défié et banni, chaque adversaire choisit un de ses personnages en jeu et le renvoie dans sa main.",
+  "card_identifier": "72/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=5f1a91c89e9da33a717d69079b131fd569073b38608869cc0dc4680f5349ab80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=8a5a87d13fa1c8ac7efe2255920357d2d568de68caf0bddb9933f0df897db9c1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=612505b2ad24b4f1ec567d8d6dfd6a05834e8b17e8dfaf567dae51d717de1dca",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Giroscopio Aureliano",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "1cefdacf3020720d8e94c7f2e9c50039ba1f9d22",
+  "culture_invariant_id": 599,
+  "sort_number": 634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Può indirizzarti verso della leggenda perduta, ma se non stai attento ti farà precipitare in un burrone.%—Venturo, un Illuminatore",
+  "rules_text": "IN CERCA DI CONOSCENZA Ogni volta che uno dei tuoi personaggi va all'avventura, puoi guardare la prima carta del tuo mazzo. Mettila o in cima o in fondo al tuo mazzo.",
+  "card_identifier": "163/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=6e56292d3545ebeb0664646a748a12219f30c17c2bce549e349f028a621be5c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=7dae505e0c69c9eba676fb287e0227177dd17d6974640303b1f656071f039b15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=4bbf790671506ffaeb3afa4e695c68a51f4381300a102cb9e1b3a27069fe8f22",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

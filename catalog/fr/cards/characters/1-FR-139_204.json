@@ -1,0 +1,44 @@
+{
+  "name": "AURORE",
+  "subtitle": "Gardienne rêveuse",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "88f3b49fc2874d9eb1cb392887fe8c005c52bba9",
+  "culture_invariant_id": 139,
+  "sort_number": 139,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Et tandis que la princesse dormait profondément, sa puissance s'éveilla.",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur un autre personnage Aurore.) ÉTREINTE PROTECTRICE Vos autres personnages gagnent Hors d'atteinte. (Ils ne peuvent pas être choisis par vos adversaires, hormis pour un défi.)",
+  "card_identifier": "139/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=9219a10d0ae403c5fe85f2ed3b9dcf32b1a02d17326f9018205a67be8c9df525"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=e6e4cb08f4dc1d473c8d44036c5f188fa0bf0a2441f26cdf11c6e4babcc4594b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=ea53fb440348173618862407933c744140e99710ff62b752386bd34b84e0b89d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

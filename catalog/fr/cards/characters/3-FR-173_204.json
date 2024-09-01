@@ -1,0 +1,40 @@
+{
+  "name": "Gustave le Géant",
+  "subtitle": "Terreur du royaume",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "159f4fcc6c094491eec5963594b65da8fb42798f",
+  "culture_invariant_id": 609,
+  "sort_number": 644,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "LIGOTÉ Ce personnage entre en jeu épuisé et ne se redresse pas au début de votre tour. LIBÉRÉ Chaque fois que l'un de vos autres personnages en bannit un autre via un défi durant votre tour, vous pouvez redresser ce personnage.",
+  "card_identifier": "173/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=71f2d6b1a75e10dfdd7f647aa7bb71dd2ece8cfe1c1b2c98bf6186e3a9284e22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=0e6d6f3213501627204b906d810c7b3165c1258bf290ddb9783d78c5b94922fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=58ec35a38571e5d12d4f439738aedd627bcfa16859a6f814aee550dd56ec658c",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

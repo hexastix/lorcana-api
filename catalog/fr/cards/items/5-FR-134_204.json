@@ -1,0 +1,33 @@
+{
+  "name": "Chromicône de Rubis",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Dustin Panzino",
+  "deck_building_id": "ed3b71854b6b1360da9cc9f442856fad6e2a743d",
+  "culture_invariant_id": 1090,
+  "sort_number": 1098,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Laissez toute peur derrière vous.%— Inscription",
+  "rules_text": "LUEUR DE RUBIS — Choisissez un personnage qui gagne +1 pour le reste de ce tour.",
+  "card_identifier": "134/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=9658374817555cc88fb07297dbffe8071c0ca8cbb04c53d0ffdb9d4bb79e1d44"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=1c68f1573a50cb5d17d709769143ddc8ea450bc2afd29f2029dad1fa20888e72"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=16dfdc6e479c59dcd75d3940fda39b92dc7f9bf08d5fc829abcab73058db3625",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

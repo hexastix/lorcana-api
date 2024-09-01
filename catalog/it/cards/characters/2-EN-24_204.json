@@ -1,0 +1,41 @@
+{
+  "name": "Snow White",
+  "subtitle": "Unexpected Houseguest",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "e8b4c6153e06c369d41c32903f772a650246e12c",
+  "culture_invariant_id": 240,
+  "sort_number": 264,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Nothing says ‘hello’ better than a fresh-baked pie.",
+  "rules_text": "How Do You Do?\\ You pay 1 less to play Seven Dwarfs characters.",
+  "card_identifier": "24/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=a5f82bf83f4411667b4cf94cacfd73c65ab47763e42c94d397d56b562c6de99b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=38079ece1361572f48b88d4fd55003817d622e5362a45617ff511a9473a194e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=93a8dd3507dd4df782dbc92a3070a7f8f7cc8ad2654d5c5149528802fcc7a52c",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

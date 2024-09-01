@@ -1,0 +1,32 @@
+{
+  "name": "Tifone",
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "52c4c1e7bc8ec6d3e4763066967dc7e0a361072c",
+  "culture_invariant_id": 940,
+  "sort_number": 960,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Fai riprendere in mano ai loro giocatori tutti i personaggi avversari impegnati.",
+  "card_identifier": "27/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=3aa89b4b66bccfcd44ca26850c07279a7fa280d97906ac9c1a0c465f0c112209"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=bc1ca78a3c56922a73b119fca4ae52a3114eed00a8cedf51e5eb558a6744da1b"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

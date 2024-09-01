@@ -1,0 +1,33 @@
+{
+  "name": "L'hameçon de Maui",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "a9e7ec404bfc922091cf146ebf47177ce8ea39db",
+  "culture_invariant_id": 568,
+  "sort_number": 603,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "MAUI EST DE RETOUR! Si vous avez un personnage Maui en jeu, vous pouvez utiliser gratuitement la capacité Métamorphose de cet objet. MÉTAMORPHOSE , 2 – Choisissez entre: • Choisissez un personnage, il gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) • Choisissez un personnage, il gagne +3 pour le reste de ce tour.",
+  "card_identifier": "132/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=0fe7c625077fbfcc6342e1d49bc13464ec8d3ea11649216a9c211458a1ae8434"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=397978891e9570a51b7869881654834ccc63ce68311d48bfb0aea80c2536b76c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b1556988ba39f385e78d3384c624a404fafe0aecee9515f283e9dd28c78f2d0",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

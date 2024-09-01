@@ -1,0 +1,35 @@
+{
+  "name": "I've Got a Dream",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Michela Cacciatore",
+  "deck_building_id": "c24ba0e28c5f3a8df3686d5068b960ef77a1875b",
+  "culture_invariant_id": 565,
+  "sort_number": 600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Tor would like to quit and be a florist Gunther does interior design",
+  "rules_text": "(A character with cost 2 or more can to play this song for free.) Ready chosen character of yours at a location. They can't quest for the rest of this turn. Gain lore equal to that location's.",
+  "card_identifier": "129/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=793972e74a81b8d5cafc6457037b2cf29bda91f45544ed18833d9b37780c8f58"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=7a092bd01b841d19cd81f4707928576ac54317460be27df71e8788a6283cf61d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=92d9a0c621eef43ca89b0f1f05dd928eb67cac3787a612ae9bb8d7c0bf02cf7b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Robin des Bois",
+  "subtitle": "Concurrent au tir à l'arc",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "69760a52254a4b56186ccc0f1cfde2cf2162aa32",
+  "culture_invariant_id": 1033,
+  "sort_number": 1041,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Pendant une seconde, j'ai cru qu'il s'agissait d'un véritable défi.",
+  "rules_text": "FLÈCHE FOURBE Lorsque vous jouez ce personnage, si un adversaire a un personnage ayant au moins un dommage sur lui, gagnez un éclat de Lore.",
+  "card_identifier": "77/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=0578a4fea5b501fdaa51986f8bae65b865529de1779a7fc78d88bdbd2a45ede3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=6fc4702de1866198ec01d72f75be4b82f53ba6d6227aada96162a2352119d96f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=f90e167e4fa57a467079c755d5ec898ea31ad8da20ed9f74892288cb5ed4f659",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

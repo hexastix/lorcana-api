@@ -1,0 +1,41 @@
+{
+  "name": "Grincheux",
+  "subtitle": "Sale caractère",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "86c738780547edd83463f5cab7ae01ef47d47e64",
+  "culture_invariant_id": 226,
+  "sort_number": 250,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Sept Nains"
+  ],
+  "flavor_text": "Aussi aigre qu'une prune gâtée!",
+  "rules_text": "IL Y A QUELQUE CHOSE DE LOUCHE Vos autres personnages Sept Nains gagnent +1.",
+  "card_identifier": "10/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=e811e916af225c6c1dde4f93d3b6309913eefb0e3fc93a00d172e610beb0586f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=5ec0b9f363ed843650b021aa7b8d6978d1adeae4f2883761cb48f858818f9712"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=3bd5b82f082bde334cf75350f57e5ad5827f49d64cdd03e38e0a9075794311bc",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

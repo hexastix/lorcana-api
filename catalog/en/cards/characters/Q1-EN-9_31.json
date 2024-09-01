@@ -1,0 +1,38 @@
+{
+  "name": "Jetsam",
+  "subtitle": "Wicked Whisperer",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "e01c9684e2e36280bf1f1337fe6f849c47afd95c",
+  "culture_invariant_id": 922,
+  "sort_number": 942,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Ally"
+  ],
+  "flavor_text": "My little poopsie can sway even the most stubborn glimmers. —Ursula",
+  "rules_text": "URSULA HAS GREAT POWERS When you play this character, deal 1 damage to each opposing character.",
+  "card_identifier": "9/31 EN Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=d8fbb44a6a28630e61fa07cd01cdaa223385aac8c2344e6df353dc5060b05981"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quests/1/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=13c52afd71502ed2e64488a1b6fd422b549a3d9f2188963b18a7d41e2faf87a6"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Rosa Incantata",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Olivier Désirée",
+  "deck_building_id": "c4c4f0e3ace8d22946df975891f7711d501b13c5",
+  "culture_invariant_id": 755,
+  "sort_number": 765,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L'inchiostro ormai circondava l'ultima speranza che Belle aveva di guarire la Bestia. Non avendo altra scelta, allungò la mano…",
+  "rules_text": "SCIOGLIERE IL GROVIGLIO Esilia questo oggetto — Un personaggio a tua scelta chiamato La Bestia riceve +2 per questo turno. Se hai in gioco un personaggio chiamato Belle, sposta fino a 3 segnalini danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "64/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=10403562d7946ef7a79489995e3386c7d37e87ab580199a770896192bb5bc808"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=c4d05cc6281b3f252906b4ff68420abe884732a1c9d49a8d199e4cde570e86b4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fa7fa510c0eabec254957473238ef87a1b5fbfbbf128268ff46aa524ccf66316",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

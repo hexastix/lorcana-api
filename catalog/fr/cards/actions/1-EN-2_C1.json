@@ -1,0 +1,37 @@
+{
+  "name": "Let It Go",
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Milica Celikovic",
+  "deck_building_id": "18e97479b9ad75213b822b879809efe8c8c21ee9",
+  "culture_invariant_id": 1188,
+  "sort_number": 237,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "It’s time to see what I can do To test the limits and break through",
+  "rules_text": "(A character with cost 5 or more can to sing this song for free.) Put chosen character into their player's inkwell facedown and exerted.",
+  "card_identifier": "2/C1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/3/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=254e719ad04ba81e8beeb55a27d55f9b942057b86837026b99bfebe3df2b69dd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/3/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=7626da744f03dd642b99b1c357536851d75a24be6ec13242a848e3843a882d83"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/3/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=a78cd9fc9813a5707684309c333764d0c72ef7a38bd992e5c5f3cba4687aec4b",
+  "special_rarity_id": 3,
+  "foil_type": "Tempest",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

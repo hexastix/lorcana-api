@@ -1,0 +1,40 @@
+{
+  "name": "Pluto",
+  "subtitle": "Amico Sveglio di Topolino",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "5c5530068c0b550700c76f4606cc8afdd60f7582",
+  "culture_invariant_id": 588,
+  "sort_number": 623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Il compito di Pluto era distrarre Gustav, così Minni avrebbe potuto raggiungere la grotta.",
+  "rules_text": "",
+  "card_identifier": "152/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f7d2511160bc5d693754875575ff0e465faa718e519adb2a715465abb77fb9e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=30794bdaf6d3498ad4546318e8ba3c6c8014bb205d722e0885d43657256a2821"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=6b8c891162ce9b6c2b231ddbc877cbf1e6d8deb962e593ac04a2c20fa06a2624",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

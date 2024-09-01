@@ -1,0 +1,33 @@
+{
+  "name": "Assistance magique",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Luca Pinelli",
+  "deck_building_id": "18972399651ab2488a78e778fd0a9da89decc429",
+  "culture_invariant_id": 1019,
+  "sort_number": 1027,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tu as le pouvoir, enfile tes gants.%— Génie",
+  "rules_text": "Choisissez un personnage qui gagne Offensif +3 et \"lorsque ce personnage est banni via un défi, renvoyez cette carte dans votre main\" pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "63/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=7be47e4b911ceccf053e18f2a2e0e097ff7c728561157178229b8549020d821c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=405242dcdd83f2f4da0e8c79e60f6d24d8779249ef5b92d29fecb394452e6118"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=6b55c08c290bab22d016e90c41defc965e8508882434547185a81910088a8092",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Le Muse",
+  "subtitle": "Proclamatrici di Eroi",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "f9536062101bef78b378b2a25c8f9677d0a8486b",
+  "culture_invariant_id": 781,
+  "sort_number": 791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) QUESTA È LA REALTÀ Ogni volta che giochi una canzone, puoi far riprendere in mano al suo giocatore un personaggio a tua scelta con 2 o inferiore.",
+  "card_identifier": "90/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=64d113ae389ae3e15bed84a026ba04929da8c00770c1d518bde7ebbec64a72da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=2c20a3692e0205b0f3526f8d1e153bb1a3fe3faac5f760504ff52a7e887b61ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=0d703325c368e672baf0286ff83fc35efe45c7b8c8e880efae45be4e57d8c1f7",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

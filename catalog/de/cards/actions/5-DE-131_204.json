@@ -1,0 +1,33 @@
+{
+  "name": "Wer kommt mit mir?",
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "1034a66870b0c85f4a8a50bb74815569f3ec4b74",
+  "culture_invariant_id": 1087,
+  "sort_number": 1095,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Vergesst nicht, das lila Einhorn gehört mir!",
+  "rules_text": "Deine Charaktere erhalten in diesem Zug +2. Jedes Mal, wenn einer deiner Charaktere mit Impulsiv in diesem Zug einen anderen Charakter herausfordert, sammelst du 2 Legenden.",
+  "card_identifier": "131/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=dc29e3d04950e29d4d42d09a8d3f5fb12ec540d9b4201c425f77081e3a9282ff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=89735529583944b2c4e0e7992f1ce4227b8d6f9a08af20c3c41dcfd9b12c4b54"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=656b10743a3ebc1e5bc52a8244c1ccc49c1496869a2276d0706bae2849561bd8",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

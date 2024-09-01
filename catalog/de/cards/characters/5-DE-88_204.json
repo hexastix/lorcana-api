@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Raffinierter Spion",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "5ec6356f453925f30d4ba08d072c6193045d6291",
+  "culture_invariant_id": 1044,
+  "sort_number": 1052,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Robin-Hood-Charaktere auszuspielen.) SCHLAUER PLAN Dieser Charakter erhält +1 für jeden beschädigten Charakter aller gegnerischen Mitspielenden im Spiel.",
+  "card_identifier": "88/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=16c0462a2c9a70939565b8fbaa3182df4153373eeb9f4da92fe1ff4a10458298"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=f24d7ebd516bfa621f278c1570d166d66ed683515a02b5a18514a60d51ccbee1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=fcdd9ccfb6f991d8b809fb9ae5a72b632efd9b54ea320efc992ebb4d1ae18e97",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

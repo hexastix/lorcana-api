@@ -1,0 +1,37 @@
+{
+  "name": "Ursulas Versteck",
+  "subtitle": "Auge des Sturms",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Eri Welli / Sam Burley",
+  "deck_building_id": "ccaa3f7bc222e079977804dc188974a4198a6eab",
+  "culture_invariant_id": 759,
+  "sort_number": 769,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GLITSCHIGE HALLEN Jedes Mal, wenn einer deiner Charaktere an diesem Ort durch eine Herausforderung verbannt wird, darfst du jenen zurück auf deine Hand nehmen. ORT DER MACHT Ursula-Charaktere an diesem Ort erhalten +1.",
+  "card_identifier": "68/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=c9ac5082b15b6fd65e0b5bdfc6084c40b14a4a0051e776d8d7025330f333cc37"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=4da78f6f92d66416512645b2f092f661dab2ce691c7e2be910f968246a27b846"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=552ad42dfcf5d6bd2d00744f14b0b6a5e4c03d092103dc3319e9bd7caa4b82a0",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

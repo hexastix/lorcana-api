@@ -1,0 +1,39 @@
+{
+  "name": "Ursula’s Lair",
+  "subtitle": "Eye of the Storm",
+  "willpower": 6,
+  "quest_value": 2,
+  "move_cost": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Eri Welli / Sam Burley",
+  "deck_building_id": "ccaa3f7bc222e079977804dc188974a4198a6eab",
+  "culture_invariant_id": 951,
+  "sort_number": 928,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SLIPPERY HALLS Whenever a character is banished in a challenge while here, you may return them to your hand. SEAT OF POWER Characters named Ursula get +1 while here.",
+  "card_identifier": "35/P1 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=edb00bb48f8f4280e784f33e4c4ba6b1e73d234aec2fcb11d5d90af71c33cd49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=60c6759c37a406774d27651dbd6332965d91429a9df03529f53d9a87e6c20e4c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=371616750e046babe6599ad766a5ae85f9d2c5b0048d97917dd5d432b55e73f1",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

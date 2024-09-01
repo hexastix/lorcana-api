@@ -1,0 +1,46 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Von Motunui",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Nicholas Kole",
+  "deck_building_id": "0253f6c8757d9698e3b28f4f973b3ccc6d5bd4ae",
+  "culture_invariant_id": 14,
+  "sort_number": 14,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Wenn „Vaiana - Von Motunui“ erkundet, kann ich dann auswählen, welche Prinzessinnen ich bereit mache? Wenn eine Prinzessin bereits bereit war oder sie mit anderen Effekten später im selben Zug nochmals bereit mache, könnte diese dann in diesem Zug noch erkunden?\r\n\r\nA: Wenn du dich entscheidest, Vaianas Fähigkeit „Wir kriegen das hin“ zu nutzen, um deine anderen Prinzessinnen-Charaktere bereit zu machen, dann musst du sie alle bereit machen. Wenn du so mit „Vaiana - Von Motunui“ erkundest, dann können für den Rest deines Zuges keine anderen Prinzessinnen mehr erkunden, unabhängig davon, ob du sie mit ihrer Fähigkeit bereit gemacht hast oder ob sie später in deinem Zug nochmals bereit gemacht werden.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Ich bin Vaiana von Motunui. Du kommst jetzt auf mein Boot, segelst über das Meer und bringst das Herz nach Te Fiti zurück.",
+  "rules_text": "WIR KRIEGEN DAS HIN Jedes Mal, wenn dieser Charakter erkundet, darfst du deine anderen Prinzessinnen bereit machen. Sie können in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "14/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cf85304e5b6fd677a53a83c8ad777c4c7142aea027d795869e2ed9aaf4d00b14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=73ea56e0fef59b9fb4e6e5803d60da4cfccb543bf489eeb4a4f749d718346dbc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d7dc133e53a5048d41463e4f628c1d379c017bd2ba5dafda424c1b9eab3eb1e7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

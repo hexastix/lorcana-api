@@ -1,0 +1,33 @@
+{
+  "name": "Zuffa",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "R. la Barbera / L. Giammichele",
+  "deck_building_id": "275f6a87f41c07adb1007eb7d1b5a6c177b506c7",
+  "culture_invariant_id": 821,
+  "sort_number": 831,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ci sono due modi per uscire dal Bell'Anatroccolo — la porta o la finestra.",
+  "rules_text": "Esilia un personaggio a tua scelta con 2 o inferiore.",
+  "card_identifier": "130/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=b49e1e8896702c0080879169285ed33f783f5751389c96036c8f7a84cc76b5a4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=04ef93da017b773fe1bd18b05d9dcc04781f1d9e734244d5aac149802dea7d11"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=524b636a2d2361700662ba719b4a33b218fed4c7177b0bb167b4b8fbfe804711",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

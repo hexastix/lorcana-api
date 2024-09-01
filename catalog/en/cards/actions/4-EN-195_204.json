@@ -1,0 +1,33 @@
+{
+  "name": "Avalanche",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Justin Gerard",
+  "deck_building_id": "dd99c25c4f87c03bd08c6475bb933b3a8e370b00",
+  "culture_invariant_id": 886,
+  "sort_number": 896,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "A little snow never hurt anyone. That big rock, however...",
+  "rules_text": "Deal 1 damage to each opposing character. You may banish chosen location.",
+  "card_identifier": "195/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=acf13174e8ded8a1ec8b0850aef2c47e4497a15fdedda6162998f31998ea0a74"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=4add86b4a839ed0e44df8cb41b36e6d61a7a356ac84877918a2c492725c3a387"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9ca3a7539a5651ff34bf6bb932c05740534439bdc8d38efc66a25a5a75259745",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

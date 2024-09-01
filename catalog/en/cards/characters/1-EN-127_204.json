@@ -1,0 +1,43 @@
+{
+  "name": "Tigger",
+  "subtitle": "Wonderful Thing",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "aeb12d5f9810897355e57f169ef318f584e11c64",
+  "culture_invariant_id": 127,
+  "sort_number": 127,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Tigger"
+  ],
+  "flavor_text": "I’m the bounciest bouncer that ever bounced!",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "127/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=0133938dc089635dd93a479f5760a61d1bd5bbfa9a856531347b981541966d35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=6437509dea126e2c7bc315c26afe78a6293358b9dc32758f66dacf024955360c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=feeb1bbf8a76aaa07ce49017a5e879d8992a190282793c1bb3cd46ca0d9cb84c",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

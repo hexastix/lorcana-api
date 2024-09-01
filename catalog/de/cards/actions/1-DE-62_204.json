@@ -1,0 +1,38 @@
+{
+  "name": "Das meistbeirrende Spiel",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "d9b6684b864d7b7c8687dfcd67cb58657046b9bb",
+  "culture_invariant_id": 62,
+  "sort_number": 62,
+  "additional_info": [
+    {
+      "title": "Errata - Kartentext",
+      "body": "Nach einer eingehenden Prüfung haben wir festgestellt, dass der Text der Karte fehlerhaft ist. Die korrigierte Version der Karte wird nun mit dem Text: \"Schicke einen Charakter oder Gegenstand deiner Wahl, der 2 oder weniger kostet, auf die zugehörige Hand zurück.\" gespielt. \r\n\r\nAlte Version:\r\nSchicke einen Charakter oder Gegenstand, der 2 oder weniger kostet, auf die zugehörige Hand zurück.\r\n\r\nNeue Version:\r\nSchicke einen Charakter oder Gegenstand deiner Wahl, der 2 oder weniger kostet, auf die zugehörige Hand zurück."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hab keine Angst davor, deinen Verstand hin und wieder verwirren zu lassen.",
+  "rules_text": "Schicke einen Charakter oder Gegenstand, der 2 oder weniger kostet, auf die zugehörige Hand zurück.",
+  "card_identifier": "62/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=ef2ff0563ad64cd934f6a693529564f83b7799ab132eeec1796d465d97e1c6ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=10ef4d22865246cde2548770227dd58a4ea0926525606d5c2cbfaef07d7adf15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=0b02d75f5d1deedcf2a86a4af374f94919c11252e4ddaa5ee75e373f1ef496f9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

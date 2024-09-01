@@ -1,0 +1,42 @@
+{
+  "name": "Flotsam",
+  "subtitle": "Ursula’s Spy",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "0fb84ba893dbb130cedf653b49ff8e2427440270",
+  "culture_invariant_id": 43,
+  "sort_number": 43,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "We know someone who can help you. . . for a price.",
+  "rules_text": "Rush (This character can challenge the turn they're played.) DEXTEROUS LUNGE Your characters named Jetsam gain Rush.",
+  "card_identifier": "43/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=48526086c5c53fa15d798d5d819f4ed60f219dcd14d84c7c625140a57ca467cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=8312cf88b775a44789749b3b8ebf84907e5f081b450bcc026282e689e21b42d9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=54354cf34300fdac8a7afc974d0515cce270fe3af17f45fc156e50fcbf17e908",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

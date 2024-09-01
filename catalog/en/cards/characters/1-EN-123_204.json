@@ -1,0 +1,43 @@
+{
+  "name": "Scar",
+  "subtitle": "Shameless Firebrand",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Jenna Gray",
+  "deck_building_id": "d1064809353d7ed772d529a0efb26448a5ca6382",
+  "culture_invariant_id": 123,
+  "sort_number": 123,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "King"
+  ],
+  "flavor_text": "The time has come to take what is ours!",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Scar.) ROUSING SPEECH When you play this character, ready your characters with cost 3 or less. They can't quest for the rest of this turn.",
+  "card_identifier": "123/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=17877bb464ba69088da698668667abaf98f6d5fd78c5aefaebbff970ccdf01a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=422313234577ed76907da043d0c18025afcec303c9dc091f11f13593f448de12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=0a35a84d381e3052a2758e43a72d03863fc667eee5ee9817a71219f899e516f3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

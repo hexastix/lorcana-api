@@ -1,0 +1,40 @@
+{
+  "name": "Thor",
+  "subtitle": "Florist",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "402556072df095be47408c9b2240053e919333e0",
+  "culture_invariant_id": 782,
+  "sort_number": 792,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Man sagt, seine Arrangements seien extraordinär, %seine Kompositionen und Sträuße legendär. %Doch reisen die Menschen von sehr weit her, %gestaltet sich die Schlangenbildung meist sehr schwer.",
+  "rules_text": "",
+  "card_identifier": "91/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=8eb846eaa876304ccadde166ae081d888ad311096dfdfa779c693fea572751dd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=974fedaee865fc4c8b22352889d37dda2ed880f7daad65986d836cbe8912cc1e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=981075848939d7d86d60e9b765e040d7181cbac7d1598466f3eef461b7d5c6ff",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

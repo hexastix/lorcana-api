@@ -1,0 +1,39 @@
+{
+  "name": "LE CHAPELIER FOU",
+  "subtitle": "Hôte courtois",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Rosa la Barbera",
+  "deck_building_id": "3eb9c2ef04530dc057f7085a82915ead29d51e4d",
+  "culture_invariant_id": 86,
+  "sort_number": 86,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Le Chapelier Fou: Est-ce que vous désirez un peu plus de thé? Alice: Je n'en ai pas encore bu une goutte. Comment voulez-vous que j'en veuille un peu plus?",
+  "rules_text": "HEURE DU THÉ Chaque fois que ce personnage est défié, vous pouvez piocher une carte.",
+  "card_identifier": "86/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=d589d95df1920b579c5a818a1001391116a2514356f66982e53501af62507185"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=392160869e47d9239ec2164390d908f587f0d7b36cf40dbbf258bd3380cefd6b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c54e52b87dab0564f35b6829ed3eff964dd0fdb46164a8c946fa3b534e5bbbec",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

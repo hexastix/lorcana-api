@@ -1,0 +1,43 @@
+{
+  "name": "Luisa Madrigal",
+  "subtitle": "Magicamente Forzuta",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "e5dd22ae0e83e9f520522e07643858b4e2d081e7",
+  "culture_invariant_id": 738,
+  "sort_number": 748,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "Questa roccia? Nessun problema. Prendi pure quella profezia, hermana!",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.)",
+  "card_identifier": "47/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=3673ddc2765ec76ce181a3c30d48589627b8aa34aa63e57167fb8c45a990580a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=5d1aece2cb6d4cd2f402de02c7556c0b9d4ef6026bb8e3d5cb1a997843c12244"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b5797be9fc2f3378c121a082d727e8ee3d75012b31d077bc2036faae9bb9839b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

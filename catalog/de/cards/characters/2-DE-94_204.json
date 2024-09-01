@@ -1,0 +1,41 @@
+{
+  "name": "Tiana",
+  "subtitle": "Wahre Prinzessin",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Casey Robin",
+  "deck_building_id": "5c924acbc256cf4a2612d7335de9b611b4607541",
+  "culture_invariant_id": 310,
+  "sort_number": 334,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "Dein wahres Ich zu finden wird dein Herz erstrahlen lassen.",
+  "rules_text": "",
+  "card_identifier": "94/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=e3e4ae566fa772c1b162c9af463ac60650d02e34a913e19b34fb460b0d4cdadf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=9d970fb9028bfbcb48600a6a67830afcf5ba594c574f98e0399e178179ce60a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=f5e9ed2aadc506d7db2fc73cc1678611b57d34849ccc98bf9e13d75183a3e1b0",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

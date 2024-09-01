@@ -1,0 +1,40 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Capable Fighter",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Noukah",
+  "deck_building_id": "5f83698b937b20863589246dc016340a7d70828f",
+  "culture_invariant_id": 409,
+  "sort_number": 433,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "Capable? You don’t know the half of it. —Little John",
+  "rules_text": "SKIRMISH — Deal 1 damage to chosen character.",
+  "card_identifier": "193/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=a8490e7fed2817eb2ecde3665a451ca93ef1dd0b2776370188cc100483e17bc4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=580e10ab0984169c158c96265200a2ac757ea2defc36a651479d75a80dd32b5d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=93b4b8bee68ea6ed69aa23c671396f53e320f719d052c53e0cd8265376684822",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Robin des Bois",
+  "subtitle": "Candidat opportun",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "James Rey Sanchez",
+  "deck_building_id": "46113126c7bad0cd90cc18033e9413118fc1ccb1",
+  "culture_invariant_id": 1025,
+  "sort_number": 1033,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "J'ARRIVE ! Jouer ce personnage vous coûte 1 de moins par dommage sur les personnages adverses. Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "69/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=9d1a3b1f5c5062a5a0efc79592ebb0f955b85f94e5cc540aeb5df4d06f61ee47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=21b5b5021becd1495e8b5d9c5b84d5cba7584f20d18d25ae06cb6b6f6cd25745"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=a1004410c29ece95f39bd4f5c2a595bcaf335a8a3076df1844b17b5767227ba5",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

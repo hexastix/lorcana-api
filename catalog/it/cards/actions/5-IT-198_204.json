@@ -1,0 +1,33 @@
+{
+  "name": "Al Riparo!",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gianluca Barone",
+  "deck_building_id": "8ec09ec81b578d2b3836f585a32e058381fe846c",
+  "culture_invariant_id": 1154,
+  "sort_number": 1162,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Un personaggio a tua scelta ottiene Resistere +1 e Sfuggente per questo turno. (Il danno che gli viene inflitto è ridotto di 1. Può sfidare altri personaggi con Sfuggente.)",
+  "card_identifier": "198/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=957a3e5378d1259721d8692f6fc81fb28e5b413d0f83c2b54364bf513685e3c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=14b71f509dad6fa03549771f9ba23ad5dced84a126a5f33a1cfd2f8a9cda64ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=c8f467a5d273a03c723d33b8d4cd0722b9a7aad15fa916716931dc166e527043",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

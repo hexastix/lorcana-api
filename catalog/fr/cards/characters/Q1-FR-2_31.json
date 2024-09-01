@@ -1,0 +1,40 @@
+{
+  "name": "Bruno Madrigal",
+  "subtitle": "Oracle innomable",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Brian Kesinger",
+  "deck_building_id": "565d29c1eb50c275e9386694241d3a081a52d866",
+  "culture_invariant_id": 915,
+  "sort_number": 935,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Envouté",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "Ses talents particuliers se sont déjà révélés fort utiles.%—Ursula",
+  "rules_text": "SOMBRE PROPHÉTIE Lorsque vous jouez ce personnage, chaque adversaire place les 3 cartes du dessus de sa pioche dans sa défausse.",
+  "card_identifier": "2/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=7fa52c6ce1d01b71419ea355649ab7bc21b716287f33a44b2967cf32414bcdb5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=e1f450eeef9752a34a64b54d4d5ccd27f7ee3824df716fb54ff7a9f0686b4dad"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

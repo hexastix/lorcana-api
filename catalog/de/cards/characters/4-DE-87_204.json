@@ -1,0 +1,44 @@
+{
+  "name": "Prinz Phillip",
+  "subtitle": "Bezwinger der Feinde",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 9,
+  "author": "Randy Bishop",
+  "deck_building_id": "b1cbda0ae6f55030e3e718582adc878a6ebba693",
+  "culture_invariant_id": 778,
+  "sort_number": 788,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 6 (Du kannst 6 zahlen, um diesen Charakter auf einen deiner Prinz-Phillip-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) SCHICKE VERDERBEN Wenn du diesen Charakter ausspielst, verbanne alle gegnerischen beschädigten Charaktere.",
+  "card_identifier": "87/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=49b43f61e6e015592ea32eff34393c230110d54ec80dbf09ecc2a7647c40f324"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=a36b95a04d62e4dea344de5b2013e082d5ce1a3e3a41ed6dffe44452e43e320d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=88a3bc84fb5d0a490ccd3c312824f854992fe81ab0d4850795bf5cca1fe1feef",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

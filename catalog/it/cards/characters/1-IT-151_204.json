@@ -1,0 +1,42 @@
+{
+  "name": "Malefica",
+  "subtitle": "Non Invitata",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "6a637ad79b7ce9fad777fb8a1163379b2f2e1f9e",
+  "culture_invariant_id": 151,
+  "sort_number": 151,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Non aveva ricevuto alcun invito — e non aveva bisogno di alcuna presentazione.",
+  "rules_text": "",
+  "card_identifier": "151/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=5da2e09aaa155d99e20df1e12863f3ae0c84338536641137ca0fd3ed2fe149d1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=5425316665ff675f2a49699d872be1f6713b9ab1998dc39381f427327cf3e2a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=ebc2e1b762e1b7788b497d3ee431b66b5538cf46a35cae78abbd1da478578ccd",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

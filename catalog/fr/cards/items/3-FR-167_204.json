@@ -1,0 +1,33 @@
+{
+  "name": "Porte du coffre",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Nicolas Ky",
+  "deck_building_id": "d4e40d3f6a1cb410ae20b81b5ccb4c8c6304b4ad",
+  "culture_invariant_id": 603,
+  "sort_number": 638,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Seul Picsou connait l'existence de ce coffre… et il n'a pas l'intention que ça change.",
+  "rules_text": "SCELLÉ Vos lieux et personnages sur des lieux gagnent Résistance +1 (Les dommages qui leur sont infligés sont réduits de 1.)",
+  "card_identifier": "167/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=5fb5615a949bf027db2462974fcdf2c6a2cd68e2e0f901efeeac9985e6e0b9bd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=c6fd18b7bdcd9f3f1d2e07de3c897df55487145e5820381b56627dd66554995c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=2e72268aa77d4d4c29b3719a2f91022da629447d5c91832a9f1612fd4d3a546b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

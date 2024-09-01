@@ -1,0 +1,33 @@
+{
+  "name": "Aurelianischer Gyrosensor",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "1cefdacf3020720d8e94c7f2e9c50039ba1f9d22",
+  "culture_invariant_id": 599,
+  "sort_number": 634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es kann dich zu verlorenen Legenden führen, aber wenn man nicht aufpasst, dann führt es dich über eine Klippe.%—Venturo, ein Luminari",
+  "rules_text": "SUCHE NACH WISSEN Jedes Mal, wenn einer deiner Charaktere erkundet, darfst du dir die oberste Karte deines Decks anschauen. Lege sie anschließend entweder auf dein Deck oder darunter.",
+  "card_identifier": "163/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=ebf85cacdcee6320b8d1187e5f3a7f3935d906a96ed89dcd645fec407ac9105c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=f0ad7e176255c945709250cb2f0d30ae8f21c6716c9e28474bb4a0c02324c181"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=4bbf790671506ffaeb3afa4e695c68a51f4381300a102cb9e1b3a27069fe8f22",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

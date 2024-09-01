@@ -1,0 +1,43 @@
+{
+  "name": "Anna",
+  "subtitle": "Wahres Herz",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "noc4urne",
+  "deck_building_id": "e1b3cea0cee4d2729aad03d87771e607533f1d94",
+  "culture_invariant_id": 908,
+  "sort_number": 918,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Königin",
+    "Ritterin"
+  ],
+  "flavor_text": "",
+  "rules_text": "LASS MICH DIR HELFEN Jedes Mal, wenn dieser Charakter erkundet, erhalten deine anderen Heldinnen und Helden in diesem Zug +1.",
+  "card_identifier": "217/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=a0a08a8caecac68ec9b519e517f8253a5f34a5dd3b2cdfa7213a75f06ebaad59"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=119ca0c4bfa58047f24693aade5ce8d670cc9ac603cd5d805cb3be242647ce03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=44f3dc721c70418f916ff8882de7450f1db86000e2fe38704f4079da55277fb7",
+  "foil_type": "Lava",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

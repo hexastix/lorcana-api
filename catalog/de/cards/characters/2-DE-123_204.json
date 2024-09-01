@@ -1,0 +1,43 @@
+{
+  "name": "Raya",
+  "subtitle": "Anführerin von Herz",
+  "strength": 5,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "4fdb59ae1c0d5735b0e7fdd135a4f2e4181b4f96",
+  "culture_invariant_id": 339,
+  "sort_number": 363,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Raya-Charaktere auszuspielen.) CHAMPION VON KUMANDRA Dieser Charakter erhält keinen Schaden durch Herausforderungen, während er einen beschädigten Charakter herausfordert.",
+  "card_identifier": "123/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c6125560165aea649061a158cf2fd228bdd2a300383c999694aea647d0077723"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=fe31265e65d58362dbfb39f514191d6bba5ee1c1f954f156a34195c0d1053fce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=eaffc5b5357ddcae9e2f7c9e1d57d50d82aa0df60f7b6838f6bafa39efb5cc32",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

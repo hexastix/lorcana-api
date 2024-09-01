@@ -1,0 +1,42 @@
+{
+  "name": "Paperina",
+  "subtitle": "Combattente Senza Macchia",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Maddie Shilt",
+  "deck_building_id": "b1724348bcda8483959b2f906793c0d8ec1ee40a",
+  "culture_invariant_id": 1067,
+  "sort_number": 1075,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Ha un curriculum impeccabile.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "111/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=e11b8b2e54f0b2bd4d874b05eaca14b4a61c7421e56b6237e05a891142ac3d4a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=e3121923864d67d292af0653771da94055abb1ea1508eb4b898dd3e017f0ec2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=6f2d1cb3a15a05b30ebc31652a333851237aa9815838ab885f0ba804dfcfe36d",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

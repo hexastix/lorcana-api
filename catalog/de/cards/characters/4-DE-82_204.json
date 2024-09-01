@@ -1,0 +1,40 @@
+{
+  "name": "Schwefel",
+  "subtitle": "Unsterblicher Handlanger",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "aafb256c24b833a261abb2a7d0c962056813d116",
+  "culture_invariant_id": 773,
+  "sort_number": 783,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Wir haben uns auf jeden Fall um alles gekümmert, Boss. Keine Probleme, alles super.",
+  "rules_text": "MELDEN SICH ZUM DIENST! Solange dieser Charakter erschöpft ist und du einen Pech-Charakter im Spiel hast, können deine Schurkinnen und Schurken nicht herausgefordert werden.",
+  "card_identifier": "82/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=3cad6ec37b42fa7161f550d46b1e56bcd325773d73cae6028dbb935af0019e01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=5e7e37997f6da687db04130558b2bd2ec9043e6d5e17ad5ace0841bb55fcc1a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=12f194d223fdf2ac583f66cb145bb3d1cb854e308dac68764c7c1ea15a98daae",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

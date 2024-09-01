@@ -1,0 +1,43 @@
+{
+  "name": "Elsa",
+  "subtitle": "Eissurferin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni / Whitney Pollett",
+  "deck_building_id": "2c72bd1a5c7a603b9cdcd55269b6cf9c2843e321",
+  "culture_invariant_id": 109,
+  "sort_number": 109,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Heldin",
+    "Königin",
+    "Magierin"
+  ],
+  "flavor_text": "Meine Schwester ist immer für mich da gewesen. Ich muss nun für sie da sein.",
+  "rules_text": "DAS IST KEIN SCHNEESTURM Jedes Mal, wenn du einen Anna-Charakter ausspielst, mache diesen Charakter bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "109/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=ef324c73ef8bcc508cc9a793e90381f09187921a92c0bcd9e193523387d5f434"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=0c5669ce96d6647b905802bfcbfe0a2384fc4ab3ea9d95176deb56f09c9be7e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=aab125224cd732812644530d66cee6ad262fcd627abefe793068c66b2b6c67c9",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

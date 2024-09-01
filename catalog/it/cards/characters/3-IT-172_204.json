@@ -1,0 +1,42 @@
+{
+  "name": "Ih-Oh",
+  "subtitle": "Asinello Molto Imbottito",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "99d2d33370532b6247f8ecd7ee8301e6c94afd8e",
+  "culture_invariant_id": 608,
+  "sort_number": 643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Non sono un granché come posto di blocco, ma credo di bastare.",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.)",
+  "card_identifier": "172/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=3015a5210905c274d3c669ad0b25be3064c72766ecf674d8a4ecda916fc53f0d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5a01b02d85fe8f200c2bb5d233205fc16837a00ae01888906870c1d14666bf21"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=83d60d0b6d7229f99cafda3dad3c3110f68e9b4a54fb9a75c133e8603a0fdfde",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

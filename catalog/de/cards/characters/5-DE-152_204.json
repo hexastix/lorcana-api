@@ -1,0 +1,41 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Geistesgegenwärtige Erfinderin",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Lauren Levering",
+  "deck_building_id": "c0b4aae2229dabf0c8d5b00e3aeb6187d965ef0c",
+  "culture_invariant_id": 1108,
+  "sort_number": 1116,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "Das stellt den Zuckerguss-Schleuderer-2000 in den Schatten.",
+  "rules_text": "KUCHEN-KATAPULT Wenn du diesen Charakter ausspielst, gib einem Charakter deiner Wahl in diesem Zug -2.",
+  "card_identifier": "152/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=4b04905f5a26de15f39f717419bf4d5a9f77cac635626b0408b62029a31a2746"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=00dd3e3216aeb7ed33b61d3c0d4467692a154de6be86a6bf435d527609853b22"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e676401d777eb4124fefdf8ea01045a3507e9acfa471dda09807fe6d2b4cb16f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

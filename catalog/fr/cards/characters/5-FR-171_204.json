@@ -1,0 +1,41 @@
+{
+  "name": "Stitch",
+  "subtitle": "Outsider de l'équipe",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Karen Hallion",
+  "deck_building_id": "46c74815d938940a1435bdae976105ce9951db9f",
+  "culture_invariant_id": 1127,
+  "sort_number": 1135,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "Pas le Glimmer le plus baraqué de l’équipe, mais il a de la poigne !",
+  "rules_text": "HO HISSE! Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et lui infliger 2 dommages.",
+  "card_identifier": "171/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=e2a9c6ca593eebad76566bf2ea6c4c1911e52915871a612490e59da0a91d3df7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=5ac0800e72bdb5370c49b57fb3e988f4b2710c3f2de9e971e3e5a5004b47a4fe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=84978e3477e760e2d38dbb09c49b20c47f17d2c1ed7b8c8cf1eb7fbecb32c95a",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

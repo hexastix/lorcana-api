@@ -1,0 +1,43 @@
+{
+  "name": "Prince Eric",
+  "subtitle": "Seafaring Prince",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Linh Dang",
+  "deck_building_id": "215468ad3c809a1adc7ae0b14aa9d95e4875e52d",
+  "culture_invariant_id": 712,
+  "sort_number": 722,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose a character with Bodyguard if able.)",
+  "card_identifier": "21/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=cdd9da73806c89880ce45635edfef5211806fa2a26c23005a0461081f2b74d9d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=e4797f4f98e3b5cc41712e75cdbec0fa7c05e6722d5f65ad22af94795a4338a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=b927e379c0abb3ba8721129c1a2f7464f676c1447688408f4873e5cbee953145",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

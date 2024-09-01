@@ -1,0 +1,35 @@
+{
+  "name": "Je suis ton meilleur ami",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "3e110fc0d14a46a730ef6bd4e40926b1315281b7",
+  "culture_invariant_id": 596,
+  "sort_number": 631,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Car tu possèdes un truc qui vaut de l'or",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Chaque joueur place les 3 premières cartes de sa pioche dans sa réserve d'encre, faces cachées et épuisées.",
+  "card_identifier": "160/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=1c2c56a0624974ea9f2929d31dde5c51d8cbc9723358b8b4f19ebc76fff466ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=e644e656af0503bc68aefad50dc79309cef3551143aac5314a6614eee6e8b8d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=c96f12545110fd25d5312c2f5c1217144bf8cc91dfe56538a3cced3c6b1dc6e7",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

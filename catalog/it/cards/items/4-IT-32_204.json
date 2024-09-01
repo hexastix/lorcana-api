@@ -1,0 +1,34 @@
+{
+  "name": "Giradischi",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "d6a087b851dcb654bb021e9fe5c60c69ddb6c769",
+  "culture_invariant_id": 723,
+  "sort_number": 733,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GUARDA QUA! Ogni volta che giochi una canzone, un personaggio a tua scelta riceve -2 fino all'inizio del tuo prossimo turno. HIT PARADE I tuoi personaggi chiamati Stitch contano come di costo +1 per cantare le canzoni.",
+  "card_identifier": "32/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=145aae5829eecbb86743091ca4157fc9cd1dfd38f3161144284f65d70fcad700"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=283968ecfb1f10ad7838cc0fdbcac220543ff973db0bb1e04fbb5fd3da6b5765"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=c5ecb538616e8c52d112fdfc7dd3e691bdad52a7c3f4aedbfbeb6ed176b53817",
+  "card_sets": [
+    4,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

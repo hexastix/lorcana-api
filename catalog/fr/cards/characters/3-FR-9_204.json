@@ -1,0 +1,42 @@
+{
+  "name": "Minnie",
+  "subtitle": "Artiste musicale",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Erika Wiseman",
+  "deck_building_id": "3427600e893c3a7a98bb9644ed1a9cbcdf7fd2da",
+  "culture_invariant_id": 445,
+  "sort_number": 480,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Ses talents musicaux sont au Top!",
+  "rules_text": "Mélomane 3 (Ce personnage est considéré comme ayant un coût de 3 pour chanter des chansons.) GARDE DU CORPS Chaque fois que vous jouez un personnage avec Rempart, vous pouvez choisir un personnage et lui retirer jusqu'à 2 jetons Dommage.",
+  "card_identifier": "9/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=ecc4da871145565548200664163f8eae4ee5fce9f2d1d1241115761e0293d7ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=374bc66ce9dfc42ff8a1b2c9876a5a71ea4efdea60cee5c41fcf68afb1194517"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=e29a4d560651515c71962144cf56ce6575589ec0ed60b651221e2692a94bcd76",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

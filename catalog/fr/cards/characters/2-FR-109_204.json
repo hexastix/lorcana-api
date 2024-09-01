@@ -1,0 +1,40 @@
+{
+  "name": "Grand Coquin",
+  "subtitle": "Porte bien son nom",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "b3edb87ace39ce0527520caef3e29894e03b5816",
+  "culture_invariant_id": 325,
+  "sort_number": 349,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Une telle curiosité rapporterait une fortune!",
+  "rules_text": "LA BELLE VIE Chaque fois que vous jouez un personnage Floodborn, chaque adversaire perd 1 éclat de Lore.",
+  "card_identifier": "109/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=49f52ef65b4b067a14d5c7b31554f2bdd67208081aa1c477b10f9b0b69dde85e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=bf95424b9c1d623e317fd93802c477af6559e8e4cb0cc6f9d1039434fea357ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=85d34eba1433179c7a8a7cf2ba8ff9c8c758a2118a6436a8bbd55f147c822f1b",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

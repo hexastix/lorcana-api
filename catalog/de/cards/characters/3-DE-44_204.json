@@ -1,0 +1,46 @@
+{
+  "name": "Zauberbesen",
+  "subtitle": "Tanzender Staubwedel",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Giulia Riva",
+  "deck_building_id": "cb2138848bcc8eaa3b83ee763a9e79f2de568321",
+  "culture_invariant_id": 480,
+  "sort_number": 515,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "F: Kann ich einen erschöpften Charakter für die „Kraftreiniger“-Fähigkeit meines Zauberbesen - Tanzender Staubwedel auswählen?\r\nA: Ja, kannst du. Selbst in diesem Fall wird der ausgewählte Charakter zu Beginn seines nächsten Zuges nicht bereit gemacht."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Besen"
+  ],
+  "flavor_text": "Sauberkeit vom Feinsten.",
+  "rules_text": "KRAFTREINIGER Wenn du diesen Charakter ausspielst und mindestens einen Magier oder eine Magierin im Spiel hast, darfst du einen gegnerischen Charakter deiner Wahl erschöpfen. Er wird zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "44/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=99e821242fe19207f8db84a52ffb09f9d73c63a12af412031b837d346c59087f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=c5e3484bf2986289f2b34d523ccd56e7c770740abf91e2d4ecf3427a20e2ba7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=e91350a3a5fd6c1da04dfe1b6f4b7eafb2b16713ae391f3510a868d7ad355998",
+  "card_sets": [
+    3,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

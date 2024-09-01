@@ -1,0 +1,41 @@
+{
+  "name": "YZMA",
+  "subtitle": "Alchimiste",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Hadjie Joos",
+  "deck_building_id": "cc784eaecc22b71074cd8719bfd0a42af0f17a3d",
+  "culture_invariant_id": 60,
+  "sort_number": 60,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Quand je voudrai ton avis, je te dirai ce que tu dois me dire!",
+  "rules_text": "T'ES VIRÉ Lorsque ce personnage est envoyé à l'aventure, regardez la première carte de votre pioche. Remettez-la soit sur le dessus de votre pioche, soit en dessous.",
+  "card_identifier": "60/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=1a842785c21f540685085620303536d8a3b1f5994b6e348b5de375f0f38013b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=6a18c6efe02b65106247f1818d4531db58b449ba297eae841ca1ccc9c6100621"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=4d0cdaaf110b8d48774042b3a6c5e77d0c31440663fa2f12616fa1031e198700",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

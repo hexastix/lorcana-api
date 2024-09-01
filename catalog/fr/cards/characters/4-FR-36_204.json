@@ -1,0 +1,44 @@
+{
+  "name": "Belle",
+  "subtitle": "Mystique accomplie",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Malia Ewart",
+  "deck_building_id": "8b86289e61950b00539d3ef5740fe6097f42fc88",
+  "culture_invariant_id": 727,
+  "sort_number": 737,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Mage"
+  ],
+  "flavor_text": "Le mélange des encres n'avait pas changé que la rose.",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Belle.) GUÉRISON AMÉLIORÉE Lorsque vous jouez ce personnage, choisissez un personnage et déplacez jusqu'à 3 de ses jetons Dommage sur un personnage adverse de votre choix.",
+  "card_identifier": "36/204 FR 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=5d1ed3119e8844f270cd4752de7cb83719cfc6b0dabaf24645ff1f5946989bc7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=b7d70f80f6af2d36f28931386bd6fe225585ad1bc98d5ba61b72e07ec13ab52a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=682386496ddbdccb9b6bc006825546db3a6755d5af2fe544fc67c6e719d0988b",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

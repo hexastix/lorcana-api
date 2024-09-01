@@ -1,0 +1,42 @@
+{
+  "name": "Namaari",
+  "subtitle": "Erede di Zanna",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "521ce4f66df51b285ab86117acb31ce464771ddb",
+  "culture_invariant_id": 808,
+  "sort_number": 818,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "COMBATTERE CON DUE ARMI Durante il tuo turno, ogni volta che questo personaggio infligge danno a un altro personaggio durante una sfida, puoi infliggere lo stesso ammontare di danno a un altro personaggio a tua scelta.",
+  "card_identifier": "117/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=28843e538fe5fd2d9149bbc5a42eea757a34f40efcdcad646c8a19ffb554bfd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=52b2002b562bab709950bf814f32fad5f11f565aeb75316a9319c7345d47ef3c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=081640805ebb744f0e3f2be751c12f94347d86756e3c944311aac1f1850dde23",
+  "card_sets": [
+    4,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

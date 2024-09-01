@@ -1,0 +1,40 @@
+{
+  "name": "Maximus",
+  "subtitle": "Gnadenloser Verfolger",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kendall Hale",
+  "deck_building_id": "0ab6dfaa2b7d68e702c7a1f3f1ea67f1e2789b76",
+  "culture_invariant_id": 11,
+  "sort_number": 11,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Er verfolgt seine Beute mit Mut, Disziplin und einem Hauch von Klasse.",
+  "rules_text": "PFERDETRITT Wenn du diesen Charakter ausspielst, gib einem Charakter deiner Wahl in diesem Zug -2.",
+  "card_identifier": "11/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=bb11a44266d42343f8dcf2fb3d1ee4fb97fe626aca6090eead8e1f79a1ba7c79"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=e5529576a01666abd755643c656db9a192fcf70a3fc7cbcdb825f82afa81a538"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=3c2d834632154fdac49ea43a8d7f86103c50e25d6ebd2a833a522f672ed7bd2f",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

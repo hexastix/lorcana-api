@@ -1,0 +1,43 @@
+{
+  "name": "LA BÊTE",
+  "subtitle": "Fléau des loups",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Jeff Murchie",
+  "deck_building_id": "c38a63d780fe3152e8d4d8546f1d94155ad0cdd4",
+  "culture_invariant_id": 70,
+  "sort_number": 70,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Je vous affronterai tous s'il le faut.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) RUGISSEMENT Lorsque vous jouez ce personnage, épuisez tous les personnages adverses ayant des jetons Dommage.",
+  "card_identifier": "70/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=2b87d52f0ea6127627b3775b3293885d517373b50c8b67082543b4eb1e357200"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9a57d711ed4623254acd2d882b26f254eb5567bc16a75ee8446a8e0c2726c7f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=9bd7deb12e50d8a4d00b20f224e27c9174d80259f171af4f749700728fbd2a07",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

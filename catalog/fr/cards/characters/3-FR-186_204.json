@@ -1,0 +1,40 @@
+{
+  "name": "Nala",
+  "subtitle": "Amie farouche",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "60d5c85b88ea13b493b76074456137aca2b322b9",
+  "culture_invariant_id": 622,
+  "sort_number": 657,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Et re-gagné.",
+  "rules_text": "",
+  "card_identifier": "186/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=53eb6a115342f0c90b49d20f31efb23868531b1059398d6124b770d71464cef6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=6a1bd6ddc9bccd136fc49cedb93a2616a16833e120163b4fe5504ea1717acadb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=d9ca3356c322f47dc023f26d16be8b2795c05d816bc9ac7fbbdb735f3100a087",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Cheffe née",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "2d55f3560e49972216272b91e7a9f71ad3897554",
+  "culture_invariant_id": 552,
+  "sort_number": 587,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : J’ai une Alice – En pleine croissance et une Vaiana – Cheffe née sur un même lieu. Si Vaiana part à l’aventure alors qu’Alice est encore redressée, puis-je ensuite partir à l’aventure avec Alice dans le même tour ?\r\nR : Les effets de la capacité “Bienvenue sur mon bateau” de Vaiana – Cheffe née ne sont pas facultatifs et s’appliquent donc à tous les personnages se trouvant sur le même lieu qu’elle. Même si Alice – En pleine croissance est redressée au moment où Vaiana part à l’aventure, Alice ne pourra plus partir à l’aventure pour le reste de ce tour, et ce même si Alice se déplace sur un nouveau lieu ou si le lieu où elle se trouve est banni. À noter que même si Alice se déplace sur un nouveau lieu ou si le lieu où elle se trouve est banni, l’effet l’empêchant de partir à l’aventure jusqu’à la fin du tour reste actif.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Vaiana.) BIENVENUE SUR MON BATEAU Chaque fois que ce personnage est envoyé à l'aventure depuis un lieu, redressez tous les autres personnages qui s'y trouvent. Ils ne peuvent pas être envoyés à l'aventure pour le reste de ce tour.",
+  "card_identifier": "116/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=795b59a84c1e9d0e5769791b870d5d6fc5d0bd6aa5a0a199f34d990efa495c68"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=a52934ffe292e293714e9d528f392e70a949f1f0753273cdfa646cf3ea165789"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=bcf1bd15e65d1c67f4af441061be8cf453e99c036ea605745d04f841e0de48e1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Liberarsi",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Brian Kesinger",
+  "deck_building_id": "8248c978719b5c75b9b75c52ba7e436f3fc416db",
+  "culture_invariant_id": 1083,
+  "sort_number": 1091,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Trilli fuggì dalla lanterna in frantumi in un batter d'occhio.",
+  "rules_text": "Infliggi 1 danno a un tuo personaggio a tua scelta. Ottiene Lesto e riceve +1 per questo turno. (Può sfidare nel turno in cui viene giocato.)",
+  "card_identifier": "127/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=563b8dfe3b88735cbae74dbdaba0881d2901480b28699ca4fcb63c63d15c9396"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=52a5c42774b9f84005c270e735fb7b2e62dfb5fe1fe654e5d00d80fdf7b4f39f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=bf66f34a5fbdb2d20dd4602b402504d12270624f89aea364bb77e07ca490ac40",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

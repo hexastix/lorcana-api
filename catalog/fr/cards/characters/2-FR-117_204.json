@@ -1,0 +1,43 @@
+{
+  "name": "Mulan",
+  "subtitle": "Tout juste sortie de l'entraînement",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Michael \"Cookie\" Niewiadomy",
+  "deck_building_id": "77b270ef01a1671fcf0123fc2f0dceb294777022",
+  "culture_invariant_id": 333,
+  "sort_number": 357,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Il faut qu'on fasse quelque chose!",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "117/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=810a060840fb4c94f3a9a270039fdf876d2974b828603b29a09a4f4709d6a1e2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=2ed03f5e9806a8647df1a7167f7058eb6a81433927ab8579969557ee71e66f3f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=69199aebd05204a97be409eb816bb2c6cbecff3e216b0cb2378363684ab71334",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

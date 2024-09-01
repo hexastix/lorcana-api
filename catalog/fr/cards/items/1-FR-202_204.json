@@ -1,0 +1,33 @@
+{
+  "name": "POÊLE À FRIRE",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "fcbe5d71be133653c06facfe85f5e8eade8472a3",
+  "culture_invariant_id": 202,
+  "sort_number": 202,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "C'est un bon ustensile de cuisine, mais comme arme, c'est vraiment étourdissant.",
+  "rules_text": "BANG! Bannissez cet objet – Choisissez un personnage qui ne pourra pas défier durant son prochain tour.",
+  "card_identifier": "202/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=4282d65807a9b4fb57758c1056718d3fbd1e0ba4c4fde018126d9aae53c9c2d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=4f567d907c7bd4218157f361c770dc32d8d293bba817ec55836fe1a67a4d6ab0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=0a2289dd7e7a8171e9e592a3306f49883119cb094aa6c7a0460c6a0707298e99",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

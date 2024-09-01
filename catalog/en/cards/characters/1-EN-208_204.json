@@ -1,0 +1,41 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Wayward Sorcerer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "7b1a76e2d2e48966c05afd3777ab1b57b83cd005",
+  "culture_invariant_id": 208,
+  "sort_number": 208,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "ANIMATE BROOM You pay 1 less to play Broom characters. CEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+  "card_identifier": "208/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=de34db95f862d88cf822fd2dffcb51a0aab12f9027d70276ab2768e31de0a004"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=ac38fa7d60958f9a72391ffa64ae504b902ff9ccec54733a9292b020aa7f31e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=8dc21babbd20671517e7983c60079bc347c318ac78ea41c7ab776c4ecbd44361",
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

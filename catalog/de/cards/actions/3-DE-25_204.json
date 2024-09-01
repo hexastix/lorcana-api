@@ -1,0 +1,33 @@
+{
+  "name": "Befehl vom Boss",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Zuzana Sokolova / Livio Cacciatore",
+  "deck_building_id": "deffeb7558c071d16437d9c45b4569955f49c12c",
+  "culture_invariant_id": 461,
+  "sort_number": 496,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Snoops! Ich weiß, du kannst noch härter suchen! Finde mir diese Legenden! %—Madam Medusa",
+  "rules_text": "Ein Charakter deiner Wahl erhält in diesem Zug Unterstützen. (Jedes Mal, wenn der Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "25/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=8b03ead123b383c900ebe008082dd8aa37d9482895a738ca2f347360d7693e30"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=8402862c6e5b4f5c0e9ba7ea7f8430653e111a1e858809ef2e488674941646de"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=c898e487b250b1a414512d6786e632bfd175b080993c34947482046dc7525082",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

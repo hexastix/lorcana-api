@@ -1,0 +1,33 @@
+{
+  "name": "RUÉE",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "b7ee67706e4c50411acea0e129205737bfde9ac9",
+  "culture_invariant_id": 96,
+  "sort_number": 96,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Une ruée d'animaux sauvages est comme une rivière en furie: il vaut mieux l'observer de loin.",
+  "rules_text": "Choisissez un personnage ayant au moins un jeton Dommage et infligez-lui 2 dommages supplémentaires.",
+  "card_identifier": "96/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=3afa1949d176c9dddb0c273b9f331a99be8d9a7d7afd5e994d866f0b79d88fcd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=a0daa6a3784be49a02a953cde3c9171e4737ad898e21b337392216eb33568354"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=60e371adbc718192c0f55654164d64e4d752b2b6a6493d9d0359ba2259e64f14",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "JASPER",
+  "subtitle": "Petite frappe",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jochem Van Gool",
+  "deck_building_id": "088f8cafd19d31dffac71774c2d160bdf06c2141",
+  "culture_invariant_id": 81,
+  "sort_number": 81,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "J't'ai déjà dit qu'ça sert à rien d'penser, Horace.",
+  "rules_text": "ENLÈVEMENT DE CHIOTS Lorsque ce personnage est envoyé à l'aventure, choisissez un personnage adverse qui ne pourra pas être envoyé à l'aventure durant son prochain tour.",
+  "card_identifier": "81/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=43b75b63f12aa1dab5adbe76e8a9b828fe4e5f15f1b90f94d2d319ca65b60da9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=3f5166e041a46bccb6c30eff57a5d743909446b10939d0e500fc7cbcffa3a6d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=37b507b88df6e0e0b5f69817d1e78d3c1cd02e4161f9b52faa55d979ed98ba85",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

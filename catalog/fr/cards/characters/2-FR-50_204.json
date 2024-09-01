@@ -1,0 +1,41 @@
+{
+  "name": "Merlin",
+  "subtitle": "En crabe",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "c432eb95dc74c15e1c3ca51d73030c05e9924344",
+  "culture_invariant_id": 266,
+  "sort_number": 290,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Mage"
+  ],
+  "flavor_text": "Il va s'en sortir d'un claquement de pince!",
+  "rules_text": "J'ESPÈRE QUE VOUS ÊTES PRÊTE! Lorsque vous jouez ce personnage et lorsqu'il quitte la zone de jeu, choisissez un personnage qui gagne Offensif +3 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "50/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=074fd1847accf0b36d56efd7cb4a80adc064b4dfef205f3a663fef6735008773"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=c3e79735f4a90675366c4978ffaf964b3c08cbfd96a5779732e9bb930cb35f80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=a1f7f8cdb8e5c6e3e38b641bc05f438248e319e766618070731d9ca97c609806",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

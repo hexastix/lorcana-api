@@ -1,0 +1,33 @@
+{
+  "name": "Das Biest gehört mir!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "8488fbd0b43280a0577520d149097ebe9d751d8f",
+  "culture_invariant_id": 99,
+  "sort_number": 99,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Es ist nur fair, dass der beste Jäger die übelste Bestie bekommt. – Gaston",
+  "rules_text": "Ein Charakter deiner Wahl erhält in seinem nächsten Zug Impulsiv. (Er kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "99/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=413a574d798bd21c9b11e8981b1c50cb8d80b02443eb54e53e0213150c1d0db9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0a4ed455c34ae1542a8463aaffb8713dd4a110d2c32eb76667bd7830d0177ece"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=ff2361006cda8d157e42a716d7aaf0fd8eaccc23ee6ac7dafcb109782a8546a3",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

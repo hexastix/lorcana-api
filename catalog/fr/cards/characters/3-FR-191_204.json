@@ -1,0 +1,45 @@
+{
+  "name": "Shérif de Nottingham",
+  "subtitle": "Officiellement corrompu",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d20d32a55ec2df0ff6790459048a6633003d8cd3",
+  "culture_invariant_id": 627,
+  "sort_number": 662,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si un effet me fait défausser plusieurs cartes en même temps, comme par exemple celui de Ce rêve bleu, combien de dommage puis-je infliger grâce à la capacité « Les taxes c’est douloureux » du Shérif de Nottingham – Officiellement corrompu ?\r\nR : Autant que le nombre de cartes défaussées. La capacité “Les taxes c’est douloureux” du Shérif de Nottingham – Officiellement corrompu se déclenche pour chaque carte défaussée, et ce même si ces cartes sont défaussées en même temps. Ainsi, si vous vous défausser de 7 cartes en jouant Ce rêve bleu, alors vous déclencher 7 fois la capacité “Les taxes c’est douloureux” et infligez donc 7 dommages, que vous pouvez répartir comme vous le souhaitez.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant"
+  ],
+  "flavor_text": "Treizième règle de la méchanceté: Prenez tout ce que vous pouvez, mais faites-le avec le sourire.",
+  "rules_text": "LES TAXES C'EST DOULOUREUX Chaque fois que vous défaussez une carte, vous pouvez choisir un personnage adverse et lui infliger 1 dommage.",
+  "card_identifier": "191/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=11aaa75107ed1140e995b52f085cada9c6eaf72d3c76cd71f0278a0833057879"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=11941cdf2c07e7024a1dcd3da921b194038c3b2ab9c576893540d5de51cc80d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=22f715038de44c89271c9024081f1f05c06ffda6bdd651575ed305352be79c9a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

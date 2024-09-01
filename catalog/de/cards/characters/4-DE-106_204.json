@@ -1,0 +1,41 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Freind",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Mike Mu",
+  "deck_building_id": "0a20b1d4aed57d1908ea2d27b2a70c90e2ff9be8",
+  "culture_invariant_id": 797,
+  "sort_number": 807,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ihr seht beschäftigt aus - ich werde diese Legenden einfach für euch im Auge behalten.",
+  "rules_text": "KNAPPER VORSPRUNG Zu Beginn deines Zuges, wenn du einen Charakter mit einer höheren als die aller gegnerischen Charaktere im Spiel hast, sammelst du 3 Legenden.",
+  "card_identifier": "106/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=1e9a2d81181ce615132bb58c724b8129075f57cb4c33aeea6dc41705eb32dd14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=2ee546bbdb0159e27ab3a6a023e4583a8f2e7d0808714ebdce1850085b7e3a0a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=7009aab2ba83e87186b65b94f57709d079da4e9b52500d31840cc5df57185fb1",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

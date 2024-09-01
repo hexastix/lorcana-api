@@ -1,0 +1,45 @@
+{
+  "name": "Pongo",
+  "subtitle": "Père persévérant",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "f2e3f62dba601d0b7718e2d5a5a6d161f72cd084",
+  "culture_invariant_id": 455,
+  "sort_number": 490,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Si j’ai 3 Pongo – Père persévérant en jeu, combien de fois puis-je utiliser sa capacité “Aboiement du soir” ?\r\nR : Vous pouvez l’utiliser 3 fois. Chaque carte Pongo – Père persévérant peut déclencher sa propre capacité “Aboiement du soir”. Cela implique également que si vous renvoyez un Pongo dans votre main pour le rejouer dans le même tour, vous pouvez déclencher de nouveau sa capacité “Aboiement du soir”.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Nous retrouverons notre chemin. Je le sais!",
+  "rules_text": "ABOIEMENT DU SOIR Une fois par tour, vous pouvez payer 2 pour révéler la première carte de votre pioche. S'il s'agit d'une carte Personnage, ajoutez-la à votre main. Sinon, remettez-la sous votre pioche.",
+  "card_identifier": "19/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=dfd9bf2e41bd2efca8fa83b9bbb55b6cfb95aa8a2e45fa57ac2a3265754a3c9e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=81a75cc7075fa4cc8a41ec6d80005e576e1465ead0818e7c4e8e38a506a524aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e50de09495e5ed70dff1829a933f07b108fb0b63ef87fa80164a8ae8bf7dbe2e",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

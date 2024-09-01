@@ -1,0 +1,41 @@
+{
+  "name": "Maui",
+  "subtitle": "Demigod",
+  "strength": 8,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "cdecdf5b7e02dbb11db38244fc5321e8744cadf5",
+  "culture_invariant_id": 185,
+  "sort_number": 185,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "flavor_text": "When the gods gift you a boat, you take it. The boat’s owner is optional.",
+  "rules_text": "",
+  "card_identifier": "185/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=5675f574e7101618fad9eecf462581548ce3dc845d386d3ce2fa6ff60fc75733"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=6f5d54cb2c92087e046d994bef78da4cc2be3d53e0b44c6d071f3233602ca4f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=13455377ebdf9c17e9ec97619dc4c820509fd016f3cb5a708209988862d2ffc0",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

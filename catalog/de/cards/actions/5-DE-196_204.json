@@ -1,0 +1,33 @@
+{
+  "name": "Tauziehen",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Maxine Vee",
+  "deck_building_id": "de379a9a8efe4e9448c52cc6876bf5893405ba9c",
+  "culture_invariant_id": 1152,
+  "sort_number": 1160,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Wähle eine Möglichkeit aus: • Füge jedem gegnerischen Charakter ohne Wendig 1 Schaden zu. • Füge jedem gegnerischen Charakter mit Wendig 3 Schaden zu.",
+  "card_identifier": "196/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=afb77c321ab4bb2f3523fb2d320022ec7c5116b7cd6e8e26f28ee6ba06fb91e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=c4bdb9131d3bed78ac73329c3beb39617f744712031bec89e90816b24d47a69e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=f5f118dad050e5fab7e3ae0570700c0c3f8d01ca69c8bd353fe1e29fd0329b51",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

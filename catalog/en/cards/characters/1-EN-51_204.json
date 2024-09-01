@@ -1,0 +1,46 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Wayward Sorcerer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Nicholas Kole",
+  "deck_building_id": "7b1a76e2d2e48966c05afd3777ab1b57b83cd005",
+  "culture_invariant_id": 51,
+  "sort_number": 51,
+  "additional_info": [
+    {
+      "title": "FAQ - Costs",
+      "body": "Q: If I have 2 copies of Mickey Mouse – Wayward Sorcerer in play, will my Magic Broom – Bucket Brigade cost 1 {I} less or 2 {I} less?\r\n\r\nA: Your Magic Broom will cost 2 {I} less, 1 {I} for each copy of Mickey Mouse – Wayward Sorcerer.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Sorcerer"
+  ],
+  "flavor_text": "He always goes for the clean sweep.",
+  "rules_text": "ANIMATE BROOM You pay 1 less to play Broom characters. CEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+  "card_identifier": "51/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=ba3b7124b08236478398c9d30843c3b50a4f71eac96da77f3cfdb5b5877cf5ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=00e42122dcb507dbee14610107d93f41b4d37ef02730a69ec8a47ada514c4a7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=8c14037f295abef3239c0badd6e495a1a6e2b89669b940a9813cb39d79cc7464",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

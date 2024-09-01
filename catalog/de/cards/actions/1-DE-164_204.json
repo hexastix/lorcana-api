@@ -1,0 +1,35 @@
+{
+  "name": "Schnell weg!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Bill Robinson",
+  "deck_building_id": "fbc3343ba157343b6f977e1486027bbe0b7ab1f7",
+  "culture_invariant_id": 164,
+  "sort_number": 164,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Wenn die Mäuse fehl'n, muss man eben stehl'n. Und ich sag euch Wiederseh'n, ich komm zu spät!",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.)Lege die oberste Karte deines Decks verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "164/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=91d3614925ffbb061fd0e40423614a870c30712c6cddffc55fd835212acf90ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=4aba0499a7815adb7a14a70817f8651b21e025a2bef7b62726ad2d4682579721"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=fb605a9ef4ce47acb4b865d3ca1dcad8746aefbb3e29bac911a3ffd2a5bb65bd",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

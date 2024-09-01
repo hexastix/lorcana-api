@@ -1,0 +1,41 @@
+{
+  "name": "Gardes cartes",
+  "subtitle": "Jeu complet",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Bill Robinson",
+  "deck_building_id": "48ef37fb7cf16d1c0dfc87d604744a7cb6c7a66d",
+  "culture_invariant_id": 321,
+  "sort_number": 345,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Tôt ou tard, il te faudra les battre.",
+  "rules_text": "",
+  "card_identifier": "105/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=7cc9bdfff277a8a330a3287f01b0b90f74025d777df0065f61b437894f7d2216"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=a375b0057d8e6be5fc9fbe4b9ee9c17328c95f47043f7deabe340e3db3482db5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=bb2a87bcf1e958f65d2efe44c40725000fb5c1e48219864a47677553dca690d6",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

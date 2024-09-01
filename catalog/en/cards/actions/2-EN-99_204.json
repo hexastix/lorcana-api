@@ -1,0 +1,38 @@
+{
+  "name": "Improvise",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Mané Kandalyan",
+  "deck_building_id": "3ab79a09520ac3d506965f3d02a348a861f725c5",
+  "culture_invariant_id": 315,
+  "sort_number": 339,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: Can I play Improvise and choose not to increase a character’s strength if there is one in play?\r\n\r\nA: No, you cannot. If there is a character in play who can be chosen by the effect of Improvise you must choose a character to gain strength when you play it."
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Shan-Yu: It looks like you’re out of ideas. Mulan: Not quite!",
+  "rules_text": "Chosen character gets +1 this turn. Draw a card.",
+  "card_identifier": "99/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a244a397ab9a2c2cbcdfeeff772b610fe22d716cc037a10e9816eaf384ee2c8a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=07ad251c8e92d2fdfd9e3b23c07686794db2a9875c56574fd4f8d0eeafcd904a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0b0056194e6a61488328e3c0eaf9c6ee44129cc34eebae2c7da3c0d3fb0cb547",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Randale Ralph",
+  "subtitle": "Abrissbirne",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "2da73ef591ab60b75c73c4ba1a17446a87ea8fea",
+  "culture_invariant_id": 1060,
+  "sort_number": 1068,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "ERHOLSAME AUSZEIT Jedes Mal, wenn du diesen Charakter bereit machst, sammlest du 1 Legende für jeden Schaden auf ihm.",
+  "card_identifier": "104/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=4208a05a0706514aaa463ad757a4bdaa02d10ac0369a6f78e4eda484bd4f21ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=bd7d33f8c2ebfaf505186482617d1923e9f8cf27e9f99dc364121267e660eff6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=cc45894156a286f320aa9a1d7f8e14d68041e57febbf74e6c77e36274bd91457",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Schivata!",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "086cbb4a18c9cc21f6ba04e1011c055bd4c551a4",
+  "culture_invariant_id": 784,
+  "sort_number": 794,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mi hai mancato, dannato bullo!",
+  "rules_text": "Un personaggio a tua scelta ottiene Protetto e Sfuggente fino all'inizio del tuo prossimo turno. (Gli avversari non possono sceglierlo se non per sfidarlo. Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "93/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=7e5d90ef4ce02fafbbf97689c1bafbf8a6417732de4cee0367f736160ce08d5b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=52da912d47a64b9ab715e10f8f7d2f6c55811d0c41d9a4d44ad2fe4e7e23ff2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=cad84061f534d252f4fa4b4ab080e206b00cdabbb8abd8a6d494e517db6d7cb3",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

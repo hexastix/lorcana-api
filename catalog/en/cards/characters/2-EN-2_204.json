@@ -1,0 +1,46 @@
+{
+  "name": "Christopher Robin",
+  "subtitle": "Adventurer",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "09c622f4623326886425e229b1bd88910dc489bc",
+  "culture_invariant_id": 218,
+  "sort_number": 242,
+  "additional_info": [
+    {
+      "title": "FAQ 2",
+      "body": "Q: Can Christopher Robin- Adventurer’s We’ll Always Be Together ability trigger more than once in a turn?\r\nA: Yes, it can.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "Look, Pooh! Have you ever seen anything so grand? —Christopher Robin",
+  "rules_text": "WE'LL ALWAYS BE TOGETHER Whenever you ready this character, if you have 2 or more other characters in play, gain 2 lore.",
+  "card_identifier": "2/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=8638c8b0d8290c701e901da540ffaf3308acf99da7b4a6ce72688572a4193563"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3a1ce06901b2e21023a808288edcc41686d6de6e75169d1a5d5a8675a271e43c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=b273884e7d2196899a7d23af41c6520380b1a061aa202490c5f7723bab0a9b3d",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

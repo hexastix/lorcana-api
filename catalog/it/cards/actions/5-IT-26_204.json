@@ -1,0 +1,33 @@
+{
+  "name": "Tocco Curativo",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "231ce73a39f2059eb63484bf1ded08a47f4ed94a",
+  "culture_invariant_id": 982,
+  "sort_number": 990,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Con il cuore non si ragiona facilmente, ma con la testa si può provare.%—Granpapà",
+  "rules_text": "Rimuovi fino a 4 danni da un personaggio a tua scelta. Pesca una carta.",
+  "card_identifier": "26/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=b4a9dc950a5f6e5a189b705de91c3c63ea5445e6d36e0e045f991249ed41a683"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=6990dad4ad40ce0c49fb2e0252783646cc498ba9dc497aad577034b7e567b565"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=97682bc6087dcb2545daf4e56da79eb6b9e0535b407f7568baf7e25c8633fc46",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

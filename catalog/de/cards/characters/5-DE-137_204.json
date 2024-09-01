@@ -1,0 +1,42 @@
+{
+  "name": "King Candy",
+  "subtitle": "Zuckerherrscher",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Otto Paredes",
+  "deck_building_id": "2f4f4aa121c52c3d9ab1e896125b9922b052d1eb",
+  "culture_invariant_id": 1093,
+  "sort_number": 1101,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "König",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Meine süßen Untertanen, ich kann euch ohne jegliches Zögern versichern, dass ich noch nie so glücklich war.",
+  "rules_text": "",
+  "card_identifier": "137/204 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=73aa0c8d17975982999ef2c6d35c7874c594a3b292892c0715c6e84a444d25b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=9ea082be7c7bb5eb2aef241c89addc458615d9fa44aa3d916498c34fa000eeae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=95ad68a1ab321d8ea5a262b067179b8d595fdf1d8e11f7a134b91d384913bea4",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

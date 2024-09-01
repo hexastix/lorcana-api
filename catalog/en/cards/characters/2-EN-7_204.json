@@ -1,0 +1,40 @@
+{
+  "name": "Eudora",
+  "subtitle": "Accomplished Seamstress",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Lissette Carrera",
+  "deck_building_id": "8f1136e3663dd82c592b712ae6772bd4f6486f55",
+  "culture_invariant_id": 223,
+  "sort_number": 247,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Love holds everything together.",
+  "rules_text": "",
+  "card_identifier": "7/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=b2d676a861e9102d787388671896c901e74f47409c5d1800f46c41ec9fab7c0e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=7a21766cb3279e91382b7ee243f16a91a802a009556be9f68794e7e4fb442aaf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=f2a72419a90c5a8e9364352167e430ed526346558bade49a0aa8dfe8e8762509",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

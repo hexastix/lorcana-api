@@ -1,0 +1,33 @@
+{
+  "name": "Musketeer Tabard",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Dav Augereau",
+  "deck_building_id": "1dd9513f5330b41950fea67f21d19e751b9551a2",
+  "culture_invariant_id": 203,
+  "sort_number": 203,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "There’s no such thing as a lone musketeer.",
+  "rules_text": "ALL FOR ONE AND ONE FOR ALL Whenever one of your characters with Bodyguard is banished, you may draw a card.",
+  "card_identifier": "203/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=587ad94707838f26c58218afa6cf3710f6b31bbf18a9d5cd5722dd4695802fcc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=007e28a588b9e4a1b6639156575c36df5419cad311b9462c4e3e0a4107c161dd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=877244082d579adfb9080bac9a7d4e1c372183f7c3cf14bdfc235dec8b926f9c",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

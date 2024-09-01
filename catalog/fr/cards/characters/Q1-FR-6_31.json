@@ -1,0 +1,40 @@
+{
+  "name": "Heihei",
+  "subtitle": "Pote affamé",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "1fcbc21b6e560c7749bf04b54c03b38cfe8db2f2",
+  "culture_invariant_id": 919,
+  "sort_number": 939,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Allié"
+  ],
+  "flavor_text": "Il ne sait pas ce qu’il fait ici. Ursula non plus, d’ailleurs.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "6/31 FR Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=928cb1c5bbb5954f3d8d375078abd5f21f230a0f5c320029971cc8879b5fb450"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quests/1/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=9808926a21993e5290b4c09de7804439c1dec78380dab4a39acabe545d0a9329"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

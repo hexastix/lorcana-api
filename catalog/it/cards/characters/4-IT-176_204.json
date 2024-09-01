@@ -1,0 +1,43 @@
+{
+  "name": "La Bestia",
+  "subtitle": "Dalla Scorza Dura",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "613c1d6a03168cd893e044a3b018c6d7d70f295d",
+  "culture_invariant_id": 867,
+  "sort_number": 877,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "È persino più duro di quanto sembri.",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.)",
+  "card_identifier": "176/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=5a059e0bc9429dd6153ea54ca86b20f16a33eb8c1b0d98139dd6dd2259d05337"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=a7b10d3b132a4cc62b09aee06e16420a49e886b14f22b4cf94b702d86c6cd709"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=eeea0fe56b282a0895e6178792afecdd71d9a88a76b43af6643cc98e12fefaf6",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

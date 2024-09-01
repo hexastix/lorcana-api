@@ -1,0 +1,41 @@
+{
+  "name": "Zeus",
+  "subtitle": "Der geölte Blitz persönlich",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Moniek Schilder",
+  "deck_building_id": "4dc45f6ba32b0e07fb3f64d0c770408d7aec13aa",
+  "culture_invariant_id": 783,
+  "sort_number": 793,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "König",
+    "Gottheit"
+  ],
+  "flavor_text": "Ha! Jetzt kannst du was von deinem Alten lernen!",
+  "rules_text": "ZIELSCHEIBEN Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, erhält er in diesem Zug so viel +, wie die eines Charakters deiner Wahl beträgt.",
+  "card_identifier": "92/204 DE 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=2588b60df00025e13bcbfb777881efd55b123ea0d27e8c456bf4f4fef3a99f1b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=33b14150e1bd9d2c27c96285d49947044e6db68df9f509ddaea283ba9a216b5d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=cdcdac5ea7b8aa0c1f3ebf98fec57327c80f771869ebdb92abe0352a6829ddb3",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

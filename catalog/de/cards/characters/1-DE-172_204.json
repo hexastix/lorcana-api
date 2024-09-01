@@ -1,0 +1,42 @@
+{
+  "name": "Biest",
+  "subtitle": "Dickköpfig",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "502da9f4533484bfe02fb51fd83498e2d63e3275",
+  "culture_invariant_id": 172,
+  "sort_number": 172,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Sie wird nie etwas anderes in mir sehen … als ein Monstrum.",
+  "rules_text": "ZERFETZEN Wenn du diesen Charakter ausspielst, darfst du einen Gegenstand deiner Wahl verbannen.",
+  "card_identifier": "172/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=fec6d4ec7d1a9803a00fe8dfcd7e45088b0b0090d79d29437b0e000ecb5ef4a9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=ed1ea622f14512a01ebdb3ca5cf8281ba48d19b8e8b833e5f306031fabc881fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=00d4f0177f717a02a187cfd21b023d7cc23ccad261b87485598ad377ac66343b",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

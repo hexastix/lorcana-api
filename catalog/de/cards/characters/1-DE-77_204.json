@@ -1,0 +1,40 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Stets eindrucksvoll",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Matt Chapman",
+  "deck_building_id": "9b79f3f2091291724aca48822463ad7cac92b860",
+  "culture_invariant_id": 77,
+  "sort_number": 77,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Du kannst dir fast alles wünschen! Willst du die kurze Version oder soll ich dir das ganze Lied und den Tanz geben?",
+  "rules_text": "",
+  "card_identifier": "77/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=7676cac27e44ae11c71b574a74f5300d896e211da99e47568fd687b72e153202"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=e442dec0df8f21e29ebbad610efb52a8b430aa5d670d41e9eebfca6e68ef19d7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=54e5b49f22db24b8ea03fdcd2de959a2dba58760bd78d0fb122c1a5d4e2cbf92",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

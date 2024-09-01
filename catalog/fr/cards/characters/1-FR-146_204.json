@@ -1,0 +1,40 @@
+{
+  "name": "GRAND-MÈRE TALA",
+  "subtitle": "Conteuse",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "1a39fb22555a2fc8df4fdf8127d353434ef6f5d5",
+  "culture_invariant_id": 146,
+  "sort_number": 146,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "Vaiana: Y a-t-il quelque chose que tu veux me dire? Grand-mère Tala: Y a-t-il une chose que tu aimerais entendre?",
+  "rules_text": "TOUJOURS PRÈS DE TOI Lorsque ce personnage est banni, vous pouvez la placer dans votre réserve d'encre, face cachée et épuisée.",
+  "card_identifier": "146/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=a23dc7826c7b5bfdfca7b872876997f48c3c6c303fb19bc7592a10b2aa0d3889"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=9751cb52fce91f99cf232542c82d7a7906e4b320319e3d60193f3e8aa8b41602"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=b0b2ddce7097da321cd2e7a37590256a4cd33014e9fac5400ac7ee54e5aef938",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

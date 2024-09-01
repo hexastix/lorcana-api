@@ -1,0 +1,46 @@
+{
+  "name": "PRINCE PHILIPPE",
+  "subtitle": "Tueur de dragon",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Philipp Kruse",
+  "deck_building_id": "9597388eb1ea9c907abbbf2dda9fea8216bc575b",
+  "culture_invariant_id": 16,
+  "sort_number": 16,
+  "additional_info": [
+    {
+      "title": "Errata",
+      "body": "Il y a un errata pour la carte \"PRINCE PHILIPPE - Tueur de dragon\".\r\nAprès un examen approfondi, nous avons déterminé que le texte de la carte est incorrect. La version corrigée de la carte sera désormais jouée avec le texte suivant : \"Lorsque ce personnage en défie un autre et qu'il se fait bannir, vous pouvez bannir le personnage défié.\". Nous nous excusons pour ce désagrément et demandons à chacun d'utiliser la version mise à jour de la carte afin de garantir un jeu fluide.\r\n\r\nAncien texte - HÉROÏSME :\r\nSi ce personnage est défié et banni, vous pouvez bannir le personnage qui l'a défié\r\n\r\nNouveau texte - HÉROÏSME :\r\nLorsque ce personnage en défie un autre et qu'il se fait bannir, vous pouvez bannir le personnage défié."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Sur la route qui saura vous mener à l'amour, il est de nombreux dangers qu'il va vous falloir affronter. — Flora",
+  "rules_text": "HÉROÏSME Lorsque ce personnage en défie un autre et qu'il se fait bannir, vous pouvez bannir le personnage défié.",
+  "card_identifier": "16/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=9505bb43fbf18999598de204bc956c310ac51326fa24275be256a2070296d667"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=e95fc6d5280a856cb18968a4a299d7b05b3fdbea1101a08147056114232540db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=80a7710e790bbbc8d97cfe3bf985c4e7e0f6027f6477c4d515f9a7a81a7a6762",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

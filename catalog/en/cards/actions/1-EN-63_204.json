@@ -1,0 +1,38 @@
+{
+  "name": "Freeze",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "adcdee7c29e76d6c7249456e6ff99ae44efe9e6e",
+  "culture_invariant_id": 63,
+  "sort_number": 63,
+  "additional_info": [
+    {
+      "title": "FAQ - Costs",
+      "body": "Q: If I use Freeze and choose to exert my opponent’s The Queen – Wicked and Vain, will The Queen’s exert ability I Summon Thee allow me to draw a card?\r\n\r\nA: No. When an ability has a cost, the card’s player must pay that cost in order to use the ability. If another effect exerts The Queen, you don’t get to draw the card from I Summon Thee. Additionally, you won’t be able to use that ability until The Queen is readied.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It's time for you to chill.",
+  "rules_text": "Exert chosen opposing character.",
+  "card_identifier": "63/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=e72066b756e6632c1ebbd33e7b6902be22712c054dd70a962075869f6dda8f1c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=0dccd5b359a6907f43f9e96f6894fb77187b3c4f5df88a979cb7fc3a32805b4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=c913cd5277499ab920f3a438b17c4bdcb563e047398070a3490ddada5a7dc32b",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

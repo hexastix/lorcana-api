@@ -1,0 +1,42 @@
+{
+  "name": "Goofy",
+  "subtitle": "Draufgänger",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "2cf1d9fb4a6212482783f1497e8c8a756df859b0",
+  "culture_invariant_id": 111,
+  "sort_number": 111,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Manchmal muss man den Sprung einfach wagen und Ahijak.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "111/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=e1ea93865a1814f073f4e091b2571b5f1b09fa0cf98f9b664e76aa320585448f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=22c587e65a1e447e7bdd5487c87ab65947f1e793fe64064593db524a86373a06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=ce2b13d795ecd1fa0f0bc39570aa17129fdbd3f5285a262e614f87fcbd8e3a31",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

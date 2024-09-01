@@ -1,0 +1,35 @@
+{
+  "name": "CHAUDRON D'URSULA",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "a757b4be52f0de48fe6589a497c72522ca4489c8",
+  "culture_invariant_id": 67,
+  "sort_number": 67,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Parfait pour préparer des potions et voler des voix.",
+  "rules_text": "SURVEILLANCE DES PROFONDEURS – Regardez les 2 premières cartes de votre pioche. Remettez-en une sur le dessus de votre pioche et l'autre en dessous.",
+  "card_identifier": "67/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e903fd3397f9246429d53caaf77cea99384a76fb2372e156ffbbbe166f612446"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=fc0b9f55d0dac81fe6bcaa8c5d31fb919d2f0f08ff79d7cfdbf7df91467fb600"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=14e4106490f35a5ee237e5ff1349fdd5602a453309b1ccdc2598f7458fadd9a3",
+  "card_sets": [
+    1,
+    6,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

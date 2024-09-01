@@ -1,0 +1,44 @@
+{
+  "name": "Scroop",
+  "subtitle": "Odious Mutineer",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Justin Runfola",
+  "deck_building_id": "2a5d939bc141ebe8540f3584cea9e8e2cb51fc57",
+  "culture_invariant_id": 1038,
+  "sort_number": 1046,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) DO SAY HELLO TO MR. ARROW When you play this character, you may pay 3 to banish chosen damaged character.",
+  "card_identifier": "82/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=756c624069c0bdf00ba2d1ad6a9324a795cd81a48676602d9667fb03a199f2c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=7bfdfcc56644298f9dd7432a0f35f00ba4e79e006697769ebcc0146555a0c39e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=71d952a28a9a9c84a9aedf70c75def747803613406f7c1ff08a8f1f6fca3cdd2",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

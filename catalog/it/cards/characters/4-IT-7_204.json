@@ -1,0 +1,41 @@
+{
+  "name": "Paperina",
+  "subtitle": "Spia dei Moschettieri",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "a34164ff051a6a764bee43f9f9096b7deeec2e20",
+  "culture_invariant_id": 698,
+  "sort_number": 708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Moschettiere"
+  ],
+  "flavor_text": "Ha un talento per sventare i piani segreti.",
+  "rules_text": "INFILTRARSI Quando giochi questo personaggio, ogni avversario sceglie e scarta una carta.",
+  "card_identifier": "7/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=82ef76fe99ad6726973b8fb61558417c2df42367aa52883a3ca6bfd94c065fd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=dd74768fd482089c737ef326249134d891a3c6ff31ac935015ff7608ac0b2d6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=c8c6e27d92212900919784fa4e9cfbb1c4b5b26bb78da598b45785530750ed4f",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

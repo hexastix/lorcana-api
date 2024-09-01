@@ -1,0 +1,40 @@
+{
+  "name": "Paperino",
+  "subtitle": "Pennuto Turbolento",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "5880e4814c3c2fb5e6a2d48ca24bf6960f564337",
+  "culture_invariant_id": 108,
+  "sort_number": 108,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Ehi amico, chi è che sarebbe turbolento?",
+  "rules_text": "",
+  "card_identifier": "108/204 IT 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=a8dee688fe9bb19e06d7fc2c863415436d7f14fde1b89bf3b342f4f64fdeb535"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=32759c8b10bb58f8da5b624d6f174e8eb72df8a518bbf7129520818589ee8792"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/1/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=2a9d409a245517623934906104be7160f6a3469c9efe5fab61cd182437fecbe5",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

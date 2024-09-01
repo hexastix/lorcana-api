@@ -1,0 +1,41 @@
+{
+  "name": "Timide",
+  "subtitle": "Grand sentimental",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Kendall Hale",
+  "deck_building_id": "b95e7b9108cbc2a1fc2700fda19b86520ee93c3e",
+  "culture_invariant_id": 217,
+  "sort_number": 241,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Sept Nains"
+  ],
+  "flavor_text": "La vie est plus douce quand on a des amis.",
+  "rules_text": "OH... Vous devez avoir un autre personnage Sept Nains en jeu pour pouvoir envoyer ce personnage à l'aventure.",
+  "card_identifier": "1/204 FR 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=fe21898c193ef5f4df93dbfeaee7a95b409f7f4a5c7d25a8d0569af8928c0c74"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=9294213df3e70e0769768ca2a2f0be2e9acb2cd78a682756ff23489d63ccb4c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d3a44593518861b97a015547fa633af96771560933dbe9ad7e424096983974d2",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

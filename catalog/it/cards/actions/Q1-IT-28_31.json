@@ -1,0 +1,32 @@
+{
+  "name": "Vortice",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "8650c1723c7bcc41e48f9a2077b8c630670a6978",
+  "culture_invariant_id": 941,
+  "sort_number": 961,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Impegna tutti i personaggi avversari. Non si possono preparare all'inizio del loro prossimo turno.",
+  "card_identifier": "28/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=79c7ed1539f6aea6dec93655f6404b354032a73a8deebbf465518360c908360f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fe8ac142d1492c490676c166179521d62181e81f8675dbbe76b6bcf22565e209"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

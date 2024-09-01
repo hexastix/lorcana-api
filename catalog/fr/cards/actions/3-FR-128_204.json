@@ -1,0 +1,38 @@
+{
+  "name": "Bombardement en piqué !",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "b79271249a893d1000e32bdb11f4305ccf9defd7",
+  "culture_invariant_id": 564,
+  "sort_number": 599,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q : Ma Félicia – Toujours affamée bénéficie de la capacité Soutien de l’un de mes personnages et voit sa Force augmentée à 6. Si j’utilise Bombardement en piqué en bannissant ma Félica avec une Force de 6, puis-je bannir un personnage adverse ayant une Force de 5 ou moins ?\r\nR : Oui, vous pouvez. Lorsque vous choisissez un personnage adverse à bannir via l’effet de Bombardement en piqué, vous pouvez choisir un personnage avec une Force inférieure à celle du personnage avec Combattant que vous avez banni pour bénéficier de cet effet, la Force prise en compte étant celle qu’il avait au moment d’être banni.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Bannissez l'un de vos personnages avec Combattant puis choisissez un personnage ayant moins de que lui et bannissez-le.",
+  "card_identifier": "128/204 FR 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=55ef1636cb7ca66408e365532795871bb0e1e86a2a9e3849968f5219100c422b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=1278b65c5573b6436cf87ca52bba91b4bdea93a66db02a62b8608206758eddc9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=03cb25ded57c7acfce51d05618f2db492c1779c267c027479a09dc335f00106b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

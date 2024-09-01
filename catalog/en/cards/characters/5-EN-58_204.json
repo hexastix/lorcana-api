@@ -1,0 +1,43 @@
+{
+  "name": "Camilo Madrigal",
+  "subtitle": "Family Copycat",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Saulo Nate",
+  "deck_building_id": "e4d5e8f774c50c619ff2d88974512f4e419a3b3c",
+  "culture_invariant_id": 1014,
+  "sort_number": 1022,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "IMITATE Whenever this character quests, you may gain lore equal to the of chosen other character of yours. Return that character to your hand.",
+  "card_identifier": "58/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=0640cb452a921e11620adb00d03adab7181bcc069ad326cf90abea09c382ebeb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=c8aa27cbb3aa17dc7fcb8c78f7ac25c250ff30bd6851246dbdc16459e56acddf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=97d79e969306ee40d7f00a2b2671da925c4ab2762d9154e533299c082d4648e8",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=c9cebb291872f44f9765a0a1a5049d3b487f39b7516d5c46574ecdad2f2211cd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

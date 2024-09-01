@@ -1,0 +1,40 @@
+{
+  "name": "Arges",
+  "subtitle": "The Cyclops",
+  "strength": 4,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alice Pisoni",
+  "deck_building_id": "286c468b7f39166d810fec8138c83852f03763aa",
+  "culture_invariant_id": 864,
+  "sort_number": 874,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Titan"
+  ],
+  "flavor_text": "Looks like you got some big feelings there, buddy—let's stomp ’em out! —Hades",
+  "rules_text": "",
+  "card_identifier": "173/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=951aef946db3364a8b55e1ea7998c70f8024c8482f87c025feb71d8d04a12d6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=372bed014c217816d73bc3c15a189afb60a2ca45c17592299e146f2ed048e961"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=75aa15f5d84ecc1e08a3a4df8756897fbd60449fb5275e0ab16875a0797aabb2",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

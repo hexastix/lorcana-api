@@ -1,0 +1,47 @@
+{
+  "name": "Little John",
+  "subtitle": "Robins Kumpel",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jacob McAlister",
+  "deck_building_id": "eb37093fa52ddaa39641f1fb0952282638b7a6d9",
+  "culture_invariant_id": 615,
+  "sort_number": 650,
+  "additional_info": [
+    {
+      "title": "Ergänzung - Beschützen",
+      "body": "Um die Interaktion von Charakteren mit Beschützen und Orten besser zu beschreiben, nehmen wir eine kleine Modifikation am Erinnerungstext von Beschützen vor. \r\n\r\nDer neue Text von Beschützen:\r\n(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) VERKLEIDET In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "179/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=5e0e7c6958348d61f048d9cbe2604cff7549c26905256f719f1c1adcb10a95be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=1379dc2524cef33b1fddc7e36cba9d065754f37515be0d3b0ac44e7f415a50a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=b6e68bec0691f52221c77280792da509b6d096ad66934aa7fb5f8188a9db1a1d",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

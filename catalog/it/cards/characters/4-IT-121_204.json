@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Protettrice Feroce",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "26cc86f21b2d1246e0ad32b654c821192af603c0",
+  "culture_invariant_id": 812,
+  "sort_number": 822,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Combatterai contro tutti? —Sisu",
+  "rules_text": "NON PROVOCARMI Ogni volta che questo personaggio sfida un altro personaggio, ottieni 1 leggenda per ogni altro personaggio danneggiato che hai in gioco.",
+  "card_identifier": "121/204 IT 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=13eff53645f70be32ca32c50b229b64bc61e7844bb62700342966a4ff4544e4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=f0c42be9a3ed2b237a612835312066d9fc665e543ebd457cc25e64512e751288"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=9cbab179bcc7f7507ce87ca8586c8b332f8094da8470eeb0dedf2f5c591c106e",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Die Legende vom Schwert in dem Stein",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "68b837d1794b4887d94e74205c81d1741976d19c",
+  "culture_invariant_id": 280,
+  "sort_number": 304,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Es klingt eine Mär aus Alt-Engeland her%aus kühner Ritterzeit",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ein Charakter deiner Wahl erhält in diesem Zug Herausfordern +3. (Während der Charakter herausfordert, erhält er +3.)",
+  "card_identifier": "64/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=c28b120cbef60b039fb749faf1d4eb0071206bfb40a01aba36139d660fb363fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=66b4f88817d1cacf543255e18eda9a86639a460097b5a0af496100aea75d4c97"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ea022b16debf64be4571f08f0959815de62322b174ffdb0f5831c6de2741d28c",
+  "card_sets": [
+    2,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

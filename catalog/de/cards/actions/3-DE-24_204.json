@@ -1,0 +1,33 @@
+{
+  "name": "99 Welpen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Agnes Christianson",
+  "deck_building_id": "5e43d8ea46210ff6a851a826904c6a9136ea4936",
+  "culture_invariant_id": 460,
+  "sort_number": 495,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Zwei, vier, sechs und drei ist neun, plus zwei macht elf...%—Roger",
+  "rules_text": "Jedes Mal, wenn einer deiner Charaktere in diesem Zug erkundet, sammelst du 1 Legende.",
+  "card_identifier": "24/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=e402fd9d918888f5ac0b5d2c6e6ecb9fc9cb087c1d0714e4198f75a7034cebb1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=3f6689b4dcf2f9b45225a07e1e0b65d23ec1bc0384ccca975e9cbf13401049bf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=9aaa0c0c32c9980c917f0ed77c4d5d7dfe56947401abb0cb74b4716a69241b2b",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

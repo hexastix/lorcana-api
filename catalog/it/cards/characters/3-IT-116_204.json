@@ -1,0 +1,49 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Leader Nata",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "2d55f3560e49972216272b91e7a9f71ad3897554",
+  "culture_invariant_id": 552,
+  "sort_number": 587,
+  "additional_info": [
+    {
+      "title": "FAQ",
+      "body": "Q: Ho una Alice – Growing Girl e una Vaiana – Leader Nata preparate nello stesso luogo. Se Vaiana va all’avventura mentre Alice è preparata, Alice potrà andare all’avventura per questo turno?\r\nA: No. L’Abilità Benvenuto Sulla Mia Barca di Vaiana – Leader Nata è obbligatoria e influenza tutti gli altri personaggi che si trovano nel suo stesso luogo. Anche se Alice – Growing Girl è preparate quando Vaiana va all’avventura, Alice non potrà andare all’avventura più tardi durante questo turno. Nota che, anche se Alice si spostasse in un altro luogo o se il luogo dove si trovano entrambi i personaggi venisse rimosso dal gioco, Alice non sarebbe comunque in grado di andare all’avventura per questo turno.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Vaiana.) BENVENUTO SULLA MIA BARCA Ogni volta che questo personaggio va all'avventura mentre si trova in un luogo, prepara tutti gli altri personaggi in quel luogo. Non possono andare all'avventura per il resto di questo turno.",
+  "card_identifier": "116/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=c1cde829b36b9b27ddab60019587efc55c6358b486955079239d9ba9ddc0cf94"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=6308a5cfd4dc79ea9564996b929cb6291c67685ef8f58274b3e2eb5b3b426877"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=bcf1bd15e65d1c67f4af441061be8cf453e99c036ea605745d04f841e0de48e1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

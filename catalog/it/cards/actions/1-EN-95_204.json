@@ -1,0 +1,35 @@
+{
+  "name": "Mother Knows Best",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "9b13536dce3331ad25596984ff3b7f2f4a66b1f4",
+  "culture_invariant_id": 95,
+  "sort_number": 95,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "One way or another Something will go wrong, I swear",
+  "rules_text": "(A character with cost 3 or more can to sing this song for free.) Return chosen character to their player's hand.",
+  "card_identifier": "95/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=2a76b97414753057376bb687f717c2045afbf7e99fa957cbd9e0ed4f1c23f9e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=8d61a721222f6f47bd81804a46840a5c282cf021a7058fe4aef2f62e2f5fad82"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=95b6101858e5d83a48f10681afca7be623b22479fde9b7ce1a11bc6008152e18",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

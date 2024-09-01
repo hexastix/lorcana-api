@@ -1,0 +1,33 @@
+{
+  "name": "Specchio del Principe Giovanni",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "39a89923e71c7d7870de8d7f8c51bad51dc4f138",
+  "culture_invariant_id": 1054,
+  "sort_number": 1062,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "VI DÀ UN ASPETTO REGALE Se hai in gioco un personaggio chiamato Principe Giovanni, paga 1 in meno per giocare questo oggetto. IL SENSO DEL POTERE Alla fine del turno di ogni avversario, se questo ha più di 3 carte in mano, deve scartare carte finché non ne ha 3 in mano.",
+  "card_identifier": "98/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=fff913f0b8a4f54696660cc7a9ce81abb5ad9d89a57e7cad96ebcdd35b4fc7ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=7fd32d139074e33ac77c3532c74cc303bc2ba37f8859ac33af7d8270e1f845af"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=cbb2b8416ffdb2807dcb2de32261fc2d3fe0907ec96b56e321c3e499293684fd",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

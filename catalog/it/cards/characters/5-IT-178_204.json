@@ -1,0 +1,42 @@
+{
+  "name": "Kronk",
+  "subtitle": "Investigatore Senza Licenza",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alex Accorsi",
+  "deck_building_id": "020df7caff144b7a745a51d6252d5a5861fb6489",
+  "culture_invariant_id": 1134,
+  "sort_number": 1142,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Forse <questo> è un cromicon. O forse no. Avrei dovuto prestare molta più attenzione a ciò che diceva quel magonzolo...",
+  "rules_text": "Sfidante +1 (Mentre sta sfidando, questo personaggio riceve +1.)",
+  "card_identifier": "178/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=0830548cf949df13ed187cbaa7d2d6f201f653634b7d4853e2d1829128fb405d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=5d68b20b1d06d7d7727373fb9a1d5d81393f44af944e6ecfc6ca2c1cc13b1233"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=3475df2c8d62c551ad42a56f39611457c5906a4dd2a30ae501288a6f6e0d68fe",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "DINGO",
+  "subtitle": "Tête brulée",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "2cf1d9fb4a6212482783f1497e8c8a756df859b0",
+  "culture_invariant_id": 111,
+  "sort_number": 111,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Il suffit parfois d'une bonne impulsion et hyuck.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "111/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=8ac048ed0d95f11af00bb19de84362c2f2ead75fdfa4b1cb93ce66a25641d0b2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=bc75686c53f0983ed77e7ef641b45d89140ebd8c667561fa790c65278a5c49cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=ce2b13d795ecd1fa0f0bc39570aa17129fdbd3f5285a262e614f87fcbd8e3a31",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

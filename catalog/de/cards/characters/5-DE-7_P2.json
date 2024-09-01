@@ -1,0 +1,43 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Führt die Familie zusammen",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 5,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "f283e9f31fd0b57fa5892870d98a03793352b776",
+  "culture_invariant_id": 1186,
+  "sort_number": 1194,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Madrigal"
+  ],
+  "flavor_text": "Es gibt nichts, was wir nicht gemeinsam erreichen können!",
+  "rules_text": "NICHT OHNE MEINE FAMILIE Du kannst diesen Charakter nicht ausspielen, außer du hast mindestens 5 Charaktere im Spiel.",
+  "card_identifier": "7/P2 DE 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2e14e0ae6f38907b95e75dd92289793acb8fc33c7ca2b71936ff527d043f35bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=94cc1ea40f3a6d9509d7bdc6b6964596d46a63d8f44d7a855aee602cac32e7c4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=057e687a06bf25ed77570fb122d380c13428431ed0f0e69bd976e637af0094a4",
+  "special_rarity_id": 1,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

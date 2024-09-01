@@ -1,0 +1,45 @@
+{
+  "name": "Marshmallow",
+  "subtitle": "Persistent Guardian",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kendall Hale / Anh Dang",
+  "deck_building_id": "c6dff597b546bbdf914709017bcfa6f934bd4d15",
+  "culture_invariant_id": 50,
+  "sort_number": 50,
+  "additional_info": [
+    {
+      "title": "FAQ - Challenges",
+      "body": "Q: Are abilities on characters that occur when they’re banished in a challenge considered to happen during the challenge?\r\n\r\nA: Abilities on characters that occur when they are banished in a challenge happen during that challenge.\r\n\r\nExample: Marshmallow – Persistent Guardian has an ability that reads, “When this character is banished in a challenge, you may return this card to your hand,” and Cheshire Cat – Not All There has an ability that reads, “When this character is challenged and banished, banish the challenging character.”\r\nIf a player challenges and banishes Cheshire Cat with Marshmallow, the Cheshire Cat’s ability would banish Marshmallow during the challenge, allowing the challenging player to return Marshmallow to their hand.\r\n"
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Hey! We were just talking about you! All good things, all good things. —Olaf",
+  "rules_text": "DURABLE When this character is banished in a challenge, you may return this card to your hand.",
+  "card_identifier": "50/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=d2b9c1dfe1e9a467bdff7ba6cd0bbe0aeb3a53fb539c36833c423a81211fa363"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=e970b15bbba33d76b7403377103bea0cd66dbd43608339ba8803e0c168542a46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=105e4cca3d2fcf8edd047cf50457dda9cf16d855399e867df66cdf2376ec9833",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

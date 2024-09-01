@@ -1,0 +1,43 @@
+{
+  "name": "LA FÉE CLOCHETTE",
+  "subtitle": "La plus serviable",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Caner Soylu",
+  "deck_building_id": "7d6f88911941e9ab84662a1acc5938a3572d710b",
+  "culture_invariant_id": 93,
+  "sort_number": 93,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) POUSSIÈRE DE FÉE Lorsque vous jouez ce personnage, choisissez un personnage qui gagne Insaisissable pour le reste de ce tour.",
+  "card_identifier": "93/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=ab2fea984da52c0960f55dfd7a91b8ec3bb17161752eb2818a14e94189d90226"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=54beabd6f3808ee82e0a4783aa765f44256e382dee452f5b176ba353f73380f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=ea2e7b5c65eb252b235dd962a740b9244932df308e615cb6f5ac66874694af39",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

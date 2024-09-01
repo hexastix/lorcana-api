@@ -1,0 +1,43 @@
+{
+  "name": "Simba",
+  "subtitle": "Returned King",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "54d1da804f89e6da94d1e9a335acf6a5baa79ff5",
+  "culture_invariant_id": 189,
+  "sort_number": 189,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "King"
+  ],
+  "flavor_text": "I’ll do whatever it takes to save my kingdom.",
+  "rules_text": "Challenger +4 (While challenging, this character gets +4.) POUNCE During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "189/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=ec8611392960ee0c5481eda20a91375fe57a2cd102062a9f505ce56754522fbb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=a1b247b9f5a9116aa766e7794a95333b4a8ca90f6e87ca314bb119a024f09628"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=fc24203017d247ab13250a176a5b4e723eefae2deaf1fa54edea73142ff9f7d9",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

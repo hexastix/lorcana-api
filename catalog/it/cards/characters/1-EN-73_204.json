@@ -1,0 +1,40 @@
+{
+  "name": "Duke of Weselton",
+  "subtitle": "Opportunistic Official",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "R. La Barbera / L. Giammichele",
+  "deck_building_id": "8b4fd5b66b54e7069a367ca9e58ca43303833526",
+  "culture_invariant_id": 73,
+  "sort_number": 73,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Sorcery! I knew there was something dubious going on here.",
+  "rules_text": "",
+  "card_identifier": "73/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=1e1e3ddbba953ad3ea393818f655391be20965c87a127eaa30ca248506cf5a7d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=18f7716f2006ee36ca1cd173593df115505c94e464974f63d5e82f4a922e241d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=fa337045244640fccfcc7bb440d24d8f3b896d81e3168a6634dd3e04931016d8",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

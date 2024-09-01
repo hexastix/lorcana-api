@@ -1,0 +1,43 @@
+{
+  "name": "DR. FACILIER",
+  "subtitle": "Agent provocateur",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "32e44d12b1db08f5e4100063542807daf6a238d8",
+  "culture_invariant_id": 37,
+  "sort_number": 37,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Dr. Facilier.) VERS LES OMBRES Vos autres personnages gagnent: \"Lorsque ce personnage est banni via un défi, vous pouvez le reprendre en main.\"",
+  "card_identifier": "37/204 FR 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=617fd381e405dd9cccf6136ffaf63faa44f96947d6a79dd6d5e452087e1939d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=22c07ce72a6e7f27e28a91fafa42fd2dce9d062699cddce328e0689652ba62ba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/1/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9ffd08d49c50900a589058b24f275c54f2ce1fef75dfff89da0e7b30c5817cbb",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

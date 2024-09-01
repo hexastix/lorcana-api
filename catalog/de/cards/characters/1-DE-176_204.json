@@ -1,0 +1,39 @@
+{
+  "name": "Zerberus",
+  "subtitle": "Dreiköpfiger Hund",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Oleg Yurkov",
+  "deck_building_id": "2add282ac5daf44f5999ad575d4fa8946c666208",
+  "culture_invariant_id": 176,
+  "sort_number": 176,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Immer wachsam. Immer wütend. Immer im Kampf um den Ball.",
+  "rules_text": "",
+  "card_identifier": "176/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=8974334f619689e5017c2189fcd5bb9bb6a1aaf696e77a4c093dcc9188dc12c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=d61aedfe321573fd7a747a60d855268148187cdd40e3d5305830e1bd916ab69c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=da8162f37131f26aa98a70cc46e06543e89297c4fc2c850e9612cd1ab4980323",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

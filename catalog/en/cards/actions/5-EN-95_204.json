@@ -1,0 +1,33 @@
+{
+  "name": "Night Howler Rage",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Antoine Couttolenc",
+  "deck_building_id": "d25d7ef8b4fe1c826e2faa544124363358944a73",
+  "culture_invariant_id": 1051,
+  "sort_number": 1059,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I think someone is targeting predators on purpose and making them go savage! —Judy Hopps",
+  "rules_text": "Draw a card. Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "95/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=52ff96a646f05a45c1e3fd046c8f8a62d7b674f979a5b04ac7f111759bcaa217"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=fb9e5462a60dd0dd154a7f10b22cbe9509620bb948734ebbba702e38dd381955"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1614d0aed39cc415f469d99a9f0ebd3d89bf31911497952e6df48b1643bb130f",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

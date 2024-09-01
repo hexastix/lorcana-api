@@ -1,0 +1,40 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Wiederkehrende Erscheinung",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "a6b5ad0750d9770259ba18ba82b625783ad4c125",
+  "culture_invariant_id": 259,
+  "sort_number": 283,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Kraft. Schönheit. HeiHei.",
+  "rules_text": "ER IST ZURÜCK! Wenn dieser Charakter durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand.",
+  "card_identifier": "43/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=0a3567df915228c63b795cfb5388739192e88e5700ce9ddde27a04913845fc73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=42fd1216527497ba5c373ad226cc425a8e76e19bed1b568377d7d84c97418b51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=229afd0b13b66d64aaddaf9921b84ead71928ad68561fbf44c5292313e6bfa5d",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pour les hommes",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "César Vergara",
+  "deck_building_id": "d1b38a28131ef676d9daa53b83ce02ff56acc2bc",
+  "culture_invariant_id": 1052,
+  "sort_number": 1060,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Je suis à l'origine de tous les phénomènes !",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage, un objet ou un lieu et mélangez-le dans la pioche de son propriétaire. Ce joueur pioche 2 cartes.",
+  "card_identifier": "96/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=2cc4cbf956f9d30af60c0c96ec29d92ee1e8e9a393de682a10df8e8fcb9d0023"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=8566c795fd007099a6571da565b761892e7c04073ecc5449b85c26f675096fa8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=4591859715fd95b6014504f8201483be0cec7431270303344e554fd8354b6bab",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

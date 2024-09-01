@@ -1,0 +1,48 @@
+{
+  "name": "Mulan",
+  "subtitle": "Reflektiert",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Lissette Carrera",
+  "deck_building_id": "dba0b0c949ec8f04e71f20cf8f771c414b558411",
+  "culture_invariant_id": 232,
+  "sort_number": 256,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "F: Ich erkunde mit meiner „Mulan - Reflektiert“ und setze ihre Fähigkeit „Ahnen helft, hört ihr mich“ ein. Die Karte oben auf meinem Deck ist eine Kopie von „Seid Bereit“ und ich entscheide mich, dieses Lied nicht zu spielen. Was passiert in diesem Fall mit der Karte?\r\n\r\nA: Die Karte wird zurück auf dein Deck gelegt. Auch wenn es sich um eine Liedkarte handelt, solange du dich dafür entscheidest die Karte nicht auszuspielen, wird sie verdeckt oben auf dein Deck gelegt.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Heldin",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Mulan-Charaktere auszuspielen.) AHNEN HELFT, HÖRT IHR MICH Jedes Mal, wenn dieser Charakter erkundet, darfst du die oberste Karte deines Decks aufdecken. Falls sie eine Liedkarte ist, darfst du sie kostenlos ausspielen. Falls nicht, lege sie zurück auf dein Deck.",
+  "card_identifier": "16/204 DE 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=72f5e5a52d4ceb073c98e2f22f422bb0d094debde50e9626a282b6235bb4f8b2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=49a99dc52c4aa5137b7ba061484ba8c086ee7ed9816106e9f9b17974289fa7c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=fac003741575aee03577467496f794d1d63ff0fc996732c0104c3de9a16c8bef",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

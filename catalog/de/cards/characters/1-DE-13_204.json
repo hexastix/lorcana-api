@@ -1,0 +1,41 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Geliebte Prinzessin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "c1441a9388ffdf1a914448f9272ae60e6e971869",
+  "culture_invariant_id": 13,
+  "sort_number": 13,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Prinzessin"
+  ],
+  "flavor_text": "Wo immer die Prinzessin hingeht, sind ihre Musketiere... nun ja, sie sind irgendwo in der Nähe, vermutlich.",
+  "rules_text": "",
+  "card_identifier": "13/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f87b92a8dd982d89739db45c2fd8b6bbea049adbdea052de1fb0d47b137dd09b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=ab0fc82f47f1690285b8ff3dd357a12371b732c63b5ab2cbfd55b8b6ae58e73d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=13c3578ce7a4169a24203c56ae29bccc20c949e9838d41cf094b41874da8653d",
+  "card_sets": [
+    1,
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

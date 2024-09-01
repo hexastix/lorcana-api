@@ -1,0 +1,42 @@
+{
+  "name": "Truc",
+  "subtitle": "Élan nordique",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ron Baird",
+  "deck_building_id": "678f68c55dfedbbaffb7e07321b6342581a6b658",
+  "culture_invariant_id": 960,
+  "sort_number": 968,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Trouvons de belles branches, hein ? J’ai un petit creux !",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "4/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=90b1cbca0f79714079d997ca67405517a830014528518c2d82fc328c9264bbd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=019d5025fdb5af72970ce3a17da40d0d5edc5f8354a7410c8e5e7dd767a91d6c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=a281f98f94fcbcbbbd7dd60d5b214ed3032a214ffce7c90269b67483317f3c69",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

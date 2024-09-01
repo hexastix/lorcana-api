@@ -1,0 +1,37 @@
+{
+  "name": "Never Land",
+  "subtitle": "Mermaid Lagoon",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cécile Carre",
+  "deck_building_id": "3dda47c95f7fd5557d048647909c7fb4c9f62dbb",
+  "culture_invariant_id": 468,
+  "sort_number": 503,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The mermaids told Peter they’d seen some items floating by several days earlier, but they were more concerned that one of their sisters had gone missing.",
+  "rules_text": "",
+  "card_identifier": "32/204 EN 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=9aefe55ff3060ef08b4fb7bb42da8a677e3a0e8810f3d92fab6cd797cfc13361"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=b7d502602abcaa0f8adc0816b2c4f30384888b6e071cac3900d2052a972978c9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=0fe483ce874916ed175adddc49bd387679f76f3c197e65a5222d405bbd11cd19",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

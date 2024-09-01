@@ -1,0 +1,47 @@
+{
+  "name": "Sisu",
+  "subtitle": "Divine Water Dragon",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Grace Tran",
+  "deck_building_id": "64954a34ae8d8884b8fb5dd92473c229df33a39a",
+  "culture_invariant_id": 375,
+  "sort_number": 399,
+  "additional_info": [
+    {
+      "title": "FAQ 1",
+      "body": "Q: When I quest with Sisu- Divine Water Dragon can I choose not to use her I Trust You ability?\r\n\r\nA: No, you cannot. Whenever you quest with Sisu- Divine Water Dragon you must look at the top two cards of your deck. You do not have to put one of the cards to your hand but regardless of whether you put a card in your hand or not any card you looked at and did not put in your hand must be placed on the bottom of your deck."
+    }
+  ],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity",
+    "Dragon"
+  ],
+  "flavor_text": "No matter her shape, you can’t mistake her heart.",
+  "rules_text": "I TRUST YOU Whenever this character quests, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "159/204 EN 2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=d254080affc515242f325e5c26852668c997acbd994fa541c3bcf8b54095489a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=cf30abfb486483fbdec3042278fee94961cabfca33a0fecdbcdd7b63c745e4bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=e50298023b75eb49186165695ec6585f23ba9278ee5ffe80311af2ef819b65b0",
+  "card_sets": [
+    2
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

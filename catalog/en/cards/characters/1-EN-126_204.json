@@ -1,0 +1,44 @@
+{
+  "name": "Te Kā",
+  "subtitle": "The Burning One",
+  "strength": 8,
+  "willpower": 6,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "92788505267291d061bce171dae43b361f5c9eca",
+  "culture_invariant_id": 126,
+  "sort_number": 126,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Reckless"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "She burns for that which was stolen from her.",
+  "rules_text": "Reckless (This character can't quest and must challenge each turn if able.)",
+  "card_identifier": "126/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=136334ecbeb1d3f01edc2e2956589be719e22f24d6e8fb31337a92f818590b34"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=3f43bda24167da86b85f2a17bc5023912f62bb39bba2b5600db7706d65603c2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=00d8f01c547e4615fc7e0dda496d1c2f807afddc33bbbdb2cacab730c1c88b7e",
+  "card_sets": [
+    1,
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

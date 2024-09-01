@@ -1,0 +1,43 @@
+{
+  "name": "Stitch",
+  "subtitle": "Agente in Incognito",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "ad3cc196c4a8bfac7a7bfd593107b6b1e1bebe29",
+  "culture_invariant_id": 525,
+  "sort_number": 560,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Alieno"
+  ],
+  "flavor_text": "Per essere un elegantone così appariscente, è sicuramente difficile da individuare.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) NASCONDERSI Mentre questo personaggio si trova in un luogo, ottiene Protetto. (Gli avversari non possono sceglierlo se non per sfidarlo.)",
+  "card_identifier": "89/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=3826fbabf71e9f7a3c29801feaf8909e00582405b044c4cfd4f34932bd58dd52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e86177371938fd94cfbbe426dc2fe3665805dabd0b819d0d7558dc1e68645cd8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=ad0c02169433da8b2c7125726b2dae0fc82327b00a81cb2490be60782a38095a",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

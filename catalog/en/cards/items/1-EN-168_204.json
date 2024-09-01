@@ -1,0 +1,38 @@
+{
+  "name": "Fishbone Quill",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Tanisha Cherislin",
+  "deck_building_id": "71199ad50613a681494b9d5ea29643eddfd5a045",
+  "culture_invariant_id": 168,
+  "sort_number": 168,
+  "additional_info": [
+    {
+      "title": "FAQ - Inkwell",
+      "body": "Q: If I use the ability of Fishbone Quill to put a card from my hand into my inkwell, should I show my opponent the card I choose?\r\n\r\nA: No. If an ability lets you put any card into an inkwell (regardless of whether it has an inkwell icon), you don’t show the card to opponents.\r\n"
+    }
+  ],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "If you want to cross the bridge, my sweet, you've got to pay the toll. —Ursula",
+  "rules_text": "GO AHEAD AND SIGN — Put any card from your hand into your inkwell facedown.",
+  "card_identifier": "168/204 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=97ab0bd8754c4b1fc0ad2a0af8a2e3c408ba356230299e9f48ff680c49e2b0e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=221e4341410974efb6903bfe13e806e2c3f966740c1621725995a0549684ae0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=a7283502245d29fb0014e613987bd7e196b63e97c93a03eb45ac1ce3093d1cb7",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

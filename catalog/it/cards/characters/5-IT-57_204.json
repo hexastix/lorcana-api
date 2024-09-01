@@ -1,0 +1,41 @@
+{
+  "name": "Re di Cuori",
+  "subtitle": "Monarca del Paese delle Meraviglie",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "0daff0afef432846506fd1740303222ded737937",
+  "culture_invariant_id": 1013,
+  "sort_number": 1021,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Re"
+  ],
+  "flavor_text": "Per ordine del re. Hai sentito cosa ha detto!",
+  "rules_text": "COMPIACERE LA REGINA — Un personaggio impegnato a tua scelta non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "57/204 IT 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=a912782f0af5e8f65fd556daadd0a6e223e160db6b8c61181b30543a1ccec61d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=769240aa2ef52b0ec1872138f8c97e781cf52a3f4c098c517bc4adae038b2b60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=6e5ab4509d92d925a97cf966aca48242443d41f79b26e281b6cb478661d4b324",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

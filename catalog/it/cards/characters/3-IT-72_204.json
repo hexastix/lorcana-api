@@ -1,0 +1,40 @@
+{
+  "name": "Flotsam",
+  "subtitle": "Marmaglia",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Brian Kesinger",
+  "deck_building_id": "2bb99c6ebaa84faa87f503ede5ffc12cd846451b",
+  "culture_invariant_id": 508,
+  "sort_number": 543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Ursula ha bisogno di leggenda per portare a termine il suo piano...",
+  "rules_text": "COPPIA INQUIETANTE I tuoi personaggi chiamati Jetsam ricevono +3.",
+  "card_identifier": "72/204 IT 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=4dde5ed3d56b4e419169cd4a5f704b17ab90c1a3d29fa710d969159b57513a8c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=f825ca3c74d475e69c5d839905b1fecc47e474a9001802f16b784ea00b0d520c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=e485364f11f1476efb48230f8e899a8e42eead7c8704892cee7f90044b6511b5",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

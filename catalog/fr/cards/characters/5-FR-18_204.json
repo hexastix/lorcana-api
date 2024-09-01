@@ -1,0 +1,41 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Exploratrice résolue",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "e6a16884d3a180a9a112b8005b0067ebbaccd869",
+  "culture_invariant_id": 974,
+  "sort_number": 982,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Examiner chaque pièce de l’Illuminarium, trouver les chromicônes, réparer l’Illuminarium, ce n’est pas si diff… Attendez, c'était quoi ce bruit ?",
+  "rules_text": "",
+  "card_identifier": "18/204 FR 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=6bfbfd0e4cdb0821d990d61377608e89d09f7c66399890faec374205b9f791f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=ce45bb68e9fbea680dba05c4cd35689aaa6c5cbda460dc0693f9b3d0b9ae7d70"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=f0c974f4064caf73229e2ebad8ef75a8e024ba52c55be9ef1d00b1e2f45d6585",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

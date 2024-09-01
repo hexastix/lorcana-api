@@ -1,0 +1,33 @@
+{
+  "name": "Break Free",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Brian Kesinger",
+  "deck_building_id": "8248c978719b5c75b9b75c52ba7e436f3fc416db",
+  "culture_invariant_id": 1083,
+  "sort_number": 1091,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tink darted from the shattered lantern in the blink of an eye.",
+  "rules_text": "Deal 1 damage to chosen character of yours. They gain Rush and get +1 this turn. (They can challenge the turn they're played.)",
+  "card_identifier": "127/204 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=d56f42f473bb02490e3c23ab1ba13787dff1327578ec712e7795939b8f485792"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=6cd398a26c07d0d22c8e1785a24bf583393e0a51c9dc6e0c8a7c2e43a029f2a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=bf66f34a5fbdb2d20dd4602b402504d12270624f89aea364bb77e07ca490ac40",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

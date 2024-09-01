@@ -1,0 +1,41 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Imperial Captain",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "a4c9689a53f850f8139696171670ec7120353194",
+  "culture_invariant_id": 873,
+  "sort_number": 883,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Captain"
+  ],
+  "flavor_text": "Immovable as a mountain and fierce as a dragon—the Empire's finest warrior.",
+  "rules_text": "",
+  "card_identifier": "182/204 EN 4",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=fe2929c401946c9e20121ea4e66d700d6083b1e2ff74f7fae2ca8f49ab163b12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=274c166a33f8b23cfed59e1799cb697a9e30acce95f0b227eae36144657e1d37"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=291826d1ac69c416ce153fd1b8dace95eb21f24eb64a970470f5c36c0ef7b174",
+  "card_sets": [
+    4
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

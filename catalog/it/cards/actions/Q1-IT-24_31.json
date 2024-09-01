@@ -1,0 +1,32 @@
+{
+  "name": "Risacca",
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Ilaria Sposetti",
+  "deck_building_id": "7cac1c0104c9645b1d98f1f400ac8928a9eabcbb",
+  "culture_invariant_id": 937,
+  "sort_number": 957,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Esilia tutti i personaggi, gli oggetti e i luoghi degli avversari con costo 2 o inferiore.",
+  "card_identifier": "24/31 IT Q1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=f68198414f0d2e62ba8cabb18ca76c61d81abbc2fb59963c863795dc0e9df274"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/quests/1/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=7f389bbd51a39058cad0d0da89ef79dba63e805769c974aaf9cb964ed9a5cc21"
+    }
+  ],
+  "special_rarity_id": 2,
+  "foil_type": "None",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": []
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Kämpfender Prinz",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Noukah",
+  "deck_building_id": "e836b4740f7b37d1bb09ffe4674ef38b8b93c2ed",
+  "culture_invariant_id": 628,
+  "sort_number": 663,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Das Geweihte Land soll im alten Glanz erstrahlen.",
+  "rules_text": "DANK AB ODER KÄMPF Wenn du diesen Charakter ausspielst und jedes Mal, wenn er in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du eine Möglichkeit auswählen: • Ziehe 2 Karten. Wähle danach 2 Karten aus deiner Hand und wirf sie ab. • Füge einem Charakter deiner Wahl 2 Schaden zu.",
+  "card_identifier": "192/204 DE 3",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=2dc265189b047c67809bdc4890028cb48f8b2f9f5553c321c01f9da772dd30d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=740c5864cc50f18b71bccaae7e140f7d8e8d88ffb77f192c6c46786507de4e6c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5160747183f5792183a8df0eb9b17b45571742e7a1802c0ee695aa8f9ff8dfb1",
+  "card_sets": [
+    3
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

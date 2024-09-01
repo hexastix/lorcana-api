@@ -1,0 +1,42 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Heldenhafter Bandit",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Nicholas Kole",
+  "deck_building_id": "cfc67a48052e7fe6021c909c8e07562aba8240e6",
+  "culture_invariant_id": 104,
+  "sort_number": 104,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Aladdin-Charaktere auszuspielen.)DREISTE HELDENTAT Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, sammelst du 2 Legenden und alle gegnerischen Mitspielenden verlieren je 2.",
+  "card_identifier": "104/204 DE 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=7c23be17f4eb22a497c3e4d6a82eadab659fc89cbd61e0ade575ee94909d6910"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=ab4ef40ccc459ea33d729c746c487f8f9e9087c6ad079a8feb43c17d9c4c32b0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=13af492004fceb2e47989920ae7b089dfad40c2a99ab2f5a9b538de7b2b6a089",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}
