@@ -1,0 +1,12 @@
+on:
+  schedule:
+    - cron: "8 8 * * *"
+
+jobs:
+  check-for-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: "actions/checkout@v4"
+      - run: "rm -r catalog"
+      - run: "python3 sync.py"
+      - run: "git diff --exit-code"
