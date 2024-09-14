@@ -211,6 +211,20 @@
   "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "news": [
     {
+      "title": "New Set...",
+      "subtitle": "Azurite Sea",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Shimmering Skies",
+      "subtitle": "New Stories",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
+    },
+    {
       "title": "Ursula's Return",
       "subtitle": "New Stories",
       "target_type": "WebPage",

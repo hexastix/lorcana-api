@@ -333,6 +333,20 @@
   "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "news": [
     {
+      "title": "Neues Set…",
+      "subtitle": "Azurblaues Meer",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Himmels-Leuchten",
+      "subtitle": "Lies die Geschichten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
+    },
+    {
       "title": "Ursulas Rückkehr",
       "subtitle": "Lies die Geschichten",
       "target_type": "WebPage",

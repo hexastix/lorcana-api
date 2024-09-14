@@ -299,6 +299,20 @@
   "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "news": [
     {
+      "title": "Nouveau Set…",
+      "subtitle": "La Mer Azurite",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Nouvelles histoires",
+      "subtitle": "Lire maintenant",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=cb3828b24560a480749d279d1de6c411701dc851a6fec1a1cae82034cd99861d"
+    },
+    {
       "title": "Nouvelles histoires",
       "subtitle": "Lire maintenant",
       "target_type": "WebPage",
