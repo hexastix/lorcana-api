@@ -283,16 +283,16 @@
   },
   "special_rarities": [
     {
+      "name": "Scénario",
+      "id": 2
+    },
+    {
       "name": "Challenge",
       "id": 3
     },
     {
       "name": "Promo",
       "id": 1
-    },
-    {
-      "name": "Scénario",
-      "id": 2
     }
   ],
   "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
