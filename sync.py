@@ -51,29 +51,12 @@ def main():
         cards_dir = lang_dir / "cards"
         cards_dir.mkdir(exist_ok=True)
 
-        characters_dir = cards_dir / "characters"
-        characters_dir.mkdir(exist_ok=True)
-        for character in contents["cards"]["characters"]:
-            with (characters_dir / card_filename(character)).open("w") as out:
-                json.dump(character, out, indent=2, ensure_ascii=False)
-
-        locations_dir = cards_dir / "locations"
-        locations_dir.mkdir(exist_ok=True)
-        for location in contents["cards"]["locations"]:
-            with (locations_dir / card_filename(location)).open("w") as out:
-                json.dump(location, out, indent=2, ensure_ascii=False)
-
-        items_dir = cards_dir / "items"
-        items_dir.mkdir(exist_ok=True)
-        for item in contents["cards"]["items"]:
-            with (items_dir / card_filename(item)).open("w") as out:
-                json.dump(item, out, indent=2, ensure_ascii=False)
-
-        actions_dir = cards_dir / "actions"
-        actions_dir.mkdir(exist_ok=True)
-        for action in contents["cards"]["actions"]:
-            with (actions_dir / card_filename(action)).open("w") as out:
-                json.dump(action, out, indent=2, ensure_ascii=False)
+        for card_type in ("characters", "actions", "items", "locations"):
+            card_type_dir = cards_dir / card_type
+            card_type_dir.mkdir(exist_ok=True)
+            for card in contents["cards"][card_type]:
+                with (card_type_dir / card_filename(card)).open("w") as out:
+                    json.dump(card, out, indent=2, ensure_ascii=False)
 
         del contents["cards"]
         with (lang_dir / "catalog-no-cards.json").open("w") as out:
