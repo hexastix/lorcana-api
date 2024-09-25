@@ -232,27 +232,6 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
     },
     {
-      "title": "Challenge Toronto!",
-      "subtitle": "Read Article",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/events_challenge2024_toronto_announcement",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
-    },
-    {
-      "title": "News from D23!",
-      "subtitle": "Read Article",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/events_d23-2024",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=648995f6277501815bd28d81fe861060fc12f6872f8cbf8245337fafb75514c8"
-    },
-    {
-      "title": "App Update",
-      "subtitle": "Learn More",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/set5-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=c0e9afa219cf3d0f5ccb05e51a78c8dd9d8fff619eb4036d3b7d3411ba340c7d"
-    },
-    {
       "title": "Artist Spotlight ",
       "subtitle": "Nicholas Ky",
       "target_type": "WebPage",
@@ -265,13 +244,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/en-US/news_/july2024-errata",
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
-    },
-    {
-      "title": "Lorcana at Gen Con",
-      "subtitle": "Learn More",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/gencon2024-details",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=a5024278c1ff72f94978c0f5346c151bb2839db81d35efde59857a2627c723a4"
     },
     {
       "title": "Deep Trouble",
@@ -288,43 +260,11 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
     },
     {
-      "title": "New Event",
-      "subtitle": "Lorcana Challenge",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/challenge-announcement",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
-    },
-    {
       "title": "COMPETE IN…",
       "subtitle": "Set Championships",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/en-US/news_/inklands-championships",
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
-    },
-    {
-      "title": "First Look",
-      "subtitle": "Card Previews",
-      "target_type": "SearchResults",
-      "target_object": {
-        "expansions": [
-          "Into the Inklands"
-        ]
-      },
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
-    },
-    {
-      "title": "Announcing",
-      "subtitle": "Into the Inklands",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news/s3-announcement-1",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=88818757298da1212cff649b9b4bfd1542e711277abd945e390ed0b0f6ffdb49"
-    },
-    {
-      "title": "Floodborn",
-      "subtitle": "Mass release",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news/s2mass_release",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=8c77d3882abd2b21e4f5ec7b56bd3b08991d1cd33cf34d908d4502e0a781d8b6"
     },
     {
       "title": "ENCHANTED",
