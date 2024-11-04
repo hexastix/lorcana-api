@@ -16,7 +16,7 @@
     "Aiutante"
   ],
   "subtypes": [
-    "Classico",
+    "Immaginato",
     "Alleato"
   ],
   "flavor_text": "Sembra parte di un cristallo più grande!",
@@ -25,11 +25,11 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=be0c531e508fe27d49133ffb457b5f3d27a917df4f1548d3f7b3535da92bfe2e"
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=bf460f6b328954038c897db01d059ad3763c8b9fee85582782447b910d302d0f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=f48d6407445f88da7218042bdedc1bf334c5cce916e82c46cb1224049f10bed3"
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=c08834deafddcafe57c3559d869fc41238533c76a166de82572d4596f5e51a35"
     }
   ],
   "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=bd3a878ffc83b2e03119fb44590a093900bdabc84414312412bb9735fe31cd35",
