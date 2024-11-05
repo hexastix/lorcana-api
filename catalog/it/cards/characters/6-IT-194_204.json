@@ -1,0 +1,48 @@
+{
+  "name": "John Silver",
+  "subtitle": "Capitano Severo",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Diego Machuca",
+  "deck_building_id": "a35533a3e2773a11318e05fb7d0179e1f4f32b3d",
+  "culture_invariant_id": 1393,
+  "sort_number": 1392,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato John Silver.) Resistere +2 (Il danno inflitto a questo personaggio è ridotto di 2.) NON STARTENE LÌ IMPALATO! All'inizio del tuo turno, infliggi 1 danno a ogni personaggio avversario preparato.",
+  "card_identifier": "194/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=a502d685bfcbc3e3ca5c0308569551f9b5c9eabd52e94f1c5895e939f126b273"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1584adfcb679acf8da67b4055c89ec3bc6901126a589ee7459951b75cc749ad9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=bf2a74c4bafb7234d2deb88b5b134bd66ff220248091c3d7ad08a7bf741313e5",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3cfcfa2658283b2fac0e8c108074109cadab868c58ea2234da605d803e51e20e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Spensierato",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "68a34231c98071a16be76378488ed72f577175cd",
+  "culture_invariant_id": 1204,
+  "sort_number": 1203,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Guarda l'acqua, e quegli uccelli! Wow... Aspetta che anche Timon e Pumbaa vedano tutto questo!",
+  "rules_text": "",
+  "card_identifier": "5/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=f17b2762f602d5bdc93a70d4ab10bedd48c845d1bc093f0f87543e534374b8ea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=503820151322d96efcc028542b069d02ad60e9c0e6b44f9a174fb0d269d81ded"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=3acef0306252ed26012fcd01279c6845cc177a58a6c3ed15301bf4b297cb428c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

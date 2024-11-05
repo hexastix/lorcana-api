@@ -1,0 +1,40 @@
+{
+  "name": "Tootles",
+  "subtitle": "Bimbo Sperduto",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Taraneh",
+  "deck_building_id": "206cb5dd9b005f75a17ff692982bd3e009e51812",
+  "culture_invariant_id": 1275,
+  "sort_number": 1274,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ogni Bimbo Sperduto ha un suo nascondiglio preferito. Tootles ne ha dodici.",
+  "rules_text": "",
+  "card_identifier": "76/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=3ab1185e3643bcfe0ea6b0db204e81fe159ef6af2d5d997f14e823660cabd7ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=fef7e26924cfc7d23a2eecc0961ce8711e966908c7a20848a866b3d6be447bf7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=12e1c3e7becdc2cdf064cf0d650c13021aaadcee08ca920f73a5d55b3e8f8325",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

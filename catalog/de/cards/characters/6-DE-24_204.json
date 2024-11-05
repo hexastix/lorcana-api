@@ -1,0 +1,39 @@
+{
+  "name": "Mr. Litwak",
+  "subtitle": "Spielhallenbesitzer",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amanda Duarte / Julio Cesar",
+  "deck_building_id": "2b218e9fef97146992d8ada33a9b4abcc9bc1c1b",
+  "culture_invariant_id": 1223,
+  "sort_number": 1222,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Reinspaziert. Schön, dass ihr alle da seid.",
+  "rules_text": "DIE GANZE BANDE IST HIER Einmal während deines Zuges, wenn du einen anderen Charakter ausspielst, darfst du diesen Charakter bereit machen. Er kann in diesem Zug nicht mehr erkunden oder herausfordern.",
+  "card_identifier": "24/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=0680b45f96b37b9fec19ed933305a944390f7772332d82da2bd086388e6f5fac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=7a8844d57dd87e87213af4e062f768e9e799342d245fea25b25887787b19d6c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=6f06f9ab1336c38e630ab4c4032cb0483b775951ee1ab3fd6b1680884b1b2d82",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

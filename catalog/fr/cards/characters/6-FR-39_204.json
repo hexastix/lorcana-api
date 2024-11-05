@@ -1,0 +1,44 @@
+{
+  "name": "Sisu",
+  "subtitle": "Dans son élément",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "0bbeceed403764a29bc21ac53a1d7095e9c56321",
+  "culture_invariant_id": 1238,
+  "sort_number": 1237,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu",
+    "Dragon"
+  ],
+  "flavor_text": "J’suis un dragon d’eau. J’suis dans l’eau. J’suis dans mon élément.",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "39/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=e347cc1148816ecc3bddd5262fcad66b8fcd9ee415b1c379aa9d0f48102bac6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=157083ca8a86b80f99e380ad9b12ba2208cb4eff00258c0d52cbab23ae7c5f57"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=debde89debdb8a06f54d58aaccf560c189c5a3c16ebb251ef2a4290c605c5333",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

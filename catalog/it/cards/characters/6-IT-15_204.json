@@ -1,0 +1,42 @@
+{
+  "name": "Judy Hopps",
+  "subtitle": "Coniglietta Intraprendente",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Lauren Barger",
+  "deck_building_id": "064fed608ce47eeb3e4ae4b15e6fc7f3e58763e1",
+  "culture_invariant_id": 1214,
+  "sort_number": 1213,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) UN AIUTINO? Alla fine del tuo turno, puoi preparare un tuo altro personaggio a tua scelta.",
+  "card_identifier": "15/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=af130e43e0d1388cff4a664efc19e79370606745481cb4a2883936594688a17b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=a1e7179c64b1e572cea439c88a0d81111fff53490bcb3b4c41273b2b766875c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=75fd72c7d3afe81dc717bef1fd3c62cd505685ae7f41667def5319b70be65489",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

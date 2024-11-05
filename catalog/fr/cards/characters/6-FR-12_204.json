@@ -1,0 +1,40 @@
+{
+  "name": "Tic",
+  "subtitle": "Chef des Rangers",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "ef51cbc17715fb350e0780b289c630d1a5e5a916",
+  "culture_invariant_id": 1211,
+  "sort_number": 1210,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "L'IMPORTANCE DE L'AMITIÉ Tant que vous avez un personnage Tac en jeu, ce personnage-ci gagne Soutien. (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "12/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=da810956da38f18ffaa836ef89dcc079b628cfb882841b8c3e86805c924e8667"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=2442943bdb645e625898b01448c7282d1d5ca60d39b35d2dfefe6dbe0fe24c46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

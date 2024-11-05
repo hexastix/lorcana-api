@@ -1,0 +1,42 @@
+{
+  "name": "Ruzor",
+  "subtitle": "Leurre astucieux",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Eri Welli",
+  "deck_building_id": "52eab6990d88727659a47fd96cbda02e69229a99",
+  "culture_invariant_id": 1340,
+  "sort_number": 1339,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) EN INTERPOSITION Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, choisissez un autre personnage qui gagne Résistance +1 jusqu'au début de votre prochain tour. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "141/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=b0e47b637c1b126ad451cf85046af3f1c051d18cceee1bbdb57c78c4e094761d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=fd1d2025b7eca888c0cf4092a41e26ce9c0171018db34f3e5756fe33c87dd661"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=37c40635ef7a5eef4590ccfaee586850c5f3b916fe29817c70216e6b15a022ec",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Arrow",
+  "subtitle": "Erster Maat der Legacy",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "a814e468ab73333f21ba1a0d58cb731f9dcf1521",
+  "culture_invariant_id": 1381,
+  "sort_number": 1380,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Alien"
+  ],
+  "flavor_text": "Wir halten uns stabil, Kapitän. Trotz dieses Windes. Und dieser Wellen.",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "182/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=c053004c868010592d9f890ea53bd665bebdf89a2c42e19c04a5316cbdb58859"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=0d9cfcb32b52d4828fa92f2ed32b8429450538a40fd249409190bb5a433eb71c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7f385dceb9a82fe01daeba8718dcc6ba4458cfc800d4497ffe7611670e0cba1f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

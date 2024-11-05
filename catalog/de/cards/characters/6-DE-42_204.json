@@ -1,0 +1,41 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Schamane der Savanne",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Giulia Riva",
+  "deck_building_id": "fc3769ff0bfc5273b01c299d10e4e87eb766b81d",
+  "culture_invariant_id": 1241,
+  "sort_number": 1240,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Magier"
+  ],
+  "flavor_text": "Die Zeichen lügen nie. Die Schlange denkt, sie hat alles durchgeplant … Oh, ho, ho! Sie hat die Eule vergessen. Es gibt noch Hoffnung!",
+  "rules_text": "",
+  "card_identifier": "42/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=ff40d8ace18e0440c335c5b0aa38e9bdd7d3c652a64605c2a865be2c390c5e38"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=29a960cdd325efaa522990e14b9c46484e1922f292feba27a472c71c91af4af4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=79f5eb7337e2c040530a5c48f986cd78500329e654f61bf1d7abbc27175dcd81",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

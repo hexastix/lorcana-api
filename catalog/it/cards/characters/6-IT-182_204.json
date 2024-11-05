@@ -1,0 +1,43 @@
+{
+  "name": "Signor Arrow",
+  "subtitle": "Primo Ufficiale della Legacy",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "a814e468ab73333f21ba1a0d58cb731f9dcf1521",
+  "culture_invariant_id": 1381,
+  "sort_number": 1380,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Alieno"
+  ],
+  "flavor_text": "Restiamo saldi, capitano. Nonostante questo vento. E queste onde.",
+  "rules_text": "Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.)",
+  "card_identifier": "182/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=f4c75eefe88c972a5ee336693e02347df3046aebe965074613b05375a3970988"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=b21029215481f7e433a0239fadb4b2fe492412e1081395c5e39a0b92b078f4f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7f385dceb9a82fe01daeba8718dcc6ba4458cfc800d4497ffe7611670e0cba1f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

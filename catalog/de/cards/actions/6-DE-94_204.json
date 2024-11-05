@@ -1,0 +1,33 @@
+{
+  "name": "Bereit zum Entern!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Toni Bruno",
+  "deck_building_id": "4e596a3444f05ec541e3386bc403faa66729f7d0",
+  "culture_invariant_id": 1293,
+  "sort_number": 1292,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Bringt mir den Schatz, bringt mir das Schiff und bringt mir Peter Pan.%–Käpt’n Hook",
+  "rules_text": "Gib einem Charakter deiner Wahl in diesem Zug +2. Wählst du einen Piraten, dann gib dem Charakter stattdessen +3.",
+  "card_identifier": "94/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=c3d3a1d0f4dab577601360d2e01c6a85c6b82b68b44e3a6f53f079b57c4311c1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=0e78af8c9a47ccb53fc9f2ae0e9e7cb8f9731499192b2222486c630117f94d03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=3d11a48a6b401da9f32726b248c1481c9b575125a0bcf0cacb8d5ab8a59b986d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

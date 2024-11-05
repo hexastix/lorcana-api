@@ -1,0 +1,41 @@
+{
+  "name": "Herr Smee",
+  "subtitle": "Entschlossener Maat",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "2066c7b87a1294f2092f7a77cdef7479b815708d",
+  "culture_invariant_id": 1374,
+  "sort_number": 1373,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Käpt'n Hook wünscht Sie zu sprechen.",
+  "rules_text": "GUTER FANG In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "175/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=a2d4ec5b19a82f6b34c256c8090f1a3fbae6aad6502f57bb1ef52cc18990758a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=78e33020966bf4ca7b6bdfbb192479b86859b8885db0c5eb4596e4a1b2dd234f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=bef79725ea7113086c075e15fccd8c0849c247ae92b5e2b4e1c641f45990035d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

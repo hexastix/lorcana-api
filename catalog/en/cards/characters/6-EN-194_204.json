@@ -1,0 +1,48 @@
+{
+  "name": "John Silver",
+  "subtitle": "Stern Captain",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Diego Machuca",
+  "deck_building_id": "a35533a3e2773a11318e05fb7d0179e1f4f32b3d",
+  "culture_invariant_id": 1393,
+  "sort_number": 1392,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift",
+    "Resist"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named John Silver.) Resist +2 (Damage dealt to this character is reduced by 2.) DON'T JUST SIT THERE! At the start of your turn, deal 1 damage to each opposing ready character.",
+  "card_identifier": "194/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1e3b62881a8480ebe26fbf769ac22af79097ed45cae49d0de40da0f73846d4b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=6e521f1620f84c2531683d8a0bd5b4f9df864db776b0146ce546019549dbbe8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=bf2a74c4bafb7234d2deb88b5b134bd66ff220248091c3d7ad08a7bf741313e5",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3cfcfa2658283b2fac0e8c108074109cadab868c58ea2234da605d803e51e20e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

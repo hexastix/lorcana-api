@@ -1,0 +1,42 @@
+{
+  "name": "Pluto",
+  "subtitle": "Wachhund",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "9c5bb650890624e6318d5c6b2158c61235bdcf01",
+  "culture_invariant_id": 1385,
+  "sort_number": 1384,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) GUTER JUNGE Solange dieser Charakter unbeschädigt ist, erhält er +4.",
+  "card_identifier": "186/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=5ae941cf25abd27d7030b028fa6f95b92830489c93c109bcebe883e065914547"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=94be9a65b164a8fe49f3eec10d631606698b1ed4edb979c38838cf5d6bde6ff7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=1fca83c68a581cae0c8a9bfccd5b5bac0f165f80c291221ce4b60e6154b9fee6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tac",
+  "subtitle": "Ami dans le besoin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "dcea84da6960a81b9536b7989764a6b80c735f6d",
+  "culture_invariant_id": 1206,
+  "sort_number": 1205,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Mais Tic, dormir, c'est ce que je fais de mieux!",
+  "rules_text": "PARTENAIRE DE TIC Ce personnage entre en jeu épuisé à moins que vous n'ayez un personnage Tic en jeu.",
+  "card_identifier": "7/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2d2d4761c054d71328661c0932d617fad74975c0a31f078d7441beca292b1e53"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=d1aa78d43fd601d82db903ba1ed9f06d0f8eb808239f8f86f18a24e26ee1df30"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=57e43fbb01c11bcb18e3c80a875e4fab4f6d1ea8359635a05c5193d03145bc6e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

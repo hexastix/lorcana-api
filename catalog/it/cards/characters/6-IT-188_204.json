@@ -1,0 +1,42 @@
+{
+  "name": "Cobra Bubbles",
+  "subtitle": "Ex Agente CIA",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Eri Welli",
+  "deck_building_id": "e3e47e553b80da5e66909453f91e285f5af8e7bb",
+  "culture_invariant_id": 1387,
+  "sort_number": 1386,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) CONSIDERARE QUELLO CHE È MEGLIO 2 — Pesca una carta, poi scegli e scarta una carta.",
+  "card_identifier": "188/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=671780f183477f6da7c06af60deefc9776363f821fbbd913c2f5ae810a1db346"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=f62fb40f784a0a55849f7da337dd1e22963253643e58bd2ca5d72d4579f80e50"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=3f7ca01cfe8d719107ac79067b7c6358ab47f906371093510f3baf336c42061a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

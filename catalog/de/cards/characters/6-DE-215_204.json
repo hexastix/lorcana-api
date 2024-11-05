@@ -1,0 +1,45 @@
+{
+  "name": "Tigger",
+  "subtitle": "Im Krähennest",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "dfa8a8096bd718d380931f64e28ae3d4947a6313",
+  "culture_invariant_id": 1414,
+  "sort_number": 1413,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Tigger",
+    "Pirat"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) SCHWINGT EURE SCHNALLEN Jedes Mal, wenn du eine Aktion ausspielst, erhält dieser Charakter in diesem Zug +1 und +1.",
+  "card_identifier": "215/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=6f9b7d16e3c83caf8215ffa6a5f0e81257f27f13f1d7bc78b5b0b0131bf58d6a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=556655c7339cd799374309d9c711262d3f1fc7d4af3dc276608aadaa51973d7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=e058e150cc0ea325c63346859ea7d3e847132f6a77012cd4e19d88818be15a1d",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

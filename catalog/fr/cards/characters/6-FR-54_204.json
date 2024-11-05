@@ -1,0 +1,42 @@
+{
+  "name": "Sisu",
+  "subtitle": "Dragon fédérateur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "587243dff13c71d2996bab2b8c17b82e1f0179ae",
+  "culture_invariant_id": 1253,
+  "sort_number": 1252,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Dieu",
+    "Dragon"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA CONFIANCE ENGENDRE LA CONFIANCE Chaque fois que ce personnage est envoyé à l'aventure, révélez la carte du dessus de votre pioche. Si la carte révélée est un personnage Dragon, placez-la dans votre main et répétez cet effet. Sinon, remettez-la soit sur le dessus de votre pioche, soit en dessous.",
+  "card_identifier": "54/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=d589fbf1c9f989e0b92620abe231ea66e258a672e197075b416debbf8f16ef15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=83475929d915a39190e398cdf11e5905b7933c08d13d3e19d79e005a10b2038e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=8c2cdc08f4d3fdf733389bc6786120c9344a6e5651919fe4808d0b8a98e79477",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Goofy",
+  "subtitle": "Schiffbauexperte",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Max Ulichney",
+  "deck_building_id": "3ba92e8b5e5401e6d37f5243fdc400fe6c04ceee",
+  "culture_invariant_id": 1288,
+  "sort_number": 1287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) KLUGE KONSTRUKTION Jedes Mal, wenn dieser Charakter erkundet, erhält ein Charakter deiner Wahl bis zu Beginn deines nächsten Zuges Behütet.",
+  "card_identifier": "89/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=2bdc04dd0fac0a3141223a55202e8efd2a5b85a129ea7fe33dc26f1d9efa4282"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=8c638be55c1f570a5446b5f3c50a09a67164b04677885da9b9ec75bf519c8cf7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=db95ff6c757a449c12e4944577315c8b30dced1c24440e58edfb94dc3ef2d612",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

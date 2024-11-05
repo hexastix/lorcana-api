@@ -1,0 +1,33 @@
+{
+  "name": "Pooh Pirate Ship",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "1740993c2d9c41b47477e050c6664ad461d7aa89",
+  "culture_invariant_id": 1231,
+  "sort_number": 1230,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The friendliest ship on the Azurite Sea.",
+  "rules_text": "MAKE A RESCUE , 3 — Return a Pirate character card from your discard to your hand.",
+  "card_identifier": "32/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=1185fa93c89d86b432e7c704a2496126d7cbf28b664f45d18bbb22dcc5d32688"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=0135118d839c102bd93fe8f37c5272fbab092069ba8783580021e03def07ff01"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=fa25cb218c21e84311c19cb48ec1f07a669fcfff7c1fd0ecc5f541eee90956f6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

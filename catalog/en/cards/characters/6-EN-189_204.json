@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Captain Crankyhead",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "de1dc7e183d6fd495d31f00169f15c86b7f0e656",
+  "culture_invariant_id": 1388,
+  "sort_number": 1387,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Alien",
+    "Captain"
+  ],
+  "flavor_text": "Strength in numbers is overrated. I prefer my own strength.",
+  "rules_text": "",
+  "card_identifier": "189/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=b2d69e70098cc21252b7fb05afaee6ce15e1e19bba836fc9ac1c4cbfdc7de4cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=8f3cf1f8ebd682d2ebed43206d92769e7596c47160079dd628c28d252fa56333"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=7f0aff080c3cf5376ac2cb2d5a5f9c9123da43a762f6774d452ad7053c6a60d3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Prince Naveen",
+  "subtitle": "Vigilant First Mate",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Francesco Colucci",
+  "deck_building_id": "c0abf4ad2073b023e3021c1547836aab812568ff",
+  "culture_invariant_id": 1208,
+  "sort_number": 1207,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift",
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Prince Naveen.) Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "9/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=d671459f844ad9d281534a71349f7bec2438a3e4addaedff83f53ba459dc67f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=81b639b6f90c0ab902937b20543d92b1cd05bef9d6b1d88bd928f37556809b96"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=06884a3c1f023a3a60b73147e6e2de5f6907fe4f1df583508c85d60d72fa613d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

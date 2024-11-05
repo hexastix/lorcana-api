@@ -1,0 +1,40 @@
+{
+  "name": "Lilo",
+  "subtitle": "Entfesslungskünstlerin",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1201,
+  "sort_number": 1200,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Ihr könnt mich nicht von dem Spaß ausschließen!",
+  "rules_text": "KEIN ORT, AN DEM ICH LIEBER BIN Zu Beginn deines Zuges, wenn diese Karte in deinem Ablagestapel ist, darfst du sie erschöpft ausspielen.",
+  "card_identifier": "2/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=f6bdfeaf4afb06da79ec862ad29fe578ba1649ea500311c5a109eb52b1944253"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=59ce90137fc05867acf1fe05e3c928c4e37512ee984cedce6fce8df6ea00e7e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=1dab5761f96cf759d113b18922fed52b85660ab9cc0f7020a063483d8b74680b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

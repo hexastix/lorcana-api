@@ -1,0 +1,40 @@
+{
+  "name": "Tac",
+  "subtitle": "Ranger malicieux",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "056e0b84434caa8b7fbcf65fb24fb0dd2a8f4473",
+  "culture_invariant_id": 1217,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "BLAGUEUR À LA NOIX Lorsque vous jouez ce personnage, vous pouvez placer les trois premières cartes de votre pioche dans votre défausse pour choisir un personnage qui subit -3 jusqu'au début de votre prochain tour.",
+  "card_identifier": "18/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=56dabe1e473e88adb0244289d325e37e5d71f570178969a3d331e46a8fd698e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=5f3cbe0741eebb33ae52dbe0dce11a57e7cf84b9f027f828362c21b64bac0196"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=6b77195e87073a4424948fb60e6d61e48ac7e248796f0f7186269495c120473c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

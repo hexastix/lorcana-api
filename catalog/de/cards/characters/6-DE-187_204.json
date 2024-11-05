@@ -1,0 +1,40 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Nachtwächter",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "2b1fcd131a99f947ccd1d9c4c82fc6ae8c9837e1",
+  "culture_invariant_id": 1386,
+  "sort_number": 1385,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Oje, Donald hatte recht – es ist gruselig hier draußen im Dunkeln!",
+  "rules_text": "UNTERSTÜTZUNG Deine Pluto-Charaktere erhalten Robust +1. (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.)",
+  "card_identifier": "187/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=0a70b1e9d32eb607db9a34f238e611648aa176c89976a3d3f6069030c1421966"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=ed472b16d519642c9ef9cd44101c7b612f3f2e73fe1c6590edd79d1392151681"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=e7b24efc537e06ecfc9a883f36aa099ff95dec10889c6f1cf77bcdbdb1557e4d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

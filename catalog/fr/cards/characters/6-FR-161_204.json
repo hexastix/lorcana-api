@@ -1,0 +1,42 @@
+{
+  "name": "Alice",
+  "subtitle": "Marin avisée",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "c1525cc95d60ab6fa0f38486bcaaf6379619ef67",
+  "culture_invariant_id": 1360,
+  "sort_number": 1359,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) NAVIRE EN VUE! Chaque fois que ce personnage est envoyé à l'aventure, choisissez un autre de vos personnages qui gagne +1 et Hors d'atteinte jusqu'au début de votre prochain tour.",
+  "card_identifier": "161/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=593ea3781fed2a5acdc562bc6323a8abbb55b7c4a063cbbf8a3ccd32aa195f36"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=450ccb854ce8611ccfb992c63b5103d9c3288e490ce9d393f08abaaa115a4936"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=a80b3edef861b99f10e917fea0c93c313f8890875b9b89fda924231f3b83719e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

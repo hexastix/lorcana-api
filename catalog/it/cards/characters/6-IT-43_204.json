@@ -1,0 +1,43 @@
+{
+  "name": "Trilli",
+  "subtitle": "Ali Rapide",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Malia Ewart",
+  "deck_building_id": "cacdb6abf873de6f92bea008b9b53b48adb1624c",
+  "culture_invariant_id": 1242,
+  "sort_number": 1241,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Fata"
+  ],
+  "flavor_text": "Sfreccia tra le onde senza che una sola goccia di acqua la tocchi.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "43/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=0e3d332287768fdf25ea3923808fbf8aeb679b96449de311f970a91c87ec68ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=6d9a06933223cb11ec86bd8b31ce5d1c166725a186847e146ba4fa615862c391"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=812f513b26968487b357f593571274e88af86ebb4df727be99a96b578634c793",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

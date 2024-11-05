@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Disguised Detective",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "3888d0922245bc3a1bdc014b65a50848f7973819",
+  "culture_invariant_id": 1290,
+  "sort_number": 1289,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Detective"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Basil.) TWISTS AND TURNS During your turn, whenever a card is put into your inkwell, you may pay 1 to have chosen opponent choose and discard a card.",
+  "card_identifier": "91/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=88f26cef2c7349065c105b9f80bd6e3a83d182582ef675cae7fd5c78324e6e38"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=263deeb61d95f268f232a5dfe1a10ff1667847abaca19b060c12237a7ea8c774"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=d0f5e22e5ef3914f63eca56607651bfb9ec9ad2753608ea25b592d4b597f23a3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

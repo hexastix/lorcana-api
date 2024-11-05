@@ -1,0 +1,40 @@
+{
+  "name": "Kohut",
+  "subtitle": "Marine Fidato",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "ccc49ec3dc6fdfb401d2610c418b1da5fd819cbe",
+  "culture_invariant_id": 1377,
+  "sort_number": 1376,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Signora! Sono uno strumento altamente addestrato di superiorità tattica! Forse potremmo trovare qualcun altro per fare la manovalanza! Signora!",
+  "rules_text": "",
+  "card_identifier": "178/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=ab4d295ecf15d9820c40441f1c596d645159a16a6eb8997f5bf9b0bc2ad3e373"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=f08a99d7b2c4f43f8ec29af74dc7e28badca9f6941be48f0b0d4163da0bbf2ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=3e94954a5640555ba60402f536658f470d92e6575fa5c6007d786a742f052b43",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

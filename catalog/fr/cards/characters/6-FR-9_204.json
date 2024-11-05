@@ -1,0 +1,44 @@
+{
+  "name": "Prince Naveen",
+  "subtitle": "Second vigilant",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Francesco Colucci",
+  "deck_building_id": "c0abf4ad2073b023e3021c1547836aab812568ff",
+  "culture_invariant_id": 1208,
+  "sort_number": 1207,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Rempart"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Prince Naveen.) Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'un adversaire défie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "9/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=4d1842b579a757a91d078b1183a91e385d49173f780804edc9d644fd63763499"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=f9f98b0d12f667db287e17987a1078f79e46b6d9268a08769d23d9a4699369ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=06884a3c1f023a3a60b73147e6e2de5f6907fe4f1df583508c85d60d72fa613d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

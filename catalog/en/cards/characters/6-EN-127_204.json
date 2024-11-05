@@ -1,0 +1,40 @@
+{
+  "name": "Scar",
+  "subtitle": "Heartless Hunter",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "51cf185eed5f063045efe5e721db44e75fd71f54",
+  "culture_invariant_id": 1326,
+  "sort_number": 1325,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "It’s for the greater good. I’m sure you understand. —Scar",
+  "rules_text": "TEETH AND AMBITIONS When you play this character, deal 2 damage to chosen character of yours to deal 2 damage to another chosen character.",
+  "card_identifier": "127/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=9d68cd732d5cd8c9ce02de5e8f1e2c1c59e3a42eaafc340140edb2537c135b72"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=3ee2929c74acdc517c94c0b73f28ff3d3cbc3f908f8b77456281ad82df164ece"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=b5f03f59a9cc671c0ccc7c84fb4e6a99a11872fe861ebf302c8f11e5aaf309b2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

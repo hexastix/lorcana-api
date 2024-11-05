@@ -1,0 +1,41 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Impavido Navigatore",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lava Hijzelaar",
+  "deck_building_id": "d262ec42463f47d7cbbefb75d1d9f0e0013a4748",
+  "culture_invariant_id": 1311,
+  "sort_number": 1310,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Orientarsi nel Mare di Azzurrite richiede un cuore intrepido, tanto coraggio e più di un pizzico di fortuna.",
+  "rules_text": "",
+  "card_identifier": "112/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=e3b79006e3d27148f3cee26ebb56f6f9e88252dc74682b3f0680bd964568742a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=e2ac66f6478f9a05ae2d891a0e68ab7ce904811801c2c9784e2e453271526770"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=66042fc04686edf1abe6d91a5b7e3300225ac66316975600b5436d234c6a14a6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

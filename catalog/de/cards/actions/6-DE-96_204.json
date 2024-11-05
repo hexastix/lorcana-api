@@ -1,0 +1,33 @@
+{
+  "name": "Mückenstich",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "fa00070954fa24098d79edb1d418f0e85d50bfc4",
+  "culture_invariant_id": 1295,
+  "sort_number": 1294,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Nicht bewegen. Eine Mücke macht einen Ausflug auf meinem Arm. Sie ist so wunderschön …",
+  "rules_text": "Lege 1 Schadensmarker auf einen Charakter deiner Wahl.",
+  "card_identifier": "96/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=7bd42be235b7472842200264f41319a5f770c4b5c554b5ada268c8dbd7fdcce7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=ba41a5ae4fdca21d257598bd290ebf83ec22e534c6ec9ba4983a58edac60d7b4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=d36340030a475e8a1045e44df8b60533a5c1d535c247c9f3b3fb393e070f81a8",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

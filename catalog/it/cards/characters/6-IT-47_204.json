@@ -1,0 +1,44 @@
+{
+  "name": "Scar",
+  "subtitle": "Leone Tempestoso",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "6dbd6b03dc064b8f9f8f15ddaa470e7b5632a534",
+  "culture_invariant_id": 1246,
+  "sort_number": 1245,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto",
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) Sfidante +3 (Mentre sta sfidando, questo personaggio riceve +3.)",
+  "card_identifier": "47/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=cfee3cd9303e6d186c792165edc55fc5c3d6fdceac093376eaa2d1afd36cd07a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=23ec960e609169a19493e765ba36764ef9e75bc345a472d393c2a060e74a7a58"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=f63631648a555fa06e2fed08908143b85981aff62e1118732f7b66403c0bae2b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

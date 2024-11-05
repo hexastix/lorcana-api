@@ -1,0 +1,37 @@
+{
+  "name": "Camera del Consiglio Galattico",
+  "subtitle": "Aula di Tribunale",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "11c2fc733e0e0cd329da0505da8597555b3f5eda",
+  "culture_invariant_id": 1403,
+  "sort_number": 1402,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DECRETO DELLA FEDERAZIONE Mentre hai un personaggio Alieno o Robot in questo luogo, questo luogo non può essere sfidato.",
+  "card_identifier": "204/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=85f89ffba6d822e222bda4b05d7515314ced97637853f9793faffd865859aa86"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=2b5d045b01b2809a9ef37c36e71e12aae6524247eee16844e6a6e976dd59b304"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=780ae4632e794e3288ff89a461920cf7617011a5bb4a7b67f934d6b754dd7171",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

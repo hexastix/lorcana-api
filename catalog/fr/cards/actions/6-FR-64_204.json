@@ -1,0 +1,33 @@
+{
+  "name": "En quête de la moitié de Couronne",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "French Carlomagno",
+  "deck_building_id": "111879cd3089326363423d333c1ab2112fc415da",
+  "culture_invariant_id": 1263,
+  "sort_number": 1262,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je vois l'autre moitié, dans les Terres d'Encres. Vite, mon petit compagnon! Va me chercher cette couronne!%—Jafar",
+  "rules_text": "Jouer cette action coûte 1 de moins pour chaque personnage Mage que vous avez en jeu. Piochez 2 cartes.",
+  "card_identifier": "64/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ab6067774970e276819cd985613c527518413e7496631af31060c27067df240b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=5787e3e5b1aa864d995dae36b1626aae1c5a3d178d05a510e6b2fa4ab0b04549"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ce146fbf7bec1aa5f78bb604cf669f5300553aa66a5935368da822cdd2a865ef",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

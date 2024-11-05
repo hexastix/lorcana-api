@@ -1,0 +1,43 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "Minuscule adversaire",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Moniek Schilder",
+  "deck_building_id": "462aeda1519544194de59f6734300225a5c89003",
+  "culture_invariant_id": 1236,
+  "sort_number": 1235,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Offensif +1 (Lorsqu'il défie, ce personnage gagne +1.) ZIM ZABBERIM BIM Vos autres personnages gagnent Offensif +1.",
+  "card_identifier": "37/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=09bcc05c820574ff7ca0baa39ba9fa08b868430b88af3a250f05a20318a1563f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9420925c72229a1a9ce999bda8e8ddf295c6cb0b591ee3cb147c8b0b0d4c7b78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=946d6bf2b80aa904488199ff21fcd5e22fa4a28031e8a791a7cc524a11184a3a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

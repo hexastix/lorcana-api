@@ -1,0 +1,33 @@
+{
+  "name": "Nave Pirata di Pooh",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "1740993c2d9c41b47477e050c6664ad461d7aa89",
+  "culture_invariant_id": 1231,
+  "sort_number": 1230,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La nave più amichevole di tutto il Mare di Azzurrite.",
+  "rules_text": "OPEREREMO UN SALVATAGGIO , 3 — Riprendi in mano una carta personaggio Pirata dai tuoi scarti.",
+  "card_identifier": "32/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=37d2863a5832a1588dd7d81f10b024c7ea1a6962a3d602e4d38e08f978f5b9e7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=f720ecf910cf75a0849438f6fcdf5e12a792bbcea32d3af3eff05b8ee35d3d6b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=fa25cb218c21e84311c19cb48ec1f07a669fcfff7c1fd0ecc5f541eee90956f6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

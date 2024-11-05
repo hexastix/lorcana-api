@@ -1,0 +1,44 @@
+{
+  "name": "Tigrou",
+  "subtitle": "Dans le nid-de-pie",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "John Loren",
+  "deck_building_id": "dfa8a8096bd718d380931f64e28ae3d4947a6313",
+  "culture_invariant_id": 1325,
+  "sort_number": 1324,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Tigrou",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) FANFARON Chaque fois que vous jouez une action, ce personnage gagne +1 et +1 pour le reste de ce tour.",
+  "card_identifier": "126/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=f1fb327fcfcd8dd45b2f4bd22d8b0bf419b6314cc766004c34b73f48e51423a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=755b9543ffe58b6d0f4d7bd22caa09f1926d77035879618844efc20661b51046"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=4f12420ee2b65a0a170b3aa7db5e387f6e9dc4f10a9b8539e3965e6c02d52754",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

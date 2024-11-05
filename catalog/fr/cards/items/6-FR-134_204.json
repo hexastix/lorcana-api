@@ -1,0 +1,33 @@
+{
+  "name": "Lance de Garde carte",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "ee955829a8966f3315097e2637aafd172c098344",
+  "culture_invariant_id": 1333,
+  "sort_number": 1332,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UNE ARME CONVENABLE Vos personnages ayant au moins 1 dommage sur eux gagnent +1.",
+  "card_identifier": "134/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=56c2d5d680d573d47795024ad872175e4cac3bfab5b351cd19729275a3ecd7b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=b7009d7756e62001d340e34f8c06a35eca2623723bc3388899dbfd0dccfe7a5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=47f72fdaa0dc728b64c0d2c3c109ec031fe7547931ef1c2225a54ed2516785fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

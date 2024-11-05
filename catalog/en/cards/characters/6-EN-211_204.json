@@ -1,0 +1,43 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Pirate Captain",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1410,
+  "sort_number": 1409,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "DISTANT SHORES Whenever one of your Pirate characters quests while at a location, draw a card.",
+  "card_identifier": "211/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=968542a4f0be9308f3384c3d4a64875e3424e878b33f083bc225af5ed632aef2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=c4aef857c6ae028e9bd893479c31e9d42320fccd4ea2b0022884d6ea7dc925e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=3e8c7e8fdce821a6c4db6ab1bebee40ecb96f1ef79ee084ff6ba74edbb3c34bb",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

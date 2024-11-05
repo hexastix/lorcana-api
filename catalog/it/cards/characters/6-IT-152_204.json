@@ -1,0 +1,41 @@
+{
+  "name": "Dr. Delbert Doppler",
+  "subtitle": "Astronomo Pignolo",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "6a9326ab0a6b42d7e9dad9972935c275707d3662",
+  "culture_invariant_id": 1351,
+  "sort_number": 1350,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Alieno"
+  ],
+  "flavor_text": "Ma certo! Tutto ha perfettamente senso. Ecco perché la mia vecchia carta stellare era inutile. Ogni stella in questo cielo è diversa!",
+  "rules_text": "",
+  "card_identifier": "152/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=25e6c0f3a052b210a774b06b85850111ccf917dbcfdbe5522c2a331c21b8c292"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=2716cdc1695f400840edecf7eb4cb68c64b52d52aa784fe092cdbfe4be615e06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=7180a376c6390423e8232409113ef1e671109fb647d01af9d6014a29158ee8c1",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

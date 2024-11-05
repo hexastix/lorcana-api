@@ -1,0 +1,37 @@
+{
+  "name": "Mystical Tree",
+  "subtitle": "Mama Odie's Home",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "5c8b11a683ee565ce158b3726f92b274eb01c534",
+  "culture_invariant_id": 1268,
+  "sort_number": 1267,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "NOT BAD At the start of your turn, you may move 1 damage counter from chosen character here to chosen opposing character. HARD-EARNED WISDOM At the start of your turn, if you have a character named Mama Odie here, gain 1 lore.",
+  "card_identifier": "69/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=bdd2cbad57d0029dccceaac6fe3519187a4710d9f759a43bc238f0c9766841bd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=b4ef1b56ab56586c07e6ca22613d227bc446e015daf837ab0d19c44f3a3eddbf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=77aaae9ce3ba8f071de75f14adee2c2f6bebe1bfb8419c7992dc48f610b9e0c0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

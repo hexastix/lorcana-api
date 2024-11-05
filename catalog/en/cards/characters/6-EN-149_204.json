@@ -1,0 +1,41 @@
+{
+  "name": "Wasabi",
+  "subtitle": "Methodical Engineer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Taraneh",
+  "deck_building_id": "4c44b7fca1f2f6a3616e9dc982897df5179befa0",
+  "culture_invariant_id": 1348,
+  "sort_number": 1347,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "BLADES OF FURY When you play this character, you may banish chosen item. Its player gains 1 lore. QUICK REFLEXES During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "149/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=9b0155c6b9de0aec3cb29f899c6401d92cd37487424406069a3c7bb0257f08c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=f286e2fd9bfce09f77e904a4ccc78862a0b55ea14169e4f83ef486bc76ace0f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=e52b6b41409d3a913fdbc0e0110367136b7acde47578f9c0d5fb951c19339e66",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

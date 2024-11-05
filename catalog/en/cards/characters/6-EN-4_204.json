@@ -1,0 +1,41 @@
+{
+  "name": "Gopher",
+  "subtitle": "Ship's Carpenter",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "a851a9e4b4f261f7072e46f7820adc3c20f1c6bc",
+  "culture_invariant_id": 1203,
+  "sort_number": 1202,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "I keep fixin’ this same ding-danged hole! I should start charging overtime, plus 10 percent.",
+  "rules_text": "",
+  "card_identifier": "4/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=9c89a55b45f093ac1392b3766f906114af274f020f7616373632ad799e6084f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=0954a19a64fb3426cb6fe8ff9f9688a791fec3d0c68bb893db41655ee80d2c4c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=5f24daf9598aee30bf1c9b070ba9c9b5042702bdf7c172c9537d6e766135c09b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

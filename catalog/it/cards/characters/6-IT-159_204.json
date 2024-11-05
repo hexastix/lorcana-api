@@ -1,0 +1,41 @@
+{
+  "name": "Hiram Flaversham",
+  "subtitle": "Inventore Incuriosito",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "1d4b41fa43d9485c2aa75556d0c5aabb66ce8c80",
+  "culture_invariant_id": 1358,
+  "sort_number": 1357,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Inventore"
+  ],
+  "flavor_text": "Troverà un modo per rendere qualunque cosa a misura di topo.",
+  "rules_text": "",
+  "card_identifier": "159/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=834a69b97d548fbbed9f6c6c70804db82a74e408d49e8c7af1f057d27e1da1d8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=b17fe15061bf6cf5931d67991481762002f90468cd8c22332a1722264373d0fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=cedfbb3b4982c1a4e8754be92943b5ef56a99f84049b6de6b237c69f9efe5d1c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

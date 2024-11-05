@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Power-Hungry Vizier",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "f6ca44af428306a89520d97cbad882e26df17aae",
+  "culture_invariant_id": 1392,
+  "sort_number": 1391,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "The broken crown’s power is formidable, but not enough. With <both> halves of the Hexwell Crown, I could rule all of Lorcana!",
+  "rules_text": "YOU'LL GET WHAT'S COMING TO YOU During your turn, whenever a card is put into your inkwell, deal 1 damage to chosen character.",
+  "card_identifier": "193/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=e3ece3665d4474c2ab30160f99969f51cdf6c9ba7a501eeaa468982474867d89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=2796a61210035e750b4c2efa35c59deabcba114dd12d4c01e26f919dd79b014b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=3af380e66237134821618d564af84854039fdc7028c35bf655e833a2f5fcab6c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

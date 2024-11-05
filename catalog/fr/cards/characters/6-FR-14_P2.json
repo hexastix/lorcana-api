@@ -1,0 +1,42 @@
+{
+  "name": "Scar",
+  "subtitle": "Chasseur sans cœur",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "51cf185eed5f063045efe5e721db44e75fd71f54",
+  "culture_invariant_id": 1429,
+  "sort_number": 1427,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "C'est pour le bien de tous. Je suis sûr que tu comprends.%—Scar",
+  "rules_text": "VOTRE ROI VOUS INVITE À LA FÊTE Lorsque vous jouez ce personnage, choisissez l'un de vos personnages et infligez-lui 2 dommages pour infliger 2 dommages à un autre personnage au choix.",
+  "card_identifier": "14/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=a4ef51cad373daef61ad1706f087d2ccfab8e7f9355388577bac4874be665494"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=2b9f5c2a7ddaff0d9d79c41fe8befa85de7cd39f4f2fb0050390d0f894bf6598"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=7199c7c2e57414f86a85885952108302fc5a7410f5efa28f321b8f3f6216fd30",
+  "special_rarity_id": 1,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

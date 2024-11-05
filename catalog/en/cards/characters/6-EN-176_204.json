@@ -1,0 +1,44 @@
+{
+  "name": "Mr. Smee",
+  "subtitle": "Captain of the Jolly Roger",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "f79d27f85394475fadaea68266df26fd8324d52f",
+  "culture_invariant_id": 1375,
+  "sort_number": 1374,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Mr. Smee.) RAISE THE COLORS When you play this character, you may deal damage to chosen character equal to the number of your other Pirate characters in play.",
+  "card_identifier": "176/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=7a279fc65346cf412b04557ef05a2ff0701adc7a89e510d4d03a8d28611ef04c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=044b4117d2da0f4049b6694dea693c1c18a17fbd37d438dd3b84f82a1bf986dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=419cebb257f3cdbc903fc41c61ce10093a2389937e704f749f32e7647f612c85",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

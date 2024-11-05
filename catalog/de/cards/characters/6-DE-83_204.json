@@ -1,0 +1,43 @@
+{
+  "name": "Prinz Phillip",
+  "subtitle": "Königlicher Entdecker",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "875592f80cfc4d6e34c02219ce9530abc27695f8",
+  "culture_invariant_id": 1282,
+  "sort_number": 1281,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Ein klarer Kopf und eine ruhige Hand werden dich durch unbekanntes Gewässer leiten.",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "83/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=17b2d3bb839f1a7b76a763e21603eabf1b387c7449740d53cdfc823c03983946"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=8fd2494b28d34634026bbd4dae0aed6bb05d68776da4b65d2d9c8e31b3a80a51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=94364078d4c5e8ac58cccb1d4ad395e6a83a0cd66d9c7ac892777b553afea059",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

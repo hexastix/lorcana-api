@@ -1,0 +1,35 @@
+{
+  "name": "Rescue Rangers Away!",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Mariana Moreno",
+  "deck_building_id": "b5b569d97b7b26cd822613b9016587fc87dfb990",
+  "culture_invariant_id": 1425,
+  "sort_number": 1423,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Count the number of characters you have in play. Chosen character loses equal to that number until the start of your next turn.",
+  "card_identifier": "10/P2 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=95f8f5be83414704b86fa7982f414afb8b49e8a027fe408a39bf39a15e05435f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=1fb981a947c74e1f2654ea9de4c95c2ad7d5b783ddfd7a57a8f105f76d72f443"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/2/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=27eba5717d20f5f3134ab1ea56b6c72e7c2933fcb9ffef91860e3b207411ef3f",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

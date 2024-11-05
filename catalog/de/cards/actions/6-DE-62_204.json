@@ -1,0 +1,33 @@
+{
+  "name": "Magie schaffen",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "adf1058d9209d88466a9f74d83dec159dad4d15a",
+  "culture_invariant_id": 1261,
+  "sort_number": 1260,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Jetzt ist es genau richtig!%–Mama Odie",
+  "rules_text": "Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl. Ziehe 1 Karte.",
+  "card_identifier": "62/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=89312774ac4fdd1fd60597489f2092cf6c240f3db8b7c00e3d2cb0b23a74a4bc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=0d20a606cd1376d5fe3d7382a9a99107a90aea1f36788be017eda264815dddc8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=c6791411010c0630516544a0045cfd1fc57dfcefa44502f7aac2e1cb5fc6eb1e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

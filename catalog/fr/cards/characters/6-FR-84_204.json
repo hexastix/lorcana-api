@@ -1,0 +1,45 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Commodore royale",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "1ffe7a4dabe4b56c6fbb1a72511efa264a253ecc",
+  "culture_invariant_id": 1283,
+  "sort_number": 1282,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Jasmine.) RÉGENTE DES MERS Si vous jouez ce personnage en utilisant sa capacité Alter, renvoyez tous les autres personnages épuisés dans la main de leur propriétaire.",
+  "card_identifier": "84/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=7f1deb5d29a90c1f3a7f4fd0e27f25679d3dca77598fe08cd7f81b6f0be50c98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=b02d03ee3d4c69a1226641a66e5604d04be8eba46c9508c33eb33cd5556a38bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=1908a4bb8c9f21472d0d2baa2c32229f64ba2c7b15e265109c0ac295a198259a",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/gloss/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=f4b47bc64afb703b0d3ca0fac98e4d2fbd392c3febefbc29debaf77afc847c02",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Hades",
+  "subtitle": "Herr der Unterwelt",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Denny Minonne",
+  "deck_building_id": "59d2486d57383b48c7dce89671fcb6798edad839",
+  "culture_invariant_id": 1235,
+  "sort_number": 1234,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "Man könnte sagen, ich bin sehr gut im <Fangen>, nicht jedoch im <Freilassen>.",
+  "rules_text": "SEELENSAMMLER Jedes Mal, wenn einer deiner anderen Charaktere im Zug einer gegnerischen Person verbannt wird, sammelst du 2 Legenden.",
+  "card_identifier": "36/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=0ade65c41ec437fc5dfa2b5b849b8a09cc196c5dfd668393badca5a0537c1a74"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=589279f93c6bbc3fbbdbb65e305b4b3ce3097e44345d3cf2ef443e128cb09957"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=253c68135da2e2179fe36aea02fbeac8bddd3ac4b48172efc45126c6e878e01c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

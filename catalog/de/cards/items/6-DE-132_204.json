@@ -1,0 +1,33 @@
+{
+  "name": "Langboot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Alex Shin",
+  "deck_building_id": "f693d84734a618efa3cb5486f95d6154fcc2bc3d",
+  "culture_invariant_id": 1331,
+  "sort_number": 1330,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "EINE SPRITZTOUR MACHEN 2 — Wähle einen deiner Charaktere. Dieser erhält bis zu Beginn deines nächsten Zuges Wendig. (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "132/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=e6734bab8715e77f7fc3cc1d00470c8c929ce36df3e5db10e0083d774fb37fec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=0f1ae30573b7cd517302853cbd00c4b0edc833a686beb9e13b4a9c5b4a09f30c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=70742fb679d6d1a09251bf6c0a1c622620fbebae74c7ccca95fc569df461d24c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

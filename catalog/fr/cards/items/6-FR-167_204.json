@@ -1,0 +1,34 @@
+{
+  "name": "microrobots",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "16564aa9bee85f228a9e033b2c6ce86800ff1717",
+  "deck_building_limit": 99,
+  "culture_invariant_id": 1366,
+  "sort_number": 1365,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DES APPLICATIONS ILLIMITÉES Vous pouvez avoir n'importe quel nombre de copies de Microrobots dans votre deck. TECHNOLOGIE INSPIRÉE Lorsque vous jouez cet objet, choisissez un personnage qui subit -1 pour chaque Objet Microrobots que vous avez en jeu.",
+  "card_identifier": "167/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=2f111e2ee06b44b1ba37707f0d25117979c759a4c02a9ea0835359b8b045e6ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=82b0bc81af9112b787735f84f590ad45ee3bde2c75d9aafa6275661c93a32594"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=ba5ac5d21b7f8d37e90547ddea62ac581e7795a6e4049d3fc735e3d798fa2f96",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Wreck-It Ralph",
+  "subtitle": "Ham Hands",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Justin Runfola",
+  "deck_building_id": "bfd14e420afb55f030d821dddadf7a624938d2af",
+  "culture_invariant_id": 1389,
+  "sort_number": 1388,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "I'm very good at what I do. Probably the best I know.",
+  "rules_text": "I WRECK THINGS Whenever this character quests, you may banish chosen item or location to gain 2 lore.",
+  "card_identifier": "190/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=77e83011dd2a55889234a72fd3c71a1b67d99f4e52e5556b65a7e951f2e98270"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=2f6300259b085cf08541989c777a2f0081a19966d679ca6886f08e66a10b6f12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=a088e76f01a477a6f83a74474c141a0393ca4f5fe1f7811e44bd808e7d3fb25f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=1870511bb128c73a35b94e6cd52eac7d853842614709a48d9b2f6593d4c70ca2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Markowski",
+  "subtitle": "Soldat de l'espace",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "ead46bfd3bf059ae7fe97fb6163a498b70b7e8a7",
+  "culture_invariant_id": 1312,
+  "sort_number": 1311,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Pile ce qu'il nous fallait: un nouvel endroit pour combattre des insectes.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "113/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=59c3b9c3f50b74ec74b08b5df3b448b8c37a1e5b0186bdcb3b105b2f16499c48"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=170e5d97003403ef52bf52ef93cc93fd0c0091b97ca61f03f9eea4e599850377"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

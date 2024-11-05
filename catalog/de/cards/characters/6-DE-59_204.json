@@ -1,0 +1,39 @@
+{
+  "name": "Der verrückte Hutmacher",
+  "subtitle": "Exzentrischer Gastgeber",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "7ddd893d570009b591ed37e3bb562cfaa675b764",
+  "culture_invariant_id": 1258,
+  "sort_number": 1257,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "",
+  "rules_text": "JETZT SEHEN WIR MAL REIN Jedes Mal, wenn dieser Charakter erkundet, darfst du dir die oberste Karte vom Deck einer ausgewählten mitspielenden Person ansehen. Lege die gewählte Karte als oberste Karte auf das zugehörige Deck oder den Ablagestapel.",
+  "card_identifier": "59/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=ec029214957df14b854d329b2cb8065223bf3de7a1a7f77c0ca4af83a5aa6870"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=a57cbcbb75b5e37521a6f967092389af26a8b88da254e3804464d43044733fd0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=df723869995cc6c68c6d176a39b9a703b3ea5d538366731d0094eb9b1e569753",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

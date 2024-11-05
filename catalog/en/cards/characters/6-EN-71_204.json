@@ -1,0 +1,42 @@
+{
+  "name": "Captain Hook",
+  "subtitle": "Underhanded",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "41aae15f1c0ae59cefd34a672334c90a3599987b",
+  "culture_invariant_id": 1270,
+  "sort_number": 1269,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "INSPIRES DREAD While this character is exerted, opposing Pirate characters can't quest. UPPER HAND Whenever this character is challenged, draw a card.",
+  "card_identifier": "71/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=25648f673f4213a5c440c3c3c53edb922fca4c9914ef939168980ab10d611d89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=cb3f1cee4bb8d9a2e1a412cdb152e6694925e850b33998ac5f6b7d9b68932611"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=ea3a9c2a0a4869dc55dfb4e6d01a1226ebee1809e9d6edc5fc8597f9fc3f3198",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

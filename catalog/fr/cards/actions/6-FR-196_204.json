@@ -1,0 +1,35 @@
+{
+  "name": "Un homme libre",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "1c3668b9f7832219a19073b3d34479279d7ea3bc",
+  "culture_invariant_id": 1395,
+  "sort_number": 1394,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage qui gagne Résistance +2 jusqu'au début de votre prochain tour. Piochez une carte. (Les dommages qui lui sont infligés sont réduits de 2.)",
+  "card_identifier": "196/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=b49af93015f909740ba3070be2da06f089c44a324518297674ddfbcc301ac958"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=2bd86f104c97ade92996e8140bf1c6287048def1b6b45441b17d625ed3642731"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=1dd9df2ed2108eef7183e620e62d961b0ec6484ec92092863d0c0b4e4cd37134",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

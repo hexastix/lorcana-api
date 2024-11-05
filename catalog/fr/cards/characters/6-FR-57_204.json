@@ -1,0 +1,41 @@
+{
+  "name": "Mama Odie",
+  "subtitle": "Sage solitaire",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mel Milton",
+  "deck_building_id": "dd7d2bad727d4ee049c2ff4d1088d312e827f4ce",
+  "culture_invariant_id": 1256,
+  "sort_number": 1255,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL FAUT TOUT FAIRE SOI-MÊME ICI Chaque fois que vous jouez une chanson, vous pouvez choisir un personnage et déplacer jusqu'à 2 de ses dommages sur un personnage adverse de votre choix.",
+  "card_identifier": "57/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=1b377b9a51f3a7486e40698de69bc1fe28c88f121d1f388175cc51e28c36940c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=b1142d1e9b374814a8f053bd171ea11ce37ae87e4c15cb22ca5504cd3c1576a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=06a5fd9d6ce8db9e98938389ec236039c2c7a488b2eb20cf201d439a37348a02",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

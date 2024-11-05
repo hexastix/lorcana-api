@@ -1,0 +1,43 @@
+{
+  "name": "Hercule",
+  "subtitle": "Demi-dieu inébranlable",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "d57ba4914c87d36251c93894e3081d6552322ca0",
+  "culture_invariant_id": 1379,
+  "sort_number": 1378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Ce labyrinthe n'était pas si terrible! Voyons ce que cette île nous réserve.",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "180/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=77a746c665d1e30d6554947696b0be330534d0a908acc3cd396e08835a73e725"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=8feaf3019d696b44c6d508b526b11a1ff4d27b9cc03c6b2d37a347e498c13cb9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f7632bf0b81bf85839bbf7dca450e6c67b9a27f898a1be1a1f3b3a24f709a601",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Piratenkapitänin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1410,
+  "sort_number": 1409,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "FERNE UFER Jedes Mal, wenn einer deiner Piraten an einem Ort erkundet, ziehe 1 Karte.",
+  "card_identifier": "211/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=27fb9d6bbecc1008f416e3b63c320afac58e96f97e2b5e60a12a41942d3a62d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=9ca93f0a19cce392f6e09ecc5fd0c4fe3323fb45edb23229ed01284cc858af56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=72d077f00549965d60af58337a32f0f1642ad10eebe63baacdae70f650aada17",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

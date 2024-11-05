@@ -1,0 +1,41 @@
+{
+  "name": "Yokai",
+  "subtitle": "Rätselhafter Erfinder",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "55cd9563ee89ea9d2f1a02ae1e76ddb0ba8d24fe",
+  "culture_invariant_id": 1342,
+  "sort_number": 1341,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "ZEIT FÜR EIN UPGRADE Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 deiner Gegenstände zurück auf deine Hand nehmen. Wenn du dies tust, zahlst du 2 weniger für den nächsten Gegenstand, den du in diesem Zug ausspielst.",
+  "card_identifier": "143/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b42f0e7dd87966f5a23cedc070c4429e91750a51e9632ed8c0063909596a02ff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=6cb8e167255ff16ce5c58d35a778ec7cba388e58ca967750f0a22e1c2c03fb6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2a687b276447d3defa320b02d0e77da78f24f3f3b8c6dbc2e82a277604c5df36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

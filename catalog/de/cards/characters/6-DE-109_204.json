@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Gefährlicher Freund",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "César Vergara",
+  "deck_building_id": "66db56b4be18bb9ae41a91fbaa0d96b74a3a3e8b",
+  "culture_invariant_id": 1308,
+  "sort_number": 1307,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Alien",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "DU MUSST DEINEN KURS SELBER BESTIMMEN Jedes Mal, wenn dieser Charakter erkundet, darfst du einem deiner anderen Charaktere 1 Schaden zufügen. Wenn du dies tust, mache den Charakter bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "109/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=cbd940620a8607c690016c9cf3c3dd60e059b169debe991de125abc83899afa9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=24a89f90361d3dd7d40b6d2579ce9b176ffa2df50e60cc4e80bd8e8b1c4dd25c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=174101bdf48bd904517516c173a00e9081e8b2de39a4a55866b081c6779f0378",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

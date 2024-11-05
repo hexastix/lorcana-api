@@ -1,0 +1,41 @@
+{
+  "name": "Kokomora",
+  "subtitle": "Piraten-Häuptling",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "97266efddadb85c14ed91903802d893795b7d75a",
+  "culture_invariant_id": 1371,
+  "sort_number": 1370,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "KOKOSNUSS-ANFÜHRER Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab, um einem Charakter oder Ort deiner Wahl 1 Schaden zuzufügen. Wenn du so einen Piraten abgeworfen hast, füge dem Charakter oder Ort deiner Wahl stattdessen 3 Schaden zu.",
+  "card_identifier": "172/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=15de0efd6cccb14550a088cc25f8416db08706313897467bdcd719fcc6b76186"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=ce294bbb9971b774cbd6403036f20293ba8e1d1fa594d5ab97eb29f3bbb76dcd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a42d3e9c7bb0ca233f25e8fdfa1345f8f4696a081790c676d7712eba1fe05fe3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

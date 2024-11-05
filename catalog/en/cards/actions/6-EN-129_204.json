@@ -1,0 +1,33 @@
+{
+  "name": "Lead the Way",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "0ca93cf0ba4a13734a84c1f1e6f1cd64cf55eece",
+  "culture_invariant_id": 1328,
+  "sort_number": 1327,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "We have what it takes to find our way through this maze, together! Hold on—we’re going in!",
+  "rules_text": "Your characters get +2 this turn.",
+  "card_identifier": "129/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=c14a17d263ece84fda229ac395e6245c0930889fe08b1fcee57561ce213b15f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=4b163841b1a46f88e8bef49953a681e94a2f6d2bdf8838801edceb2aec1d42db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=53a2a4abbab901581d6558593d2b89a9c61d674d729c78500e23316309d79d4f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Alice",
+  "subtitle": "Esperta Marinaia",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "c1525cc95d60ab6fa0f38486bcaaf6379619ef67",
+  "culture_invariant_id": 1360,
+  "sort_number": 1359,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) AHOY! Ogni volta che questo personaggio va all'avventura, un tuo altro personaggio a tua scelta riceve +1 e ottiene Protetto fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "161/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=8a562a3185c6378b878edc81a6bfaff0da4ecf52545b1f1e5b008c56e168b383"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=6ddf37e1513e9cd2543311e13c035633e6a8098456cf2e5e9f380610ce729168"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=a80b3edef861b99f10e917fea0c93c313f8890875b9b89fda924231f3b83719e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

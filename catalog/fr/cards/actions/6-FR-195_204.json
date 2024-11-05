@@ -1,0 +1,33 @@
+{
+  "name": "Patate chaude",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicolas Ky",
+  "deck_building_id": "46d569174be105bf3722b7146e7d4b850b976412",
+  "culture_invariant_id": 1394,
+  "sort_number": 1393,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ça va mal se finir !%— Pikly",
+  "rules_text": "Choisissez entre : • Choisissez un personnage et infligez-lui 2 dommages. • Choisissez un objet et bannissez-le.",
+  "card_identifier": "195/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=41dda4c5c05403c7a553991d9e0adc6083d6667c3b14f1cd45be0b1fef41b419"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=279cb2faabe0154ef45413af07497532a4dff16dc5db1cadedb9e02a445a27db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=a00011dd64457c1a162b8678e59f029da989b55214530f1b6d0e8fe576125f4a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

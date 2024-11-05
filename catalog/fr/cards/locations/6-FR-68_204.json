@@ -1,0 +1,37 @@
+{
+  "name": "Navire des Fées",
+  "subtitle": "Vaisseau royal",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "2709b95e28630f85924df28a795aa4ccc559ba84",
+  "culture_invariant_id": 1267,
+  "sort_number": 1266,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Les légendes racontent qu'à chaque fois que quelque chose disparaît, c'est qu'il a été pris pour construire les Navires des fées de la mer Azurite.",
+  "rules_text": "",
+  "card_identifier": "68/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=a74a0719bcaecd8f93921aa96d82ee11ee048b3260bb30cd9d087853a2163d4f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=738951dc9ef512f9837cbdecdad5600ca0a4d8a4305330354bb89e297694b181"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8d9e4bc81879454d7fa26079066516effb4196fe49a4c63647e9626082a5f2b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ade",
+  "subtitle": "Braccio Armato",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brian Kesinger",
+  "deck_building_id": "4f2dc7d36ef87536973bed84cbfe5735a853a3dd",
+  "culture_invariant_id": 1324,
+  "sort_number": 1323,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "Panico, usa la testa, per una volta!",
+  "rules_text": "COSA FARAI MAI? , 3 , esilia uno dei tuoi personaggi — Esilia un personaggio a tua scelta.",
+  "card_identifier": "125/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=212160a9703db71b916285354f083f80983916cbeafa895cf4c4acce6f718641"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=cfe4d850980dbf23d06bed882580681ed001ec073ecb733378df7926621eef6d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=d6cc2e70dfbd12f2edae75fda004ff9f213b3c2d4f25eeed08278cfd22790268",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a45f94d36884f3e0d9ef3e0f5997d9d66da9805ca34e8a8cafa0450ec073e517",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

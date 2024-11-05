@@ -1,0 +1,43 @@
+{
+  "name": "Goofy",
+  "subtitle": "Fliegender Goof",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "c2cae8618c5864d48ef0976fe51bceeccce58b3f",
+  "culture_invariant_id": 1322,
+  "sort_number": 1321,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig",
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Passt auf eure Hüte auf!",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "123/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=bb694041de791ba420425e00bdeb747d10bd30f3f5e37143fb39fe095fb98801"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=e37217f52f2a16a4e938f6f12226a691a659abaf6c1e0a8fcdbf680cbd7ce412"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

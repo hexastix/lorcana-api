@@ -1,0 +1,33 @@
+{
+  "name": "Good Job!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "e18dacf13ba36a2bb5ba634fdc8789594b85507a",
+  "culture_invariant_id": 1226,
+  "sort_number": 1225,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Be proud of that badge. You earned it. —Judy Hopps",
+  "rules_text": "Chosen character gets +1 this turn.",
+  "card_identifier": "27/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=36b70ff49fe32b7d0732e1e6e0af9491b65902e0ebcc71c20912b42c1501c531"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=0a684ecc03ee8692213207c71a569cc209580fc23a47f5334638fec09edf9704"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=aae55012fb478e8c4914124d86a74d32c0cb17799bac7b506be2108f719e51b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

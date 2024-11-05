@@ -1,0 +1,33 @@
+{
+  "name": "Zwillingsfeuer",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "73b07fd4a3e3b908b93c8d9272c0d97db0f6e2ff",
+  "culture_invariant_id": 1396,
+  "sort_number": 1395,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ich hab sie!%Nein, <ich> hab sie!",
+  "rules_text": "Füge einem Charakter deiner Wahl 2 Schaden zu. Dann darfst du eine Karte von deiner Hand auswählen und abwerfen, um einem anderen Charakter deiner Wahl 2 Schaden zuzufügen.",
+  "card_identifier": "197/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=aee9bdbc94fef8a6ecbb63725283bafb25ea7563d33c317d2d956c02482f6139"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=17d3ca784d70aed4fffdc7a18a1fb239cee03b75a637ffcddc95526308ce3f3e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

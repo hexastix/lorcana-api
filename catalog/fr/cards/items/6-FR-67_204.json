@@ -1,0 +1,33 @@
+{
+  "name": "Poussière de fée",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie / Mara Tango",
+  "deck_building_id": "81bfe47645b7451e9719f784418d39de85304651",
+  "culture_invariant_id": 1266,
+  "sort_number": 1265,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Y CROIRE DUR COMME FER , 2 — Choisissez un personnage qui gagne Offensif +2 et Insaisissable jusqu'au début de votre prochain tour. (Lorsqu'il défie, ce personnage gagne +2. Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "67/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=78d9c11af3e124afa555aeac68bff1bfcd56d641269547a0f7e8a72c77ce34a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=5b9aea7baeb3a6c573abb7927aabe1eee4822084c6921978ad0a8d43eabbc4e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a010801cab6c029da56b781a712044073f6013cabb99ba8e12e2ba9f9ebbf0a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

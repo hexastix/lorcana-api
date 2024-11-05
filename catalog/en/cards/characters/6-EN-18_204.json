@@ -1,0 +1,40 @@
+{
+  "name": "Dale",
+  "subtitle": "Mischievous Ranger",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "056e0b84434caa8b7fbcf65fb24fb0dd2a8f4473",
+  "culture_invariant_id": 1217,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "NUTS ABOUT PRANKS When you play this character, you may put the top 3 cards of your deck into your discard to give chosen character -3 until the start of your next turn.",
+  "card_identifier": "18/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=1b09f5907e2fbbadf89b67be14dcc1963f2ce1f5333ee100cb3c2abdb5bac6c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=4d20ffca72d6c8b7d621d3dd32a925fdc9115b968ecf1d1bfe1be12e1be7c41d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=6b77195e87073a4424948fb60e6d61e48ac7e248796f0f7186269495c120473c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

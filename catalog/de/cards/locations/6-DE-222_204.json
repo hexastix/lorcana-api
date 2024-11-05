@@ -1,0 +1,38 @@
+{
+  "name": "Der Schatzberg",
+  "subtitle": "Insel im Azurblauen Meer",
+  "willpower": 9,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Sam Nielson",
+  "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
+  "culture_invariant_id": 1421,
+  "sort_number": 1420,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "GEHEIMWAFFE Zu Beginn deines Zuges, zähle deine Charaktere an diesem Ort. Füge einem Charakter oder einem Ort deiner Wahl dieselbe Anzahl Schaden zu.",
+  "card_identifier": "222/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=a396c954ac4f53f9c186b8c8428c38e5b397de4f02b0a57bd6ad7eb841fdc7af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=8519f14fb0622c73a8bceed36896aa19423ff061f9cf5d2f9ce21982796aa8a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=5761704bdcbb3e4b5ad4d899870d95ecad7d98266bb1d264ec9fc6fb6c50e708",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

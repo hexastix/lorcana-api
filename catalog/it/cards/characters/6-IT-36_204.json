@@ -1,0 +1,41 @@
+{
+  "name": "Ade",
+  "subtitle": "Signore dei Morti",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Denny Minonne",
+  "deck_building_id": "59d2486d57383b48c7dce89671fcb6798edad839",
+  "culture_invariant_id": 1235,
+  "sort_number": 1234,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "Diciamo che mi piace molto la <pesca>, ma non altrettanto il <rilascio>.",
+  "rules_text": "COLLEZIONISTA DI ANIME Durante il turno di un avversario, ogni volta che uno dei tuoi altri personaggi viene esiliato, ottieni 2 leggenda.",
+  "card_identifier": "36/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=4487678619509526961dd818450639c328bb5a310960d4bb320ca4d65abcd31b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=17da257345ef6dd76d3a71914b2748c3ca2485eb34031d40216b3bb72e6f6dfd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=253c68135da2e2179fe36aea02fbeac8bddd3ac4b48172efc45126c6e878e01c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Lilo",
+  "subtitle": "Artista della Fuga",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1201,
+  "sort_number": 1200,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Non puoi tenermi lontana da tutto il divertimento!",
+  "rules_text": "NON C'È POSTO MIGLIORE All'inizio del tuo turno, se questa carta si trova nei tuoi scarti, puoi giocarla ed entra in gioco impegnata.",
+  "card_identifier": "2/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=e4c6bda589de025b1231ad97ed04770dad86cd918ac2140a03c4eccfe1f5328f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=6e862a6ac202dc4eae83712e0e628b010445de92ea2b97e0f48cacf9262568b7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=1dab5761f96cf759d113b18922fed52b85660ab9cc0f7020a063483d8b74680b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Navigare nel Mare di Azzurrite",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "7cf280d8897d60a0cb50595020fb50df421ba296",
+  "culture_invariant_id": 1362,
+  "sort_number": 1361,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ti servono un buon piano e tanta fortuna per superare queste acque insidiose.",
+  "rules_text": "Per questo turno, puoi aggiungere una carta aggiuntiva al tuo calamaio dalla tua mano, a faccia in giù. Pesca una carta.",
+  "card_identifier": "163/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=0620321c1e77fa1f52396a8e16921bed62d2837d09ba318268943c48b2775343"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=cfb2c550c0a264e6d9cb0ca68cc20d2257099532129414465ca443567be712f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=eda2857a574343528a328391e0db057ed2ad4a183550598547e42baabb8833c0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

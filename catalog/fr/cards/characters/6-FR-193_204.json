@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Vizir avide de pouvoir",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "f6ca44af428306a89520d97cbad882e26df17aae",
+  "culture_invariant_id": 1392,
+  "sort_number": 1391,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Le pouvoir de la couronne brisée est redoutable, mais pas suffisant. Si j'avais les deux moitiés de la couronne d'Hexasort, je pourrais régner sur tout Lorcana!",
+  "rules_text": "TU SERAS PAYÉ LE MOMENT VENU Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, choisissez un personnage et infligez-lui 1 dommage.",
+  "card_identifier": "193/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=bace136f2b013240815f137bea2681bc1fbf5e2a27c9331fa1d85ac2f342fec4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=421cbc8f35a5518c876bfe210419b9fe6ed8499bca77f8fc7a5f6ce51ea93576"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=3af380e66237134821618d564af84854039fdc7028c35bf655e833a2f5fcab6c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

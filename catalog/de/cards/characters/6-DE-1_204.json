@@ -1,0 +1,41 @@
+{
+  "name": "Eule",
+  "subtitle": "Piraten-Ausguck",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Omar Lozano",
+  "deck_building_id": "4ab1a2c7f0197a4df9d436fc82d25fb88371a3ec",
+  "culture_invariant_id": 1200,
+  "sort_number": 1199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Ich sage, Land huuh! Ähm, ho – Land ho!",
+  "rules_text": "GUT ERKANNT Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, erhält ein gegnerischer Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "1/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=fff3432fb6776219c53e34a97b3308687755c5bc3bba01836537217ff887f722"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=04eb5045221daf897fcee5bb4fe8df2feb9a5372b086972e8a19027a4e894dd2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

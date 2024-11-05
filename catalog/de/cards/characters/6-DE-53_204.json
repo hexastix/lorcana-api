@@ -1,0 +1,42 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Wunsch erfüllt",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "53873ab78cd68666de74c7d32546d4290f86353b",
+  "culture_invariant_id": 1252,
+  "sort_number": 1251,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Oh, ist das ein Gefühl!",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) WAS KOMMT JETZT? Wenn du diesen Charakter ausspielst, ziehe 1 Karte.",
+  "card_identifier": "53/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=16d77a5ae4c52d648a046d95a838143f999c50aa1e009cd465cce7024b34eb89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=7ff424a06efb6de62c743b2b1b17c00639d48b2fd74342dcc4f026efe818c008"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=8a790792d5a829e0335a1b36813099a0f9393da177066df576785b7f4e4d582c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

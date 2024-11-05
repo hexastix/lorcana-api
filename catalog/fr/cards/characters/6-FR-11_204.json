@@ -1,0 +1,39 @@
+{
+  "name": "Chef Bogo",
+  "subtitle": "Fan de Gazelle",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Cristian Romero",
+  "deck_building_id": "9df5299f05ee9034bd55228067385a123cb15a75",
+  "culture_invariant_id": 1210,
+  "sort_number": 1209,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "VOUS AUSSI, VOUS AIMEZ GAZELLE ? Tant que vous avez un personnage Gazelle en jeu, ce personnage-ci gagne Mélomane 6. (Ce personnage est considéré comme ayant un coût de 6 pour chanter des chansons.)",
+  "card_identifier": "11/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=7f0eef6ebe0ff211590167762b56aad83f8c186450ee1b6435a96355a6684aa3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=c07c90c1e9871fbaa8724ccf500a6ae8cd5a6639413fd489118430cafc97f1a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=ca07f9f5a1e58bfb5311feac848476242271b4c6fa5c4075a8b38c9e4aae51fd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

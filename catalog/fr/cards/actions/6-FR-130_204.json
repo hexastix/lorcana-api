@@ -1,0 +1,35 @@
+{
+  "name": "Poser des îles sur l'océan",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1329,
+  "sort_number": 1328,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Comment vous le dire ? C'était naturel !",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Cherchez une carte Lieu dans votre pioche, révélez-la à tous les joueurs et placez-la dans votre main. Mélangez votre pioche.",
+  "card_identifier": "130/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=0b6ee66ed2e76354cb4d9cc0d957cb9a41d2c150d5a480f7ec6d3bd37b0a3244"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=62010345f1c62ceb5d8160dc104bd366994b7d122fd816069a776881d4c2599b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4570468d6607333348661dce68e03041a23306f041d3005df16358401fdc2291",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Mertle",
+  "subtitle": "Lilos Rivalin",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "7b838e972c5139bf7120ce839be3cedab99d1dcf",
+  "culture_invariant_id": 1281,
+  "sort_number": 1280,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Verschwinde, bevor wir dich plattwalzen.",
+  "rules_text": "",
+  "card_identifier": "82/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=296751cfea07dfaa31132ab5dbd128d41effce2943bd71d7b02ff41341f349e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=9698f7c1f320dbe22a6884840dc6db7a2d43a65d4573ff2bc651c81eb8594015"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=4ada43d1682577a57b759af84697f6c4dd4f58df381c892a9d2d27c9193c16fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

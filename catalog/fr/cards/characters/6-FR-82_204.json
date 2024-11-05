@@ -1,0 +1,39 @@
+{
+  "name": "Mertle Edmonds",
+  "subtitle": "Rivale de Lilo",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "7b838e972c5139bf7120ce839be3cedab99d1dcf",
+  "culture_invariant_id": 1281,
+  "sort_number": 1280,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Pousse-toi, sinon je te roule dessus.",
+  "rules_text": "",
+  "card_identifier": "82/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=3a9c6ecb870df29c26b5a70853aaac99c79f6b28716d352475a799360186a1f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=d50bdd80d6df9dbda2a7e23f0193838be6b2918fa8b8f5ed881c25dce2f51388"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=4ada43d1682577a57b759af84697f6c4dd4f58df381c892a9d2d27c9193c16fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

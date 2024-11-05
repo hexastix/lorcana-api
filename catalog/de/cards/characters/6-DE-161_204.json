@@ -1,0 +1,42 @@
+{
+  "name": "Alice",
+  "subtitle": "Gerissene Seglerin",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Dustin Panzino",
+  "deck_building_id": "c1525cc95d60ab6fa0f38486bcaaf6379619ef67",
+  "culture_invariant_id": 1360,
+  "sort_number": 1359,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) AHOI! Jedes Mal, wenn dieser Charakter erkundet, wähle einen deiner anderen Charaktere. Jener erhält bis zu Beginn deines nächsten Zuges +1 und Behütet.",
+  "card_identifier": "161/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=5e172e180c78a246e108bb6488a0d4a5667fcbf48911ffb30840ee5c2c6232de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=9e80725a178d50d7670fd72f1d676b50acf74664d1326effa25cc6c14ab56126"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=a80b3edef861b99f10e917fea0c93c313f8890875b9b89fda924231f3b83719e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

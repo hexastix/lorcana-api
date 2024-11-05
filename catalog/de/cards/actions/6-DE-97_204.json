@@ -1,0 +1,33 @@
+{
+  "name": "Du bist zurückgekommen",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Michaela Martin",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1296,
+  "sort_number": 1295,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Niemand wird im Stich gelassen.%–Stitch",
+  "rules_text": "Mache einen Charakter deiner Wahl bereit.",
+  "card_identifier": "97/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=b05799ee6558d95fb183715bb99c9a30562a0cc03ab82778ade6b835f1128e4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f6e5af29327158b84340dfdb807f6b271f251b7c3a7be29cf283988058c68af1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f064cd3b4a6ea031412b662abb696dec7b48e392702076b5a9213b6cdea99cf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

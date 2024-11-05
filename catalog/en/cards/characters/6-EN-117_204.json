@@ -1,0 +1,42 @@
+{
+  "name": "Moana",
+  "subtitle": "Self-Taught Sailor",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Koni",
+  "deck_building_id": "8eff1d2190a411b5fb11b72010f471fd055dde07",
+  "culture_invariant_id": 1316,
+  "sort_number": 1315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess",
+    "Pirate"
+  ],
+  "flavor_text": "You wanna tell me I don’t know what I’m doing? I know I don’t!",
+  "rules_text": "LEARNING THE ROPES This character can't challenge unless you have a Captain character in play.",
+  "card_identifier": "117/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=bc8e8ff5fc70ee37822f2a8338cafaa453e9cc024801150f4044db31003c49a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=24bd050fdddbb04a217bae6aa74668253547420166062022c72c63a883163f99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=c5c31a80e419069b6f28e2332eb5a65958990be7425e7593a56823929dc4f451",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

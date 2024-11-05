@@ -1,0 +1,33 @@
+{
+  "name": "Ben fatto!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Carlos Gomes Cabral",
+  "deck_building_id": "e18dacf13ba36a2bb5ba634fdc8789594b85507a",
+  "culture_invariant_id": 1226,
+  "sort_number": 1225,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sii fiero di questo distintivo. Te lo sei guadagnato.%—Judy Hopps",
+  "rules_text": "Un personaggio a tua scelta riceve +1 per questo turno.",
+  "card_identifier": "27/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=d6d05b92699b5dec95b858050e8472553ab01ef8d253eafc385c6d9697cce31a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=5b2c11c8bf3c9d6a09ccba08cdcd5779651ae79b2f608eccba8b8ffb4f7fd306"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=aae55012fb478e8c4914124d86a74d32c0cb17799bac7b506be2108f719e51b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Wendy Darling",
+  "subtitle": "Mutige Kapitänin",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "French Carlomagno / Mariana Moreno",
+  "deck_building_id": "b3be12a2703c95466d26dd17ba82bd3145cfbfd8",
+  "culture_invariant_id": 1307,
+  "sort_number": 1306,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) MACHT SCHNELL, LEUTE! Solange du mindestens einen weiteren Piraten im Spiel hast, erhält dieser Charakter +1 und +1.",
+  "card_identifier": "108/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=d7b561643c7e081c8cc137a18173e4dfe2a79a024be2cfe9bea20ef77998e7f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=0b544ac653ce9dc6a11277ad7b45b7bf4af68eab30b61f81ea97e9b323e31f02"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=2f81a2391c8984c892c704364c51dff4ac24fb64532bb8e7d8778652fd555c2f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

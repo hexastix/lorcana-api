@@ -1,0 +1,44 @@
+{
+  "name": "Tigger",
+  "subtitle": "In the Crow's Nest",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "John Loren",
+  "deck_building_id": "dfa8a8096bd718d380931f64e28ae3d4947a6313",
+  "culture_invariant_id": 1325,
+  "sort_number": 1324,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Tigger",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) SWASH YOUR BUCKLES Whenever you play an action, this character gets +1 and +1 this turn.",
+  "card_identifier": "126/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=0f32e1ddb50dd774ba48d634f62ec7efd9f2675646402aedfab5c247f85e2325"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=35faed20a8ca1b5374357029c001e94c2db5824797edc3be978719c60a66e160"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=4f12420ee2b65a0a170b3aa7db5e387f6e9dc4f10a9b8539e3965e6c02d52754",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

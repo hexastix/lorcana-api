@@ -1,0 +1,41 @@
+{
+  "name": "Jasmin",
+  "subtitle": "Rebellische Prinzessin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Malia Ewart",
+  "deck_building_id": "800d5007d5b5ff2c47833042fe234c370d0741d4",
+  "culture_invariant_id": 1305,
+  "sort_number": 1304,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "Selbst die kleinste Maus kann den größten Unterschied machen.",
+  "rules_text": "DU WIRST ES NIEMALS VERMISSEN Jedes Mal, wenn dieser Charakter erkundet, verlieren alle gegnerischen Mitspielenden je 1 Legende.",
+  "card_identifier": "106/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=c53c0a3be15ac6d7d1974bedcde5e4ac5df8b7d81c2e44d01ea7f72b8263a524"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=027f5e0f4221636e1515ec9064450331b1e6ff4af8cc41789b0e4c0c8a6c9260"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=19a7cb314febc2c82355f55d969e777534c950d2a3e34036e2236b0e29f9ee6e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

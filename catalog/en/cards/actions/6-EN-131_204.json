@@ -1,0 +1,33 @@
+{
+  "name": "Energy Blast",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "c679d181159ab4450f19fa0e4f60c90439382f17",
+  "culture_invariant_id": 1330,
+  "sort_number": 1329,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Did you <really> think I would fight fair? —Jafar",
+  "rules_text": "Banish chosen character. Draw a card.",
+  "card_identifier": "131/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=2615161e5b5a44b9179ab35ab7984d4b5e63ec889e031e59dba008354624fe1b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=2ce6642f77ba25f2c891273dfa7fd5aa5b664c92fdc5aa84fd49f054ac8eda47"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=9776c25d53d5387861080342994994c6dfb0ab50a4e620ac747d4e86c7233f40",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

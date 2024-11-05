@@ -1,0 +1,37 @@
+{
+  "name": "Treasure Mountain",
+  "subtitle": "Azurite Sea Island",
+  "willpower": 9,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
+  "culture_invariant_id": 1402,
+  "sort_number": 1401,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SECRET WEAPON At the start of your turn, deal damage to chosen character or location equal to the number of characters here.",
+  "card_identifier": "203/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=a98722370b68fce92a09f7561f03b24ff7d14f7bb3026e88fb1e628f71a4f46f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1f7722f59eb3db05f0013a3771d8a79f3b755e67e007e92238f3ce08c06764df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=963d0504eafe6cc1097e7777998167eefa356ec4fb5e808a66e502644735a347",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Card Soldier's Spear",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "ee955829a8966f3315097e2637aafd172c098344",
+  "culture_invariant_id": 1333,
+  "sort_number": 1332,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "A SUITABLE WEAPON Your damaged characters get +1.",
+  "card_identifier": "134/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=060ef63dd489857138185e3208b23097c6b4d3f1644f194f38e2014b26546c42"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=3aea010416d214fe3c835c04fa54a7c9de7b08d76893371b644d5b7f0e5abbad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=47f72fdaa0dc728b64c0d2c3c109ec031fe7547931ef1c2225a54ed2516785fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

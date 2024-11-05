@@ -1,0 +1,42 @@
+{
+  "name": "Cobra Bobo",
+  "subtitle": "Ehemaliger Mitarbeiter der CIA",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Eri Welli",
+  "deck_building_id": "e3e47e553b80da5e66909453f91e285f5af8e7bb",
+  "culture_invariant_id": 1387,
+  "sort_number": 1386,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) ÜBERLEGE, WAS DAS BESTE IST 2 — Ziehe 1 Karte. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "188/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=c2ffba128a2377e8a2ec38c62029b34558621463ab8dd9057e2251d35085c12c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=d6cd3dc80ac5835fa02bfa2e103bd7cf58eb369ee0349fac46fc821624de6b02"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=3f7ca01cfe8d719107ac79067b7c6358ab47f906371093510f3baf336c42061a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Specialista del Sartiame",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Ornella Savarese",
+  "deck_building_id": "75c2f2b59b5e5ac1e89500e05b1f13ffb995b892",
+  "culture_invariant_id": 1382,
+  "sort_number": 1381,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Jim Hawkins.) POSTAZIONI DI COMBATTIMENTO Quando giochi questo personaggio, puoi infliggere 1 danno a un personaggio o a un luogo a tua scelta.",
+  "card_identifier": "183/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=92960a7c84b475ff6ae282c2f0c7aee327e300d6cdad527438ad777e048554fc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=6ed9c952aff3dbe0509414114878b800818fcc5a1ca7aa115cf1c52134c923bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=09b0aedd46937f6a1caa750b7eba3f8597cab2729321632f82db024d03a05a80",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

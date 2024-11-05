@@ -1,0 +1,45 @@
+{
+  "name": "Ercole",
+  "subtitle": "Semidio Bambino",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Kapik",
+  "deck_building_id": "1d3e9a6a745129558b1f73e99dcf845eebef5469",
+  "culture_invariant_id": 1285,
+  "sort_number": 1284,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) FORTE, COME IL SUO PAPÀ 3 — Infliggi 1 danno a un personaggio danneggiato a tua scelta.",
+  "card_identifier": "86/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=09122414190b449948627f5ed139aaeb50e51d6d3c5e710e647d7a3f3af0fcf9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=e3755784de1b75f3071f51e15d39bf0b90ce39f8fe7083bc2defd727dd89859a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=f3c2f0f161dd8c38d021efa56926e92fb8f72931a4d150b1c01ac6bc708ba053",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=187aa206fd24dcb0b12cf14013385b3ea7597219ea9ee617ff8e15bff3d6f92f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

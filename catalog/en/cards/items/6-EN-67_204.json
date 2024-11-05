@@ -1,0 +1,33 @@
+{
+  "name": "Pixie Dust",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie / Mara Tango",
+  "deck_building_id": "81bfe47645b7451e9719f784418d39de85304651",
+  "culture_invariant_id": 1266,
+  "sort_number": 1265,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FAITH AND TRUST , 2 — Chosen character gains Challenger +2 and Evasive until the start of your next turn. (While challenging, they get +2. Only characters with Evasive can challenge them.)",
+  "card_identifier": "67/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=405d4552fea9f1b41b8025ea6f40b0e8890ea021467aa6f0f95aa49add6aaaef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=f1b6e46a2e05f52f3233b68f45a2419612231d31b6b4fb94ad7e965971eaa8ad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a010801cab6c029da56b781a712044073f6013cabb99ba8e12e2ba9f9ebbf0a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Boucanier alien",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Cristian Romero",
+  "deck_building_id": "a47fda64f881fde3e3a374f0e76152127d4c47e4",
+  "culture_invariant_id": 1423,
+  "sort_number": 1421,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Stitch.) PARÉ POUR L'ACTION Si vous jouez ce personnage en utilisant sa capacité Alter, vous pouvez placer une carte Action de votre défausse sur votre pioche.",
+  "card_identifier": "8/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=3c3911bc045a592f2f95348172bd699552c9e3731317df6ff270dfd08ce7a8da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=9d48a74aa3affd252271ac29d7f1f613bb969e855b9780cf30002e5435542125"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=e95181a97f2d537b77687c2f3c7d3248955a6162d2f9657b5e3e8c56dda00791",
+  "special_rarity_id": 1,
+  "foil_type": "SeaWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

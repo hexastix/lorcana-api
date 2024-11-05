@@ -1,0 +1,35 @@
+{
+  "name": "The Islands I Pulled from the Sea",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1329,
+  "sort_number": 1328,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "So what can I say except... you're welcome",
+  "rules_text": "(A character with cost 3 or more can to sing this song for free.) Search your deck for a location card, reveal that card to all players, and put it into your hand. Then, shuffle your deck.",
+  "card_identifier": "130/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=c8638fc60c91f79585e3a26eaaaa32868a89ad16ab16a5b45e207cdebd1f11d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=718b7fa46b6cc34749dbde9134a82cdd5b3d37a7e4597adfc27147fd5ef2f531"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4570468d6607333348661dce68e03041a23306f041d3005df16358401fdc2291",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fliegender Teppich",
+  "subtitle": "Fantastischer Flieger",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "4af7234f2f361cc2d518bc0f1bde9b379e38d192",
+  "culture_invariant_id": 1250,
+  "sort_number": 1249,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Teppich hat sich schon immer für uns ins Zeug gelegt! Er wird uns auch jetzt nicht hängen lassen.%–Jasmin",
+  "rules_text": "",
+  "card_identifier": "51/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=4692a7baf16612601d7152cd8f70e822f33dc885173dbd90895480cbacc1f319"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=7860f0db6e3d6eda409456a26a91737342fff22644a99360330a6b23fce50698"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=d9ab37ebf47fb1c145f9a9997fd1e6f7297d77883575c3f45c37db0314fda2a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Génie de la chimie",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Aristeidis Zentelis",
+  "deck_building_id": "5e86a95c6d5233fcd709d4134f62d1bdc511f8d1",
+  "culture_invariant_id": 1426,
+  "sort_number": 1424,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "Tu vas adorer !",
+  "rules_text": "ET T’AS ENCORE RIEN VU Lorsque vous jouez ce personnage, vous pouvez payer 2. Si vous le faites, chacun de vos adversaires se défausse d'une carte de son choix.",
+  "card_identifier": "11/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=49ecfbbedb9c291b77a2de0c5df29098738a30550d6968b687e109a4889b7112"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=d9c3cad1faa696137cf25e18541ba74446bd1d0ba276bcf52e1f54db8e013d67"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=af08aa11f57a74ce587960af5f396c2f8e95a62a1088ecc376cbea75fb0978a1",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

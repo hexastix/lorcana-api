@@ -1,0 +1,33 @@
+{
+  "name": "Transport Pod",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "7ce1dbdc93b5f783cc8edf3d2c379ccc8c0dc807",
+  "culture_invariant_id": 1299,
+  "sort_number": 1298,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "We've reinvented the very concept of transportation. —Alistair Krei",
+  "rules_text": "GIVE 'EM A SHOW At the start of your turn, you may move a character of yours to a location for free.",
+  "card_identifier": "100/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b6e5e6861c8dca7ba38d91f02871c1a932b701aa0d7ca5bbd26a913a8d93fa04"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=2cf0d21a12adf808c8358057611b2b9f833ee03dc7b61eb68e8ea81607eb2e16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=64d6b40c160af3bae767f45576a2a545d5f72ed61abeb91420675ef077fdba4e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Sergent",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "8364649fe1abbe5e1521f9dca01ac72dbac4ff28",
+  "culture_invariant_id": 1390,
+  "sort_number": 1389,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Résistance +1 (Les dommages qui sont infligés à ce personnage sont réduits de 1.) NIVEAU SUPÉRIEUR Pendant votre tour, chaque fois que ce personnage en bannit un autre via un défi, gagnez 2 éclats de Lore.",
+  "card_identifier": "191/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=55df28c35479df88812ce14dffc8fcd395a5ea829bf8d39862cd1f24a2eb6db1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=4dd257325c659910aa02d2d19dc653114f84dfca2d77fb0c8ac7823bf6dea5f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=9a911f0d4106982534ce3b00d112f246f5d0328b7b12dd5fcc1864e3f002b836",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

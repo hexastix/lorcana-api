@@ -1,0 +1,42 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Spécialiste en gréement",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Ornella Savarese",
+  "deck_building_id": "75c2f2b59b5e5ac1e89500e05b1f13ffb995b892",
+  "culture_invariant_id": 1382,
+  "sort_number": 1381,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Jim Hawkins.) POSTE DE COMBAT Lorsque vous jouez ce personnage, vous pouvez choisir un personnage ou un lieu et lui infliger 1 dommage.",
+  "card_identifier": "183/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=de62e3693f236b0cda1afb5c75082f1d1708de24dfdf2954bc2c89245371e1e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=ff7362752698d4f87513b0bd21fc3d5cb5077259e8bdc8d17b39c218bd14df10"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=09b0aedd46937f6a1caa750b7eba3f8597cab2729321632f82db024d03a05a80",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

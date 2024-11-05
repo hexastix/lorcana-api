@@ -1,0 +1,43 @@
+{
+  "name": "Winnie Puuh",
+  "subtitle": "Honigpirat",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "f4cb028f3925f704d8e509b9f824df90e1dfdf0e",
+  "culture_invariant_id": 1202,
+  "sort_number": 1201,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Pirat"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) WIR SIND PIRATEN, SIEHST DU? Jedes Mal, wenn dieser Charakter erkundet, zahlst du 1 weniger für den nächsten Piraten, den du in diesem Zug ausspielst.",
+  "card_identifier": "3/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=a6b31f880944ccbb2ffca8b4f6d41b287d44035467109c9c538f493966da9998"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=5611b5ab9ec44546731deda3496b837cd2f73c15ac72f3203c24534c26537378"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d1765187971ebd1e98e8c06d98835f2f1855073d319b47652679f79edd4d50f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

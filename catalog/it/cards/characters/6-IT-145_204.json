@@ -1,0 +1,41 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Prodigio della Robotica",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "6221b7a9a5416d22eb42da8eb9fdc0b92ea2e928",
+  "culture_invariant_id": 1344,
+  "sort_number": 1343,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "Qualche altro aggiustamento e dovrei quasi... esserci!",
+  "rules_text": "TECNOLOGIE FAVOLOSE , 2 — Cerca nel tuo mazzo una carta oggetto o una carta personaggio Robot e rivelala a tutti i giocatori. Rimescola il tuo mazzo e metti quella carta in cima ad esso.",
+  "card_identifier": "145/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=b45dc0eb697e5f9671bc876f60f4f576e63a0d3c72f46db4a9a1defb5e1fc8ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=a8df17f8b13f3207f73f1627dd320156b1ca279c98779c14ab31ca8592e134c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=df9cd2eaf657a0ce7870449cd1ddfbd9ed500d82d7ddfb0d7119b42501b35780",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

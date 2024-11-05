@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Bold Helmsman",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "OggysonArt",
+  "deck_building_id": "b875bd5dc6364f60d60d0e20e53a61eb2a7eb097",
+  "culture_invariant_id": 1313,
+  "sort_number": 1312,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Port, Abu! Port! To the <left>! ABU! The other way! —Aladdin",
+  "rules_text": "Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "114/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=10610070040d012809ae882cb4c771c9c3aac4f393e5b994396b03a420ef1c84"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=d0ebefab5ba918df707e0fedbeb7cc9bfcb6022401e76af190a85fb380bddc04"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=79be3710f8b46cb9b26f49e8d097ee5ba7664ad637f74bebad866a4c24675cdd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

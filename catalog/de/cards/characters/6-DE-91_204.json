@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Verkleideter Detektiv",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "3888d0922245bc3a1bdc014b65a50848f7973819",
+  "culture_invariant_id": 1290,
+  "sort_number": 1289,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Detektiv"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Basil-Charaktere auszuspielen.) SCHLINGEN UND HAKEN Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du 1 bezahlen, um eine gegnerische mitspielende Person deiner Wahl 1 Karte aus ihrer Hand auswählen und abwerfen zu lassen.",
+  "card_identifier": "91/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=39a445ddd5a5f3d1022537f5f5acc0f31bfb6125e176a1717e68350bcf301119"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=fe53b166c680318f2f683f2b9d0c5bb72fdbffb40fcbdc7febf6d7b6766e690e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=d0f5e22e5ef3914f63eca56607651bfb9ec9ad2753608ea25b592d4b597f23a3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

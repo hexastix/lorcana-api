@@ -1,0 +1,33 @@
+{
+  "name": "Méga-Robot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "8d39122e87e1603287c1b7a7ea6692a829361d9d",
+  "culture_invariant_id": 1297,
+  "sort_number": 1296,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "VISAGE SOURIANT Cet objet arrive en jeu épuisé. DÉTRUIS-LE ! , bannissez cet objet — choisissez entre: • Choisissez un objet et bannissez-le. • Choisissez un personnage avec au moins 1 dommage sur lui et bannissez-le.",
+  "card_identifier": "98/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=562e06e5bb8e9ef19b6e4887e82ffc62170b863ce669ab21538c8d54e90ff10b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=4ef4d945a260645fcef91e2844d2f4affa90aa69bc0f9cfd13fb9930c77bac67"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=b0b0fa9f105499a73869514e4eb7f0e60e8746412ee9e7f19ae48cef3df56dd9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Acciuffatore di Ombre",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "dfc8163cdbc129a82ce2ec3503e80504beae6599",
+  "culture_invariant_id": 1257,
+  "sort_number": 1256,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Non mi sfuggirai questa volta!",
+  "rules_text": "PRESA! Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, impegna un personaggio avversario a tua scelta.",
+  "card_identifier": "58/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=d747f3eca284c1e2ad68b3a6484f2a4ea083788a46ff4eb01d55d14124e6b423"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=026b31a690323598421d00fdffdee42f2a351bf67ee19dfc2b577c014bbc2ecd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=c8b0ce3bd07413eba2cdefd74e5aaf78b345e2be420fab771a1cb1fa93cd4b67",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

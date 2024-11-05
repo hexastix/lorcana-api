@@ -1,0 +1,43 @@
+{
+  "name": "Yokai",
+  "subtitle": "Supercattivo Scientifico",
+  "strength": 6,
+  "willpower": 10,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Nicola Saviori",
+  "deck_building_id": "8786d1eedf8f662d74c12dfd082d6ab631d01a63",
+  "culture_invariant_id": 1359,
+  "sort_number": 1358,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 6 (Puoi pagare 6 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Yokai.) TRASMETTITORE NEURALE Puoi giocare gratis gli oggetti chiamati Microbot. CONQUISTA TECNICA Ogni volta che questo personaggio va all'avventura, pesca una carta per ogni personaggio avversario con 0.",
+  "card_identifier": "160/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=e8a0472af902b1c124a6ead4c140c1cbf9260d25cf38462e487368c6a82c79be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=abbb7cc7146f2490ffe9002ee8580e6d42fb7a8b5234b6a5378ed147c4da4926"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=cce0eed2c3e73b40b69c9501755374d7d09a8342d89c438c4b6933aa08d62b21",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

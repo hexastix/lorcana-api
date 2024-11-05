@@ -1,0 +1,41 @@
+{
+  "name": "Adorabeezle Winterpop",
+  "subtitle": "Ice Rocket Racer",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Cristian Romero",
+  "deck_building_id": "7f503ec5fca52d7edab45e335055d55e8ba18ad6",
+  "culture_invariant_id": 1315,
+  "sort_number": 1314,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Racer"
+  ],
+  "flavor_text": "It'll take more than that to knock <me> out of the race!",
+  "rules_text": "KEEP DRIVING While this character has damage, she gets +1.",
+  "card_identifier": "116/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=caa684e4569c807d8dd9af699ec9ec01d654dccab4281800f768b83464974f32"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=3a98a20630851cf8d6e90e4c76ef4953366a8bef4ec79858ec4bdf73231ef137"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=6dc29409282c30af2880febfaa9089a90c50730aa3a118e803bfdf0d60e7c57b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

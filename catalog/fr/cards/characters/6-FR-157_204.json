@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Compagnon blindé",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brianna Garcia",
+  "deck_building_id": "8b5b13c2943342369d72422e5cc509b8583ffe42",
+  "culture_invariant_id": 1356,
+  "sort_number": 1355,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "LE TRAITEMENT EST EFFICACE Lorsque vous jouez ce personnage et à chaque fois qu'il est envoyé à l'aventure, vous pouvez choisir un autre de vos personnages et lui retirer jusqu'à 2 dommages. Gagnez 1 éclat de Lore par dommage retiré de cette façon.",
+  "card_identifier": "157/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=5b8bb831e6d63177b5d654030f5a808b2abfba0661b8acd6a54c7333b33095db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=a5189162cda3b0b4fedcc4a2aa7feb3c83f2f2b9f2a4c3f2dc89ddbe01c99066"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dfb4d81a083ef60dcbe295ed3d2fd4215b8ed18f37497bc8b50a007ee25a6123",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/gloss/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d3b4c5a769e5ead92a1ab080e0ef87cfd0fc61927180819b907377fb5476b316",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

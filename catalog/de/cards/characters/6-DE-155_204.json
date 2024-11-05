@@ -1,0 +1,41 @@
+{
+  "name": "Tadashi Hamada",
+  "subtitle": "Talentierter Robotiker",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alibeth Zermeno",
+  "deck_building_id": "0b792081c2b89fd31e4a7614861b132820260595",
+  "culture_invariant_id": 1354,
+  "sort_number": 1353,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Erfinder"
+  ],
+  "flavor_text": "Sein Werk lebt weiter.",
+  "rules_text": "JEMAND MUSS IHM HELFEN Wenn dieser Charakter im Zug einer gegnerischen Person verbannt wird, darfst du die oberste Karte deines Decks verdeckt in deinen Tintenvorrat legen. Lege danach diese Karte verdeckt in deinen Tintenvorrat.",
+  "card_identifier": "155/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=9875069bb00168607c9e24a69bef1480fdc744bda70df989917db171c6bfb0fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=afdd6b482a6a9dd952e5bfb397489da9edffbf94039b834c8c102c992900b9f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=235dd9fab591df9657bb4371968544d7ed0b88ee0d38a843dc1dea9cd6776e10",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

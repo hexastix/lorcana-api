@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Cuoco di Bordo",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e42ba1be2038f64d1b9a6bbdc92549f105c446ec",
+  "culture_invariant_id": 1380,
+  "sort_number": 1379,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "In fin dei conti, sono gli utensili più semplici che vengono in tuo aiuto in un batter d'occhio.",
+  "rules_text": "STRANA FERRAGLIA Quando giochi questo personaggio, un personaggio a tua scelta non può sfidare durante il suo prossimo turno.",
+  "card_identifier": "181/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=e0e2953dcd5c0d91d372fcdcbc3ccd156269e9c6d0f0d40a734d91fb73f774ba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=d0d8c098f9e1345860316ad579170cfeee82f880005ae907764d8b3d2de4308a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7a8866003ab791b3a66e9bd25c73194e8d43c5e9369d4b4da319809478725d44",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

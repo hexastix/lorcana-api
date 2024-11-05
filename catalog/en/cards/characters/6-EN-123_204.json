@@ -1,0 +1,43 @@
+{
+  "name": "Goofy",
+  "subtitle": "Flying Goof",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "c2cae8618c5864d48ef0976fe51bceeccce58b3f",
+  "culture_invariant_id": 1322,
+  "sort_number": 1321,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive",
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Hold on to yer hat!",
+  "rules_text": "Rush (This character can challenge the turn they're played.) Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "123/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=b52f05605038ad7a31cb6ab2988688a09a8059240b0fedf88344a916d4642807"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=aaae1a0e9c12d5c650a7f5f75627b74376fdeb245511a5ce8ee9ae10030a7588"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

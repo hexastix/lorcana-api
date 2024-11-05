@@ -1,0 +1,41 @@
+{
+  "name": "Yokai",
+  "subtitle": "Inventore Enigmatico",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "55cd9563ee89ea9d2f1a02ae1e76ddb0ba8d24fe",
+  "culture_invariant_id": 1342,
+  "sort_number": 1341,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "È ORA DI UN UPGRADE Ogni volta che questo personaggio va all'avventura, puoi riprendere in mano uno dei tuoi oggetti per pagare 2 in meno per giocare il tuo prossimo oggetto per questo turno.",
+  "card_identifier": "143/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2ef2903499c153b3345d6892b01ce7efa6ff2e69df04db28684377bb1b855a57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2b32809e5d9061342b2305b9f5596efe5b3a2fa68fce384abfd145a56b7ded62"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2a687b276447d3defa320b02d0e77da78f24f3f3b8c6dbc2e82a277604c5df36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

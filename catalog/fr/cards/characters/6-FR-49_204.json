@@ -1,0 +1,40 @@
+{
+  "name": "Diablo",
+  "subtitle": "Corbeau docile",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Jennifer Wu",
+  "deck_building_id": "f3ce8367f80305c407529f4e5600ff95c7d60c92",
+  "culture_invariant_id": 1248,
+  "sort_number": 1247,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Vole, et ne me déçois pas.%—Maléfique",
+  "rules_text": "VOLE, MON MIGNON ! Lorsque ce personnage est banni, vous pouvez piocher une carte.",
+  "card_identifier": "49/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=38d6ee964e6ff1ab41ab306fd4d7aa34ff1f57fab585ce77737c845073e88162"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=e8dd228ecae79f0217a847701c151fc75f8b941d4ed94e624d062bdcfaffc24e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=5b24595ef6f06803d33537ea6f301dea6353aa65f7932ae6b1f9e0f4d719ab36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

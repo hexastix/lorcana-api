@@ -1,0 +1,40 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Farceur du Pays Imaginaire",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Ellie Horie",
+  "deck_building_id": "901bb3b670de6ab6f6671cfe9ec415bbd300f9c0",
+  "culture_invariant_id": 1284,
+  "sort_number": 1283,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "L'AIR INNOCENT Ce personnage arrive en jeu épuisé. C'EST JUSTE UNE BLAGUE Tant que ce personnage est épuisé, les adversaires ne peuvent pas gagner d'éclats de Lore à moins que l'un de leurs personnages ait défié ce tour-ci.",
+  "card_identifier": "85/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=6271613ef27d9ebff4c01d36e97fcba13da70289540325151ac30a739dd1f0d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=8b68e251e617fcb1bdb78d98892724d497d6ed95a101bda77c6951b4369dbda4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=94a56168fc669be8e65e813ad4c349afca8524d90fd205b0fd2aea5d44b6feeb",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Yokai",
+  "subtitle": "Super-méchant scientifique",
+  "strength": 6,
+  "willpower": 10,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Nicola Saviori",
+  "deck_building_id": "8786d1eedf8f662d74c12dfd082d6ab631d01a63",
+  "culture_invariant_id": 1359,
+  "sort_number": 1358,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 6 (Vous pouvez payer 6 pour jouer ce personnage sur l'un de vos personnages Yokai.) NEUROTRANSMETTEUR Vous pouvez jouer des objets Microrobots gratuitement. PROGRÈS TECHNIQUE Chaque fois que ce personnage est envoyé à l'aventure, piochez une carte pour chaque personnage adverse avec une de 0.",
+  "card_identifier": "160/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=c1c8e9d7a424d604abef122664825a968f62bd7ce86069729f037f4f3ade51d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=593437d500fbfcdb4718f24db26b2d2171de2b806b1206efea82dd3fc740ae04"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=cce0eed2c3e73b40b69c9501755374d7d09a8342d89c438c4b6933aa08d62b21",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

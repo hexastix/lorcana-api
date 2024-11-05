@@ -1,0 +1,33 @@
+{
+  "name": "Gesund und munter",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Simone Tentoni",
+  "deck_building_id": "dc0802d2dbfb80d577f530a89334ff27a081f61a",
+  "culture_invariant_id": 1229,
+  "sort_number": 1228,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hier bin ich, Mama!",
+  "rules_text": "Wähle einen deiner Charaktere. Jener kann bis zu Beginn deines nächsten Zuges nicht herausgefordert werden.",
+  "card_identifier": "30/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=e640af13c26416b8cd8039e6805d2b548f84ee7669ecd1ab2810120674a9b740"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=a157425dc4b28e12005f8e9a1e2df13def2f48b79d4ec6f36f76c68adfef7ef2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=ce9d708ee5db703ce8c8ae44459599d3f805f0bfa69d225eae6611b97d923ce9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

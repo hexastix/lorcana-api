@@ -1,0 +1,43 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "Pile survoltée",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Alex Accorsi",
+  "deck_building_id": "aa571ab1daf373cf1e599119acfe9463dd530dbc",
+  "culture_invariant_id": 1272,
+  "sort_number": 1271,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) ARRÊTE DE PLEURNICHER. SOIS UNE FEMME Lorsque vous jouez ce personnage, vous pouvez payer 2 pour choisir un personnage adverse et gagnez autant d'éclats de Lore qu'il y a de dommages sur lui.",
+  "card_identifier": "73/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=31aa9f06111bda5c135c99025e8adf5397104e06d41ca0f23c0be58cb639cef6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=3920e50f17f99f92105a68a657093db692c6157cd012c3b359eac02365a6d032"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=b620d31d13124e3d22dbe911eaf7f02fdcf3889589f899190760bea737a454c6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

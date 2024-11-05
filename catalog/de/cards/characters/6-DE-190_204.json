@@ -1,0 +1,42 @@
+{
+  "name": "Randale Ralph",
+  "subtitle": "Riesenpranke",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Justin Runfola",
+  "deck_building_id": "bfd14e420afb55f030d821dddadf7a624938d2af",
+  "culture_invariant_id": 1389,
+  "sort_number": 1388,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Ich bin echt gut im Kaputtmachen. Ich kenne keinen, der das besser macht.",
+  "rules_text": "ICH MACH SACHEN KAPUTT Jedes Mal, wenn dieser Charakter erkundet, darfst du einen Gegenstand oder Ort deiner Wahl verbannen, um 2 Legenden zu sammeln.",
+  "card_identifier": "190/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=b0d649fdef1d035694e9b1441b63749729978f137fcc1a1606667a166bbb0134"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=980482d401aa76c95e0db3da90c52eff4e79e85f43b6e1bb92c20e62827ebd43"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=a088e76f01a477a6f83a74474c141a0393ca4f5fe1f7811e44bd808e7d3fb25f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/gloss/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=1870511bb128c73a35b94e6cd52eac7d853842614709a48d9b2f6593d4c70ca2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

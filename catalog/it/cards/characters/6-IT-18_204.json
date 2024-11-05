@@ -1,0 +1,40 @@
+{
+  "name": "Ciop",
+  "subtitle": "Agente Speciale Dispettoso",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "056e0b84434caa8b7fbcf65fb24fb0dd2a8f4473",
+  "culture_invariant_id": 1217,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "MATTO PER GLI SCHERZI Quando giochi questo personaggio, puoi mettere le prime 3 carte del tuo mazzo nei tuoi scarti per dare a un personaggio a tua scelta -3 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "18/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=25a5aca26010c41b4d1f7dc77e59a4830abcc40a7de702561007d5f5c79b3138"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=922ee29d45c9ee39db9b8b1603777effec86417670dfa6d120694b6d0a1e5536"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=6b77195e87073a4424948fb60e6d61e48ac7e248796f0f7186269495c120473c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

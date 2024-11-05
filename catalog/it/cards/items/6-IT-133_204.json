@@ -1,0 +1,33 @@
+{
+  "name": "Moneta d'Oro",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "b829707b48b92131aeda84cb34488cb3ae66cffa",
+  "culture_invariant_id": 1332,
+  "sort_number": 1331,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Pezzo di strudel mangiucchiato! Una moneta d'oro!%—Vanellope von Schweetz",
+  "rules_text": "ACCESSO SCINTILLANTE , 1 , esilia questo oggetto — Prepara un tuo personaggio a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "133/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=ec5091d1f071ed38ffa279a17d4963c638a49f0950455c32942feab7ab48fb58"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=d7d45fd1bf67243fecba8c4fd2c5654cc32c3274eeaad0e188805190e4bf73b6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=25d39b5f563935c7631fc20dd84bad078d323cbc1f0b8b502d6c80e6fc2be5a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tiana",
+  "subtitle": "Restaurant Owner",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Marine Josephine",
+  "deck_building_id": "17a9503bd48a90ee1ab532c11add850dbfa48460",
+  "culture_invariant_id": 1215,
+  "sort_number": 1214,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "The only way to get what you want in this world is through hard work.",
+  "rules_text": "SPECIAL RESERVATION Whenever a character of yours is challenged while this character is exerted, the challenging character gets -3 this turn unless their player pays 3.",
+  "card_identifier": "16/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=b57e456917945a6610d76a67235c949244f80dc2d78df22945f53975fb0d7cc2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=a053dab8655d0acec737209140c5df2edbb3f003c3c366062397323f26eab19a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=54ef5ee54d3eeb700cf8d83025341804f2ad539dc03a31d10156f9fe79fe2333",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=f6208ee29dbdbcc16318488e4dfbb92923f6073e75704f92eeae1071c64ca4d7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

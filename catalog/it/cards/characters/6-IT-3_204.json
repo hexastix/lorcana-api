@@ -1,0 +1,43 @@
+{
+  "name": "Winnie the Pooh",
+  "subtitle": "Pirata del Miele",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "f4cb028f3925f704d8e509b9f824df90e1dfdf0e",
+  "culture_invariant_id": 1202,
+  "sort_number": 1201,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Pirata"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) SIAMO DEI PIRATI, SAI? Ogni volta che questo personaggio va all'avventura, paga 1 in meno per giocare il tuo prossimo personaggio Pirata per questo turno.",
+  "card_identifier": "3/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=bd18ed402864776a5c31e87e9277c4bdd31dbf713c9b588597d2ff7e1f9aff0e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=634f611e1b8f1ba0194af7bc13e13e109c26cdf3749439f947f90bf22d9cdb5b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d1765187971ebd1e98e8c06d98835f2f1855073d319b47652679f79edd4d50f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

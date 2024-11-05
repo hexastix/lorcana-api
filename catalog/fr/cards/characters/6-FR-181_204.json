@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Maître-coq du vaisseau",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e42ba1be2038f64d1b9a6bbdc92549f105c446ec",
+  "culture_invariant_id": 1380,
+  "sort_number": 1379,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Alien",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "En fin de compte, ce sont les outils les plus simples qui s'avèrent les plus utiles en cas de coup dur.",
+  "rules_text": "BELLE QUINCAILLERIE Lorsque vous jouez ce personnage, choisissez un personnage qui ne peut pas défier lors de son prochain tour.",
+  "card_identifier": "181/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=83bcf97588e74629e38762406b4f4590eb4ea063fc15ba11eee133b1572257e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=fd59f9ef0f2ba5badade4d53e8e4c3fa64754f656481e0251a4ec4b89ad71d2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7a8866003ab791b3a66e9bd25c73194e8d43c5e9369d4b4da319809478725d44",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

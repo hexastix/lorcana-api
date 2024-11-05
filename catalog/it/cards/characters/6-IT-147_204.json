@@ -1,0 +1,40 @@
+{
+  "name": "Aspro Bill",
+  "subtitle": "Braccio Destro Scorbutico",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mike Mu / Livio Cacciatore",
+  "deck_building_id": "b85405677bfa63f0c76edbe774545fb569d2604a",
+  "culture_invariant_id": 1346,
+  "sort_number": 1345,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Vuoi entrare lì dentro? E va bene. Se lo fai però, non ne uscirai più.",
+  "rules_text": "IMMANGIABILE Quando giochi questo personaggio, un personaggio avversario a tua scelta riceve -2 per questo turno.",
+  "card_identifier": "147/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=350bd40df9541c292a646d50516ac5489a7685d5e0bd140cbfc54f59ea22729e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=3c2a22f2a3f40695c8dd200372a8e98a35faddedb1381319d0bb81140958e4e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=df5ab18a69acdb9132265a445c7430a456e412186bc524c7f6dec7e37a047c42",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

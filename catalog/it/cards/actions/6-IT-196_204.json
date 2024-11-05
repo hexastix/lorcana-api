@@ -1,0 +1,35 @@
+{
+  "name": "Ci sono Anch'Io",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "1c3668b9f7832219a19073b3d34479279d7ea3bc",
+  "culture_invariant_id": 1395,
+  "sort_number": 1394,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Un personaggio a tua scelta ottiene Resistere +2 fino all'inizio del tuo prossimo turno. Pesca una carta. (Il danno che gli viene inflitto è ridotto di 2.)",
+  "card_identifier": "196/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=1ee7de54c8b1e503f82f7f384a7cbbc0e75abe15492bbb2cec60ae0741a11f2e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=3178e3789c0f8cd81dd1906ba48d3349d5add237f6c8f56243b0c722d1943989"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=1dd9df2ed2108eef7183e620e62d961b0ec6484ec92092863d0c0b4e4cd37134",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

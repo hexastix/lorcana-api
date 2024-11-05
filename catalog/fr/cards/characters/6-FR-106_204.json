@@ -1,0 +1,41 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Princesse rebelle",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Malia Ewart",
+  "deck_building_id": "800d5007d5b5ff2c47833042fe234c370d0741d4",
+  "culture_invariant_id": 1305,
+  "sort_number": 1304,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Même la plus petite des souris peut faire la plus grande différence.",
+  "rules_text": "IMMANQUABLE Chaque fois que ce personnage est envoyé à l'aventure, chaque adversaire perd 1 éclat de Lore.",
+  "card_identifier": "106/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=caacf8b12ea3e9daec6fca04d915bd8e94e2da727494ff66c2e2e8b3b29eac15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=6ba9ff3e48602950e09c6a20d94c48cb98454ef2e068b301fc4053f9c18b6f34"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=19a7cb314febc2c82355f55d969e777534c950d2a3e34036e2236b0e29f9ee6e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

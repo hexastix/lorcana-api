@@ -1,0 +1,40 @@
+{
+  "name": "Fred",
+  "subtitle": "Mascotte di Giorno",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cam Kendell / Danielle Powers",
+  "deck_building_id": "05562e0fc692cd80e28bb8a07a9507dde98c18a0",
+  "culture_invariant_id": 1274,
+  "sort_number": 1273,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "...ma di notte... sempre mascotte della scuola.",
+  "rules_text": "NON È FICO? Ogni volta che questo personaggio viene sfidato, ottieni 2 leggenda.",
+  "card_identifier": "75/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=8c1dc321a8db04e31c6065c69f120d43da5c0c6c11eb546e75fbe1acdfbd5442"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=cc909cffefcf993b171e1e2eb7c77edaabd7a557eba6284e556e1322eb20a614"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=004c9c1770c62e1718cf2c52edb5260ab1a2759561da46d18e799dd3ac39a3ce",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

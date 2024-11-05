@@ -1,0 +1,33 @@
+{
+  "name": "Beuge dich meinem Willen",
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Michela Cacciatore",
+  "deck_building_id": "757f0fccd84ba8eda943973ae7776191b41a8323",
+  "culture_invariant_id": 1292,
+  "sort_number": 1291,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Endlich! Hier endet deine Glückssträhne!",
+  "rules_text": "Alle gegnerischen Mitspielenden werfen alle Karten aus ihrer Hand ab.",
+  "card_identifier": "93/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=f6980b2cc358b0457ddc6e796603f67ab3a631643017cbe76ee623cdf3018f77"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=8df2d05f68834ee9cc656489c765081ca30df2b7d2d250a5c44cb863087dbe79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=61163aa0b4947f7b2557532b297b9522152f2cb2a9868e1849a6feb7c00a6102",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

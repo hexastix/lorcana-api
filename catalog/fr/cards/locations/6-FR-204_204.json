@@ -1,0 +1,37 @@
+{
+  "name": "Chambre du Conseil galactique",
+  "subtitle": "Salle d'audience",
+  "willpower": 7,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "11c2fc733e0e0cd329da0505da8597555b3f5eda",
+  "culture_invariant_id": 1403,
+  "sort_number": 1402,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DÉCRET DE LA FÉDÉRATION Tant que vous avez au moins un personnage Alien ou Robot sur ce lieu, ce lieu ne peut pas être défié.",
+  "card_identifier": "204/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=d54b9839e67f939a2aae261bd1ff6aade69797ec76657c5b184f45d1018eb6df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=94dc350100d72b628588e53a86c964e82da4a9075ffa9460c1ddb45301cd8b90"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=780ae4632e794e3288ff89a461920cf7617011a5bb4a7b67f934d6b754dd7171",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

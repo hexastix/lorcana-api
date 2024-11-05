@@ -1,0 +1,37 @@
+{
+  "name": "U-Boot der Ritter des Rechts",
+  "subtitle": "Mobiles Hauptquartier",
+  "willpower": 8,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Geoffrey Boudout",
+  "deck_building_id": "1654a41cbf0a5d8cffe06c1736a1ad9ce4668c19",
+  "culture_invariant_id": 1368,
+  "sort_number": 1367,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PLANUNGSSITZUNG Zu Beginn deines Zuges, wenn du mindestens einen Charakter an diesem Ort hast, lege die oberste Karte deines Decks verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "169/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=602a573f85238bf6a5bef3154ba6882840dd09c0ddd027d764f53629b19442be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=d95f7c66c5c12ff2a38af63fe7693cead5a2ac50ada63559965f385e612e389d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=cb8a69a81c8f1c1e77becf0c878db9f221eaa6402a78b4c0b3664ac92fb0e7c0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Diese Inseln zog ich aus dem Meer",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1329,
+  "sort_number": 1328,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Davon abgesehen, gern geschehen … voll gerne",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Durchsuche dein Deck nach einem Ort, zeige diesen allen Mitspielenden und nimm ihn auf deine Hand. Mische danach dein Deck.",
+  "card_identifier": "130/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=49d32ef996dbe9ee8ab5de3ba804e57b7ba179fef7479b8ab6b0e4dcfbf158a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=318cb9bf5fadc8b63b4daab7488e18855e504e97c2271ed497a849085f6a0e8e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4570468d6607333348661dce68e03041a23306f041d3005df16358401fdc2291",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

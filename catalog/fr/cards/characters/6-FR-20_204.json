@@ -1,0 +1,45 @@
+{
+  "name": "Simba",
+  "subtitle": "Protecteur des Lions",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Kendall Hale",
+  "deck_building_id": "c369e5aa59fe458f7582aac34a9bce42be0eb6e6",
+  "culture_invariant_id": 1219,
+  "sort_number": 1218,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Simba.) COMPRENDRE L'ÉQUILIBRE À la fin de votre tour, si ce personnage est épuisé, vous pouvez redresser vos autres personnages.",
+  "card_identifier": "20/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=3dd93de4fd97e9add0a58710e968f31d7236a57659d77d5258f35903dd92878c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=c939ae05902f95606a2f6fb1b8cc74f6a89a201487c242a7e1b19564369c21fe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=17f3bb1028edfe2d6f672b2b797e68c996acc8d47dd1aa1a97495cfffb25b3c3",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/gloss/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=6c2d68c09e946381fb23a586eb4b957d2856f1169b6695a359be95e6ff09b02f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

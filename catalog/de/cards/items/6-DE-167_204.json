@@ -1,0 +1,34 @@
+{
+  "name": "Microbots",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "16564aa9bee85f228a9e033b2c6ce86800ff1717",
+  "deck_building_limit": 99,
+  "culture_invariant_id": 1366,
+  "sort_number": 1365,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UNBEGRENZTE MÖGLICHKEITEN Dein Deck darf beliebig viele Kopien von Microbots enthalten. INSPIRIERTE TECHNIK Wenn du diesen Gegenstand ausspielst, gib einem Charakter deiner Wahl in diesem Zug -1 für jeden Microbots-Gegenstand den du im Spiel hast.",
+  "card_identifier": "167/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=c20360c279138bc3c19215cb6d0ad2b250555d7d79b65e1d077de3b1c6dca270"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=a2dedff606ebdcab90ca9cbf7fdcb9edf03be1ea31aba5e9756906943d096005"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=ba5ac5d21b7f8d37e90547ddea62ac581e7795a6e4049d3fc735e3d798fa2f96",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

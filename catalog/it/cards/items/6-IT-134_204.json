@@ -1,0 +1,33 @@
+{
+  "name": "Lancia della Carta Soldato",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "ee955829a8966f3315097e2637aafd172c098344",
+  "culture_invariant_id": 1333,
+  "sort_number": 1332,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UN'ARMA ASSOLUTA I tuoi personaggi danneggiati ricevono +1.",
+  "card_identifier": "134/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=37dbe773ea6e6cc0bc9e26106964ae5e1654b8f1df914d50587c9b15335030fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=70934aa54065546a343b2bfb1bcfc7b569085ce9c80a2570647a48162750155f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=47f72fdaa0dc728b64c0d2c3c109ec031fe7547931ef1c2225a54ed2516785fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

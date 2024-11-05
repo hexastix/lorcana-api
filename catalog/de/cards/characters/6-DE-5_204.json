@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Sorgenfrei",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "68a34231c98071a16be76378488ed72f577175cd",
+  "culture_invariant_id": 1204,
+  "sort_number": 1203,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Sieh dir das Wasser an, und die Vögel! Wow. Wart's ab, wenn Timon und Pumbaa das sehen!",
+  "rules_text": "",
+  "card_identifier": "5/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=afe0eb13a1dd1f187c136823992d4b4407b16e9fe806b4d69185f3c04ab244fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=533a6cbd0f85712074d1987a2b8dff4ea088329def80f53e03a01e2e21f0232d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=3acef0306252ed26012fcd01279c6845cc177a58a6c3ed15301bf4b297cb428c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

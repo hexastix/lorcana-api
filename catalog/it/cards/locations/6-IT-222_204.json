@@ -1,0 +1,38 @@
+{
+  "name": "Montagna del Tesoro",
+  "subtitle": "Isola del Mare di Azzurrite",
+  "willpower": 9,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Sam Nielson",
+  "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
+  "culture_invariant_id": 1421,
+  "sort_number": 1420,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ARMA SEGRETA All'inizio del tuo turno, infliggi danno a un personaggio o a un luogo a tua scelta pari al numero di personaggi in questo luogo.",
+  "card_identifier": "222/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=8eb0002e551f895d251daeafc712a414fd5b435baae0757109f69028f6073110"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=25acadb07fc9f5a5b1295084f5a7e521113de9b0537111202fe9cd6057088f3b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=39d47838d4ed45e8bf73679aad5247bbb4732a8ecb9e4e7c42f41b8d71d1c2fa",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

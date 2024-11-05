@@ -1,0 +1,45 @@
+{
+  "name": "Hercules",
+  "subtitle": "Baby Demigod",
+  "strength": 6,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Kapik",
+  "deck_building_id": "1d3e9a6a745129558b1f73e99dcf845eebef5469",
+  "culture_invariant_id": 1285,
+  "sort_number": 1284,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) STRONG LIKE HIS DAD 3 — Deal 1 damage to chosen damaged character.",
+  "card_identifier": "86/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=a713dba030c9b60ba9783c96f03c80934eac8197d46693dabf8eec95d63481e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=18a8f597bc295ede4e3cd96b74acc95271718ae32870f8a3af1554cccbe69146"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=f3c2f0f161dd8c38d021efa56926e92fb8f72931a4d150b1c01ac6bc708ba053",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=187aa206fd24dcb0b12cf14013385b3ea7597219ea9ee617ff8e15bff3d6f92f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

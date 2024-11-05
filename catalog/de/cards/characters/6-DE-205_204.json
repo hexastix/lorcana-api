@@ -1,0 +1,43 @@
+{
+  "name": "Chip und Chap",
+  "subtitle": "Ritter der Rückgewinnung",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Jennifer Park",
+  "deck_building_id": "04c91810f3fc39ddc8a72d65dbdc698847565330",
+  "culture_invariant_id": 1404,
+  "sort_number": 1403,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Chip-Charaktere oder einen deiner Chap-Charaktere auszuspielen.) (Der Name dieses Charakters gilt sowohl als Chip wie auch als Chap) SUCHEN UND RETTEN Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du eine Charakterkarte aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "205/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=4d8297a21012cec5cede8669641d2883c64ae0560d5486450aaacae09d80fd32"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=6ea98448e51167528c5c175739c24c077670882b830b35aac8f80884fdde20ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=cd21966feb92edd29f9e3182ff2a653a7e6163f7ccdda9a4e784786f10f93a78",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

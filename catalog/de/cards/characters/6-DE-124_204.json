@@ -1,0 +1,45 @@
+{
+  "name": "Maui",
+  "subtitle": "Halb-Hai",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "628de10fb7ee738534e61c94d7bd1f30da4589dd",
+  "culture_invariant_id": 1323,
+  "sort_number": 1322,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Gottheit"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) CHUUUUHUUUU! Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, darfst du 1 Aktionskarte aus deinem Ablagestapel zurück auf deine Hand nehmen. WEGWEISEND Jedes Mal, wenn du eine Aktion ausspielst, sammelst du 1 Legende.",
+  "card_identifier": "124/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=a655d2083146ea4938ba8d2789a87413f360d8c52c09a678fb073c9715d54a8d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=81802961277c6db53df120c2b49b7c14f51ae6c920950016efe53bf6c3bcd497"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=92d564f6a697dffebc288d4f26692ce6dba74e4bf5c2c65dcc33f18e62884205",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/gloss/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=7df4ec15994105e4566f59cc7d689f23e13f2b62cb752164b6022329bea37983",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

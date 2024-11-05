@@ -1,0 +1,42 @@
+{
+  "name": "Pluto",
+  "subtitle": "Cane da Guardia",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "9c5bb650890624e6318d5c6b2158c61235bdcf01",
+  "culture_invariant_id": 1385,
+  "sort_number": 1384,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) BRAVO Mentre questo personaggio non ha danno, riceve +4.",
+  "card_identifier": "186/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=d223cea82cde90e8bcdcecbfe995d95702ea2795cf7f69df68b4e9af5c62a1d0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=4cf08be8e35ee082daa71c410b64aa15dde80dcff38080d43a328a4c71007dff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=1fca83c68a581cae0c8a9bfccd5b5bac0f165f80c291221ce4b60e6154b9fee6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

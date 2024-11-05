@@ -1,0 +1,33 @@
+{
+  "name": "Mach deinen Robo bereit",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3fc04fcbbbf9a961ececd00cd38396d95d1e1f9f",
+  "culture_invariant_id": 1364,
+  "sort_number": 1363,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Wähle eine Möglichkeit aus: • Mache einen Gegenstand deiner Wahl bereit. • Mache einen Roboter deiner Wahl bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "165/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=ed6ce91219721dd74a13b90cf0dffb20e7072f7ec737cfdd74f87fe8cde64a22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=31a9bee4dc17a214005c0612b86d6fdd202ea9b22a35b71e95015d674c2f4928"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=d0f9e1e5ace8d231300e04e2d9e08be23ed920c1cfec8675dd22884b067274c5",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

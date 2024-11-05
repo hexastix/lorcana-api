@@ -1,0 +1,33 @@
+{
+  "name": "Mannequin d'entraînement",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "b2ffd3347d1cead4ec8b7dece53827b4b191dc01",
+  "culture_invariant_id": 1400,
+  "sort_number": 1399,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "NE SECOUE PAS TROP LA BELLE , 2 — Choisissez un personnage qui gagne Rempart jusqu'au début de votre prochain tour. (Lorsqu'il vous défie, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "201/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=a25572ed69d193dbb3b336b6edf8e0e019aa17e8fa5d5c0cd791cbef26c2a4fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=f7291f40798aeec12db351090a7efc9b98801feac7276699e34109554f2cf02c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2f8783af6e11c52f497d813f983210d30d0a31eeba63c04a48565d109c8e1286",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

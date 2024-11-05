@@ -1,0 +1,42 @@
+{
+  "name": "Sisu",
+  "subtitle": "Drago Unificante",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Shannon Hallstein",
+  "deck_building_id": "587243dff13c71d2996bab2b8c17b82e1f0179ae",
+  "culture_invariant_id": 1253,
+  "sort_number": 1252,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Divinità",
+    "Drago"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA FIDUCIA GENERA FIDUCIA Ogni volta che questo personaggio va all'avventura, rivela la prima carta del tuo mazzo. Se è una carta personaggio Drago, aggiungila alla tua mano e ripeti questo effetto. Altrimenti, mettila in cima o in fondo al tuo mazzo.",
+  "card_identifier": "54/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=3b6e47dacff9f48266c5a7742ec9ab1e5a2eab803402aafe31ed18bfb13f8b22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=4cccf1cf7e09de82915070a18aaa91d64a923086ad31df5155c5c576ca542ce5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=8c2cdc08f4d3fdf733389bc6786120c9344a6e5651919fe4808d0b8a98e79477",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

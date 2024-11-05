@@ -1,0 +1,40 @@
+{
+  "name": "Tante Cassie",
+  "subtitle": "Plus grande fan",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "e21945b3edba79d71ce6d25e5a756f1a97ba9337",
+  "culture_invariant_id": 1337,
+  "sort_number": 1336,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor"
+  ],
+  "flavor_text": "Venez les génies, vos cerveaux doivent mourir de faim.",
+  "rules_text": "HEUREUSE D’AIDER Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage Inventeur qui gagne +1 pour le reste de ce tour.",
+  "card_identifier": "138/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=113ab79ce96a5e840e96bc345688cc8a5387cd0f9e451c1374ff0c4670cdfba2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=f422ed51a7237d0a84c30bc3fea3f9d170eab65c34fa49e4023bb2415415f2a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=5cda09a192a48f8589299b9a23b12a9029f45449478744ca87ad1a4d462c50ab",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

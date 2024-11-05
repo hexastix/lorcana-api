@@ -1,0 +1,43 @@
+{
+  "name": "Käpt'n Amelia",
+  "subtitle": "Kommandantin der Legacy",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Mario Manzanares",
+  "deck_building_id": "cfbdd1113e262b66941b16da85701f5a8aa882eb",
+  "culture_invariant_id": 1420,
+  "sort_number": 1419,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Alien",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "EIN JÄMMERLICHER HAUFEN Dieser Charakter kann nicht von Piraten herausgefordert werden. ALLES TIPPTOPP Deine anderen Charaktere erhalten Robust +1, während sie herausgefordert werden. (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.)",
+  "card_identifier": "221/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=461b6fc93a16ac3ad3c99cf30c9973bfdc9e5e5e48471e215b91e7a7ae6ce820"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=941c1765a4d8a6a1490805266448c63dfaca57dbc8d2600f4c6428eb19a71ecf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=fd482036dab5cf1930ca125196afc639bffd3815c02c90ad2e895eb550cb0f50",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

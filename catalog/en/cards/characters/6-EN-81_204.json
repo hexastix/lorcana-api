@@ -1,0 +1,42 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Pirate Captain",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1280,
+  "sort_number": 1279,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "The answers we’re looking for are on the other side of that maze, I just know it!",
+  "rules_text": "DISTANT SHORES Whenever one of your Pirate characters quests while at a location, draw a card.",
+  "card_identifier": "81/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=842be0209063e639d3b67c585d1025f27638395e9e3ecd2073608dd6b593fb21"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=0b98e01504335cc725ff8d8b758f6e22e31518fb41a9db2c056285a91c39367c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=19130974758a0ebee6e754e11c5300c653c1f37278e690d30e987d821805a5e7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

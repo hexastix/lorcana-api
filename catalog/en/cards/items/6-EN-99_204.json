@@ -1,0 +1,33 @@
+{
+  "name": "Galactic Communicator",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "5de77ec98209b02711da467966a414e2894f860a",
+  "culture_invariant_id": 1298,
+  "sort_number": 1297,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The best way to keep in touch with those you're looking for.",
+  "rules_text": "RESOURCE ALLOCATION 1 , Banish this item — Return chosen character with 2 or less to their player's hand.",
+  "card_identifier": "99/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=91b28accc238ca3d2ad264240f3612909f0661e8334660e24e4fbec5160b5c99"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a823558f9c9dcaa725645e2b1f6509eb9d301ead0d81234c0f793bf1e25e2869"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=52d90649c00cdfee86455596d6eeb5445c7443c2f2f796a623379e4029092db2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

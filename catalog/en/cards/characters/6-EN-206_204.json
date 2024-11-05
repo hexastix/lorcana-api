@@ -1,0 +1,42 @@
+{
+  "name": "Tiana",
+  "subtitle": "Restaurant Owner",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Casey Robin",
+  "deck_building_id": "17a9503bd48a90ee1ab532c11add850dbfa48460",
+  "culture_invariant_id": 1405,
+  "sort_number": 1404,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "SPECIAL RESERVATION Whenever a character of yours is challenged while this character is exerted, the challenging character gets -3 this turn unless their player pays 3.",
+  "card_identifier": "206/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=5e0019cc3dc3f04f424c0da80b290ccd4d0da2da60491e6dc24d75fcd986f01e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=2c6801ad96c89f22148345345a4e27290261fc5c6332cc5e640cb970fcb757af"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=c3963c98c819435b7dcc6952a952cbcb0e04ac68ee1d0779b50c957558699edf",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

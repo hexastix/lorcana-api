@@ -1,0 +1,42 @@
+{
+  "name": "Baymax",
+  "subtitle": "Persönlicher Gesundheitsbegleiter",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Laura De Pascale",
+  "deck_building_id": "dcbcc092217bb31b8bc790a740f918c336552b29",
+  "culture_invariant_id": 1417,
+  "sort_number": 1416,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Roboter"
+  ],
+  "flavor_text": "",
+  "rules_text": "VOLL AUFGELADEN Wenn du einen Erfinder im Spiel hast, zahlst du 1 weniger, um diesen Charakter auszuspielen. DU HAST „AU“ GESAGT 2 — Entferne bis zu 1 Schaden von einem anderen Charakter deiner Wahl.",
+  "card_identifier": "218/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=24afb28a70dc6f348986f340b28547060fcdebf03af0286da498208b05c06218"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=0170a6f09717f7bcd5c5b973e8df38c9f27a3bccdeb831b3e4de7a2ebde1a520"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=12b580bde206e94c0b791ad7353772377966d1db9650f2b74a097ed88d6192c2",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Big Buddy",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a503ad476cccbf9d1686da8dde53a17a5189485c",
+  "culture_invariant_id": 1383,
+  "sort_number": 1382,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Raya: Nothing gets past Tuk Tuk. <Nothing>. Sisu: Except butterflies! Oh, and birds! Raya: Fine. <Most> things don’t get past Tuk Tuk.",
+  "rules_text": "",
+  "card_identifier": "184/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0a803d2e6509d124b606c2b64b34a27d87138018a46bc322ac729dfe87499b69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=919c77bd7b92c86dd9cffef763d06b18d53e954932830664d6585d7292af978e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=832913004e0bb0da8bbf96b7c204912cb7e29a33a6030c4ed3f8f5e6021ac712",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

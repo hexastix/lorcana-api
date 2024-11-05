@@ -1,0 +1,41 @@
+{
+  "name": "Yokai",
+  "subtitle": "Professor Callaghan",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jennifer Park",
+  "deck_building_id": "6ee000fc42f514e53290d8d11037f59628e7a180",
+  "culture_invariant_id": 1357,
+  "sort_number": 1356,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Inventor"
+  ],
+  "flavor_text": "You are all brilliant scientists and inventors. Think of what we could do with this little device. How do we push the boundaries of what is possible?",
+  "rules_text": "",
+  "card_identifier": "158/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=ed0791334fe708f490638de1ade0faeb8d82ee69bed842ece0438c022729fe4e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=e1351f33badee11b135431e1fec7df55b69834c211079dfd72cac2fd7d8ba51b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=b2043fc6e27a82e7590a460b77d21f180155e22104897ab40f3245c91457d04d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

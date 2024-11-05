@@ -1,0 +1,41 @@
+{
+  "name": "Mullins",
+  "subtitle": "Membre d’équipage chevronné",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "50c699882acf4c49f535574ca8c8d34101ab6ff3",
+  "culture_invariant_id": 1376,
+  "sort_number": 1375,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Tout ce que vous voulez, Monsieur Mouche ! Sauf ma part du butin…",
+  "rules_text": "RENTRER DANS LE RANG Tant que vous avez un personnage Monsieur Mouche en jeu, ce personnage-ci gagne Résistance +1. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "177/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=59d1d91830acbf10c4b76bccaae04b19a70391cc96dbe226785ff8f730cfeb4e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=27ee55ea9ed7d349c375ec8a4f7af04529d16749bad55283aa50aeff4a4afd59"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=1c4895808326be2e06526294dba0b576dfa89382088b4b06a009a8f00d05dad4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

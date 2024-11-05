@@ -1,0 +1,42 @@
+{
+  "name": "Capitano Amelia",
+  "subtitle": "Comandante della Legacy",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "cfbdd1113e262b66941b16da85701f5a8aa882eb",
+  "culture_invariant_id": 1391,
+  "sort_number": 1390,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Alieno",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "CANAGLIUME VARIO Questo personaggio non può essere sfidato da personaggi Pirata. TUTTO A POSTO Mentre vengono sfidati, i tuoi altri personaggi ottengono Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "192/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=c6c679f3cc69479ed3d92a0bb2ea3c71c2abd7350eec2ce2db1ec9b8174b47e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=71f5aaff013f5c032f642942b0bee1bd55adeb5f8bbb53d92304110f521fa642"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=887831e09f4edac5c01d2aac0a679e40bd2797928fc8c38cb8ba86b4c90496e6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

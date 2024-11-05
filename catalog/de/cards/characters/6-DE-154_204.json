@@ -1,0 +1,41 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Teamleiter",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "ff11309d766c3ab5b5c66c8ce13f398571351161",
+  "culture_invariant_id": 1353,
+  "sort_number": 1352,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "ICH MUSS JEDEN EINZELNEN VON EUCH UPGRADEN Deine anderen Erfinder erhalten Robust +1. (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.) FORME DIE ZUKUNFT 2 — Schaue dir die oberste Karte deines Decks an. Lege sie anschließend entweder auf dein Deck oder darunter.",
+  "card_identifier": "154/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=fe7e2b1250dc8aeb41ac4b6b2757b8dbb83345b03820c9195b7898579e62d13d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=f0816879645b69b74fb69c9114c8978868a88bbd0e89d41bbd2302a27415b852"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=9235f15db392e9518ba9a14e694732d2a261ba1e39d0808836a084ed8090dd7f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

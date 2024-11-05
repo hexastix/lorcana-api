@@ -1,0 +1,40 @@
+{
+  "name": "Génie",
+  "subtitle": "Charpentier naval enthousiaste",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "9f18aa651926abcab52db9a4fa2d54f330f4e235",
+  "culture_invariant_id": 1237,
+  "sort_number": 1236,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Pour les marins indécis, nous avons trois, je dis bien trois navires en un! Il vogue, il vole, il te découpe tes patates en frites! Et tout ça pour un prix misérable : juste un petit vœu.",
+  "rules_text": "",
+  "card_identifier": "38/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=5dd42528557e24aa8bce1c9bc674ab1fc04173591d44347525bdd8654fa3461b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=55265b4b9d98bbf1d26a31e2677d28f7e31c730fefc78e24967b37623c840109"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=16b0a991a8d342110a87722dd71663d6ceafe13f10843d31d4d1d89b1c22e287",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

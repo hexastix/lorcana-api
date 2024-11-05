@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Ship's Cook",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e42ba1be2038f64d1b9a6bbdc92549f105c446ec",
+  "culture_invariant_id": 1380,
+  "sort_number": 1379,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "At the end of the day, it's the simplest tools that come through for you in a pinch.",
+  "rules_text": "HUNK OF HARDWARE When you play this character, chosen character can't challenge during their next turn.",
+  "card_identifier": "181/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=3a514cb2fb1cb5b4af31005b464975d09cc0e72c0f9d2cbda5a9755946df994f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=069d117f65dca6e3dd90f6f737c35b5edb3260ba58fca0d13eb358d5f4b36947"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7a8866003ab791b3a66e9bd25c73194e8d43c5e9369d4b4da319809478725d44",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

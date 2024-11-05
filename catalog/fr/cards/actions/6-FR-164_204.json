@@ -1,0 +1,33 @@
+{
+  "name": "Coup de main",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Therese Vildefall",
+  "deck_building_id": "f86b89b67c0d769c407b76fcf395e4d3a14bbd31",
+  "culture_invariant_id": 1363,
+  "sort_number": 1362,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Lorsqu'il s'agit de rendre le monde meilleur, chaque petit geste compte.%—Judy Hopps",
+  "rules_text": "Choisissez un personnage qui gagne Soutien pour le reste de ce tour. Piochez une carte. (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "164/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=bea6ff974731f6bbed9811d3ad4753a572d6bca344a80b5c0a79b728c20cdae7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=7f097029a97db7d4207255f9a3941224816fa1ad69987ebaca6b43e85969d752"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=f7ef65eaac4c79fd67462b567862fd5fa448e3643922b78cf2cb7b69e33600af",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

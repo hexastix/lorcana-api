@@ -1,0 +1,33 @@
+{
+  "name": "Lose the Way",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "efd47478baf36aa353f4ec8a99d33cc331c1b1f6",
+  "culture_invariant_id": 1262,
+  "sort_number": 1261,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Well, when one's lost, I suppose it’s good advice to stay where you are until someone finds you. —Alice",
+  "rules_text": "Exert chosen character. Then, you may choose and discard a card. If you do, the exerted character can't ready at the start of their next turn.",
+  "card_identifier": "63/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=e50e20541b9069ce6edcac055a08f950c5e169cc7cc5efb46dbc7652e541ade9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=4cdc21baef00168d028cc00002889dce79b8474611cd989e481fac9106008422"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=c76e0245b61cf556385651e803999bbcc90b698d4f70995bb3bc6c526f091cbf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

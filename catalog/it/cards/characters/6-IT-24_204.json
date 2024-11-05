@@ -1,0 +1,39 @@
+{
+  "name": "Signor Litwak",
+  "subtitle": "Proprietario dell'Arcade",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amanda Duarte / Julio Cesar",
+  "deck_building_id": "2b218e9fef97146992d8ada33a9b4abcc9bc1c1b",
+  "culture_invariant_id": 1223,
+  "sort_number": 1222,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Salve ragazzi, prego. Che piacere, che piacere. È bello vederti, amico.",
+  "rules_text": "LA GANG È TUTTA QUI Una volta durante il tuo turno, ogni volta che giochi un altro personaggio, puoi preparare questo personaggio. Non può andare all'avventura o sfidare per il resto di questo turno.",
+  "card_identifier": "24/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=7d3cc12b04cf5bf6e72ac4abfa44d868fe32653174e5d13e1ebe632472d57036"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=914a83f127d0c86b61733dd5496f239f75c23fc6390891549bc4d846fc222b86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=6f06f9ab1336c38e630ab4c4032cb0483b775951ee1ab3fd6b1680884b1b2d82",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

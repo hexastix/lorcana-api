@@ -1,0 +1,42 @@
+{
+  "name": "Yzma",
+  "subtitle": "Chimiste sournoise",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Whitney Pollett",
+  "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
+  "culture_invariant_id": 1408,
+  "sort_number": 1407,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "SENS LA PUISSANCE — Si vous avez moins de 3 cartes en main, piochez jusqu'à avoir 3 cartes en main.",
+  "card_identifier": "209/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=bc8c9fb36c6bf4e1b90f3b44ad1f0f97ff9e990ea93192c799a36996367b9756"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=466fd9f2579d66416441369c8cf688ec7b2778cd654a35eb631b029e64da4af3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=6869b08ebe47a8925771efa241e8c7937f87f936c6fea82b6a9135b59f363b70",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

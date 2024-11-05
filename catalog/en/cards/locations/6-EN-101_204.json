@@ -1,0 +1,37 @@
+{
+  "name": "Perilous Maze",
+  "subtitle": "Watery Labyrinth",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Matthew Oates",
+  "deck_building_id": "f81280fd57b41193ef1b6c791b142bd584a2a840",
+  "culture_invariant_id": 1300,
+  "sort_number": 1299,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LOST IN THE WAVES Whenever a character is challenged while here, each opponent chooses and discards a card.",
+  "card_identifier": "101/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=6593bb57d4bcac4acfc887f107e4f00425a47c82d03b183a05f3094e67a929b1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=ba43dc13f58596977d5cd81cb739c3385d95f2d1a1a046dae62948ae2b7f11d7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=b7e0365d5c308c88e35e673b473ce3ea6d9fedd85ee86907a9cf8fcd4063eed4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

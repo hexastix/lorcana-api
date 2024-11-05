@@ -1,0 +1,43 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Piraten-Ausguck",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c1342a66787eb3f74ae51488e7b16a4ad1776975",
+  "culture_invariant_id": 1427,
+  "sort_number": 1425,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Pirat"
+  ],
+  "flavor_text": "Minnie lehnte sich nach vorn. Konnte das wahr sein? War dies endlich die Insel?",
+  "rules_text": "LAND HO! Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du eine Ortskarte aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "12/P2 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=ec7765c79b4adf2efc09535d4b233df2d9af0f48125952b40cbe8f74909b8a49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=119eb0db2de509030ebb8dbe68f9b85d6401d91bad23e863094f317ee1f72594"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=07c19546af89e7835650216c7abe03505270cfe56b6733e01110c859f5b5829d",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

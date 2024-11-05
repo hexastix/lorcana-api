@@ -1,0 +1,33 @@
+{
+  "name": "Sei Tornato",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Michaela Martin",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1296,
+  "sort_number": 1295,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Nessuno viene abbandonato.%—Stitch",
+  "rules_text": "Prepara un personaggio a tua scelta.",
+  "card_identifier": "97/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=ec41a2f4e9b709e14fa008e8baac8839c1cfe95530012f57cb79911653b6e966"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=b80322c9077207d267120263d98d9bf5b783c18f7c9417bcd026701959a1a216"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f064cd3b4a6ea031412b662abb696dec7b48e392702076b5a9213b6cdea99cf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

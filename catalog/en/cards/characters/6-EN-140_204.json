@@ -1,0 +1,43 @@
+{
+  "name": "Gadget Hackwrench",
+  "subtitle": "Brilliant Bosun",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Alex Accorsi",
+  "deck_building_id": "0b66351b877ceea82545c1ad0fa5559e4ca44113",
+  "culture_invariant_id": 1339,
+  "sort_number": 1338,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Gadget Hackwrench.) MECHANICALLY SAVVY While you have 3 or more items in play, you pay 1 less to play Inventor characters.",
+  "card_identifier": "140/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=55375221f65bbdf5607c9defab0a5bf1c7e461281864983880cb305d7cba1916"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=62add01a514246dd4e89783aa856051fa0411b4200441b26cdf35bdee19f3e6e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=46041e1683b794a4471ef95c8a9623e050f28f464ace89d2b4b56f0acb5e5475",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

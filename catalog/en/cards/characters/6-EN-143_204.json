@@ -1,0 +1,41 @@
+{
+  "name": "Yokai",
+  "subtitle": "Enigmatic Inventor",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "55cd9563ee89ea9d2f1a02ae1e76ddb0ba8d24fe",
+  "culture_invariant_id": 1342,
+  "sort_number": 1341,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "TIME TO UPGRADE Whenever this character quests, you may return one of your items to your hand to pay 2 less for the next item you play this turn.",
+  "card_identifier": "143/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=f16bbfbac748dd9503caa7d259274ac9a1d9fa33511f336f99172a4ef13efc9a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=f5c5356ae3848b2bb56428d23a3dd8b36899133051dc1343547a8fcc1de85203"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=2a687b276447d3defa320b02d0e77da78f24f3f3b8c6dbc2e82a277604c5df36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

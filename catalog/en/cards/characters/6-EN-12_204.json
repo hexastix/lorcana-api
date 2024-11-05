@@ -1,0 +1,40 @@
+{
+  "name": "Chip",
+  "subtitle": "Ranger Leader",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "ef51cbc17715fb350e0780b289c630d1a5e5a916",
+  "culture_invariant_id": 1211,
+  "sort_number": 1210,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "THE VALUE OF FRIENDSHIP While you have a character named Dale in play, this character gains Support. (Whenever they quest, you may add their to another chosen character's this turn.)",
+  "card_identifier": "12/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=2f9d5a56d0c348f21d899a2ec59d62e882057b4c2441ca3ac24283b8f8d34aa0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=e0a999d1c6d4350b3cec30a8867a919eadc1efa7a95af3c7264e280c0d52b81f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

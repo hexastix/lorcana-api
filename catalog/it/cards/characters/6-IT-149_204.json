@@ -1,0 +1,41 @@
+{
+  "name": "Wasabi",
+  "subtitle": "Ingegnere Metodico",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Taraneh",
+  "deck_building_id": "4c44b7fca1f2f6a3616e9dc982897df5179befa0",
+  "culture_invariant_id": 1348,
+  "sort_number": 1347,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "LAME VERDI Quando giochi questo personaggio, puoi esiliare un oggetto a tua scelta. Il suo giocatore ottiene 1 leggenda. RIFLESSI FULMINEI Durante il tuo turno, questo personaggio ottiene Sfuggente (Può sfidare altri personaggi con Sfuggente.)",
+  "card_identifier": "149/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=a5f20e44d9556a976018c4e0f2e07e47918b7da1339b12b3a8830e9ee6fda406"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=866e21df46c7012f57c05c21c4dac8d4ee37302a73ee7f31e1a74c018c67d496"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=e52b6b41409d3a913fdbc0e0110367136b7acde47578f9c0d5fb951c19339e66",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

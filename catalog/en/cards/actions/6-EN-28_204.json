@@ -1,0 +1,35 @@
+{
+  "name": "I Won't Give In",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "706fa1412f17c17eec43c565c3816da3af922fe6",
+  "culture_invariant_id": 1227,
+  "sort_number": 1226,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "'Til I reach the end, and then I'll start again",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Return a character card with cost 2 or less from your discard to your hand.",
+  "card_identifier": "28/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=4de41087369ff0677c55db3941c70f6873a9c3cb78190f664c84e1820169124e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=14ebae70d417a51526b131efcb179eb94eb6665e31a5fa2d67105949e5b7b83c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fc7b58c7e6c2991f00a23c9a573ea92fd97fb2fe11819f991796177133123946",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

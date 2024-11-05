@@ -1,0 +1,33 @@
+{
+  "name": "Polvere di Fata",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie / Mara Tango",
+  "deck_building_id": "81bfe47645b7451e9719f784418d39de85304651",
+  "culture_invariant_id": 1266,
+  "sort_number": 1265,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "UN PO' DI FANTASIA , 2 — Un personaggio a tua scelta ottiene Sfidante +2 e Sfuggente fino all'inizio del tuo prossimo turno. (Riceve +2 mentre sta sfidando. Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "67/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a81986478ea7f2420606fd8c5be438cfa21caae9d22af275681bb0890ee841f2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e73f65ed2c6ee6f086a8babbef85880a092bb5fc4402432cf013d5b132b242d6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a010801cab6c029da56b781a712044073f6013cabb99ba8e12e2ba9f9ebbf0a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

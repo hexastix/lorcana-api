@@ -1,0 +1,42 @@
+{
+  "name": "Judy Hopps",
+  "subtitle": "Einfallsreiche Häsin",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Lauren Barger",
+  "deck_building_id": "064fed608ce47eeb3e4ae4b15e6fc7f3e58763e1",
+  "culture_invariant_id": 1214,
+  "sort_number": 1213,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) BRAUCHST DU HILFE? Am Ende deines Zuges darfst du einen deiner anderen Charaktere wählen und bereit machen.",
+  "card_identifier": "15/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=f487cd3b2bb51f60310fc551c81b5786cca170c086d68e071f8f39d1342b3a41"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=08343eda690578a33b2adfeb37ab39c47531b0832eb53b79e888334207f61be2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=75fd72c7d3afe81dc717bef1fd3c62cd505685ae7f41667def5319b70be65489",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

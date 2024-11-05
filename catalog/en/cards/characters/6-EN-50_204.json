@@ -1,0 +1,41 @@
+{
+  "name": "March Hare",
+  "subtitle": "Absurd Host",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "James Rey Sanchez",
+  "deck_building_id": "85684498bb53ffacf3dd58bf50013dc97d5766b6",
+  "culture_invariant_id": 1249,
+  "sort_number": 1248,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Clear the table? Don't mind if I do!",
+  "rules_text": "Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "50/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=89478748cf93642f6015d254ef5ef8f4cb2e98487cd9458d74896cef7ae9de21"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=af5332b18a25d9f5535de177e95fbd4fc1fdb11179d1dc7f2bbe56506aa0679d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=f66ba4fd43eb9c94adf6690c32cbd0ff18d3a99359153fc76ad7bd062d211e7c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

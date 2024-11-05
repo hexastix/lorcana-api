@@ -1,0 +1,33 @@
+{
+  "name": "Twin Fire",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "73b07fd4a3e3b908b93c8d9272c0d97db0f6e2ff",
+  "culture_invariant_id": 1396,
+  "sort_number": 1395,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I got 'em! No, <I> got 'em!",
+  "rules_text": "Deal 2 damage to chosen character. Then, you may choose and discard a card to deal 2 damage to another chosen character.",
+  "card_identifier": "197/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4239a06af41b34e63a6b76782efa807223a5636ceb14aed803b9f587412a39b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=bec9c8bd856cf9664397ec936be9c94a2b9d1631fbae9eb7563b5b987c28c75d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

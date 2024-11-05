@@ -1,0 +1,40 @@
+{
+  "name": "Scar",
+  "subtitle": "Herzloser Jäger",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "51cf185eed5f063045efe5e721db44e75fd71f54",
+  "culture_invariant_id": 1326,
+  "sort_number": 1325,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Es ist für das Allgemeinwohl. Ich bin mir sicher, du verstehst das.%–Scar",
+  "rules_text": "ZÄHNE BLANK WIE NEID Wenn du diesen Charakter ausspielst, wähle einen deiner Charaktere und füge ihm 2 Schaden zu, um einem anderen Charakter deiner Wahl 2 Schaden zuzufügen.",
+  "card_identifier": "127/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=c1fd039793cd5006603ef251e8bfb43ad533ee44eac3a04f851b36fde669dc40"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=9ed8c772fee5bc7c441c878eaaad85839983a115a0d8b088f6713eaca9db7087"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=b5f03f59a9cc671c0ccc7c84fb4e6a99a11872fe861ebf302c8f11e5aaf309b2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

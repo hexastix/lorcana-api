@@ -1,0 +1,41 @@
+{
+  "name": "Mullins",
+  "subtitle": "Seasoned Shipmate",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "50c699882acf4c49f535574ca8c8d34101ab6ff3",
+  "culture_invariant_id": 1376,
+  "sort_number": 1375,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "Anything for you, Mr. Smee! Except me share o' the plunder...",
+  "rules_text": "FALL IN LINE While you have a character named Mr. Smee in play, this character gains Resist +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "177/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=7743a5a64374dde83e83dde30115549a2da397b599b41bf8f666ba9292f9ca66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=76497211c57fb1764b7c955c870a86d75066db85845f4a3f5806c83841d1f8a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=1c4895808326be2e06526294dba0b576dfa89382088b4b06a009a8f00d05dad4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

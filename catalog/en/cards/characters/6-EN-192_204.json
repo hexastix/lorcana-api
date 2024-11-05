@@ -1,0 +1,42 @@
+{
+  "name": "Captain Amelia",
+  "subtitle": "Commander of the Legacy",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "cfbdd1113e262b66941b16da85701f5a8aa882eb",
+  "culture_invariant_id": 1391,
+  "sort_number": 1390,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Alien",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "DRIVELING GALOOTS This character can't be challenged by Pirate characters. EVERYTHING SHIPSHAPE While being challenged, your other characters gain Resist +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "192/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=a87a40ab6082c549ac8c983288caa5f0cd7c36c142848e1f89effd77e8f71fdc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5b92f7be07ef9f75ae53bb98b59d78eccf04fe7b17ab94ff6e91192be986f04b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=887831e09f4edac5c01d2aac0a679e40bd2797928fc8c38cb8ba86b4c90496e6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Tic et Tac",
+  "subtitle": "Rangers-sauveteurs",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 8,
+  "author": "Jennifer Park",
+  "deck_building_id": "04c91810f3fc39ddc8a72d65dbdc698847565330",
+  "culture_invariant_id": 1404,
+  "sort_number": 1403,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Tic ou Tac.) (Ce personnage compte à la fois comme un personnage Tic et un personnage Tac.) À LA RESCOUSSE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, vous pouvez renvoyer une carte Personnage de votre défausse dans votre main.",
+  "card_identifier": "205/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=c8d2b8c578409111121e65cb1a1ec39cf99f54f9740afecb2e3b339f26c19722"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=e7b31abfd8f53f7b13298b39643d0808aae8db375129fbc7b83632a626b868ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=4070642761afe9cba428bd614e619ca2f502defcf2af2fcf4e09b77b556910d3",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

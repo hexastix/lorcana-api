@@ -1,0 +1,38 @@
+{
+  "name": "Pista di Sugar Rush",
+  "subtitle": "Traguardo",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 6,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Andrew Peña / Aubrey Archer",
+  "deck_building_id": "2e9b2654fee6bda12d63af97fba258e9e06d906c",
+  "culture_invariant_id": 1406,
+  "sort_number": 1405,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LI HAI FATTI FUORI TUTTI! Quando sposti un personaggio in questo luogo da un altro luogo, puoi esiliare questo luogo per ottenere 3 leggenda e pescare 3 carte.",
+  "card_identifier": "207/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=ad8d07068201b644fb7b370f7c54cc747dca1fc895cd3de82235f216882372f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=5b573a601015d77ce7649beeadbc10a43a8c8c64b03560c03849de3205a379f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=45531265901e909956202924de38343d96063f83ea38da0ce8c0252204bbe5bb",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Energie-Explosion",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "c679d181159ab4450f19fa0e4f60c90439382f17",
+  "culture_invariant_id": 1330,
+  "sort_number": 1329,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hast du <wirklich> geglaubt, ich würde fair kämpfen?%–Dschafar",
+  "rules_text": "Verbanne einen Charakter deiner Wahl. Ziehe 1 Karte.",
+  "card_identifier": "131/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=597ff3efe782c7634f24167ca833a559b14d4afa5d5012d45ae978029da203c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=fbe0f5b3ce74f3a58c677e32caff5da0ffa78234a83d760b5438b92a0b868311"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=9776c25d53d5387861080342994994c6dfb0ab50a4e620ac747d4e86c7233f40",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

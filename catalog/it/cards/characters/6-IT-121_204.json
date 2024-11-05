@@ -1,0 +1,45 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Leader dei Kakamora",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jared Mathews",
+  "deck_building_id": "2cbd4be598255ef11ca13055090452c77e2f618a",
+  "culture_invariant_id": 1320,
+  "sort_number": 1319,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Vaiana.) RADUNARE LE TRUPPE Quando giochi questo personaggio, puoi spostare un qualsiasi numero di tuoi personaggi nello stesso luogo, gratis. Ottieni 1 leggenda per ogni personaggio che hai spostato.",
+  "card_identifier": "121/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=e9ca901db9ba8011e5fb9c314dafc61a5d7d0ff2bcdd65890b838f3ee72debd6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=5a05038908ef49406cd3f8fe742a29827bec4b5b3e27115222fc5d6cf92a5351"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=c8eee825aa4f20c8ab023ace7b2d8306533d5cdf5116ac035d780e0f18cb53df",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

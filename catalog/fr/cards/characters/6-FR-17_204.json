@@ -1,0 +1,40 @@
+{
+  "name": "Présidente du Grand Conseil",
+  "subtitle": "Dirigeante de la Fédération",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "815730fcdc4c6accaa8fb641f7e2461e62a2513a",
+  "culture_invariant_id": 1216,
+  "sort_number": 1215,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien"
+  ],
+  "flavor_text": "Je veux un spécialiste de cette planète ici, tout de suite !",
+  "rules_text": "TROUVEZ-LE ! Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages Alien gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "17/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=f83e98fe3ae6668527b29016d17df3b84c1ed04ebf83675060bb801037d17896"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=b87996d54f2954fa06dcde8bbefba6d7ba10ec591b1e979710517e904278c724"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=c6946edbf30661e14234a308a3d14834b48be464da983ea350e6322446779e1f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

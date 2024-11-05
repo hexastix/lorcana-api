@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Kapitän Dummkopf",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "de1dc7e183d6fd495d31f00169f15c86b7f0e656",
+  "culture_invariant_id": 1388,
+  "sort_number": 1387,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Alien",
+    "Kapitän"
+  ],
+  "flavor_text": "Zahlenmäßige Überlegenheit ist überbewertet. Ich bevorzuge meine eigene Überlegenheit.",
+  "rules_text": "",
+  "card_identifier": "189/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=25aa824d9498643275ea5639b385d82127da356e145cd5d358d6fc00a4425f15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=28544e9d4a3bd3b57a6f2046931388841d12db45be3c897da46802bbf13a09ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=7f0aff080c3cf5376ac2cb2d5a5f9c9123da43a762f6774d452ad7053c6a60d3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

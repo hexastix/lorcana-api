@@ -1,0 +1,40 @@
+{
+  "name": "Diablo",
+  "subtitle": "Obedient Raven",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Jennifer Wu",
+  "deck_building_id": "f3ce8367f80305c407529f4e5600ff95c7d60c92",
+  "culture_invariant_id": 1248,
+  "sort_number": 1247,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Go, and do not fail me. —Maleficent",
+  "rules_text": "FLY, MY PET! When this character is banished, you may draw a card.",
+  "card_identifier": "49/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=12284053e76986fd02eda78b99755884c5cc2699fdb9eae3099c9005e040039e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=be25d1b7b0517423736c04be736ee8aaf7e33386f565c2d4892a96b671a2f64b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=5b24595ef6f06803d33537ea6f301dea6353aa65f7932ae6b1f9e0f4d719ab36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Cavallerizza di Kumandra",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Mariana Moreno / Peter Brockhammer",
+  "deck_building_id": "b3e92dc9fec7a75e1e43f9771888ad399934f8f7",
+  "culture_invariant_id": 1306,
+  "sort_number": 1305,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "ANDIAMO, FACCIAMOLO Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi preparare un tuo altro personaggio a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "107/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=fdac637f90b0f80243383a2b98d241e0be1d31ff1e13f46c9511a408aa6f52d0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=51080adb3c700447a01d2c0365110cf2205937d6361d082187fff3dcf2d8b540"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=3fa27c11bddc320390ed4d4a8108cb6f95a4eeb8b6eb1cdfeae0b18482b5dde3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

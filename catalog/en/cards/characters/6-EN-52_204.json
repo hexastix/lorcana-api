@@ -1,0 +1,43 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Ethereal Guide",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Sam Nielson",
+  "deck_building_id": "7c256dab47d16a89c757b84431b8ddca2fb61add",
+  "culture_invariant_id": 1251,
+  "sort_number": 1250,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 7 (You may pay 7 to play this on top of one of your characters named Rafiki.) ASTRAL ATTUNEMENT During your turn, whenever a card is put into your inkwell, you may draw a card.",
+  "card_identifier": "52/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=e96874cb4e0f234ef449989c7ef4788a2c3af453eda5b05ea834f2c328b4f064"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=ebb35297bd735124b789939dc6bcf501f49134e23d2277688fec8c61d6ca98e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=439716ee402eea1f3b7e6fe27cb94f95968ea149f99eb5377ea5af02a3237caf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

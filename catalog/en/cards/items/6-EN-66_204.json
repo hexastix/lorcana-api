@@ -1,0 +1,33 @@
+{
+  "name": "Mad Hatter's Teapot",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Parisi",
+  "deck_building_id": "7549f2439840b19bdfd1593d9b50b0e97f7dff7c",
+  "culture_invariant_id": 1265,
+  "sort_number": 1264,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Alice: My goodness, the tea missed the cup! Mad Hatter: No, no, my dear—the cup missed the tea!",
+  "rules_text": "NO ROOM, NO ROOM , 1 — Each opponent puts the top card of their deck into their discard.",
+  "card_identifier": "66/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=3129b0368280c0324405fde85117646f45974ff4243f644d1e6726074f79ad0a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=84fd8388850298cb92088d0a189c54fc8a0202bd4821aac22777302b35261b64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=0d34dfe2bc8c39e1f0d7ec0f039c70836c57233020a067479736c49983497f1c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

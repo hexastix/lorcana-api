@@ -1,0 +1,33 @@
+{
+  "name": "Ukulele de Naveen",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "bd8e75a123246ef236f0a66f968470bd4463ebf3",
+  "culture_invariant_id": 1230,
+  "sort_number": 1229,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "J'adore cet instrument! Dès que je gratte, tout le monde danse.%—Prince Naveen",
+  "rules_text": "TIRES-EN UNE MÉLODIE 1 , bannissez cet objet — Choisissez un personnage qui compte comme ayant un coût de +3 pour chanter des chansons pour le reste de ce tour.",
+  "card_identifier": "31/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=9c429db3a3f82098f5e88a14a0683aa2f7361856cd14deb5da1ebd7528c26769"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=306f22f34e63de54af217ff2cf0856839c7e7344119b7826d5160dd87a4eb4e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=4c08e002386bf4de35f04315789478d3a9ddaba454781ffb8dca8451e91eb51e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

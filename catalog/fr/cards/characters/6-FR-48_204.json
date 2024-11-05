@@ -1,0 +1,46 @@
+{
+  "name": "La Fée Clochette",
+  "subtitle": "Reine des fées d’Azurite",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Laia López",
+  "deck_building_id": "a14b9855899fc7d42931d6539a133ec95160f245",
+  "culture_invariant_id": 1247,
+  "sort_number": 1246,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable",
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié",
+    "Reine",
+    "Fée",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages La Fée Clochette.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) MODÈLE RAYONNANT Chaque fois que ce personnage est envoyé à l'aventure, vos autres personnages Fée gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "48/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=2851e9bc0ff7957f0f362c95c32edd23570fcd880d32dd5aa26086997d0cf0d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=aaf1d5f4d92eb7174811ebfe3e071c7057424dd31c5a6b10996753f7ba6fbb1a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=8b1c9595952f53f26d224a2fcbd5b0897948b6dea2b8ac9c4a64759a100eb330",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

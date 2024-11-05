@@ -1,0 +1,37 @@
+{
+  "name": "Insel der Eule",
+  "subtitle": "Abgelegener Eingang",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "7aa47d85c7274b41667c57cd8ebefe2dbe00b83c",
+  "culture_invariant_id": 1301,
+  "sort_number": 1300,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TEAMARBEIT Für jeden deiner Charaktere an diesem Ort zahlst du 1 weniger für die erste Aktion, die du in jedem Zug ausspielst. VIEL ZU LERNEN Jedes Mal, wenn du in einem Zug die zweite Aktion ausspielst, sammelst du 3 Legenden.",
+  "card_identifier": "102/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=dcd6eed7ff7360420cc3257ab82d40d73d2498790be765794e44afdb15533004"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=4c7f8fc7a237dbe1344860fb4fb0aec117906485de76f753b54546aa69fc8d7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=0fecba365a89399c5f42ee92178a3b1f844dd9594daa2b8814b18af8b0c8b247",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Mutiger Steuermann",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "OggysonArt",
+  "deck_building_id": "b875bd5dc6364f60d60d0e20e53a61eb2a7eb097",
+  "culture_invariant_id": 1313,
+  "sort_number": 1312,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Backbord, Abu! Backbord! Nach <links>! ABU! In die andere Richtung!%–Aladdin",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "114/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=d8b17b3fe738925a9fb48023f69dea2502e48f31f3935e03b44933b53a766980"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=df683ba9fc447099f62f52feb7d05d63968dfb51c78fa39f4aab864c6536af79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=79be3710f8b46cb9b26f49e8d097ee5ba7664ad637f74bebad866a4c24675cdd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Pluto",
+  "subtitle": "Guard Dog",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Hedvig Häggman-Sund",
+  "deck_building_id": "9c5bb650890624e6318d5c6b2158c61235bdcf01",
+  "culture_invariant_id": 1385,
+  "sort_number": 1384,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) GOOD BOY While this character has no damage, he gets +4.",
+  "card_identifier": "186/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=0ae66c1f5055b87569163e4e44882d875f4a5e803e8391a8cbf239f2403e7f21"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=14ea30d30eb0603c383446336b38d0465d54fae6ef5e4d3bd2b1e36a4602e84e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=1fca83c68a581cae0c8a9bfccd5b5bac0f165f80c291221ce4b60e6154b9fee6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

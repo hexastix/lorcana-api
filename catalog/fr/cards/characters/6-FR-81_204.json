@@ -1,0 +1,42 @@
+{
+  "name": "Daisy",
+  "subtitle": "Capitaine pirate",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1280,
+  "sort_number": 1279,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Les réponses que nous cherchons se trouvent de l'autre côté de ce labyrinthe, je le sais!",
+  "rules_text": "RIVAGES LOINTAINS Chaque fois que l'un de vos personnages Pirate sur un lieu est envoyé à l'aventure, piochez une carte.",
+  "card_identifier": "81/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=d5850290d42cde0607ffa5b4c8c61ddc21ace7a3e91bbb267d9e4f520e571986"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=5cfa12dace8c394432791477fa60e631c159d42a4a09843c42e9c4a9c6ffb5c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=19130974758a0ebee6e754e11c5300c653c1f37278e690d30e987d821805a5e7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

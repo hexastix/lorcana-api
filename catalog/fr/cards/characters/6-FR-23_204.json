@@ -1,0 +1,41 @@
+{
+  "name": "Petit Gourou",
+  "subtitle": "Le plus petit des pirates",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gianluca Barone",
+  "deck_building_id": "5e51d257d6b1fcde2adb3b7b91d7893fe3916c21",
+  "culture_invariant_id": 1222,
+  "sort_number": 1221,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Regarde tous mes bateaux, maman! Nous embarquons pour la mer Azurite!",
+  "rules_text": "MOI AUSSI, J’SUIS UN PIRATE ! Lorsque vous jouez ce personnage, vous pouvez choisir un personnage qui subit -2 jusqu'au début de votre prochain tour.",
+  "card_identifier": "23/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=30b2923a40d36aea5b72d7399329d59b4d110ca2673c39a719b3a86b54b11865"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=2fbb0ebc2770451a0ecb644ecdb549b9b72516dab65f948ae3d4ec7de2b232a2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9f28f1db5e881e4bd653c40d5f0b2e350a1aa10531fd8107f6d1da1c1444a110",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

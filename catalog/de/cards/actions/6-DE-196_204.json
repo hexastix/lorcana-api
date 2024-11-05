@@ -1,0 +1,35 @@
+{
+  "name": "I'm Still Here",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mike Parker",
+  "deck_building_id": "1c3668b9f7832219a19073b3d34479279d7ea3bc",
+  "culture_invariant_id": 1395,
+  "sort_number": 1394,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Robust +2. Ziehe 1 Karte. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "196/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=68c97abaacf3896d857d56861a3e89707bbeeb84461b28762305d0aec8280dab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=b9fca023241b23dbc4aad95b023d5b621747e977c7d06a779ce6199b7ebe0282"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=1dd9df2ed2108eef7183e620e62d961b0ec6484ec92092863d0c0b4e4cd37134",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

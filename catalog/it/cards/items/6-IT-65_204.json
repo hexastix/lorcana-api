@@ -1,0 +1,33 @@
+{
+  "name": "Bastone di Malefica",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "f0af7b77ab79602de64eaa232f48153d20f4cada",
+  "culture_invariant_id": 1264,
+  "sort_number": 1263,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "INDIETRO, PAZZI! Ogni volta che uno dei personaggi, degli oggetti o dei luoghi dei tuoi avversari viene ripreso in mano dal gioco, ottieni 1 leggenda.",
+  "card_identifier": "65/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=fbda8b039c793f808b814c4d2ddfa771422c8396f230a3da95c3c643d74e2427"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=b20207d4cecd3658dabb61b510eba8aa17128660e22f10635484d72b25eff96c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=775651f4c9f640e3731b8d65f305066ceed3fa339874b512f88f889d9ab49e0b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

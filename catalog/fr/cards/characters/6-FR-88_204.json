@@ -1,0 +1,40 @@
+{
+  "name": "Gazelle",
+  "subtitle": "Ange avec des cornes",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "aba5859d54a986286125b9b32e0aaf4ff2cc4a94",
+  "culture_invariant_id": 1287,
+  "sort_number": 1286,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "VOUS SAVEZ BOUGER Lorsque vous jouez ce personnage, choisissez un personnage qui gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "88/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=def4205a5049690ff700f0c0f35277253ad6093baaca51c118728a042e1e92ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=2463d535240260d73aba708e96d51aa642c3c09ee50d1b7a121b29a65e31b666"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=9e7311041ce8d8503ad6effc8a8a12d25df730b59fa80eadf19bdef912470d29",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

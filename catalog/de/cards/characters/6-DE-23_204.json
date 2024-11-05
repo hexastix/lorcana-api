@@ -1,0 +1,41 @@
+{
+  "name": "Ruh",
+  "subtitle": "Jüngster Pirat",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Gianluca Barone",
+  "deck_building_id": "5e51d257d6b1fcde2adb3b7b91d7893fe3916c21",
+  "culture_invariant_id": 1222,
+  "sort_number": 1221,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Schau mal, Mama, all meine Schiffe! Wir stechen in das Azurblaue Meer!",
+  "rules_text": "ICH BIN AUCH EIN PIRAT! Wenn du diesen Charakter ausspielst, darfst du einem Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -2 geben.",
+  "card_identifier": "23/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=6f2c74d9baf3a0ce55256599eae7fa7a5d60c3caf4e9ca719c73f6a264298d14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=67fcd2700c8f2715197e9f33763e7daa403026c0f0a39a0377edee4d0f7e5095"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9f28f1db5e881e4bd653c40d5f0b2e350a1aa10531fd8107f6d1da1c1444a110",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

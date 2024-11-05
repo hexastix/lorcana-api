@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Timonier intrépide",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "OggysonArt",
+  "deck_building_id": "b875bd5dc6364f60d60d0e20e53a61eb2a7eb097",
+  "culture_invariant_id": 1313,
+  "sort_number": 1312,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "À bâbord, Abu! À bâbord! À gauche! ABU! L'autre gauche!%— Aladdin",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "114/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=a9096e9b8964dfe3834e36861f002b57f0a6f6fc201a6540469ca004d7b0907f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=95d1a73236d4f308f7ceb5dba193cabc8ea08dd1e7c6eeb0c2ef55aaa21007ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=79be3710f8b46cb9b26f49e8d097ee5ba7664ad637f74bebad866a4c24675cdd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Hercules",
+  "subtitle": "Unwavering Demigod",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "d57ba4914c87d36251c93894e3081d6552322ca0",
+  "culture_invariant_id": 1379,
+  "sort_number": 1378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "That maze wasn’t so bad! Let’s see what this island has in store for us.",
+  "rules_text": "Challenger +2 (While challenging, this character gets +2.)",
+  "card_identifier": "180/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=b605c0a7bcb9127f71bd9679f514bde139776403c308021a793d3ce0d8c4215e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=60574231051afd565663669c2baba4697f150a461579ecb2d40d8d31029ec355"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f7632bf0b81bf85839bbf7dca450e6c67b9a27f898a1be1a1f3b3a24f709a601",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Machthungriger Wesir",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "f6ca44af428306a89520d97cbad882e26df17aae",
+  "culture_invariant_id": 1392,
+  "sort_number": 1391,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Die Kraft der zerbrochenen Krone ist beeindruckend, aber nicht genug. Mit <beiden> Hälften der Hexwell-Krone könnte ich über ganz Lorcana herrschen!",
+  "rules_text": "IHR BEKOMMT SCHON, WAS EUCH ZUSTEHT Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, füge einem Charakter deiner Wahl 1 Schaden zu.",
+  "card_identifier": "193/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=38cf0fbc58232d8b95c74fb985b33b5e4c04a72c76bb18ae6ec2e12666b9c633"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=acf83b20ac7ceba8cbc521c74113ded1555b4bc8fdb5fb0bead32b29d3dc72a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=3af380e66237134821618d564af84854039fdc7028c35bf655e833a2f5fcab6c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

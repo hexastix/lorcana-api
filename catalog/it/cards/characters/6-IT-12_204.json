@@ -1,0 +1,40 @@
+{
+  "name": "Cip",
+  "subtitle": "Leader degli Agenti Speciali",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "ef51cbc17715fb350e0780b289c630d1a5e5a916",
+  "culture_invariant_id": 1211,
+  "sort_number": 1210,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL VALORE DELL'AMICIZIA Mentre hai in gioco un personaggio chiamato Ciop, questo personaggio ottiene Aiutante. (Ogni volta che va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "12/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=d2eae4edacf6280268ad7a1f1bc248d391328330128bfa173afd875a17220992"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=e160d1fc4d009a75f03f96eaab1409f0551327f9d7861bd0b5c8aa15584aa9d6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

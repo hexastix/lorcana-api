@@ -1,0 +1,41 @@
+{
+  "name": "Pat",
+  "subtitle": "Flibustier",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Celeste Jamneck / Mariana Moreno",
+  "deck_building_id": "cc4f9781276050c70704d7062dfa20e416bed1cb",
+  "culture_invariant_id": 1321,
+  "sort_number": 1320,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Pirate"
+  ],
+  "flavor_text": "Pat a toujours cherché les ennuis. Aujourd'hui, il est enfin payé pour ça.",
+  "rules_text": "",
+  "card_identifier": "122/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=58bb0248944293e96837fb652cb7dc58d8c43ec79759e0a190dbc4fc7fdf3eb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=5146d8e3eb87a3c3cb56d585c6a9feec83dcf5faf449b4c01b06662b1b2f07ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a59a9d711364b86400bcd637250bb59dca03f2dd1e280ef24f19ad49d475bb34",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

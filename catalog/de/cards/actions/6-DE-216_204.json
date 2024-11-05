@@ -1,0 +1,36 @@
+{
+  "name": "Diese Inseln zog ich aus dem Meer",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1415,
+  "sort_number": 1414,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 3 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Durchsuche dein Deck nach einem Ort, zeige diesen allen Mitspielenden und nimm ihn auf deine Hand. Mische danach dein Deck.",
+  "card_identifier": "216/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=810b2ccdf122e277d7cc061022a9825c268001e5f272a2a3ec18d3dbc2d76a43"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=e0f1b8a6f5e9275e9eee7c42c53f05bdba49d1cb2f9bf40045fc1947afc67349"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=25ff8e4549c3c349e9408cea3fb9e54cb7fb270276ba6555accfbc40839a4249",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Kumandran Rider",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Mariana Moreno / Peter Brockhammer",
+  "deck_building_id": "b3e92dc9fec7a75e1e43f9771888ad399934f8f7",
+  "culture_invariant_id": 1306,
+  "sort_number": 1305,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "COME ON, LET'S DO THIS Once during your turn, whenever a card is put into your inkwell, you may ready another chosen character of yours. They can't quest for the rest of this turn.",
+  "card_identifier": "107/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=0ef5ba81919028c0324d506aa450621dd0770e2505c9b0cd842ed2eddb06f8d4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=d06dbab2b99901c1b4222a381d7d39f1a73c508d432db1f1d1a4841e6f26e17b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=3fa27c11bddc320390ed4d4a8108cb6f95a4eeb8b6eb1cdfeae0b18482b5dde3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

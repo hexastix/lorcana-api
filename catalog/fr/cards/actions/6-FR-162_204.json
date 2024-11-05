@@ -1,0 +1,35 @@
+{
+  "name": "We Could Be Immortals",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "6e428663c224995945b62be7fe69cd44cbb42939",
+  "culture_invariant_id": 1361,
+  "sort_number": 1360,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 4 ou plus pour chanter cette chanson gratuitement.) Vos personnages Inventeur gagnent Résistance +6 pour le reste de ce tour. Ensuite, placez cette carte dans votre réserve d'encre, face cachée et épuisée. (Les dommages qui leur sont infligés sont réduits de 6.)",
+  "card_identifier": "162/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=1811e80fcbc0cbc7e132edc008269b411d30da73b94b3054ec53ee2dd6158f91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=1a27f37397127be286f03d96eb0834861ab8a6124283ee15be116cc4d2d0f33b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=f841423ea552cb711bc12cfda6704f1956514822d61fc40bfd0e916665c152dd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

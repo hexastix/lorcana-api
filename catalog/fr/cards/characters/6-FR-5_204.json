@@ -1,0 +1,41 @@
+{
+  "name": "Simba",
+  "subtitle": "Insouciant",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "68a34231c98071a16be76378488ed72f577175cd",
+  "culture_invariant_id": 1204,
+  "sort_number": 1203,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "Regarde toute cette eau, et ces oiseaux! Ouah! Attends que Timon et Pumbaa voient ça!",
+  "rules_text": "",
+  "card_identifier": "5/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=732983776b45869430b2b3c34628618ecd4d6ac236a50d6aebadad0ac1116ec6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=ba99b4fb06e6379836d786d10cfc3e0eb9f3e7a37688d26258115cdb8bcb5827"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=3acef0306252ed26012fcd01279c6845cc177a58a6c3ed15301bf4b297cb428c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

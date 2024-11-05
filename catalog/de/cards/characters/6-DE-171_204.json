@@ -1,0 +1,40 @@
+{
+  "name": "Kokomora",
+  "subtitle": "Spezialist für Langstrecken",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "854ac978a94ec987ff018655c529e3e0c8c5aaa7",
+  "culture_invariant_id": 1370,
+  "sort_number": 1369,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Pirat"
+  ],
+  "flavor_text": "Sie sind sehr gut darin, Ärger zu machen.%–Maui",
+  "rules_text": "EIN BISSCHEN HILFE Wenn du diesen Charakter ausspielst und mindestens einen anderen Piraten im Spiel hast, darfst du einem Charakter oder einem Ort deiner Wahl 1 Schaden zufügen.",
+  "card_identifier": "171/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=97275382f6154bee134ffeb461c0264864705dfb515f52ba3889b94d54cf635a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=e70906b2b7f578251e407287207e875dee2774505c2b86aed46bcd2b77b2596a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4f02da37b5dd544592e471f3f9fac57080e53ddd5f79c6e30b23bd25a941fef2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Pliiklii",
+  "subtitle": "Wissenschaftlicher Experte",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "94ae4dc4c313e3605e27d113d392e6156f90089a",
+  "culture_invariant_id": 1343,
+  "sort_number": 1342,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Alien"
+  ],
+  "flavor_text": "Als ordnungsgemäß ernannter Vertreter des Galaktischen Rates melde ich mich freiwillig für diesen Auftrag!",
+  "rules_text": "MELDUNG ZUM DIENST Wenn du diesen Charakter ausspielst, wähle einen deiner Charaktere und lege ihn verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "144/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=8c76a59945d23550d3e7043c6fab24dab9d5eaa5896d87ec127b6e02148bf0bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=c49bd9c133892fe6cf0f3bcc7e09c01a531631b17bb4c80817fb3d5a25189c66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=adcc63c5454efa910243beedd47d0683ea602482bc979002e97a93932238b688",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

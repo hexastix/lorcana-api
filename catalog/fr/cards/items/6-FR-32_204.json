@@ -1,0 +1,33 @@
+{
+  "name": "Bateau pirate de Winnie",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Kaitlin Cuthbertson",
+  "deck_building_id": "1740993c2d9c41b47477e050c6664ad461d7aa89",
+  "culture_invariant_id": 1231,
+  "sort_number": 1230,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Le navire le plus amical de la mer Azurite.",
+  "rules_text": "SAUVETAGE EN COURS , 3 — Renvoyez un personnage Pirate de votre défausse dans votre main.",
+  "card_identifier": "32/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=5aab54fbe2369654bcf226b57fda0d83ba79bbea364cb1702aa9ec5cd25943ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=aeee645c5df075ee194b1bf37c66c4742415caa0ef157b9960e8174b28bc8cc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=fa25cb218c21e84311c19cb48ec1f07a669fcfff7c1fd0ecc5f541eee90956f6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

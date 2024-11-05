@@ -1,0 +1,40 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Stubborn Cabin Boy",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Ursula Dorada",
+  "deck_building_id": "6bd8397ecb06c70e85f625ba6d01900bc5dac7e2",
+  "culture_invariant_id": 1372,
+  "sort_number": 1371,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "COME ON, COME ON, COME ON! During your turn, whenever a card is put into your inkwell, this character gains Challenger +2 this turn. (They get +2 while challenging.)",
+  "card_identifier": "173/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=57d585e49199baf09b85adf13bb2e7674a328c488bf53a3861173b0b4a731cf1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=876d9aae4481a85904eac2c94591389438a45b8fbd70f9b7b11bdb9778bf0b95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=b9f66956e54481c4fc8b8d4297202b9b0090100474c66e327492218355622332",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Rigging Specialist",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Ornella Savarese",
+  "deck_building_id": "75c2f2b59b5e5ac1e89500e05b1f13ffb995b892",
+  "culture_invariant_id": 1382,
+  "sort_number": 1381,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Jim Hawkins.) BATTLE STATIONS When you play this character, you may deal 1 damage to chosen character or location.",
+  "card_identifier": "183/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=c5ea12d143dd1359298293ef8a26e72b3e01f2db7feee295c464c8569781787b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=0da2c08bbdd9dae576df7f86cf8b47f4908ad09820c5a19876ae435835ac442d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=09b0aedd46937f6a1caa750b7eba3f8597cab2729321632f82db024d03a05a80",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

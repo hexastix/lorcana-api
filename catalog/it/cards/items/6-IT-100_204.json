@@ -1,0 +1,33 @@
+{
+  "name": "Capsula di Trasporto",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "7ce1dbdc93b5f783cc8edf3d2c379ccc8c0dc807",
+  "culture_invariant_id": 1299,
+  "sort_number": 1298,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Abbiamo reinventato completamente il concetto di trasporto.%—Alistair Krei",
+  "rules_text": "UN BELLO SPETTACOLO All'inizio del tuo turno, puoi spostare un tuo personaggio in un luogo, gratis.",
+  "card_identifier": "100/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=91718ef6c012e26dc006635e6efe29756f365630c145726598d70f09e23e21e3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=54346ffdf3dddad82a78be94d61afea34385368992a6c441407225b56cdb3578"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=64d6b40c160af3bae767f45576a2a545d5f72ed61abeb91420675ef077fdba4e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

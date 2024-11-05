@@ -1,0 +1,43 @@
+{
+  "name": "Daisy",
+  "subtitle": "Capitaine pirate",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1410,
+  "sort_number": 1409,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "RIVAGES LOINTAINS Chaque fois que l'un de vos personnages Pirate sur un lieu est envoyé à l'aventure, piochez une carte.",
+  "card_identifier": "211/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=8c5a5be820359819e99e1b7eddc92fde7dab2f3f7f17817bfe4aa5067b141221"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=8780950aeccfddf610a9069393f7cf97ed31cb832f7ddf55e5e5b39facf81551"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=21beee8fc9e27c61075579dc9a9f7ddcc5d4ec44d1d98ea98ecee86fed03d693",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

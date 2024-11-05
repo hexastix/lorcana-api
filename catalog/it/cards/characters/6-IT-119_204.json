@@ -1,0 +1,43 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Comandante Intrepido",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "7e4d253d23bf3576df52bdc66b20bd353eea56dd",
+  "culture_invariant_id": 1318,
+  "sort_number": 1317,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 2 (Puoi pagare 2 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Aladdin.) RICORDA IL TUO ADDESTRAMENTO Quando giochi questo personaggio, i tuoi personaggi ricevono +2 per questo turno.",
+  "card_identifier": "119/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=e148a5ac57754f6699d1006e79e61ab5fd7d65408baa18f3a15af87fab2cd602"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=9f93d36c17041ec6f2f3ac7a7b6b02c6a3631de08619e04d1efa0b09ebe9d6f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=ae51b44973cdbd88cff42b23d9e6a4c605b23371d7bb40a3ad8b68f317b4b08a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

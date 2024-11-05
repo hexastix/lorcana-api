@@ -1,0 +1,38 @@
+{
+  "name": "Sugar Rush Rennstrecke",
+  "subtitle": "Ziellinie",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 6,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Andrew Peña / Aubrey Archer",
+  "deck_building_id": "2e9b2654fee6bda12d63af97fba258e9e06d906c",
+  "culture_invariant_id": 1406,
+  "sort_number": 1405,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FAHR’S NACH HAUSE, KLEINE! Wenn einer deiner Charaktere von einem Ort an diesen Ort bewegt wird, kannst du diesen Ort verbannen, um 3 Legenden zu sammeln und 3 Karten zu ziehen.",
+  "card_identifier": "207/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=6cc1f3de091ab4cafde635a846622376816cf85bcc499c928c50b5a22ad35e2f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=4c0cdab7534b13f06a5d1ab84965ecdb4bff59e2484c8872f5a8ef7b4b2e710b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e56bb6b3ca5e35e06ed1536839da2ac799ced5a51f3363fb0bd0e1ebe73720eb",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

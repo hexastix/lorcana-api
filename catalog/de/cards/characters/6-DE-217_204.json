@@ -1,0 +1,44 @@
+{
+  "name": "Trixi",
+  "subtitle": "Geniale Bootsführerin",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Javi Salas",
+  "deck_building_id": "0b66351b877ceea82545c1ad0fa5559e4ca44113",
+  "culture_invariant_id": 1416,
+  "sort_number": 1415,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Trixi-Charaktere auszuspielen.) MECHANISCH VERSIERT Solange du mindestens 3 Gegenstände im Spiel hast, zahlst du 1 weniger, um Erfinder auszuspielen.",
+  "card_identifier": "217/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=560031cabab064580adeffb38baf3eaaa80bb059edd83c50d97159f3fd97042d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=6a6fc918fb67490cea8904efbfb09f26e395dffd340bee014249fad30a4eea8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e4da31c009db9ceb8c96af26c0d842f157033ce8bdb5068cbc5706d40875ccbe",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

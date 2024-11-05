@@ -1,0 +1,34 @@
+{
+  "name": "Du bist zurückgekommen",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Claire Hummel",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1412,
+  "sort_number": 1411,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Mache einen Charakter deiner Wahl bereit.",
+  "card_identifier": "213/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=3ffa7194b2d3a9d648cb16e2a03a91d142ebb5b1ad3873d0a3fa87e36dfbed01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=dcbfc7602a342e6e1c1d1b0c7feef17dd6ee698bc4e25ea3ba00341c5cac3910"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=2110a7166af64ef86cef4a1f577d4cfb0dc922a495c94166fe323bdb33107944",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

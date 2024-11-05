@@ -1,0 +1,41 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Sciamano della Savana",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Giulia Riva",
+  "deck_building_id": "fc3769ff0bfc5273b01c299d10e4e87eb766b81d",
+  "culture_invariant_id": 1241,
+  "sort_number": 1240,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Incantatore"
+  ],
+  "flavor_text": "I segni non mentono mai. Il serpente pensa di aver pianificato ogni cosa... Oh, ho, ho! Si è dimenticato del gufo. C'è ancora speranza!",
+  "rules_text": "",
+  "card_identifier": "42/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=f1bf15a482ac31c00698f9754c6eacacfb02e88b5d2ddc891860474885f48287"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=627935f17087862e4803231c9af13a12720fd2814b3c7493332d99a477f66a71"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=79f5eb7337e2c040530a5c48f986cd78500329e654f61bf1d7abbc27175dcd81",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

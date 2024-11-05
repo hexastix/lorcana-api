@@ -1,0 +1,33 @@
+{
+  "name": "Puce de soins de Baymax",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Rudy Hill",
+  "deck_building_id": "b33bfde84513a383239b388b7a1c80ab8e6d98e2",
+  "culture_invariant_id": 1365,
+  "sort_number": 1364,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "10 000 PROCÉDURES MÉDICALES — Choisissez entre: • Choisissez un personnage et retirez-lui jusqu'à 1 dommage. • Si vous avez un personnage Robot en jeu, choisissez un personnage et retirez-lui jusqu'à 3 dommages.",
+  "card_identifier": "166/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=eb888630199d628425428f3569e9e4c5a6899dbccb3f4c1f795c43c32465c487"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=b47306f0bc47b051bfed155fcdcd190b4bca7f890a5db3ca09e7ad3103038d26"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=3bbd85130aa4fa73094c60b4a7deae08d9bee451dfe1f7336a4eeb99afe46505",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Schiffskoch",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "e42ba1be2038f64d1b9a6bbdc92549f105c446ec",
+  "culture_invariant_id": 1380,
+  "sort_number": 1379,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Alien",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Am Ende des Tages sind es die einfachsten Werkzeuge, die einem in der Not weiterhelfen.",
+  "rules_text": "EIN EISENWARENLADEN Wenn du diesen Charakter ausspielst, wähle einen Charakter. Er kann in seinem nächsten Zug nicht herausfordern.",
+  "card_identifier": "181/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=6d1558282d8bd72974021018ae1043d5bb27f78d5b1102f6ee80b31bd88b0c94"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=3e863084e3a74c4345ceb1b5b8068e2d6ac0744cc1f98b2d75053f9dd75a57c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=7a8866003ab791b3a66e9bd25c73194e8d43c5e9369d4b4da319809478725d44",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

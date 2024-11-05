@@ -1,0 +1,40 @@
+{
+  "name": "Bellwether",
+  "subtitle": "Assistant Mayor",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Samoldstoree",
+  "deck_building_id": "72f9912aaf126caa296ac6b59f85a9b63a5c644d",
+  "culture_invariant_id": 1289,
+  "sort_number": 1288,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "FEAR ALWAYS WORKS During your turn, whenever a card is put into your inkwell, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "90/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=9b21fed3802fb8bd47cd6be3354da563a30003f34bc326c20df316f5787909b2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=af7d6fd82150f1227d8e22ac53b7c3ef350ddd1a5d53eed00430d23ed76aa912"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=c401479136bb64e05567942a78a6b4cec502211f2540f33da56cc782bab69289",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

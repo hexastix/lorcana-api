@@ -1,0 +1,41 @@
+{
+  "name": "Billy Bones",
+  "subtitle": "Marinaio Spaziale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "d9747118f33198abebde6af5d847e6ea933d788e",
+  "culture_invariant_id": 1384,
+  "sort_number": 1383,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alieno",
+    "Pirata"
+  ],
+  "flavor_text": "Lui arriverà presto. Non devi fargli trovare questo.",
+  "rules_text": "TIENILO NASCOSTO Quando questo personaggio viene esiliato, puoi esiliare un oggetto o un luogo a tua scelta.",
+  "card_identifier": "185/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=ca50ecf1b327468c52f2afddaca4a4677b242f7955e209a92d156534e156852c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=88c8bfff974429dfa772cf8c2d6c63135995265dfcf28430154f329d098d1558"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=bba1710535f96b30727260e0c35a1ec7aebecafecda3b39de55173a132143b55",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "You Came Back",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Claire Hummel",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1412,
+  "sort_number": 1411,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Ready chosen character.",
+  "card_identifier": "213/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=2f31b00acf08aca45dd5ed9e49ea3b3efba00c9927970491eda651175497f366"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=caa6a884bd0c56f12ed62b928dc3473a468999130d36e6e2b8453ff9c0f56077"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=7354fe388bc506a8ab906d87181afe13b3402b79c1e75c1244cfd07f4e853ad1",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

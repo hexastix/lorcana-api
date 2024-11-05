@@ -1,0 +1,43 @@
+{
+  "name": "Pippo",
+  "subtitle": "Esperto Carpentiere Navale",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Max Ulichney",
+  "deck_building_id": "3ba92e8b5e5401e6d37f5243fdc400fe6c04ceee",
+  "culture_invariant_id": 1288,
+  "sort_number": 1287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) PROGETTO INGEGNOSO Ogni volta che questo personaggio va all'avventura, un personaggio a tua scelta ottiene Protetto fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "89/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=540f3f4011c8a7f1fb67986f7909c63898e605b35e228232a84956470254adfd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=498e8a8b2072b7934e02cd461f876af50584ed3e846a783515af57123d1800d9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=db95ff6c757a449c12e4944577315c8b30dced1c24440e58edfb94dc3ef2d612",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

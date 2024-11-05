@@ -1,0 +1,33 @@
+{
+  "name": "Überfall!",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Ilaria Sposetti",
+  "deck_building_id": "b2f61c0f1fe547f2d70b3b68dc6bd2cdb8c76419",
+  "culture_invariant_id": 1397,
+  "sort_number": 1396,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Piraten werden jeden Vorteil nutzen, den sie bekommen können.",
+  "rules_text": "einen deiner Charaktere, um einem Charakter deiner Wahl Schaden in Höhe der des erschöpften Charakters zuzufügen.",
+  "card_identifier": "198/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=af7d9c5bbfe1a4f8700ce5547a9c143f2717e745c239e18c5fbab350dac7de3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=f148a5840ef65028285c9dfada1e05b11e0740861da96758d2f1017850a718c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=b35d3107f6dbde3235876f7b363e1cd0cb489e7c75d7e99a1b6d22082fcb6358",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

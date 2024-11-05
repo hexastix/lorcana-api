@@ -1,0 +1,42 @@
+{
+  "name": "Cobra Bubbles",
+  "subtitle": "Former CIA",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Eri Welli",
+  "deck_building_id": "e3e47e553b80da5e66909453f91e285f5af8e7bb",
+  "culture_invariant_id": 1387,
+  "sort_number": 1386,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) THINK ABOUT WHAT'S BEST 2 — Draw a card, then choose and discard a card.",
+  "card_identifier": "188/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=da218af69c39f4391ed6a94b4e0129d6529d1e3f3e85c10b4ccfdbffdd9360dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=cd09dd979dbafc921b9016b685ed79dd0da909d6589f17ef6b566635960cda5d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=3f7ca01cfe8d719107ac79067b7c6358ab47f906371093510f3baf336c42061a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

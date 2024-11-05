@@ -1,0 +1,33 @@
+{
+  "name": "King's Sensor Core",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "c8c598bbf7c1e8cecb91d6da44108cd014214d0b",
+  "culture_invariant_id": 1399,
+  "sort_number": 1398,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SYMBOL OF ROYALTY Your Prince and King characters gain Resist +1. (Damage dealt to them is reduced by 1.) ROYAL SEARCH , 2 — Reveal the top card of your deck. If it's a Prince or King character card, you may put that card into your hand. Otherwise, put it on the top of your deck.",
+  "card_identifier": "200/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=dd9d3583c102cb8813bedc295a2e864158191957c7cf2cf78a550af37fc087f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=03d3e769327a951bc2d2ebe057df9a727de2011d06adbb2c78c5c6a6626eb846"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=6a922113522e14d833bb19804cd4051236644a5641e9bc12442a5d49967e2f1c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

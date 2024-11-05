@@ -1,0 +1,40 @@
+{
+  "name": "David",
+  "subtitle": "Eindrucksvoller Surfer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valentin Palombo",
+  "deck_building_id": "52123a15d637dba3a83c1fd4207aff4423cd424e",
+  "culture_invariant_id": 1207,
+  "sort_number": 1206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Schnapp dir ein Board und komm raus! Die Wellen sind heute top.",
+  "rules_text": "PROTZEREI Solange du mindestens einen Nani-Charakter im Spiel hast, erhält dieser Charakter +2.",
+  "card_identifier": "8/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=9618a8ca65b73e2aadb2834e581a9e547103da93896daab903c40dffd01770e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=64f505bb9b534ff072c310b4ef35aeca8d5dd5244f25372ec23e8d8efa097ce5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=08daab6c3aa20610b72e1edd32b9c4fc2c60ce44c84599c823125b3efa89df41",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

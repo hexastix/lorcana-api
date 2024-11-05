@@ -1,0 +1,42 @@
+{
+  "name": "Nani",
+  "subtitle": "Sorella Premurosa",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "badb6313c16d779154ca8614bade62b8ebaaafee",
+  "culture_invariant_id": 1218,
+  "sort_number": 1217,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) MI DISPIACE MOLTO 2 — Un personaggio a tua scelta riceve -1 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "19/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=af3e303a0a8b56094136c6baa35b218bca076999d8c90c0aa3a0753b3c396201"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=432c6cde9702731ebb23d6dc3444b63c594cbc5785e2b0386a1c9ca3fec25f17"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c2751f42c2059673189891cdc59a1aeda811d9c54c97975d8e0f7d5f68c92bf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

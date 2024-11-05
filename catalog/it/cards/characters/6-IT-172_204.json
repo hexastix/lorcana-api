@@ -1,0 +1,41 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Capo Pirata",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "97266efddadb85c14ed91903802d893795b7d75a",
+  "culture_invariant_id": 1371,
+  "sort_number": 1370,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "CAPO NOCE DI COCCO Ogni volta che questo personaggio va all'avventura, puoi pescare una carta, poi scegli e scarta una carta per infliggere 1 danno a un personaggio o a un luogo a tua scelta. Se hai scartato una carta personaggio Pirata, infliggi invece 3 danni.",
+  "card_identifier": "172/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=1fa0537281208fba6010b899e65381fcc42ec67b833b1dfe7cb9db043b362f33"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a01f91b48da1b50b5f4983690e314b7098fcff372f8f5687d1385b3d7586e653"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a42d3e9c7bb0ca233f25e8fdfa1345f8f4696a081790c676d7712eba1fe05fe3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

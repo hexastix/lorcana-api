@@ -1,0 +1,41 @@
+{
+  "name": "Gadget Hackwrench",
+  "subtitle": "Perceptive Mouse",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1bcc60e54cdd9528c68b185a20ca9163f5c62322",
+  "culture_invariant_id": 1350,
+  "sort_number": 1349,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Inventor"
+  ],
+  "flavor_text": "All the clues pointed to an island, but I never thought I'd see it on a map. Golly, this is incredible! I mean, the island actually exists, so it’s technically credible—but still! This is amazing!",
+  "rules_text": "",
+  "card_identifier": "151/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=14c9c7af956b601c29139a13e5676f088d070e712533accdfb4af033c80647a2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=2a3d62349c889d258c43e86545f721aaac0d4896a42df24d3a837ec991598909"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=377bb1787bdc8574cc7dab1efc0b28a76b614c8c9b446d5e05d092c6d191e705",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

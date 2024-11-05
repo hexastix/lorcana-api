@@ -1,0 +1,37 @@
+{
+  "name": "Roccia del Teschio",
+  "subtitle": "Fortezza Isolata",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Nicolas Ky",
+  "deck_building_id": "e456aa982e0a7666b3635ba389f60fac92eb572b",
+  "culture_invariant_id": 1335,
+  "sort_number": 1334,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TERRENO FAMILIARE I personaggi ricevono +1 mentre si trovano in questo luogo. PORTO SICURO All'inizio del tuo turno, se hai un personaggio Pirata in questo luogo, ottieni 1 leggenda.",
+  "card_identifier": "136/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=b80b3e7f41fbae8c3cf69bba5340d2795d16f5eb2533d0e1034c28c84af6b9c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=98bb55aabf20e3334a6df137c654efce77c5bf44e45565cb4a5025a9f5aa350f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=2dc298c787ec97fac7723d3bc7ee4902e405ef894df4079686006f71764ccc61",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

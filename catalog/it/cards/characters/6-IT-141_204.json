@@ -1,0 +1,42 @@
+{
+  "name": "Zipper",
+  "subtitle": "Astuto Diversivo",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Eri Welli",
+  "deck_building_id": "52eab6990d88727659a47fd96cbda02e69229a99",
+  "culture_invariant_id": 1340,
+  "sort_number": 1339,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) INTERFERIRE Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, un altro personaggio a tua scelta ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "141/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=1ac2ed7adfa9214460a1e5b50bb155bf629e00c71270393384c3045ff2f4a24c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=1a143cdc4bc229cf9d383d5e33b2625590fd5312df6d89bcd48a97d87c6b2a94"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=37c40635ef7a5eef4590ccfaee586850c5f3b916fe29817c70216e6b15a022ec",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

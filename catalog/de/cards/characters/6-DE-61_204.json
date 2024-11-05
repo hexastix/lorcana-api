@@ -1,0 +1,44 @@
+{
+  "name": "Dschinni",
+  "subtitle": "Wunderbarer Zauberkünstler",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Mike Parker",
+  "deck_building_id": "ff98a7d79dbd9e9dd50780105dea42edda741876",
+  "culture_invariant_id": 1260,
+  "sort_number": 1259,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Dschinni-Charaktere auszuspielen.) DEINE BELOHNUNG WARTET Jedes Mal, wenn du eine Karte ausspielst, ziehe 1 Karte. VERBOTENER SCHATZ Am Ende deines Zuges, lege alle Karten aus deiner Hand in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "61/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=55fb16d6f2e7481d437b1bac67b433890c4d4210b1943ef80f1142277e52031f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=25ec1466087212ec93ae76c1cf17561273459c3e3223c8bcfd7099783aea41b7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=72f4675b1c77e1c38fbe5f26c3764528a3368dd2981ee5244470f7599dd63ccb",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/gloss/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=de0f318bfb68b004f61d6a890a1178334cbb15a561fa3577cac0c5b8f254ac2e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

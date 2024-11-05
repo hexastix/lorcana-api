@@ -1,0 +1,43 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Commandant intrépide",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "7e4d253d23bf3576df52bdc66b20bd353eea56dd",
+  "culture_invariant_id": 1318,
+  "sort_number": 1317,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Aladdin.) RAPPELLE-TOI TON ENTRAÎNEMENT Lorsque vous jouez ce personnage, vos personnages gagnent +2 pour le reste de ce tour.",
+  "card_identifier": "119/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=0050d8d58ce20a432f94439dd05063b319522bd52e7714bc4ee3cc2c042dac0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=bdd1391f9aab7cf65e1dfa32b019e1924eeeac24009b4bb64a5bfb7a4a5786b0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=ae51b44973cdbd88cff42b23d9e6a4c605b23371d7bb40a3ad8b68f317b4b08a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

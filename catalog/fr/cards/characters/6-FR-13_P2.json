@@ -1,0 +1,43 @@
+{
+  "name": "Wasabi",
+  "subtitle": "Ingénieur méthodique",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Taraneh",
+  "deck_building_id": "4c44b7fca1f2f6a3616e9dc982897df5179befa0",
+  "culture_invariant_id": 1428,
+  "sort_number": 1426,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA FUREUR VERTE ! Lorsque vous jouez ce personnage, vous pouvez choisir un objet et le bannir. Son propriétaire gagne 1 éclat de Lore. RÉFLEXES VIFS Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "13/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=d884e774e30b903aba7e8613376ae7e77761b099328ac626c39b8d23a07d5df4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f147fe4ed56c0a78163cdaa198dd007b9ce2832ecbbfd27490c0f91e91d11bcd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=2e8c2376a6ceab0a1a3558d37e8878c450dba6f27ac726a4dd5a2225a703d83c",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

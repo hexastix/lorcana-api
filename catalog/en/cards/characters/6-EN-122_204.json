@@ -1,0 +1,41 @@
+{
+  "name": "Pete",
+  "subtitle": "Freebooter",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Celeste Jamneck / Mariana Moreno",
+  "deck_building_id": "cc4f9781276050c70704d7062dfa20e416bed1cb",
+  "culture_invariant_id": 1321,
+  "sort_number": 1320,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Pirate"
+  ],
+  "flavor_text": "Pete was always looking for trouble. Now he was finally getting paid for it.",
+  "rules_text": "",
+  "card_identifier": "122/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=b8ff779919db113d4463d3ef2de93f2475d06eaf6ae64bd1e3182a6d20dfddc0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=9ae9fb428a83763d13ac23dd5dcb0473c54ef9ca81c8bc71bb600daba0349c86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a59a9d711364b86400bcd637250bb59dca03f2dd1e280ef24f19ad49d475bb34",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

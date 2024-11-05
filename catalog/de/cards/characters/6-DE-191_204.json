@@ -1,0 +1,42 @@
+{
+  "name": "Sergeant Calhoun",
+  "subtitle": "Marinefeldwebel",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "8364649fe1abbe5e1521f9dca01ac72dbac4ff28",
+  "culture_invariant_id": 1390,
+  "sort_number": 1389,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) AUFLEVELN Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, sammelst du 2 Legenden.",
+  "card_identifier": "191/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=7c080bfa92140916738b9b1c2f060e9de8d22795754767db86ac0ba902f85d0c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=ec615159f5c85d906f73093324d016436f66232b4072f6f04ec9cad53f841060"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=9a911f0d4106982534ce3b00d112f246f5d0328b7b12dd5fcc1864e3f002b836",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Principe Naveen",
+  "subtitle": "Esploratore Scanzonato",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Luca Pinelli",
+  "deck_building_id": "e5c63a63529e8d2b113a2f7a9b6274738a71e0a3",
+  "culture_invariant_id": 1209,
+  "sort_number": 1208,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Danzate piccoli amici — riempite l'aria di luce e gioia. Accidanza! È come vedere la musica prendere vita.",
+  "rules_text": "",
+  "card_identifier": "10/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=5b360fbb52598b5ba5422e6817db889f66e3dd1bafb46b1b7fe2af42f28ec9c0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=6223f5f04fccbc3857ee23f460c23decf8c255af07e906d6838e7504363576f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=afa0a0a17aeb8d350a19bc2cc3d3d7fda41c410a3352105945b01906230bf3c2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

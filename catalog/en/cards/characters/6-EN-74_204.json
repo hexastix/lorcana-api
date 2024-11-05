@@ -1,0 +1,41 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Chemical Genius",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aristeidis Zentelis",
+  "deck_building_id": "5e86a95c6d5233fcd709d4134f62d1bdc511f8d1",
+  "culture_invariant_id": 1273,
+  "sort_number": 1272,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "You're going to love this!",
+  "rules_text": "HERE'S THE BEST PART When you play this character, you may pay 2 to have each opponent choose and discard a card.",
+  "card_identifier": "74/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=85651548eca74bd88b7d5b56fa1a5c075189496b15efd061e65f50fbc28edce2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=3d6438baec047f37b2ab29cf6be3c5030a3ccfb2bf98639af5837af17805fe76"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=02793fead4b2bf9558089f453deb51972030252398de78845ce06bda246cee9e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Olivia Flaversham",
+  "subtitle": "Figlia del Fabbricante di Giocattoli",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Brittney Hackett",
+  "deck_building_id": "1fca3175d68b6a86d7d01a898d3f2021e45f2b71",
+  "culture_invariant_id": 1291,
+  "sort_number": 1290,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Aveva cercato in lungo e in largo in tutto l'Illuminarium alla ricerca di un indizio su dove si trovasse Basil. Invece, trovò qualcosa di completamente inaspettato...",
+  "rules_text": "",
+  "card_identifier": "92/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=a719fe20fbcfd4c4bbc7d8d7c707e089e134bb9d170a66c8b71392400c5e5f35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=72fe110406bc0ed58e499f1c3e293e3682dac7e09ca3868215207dc7db368d7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=a726d9ef4f12098efebea06b35beb553efa7d935bbdcbd6026e495efec293bf4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

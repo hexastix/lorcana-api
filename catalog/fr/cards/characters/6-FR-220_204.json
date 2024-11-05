@@ -1,0 +1,41 @@
+{
+  "name": "Ralph la Casse",
+  "subtitle": "ce vieux Ralph La Casse",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Jake Parker",
+  "deck_building_id": "bfd14e420afb55f030d821dddadf7a624938d2af",
+  "culture_invariant_id": 1419,
+  "sort_number": 1418,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE CASSE LES CHOSES Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un lieu ou un objet et le bannir pour gagner 2 éclats de Lore.",
+  "card_identifier": "220/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=d3de2c89c4aa5af926af66b421cb25b24be98779cb40303bcad438a44c630722"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=2265856bb9d0cc34101329d1f96c3c11fd06d8a85406a48956f7ad0d6cb8837f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=8c8c5166762db7ef826ab9ec6c45eedd5afc7cf5115e28725620911b5b16ed5b",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Furchtloser Navigator",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lava Hijzelaar",
+  "deck_building_id": "d262ec42463f47d7cbbefb75d1d9f0e0013a4748",
+  "culture_invariant_id": 1311,
+  "sort_number": 1310,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "Um den Weg durch das Azurblaue Meer zu finden, braucht man ein starkes Herz, viel Mut und mehr als nur ein bisschen Glück.",
+  "rules_text": "",
+  "card_identifier": "112/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=76de5d9c04ed42c5e9087e4617b20aaac9dd540d1c087cb18c01ede5c99ab00b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=7757f0bdf11ab18234219e1827c81948dc95c416164f26c555c02de12d94b227"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=66042fc04686edf1abe6d91a5b7e3300225ac66316975600b5436d234c6a14a6",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

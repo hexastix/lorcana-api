@@ -1,0 +1,37 @@
+{
+  "name": "Isola dei Cento Acri",
+  "subtitle": "Casa di Pooh",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Andreas Rocha",
+  "deck_building_id": "151793bdd22cfedc309bf2800d3835a4e0ed038c",
+  "culture_invariant_id": 1233,
+  "sort_number": 1232,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "AMICI PER SEMPRE Durante il turno di un avversario, ogni volta che un personaggio viene esiliato mentre si trova in questo luogo, ottieni 1 leggenda.",
+  "card_identifier": "34/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=fd3bf77a094eb11ece39c4bcdb5417320a9a196a7cd30dd8f45c15214ed800cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=72e9635a23dc0ade09c8a37afee428975dad203ae2975756543f21ef46399389"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=949af4f47b14905c03c4b9091142492baebd6413c16dfa09e9bc28ab3f6721d7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

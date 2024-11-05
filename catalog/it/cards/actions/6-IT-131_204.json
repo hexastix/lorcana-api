@@ -1,0 +1,33 @@
+{
+  "name": "Esplosione di Energia",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Marco Giorgianni",
+  "deck_building_id": "c679d181159ab4450f19fa0e4f60c90439382f17",
+  "culture_invariant_id": 1330,
+  "sort_number": 1329,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Pensavi <davvero> che avrei combattuto lealmente?%—Jafar",
+  "rules_text": "Esilia un personaggio a tua scelta. Pesca una carta.",
+  "card_identifier": "131/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=0c9beadeff57ac21c03162c41f2330f935a192da36e14801aeea36214ad6c684"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=84dc57ef13fcbf6af4577da55c62385d758f53afcb06f9d195822d99c96a38c2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=9776c25d53d5387861080342994994c6dfb0ab50a4e620ac747d4e86c7233f40",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

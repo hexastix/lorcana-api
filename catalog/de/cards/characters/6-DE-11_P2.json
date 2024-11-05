@@ -1,0 +1,43 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Chemie-Genie",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Aristeidis Zentelis",
+  "deck_building_id": "5e86a95c6d5233fcd709d4134f62d1bdc511f8d1",
+  "culture_invariant_id": 1426,
+  "sort_number": 1424,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "Du wirst es lieben!",
+  "rules_text": "JETZT KOMMT DAS BESTE Wenn du diesen Charakter ausspielst, darfst du 2 bezahlen, um alle gegnerischen Mitspielenden eine Karte aus ihrer Hand auswählen und abwerfen zu lassen.",
+  "card_identifier": "11/P2 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=f58ef2742878329000240757d4a2541412ae096bdc1878e943b8573dd4604480"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=99585adca720e15e6bc3680018aa36ac0ba1f4d148c84890c55fc825ba6bca96"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=19334467206cb59ca913a8c0d0a75832bd07a832be34c55e41277217ecf1b8c6",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

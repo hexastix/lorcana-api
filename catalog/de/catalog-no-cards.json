@@ -36,6 +36,13 @@
       "type": "EXPANSION"
     },
     {
+      "name": "Azurblaues Meer",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=4bdd773d-bc4d-4420-9274-a85bac01865d",
+      "id": 6,
+      "sort_number": 8,
+      "type": "EXPANSION"
+    },
+    {
       "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
       "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quests/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=72dc7df9-5483-4973-8c87-f437bb02139a",
       "id": 7,
@@ -227,6 +234,12 @@
           "Ritterin",
           "Knight"
         ]
+      },
+      {
+        "term_in_search_filter": "Roboter",
+        "terms_on_card": [
+          "Roboter",
+          "Robot"
         ]
       },
       {

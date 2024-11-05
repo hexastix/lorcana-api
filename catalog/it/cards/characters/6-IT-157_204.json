@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Compagno Corazzato",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brianna Garcia",
+  "deck_building_id": "8b5b13c2943342369d72422e5cc509b8583ffe42",
+  "culture_invariant_id": 1356,
+  "sort_number": 1355,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL TRATTAMENTO STA FUNZIONANDO Quando giochi questo personaggio e ogni volta che va all'avventura, puoi rimuovere fino a 2 danni da un tuo altro personaggio a tua scelta. Ottieni 1 leggenda per ogni singolo danno rimosso in questo modo.",
+  "card_identifier": "157/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=4cd03d72c7078035176d80b5190944424d8226caaeac2a2b08376795d7e22304"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=591fa6fbab6645b1f59d009874559070e833bb111e5ff2c0569fc6a0030e506c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dfb4d81a083ef60dcbe295ed3d2fd4215b8ed18f37497bc8b50a007ee25a6123",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d3b4c5a769e5ead92a1ab080e0ef87cfd0fc61927180819b907377fb5476b316",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

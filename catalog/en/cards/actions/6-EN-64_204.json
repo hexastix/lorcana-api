@@ -1,0 +1,33 @@
+{
+  "name": "Seeking the Half Crown",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "French Carlomagno",
+  "deck_building_id": "111879cd3089326363423d333c1ab2112fc415da",
+  "culture_invariant_id": 1263,
+  "sort_number": 1262,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I see the other half, in the Inklands. Quick, my tiny companion! Fetch me that crown! —Jafar",
+  "rules_text": "For each Sorcerer character you have in play, you pay 1 less to play this action. Draw 2 cards.",
+  "card_identifier": "64/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=3ed548ad53e82d8c942ecba72a22b13b0810a32c95c19a60906fac57384b5a31"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=8110159c95aecabd82ac1d8fb0e39912aae0ca0808b0bb5b72a5f8d9ee5d9f44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ce146fbf7bec1aa5f78bb604cf669f5300553aa66a5935368da822cdd2a865ef",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

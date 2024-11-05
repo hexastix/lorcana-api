@@ -1,0 +1,41 @@
+{
+  "name": "Der Märzhase",
+  "subtitle": "Alberner Gastgeber",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "James Rey Sanchez",
+  "deck_building_id": "85684498bb53ffacf3dd58bf50013dc97d5766b6",
+  "culture_invariant_id": 1249,
+  "sort_number": 1248,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Den Tisch abräumen? Aber gerne doch!",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "50/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=e3af0a5284c838f9ad687ec55c35a9ec74852320e5dbc42e1861bb6c4311cb6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=c16346293765b95d7a553b729ee6f3670843529820322da78a5bdef3c76b2206"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=f66ba4fd43eb9c94adf6690c32cbd0ff18d3a99359153fc76ad7bd062d211e7c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

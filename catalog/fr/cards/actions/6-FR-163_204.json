@@ -1,0 +1,33 @@
+{
+  "name": "Voguer sur la mer Azurite",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "7cf280d8897d60a0cb50595020fb50df421ba296",
+  "culture_invariant_id": 1362,
+  "sort_number": 1361,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Il faut un plan solide et encore plus de chance pour réussir à traverser ces eaux traîtresses.",
+  "rules_text": "Ce tour-ci, vous pouvez placer une carte supplémentaire de votre main dans votre réserve d'encre, face cachée. Piochez une carte.",
+  "card_identifier": "163/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=650203dfda89488d63a4d0e05a43204f8833791ca981ac1c6b4c62756e8594f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=036d996bf6a99e7989c7f90426b3b5a58fb19a23f727d354e5a97af9c1c7956f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=eda2857a574343528a328391e0db057ed2ad4a183550598547e42baabb8833c0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

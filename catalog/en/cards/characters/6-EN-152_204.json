@@ -1,0 +1,41 @@
+{
+  "name": "Dr. Delbert Doppler",
+  "subtitle": "Fussy Astronomer",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "6a9326ab0a6b42d7e9dad9972935c275707d3662",
+  "culture_invariant_id": 1351,
+  "sort_number": 1350,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Alien"
+  ],
+  "flavor_text": "Of course! It all makes perfect sense. That’s why my old star charts are useless. Every star in the sky here is different!",
+  "rules_text": "",
+  "card_identifier": "152/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=6699e1a5be4d45514122f412b399e996cabe65eb847036102aa8cc94a818833a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=832208db01964e60250c00113d2e71123b3b86a40e58013776d919301550bccd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=7180a376c6390423e8232409113ef1e671109fb647d01af9d6014a29158ee8c1",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

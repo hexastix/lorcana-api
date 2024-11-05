@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Timoniere Audace",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "OggysonArt",
+  "deck_building_id": "b875bd5dc6364f60d60d0e20e53a61eb2a7eb097",
+  "culture_invariant_id": 1313,
+  "sort_number": 1312,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "A babordo, Abu! Babordo! A <sinistra>! ABU! Dall'altra parte!%—Aladdin",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.)",
+  "card_identifier": "114/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=97bdff3263c7b419dcf376c8de7dd08e34d95718a7d90273c65228e42d668283"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=b33e99140cd0e36428217c0661031d12bd60910c394d575ec8f25f53b22bc4b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=79be3710f8b46cb9b26f49e8d097ee5ba7664ad637f74bebad866a4c24675cdd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "La Fée Clochette",
+  "subtitle": "Volant à toute allure",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Malia Ewart",
+  "deck_building_id": "cacdb6abf873de6f92bea008b9b53b48adb1624c",
+  "culture_invariant_id": 1242,
+  "sort_number": 1241,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Fée"
+  ],
+  "flavor_text": "Elle file à travers les vagues sans qu'aucune goutte d'eau ne la touche.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "43/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=f38d10e5d4434c414b68cbc0ffe8e41dcf997c094cbc614fdff6291216e5387d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=de3bf94a693717a92202b4c90746fae1003a172bf29569334fd89306ba4ea0ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=812f513b26968487b357f593571274e88af86ebb4df727be99a96b578634c793",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

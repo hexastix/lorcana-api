@@ -1,0 +1,33 @@
+{
+  "name": "Feenglanz",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie / Mara Tango",
+  "deck_building_id": "81bfe47645b7451e9719f784418d39de85304651",
+  "culture_invariant_id": 1266,
+  "sort_number": 1265,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "MUT UND VERTRAUEN , 2 — Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Herausfordern +2 und Wendig. (Während der Charakter herausfordert, erhält er +2. Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "67/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=88679187d21c27862787b83fd12095c3b7d6f5b5c5fbd4e828ec787094a42126"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=0ebb9c681ad65ff498c2fe095f1ac1d2d38ded7b9ec51310d8565df4c79f0a97"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a010801cab6c029da56b781a712044073f6013cabb99ba8e12e2ba9f9ebbf0a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

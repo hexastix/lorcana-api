@@ -1,0 +1,42 @@
+{
+  "name": "Oswald",
+  "subtitle": "The Lucky Rabbit",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Tom Bancroft / Kristen Breshears",
+  "deck_building_id": "6b871e4973f6b230175cf0b121338b49c07804fe",
+  "culture_invariant_id": 1341,
+  "sort_number": 1340,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "FAVORABLE CHANCE During your turn, whenever a card is put into your inkwell, you may reveal the top card of your deck. If it's an item card, you may play that item for free and it enters play exerted. Otherwise, put it on the bottom of your deck.",
+  "card_identifier": "142/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=a572be01fcc0cddce15ae08d5e53788e77370e6d6537c530ac8a563f6d63227b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=c1d36bb60b6835b5da33a7d4eea40cb974830d3c6e339cb9370bacbcfd1e0794"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=95383dc88462a768e76a905796c09cf97a6bf8ee82c874eeb31812a88fd5422b",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=a7a844f14b59d46618248679f50cf9152ef56301d5be97d4455fea3b9975a047",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

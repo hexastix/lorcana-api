@@ -1,0 +1,43 @@
+{
+  "name": "Pippo",
+  "subtitle": "Pasticcione Volante",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "c2cae8618c5864d48ef0976fe51bceeccce58b3f",
+  "culture_invariant_id": 1322,
+  "sort_number": 1321,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto",
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Tenetevi stretto il cappello!",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "123/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=d672264568a511f1fa6253cbe89579a184b62a55144d418ec30eee7e98b60b9f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=16de08ba1ba30715ddcb64c60fb9651e7d6c8b5253c94e298e75c8ec87e7f9a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

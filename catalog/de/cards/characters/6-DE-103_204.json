@@ -1,0 +1,44 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Piratenkapitän",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "25626315d5e1fbf223d3c10f20336b464a7a2e7e",
+  "culture_invariant_id": 1302,
+  "sort_number": 1301,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Micky-Maus-Charaktere auszuspielen.) SEEMANNSMACHT Jedes Mal, wenn dieser Charakter erkundet, erhält ein Pirat deiner Wahl in diesem Zug +2 und „Dieser Charakter erhält keinen Schaden durch Herausforderungen“.",
+  "card_identifier": "103/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=685d2c599551c6ecd854f34ab486c1e7d0691fb104b1488ef8f08031e1298c98"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=4ba236460a4aeaf42e55bc7175bf06e51373f85e3a588afa864a6465fd9fc11b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=78f6eda785798d6bf9ca533719a44195421bdf12055e56d01534e8a2a23ad933",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

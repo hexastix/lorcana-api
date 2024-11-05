@@ -1,0 +1,42 @@
+{
+  "name": "Yzma",
+  "subtitle": "Subdola Chimica",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Whitney Pollett",
+  "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
+  "culture_invariant_id": 1408,
+  "sort_number": 1407,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "AVVERTI IL NERO POTERE — Se hai meno di 3 carte in mano, pesca finché non hai 3 carte in mano.",
+  "card_identifier": "209/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=d2b54e967859f6ad597a845a3d3e71b666b217034f95c95c37d331fa2b725256"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=57243116547bfaf71afdcb9c17a404d8be1097fb51188462e4d9f20b1bd96cfc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=a54671de2df12641d07661daf039305311563cb24cb41b61b8edb807238fccf4",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

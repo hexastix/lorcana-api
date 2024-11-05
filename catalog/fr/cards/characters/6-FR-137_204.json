@@ -1,0 +1,44 @@
+{
+  "name": "B.E.N.",
+  "subtitle": "Robot excentrique",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Gwawi",
+  "deck_building_id": "aa97f4df72681860790f4df212f77ab3bf9a7239",
+  "culture_invariant_id": 1336,
+  "sort_number": 1335,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Robot",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "137/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=f785bd563e5417b8c8a0a551a3ec6b290c1f85d8d8f799ab19c78335bf9e197c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=74697aaf56867a5bc3aeade8cb1e2ac675048df9ccf64450500a04f331001d9a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=622bd86de5d61fbead6738504befee1b2ee8e0757ff65c76113ef80752c9b769",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

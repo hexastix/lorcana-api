@@ -1,0 +1,42 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Boarding Party",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Saulo Nate",
+  "deck_building_id": "1b4a8518d45c24ba97ec36484731e8b55c085d5b",
+  "culture_invariant_id": 1303,
+  "sort_number": 1302,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "Moana: Do you think they saw us? Maui: They saw us.",
+  "rules_text": "Rush (This character can challenge the turn they're played.)",
+  "card_identifier": "104/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=fa4afaeae3e41d819a20cb315b17037e245fb44e396f03b114c1829f6a949da3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=4089ad826627819768f3acf0887dd35ec76bfc51439deffca59ed742022c1e44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=a6d1dcff7d5645f9f1a0cf26c6b6c0df0229c20cf3c1bab5295cd42befeb3cdc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

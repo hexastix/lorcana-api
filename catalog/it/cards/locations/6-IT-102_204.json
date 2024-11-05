@@ -1,0 +1,37 @@
+{
+  "name": "Isola del Gufo",
+  "subtitle": "Ingresso Nascosto",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "7aa47d85c7274b41667c57cd8ebefe2dbe00b83c",
+  "culture_invariant_id": 1301,
+  "sort_number": 1300,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LAVORO DI SQUADRA Per ogni personaggio che hai in questo luogo, paga 1 in meno per giocare la tua prima azione ogni turno. MOLTO DA IMPARARE Ogni volta che giochi una seconda azione in un turno, ottieni 3 leggenda.",
+  "card_identifier": "102/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=b1755342adb8ec6f170535a1b9a46a662f5a2d0c7ece964f99ab28e55e2a5972"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=aed806cbaf470083b28e1d6216a208e9d04c0969bf9700070098bf9fd32c1d95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=0fecba365a89399c5f42ee92178a3b1f844dd9594daa2b8814b18af8b0c8b247",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

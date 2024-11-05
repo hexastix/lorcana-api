@@ -1,0 +1,33 @@
+{
+  "name": "Malefiz’ Stab",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Gabriel Angelo",
+  "deck_building_id": "f0af7b77ab79602de64eaa232f48153d20f4cada",
+  "culture_invariant_id": 1264,
+  "sort_number": 1263,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ZURÜCK, IHR NARREN! Jedes Mal, wenn ein gegnerischer Charakter, Gegenstand oder Ort zurück auf die zugehörige Hand geschickt wird, sammelst du 1 Legende.",
+  "card_identifier": "65/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=9776cc97ea6aa27b1d48beae298cd16d3d3fb821d8b27591bf40b54e02356096"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=3d274fb7216657e3059a4b6605764a20cd5f3481d7cd80284d2208ccd00569e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=775651f4c9f640e3731b8d65f305066ceed3fa339874b512f88f889d9ab49e0b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

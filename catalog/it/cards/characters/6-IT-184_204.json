@@ -1,0 +1,40 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Grande Amico",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a503ad476cccbf9d1686da8dde53a17a5189485c",
+  "culture_invariant_id": 1383,
+  "sort_number": 1382,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Raya: Niente sfugge a Tuk Tuk. <Niente>.%Sisu: A parte le farfalle! Oh, e gli uccellini!%Raya: E va bene. La <maggior parte> delle cose non sfugge a Tuk Tuk.",
+  "rules_text": "",
+  "card_identifier": "184/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=296e239f33163edac536fc93a52552832e338e546d990ef6de217f7cae037433"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=2e454b95858bb989d894b2714da0c42b7c55d4373ee9f1e19f8a83a88d359087"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=832913004e0bb0da8bbf96b7c204912cb7e29a33a6030c4ed3f8f5e6021ac712",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

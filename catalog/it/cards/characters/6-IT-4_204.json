@@ -1,0 +1,41 @@
+{
+  "name": "Castor",
+  "subtitle": "Carpentiere della Nave",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "a851a9e4b4f261f7072e46f7820adc3c20f1c6bc",
+  "culture_invariant_id": 1203,
+  "sort_number": 1202,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Pirata"
+  ],
+  "flavor_text": "Continuo a riparare la stessa maledetta asse! Dovrei iniziare a farmi pagare gli straordinari, più il 10 per cento.",
+  "rules_text": "",
+  "card_identifier": "4/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=51e6330fe7d575f7982130476f2fffe631bfc29304cb150e738058cb0586de72"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=7d328880dba6d0c7df330a2b5ac038f1b72bfa715ccbb20191270d31f99baa80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=5f24daf9598aee30bf1c9b070ba9c9b5042702bdf7c172c9537d6e766135c09b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

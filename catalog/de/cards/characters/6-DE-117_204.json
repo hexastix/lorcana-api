@@ -1,0 +1,42 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Autodidaktische Seglerin",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Koni",
+  "deck_building_id": "8eff1d2190a411b5fb11b72010f471fd055dde07",
+  "culture_invariant_id": 1316,
+  "sort_number": 1315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinzessin",
+    "Pirat"
+  ],
+  "flavor_text": "Du willst mir sagen, dass ich nicht weiß, was ich tue? Das weiß ich auch selbst!",
+  "rules_text": "ARBEITET SICH EIN Dieser Charakter kann nicht herausfordern, außer du hast mindestens einen Kapitän im Spiel.",
+  "card_identifier": "117/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=8d042f42d0397c178f9368863aabaab64fe2077a14a6874c34abd20fab32ccb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=e0254f948c36ee096161d68013d40609f19d1d9ed8410db2dd489be9e6c9352e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=c5c31a80e419069b6f28e2332eb5a65958990be7425e7593a56823929dc4f451",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

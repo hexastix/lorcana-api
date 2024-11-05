@@ -1,0 +1,39 @@
+{
+  "name": "Mr. Big",
+  "subtitle": "Shrewd Tycoon",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "cfadaa4f1260ce978c286c033244ecbd996c65ac",
+  "culture_invariant_id": 1373,
+  "sort_number": 1372,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "You’ve done me a great service.",
+  "rules_text": "REPUTATION This character can't be challenged by characters with 2 or greater.",
+  "card_identifier": "174/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=4d25c551972e94e9647b3d2fad25ab29d0fc6fb8803ab4a140bac18b076cd888"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=f1522a34eb3e0d3ec25f711d5f2a863c56ac4548c2e9eaa4bb5b85695467e6ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=75de47095351246547dd890ae5e6c9fb8dcce1d8368b7ddcafd43c286c37eba8",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

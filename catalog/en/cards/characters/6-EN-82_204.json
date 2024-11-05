@@ -1,0 +1,39 @@
+{
+  "name": "Mertle Edmonds",
+  "subtitle": "Lilo's Rival",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "7b838e972c5139bf7120ce839be3cedab99d1dcf",
+  "culture_invariant_id": 1281,
+  "sort_number": 1280,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Get out of my way before I run you over.",
+  "rules_text": "",
+  "card_identifier": "82/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=5b15b67e2319430533459d66564204e19c6205fb437c421107f4d7da3d53bbf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=8e91e652431b04f83cd017a768fd4c5ee3b42c23f837338b6c86d21c0525980d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=4ada43d1682577a57b759af84697f6c4dd4f58df381c892a9d2d27c9193c16fc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

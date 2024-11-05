@@ -1,0 +1,40 @@
+{
+  "name": "Chip",
+  "subtitle": "Anführer der Ritter des Rechts",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "ef51cbc17715fb350e0780b289c630d1a5e5a916",
+  "culture_invariant_id": 1211,
+  "sort_number": 1210,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "DER WERT DER FREUNDSCHAFT Solange du mindestens einen Chap-Charakter im Spiel hast, erhält dieser Charakter Unterstützen. (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "12/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=23f1dfbd0fe9853b5990b688fd23d3205ebc0bedf960305b6f25425af9694415"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=367df5c4fdf9e9bd3c95db7890ed9e94f3fd9d77e99b430cca85380983eadee0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

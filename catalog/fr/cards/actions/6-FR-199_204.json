@@ -1,0 +1,33 @@
+{
+  "name": "Situation regrettable",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Mariana Moreno",
+  "deck_building_id": "59f406a0ef34537d045dbbde2779e7a0977de7e1",
+  "culture_invariant_id": 1398,
+  "sort_number": 1397,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque adversaire choisit l'un de ses personnages et lui inflige 4 dommages.",
+  "card_identifier": "199/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=da0600e2c194a297062e7c5c3c7ae99425ef89ed9363fed956519fe2826af0c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=550d3039f7ebab344d4df9d436278a78f8a8260b438da6e30fb39f5e10ea313e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=d7914b401a8bdbd1f3f2811e3db26f3b7d05a31f6cc582605bbf68c9f7bebe22",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

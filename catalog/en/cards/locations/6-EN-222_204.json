@@ -1,0 +1,38 @@
+{
+  "name": "Treasure Mountain",
+  "subtitle": "Azurite Sea Island",
+  "willpower": 9,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Sam Nielson",
+  "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
+  "culture_invariant_id": 1421,
+  "sort_number": 1420,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SECRET WEAPON At the start of your turn, deal damage to chosen character or location equal to the number of characters here.",
+  "card_identifier": "222/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=6f1ea9d1d5291db73a31f98265da968d4f537d6783a572baeddf46dd4aafb358"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=14c4da6f9dce09221e5ebdf25e6ee81e82931615f3e220ccc8c1c9cc64a89591"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=da2533c78350575b4bb1050ec1abd0a8fbd905bfd328fd837013e609cd75e628",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

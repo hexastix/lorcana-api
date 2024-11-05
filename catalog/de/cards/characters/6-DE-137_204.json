@@ -1,0 +1,44 @@
+{
+  "name": "B.E.N.",
+  "subtitle": "Exzentrischer Roboter",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Gwawi",
+  "deck_building_id": "aa97f4df72681860790f4df212f77ab3bf9a7239",
+  "culture_invariant_id": 1336,
+  "sort_number": 1335,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Roboter",
+    "Pirat"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "137/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=c0fc2fec5923f0aa30bad80ae13a21ac6fae42b210e7a9990b6cfc4fe6df3eb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=e40c9325f504d7ca1b39023c30ad7bcafd51e7c6eb72f8fa5cac80279945c507"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=622bd86de5d61fbead6738504befee1b2ee8e0757ff65c76113ef80752c9b769",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

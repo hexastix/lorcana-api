@@ -1,0 +1,43 @@
+{
+  "name": "Dingo",
+  "subtitle": "Charpentier naval expert",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Max Ulichney",
+  "deck_building_id": "3ba92e8b5e5401e6d37f5243fdc400fe6c04ceee",
+  "culture_invariant_id": 1288,
+  "sort_number": 1287,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) CONCEPTION INGÉNIEUSE Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage qui gagne Hors d'atteinte jusqu'au début de votre prochain tour.",
+  "card_identifier": "89/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=32152ad6d9b46fa17b1bb9c3ef3d5dd59153b96a8c6aaed8cac09363e8a3a312"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=8e84e0de26eaafefddfc8cc335a6dcee67ea422c3d209bf6e7f61b79a5fc1c66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=db95ff6c757a449c12e4944577315c8b30dced1c24440e58edfb94dc3ef2d612",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Donald",
+  "subtitle": "Second",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e534e9076f10a41b2d0332d7612419ea08d5de99",
+  "culture_invariant_id": 1279,
+  "sort_number": 1278,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate"
+  ],
+  "flavor_text": "Une promotion! Il était temps que l'on reconnaisse mes qualités naturelles de leader!",
+  "rules_text": "CAPITAINE SUR LE PONT Tant que vous avez un personnage Capitaine en jeu, ce personnage-ci gagne +2.",
+  "card_identifier": "80/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=a430841417beb16a06fdbc9de2afe1f00f1322a558938cfaf39c556fc4bcb0e9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=f1ccbba2e4d3fc65a55799b83f3896d775d7cd9384dac94171eecb84c2a51b38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=50d1dc3c55834ae70d6f91717d9e03eb4051240ae18448b7d570da749b97bdaf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

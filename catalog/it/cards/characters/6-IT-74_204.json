@@ -1,0 +1,41 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Genio della Chimica",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aristeidis Zentelis",
+  "deck_building_id": "5e86a95c6d5233fcd709d4134f62d1bdc511f8d1",
+  "culture_invariant_id": 1273,
+  "sort_number": 1272,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "Ti piacerà, vedrai!",
+  "rules_text": "ORA ARRIVA IL MEGLIO Quando giochi questo personaggio, puoi pagare 2 per far scegliere e scartare una carta a ogni avversario.",
+  "card_identifier": "74/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=5c7de3c09aea6fba0524bc185cba77e6c415f7f3d894112ce7d2ca4215c96876"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=13fd7b793b492022b192c4d14a4f8759f5c5511395a518b8eac7c45f1d2e51ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=02793fead4b2bf9558089f453deb51972030252398de78845ce06bda246cee9e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

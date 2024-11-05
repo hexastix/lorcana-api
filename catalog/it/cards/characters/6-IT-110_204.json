@@ -1,0 +1,42 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Ambiziosa e Intraprendente",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Arianna Rea",
+  "deck_building_id": "7d1cddbc896d563c2bd0ab7099bc2f9a464d85cc",
+  "culture_invariant_id": 1309,
+  "sort_number": 1308,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa",
+    "Pilota"
+  ],
+  "flavor_text": "Ci sono quasi!",
+  "rules_text": "MAI STATA COSÌ PRONTA All'inizio del tuo turno, se questo personaggio si trova in un luogo, pesca una carta e ottieni 1 leggenda.",
+  "card_identifier": "110/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=44895612b2fbfae1689263e6b1728af5e1b481e9c5c5863170909107eeae3440"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=f52a6a8d29a12f572c4b388cdb9af60bfaefcbdf508f86dc2724988174e3546f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=fb3752d9edb68b1e41c50ec309fcffafafef1ebc80bbf51a9fc1e60383b2cc3e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

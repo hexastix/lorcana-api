@@ -1,0 +1,42 @@
+{
+  "name": "Baymax",
+  "subtitle": "Operatore Sanitario Personale",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Laura De Pascale",
+  "deck_building_id": "dcbcc092217bb31b8bc790a740f918c336552b29",
+  "culture_invariant_id": 1417,
+  "sort_number": 1416,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "COMPLETAMENTE RICARICATO Se hai in gioco un personaggio Inventore, paga 1 in meno per giocare questo personaggio. HAI ESCLAMATO “AHI” 2 — Rimuovi fino a 1 danno da un altro personaggio a tua scelta.",
+  "card_identifier": "218/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=31dbf06f5bd55df65bf649ad48336adf1c6ff8a31cbb7dc6752060b4417f68e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=7343b6159e726a62b1864b720b177395a0b9cb26f996921d0d0718c0e41cdc20"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=9d7879a9a77d0f81e7bd920d3edf8ef264c238d06e01d67549bdbdadc697cc57",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

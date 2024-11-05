@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Specialista da Lunga Gittata",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "854ac978a94ec987ff018655c529e3e0c8c5aaa7",
+  "culture_invariant_id": 1370,
+  "sort_number": 1369,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Pirata"
+  ],
+  "flavor_text": "Sono davvero bravi a creare problemi.%—Maui",
+  "rules_text": "UN PICCOLO AIUTO Quando giochi questo personaggio, se hai in gioco un altro personaggio Pirata, puoi infliggere 1 danno a un personaggio o a un luogo a tua scelta.",
+  "card_identifier": "171/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=0bac7f6c5b4fd6c882a018f3b97c5d011736073bb61da07d603a5d59812d7c13"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=a8973cacabbc9762f521bdccc0ab1152481b05fd2bd473b55de1d06016c7343f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4f02da37b5dd544592e471f3f9fac57080e53ddd5f79c6e30b23bd25a941fef2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

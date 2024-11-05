@@ -1,0 +1,37 @@
+{
+  "name": "Montagne au trésor",
+  "subtitle": "Île de la mer Azurite",
+  "willpower": 9,
+  "quest_value": 2,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
+  "culture_invariant_id": 1402,
+  "sort_number": 1401,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ARME SECRÈTE Au début de votre tour, choisissez un personnage ou un lieu et infligez-lui autant de dommages qu'il y a de personnages sur ce lieu.",
+  "card_identifier": "203/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=2c0681bf34053ed50533762f56b571cafc60709c50093439b2e8aecc359fbea9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=edd0125cacfa7ae1823a32832b55e1cb0ab7897ce23e9d6d9305d64fc4eff394"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=963d0504eafe6cc1097e7777998167eefa356ec4fb5e808a66e502644735a347",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

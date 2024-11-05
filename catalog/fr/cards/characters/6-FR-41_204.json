@@ -1,0 +1,40 @@
+{
+  "name": "Juju",
+  "subtitle": "Compagnon de Mama Odie",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "39a8ffade10cf36dfd0f60244ac7f44bc589453a",
+  "culture_invariant_id": 1240,
+  "sort_number": 1239,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Juju ! Sors-toi de cette magie, petite crapule!%—Mama Odie",
+  "rules_text": "IL SERAIT PARFAIT Lorsque vous jouez ce personnage, choisissez un personnage et déplacez 1 de ses dommages sur un personnage adverse de votre choix.",
+  "card_identifier": "41/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=594980c5264033bdd6c81a588ba802038a14005929bd3c9bf4f966b39e639125"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=453f7ccd72b4639fe09dac842d188a9565e52a96d1ea3895f6e69ee4f7000fa2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=de9ee4881ff4ae7b91453c387aeec8de79cfc7bff9ed0c0811ad0c92b438eed1",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

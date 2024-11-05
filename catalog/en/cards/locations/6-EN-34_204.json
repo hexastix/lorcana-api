@@ -1,0 +1,37 @@
+{
+  "name": "Hundred Acre Island",
+  "subtitle": "Pooh's Home",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Andreas Rocha",
+  "deck_building_id": "151793bdd22cfedc309bf2800d3835a4e0ed038c",
+  "culture_invariant_id": 1233,
+  "sort_number": 1232,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FRIENDS FOREVER During an opponent's turn, whenever a character is banished while here, gain 1 lore.",
+  "card_identifier": "34/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=dbdef6c0e87a824ba14dc382a627c581ad5610c69057f7b5d91ebf9a1c952c60"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=281ab916adde9548e3a7c570b592dcfe7fc26c9b8d8bafd5e3432fa68cab2691"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=949af4f47b14905c03c4b9091142492baebd6413c16dfa09e9bc28ab3f6721d7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

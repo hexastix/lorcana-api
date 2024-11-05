@@ -1,0 +1,43 @@
+{
+  "name": "Hades",
+  "subtitle": "Starker Arm",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brian Kesinger",
+  "deck_building_id": "4f2dc7d36ef87536973bed84cbfe5735a853a3dd",
+  "culture_invariant_id": 1324,
+  "sort_number": 1323,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "Schwefel, nutze einmal deinen Kopf!",
+  "rules_text": "WAS WIRST DU TUN? , 3 , Verbanne einen deiner Charaktere — Verbanne einen Charakter deiner Wahl.",
+  "card_identifier": "125/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=73ee624f1564e0bba3a5fd6ac91f1a08bfe6897801ee738d5f8f1bf6be3e7d3f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=9660916641df6bce405540e3e7f1e61a3172a4dc5342abeda1bb259d0135f5c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=d6cc2e70dfbd12f2edae75fda004ff9f213b3c2d4f25eeed08278cfd22790268",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/gloss/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a45f94d36884f3e0d9ef3e0f5997d9d66da9805ca34e8a8cafa0450ec073e517",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

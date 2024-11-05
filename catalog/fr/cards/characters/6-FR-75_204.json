@@ -1,0 +1,40 @@
+{
+  "name": "Fred",
+  "subtitle": "Mascotte la journée",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cam Kendell / Danielle Powers",
+  "deck_building_id": "05562e0fc692cd80e28bb8a07a9507dde98c18a0",
+  "culture_invariant_id": 1274,
+  "sort_number": 1273,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "La nuit par contre… j’suis aussi mascotte de la Fac.",
+  "rules_text": "C’EST PAS GÉNIAL ? Chaque fois que ce personnage est défié, gagnez 2 éclats de Lore.",
+  "card_identifier": "75/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=e941196d03964c1a658e7e5658344cba806fe29952e18334cf1a5f4025307385"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=30a722d59197c367821900eacb1b58bd5cef01c4aed0626049b933a70cf893be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=004c9c1770c62e1718cf2c52edb5260ab1a2759561da46d18e799dd3ac39a3ce",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

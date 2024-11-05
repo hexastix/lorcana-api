@@ -1,0 +1,42 @@
+{
+  "name": "Isma",
+  "subtitle": "Hinterhältige Chemikerin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Whitney Pollett",
+  "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
+  "culture_invariant_id": 1408,
+  "sort_number": 1407,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "FÜHL DIE MACHT — Wenn du weniger als 3 Karten auf deiner Hand hast, ziehe so viele Karten, bis du 3 Karten auf deiner Hand hast.",
+  "card_identifier": "209/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=632ed536e070ff9d5e4b1ba763d08e24667233598572e8a587ad4d1bdc907eba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=c5670f875500899615a5221d8a576b84a5c6785e712ad8fede2b0eedb42a405d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=00a1815a07f318f82bd399aa43fcbc2d8e376a7830c81f7de1806487cb4721a0",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

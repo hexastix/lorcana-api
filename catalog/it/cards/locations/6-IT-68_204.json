@@ -1,0 +1,37 @@
+{
+  "name": "Nave Fatata",
+  "subtitle": "Vascello Reale",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "2709b95e28630f85924df28a795aa4ccc559ba84",
+  "culture_invariant_id": 1267,
+  "sort_number": 1266,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Leggenda vuole che ogni volta che qualcosa scompare, è stata presa per costruire le navi fatate del Mare di Azzurrite.",
+  "rules_text": "",
+  "card_identifier": "68/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=ae1e18c128f11f88dc6e603a009104a3bff2cb0029fcb6764ae70e4366f6ceb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=a7964e77c5ac20d5dc2053a540094e8c4fb987b9e558c097c6894507754aa377"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8d9e4bc81879454d7fa26079066516effb4196fe49a4c63647e9626082a5f2b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Poser des îles sur l'océan",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1415,
+  "sort_number": 1414,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Cherchez une carte Lieu dans votre pioche, révélez-la à tous les joueurs et placez-la dans votre main. Mélangez votre pioche.",
+  "card_identifier": "216/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=7495c0bdc2e094392d0a1a06519ed654babe0c2df8af1c1196768d7830d5c295"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=4f970a08024768491e1d3578bb3e88c7da6c39a2b60d72e4607722a27ea92e60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=94a2b2df7a34c0c9a567ab87e0ab38bf79f1d0edb28228049614cfd47dc422e2",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

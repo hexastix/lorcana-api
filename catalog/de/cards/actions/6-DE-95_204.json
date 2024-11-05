@@ -1,0 +1,35 @@
+{
+  "name": "Heffalumps und Wusel",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Domenico Russo",
+  "deck_building_id": "852f102ef952d51be8cdcfe9a21537a060be160a",
+  "culture_invariant_id": 1294,
+  "sort_number": 1293,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "In jede Honigschüssel geh’n sie mit dem Rüssel",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ein gegnerischer Charakter deiner Wahl kann in seinem nächsten Zug nicht erkunden. Ziehe 1 Karte.",
+  "card_identifier": "95/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=baa0474f0594a98eae875a8fccbcd6f99967bb06678f00690ba98b5fd3251d8a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=21514add538fb212a63769962cf10ef41b2f4de81fd6bc89ae5f183756c39715"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=a4fd416bd91c7d6681392ae679ec56a8558885bf000a764994e3ef465af514d9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

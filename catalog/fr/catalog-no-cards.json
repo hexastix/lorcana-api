@@ -36,6 +36,13 @@
       "type": "EXPANSION"
     },
     {
+      "name": "La Mer Azurite",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/thumbnails/c859a4389f8d39421211d9631f1c54a15a53a2b7.png?checksum=76b343a7-e268-4d44-9bce-0ec8a5793c66",
+      "id": 6,
+      "sort_number": 8,
+      "type": "EXPANSION"
+    },
+    {
       "name": "Quête des Illumineurs - Menace des profondeurs",
       "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/quests/thumbnails/7b1a1f568de5433ff2b6674432a3180829215045.png?checksum=68db2148-85ac-42ed-978a-cd788d47e22d",
       "id": 7,
@@ -215,6 +222,9 @@
           "Reine",
           "Queen"
         ]
+      },
+      {
+        "term_in_search_filter": "Robot"
       },
       {
         "term_in_search_filter": "Roi",

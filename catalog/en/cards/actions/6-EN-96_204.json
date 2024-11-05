@@ -1,0 +1,33 @@
+{
+  "name": "Mosquito Bite",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "fa00070954fa24098d79edb1d418f0e85d50bfc4",
+  "culture_invariant_id": 1295,
+  "sort_number": 1294,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Don’t move. A mosquito has chosen me as her perch. She’s so... beautiful.",
+  "rules_text": "Put 1 damage counter on chosen character.",
+  "card_identifier": "96/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=90fbfc572af03f15012568009fc10be7c34e9dad27ca721fc6e9b08769da0093"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=81eb5df7b9545c4b03b52fa338cf099aacad91345e26bb6454f543621af61c8c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=d36340030a475e8a1045e44df8b60533a5c1d535c247c9f3b3fb393e070f81a8",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Raya",
+  "subtitle": "Reiterin aus Kumandra",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Aubrey Archer",
+  "deck_building_id": "b3e92dc9fec7a75e1e43f9771888ad399934f8f7",
+  "culture_invariant_id": 1413,
+  "sort_number": 1412,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "AUF GEHT’S, WIR SCHAFFEN DAS Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du einen deiner anderen Charaktere wählen und bereit machen. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "214/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=cd3ed74902cec1905821dd7ce6ba27d5bfe3df90cea322aed0d508c0da434711"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=f468d722d91792cbb8f22bf6d8dd3af0a071a1d04cb9b9ea9a4c0cb6b06ac880"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=9664ed42ae2ec536a5c35e0ea625ad0271fa030eb90b1d57d130d8ddf038dab3",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

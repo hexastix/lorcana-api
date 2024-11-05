@@ -1,0 +1,37 @@
+{
+  "name": "Feenschiff",
+  "subtitle": "Königliches Schiff",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "2709b95e28630f85924df28a795aa4ccc559ba84",
+  "culture_invariant_id": 1267,
+  "sort_number": 1266,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Eine Legende besagt, immer wenn etwas verloren geht, wird es für den Bau der Feenschiffe im Azurblauen Meer verwendet.",
+  "rules_text": "",
+  "card_identifier": "68/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=f02388f27b141545696212273fba5114ceae816738ce62b45476a087e67a7bf3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=1d4b3d3c486438f90555c7c6cdce9e8302d5f1c7b2c9e052aa7df08ab3073ea9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8d9e4bc81879454d7fa26079066516effb4196fe49a4c63647e9626082a5f2b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

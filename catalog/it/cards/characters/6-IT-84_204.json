@@ -1,0 +1,45 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Commodoro Reale",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "1ffe7a4dabe4b56c6fbb1a72511efa264a253ecc",
+  "culture_invariant_id": 1283,
+  "sort_number": 1282,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Jasmine.) SOVRANA DEI MARI Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, fai riprendere in mano ai loro giocatori tutti gli altri personaggi impegnati.",
+  "card_identifier": "84/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=0b35d539f80d46f73a64fdef6d71eb99d5fc03b585c9cf290ac63be0259d3032"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=9f74cfa2067a1021dd0ae904afa7182136e2483bd658b27abe675916e5a81d23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=1908a4bb8c9f21472d0d2baa2c32229f64ba2c7b15e265109c0ac295a198259a",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=f4b47bc64afb703b0d3ca0fac98e4d2fbd392c3febefbc29debaf77afc847c02",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

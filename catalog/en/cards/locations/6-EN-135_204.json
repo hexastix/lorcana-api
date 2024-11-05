@@ -1,0 +1,37 @@
+{
+  "name": "Flotilla",
+  "subtitle": "Coconut Armada",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Jiahui Eva Gao",
+  "deck_building_id": "f40f46317aaadee496baadf72cdd1f7a5f6c411d",
+  "culture_invariant_id": 1334,
+  "sort_number": 1333,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TINY THIEVES At the start of your turn, if you have a character here, all opponents lose 1 lore and you gain lore equal to the lore lost this way.",
+  "card_identifier": "135/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=f6fd5dc7ff046f49be26f6b13dde1fcf043e5a1aa8338c675ac6709320afe85b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=88d7d8ab971a5a9bb69a33a6c92ef48c2c09e5bae4cf5ac906a3237d4e4fc1f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=ee7401b1bd0a4e7c01073d835740883e10e1e2453bf2f806ed8f7ab2c0b47a3e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

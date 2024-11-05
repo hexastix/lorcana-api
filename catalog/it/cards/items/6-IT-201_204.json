@@ -1,0 +1,33 @@
+{
+  "name": "Manichino da Allenamento",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "b2ffd3347d1cead4ec8b7dece53827b4b191dc01",
+  "culture_invariant_id": 1400,
+  "sort_number": 1399,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TRATTARE CON CURA , 2 — Un personaggio a tua scelta ottiene Guardiano fino all'inizio del tuo prossimo turno. (Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "201/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2aef3398b3487dc5803aed246812ad6cbafcfb4203dde5584ac8cd2a722d1489"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=af30ecee9b6a6416cf36e31087821f3c5b38bc3b5795eca440421aae0e1a9cde"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2f8783af6e11c52f497d813f983210d30d0a31eeba63c04a48565d109c8e1286",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

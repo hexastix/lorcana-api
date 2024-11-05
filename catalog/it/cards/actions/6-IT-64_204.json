@@ -1,0 +1,33 @@
+{
+  "name": "Alla Ricerca della Mezza Corona",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "French Carlomagno",
+  "deck_building_id": "111879cd3089326363423d333c1ab2112fc415da",
+  "culture_invariant_id": 1263,
+  "sort_number": 1262,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Riesco a vedere l'altra metà, nelle Terre d'Inchiostro. Veloce, mio minuscolo seguace! Portami quella corona!%—Jafar",
+  "rules_text": "Per ogni personaggio Incantatore che hai in gioco, paga 1 in meno per giocare questa azione. Pesca 2 carte.",
+  "card_identifier": "64/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=04186b45bae0d83ebcc4a8065bfeea8329d798ac7db3ff7fcc06fd8e8edfe80d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=8a8b63444b55116e60f6f10ebf127e6027fcf3215a62ba2a9fcfc44fc5245496"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=ce146fbf7bec1aa5f78bb604cf669f5300553aa66a5935368da822cdd2a865ef",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

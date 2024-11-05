@@ -1,0 +1,41 @@
+{
+  "name": "Billy Bones",
+  "subtitle": "Marin de l'espace",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "d9747118f33198abebde6af5d847e6ea933d788e",
+  "culture_invariant_id": 1384,
+  "sort_number": 1383,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "Il va bientôt venir. Ne le laisse pas trouver ça.",
+  "rules_text": "CACHE-LE BIEN Lorsque ce personnage est banni, vous pouvez choisir un objet ou un lieu et le bannir.",
+  "card_identifier": "185/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=a882197ed70b0fd07f12a0868119752a31cb770999f32921cd8fd5e373cd3f73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=420e62be19c04f232cd6a74dc32701d80da41aab439941c4609686dee2426935"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=bba1710535f96b30727260e0c35a1ec7aebecafecda3b39de55173a132143b55",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

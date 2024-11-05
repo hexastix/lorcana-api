@@ -1,0 +1,44 @@
+{
+  "name": "Tigro",
+  "subtitle": "Nella Coffa",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "John Loren",
+  "deck_building_id": "dfa8a8096bd718d380931f64e28ae3d4947a6313",
+  "culture_invariant_id": 1325,
+  "sort_number": 1324,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Tigro",
+    "Pirata"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) MOZZO, STAI ATTENTO Ogni volta che giochi un'azione, questo personaggio riceve +1 e +1 per questo turno.",
+  "card_identifier": "126/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=d6d4833681f0733455fd2670f4d1a84efde841b09bcc3c6307d8e488a7c1409d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=abde982c3b33e88c8633909a1d07fb2633795cf791cf94eb72ec0dfb9e4459aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=4f12420ee2b65a0a170b3aa7db5e387f6e9dc4f10a9b8539e3965e6c02d52754",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

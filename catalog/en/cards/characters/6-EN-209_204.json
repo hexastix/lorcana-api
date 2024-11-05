@@ -1,0 +1,42 @@
+{
+  "name": "Yzma",
+  "subtitle": "Conniving Chemist",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Whitney Pollett",
+  "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
+  "culture_invariant_id": 1408,
+  "sort_number": 1407,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "FEEL THE POWER — If you have fewer than 3 cards in your hand, draw until you have 3 cards in your hand.",
+  "card_identifier": "209/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=1d1e1696613bb2c527f73bec6590d7deb2aba228cf29069ec0cea9cab551585e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e6f7fa76ad706b965581f35c18d5e4a39f3662c34c09c322aac99322c87da909"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=13d5b91d65d5cbf3d5cbe273158c9888aea2c101570b802411b1828228d45f27",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

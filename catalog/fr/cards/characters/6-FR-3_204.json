@@ -1,0 +1,43 @@
+{
+  "name": "Winnie l'ourson",
+  "subtitle": "Pirate miel sabords",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Koni",
+  "deck_building_id": "f4cb028f3925f704d8e509b9f824df90e1dfdf0e",
+  "culture_invariant_id": 1202,
+  "sort_number": 1201,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.) ON EST DES PIRATES, VOUS VOYEZ Chaque fois que ce personnage est envoyé à l'aventure, le prochain personnage Pirate que vous jouez ce tour-ci coûte 1 de moins.",
+  "card_identifier": "3/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=0dbc0cece8d1ec2fca3a0f8cd66729edafca2139b60299625af953ef496fb06c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=bfe106eba746075d9c02a9c44afc214c74ebdbd4f23ee3ca035d8bd152b4d912"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d1765187971ebd1e98e8c06d98835f2f1855073d319b47652679f79edd4d50f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Lunettes de soleil",
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "9ef44106d65017375195dd2f4b54d69416fa92e4",
+  "culture_invariant_id": 1401,
+  "sort_number": 1400,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L'accessoire le plus cool des meilleurs agents.",
+  "rules_text": "ESPIONNAGE — Piochez une carte, puis défaussez une carte.",
+  "card_identifier": "202/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=c5e8995ef0b96b0926ff47ece12b8e8c9bdf688c74cfb907956a7be094e986fb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=b3db1759c66b7a04e6bb2201c5faf4f96ea7a1e1848055104c34cdeda9c3bfdf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=580bdf841f68f249ca26db2d5d021cddfd425004955725570bb43e1b2a0936fa",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

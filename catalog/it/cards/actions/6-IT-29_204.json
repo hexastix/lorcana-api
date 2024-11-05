@@ -1,0 +1,33 @@
+{
+  "name": "Agenti Speciali all'Attacco!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Mariana Moreno",
+  "deck_building_id": "b5b569d97b7b26cd822613b9016587fc87dfb990",
+  "culture_invariant_id": 1228,
+  "sort_number": 1227,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Conta il numero di personaggi che hai in gioco. Un personaggio a tua scelta perde pari a quel numero fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "29/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=4f2a20dcc670e1dbbda414c863c0284aa965eac8a4317d76ebead75d8c3e6177"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=a5dbc3f10bf040a5fb9683333584ee751cca6d92ed07b7a9311940c137506529"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=aad4f41786eedaa88a1276d4baff6e068221f11382211db62db7aee10a324341",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

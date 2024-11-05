@@ -1,0 +1,41 @@
+{
+  "name": "Maître Hibou",
+  "subtitle": "Vigie pirate",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Omar Lozano",
+  "deck_building_id": "4ab1a2c7f0197a4df9d436fc82d25fb88371a3ec",
+  "culture_invariant_id": 1200,
+  "sort_number": 1199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Hou hou, terre ! Euh, oh oh oh, terre !",
+  "rules_text": "BIEN VU Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, choisissez un personnage adverse qui subit -1 jusqu'au début de votre prochain tour.",
+  "card_identifier": "1/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=8e0ab2f676f629f49b50613ac01b4351e4fc9e973c0a201b5d8bfed21edc7469"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d170a3b997d0bd805d3172ec5475767bb89290f4a58636dd17e625b923940177"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ukulele di Naveen",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "bd8e75a123246ef236f0a66f968470bd4463ebf3",
+  "culture_invariant_id": 1230,
+  "sort_number": 1229,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Adoro questo strumento! Ne pizzico le corde, e tutti ballano.%—Principe Naveen",
+  "rules_text": "FALLO CANTARE 1 , esilia questo oggetto — Un personaggio a tua scelta conta come se avesse costo +3 per cantare le canzoni per questo turno.",
+  "card_identifier": "31/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=a3a55125992de86b3584105f759855626775e4fdaf6c3eb0cbf7942b8b432c2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=4bc56fcbdd4a488df50c7ad803df8fe22d3853739f81c8ee75d17eb1214581ed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=4c08e002386bf4de35f04315789478d3a9ddaba454781ffb8dca8451e91eb51e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Un Buon Non Compleanno",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Geoffrey Boudout",
+  "deck_building_id": "bec1b79d300150cdb92902404916f10483de4dbd",
+  "culture_invariant_id": 1259,
+  "sort_number": 1258,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Or spegni la candela%E rallegrati perché",
+  "rules_text": "(Un personaggio con costo 1 o superiore può per cantare questa canzone gratis.) Ogni avversario mette le prime 2 carte del suo mazzo nei suoi scarti.",
+  "card_identifier": "60/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=fc5dbe549c0b8e1b89a7313906e04cdfe01152e3ba1cd3739202fcb0e4747bd7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=25299c039c1dd3a48dca67223ccac5caf949b411046abb29ec094690b1623958"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=ac55382624e6d46aa96d6c8c5a446328435ddd9f5219c1246a6e607d5f993baf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

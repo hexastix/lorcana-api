@@ -1,0 +1,39 @@
+{
+  "name": "M. Litwak",
+  "subtitle": "Propriétaire de salle d'arcade",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Amanda Duarte / Julio Cesar",
+  "deck_building_id": "2b218e9fef97146992d8ada33a9b4abcc9bc1c1b",
+  "culture_invariant_id": 1223,
+  "sort_number": 1222,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Entrez, entrez. Content de vous voir.",
+  "rules_text": "TOUTE LA BANDE EST LÀ Une fois durant votre tour, lorsque vous jouez un autre personnage, vous pouvez redresser ce personnage-ci. Il ne peut ni partir à l'aventure ni défier pour le reste de ce tour.",
+  "card_identifier": "24/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=cdcbdeb496bc454b55347c980bf4a630d6c6fb61e4f557a21d304509c122537d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=49e6010776b184ce26c5d3bf0595e5e65f51cc216bf001fb111b7ab77ef69668"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=6f06f9ab1336c38e630ab4c4032cb0483b775951ee1ab3fd6b1680884b1b2d82",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

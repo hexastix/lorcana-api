@@ -1,0 +1,33 @@
+{
+  "name": "Prépare ton robot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3fc04fcbbbf9a961ececd00cd38396d95d1e1f9f",
+  "culture_invariant_id": 1364,
+  "sort_number": 1363,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choisissez entre: • Choississez un objet et redressez-le. • Choississez un personnage Robot et redressez-le. Ce personnage ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "165/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=8fcd1436f2be8c8c76ed18c2527f5fd2f303c7c572140d00ef104f2a1b471d49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=a97724660a10632d66eb8170c14c5af1c0069ed388a85e0875d9d286c7982ca9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=d0f9e1e5ace8d231300e04e2d9e08be23ed920c1cfec8675dd22884b067274c5",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

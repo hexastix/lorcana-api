@@ -1,0 +1,42 @@
+{
+  "name": "Paperina",
+  "subtitle": "Capitana Pirata",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1280,
+  "sort_number": 1279,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Le risposte che cerchiamo si trovano dall'altra parte di quel labirinto, ne sono certa!",
+  "rules_text": "LIDI LONTANI Ogni volta che uno dei tuoi personaggi Pirata va all'avventura mentre si trova in un luogo, pesca una carta.",
+  "card_identifier": "81/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=9e9a1dd14e4da1819ce419cec6bba6cc2d149bffa1eba13e3f79557950b54cc6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=b6a405ee8d3ca3fc0d01705b4e20b656ca1d0213db8dbb5b30783c1c5ebc0e03"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=19130974758a0ebee6e754e11c5300c653c1f37278e690d30e987d821805a5e7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

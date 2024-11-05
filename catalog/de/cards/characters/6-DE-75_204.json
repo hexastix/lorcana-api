@@ -1,0 +1,40 @@
+{
+  "name": "Fred",
+  "subtitle": "Maskottchen am Tag",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Cam Kendell / Danielle Powers",
+  "deck_building_id": "05562e0fc692cd80e28bb8a07a9507dde98c18a0",
+  "culture_invariant_id": 1274,
+  "sort_number": 1273,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "… doch bei Nacht … bin ich auch ein Uni-Maskottchen.",
+  "rules_text": "WIE COOL IST DAS DENN? Jedes Mal, wenn dieser Charakter herausgefordert wird, sammelst du 2 Legenden.",
+  "card_identifier": "75/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=fbffeab16f7c9864e54b1182022843ad6b2f00223902f1f00c0152caa047c062"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=19d4141054b96dcb65acf910d03e84367234a83e3e3912a4646e2cdd6a7ed12f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=004c9c1770c62e1718cf2c52edb5260ab1a2759561da46d18e799dd3ac39a3ce",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

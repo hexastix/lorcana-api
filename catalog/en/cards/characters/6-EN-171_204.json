@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Long-Range Specialist",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "854ac978a94ec987ff018655c529e3e0c8c5aaa7",
+  "culture_invariant_id": 1370,
+  "sort_number": 1369,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "They’re very good at making trouble. —Maui",
+  "rules_text": "A LITTLE HELP When you play this character, if you have another Pirate character in play, you may deal 1 damage to chosen character or location.",
+  "card_identifier": "171/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=df8a8e8a6a2c0f5c0b674ec9b3bc0d8f73725260cc33a2a2bb92b4a051f132b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=687fde92d1f333c322bc95ebbe1531f044fe63acac5c14cf9e5656c34ba23996"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4f02da37b5dd544592e471f3f9fac57080e53ddd5f79c6e30b23bd25a941fef2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

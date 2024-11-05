@@ -1,0 +1,41 @@
+{
+  "name": "Gadget Hackwrench",
+  "subtitle": "Creative Thinker",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "f6da830b7096c6853bab316ec8aa8a3436023b1a",
+  "culture_invariant_id": 1338,
+  "sort_number": 1337,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Inventor"
+  ],
+  "flavor_text": "Golly, a perfect wingnut! There's about a million uses for that!",
+  "rules_text": "BRAINSTORM Whenever you play an item, this character gets +1 this turn.",
+  "card_identifier": "139/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=7beac38d8becdc6b0024264aa4004e20f42360beb6b742e1b68d2528a773491a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=b898d2ff55030489c66c3abeb8d9bb495e7b8f2edb9256b4f98a5d2c38de7709"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=952b8a39513afca3e985fcbbec9f0a2b3b94147025215209232fdc50715841d7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

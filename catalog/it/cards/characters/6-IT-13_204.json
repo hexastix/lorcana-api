@@ -1,0 +1,40 @@
+{
+  "name": "Monterey Jack",
+  "subtitle": "Agente Speciale di Buon Cuore",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "1af23f8bf08755dedc59a34cbde709bcba074b8d",
+  "culture_invariant_id": 1212,
+  "sort_number": 1211,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "C'è soltanto una cosa che adoro più del formaggio... niente.",
+  "rules_text": "",
+  "card_identifier": "13/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=9771edced55210eb6e11ea2c2d4beabb08969cd036c231095e44b96cee4c7578"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=73a97984b5371b0c8af5d0ba2996e582375b7b7ba77ca72721616a1838be253f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f90e14e38ae7c4b1ba65ec9d7dc43b6d320c352a5be6e572316901dd79751e12",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

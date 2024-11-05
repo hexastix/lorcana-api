@@ -1,0 +1,41 @@
+{
+  "name": "Baymax",
+  "subtitle": "Assistant de santé personnel",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jared Mathews",
+  "deck_building_id": "dcbcc092217bb31b8bc790a740f918c336552b29",
+  "culture_invariant_id": 1355,
+  "sort_number": 1354,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "CHARGE TERMINÉE Jouer ce personnage vous coûte 1 de moins si vous avez un personnage Inventeur en jeu. VOUS AVEZ DIT 'AÏE' 2 — Choisissez un autre personnage et retirez-lui jusqu'à 1 dommage.",
+  "card_identifier": "156/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=07c9f586643d11e92b20f0953102e42554810610eebec60d42d1784070db1ddf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=b73c0ce1e4e9aaeb129998b849e673cb5db6be5482db6c5f5bc956271bd5045b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=6cb8117d6046bb551c7b310906fc6d0ab0e7071754d024ffda4e387c97ba7aad",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

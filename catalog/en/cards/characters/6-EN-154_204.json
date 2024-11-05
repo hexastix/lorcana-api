@@ -1,0 +1,41 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Team Leader",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "ff11309d766c3ab5b5c66c8ce13f398571351161",
+  "culture_invariant_id": 1353,
+  "sort_number": 1352,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "I NEED TO UPGRADE ALL OF YOU Your other Inventor characters gain Resist +1. (Damage dealt to them is reduced by 1.) SHAPE THE FUTURE 2 — Look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+  "card_identifier": "154/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=a3ca55cc23d8ac2f7ee9936e8ebe3977581b323f6a45aedfb6a75bc3bfbcf11a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=73d8aed6950d0b11ee637e8647c0f5eb2bad008049e37f2b686e432fd500a051"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=9235f15db392e9518ba9a14e694732d2a261ba1e39d0808836a084ed8090dd7f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

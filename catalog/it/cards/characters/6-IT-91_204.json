@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Detective Camuffato",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "3888d0922245bc3a1bdc014b65a50848f7973819",
+  "culture_invariant_id": 1290,
+  "sort_number": 1289,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Detective"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Basil.) RISVOLTI E SVILUPPI Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi pagare 1 per far scegliere e scartare una carta a un avversario a tua scelta.",
+  "card_identifier": "91/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=24b3398c572c839b85a7d71d6764a76b8f543c7b433375117144f3a1e19e9ea1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=c96797e3ded6bbb5755d3fae3a43060144ce4d7d6b1b27aa835b62160fedcf04"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=d0f5e22e5ef3914f63eca56607651bfb9ec9ad2753608ea25b592d4b597f23a3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

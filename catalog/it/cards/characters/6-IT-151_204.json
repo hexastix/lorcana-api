@@ -1,0 +1,41 @@
+{
+  "name": "Scheggia Hackwrench",
+  "subtitle": "Topolina Perspicace",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1bcc60e54cdd9528c68b185a20ca9163f5c62322",
+  "culture_invariant_id": 1350,
+  "sort_number": 1349,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Inventore"
+  ],
+  "flavor_text": "Tutti gli indizi puntavano a un'isola, ma non avrei mai immaginato di vederla su una mappa. Caspita, questo è incredibile! Cioè, esiste davvero, quindi tecnicamente è credibile — ma comunque! È meraviglioso!",
+  "rules_text": "",
+  "card_identifier": "151/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=4973108d2e83623d7b50406df843ad8f82b3fc7404af9c6da48c7e0c35e17270"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=a97b649c90243946e9fcbcc4d3dd8fea9c30e68b01eb5cc514da31fadaad929f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=377bb1787bdc8574cc7dab1efc0b28a76b614c8c9b446d5e05d092c6d191e705",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

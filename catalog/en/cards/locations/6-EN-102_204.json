@@ -1,0 +1,37 @@
+{
+  "name": "Owl Island",
+  "subtitle": "Secluded Entrance",
+  "willpower": 6,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "7aa47d85c7274b41667c57cd8ebefe2dbe00b83c",
+  "culture_invariant_id": 1301,
+  "sort_number": 1300,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "TEAMWORK For each character you have here, you pay 1 less for the first action you play each turn. A LOT TO LEARN Whenever you play a second action in a turn, gain 3 lore.",
+  "card_identifier": "102/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e6aa5af1876832b62b92c2f0cd09b63a4dc2ffd9f974af4d2f694779cab87047"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=949278003b96dd797c676c68f5afb44a0802cc5e3f61b8e46d9eeaafdc4247ab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=0fecba365a89399c5f42ee92178a3b1f844dd9594daa2b8814b18af8b0c8b247",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

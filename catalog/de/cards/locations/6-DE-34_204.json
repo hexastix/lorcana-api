@@ -1,0 +1,37 @@
+{
+  "name": "Hundertmorgeninsel",
+  "subtitle": "Puuhs Zuhause",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Andreas Rocha",
+  "deck_building_id": "151793bdd22cfedc309bf2800d3835a4e0ed038c",
+  "culture_invariant_id": 1233,
+  "sort_number": 1232,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "FREUNDE FÜR IMMER Jedes Mal, wenn einer deiner Charaktere an diesem Ort im Zug einer gegnerischen Person verbannt wird, sammelst du 1 Legende.",
+  "card_identifier": "34/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=5d490c55db21175d3bf9ae4bef420bd43161b0d7255e5c7e20e5517c9b51d4ba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=cf08485f263dc32ded0d8bdbb42f093ec9dd53ec0a89f174764e8ccd9c7d9baa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=949af4f47b14905c03c4b9091142492baebd6413c16dfa09e9bc28ab3f6721d7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

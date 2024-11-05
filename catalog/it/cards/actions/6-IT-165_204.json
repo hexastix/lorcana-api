@@ -1,0 +1,33 @@
+{
+  "name": "Prepara il tuo Robot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3fc04fcbbbf9a961ececd00cd38396d95d1e1f9f",
+  "culture_invariant_id": 1364,
+  "sort_number": 1363,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Scegli uno: • Prepara un oggetto a tua scelta. • Prepara un personaggio Robot a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "165/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=0cd3a3a5c204799bd3d16b3abb0e83e76ce609fe0fe46c83ef42e6d4211ab27b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=91885f70e82fa5420a876a049473b6e2bbae4deedac353e61cd19be19bfc1a73"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=d0f9e1e5ace8d231300e04e2d9e08be23ed920c1cfec8675dd22884b067274c5",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

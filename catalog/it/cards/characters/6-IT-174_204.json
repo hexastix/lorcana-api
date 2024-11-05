@@ -1,0 +1,39 @@
+{
+  "name": "Mr. Big",
+  "subtitle": "Scaltro Magnate",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "cfadaa4f1260ce978c286c033244ecbd996c65ac",
+  "culture_invariant_id": 1373,
+  "sort_number": 1372,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Mi hai reso un grande servizio.",
+  "rules_text": "REPUTAZIONE Questo personaggio non può essere sfidato da personaggi con 2 o superiore.",
+  "card_identifier": "174/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=0c7400ad0c9e79ddca2af994110c5c869d4ea807aa58bc5823ee20bf5c6941c1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=7057dff81ae2a93605bb2f6b5bf0a05653136025a872638948f41f2d880b896e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=75de47095351246547dd890ae5e6c9fb8dcce1d8368b7ddcafd43c286c37eba8",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

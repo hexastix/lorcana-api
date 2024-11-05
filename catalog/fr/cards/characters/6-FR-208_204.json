@@ -1,0 +1,44 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Guide éthéré",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Diego Machuca",
+  "deck_building_id": "7c256dab47d16a89c757b84431b8ddca2fb61add",
+  "culture_invariant_id": 1407,
+  "sort_number": 1406,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Mentor",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 7 (Vous pouvez payer 7 pour jouer ce personnage sur l'un de vos personnages Rafiki.) HARMONISATION ASTRALE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, vous pouvez piocher une carte.",
+  "card_identifier": "208/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=c0bd5d62c4d06cb3e06dc104f19b8b994e7ac1178d08a204a9795dd90a8b7ad8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=ee07d3c53cbdc548918712ee957c8834c41d54a3e8a04aa6be2aff0e43e12b41"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=9c7758ce563f972170ec317778cc914630c730f30b9669b7cff8c2d196f09999",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

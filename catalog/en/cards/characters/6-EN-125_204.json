@@ -1,0 +1,43 @@
+{
+  "name": "Hades",
+  "subtitle": "Strong Arm",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brian Kesinger",
+  "deck_building_id": "4f2dc7d36ef87536973bed84cbfe5735a853a3dd",
+  "culture_invariant_id": 1324,
+  "sort_number": 1323,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "Panic, use your head for once!",
+  "rules_text": "WHAT ARE YOU GONNA DO? , 3 , Banish one of your characters — Banish chosen character.",
+  "card_identifier": "125/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=ffe4aaed1c1184bafffe6cbf8d0b84de5f2d25582560f8b7de605b68a517f6d1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=8edc52e3499857267c86e155b19bb391f527a1268e8e5327f2132c3bfd506e2f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=d6cc2e70dfbd12f2edae75fda004ff9f213b3c2d4f25eeed08278cfd22790268",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a45f94d36884f3e0d9ef3e0f5997d9d66da9805ca34e8a8cafa0450ec073e517",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

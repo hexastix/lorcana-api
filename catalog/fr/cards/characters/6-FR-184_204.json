@@ -1,0 +1,40 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Pote imposant",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a503ad476cccbf9d1686da8dde53a17a5189485c",
+  "culture_invariant_id": 1383,
+  "sort_number": 1382,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Raya: Tuk Tuk ne laisse rien passer. Absolument rien. %Sisu: À part les papillons ! Oh, et les oiseaux !%Raya: D’accord, Tuk Tuk ne laisse presque rien passer.",
+  "rules_text": "",
+  "card_identifier": "184/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=771696830f44e23946c8ee020bda4803cbe1ccf8e81226cfd85530921c89eac6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=dc0b410764d7b36f94df0a5ef9f86af8cd18665850a1d510efa64e0790eeaaf4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=832913004e0bb0da8bbf96b7c204912cb7e29a33a6030c4ed3f8f5e6021ac712",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

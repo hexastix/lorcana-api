@@ -1,0 +1,40 @@
+{
+  "name": "Tapis Volant",
+  "subtitle": "Objet volant incroyable",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "4af7234f2f361cc2d518bc0f1bde9b379e38d192",
+  "culture_invariant_id": 1250,
+  "sort_number": 1249,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le tapis nous a toujours été d'un tel secours ! Ce n'est pas maintenant qu'il nous laissera tomber.%—Jasmine",
+  "rules_text": "",
+  "card_identifier": "51/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=53f2128f2b2cfcafdc502614d6ebc15cc53293e10321819fd2fcf2fa0279f88b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=3565b8c3f96a695b84279c95ca32fe595149c087955c170fc4b24bfd3e8afe38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=d9ab37ebf47fb1c145f9a9997fd1e6f7297d77883575c3f45c37db0314fda2a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

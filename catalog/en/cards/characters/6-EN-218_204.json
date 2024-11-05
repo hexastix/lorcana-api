@@ -1,0 +1,42 @@
+{
+  "name": "Baymax",
+  "subtitle": "Personal Healthcare Companion",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Laura De Pascale",
+  "deck_building_id": "dcbcc092217bb31b8bc790a740f918c336552b29",
+  "culture_invariant_id": 1417,
+  "sort_number": 1416,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "FULLY CHARGED If you have an Inventor character in play, you pay 1 less to play this character. YOU SAID 'OW' 2 — Remove up to 1 damage from another chosen character.",
+  "card_identifier": "218/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=bb4d5689e19612d9261f4e468775cca3f94b7df991ebb9a1100ca595c6751c07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=105610f6f5e5a608b9134acfd9f09e6d6b78d4b83499e3b8237543a566f48d8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=2d710540e735bc77449ca66d8aeea49094351b9ded7050ed3e13e486153a504b",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

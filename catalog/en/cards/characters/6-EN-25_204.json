@@ -1,0 +1,44 @@
+{
+  "name": "Jim Hawkins",
+  "subtitle": "Honorable Pirate",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Marcel Berg",
+  "deck_building_id": "b65dd4f44013d00440a5e7cd10def97b510a95a1",
+  "culture_invariant_id": 1224,
+  "sort_number": 1223,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) HIRE A CREW When you play this character, look at the top 4 cards of your deck. You may reveal any number of Pirate character cards and put them into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "25/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=82e5978885a94b635d496bf2a152d800b9d9cbb423f0d90d6f539ace2992db3b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=e3723e7bc003f0152f925fdf5eeae2be3d3ccf04caccb949461eca4ead7c5475"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=a12b807d85eb5d34ef128c6c58a11135b09393c8a933ec826006d9664f477c71",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

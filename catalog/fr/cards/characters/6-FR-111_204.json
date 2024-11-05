@@ -1,0 +1,41 @@
+{
+  "name": "Michel Darling",
+  "subtitle": "Épéiste joueur",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "1791b696efc7194f13104cd397919423568103fc",
+  "culture_invariant_id": 1310,
+  "sort_number": 1309,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Hissez le pavillon! Préparez-vous à combattre! Nounours paré!",
+  "rules_text": "",
+  "card_identifier": "111/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=f4bdfc857a42bc22e129c33c4179800005893c50ea990d5b642321580eba5eb8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=2a0e2dd0c6916c2f5d48deb76e555ac0978b3de7032d592334f227c8c7a5e836"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=839b82084c159ddd220c19e1a0a0b4598d8fd6fa1e44c6be673130e02c4803f9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

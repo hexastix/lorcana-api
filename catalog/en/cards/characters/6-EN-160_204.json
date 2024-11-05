@@ -1,0 +1,43 @@
+{
+  "name": "Yokai",
+  "subtitle": "Scientific Supervillain",
+  "strength": 6,
+  "willpower": 10,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 9,
+  "author": "Nicola Saviori",
+  "deck_building_id": "8786d1eedf8f662d74c12dfd082d6ab631d01a63",
+  "culture_invariant_id": 1359,
+  "sort_number": 1358,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 6 (You may pay 6 to play this on top of one of your characters named Yokai.) NEUROTRANSMITTER You may play items named Microbots for free. TECHNICAL GAIN Whenever this character quests, draw a card for each opposing character with 0.",
+  "card_identifier": "160/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=b90ebc27656e7f45aac61b078a8aa8d54110fcee0582cca33eac7bda1e61b68f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=9528dd6668039cffc04026364a132667c9d11b2fba88373003356995cbb9857a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=cce0eed2c3e73b40b69c9501755374d7d09a8342d89c438c4b6933aa08d62b21",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

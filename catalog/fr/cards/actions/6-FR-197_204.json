@@ -1,0 +1,33 @@
+{
+  "name": "Tir jumelé",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "73b07fd4a3e3b908b93c8d9272c0d97db0f6e2ff",
+  "culture_invariant_id": 1396,
+  "sort_number": 1395,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je l'ai eu !%Non, je l'ai eu !",
+  "rules_text": "Choisissez un personnage et infligez-lui 2 dommages. Ensuite, vous pouvez défausser une carte pour choisir un autre personnage et lui infliger 2 dommages.",
+  "card_identifier": "197/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=eb18c14672f5ee8c9cbb73e6e995604b9accd449b7fc18625b0a6bc3cdd69117"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4723583cc7592a4db22b9d2243974327bd732cfd9f801d39929e3be20614a2e0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

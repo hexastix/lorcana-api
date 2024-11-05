@@ -1,0 +1,44 @@
+{
+  "name": "Stitch",
+  "subtitle": "Alien Buccaneer",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cristian Romero",
+  "deck_building_id": "a47fda64f881fde3e3a374f0e76152127d4c47e4",
+  "culture_invariant_id": 1271,
+  "sort_number": 1270,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Stitch.) READY FOR ACTION When you play this character, if you used Shift to play him, you may put an action card from your discard on the top of your deck.",
+  "card_identifier": "72/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=6e7ade12c6256f8bd05ea7a0ffc276eeae6985c7caae899f1128fea5c16218d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=6845babc8eebaffcdb8e8acfe0737eb9f58933fdb5c20a2de322d25d12f7e536"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=17f342d75951b8ca15d2ba8b093458852c3851ae75471589c0e4abfa788b8ae8",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

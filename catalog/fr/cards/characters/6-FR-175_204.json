@@ -1,0 +1,41 @@
+{
+  "name": "Monsieur Mouche",
+  "subtitle": "Matelot fidèle",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "2066c7b87a1294f2092f7a77cdef7479b815708d",
+  "culture_invariant_id": 1374,
+  "sort_number": 1373,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Le Capitaine Crochet aimerait vous dire un tout petit mot.",
+  "rules_text": "BELLE PRISE Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "175/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=85b894b0b76d42a384c0ae0cf8509a93a3134622b4f4ebc72bdfbcc6cf167f52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=3a126180df0fa2f16a1bb212efaff786e53a83fd96f412d725cbca077cf8f66a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=bef79725ea7113086c075e15fccd8c0849c247ae92b5e2b4e1c641f45990035d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

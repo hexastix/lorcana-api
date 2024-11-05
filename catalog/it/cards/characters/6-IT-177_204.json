@@ -1,0 +1,41 @@
+{
+  "name": "Mullins",
+  "subtitle": "Marinaio Esperto",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "50c699882acf4c49f535574ca8c8d34101ab6ff3",
+  "culture_invariant_id": 1376,
+  "sort_number": 1375,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Pirata"
+  ],
+  "flavor_text": "Qualsiasi cosa per te, Spugna! Eccetto la mia parte del bottino...",
+  "rules_text": "METTERSI IN RIGA Mentre hai in gioco un personaggio chiamato Spugna, questo personaggio ottiene Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "177/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=7ea5726cdf8c3260bf7a36edfa45fa2cf503bde3cfc060c71b9a0a4aefe3d5fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=14d20d59ad54f0ca0052c1ca08125547254b5736a67f6e657e5a3097bdeaa1f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=1c4895808326be2e06526294dba0b576dfa89382088b4b06a009a8f00d05dad4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

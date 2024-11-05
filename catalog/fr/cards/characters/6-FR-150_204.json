@@ -1,0 +1,42 @@
+{
+  "name": "Nick Wilde",
+  "subtitle": "Renard narquois",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "4751ba64de3e64839f07b1768815e5a2c4b2186c",
+  "culture_invariant_id": 1349,
+  "sort_number": 1348,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 1 (Vous pouvez payer 1 pour jouer ce personnage sur l'un de vos personnages Nick Wilde.) TU M’AURAS PAS Tant que vous avez un objet en jeu, ce personnage ne peut pas être défié.",
+  "card_identifier": "150/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=209b1a5d65869d320fb682897c57e4a7e9dc411f4f7fcb76d76ac3e408a040af"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=876f398be2a2a5c942cbfdc951223a467516ff0fe04e187acd34da9dae694e7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=34dab4b60e4abd2380b0e1a3c6e96be487eefc40cc49e6f3c8609f41359021cc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

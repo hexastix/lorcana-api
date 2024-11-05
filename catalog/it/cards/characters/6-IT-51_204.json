@@ -1,0 +1,40 @@
+{
+  "name": "Tappeto Magico",
+  "subtitle": "Asso del Volo",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ron Baird",
+  "deck_building_id": "4af7234f2f361cc2d518bc0f1bde9b379e38d192",
+  "culture_invariant_id": 1250,
+  "sort_number": 1249,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Il Tappeto non ci ha mai delusi finora! Non lo farà proprio adesso.%—Jasmine",
+  "rules_text": "",
+  "card_identifier": "51/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=5882b75c56e0ad9e669bc6d81f27cbdf9422486a804bc645357b4e1da808832c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=2a76fc121110dd9d058c49764b52b2bc22fc091612d02b1931feca3d89e32150"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=d9ab37ebf47fb1c145f9a9997fd1e6f7297d77883575c3f45c37db0314fda2a0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

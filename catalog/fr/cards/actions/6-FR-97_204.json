@@ -1,0 +1,33 @@
+{
+  "name": "Tu es revenu",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Michaela Martin",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1296,
+  "sort_number": 1295,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Personne ne doit être abandonné.%—Stitch",
+  "rules_text": "Choisissez un personnage et redressez-le.",
+  "card_identifier": "97/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=ea3d108f9bcd5598acb64270851db2e9adab89c91f9e7892cec5d461fbfff2c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=9120647a521978f1d9eee58674ad7194312dcec781564b4f76eb155b8a0d9414"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f064cd3b4a6ea031412b662abb696dec7b48e392702076b5a9213b6cdea99cf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

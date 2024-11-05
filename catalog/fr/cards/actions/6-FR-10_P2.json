@@ -1,0 +1,35 @@
+{
+  "name": "Rangers du risque à la rescousse !",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Mariana Moreno",
+  "deck_building_id": "b5b569d97b7b26cd822613b9016587fc87dfb990",
+  "culture_invariant_id": 1425,
+  "sort_number": 1423,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Comptez le nombre de personnages que vous avez en jeu, puis choisissez un personnage qui perd autant de jusqu'au début de votre prochain tour.",
+  "card_identifier": "10/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=37fb7bdf197bc90dbbf9244613fa41bef8c0d15782c1f65bcebee9002f215c45"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=908e62deaea5b2e8045bc35dfcb7037527506dd47acf110a3d656a038d33f2cb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/2/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=da46a95a52d86e60be3c23f9a9f60e8bde04f38c03b0122d3b4370befff0904e",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

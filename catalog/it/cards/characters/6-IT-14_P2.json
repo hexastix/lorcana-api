@@ -1,0 +1,42 @@
+{
+  "name": "Scar",
+  "subtitle": "Cacciatore Spietato",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Cookie",
+  "deck_building_id": "51cf185eed5f063045efe5e721db44e75fd71f54",
+  "culture_invariant_id": 1429,
+  "sort_number": 1427,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "È per il bene comune. Sono sicuro che capirai.%—Scar",
+  "rules_text": "AFFILIAMO LE ZANNE Quando giochi questo personaggio, infliggi 2 danni a un tuo personaggio a tua scelta per infliggere 2 danni a un altro personaggio a tua scelta.",
+  "card_identifier": "14/P2 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=c7a22c97849af10c725dfab2d93aafa6f5923a4b217aa0ce761bfed5664be8d1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promos/2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=4d5a7b56830abd5243f2048a5b3372057c5696dd8e5473d069b16ee4401355fb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=ee80f3c93010dd924d253c18a65d628bfdbd2f964d005dea3b40b3bdc5037f54",
+  "special_rarity_id": 1,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

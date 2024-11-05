@@ -1,0 +1,40 @@
+{
+  "name": "Chap",
+  "subtitle": "Schelmischer Ritter des Rechts",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Rosa la Barbera / Livio Cacciatore",
+  "deck_building_id": "056e0b84434caa8b7fbcf65fb24fb0dd2a8f4473",
+  "culture_invariant_id": 1217,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "ICH STEH AUF STREICHE Wenn du diesen Charakter ausspielst, darfst du die obersten 3 Karten deines Decks auf deinen Ablagestapel legen, um einem Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -3 zu geben.",
+  "card_identifier": "18/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=23c5744880df0583f343eea65ab167b81babd2467532fe78e03f3c9653f8501a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=871daddb937cae8c5b1a043e4b2f9be31cab9f83513e83400c935fe906b6b994"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=6b77195e87073a4424948fb60e6d61e48ac7e248796f0f7186269495c120473c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

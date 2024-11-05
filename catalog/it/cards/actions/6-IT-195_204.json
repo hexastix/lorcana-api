@@ -1,0 +1,33 @@
+{
+  "name": "Patata Bollente",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicolas Ky",
+  "deck_building_id": "46d569174be105bf3722b7146e7d4b850b976412",
+  "culture_invariant_id": 1394,
+  "sort_number": 1393,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Questa storia finirà male.%—Pleakley",
+  "rules_text": "Scegli uno: • Infliggi 2 danni a un personaggio a tua scelta. • Esilia un oggetto a tua scelta.",
+  "card_identifier": "195/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=884f648611db85b4063b450ad36e91a8717c00de2447dd74c5c1d1cb0e8221b7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=0716cb0706dd0ba336a730a1d71c7892adcf118356e7682043a16fc33e2099e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=a00011dd64457c1a162b8678e59f029da989b55214530f1b6d0e8fe576125f4a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

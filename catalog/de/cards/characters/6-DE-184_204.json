@@ -1,0 +1,40 @@
+{
+  "name": "Tuktuk",
+  "subtitle": "Großer Kumpel",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a503ad476cccbf9d1686da8dde53a17a5189485c",
+  "culture_invariant_id": 1383,
+  "sort_number": 1382,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Raya: Nichts kommt an Tuktuk vorbei. <Nichts>.%Sisu: Außer Schmetterlinge! Oh, und Vögel!%Raya: Gut. Die <meisten> Dinge kommen nicht an Tuktuk vorbei.",
+  "rules_text": "",
+  "card_identifier": "184/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=c63a45a50bc54e24141899b7c160a53d844ecdbd61db5ebc4d77dfd51dc8d5cb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=76f2f3f9c35f2b5f1fcaae4bef691e3cfd1b979f21727ae67ab66c2b14d0b7a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=832913004e0bb0da8bbf96b7c204912cb7e29a33a6030c4ed3f8f5e6021ac712",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

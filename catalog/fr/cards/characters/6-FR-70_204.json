@@ -1,0 +1,41 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Navigatrice royale",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Seda Coskun",
+  "deck_building_id": "ddd60bc122f1c34cf707e969a06f3117df19f03f",
+  "culture_invariant_id": 1269,
+  "sort_number": 1268,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "PAR ORDRE DE LA PRINCESSE Lorsque vous jouez ce personnage, choisissez entre: • Choisissez un personnage ayant au moins 1 dommage et épuisez-le. • Choisissez un personnage adverse qui gagne Combattant durant son prochain tour. (Ce personnage ne peut pas être envoyé à l'aventure et doit défier s'il le peut.)",
+  "card_identifier": "70/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=06cc077052783ae736ad24aaee88fb806e13ced1a9df2c9331265a4af9886cda"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=117dad7dc20fc0fe68a787cddb5f883b359c6efbbfcdd8b4b295dd5e2cd319f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a0b00fcdf4311d01f716c41b79439cf2c6c6d61996eaa578b82db58bf14ce57c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

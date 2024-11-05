@@ -1,0 +1,33 @@
+{
+  "name": "Fuoco Gemello",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "73b07fd4a3e3b908b93c8d9272c0d97db0f6e2ff",
+  "culture_invariant_id": 1396,
+  "sort_number": 1395,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Li ho presi!%No, <io> li ho presi!",
+  "rules_text": "Infliggi 2 danni a un personaggio a tua scelta. Poi, puoi scegliere e scartare una carta per infliggere 2 danni a un altro personaggio a tua scelta.",
+  "card_identifier": "197/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=efa2d51ab0188df9e1e3eb3abafefb649a9f8de62afcf23456e896ac8e448d85"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=860d790fd8177a8787b0ecbd76fcdfe4cc2b8f08282381000266339ff1f6c599"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

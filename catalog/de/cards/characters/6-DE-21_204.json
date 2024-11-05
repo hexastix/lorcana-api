@@ -1,0 +1,40 @@
+{
+  "name": "Kanga",
+  "subtitle": "Pflegende Mutter",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Gianluca Barone",
+  "deck_building_id": "60b997fd5e49d37c9accc8253365dcc6f385e43a",
+  "culture_invariant_id": 1220,
+  "sort_number": 1219,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Meine Güte, du hattest heute ein sehr großes Abenteuer. Jetzt ist Schlafenszeit.",
+  "rules_text": "GESUND UND MUNTER Jedes Mal, wenn dieser Charakter erkundet, wähle einen deiner anderen Charaktere. Jener kann bis zu Beginn deines nächsten Zuges nicht herausgefordert werden.",
+  "card_identifier": "21/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d255001339aa734e565b569b80c4c6695ca1805099f7deb8c708846b561ca32c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=a7e865f6984f075749cee4a3fb47de07f752f271d6e932eb0d6b68b8ec02f628"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=6a79674003cd9d97fbff6b1a80c3fb46094944ac764a0834cc69221d6b216fed",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

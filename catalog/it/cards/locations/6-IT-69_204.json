@@ -1,0 +1,37 @@
+{
+  "name": "Albero Mistico",
+  "subtitle": "Casa di Mamma Odie",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "5c8b11a683ee565ce158b3726f92b274eb01c534",
+  "culture_invariant_id": 1268,
+  "sort_number": 1267,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "NON MALE All'inizio del tuo turno, puoi spostare 1 segnalino danno da un personaggio a tua scelta in questo luogo a un personaggio avversario a tua scelta. SAGGEZZA OTTENUTA CON FATICA All'inizio del tuo turno, se hai un personaggio chiamato Mamma Odie in questo luogo, ottieni 1 leggenda.",
+  "card_identifier": "69/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=d3fe8df0853c303dbf40f7fd2cd5a96e5363a16f42b05fa428bf9659b45af820"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=ac16c22cebd63a04203bc9fa3c1b463cb7efdc997620d5d5b2543cbd1d0f7b2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=77aaae9ce3ba8f071de75f14adee2c2f6bebe1bfb8419c7992dc48f610b9e0c0",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

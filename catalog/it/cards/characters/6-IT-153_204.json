@@ -1,0 +1,41 @@
+{
+  "name": "Tadashi Hamada",
+  "subtitle": "Inventore di Baymax",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "993aaea8ad85362fb36241b749ab1bd73d13fdc7",
+  "culture_invariant_id": 1352,
+  "sort_number": 1351,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Inventore"
+  ],
+  "flavor_text": "Non mi arrenderò, amico mio. Tu non lo sai ancora, ma tu servi al mondo.",
+  "rules_text": "TORNIAMO AL LAVORO Questo personaggio riceve +1 e +1 per ogni oggetto che hai in gioco.",
+  "card_identifier": "153/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=7b358335aa3d2fa33f9c2ab9eb26c83586cedd8ba524f73fec932281c4ba5a4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=4e9d4fdf83fa8264f5729078cb689d4c4164049e93c07ad4a216d8d76d079b18"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a2c3d10a6bacee8182ddd7d3ba7e6a48a599612bba1975101633be5940e85445",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

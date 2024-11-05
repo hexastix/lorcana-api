@@ -1,0 +1,37 @@
+{
+  "name": "Institute of Technology",
+  "subtitle": "Prestigious University",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Gabe",
+  "deck_building_id": "00902a5a0fbc97e1a6a6e0901d349c5cd34db777",
+  "culture_invariant_id": 1369,
+  "sort_number": 1368,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WELCOME TO THE LAB Inventor characters get +1 while here. PUSH THE BOUNDARIES At the start of your turn, if you have a character here, gain 1 lore.",
+  "card_identifier": "170/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=26e41301ab4a90b5b8aae45f5d0f19bca4f8cc021e97633e54c0d6a3ec9b1ed0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=6ea6ce83a08c86f4bde8f66fa0bbf1bfbcb6709e9af5dbdcf25e8071ddfdf041"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=e173c05fe0682b14c22e78b7ced57277b54b61636482b0dd94f14c9b8ad7dac5",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

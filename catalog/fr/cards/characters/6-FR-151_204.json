@@ -1,0 +1,41 @@
+{
+  "name": "Gadget",
+  "subtitle": "Souris perspicace",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1bcc60e54cdd9528c68b185a20ca9163f5c62322",
+  "culture_invariant_id": 1350,
+  "sort_number": 1349,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Inventeur"
+  ],
+  "flavor_text": "Tous les indices évoquaient une île, mais je n'aurais jamais pensé la voir sur une carte... C'est incroyable! Enfin, elle existe donc c'est techniquement croyable, mais tout de même! C'est extraordinaire!",
+  "rules_text": "",
+  "card_identifier": "151/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=6ec4261c9336f0ff0d60f5ec6b793cab8b012a10cacea08f4c27024a283a09ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=7348985e784ea7453dc7ab43dd84bbe8134fc9b4fa69f189c14328d56c97f66a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=377bb1787bdc8574cc7dab1efc0b28a76b614c8c9b446d5e05d092c6d191e705",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

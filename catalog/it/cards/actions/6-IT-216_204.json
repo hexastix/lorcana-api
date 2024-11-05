@@ -1,0 +1,36 @@
+{
+  "name": "Maui li Ha Fatti in un Battibaleno",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Giulia Riva",
+  "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
+  "culture_invariant_id": 1415,
+  "sort_number": 1414,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Cerca nel tuo mazzo una carta luogo, rivela quella carta a tutti i giocatori e aggiungila alla tua mano. Poi rimescola il tuo mazzo.",
+  "card_identifier": "216/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=c2f42201c37a8b13729da3e786885ee0c8adfc37f8a22e747da037f53a79ea16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=176dd315b583110f9a332702aea91b2e9d31ed0ecaaee5f6d1f627082b8fe039"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=c8c1de5d40a5dc0da8472a9cae95874953b3a0cff2b8a5955729b0a065fd7afd",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

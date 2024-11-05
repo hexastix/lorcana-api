@@ -1,0 +1,39 @@
+{
+  "name": "Le Charpentier",
+  "subtitle": "Compagnon de table",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Parisi",
+  "deck_building_id": "5ba5435695ac12a2a4f8697877c36e2691c34826",
+  "culture_invariant_id": 1243,
+  "sort_number": 1242,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Le Charpentier serra son marteau et son ventre grogna...",
+  "rules_text": "JE T’AURAI ! Lorsque ce personnage est banni, vous pouvez choisir un personnage et l'épuiser.",
+  "card_identifier": "44/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=04ddca022f1e1aad0cf20266911e86acdcb70fd214dcdbf3b663909c2ab89878"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=8228e3a54e1a4a8cad592d43ff850617c986984999e9cbf7abc345daaae642ee"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=5d058d215f3e8ecfecb10064501bdb7bc7be8ff6e5bb7ab3f9adeec5e8b011ad",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

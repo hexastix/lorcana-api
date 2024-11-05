@@ -1,0 +1,41 @@
+{
+  "name": "Minnie",
+  "subtitle": "Vigie pirate",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c1342a66787eb3f74ae51488e7b16a4ad1776975",
+  "culture_invariant_id": 1319,
+  "sort_number": 1318,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate"
+  ],
+  "flavor_text": "Minnie se pencha en avant. Était-ce possible? Était-ce enfin l'île?",
+  "rules_text": "TERRE! Une fois durant votre tour, quand une carte est placée dans votre réserve d'encre, vous pouvez renvoyer un lieu de votre défausse dans votre main.",
+  "card_identifier": "120/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=3efa8997b516c4dfd661b5723898a9b920890c69ecbb57620f0b08288e1b21b6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=40e2edd300efb8450b8eda6deaec25c7bb4dd4bcd3f24046bfd7de6bbe04f8b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=edbd8b2d974632c129577c265537ab1266d18025d0ae6404b1c7f2230ac64f7f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

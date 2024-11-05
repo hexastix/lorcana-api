@@ -1,0 +1,40 @@
+{
+  "name": "Tootles",
+  "subtitle": "Lost Boy",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Taraneh",
+  "deck_building_id": "206cb5dd9b005f75a17ff692982bd3e009e51812",
+  "culture_invariant_id": 1275,
+  "sort_number": 1274,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Every Lost Boy has a favorite hiding spot. Tootles has twelve.",
+  "rules_text": "",
+  "card_identifier": "76/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=533ede2f3f0e19a5af179fd04b3c7970b740d293fea93578bb95ad494307576e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=105ed2b8afa33ab0b424f87a4ed95dd4f9b3418f4a2bc19a37915cbdcd7a9f23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=12e1c3e7becdc2cdf064cf0d650c13021aaadcee08ca920f73a5d55b3e8f8325",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

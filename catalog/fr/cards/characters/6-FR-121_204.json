@@ -1,0 +1,45 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Cheffe des Kakamora",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jared Mathews",
+  "deck_building_id": "2cbd4be598255ef11ca13055090452c77e2f618a",
+  "culture_invariant_id": 1320,
+  "sort_number": 1319,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Vaiana.) RASSEMBLEMENT DES FORCES Lorsque vous jouez ce personnage, vous pouvez déplacer gratuitement n'importe quel nombre de vos personnages sur le même lieu. Gagnez 1 éclat de Lore par personnage déplacé de cette façon.",
+  "card_identifier": "121/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=9ae58bcf0042cd5c4896388edfd179d95db405851e07741f3dbcc116a5b97126"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=08901a962f7b476f81bdbae3780dad90599698d67ae80e0e661f74a2e49ec570"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=c8eee825aa4f20c8ab023ace7b2d8306533d5cdf5116ac035d780e0f18cb53df",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

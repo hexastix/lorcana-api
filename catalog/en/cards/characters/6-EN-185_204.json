@@ -1,0 +1,41 @@
+{
+  "name": "Billy Bones",
+  "subtitle": "Space Sailor",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "d9747118f33198abebde6af5d847e6ea933d788e",
+  "culture_invariant_id": 1384,
+  "sort_number": 1383,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Pirate"
+  ],
+  "flavor_text": "He’ll be comin’ soon. Can’t let them find this.",
+  "rules_text": "KEEP IT HIDDEN When this character is banished, you may banish chosen item or location.",
+  "card_identifier": "185/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=148c3c2e3853c48ae7d2825e108bdd8702597638ffcbe934b2fb93e59a7e6b81"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=26b084ec9c8e39b0d040548acc405e009bc14cce17a906689b9f80b8dc51caa6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=bba1710535f96b30727260e0c35a1ec7aebecafecda3b39de55173a132143b55",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

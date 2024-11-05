@@ -1,0 +1,41 @@
+{
+  "name": "Tadashi Hamada",
+  "subtitle": "Baymax Inventor",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "993aaea8ad85362fb36241b749ab1bd73d13fdc7",
+  "culture_invariant_id": 1352,
+  "sort_number": 1351,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Inventor"
+  ],
+  "flavor_text": "I'm not giving up on you. You don't understand this yet, but people need you.",
+  "rules_text": "LET'S GET BACK TO WORK This character gets +1 and +1 for each item you have in play.",
+  "card_identifier": "153/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=9c6ce17cb70fda25487b03679b62f38e1c7d1ed1b80170ed9318ccdc5d8a8f2d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=066ed77771077a38d7c196f48b56500af78a75d99d57548ee9a883d32ec401c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a2c3d10a6bacee8182ddd7d3ba7e6a48a599612bba1975101633be5940e85445",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

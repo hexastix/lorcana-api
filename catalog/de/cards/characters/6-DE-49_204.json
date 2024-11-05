@@ -1,0 +1,40 @@
+{
+  "name": "Diablo",
+  "subtitle": "Ergebener Rabe",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Jennifer Wu",
+  "deck_building_id": "f3ce8367f80305c407529f4e5600ff95c7d60c92",
+  "culture_invariant_id": 1248,
+  "sort_number": 1247,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Und enttäusche mich nicht.%–Malefiz",
+  "rules_text": "FLIEG DAHIN, MEIN LIEBLING Wenn dieser Charakter verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "49/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=39ac7aafb78c7ae9f38cd3f0fe5b8e4626f4504e97dadd6b76fb1e2fea05b7db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=273a70c443dd3805606a4af4e3327dab220829461d1550e69a1f0d2431068930"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=5b24595ef6f06803d33537ea6f301dea6353aa65f7932ae6b1f9e0f4d719ab36",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

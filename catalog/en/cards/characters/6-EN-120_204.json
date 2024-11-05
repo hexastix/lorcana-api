@@ -1,0 +1,41 @@
+{
+  "name": "Minnie Mouse",
+  "subtitle": "Pirate Lookout",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c1342a66787eb3f74ae51488e7b16a4ad1776975",
+  "culture_invariant_id": 1319,
+  "sort_number": 1318,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Pirate"
+  ],
+  "flavor_text": "Minnie leaned forward. Could it be true? Was this the island at last?",
+  "rules_text": "LAND, HO! Once during your turn, whenever a card is put into your inkwell, you may return a location card from your discard to your hand.",
+  "card_identifier": "120/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=8856ef129b7eb1ca72f233e0ec7dd1ef0068c0026b8075efa1abbba348fbca6a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=ca3a01a6455121527d32a493c6a902db2c984e43a8de1995dc7d5d72fdb3fe09"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=edbd8b2d974632c129577c265537ab1266d18025d0ae6404b1c7f2230ac64f7f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

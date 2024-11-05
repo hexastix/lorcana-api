@@ -1,0 +1,43 @@
+{
+  "name": "Wasabi",
+  "subtitle": "Systematischer Ingenieur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Taraneh",
+  "deck_building_id": "4c44b7fca1f2f6a3616e9dc982897df5179befa0",
+  "culture_invariant_id": 1428,
+  "sort_number": 1426,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "KLINGEN DES ZORNS Wenn du diesen Charakter ausspielst, darfst du einen Gegenstand deiner Wahl verbannen. Wer den Gegenstand im Spiel hatte, sammelt 1 Legende. SCHNELLE REFLEXE In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "13/P2 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=c2c7820acae31fdbf1986c605276f1ab78c52a54f460004bc915c919fdf23c9f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promos/2/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=46e1806ed40bdab064687be20bf9d0543f555a41788d530e390e77982ebb7257"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promos/2/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=97d0c73f19497c5fe02994b85c5deb76ab8ea095b7dd5d32e9caad9d06a33034",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

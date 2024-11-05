@@ -1,0 +1,33 @@
+{
+  "name": "Riesenpfote am Stiel",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alexandra Hefez",
+  "deck_building_id": "4d728e0fadc5e557dc4683c3c646e1cd6816ab7b",
+  "culture_invariant_id": 1367,
+  "sort_number": 1366,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "BITTE SEHR Verbanne diesen Gegenstand – Entferne bis zu 2 Schaden von jedem deiner Charaktere. Ziehe 1 Karte.",
+  "card_identifier": "168/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=ec0415d7e16127b610a6b27573f600d3b31120433267c9aec9a3c7aa1799a9ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=c68e80641e9223b83ec1ee6e47878227622799074375d432ef107328f08c8ef6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=b66be0d8dd7b4fef8bbde31788e32e58788340b7218553bb8c0107886ea875c9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

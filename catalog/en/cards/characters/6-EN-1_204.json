@@ -1,0 +1,41 @@
+{
+  "name": "Owl",
+  "subtitle": "Pirate Lookout",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Omar Lozano",
+  "deck_building_id": "4ab1a2c7f0197a4df9d436fc82d25fb88371a3ec",
+  "culture_invariant_id": 1200,
+  "sort_number": 1199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "I say, land who! Er, ho—land ho!",
+  "rules_text": "WELL SPOTTED During your turn, whenever a card is put into your inkwell, chosen opposing character gets -1 until the start of your next turn.",
+  "card_identifier": "1/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=72a3e121637f29c5373a1fb2f12d49a608b20201541e0e210f355a4aece65390"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=0d21cdd04ebff00a03dd0164131bc1f98a384cff7b6f3bd14b8592921d830e21"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

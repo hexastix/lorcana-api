@@ -1,0 +1,41 @@
+{
+  "name": "Yokai",
+  "subtitle": "Professor Callaghan",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jennifer Park",
+  "deck_building_id": "6ee000fc42f514e53290d8d11037f59628e7a180",
+  "culture_invariant_id": 1357,
+  "sort_number": 1356,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Erfinder"
+  ],
+  "flavor_text": "Ihr seid alle brillante Wissenschaftler und Erfinder. Stellt euch vor, was ihr mit diesem kleinen Gerät alles machen könntet. Wie könnt ihr die Grenzen des Möglichen überwinden?",
+  "rules_text": "",
+  "card_identifier": "158/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=b83ed34fbeee4f320601975f57fa33bc1ca64f0eb5d1518cb331ebda6cb6711d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=309085ca5fcb5b711a1a4ec2499f3de6cd0852f4adcccc49bc3625bca19a986e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=b2043fc6e27a82e7590a460b77d21f180155e22104897ab40f3245c91457d04d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

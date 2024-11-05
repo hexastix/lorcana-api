@@ -1,0 +1,43 @@
+{
+  "name": "Mr. Arrow",
+  "subtitle": "Legacy's First Mate",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Michela Cacciatore / Giulia Priori",
+  "deck_building_id": "a814e468ab73333f21ba1a0d58cb731f9dcf1521",
+  "culture_invariant_id": 1381,
+  "sort_number": 1380,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Alien"
+  ],
+  "flavor_text": "We’re holding steady, Captain. Despite this wind. And these waves.",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.)",
+  "card_identifier": "182/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=951f90fc841e631306315d1e867ada0900d0099a6ead90bdc8507f111c86c20c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=8dfbce1296a35082d3ab567d6292071a2f49ae60cf85233d28e5d00d3c63e154"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7f385dceb9a82fe01daeba8718dcc6ba4458cfc800d4497ffe7611670e0cba1f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

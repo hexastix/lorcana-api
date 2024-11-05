@@ -1,0 +1,42 @@
+{
+  "name": "Nick Wilde",
+  "subtitle": "Schlitzohr",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "4751ba64de3e64839f07b1768815e5a2c4b2186c",
+  "culture_invariant_id": 1349,
+  "sort_number": 1348,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 1 (Du kannst 1 zahlen, um diesen Charakter auf einen deiner Nick-Wilde-Charaktere auszuspielen.) DU KANNST MIR NICHTS ANHABEN Solange du mindestens einen Gegenstand im Spiel hast, kann dieser Charakter nicht herausgefordert werden.",
+  "card_identifier": "150/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=47b459e3e25d8a946d3f8b1b9d07304a9658b9919845f117608308b89aefa69d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=c3c1475df03e59af2a5cca6bf1efe029179a969ae137de46c3915286326425ad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=34dab4b60e4abd2380b0e1a3c6e96be487eefc40cc49e6f3c8609f41359021cc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ercole",
+  "subtitle": "Semidio Risoluto",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "d57ba4914c87d36251c93894e3081d6552322ca0",
+  "culture_invariant_id": 1379,
+  "sort_number": 1378,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "Quel labirinto non era poi così difficile! Vediamo cosa ci aspetta su quest'isola.",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.)",
+  "card_identifier": "180/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=48436d53fd3af6552c91c609ae7b72f08e024b858e2256c3ecd7e9bfb713c880"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=05a87455ed62b1bf0bebfe02fc556997eab5a0e05f5983a4d2f22a6bd2264b23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f7632bf0b81bf85839bbf7dca450e6c67b9a27f898a1be1a1f3b3a24f709a601",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

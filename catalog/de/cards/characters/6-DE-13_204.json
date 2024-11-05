@@ -1,0 +1,40 @@
+{
+  "name": "Samson",
+  "subtitle": "Gutherziger Ritter des Rechts",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "1af23f8bf08755dedc59a34cbde709bcba074b8d",
+  "culture_invariant_id": 1212,
+  "sort_number": 1211,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Es gibt nur eines, was ich mehr mag als Käse – nichts.",
+  "rules_text": "",
+  "card_identifier": "13/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f10b32aeba6ebc0f88ef5bfd7082889525f60f691f7e0b3ec5d11b0b8c1fb9e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=7801254ed38387cef7c4e4eaf4cb650c9f179bea870fc1c8ab13ce8e9a686578"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f90e14e38ae7c4b1ba65ec9d7dc43b6d320c352a5be6e572316901dd79751e12",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Marine Sergeant",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "8364649fe1abbe5e1521f9dca01ac72dbac4ff28",
+  "culture_invariant_id": 1390,
+  "sort_number": 1389,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.) LEVEL UP During your turn, whenever this character banishes another character in a challenge, gain 2 lore.",
+  "card_identifier": "191/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=ac5341df0a8015873b742697448e3ae54b9c3d3309767357eb0d517b9fe21e71"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=3d65b2394dae45b3e5411ecbd6831503338968eccf274b390ffb623b39d32b79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=9a911f0d4106982534ce3b00d112f246f5d0328b7b12dd5fcc1864e3f002b836",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

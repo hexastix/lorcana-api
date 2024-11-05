@@ -1,0 +1,41 @@
+{
+  "name": "Dr. Doppler",
+  "subtitle": "Aufgeregter Astronom",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "6a9326ab0a6b42d7e9dad9972935c275707d3662",
+  "culture_invariant_id": 1351,
+  "sort_number": 1350,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Alien"
+  ],
+  "flavor_text": "Natürlich! Jetzt ergibt alles Sinn. Deshalb sind meine alten Sternkarten nutzlos. Kein Stern in diesem Himmel gleicht den unseren!",
+  "rules_text": "",
+  "card_identifier": "152/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=5a5f4cc01fdad6ca68be33b611e2710841df19f77e6109eb484a1a92bd3d4d1c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=cb5fef57d6936cc8e9393cbc9f10db9b46f02db004f36cdc7aebf5b8213e7942"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=7180a376c6390423e8232409113ef1e671109fb647d01af9d6014a29158ee8c1",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

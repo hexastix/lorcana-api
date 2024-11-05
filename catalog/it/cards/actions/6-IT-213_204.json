@@ -1,0 +1,34 @@
+{
+  "name": "Sei Tornato",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Claire Hummel",
+  "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
+  "culture_invariant_id": 1412,
+  "sort_number": 1411,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Prepara un personaggio a tua scelta.",
+  "card_identifier": "213/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=063e05eac4ebf7ae5fe595b43cd776a6e02ee99d396e4d173ba8f45903c1d465"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=4048b286b1fb7d3ffada359269802c28a161460c2de191d9ea8ead38647f0053"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=487db9902862e6c3b801dbd799f5e2a2aa4398a1e641e63aaa911edec0e0edf8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

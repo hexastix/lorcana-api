@@ -1,0 +1,43 @@
+{
+  "name": "Naseweis",
+  "subtitle": "Flinke Fliegerin",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Malia Ewart",
+  "deck_building_id": "cacdb6abf873de6f92bea008b9b53b48adb1624c",
+  "culture_invariant_id": 1242,
+  "sort_number": 1241,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Fee"
+  ],
+  "flavor_text": "Sie schnellt durch die Wellen, ohne dass auch nur ein Tropfen Wasser sie berührt.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "43/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=5faa0b4e700e7ab8d502568834646a81dbb677aad22f0f288945960677b68475"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=7cb023f2ee1e058bd8b2aa5d410bc0d24bb73bbabccc917aa7e3e836774bc089"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=812f513b26968487b357f593571274e88af86ebb4df727be99a96b578634c793",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

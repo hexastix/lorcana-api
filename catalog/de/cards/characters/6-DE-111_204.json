@@ -1,0 +1,41 @@
+{
+  "name": "Michael Darling",
+  "subtitle": "Verspielter Schwertkämpfer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "1791b696efc7194f13104cd397919423568103fc",
+  "culture_invariant_id": 1310,
+  "sort_number": 1309,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Hisst die Flaggen! Macht euch bereit zum Kampf! Teddybär steht bereit!",
+  "rules_text": "",
+  "card_identifier": "111/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=d0dd92b9bd6f109581e1778a0431fcac0ecf356d5766ff190f799e9191864715"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=c47900382be9c4dc323a63f9edbad04003c2787e8de3616f3f42d84f5135cef5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=839b82084c159ddd220c19e1a0a0b4598d8fd6fa1e44c6be673130e02c4803f9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

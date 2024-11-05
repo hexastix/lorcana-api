@@ -36,6 +36,13 @@
       "type": "EXPANSION"
     },
     {
+      "name": "Azurite Sea",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/b17f1314b1f8e58387b5f1c0057c999a5222fd4f.png?checksum=c278b19f-cd9e-48f1-b815-78dcfaa22d59",
+      "id": 6,
+      "sort_number": 8,
+      "type": "EXPANSION"
+    },
+    {
       "name": "Illumineer's Quest Deep Trouble",
       "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quests/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=15b7855a-1910-47c2-bed7-552e1c8bb8a3",
       "id": 7,
@@ -136,6 +143,9 @@
       },
       {
         "term_in_search_filter": "Racer"
+      },
+      {
+        "term_in_search_filter": "Robot"
       },
       {
         "term_in_search_filter": "Seven Dwarfs"

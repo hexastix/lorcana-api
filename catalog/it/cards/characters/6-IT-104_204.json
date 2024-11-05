@@ -1,0 +1,42 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Banda d'Arrembaggio",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Saulo Nate",
+  "deck_building_id": "1b4a8518d45c24ba97ec36484731e8b55c085d5b",
+  "culture_invariant_id": 1303,
+  "sort_number": 1302,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Pirata"
+  ],
+  "flavor_text": "Vaiana: Credi che ci abbiano visto?%Maui: Ci hanno visto.",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.)",
+  "card_identifier": "104/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=4d5c414e252a0af4516b8f5bffdcba6cf1ecbd521687f8d33fab4c97f332b002"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=bba4343ade91fd52fd8853d57925091d72e84a6810cb144bc3c4147e32983946"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=a6d1dcff7d5645f9f1a0cf26c6b6c0df0229c20cf3c1bab5295cd42befeb3cdc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

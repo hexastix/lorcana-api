@@ -1,0 +1,33 @@
+{
+  "name": "Ghiacciolo Jumbo",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alexandra Hefez",
+  "deck_building_id": "4d728e0fadc5e557dc4683c3c646e1cd6816ab7b",
+  "culture_invariant_id": 1367,
+  "sort_number": 1366,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ECCO QUA Esilia questo oggetto — Rimuovi fino a 2 danni da ogni tuo personaggio. Pesca una carta.",
+  "card_identifier": "168/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=d11ea2d92151e999d4deca5a1cb16a0262bd5be796b3c18459b8c84f2858b033"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=76ff69fb55f4783365a35c297075a300cdad06c427eb6060a33c213d12ce4948"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=b66be0d8dd7b4fef8bbde31788e32e58788340b7218553bb8c0107886ea875c9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

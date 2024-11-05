@@ -1,0 +1,42 @@
+{
+  "name": "Markowski",
+  "subtitle": "Soldat im All",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "ead46bfd3bf059ae7fe97fb6163a498b70b7e8a7",
+  "culture_invariant_id": 1312,
+  "sort_number": 1311,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Genau das, was wir brauchten – ein weiterer Ort, um Käfer zu bekämpfen.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "113/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=bf0166554411e6eaca1fe8a9ec11b62212936cf4e9b7d78a12883d2e8dee32e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=a2533757f4fcaa1d862af85d8e8e983755c739e5a0a76c6375513053f8b84bdb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

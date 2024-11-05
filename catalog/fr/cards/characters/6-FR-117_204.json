@@ -1,0 +1,42 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Navigatrice autodidacte",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Koni",
+  "deck_building_id": "8eff1d2190a411b5fb11b72010f471fd055dde07",
+  "culture_invariant_id": 1316,
+  "sort_number": 1315,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse",
+    "Pirate"
+  ],
+  "flavor_text": "T’as envie de me dire que je ne sais pas ce que je fais ? Je le sais !",
+  "rules_text": "APPRENDRE LES FICELLES DU MÉTIER Ce personnage ne peut pas défier à moins que vous n'ayez un personnage Capitaine en jeu.",
+  "card_identifier": "117/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=01a15b3510b9b06c20b25e4f77d642b26ebadb2c7dc8d901e6001a05b3290e79"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=9f4ddcb0bca0899558cfd0449004be8f9d18859a1c679efd4e369c4f6a3a1bb0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=c5c31a80e419069b6f28e2332eb5a65958990be7425e7593a56823929dc4f451",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

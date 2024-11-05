@@ -1,0 +1,40 @@
+{
+  "name": "Jack le Costaud",
+  "subtitle": "Ranger au grand cœur",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "1af23f8bf08755dedc59a34cbde709bcba074b8d",
+  "culture_invariant_id": 1212,
+  "sort_number": 1211,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Il y a une chose que j’aime encore plus que le fromage… C’est le fromage.",
+  "rules_text": "",
+  "card_identifier": "13/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=97e184db075d2a8051c00e026d267159b3816d01811d960c3ed5f350a99f8bf1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=59f89205955ff5947eb62ea316145c423e453195e43bfef8f51a6578ccb924c7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f90e14e38ae7c4b1ba65ec9d7dc43b6d320c352a5be6e572316901dd79751e12",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

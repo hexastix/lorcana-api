@@ -1,0 +1,40 @@
+{
+  "name": "David",
+  "subtitle": "Impressive Surfer",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Valentin Palombo",
+  "deck_building_id": "52123a15d637dba3a83c1fd4207aff4423cd424e",
+  "culture_invariant_id": 1207,
+  "sort_number": 1206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Grab a board and come on out! Choice waves today.",
+  "rules_text": "SHOWING OFF While you have a character named Nani in play, this character gets +2.",
+  "card_identifier": "8/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=fec9937b7c903059e312171782ffc1306f4ad176bc2c1560654b505651cc806b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=3cf52a587d72ec0a20ca33539bb75e709d1e302a220082ebc18ec4145ed3d53e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=08daab6c3aa20610b72e1edd32b9c4fc2c60ce44c84599c823125b3efa89df41",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

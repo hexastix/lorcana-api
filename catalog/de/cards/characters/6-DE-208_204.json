@@ -1,0 +1,44 @@
+{
+  "name": "Rafiki",
+  "subtitle": "Geistiger Ratgeber",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 4,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Diego Machuca",
+  "deck_building_id": "7c256dab47d16a89c757b84431b8ddca2fb61add",
+  "culture_invariant_id": 1407,
+  "sort_number": 1406,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Mentor",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 7 (Du kannst 7 zahlen, um diesen Charakter auf einen deiner Rafiki-Charaktere auszuspielen.) ASTRALE EINSTIMMUNG Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "208/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=8e56676fda45fa07a8825ed9202aff6dc228256f73b0b25fc405aa065e8c892f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=8c8ec5c62c5de0f48686ee0ae09767e5feb8c6c4b4884ab3e8f59d6d07498307"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=4cffb75e1004ec40c87bbfe93f59690b7c362b94d02c62793dd8f17dbd23854b",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

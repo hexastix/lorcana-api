@@ -1,0 +1,39 @@
+{
+  "name": "Le Morse",
+  "subtitle": "Gourmand avide",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "ba9ac6e859a51a7ec08b3842d1149e26439c52b5",
+  "culture_invariant_id": 1245,
+  "sort_number": 1244,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "… quand le Morse, lui, avait déjà englouti son repas.",
+  "rules_text": "",
+  "card_identifier": "46/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=da8495319bf8ce1e30a88e8719a9711079951dcd01d41f52d1b7b056ba9ee8e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=c82146b60b02005dfb6f9c8b7d36c374916b1cd5f45317ce944f642d9149fa90"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=d748738d5cc89c7c7a6dd917a891aac23333dd3f8eccbef965a99351b8565b8c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

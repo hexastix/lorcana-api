@@ -1,0 +1,43 @@
+{
+  "name": "Yzma",
+  "subtitle": "Chimiste sournoise",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Jared Mathews",
+  "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
+  "culture_invariant_id": 1255,
+  "sort_number": 1254,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "L'une d'entre elles devrait fonctionner. Voyons voyons…",
+  "rules_text": "SENS LA PUISSANCE — Si vous avez moins de 3 cartes en main, piochez jusqu'à avoir 3 cartes en main.",
+  "card_identifier": "56/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=1eb89e3be7fa9da6b8ef32f3957c4c8c57f72eca5d259e1a889e112504934cf4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=4e5f1f7caa9a876ac08df74c166ed72647e9f7d30a9beb03c12481328ef4ee90"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=64f19bbb5b0b90fb602383b859651f5010d51c9a80bf989acb96db844781fb06",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/gloss/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=197cf164c2c91fa52aecbc57294b2699d919ccbd47526b13480450152cb95e80",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

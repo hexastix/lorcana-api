@@ -1,0 +1,41 @@
+{
+  "name": "Jasmin",
+  "subtitle": "Königliche Seefahrerin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Seda Coskun",
+  "deck_building_id": "ddd60bc122f1c34cf707e969a06f3117df19f03f",
+  "culture_invariant_id": 1269,
+  "sort_number": 1268,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "AUF BEFEHL DER PRINZESSIN Wenn du diesen Charakter ausspielst, wähle eine Möglichkeit aus: • Erschöpfe einen beschädigten Charakter deiner Wahl. • Ein gegnerischer Charakter deiner Wahl erhält in seinem nächsten Zug Impulsiv. (Der Charakter kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "70/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=04d12685c7c5b18d7b09a09c80b6bdaf06a579cb7ebf9eef93bb443eedb8255a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=6c15d82976b574c3fee2c8450bcd55af91d6e224428cb7ec3e850c84051dfdf5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a0b00fcdf4311d01f716c41b79439cf2c6c6d61996eaa578b82db58bf14ce57c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

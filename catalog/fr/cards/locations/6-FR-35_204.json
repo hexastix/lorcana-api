@@ -1,0 +1,37 @@
+{
+  "name": "Piste de Sugar Rush",
+  "subtitle": "Ligne d’arrivée",
+  "willpower": 7,
+  "quest_value": 0,
+  "move_cost": 6,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "2e9b2654fee6bda12d63af97fba258e9e06d906c",
+  "culture_invariant_id": 1234,
+  "sort_number": 1233,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ELLE EST POUR TOI, PETITE ! Lorsque vous déplacez un personnage d'un lieu sur celui-ci, vous pouvez bannir ce lieu-ci pour gagner 3 éclats de Lore et piocher 3 cartes.",
+  "card_identifier": "35/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=9d544f0913356f93b6659a88e404f19cfe913f286374a1720077a2579e47b004"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=86542b703584af91e8f13c877d5ef0e967839be59229a1c00bf6fc33da6509a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=683d7b53f1d10ae4365d0ce697ef0084b05c353842a867a848555e3c993eafe9",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

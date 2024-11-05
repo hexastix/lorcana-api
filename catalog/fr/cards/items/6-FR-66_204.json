@@ -1,0 +1,33 @@
+{
+  "name": "Théière du Chapelier Fou",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Parisi",
+  "deck_building_id": "7549f2439840b19bdfd1593d9b50b0e97f7dff7c",
+  "culture_invariant_id": 1265,
+  "sort_number": 1264,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Alice : Miséricorde, le thé a raté la tasse!%Le Chapelier fou : Non, non, ma chère, la tasse a raté le thé!",
+  "rules_text": "PAS D’PLACE, PAS D’PLACE , 1 — Chaque adversaire place la carte du dessus de sa pioche dans sa défausse.",
+  "card_identifier": "66/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=09ca63a9f3a9d0b77dd9fe1482db20f818ac7042be5d2d276ebad155ba35e344"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=49ae6145e2715d9a89971f202165dc8ea8a27cb9e1d1dbc742b9b4feed0765b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=0d34dfe2bc8c39e1f0d7ec0f039c70836c57233020a067479736c49983497f1c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

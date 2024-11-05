@@ -1,0 +1,39 @@
+{
+  "name": "The Carpenter",
+  "subtitle": "Dinner Companion",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Parisi",
+  "deck_building_id": "5ba5435695ac12a2a4f8697877c36e2691c34826",
+  "culture_invariant_id": 1243,
+  "sort_number": 1242,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "The Carpenter’s stomach growled as he clenched his hammer tight . . .",
+  "rules_text": "I'LL GET YOU! When this character is banished, you may exert chosen character.",
+  "card_identifier": "44/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=8adcfcef1634cd572b2c24b08776a12e96783a906a4d27be7f8a1de077b379dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=32cb15fa77b04e9f2d973c9bd4cbf5fd1dcb09f10ed797b1eff7b6a6b6ca5ad7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=5d058d215f3e8ecfecb10064501bdb7bc7be8ff6e5bb7ab3f9adeec5e8b011ad",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

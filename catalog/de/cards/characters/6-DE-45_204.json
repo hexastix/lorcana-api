@@ -1,0 +1,40 @@
+{
+  "name": "Jago",
+  "subtitle": "Wiederauftauchender Papagei",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "6b429fee312a65704722d56f090cd9bbe69ea8ae",
+  "culture_invariant_id": 1244,
+  "sort_number": 1243,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Denkst du wirklich, du wirst mich <so> einfach los?!",
+  "rules_text": "RATE MAL Wenn dieser Charakter durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand.",
+  "card_identifier": "45/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=71a1afc9fb4d3e321a470c1a64a6c3796c7e8b674a31e3fbc4c74bb266a2e50e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=830c5a8ab9919bc08b760cf28035ea6690330c6477db7ba6b533de4f3c9400de"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

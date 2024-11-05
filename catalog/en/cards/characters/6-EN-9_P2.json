@@ -1,0 +1,45 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Intrepid Commander",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Alice Pisoni",
+  "deck_building_id": "7e4d253d23bf3576df52bdc66b20bd353eea56dd",
+  "culture_invariant_id": 1424,
+  "sort_number": 1422,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 2 (You may pay 2 to play this on top of one of your characters named Aladdin.) REMEMBER YOUR TRAINING When you play this character, your characters get +2 this turn.",
+  "card_identifier": "9/P2 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=ed9bbd7472da1cf802f620403d7af6b1f6631a0262bf419db294f7b304753c7a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=032a33024d157ed7d3fcb1cb815b9527355dc3b0f84a45eb14a9d5d685ee2364"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/2/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=af82d5ff869246876def37f2c94033f15ab1dcce0bc63e4d05473b75e21d78d8",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

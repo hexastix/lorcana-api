@@ -1,0 +1,33 @@
+{
+  "name": "Den Weg weisen",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "0ca93cf0ba4a13734a84c1f1e6f1cd64cf55eece",
+  "culture_invariant_id": 1328,
+  "sort_number": 1327,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wir haben das Zeug dazu, gemeinsam den Weg durch dieses Labyrinth zu finden! Festhalten – wir gehen rein!",
+  "rules_text": "Deine Charaktere erhalten in diesem Zug +2.",
+  "card_identifier": "129/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=61d89be56ea75ac9611d0aceef5c7e2ee840f7a1fe9e81d6facde98a50380b78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=ebf382d7aac4118da8ba6267b89334cbec6accc50c68ca5c0065f83cbd19cc0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=53a2a4abbab901581d6558593d2b89a9c61d674d729c78500e23316309d79d4f",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

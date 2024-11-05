@@ -1,0 +1,40 @@
+{
+  "name": "Dawson",
+  "subtitle": "Basil's Assistant",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "eeb6030bde03db17a4eb97445182172a196ebc72",
+  "culture_invariant_id": 1276,
+  "sort_number": 1275,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "By Jove, he must be around here somewhere. Basil! Basil! Shout if—aaahhh!",
+  "rules_text": "",
+  "card_identifier": "77/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=1a86a534803e30d402a2f47e8f6f7662ec9e16155a24717ae91ab4b10ca78685"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=ef3ec37be7fbd3b83e9358516fbe2c4dd9fd829f24b9133e479c4100ca100c2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=20129f9a713ded53ba64ef5a11145d0acd4c5940c14115da079e4fd81ec8aead",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

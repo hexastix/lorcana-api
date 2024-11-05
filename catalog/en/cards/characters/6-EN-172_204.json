@@ -1,0 +1,41 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Pirate Chief",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "97266efddadb85c14ed91903802d893795b7d75a",
+  "culture_invariant_id": 1371,
+  "sort_number": 1370,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "HEAD COCONUT Whenever this character quests, you may draw a card, then choose and discard a card to deal 1 damage to chosen character or location. If you discarded a Pirate character card, deal 3 damage instead.",
+  "card_identifier": "172/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=9f6bc6300734e2871d11e26b8825d3a82df50eb20ecb0463fc36684fee7960ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=9ded3fa4ade750a615f6ac4eb531cc8dac8720011b09ca7d6caf7fc6033913a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a42d3e9c7bb0ca233f25e8fdfa1345f8f4696a081790c676d7712eba1fe05fe3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

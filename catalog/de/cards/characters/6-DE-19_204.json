@@ -1,0 +1,42 @@
+{
+  "name": "Nani",
+  "subtitle": "Fürsorgliche Schwester",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "badb6313c16d779154ca8614bade62b8ebaaafee",
+  "culture_invariant_id": 1218,
+  "sort_number": 1217,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) ES TUT MIR SO LEID 2 — Gib einem Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "19/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=816c12caa0b44ebc74fe35d3e0aa5840aa710a9a9d0cefbf6646d35feba233a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=93c6f8e7449589ea58a332aa370abd978f49cbce04882e6bef0e37a48da88028"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c2751f42c2059673189891cdc59a1aeda811d9c54c97975d8e0f7d5f68c92bf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

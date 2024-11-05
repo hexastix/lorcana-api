@@ -1,0 +1,41 @@
+{
+  "name": "Kater Karlo",
+  "subtitle": "Freibeuter",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Celeste Jamneck / Mariana Moreno",
+  "deck_building_id": "cc4f9781276050c70704d7062dfa20e416bed1cb",
+  "culture_invariant_id": 1321,
+  "sort_number": 1320,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Pirat"
+  ],
+  "flavor_text": "Karlo war immer auf der Suche nach Ärger. Jetzt wurde er endlich dafür bezahlt.",
+  "rules_text": "",
+  "card_identifier": "122/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=ba5dfb9303204957632f5711b24df328e550252f6f53dff676d5fcbf4dc45cba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=0b9a2f3721e3b70fae83c02af8f50a726b5340a35b5762a90c64e4b9083504d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a59a9d711364b86400bcd637250bb59dca03f2dd1e280ef24f19ad49d475bb34",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

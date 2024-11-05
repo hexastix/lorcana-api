@@ -1,0 +1,33 @@
+{
+  "name": "Sensorkern des Königs",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "c8c598bbf7c1e8cecb91d6da44108cd014214d0b",
+  "culture_invariant_id": 1399,
+  "sort_number": 1398,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "KÖNIGLICHES SYMBOL Deine Prinzen und Könige erhalten Robust +1. (Reduziere jeglichen Schaden, der den Charakteren zugefügt wird, um 1.) KÖNIGLICHE SUCHE , 2 — Decke die oberste Karte deines Decks auf. Falls es eine Prinz- oder eine König-Charakterkarte ist, darfst du diese auf deine Hand nehmen. Falls nicht, lege sie zurück auf dein Deck.",
+  "card_identifier": "200/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=e31c7b038f927fd35b8e86321ac8f5e1ba136445e5219e31ffcc3348d3ce996a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=d2671aa02ef011cafafda942692ce89173a614fabcea24639c16659f319c9ecc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=6a922113522e14d833bb19804cd4051236644a5641e9bc12442a5d49967e2f1c",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "We Could Be Immortals",
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Denny Minonne",
+  "deck_building_id": "6e428663c224995945b62be7fe69cd44cbb42939",
+  "culture_invariant_id": 1418,
+  "sort_number": 1417,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 4 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Deine Erfinder erhalten in diesem Zug Robust +6. Danach lege diese Karte verdeckt und erschöpft in deinen Tintenvorrat. (Reduziere jeglichen Schaden, der den Charakteren zugefügt wird, um 6.)",
+  "card_identifier": "219/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=97551e3f27e124cb40349043fab828a46991c17d46f49f9423d24785d2cab9d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=ea54f0a980be7ac25a2237a017ec164d02fab29688c62144656c9ac0c482909a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=c35c2d56dde12582cb7010fdce728648bf56546ceb42fe2032792253900820f7",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

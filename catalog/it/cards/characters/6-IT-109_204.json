@@ -1,0 +1,43 @@
+{
+  "name": "John Silver",
+  "subtitle": "Amico Feroce",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "César Vergara",
+  "deck_building_id": "66db56b4be18bb9ae41a91fbaa0d96b74a3a3e8b",
+  "culture_invariant_id": 1308,
+  "sort_number": 1307,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "TRACCIARE LA TUA ROTTA Ogni volta che questo personaggio va all'avventura, puoi infliggere 1 danno a un tuo altro personaggio a tua scelta. Se lo fai, prepara quel personaggio. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "109/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=5b659dc96f85a58bd5c51af182f843f292ddf2b50df91c259b0657f0c893d792"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=2be016a651951ddb9553af4d9226fb986169171e21b311175929d3d6cea34c4d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=174101bdf48bd904517516c173a00e9081e8b2de39a4a55866b081c6779f0378",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

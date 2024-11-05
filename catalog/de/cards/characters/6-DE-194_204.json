@@ -1,0 +1,48 @@
+{
+  "name": "John Silver",
+  "subtitle": "Strenger Kapitän",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Diego Machuca",
+  "deck_building_id": "a35533a3e2773a11318e05fb7d0179e1f4f32b3d",
+  "culture_invariant_id": 1393,
+  "sort_number": 1392,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Alien",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner John-Silver-Charaktere auszuspielen.) Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.) SITZ NICHT EINFACH HERUM! Zu Beginn deines Zuges, füge jedem gegnerischen bereiten Charakter 1 Schaden zu.",
+  "card_identifier": "194/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=be984d8a95e706388a8d0899aad5e71880975100cdd9614625a130c1ae8dd63f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=fad60712adb9a60626a46f5c181ab0389541b438f9db1e38e011558434991a47"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=bf2a74c4bafb7234d2deb88b5b134bd66ff220248091c3d7ad08a7bf741313e5",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3cfcfa2658283b2fac0e8c108074109cadab868c58ea2234da605d803e51e20e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

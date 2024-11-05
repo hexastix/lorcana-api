@@ -1,0 +1,44 @@
+{
+  "name": "Genie",
+  "subtitle": "Wonderful Trickster",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Mike Parker",
+  "deck_building_id": "ff98a7d79dbd9e9dd50780105dea42edda741876",
+  "culture_invariant_id": 1260,
+  "sort_number": 1259,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Genie.) YOUR REWARD AWAITS Whenever you play a card, draw a card. FORBIDDEN TREASURE At the end of your turn, put all the cards in your hand on the bottom of your deck in any order.",
+  "card_identifier": "61/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=921aaeb6f3e1884e7336b2158c073655c526dd13a6da901b7b50eef96bf3cc5e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=2099f793bc6bf66c78e19adac504a8bd8c5dea802b2e3579ca7268bf2fdf2a88"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=72f4675b1c77e1c38fbe5f26c3764528a3368dd2981ee5244470f7599dd63ccb",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=de0f318bfb68b004f61d6a890a1178334cbb15a561fa3577cac0c5b8f254ac2e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

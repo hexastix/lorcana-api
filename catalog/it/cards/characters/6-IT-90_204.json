@@ -1,0 +1,40 @@
+{
+  "name": "Bellwether",
+  "subtitle": "Assistente Sindaco",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Samoldstoree",
+  "deck_building_id": "72f9912aaf126caa296ac6b59f85a9b63a5c644d",
+  "culture_invariant_id": 1289,
+  "sort_number": 1288,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA PAURA FUNZIONA SEMPRE Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, un personaggio avversario a tua scelta ottiene Attaccabrighe durante il suo prossimo turno. (Non può andare all’avventura e deve sfidare, se possibile.)",
+  "card_identifier": "90/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=2d3a005e287d4496ee11ddb776bd671c9dc3cb74d929d0a200ab92017c0d90c7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=04c6da998c91201c32e76c78d78af9e0fb256bcfa0aebe6a99e246a0038c82b4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=c401479136bb64e05567942a78a6b4cec502211f2540f33da56cc782bab69289",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

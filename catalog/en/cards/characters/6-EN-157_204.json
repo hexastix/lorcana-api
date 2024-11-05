@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Armored Companion",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Brianna Garcia",
+  "deck_building_id": "8b5b13c2943342369d72422e5cc509b8583ffe42",
+  "culture_invariant_id": 1356,
+  "sort_number": 1355,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "THE TREATMENT IS WORKING When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way.",
+  "card_identifier": "157/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=ed1c0dcd2e0d8a873d6dbd20c8232b194d5040694c37d1277e413d841fe1f759"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d950c1d7fd05a7e4086f3b035fbb59a5d17c6dd404c045184a3559ab3f70ea64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dfb4d81a083ef60dcbe295ed3d2fd4215b8ed18f37497bc8b50a007ee25a6123",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d3b4c5a769e5ead92a1ab080e0ef87cfd0fc61927180819b907377fb5476b316",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

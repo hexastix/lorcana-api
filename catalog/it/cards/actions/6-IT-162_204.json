@@ -1,0 +1,35 @@
+{
+  "name": "Saremo Immortali",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "6e428663c224995945b62be7fe69cd44cbb42939",
+  "culture_invariant_id": 1361,
+  "sort_number": 1360,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 4 o superiore può per cantare questa canzone gratis.) I tuoi personaggi Inventore ottengono Resistere +6 per questo turno. Poi aggiungi questa carta al tuo calamaio, a faccia in giù e impegnata. (Il danno che gli viene inflitto è ridotto di 6.)",
+  "card_identifier": "162/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=accbca8a3a8f2665cc252c76336c8c9e2d94eb20217eb143f5e005dacf93c5ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=bdb7b184c792fe9867fe247c41796b557932683a359841caa2249753c5cb35a0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=f841423ea552cb711bc12cfda6704f1956514822d61fc40bfd0e916665c152dd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Fare una Magia",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "adf1058d9209d88466a9f74d83dec159dad4d15a",
+  "culture_invariant_id": 1261,
+  "sort_number": 1260,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ora sì che ha un sapore!%—Mamma Odie",
+  "rules_text": "Sposta 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta. Pesca una carta.",
+  "card_identifier": "62/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=637aa9136ee29de0e2c8c7e29fcdb60d2b510f7117e1bbd9afa40531f3481538"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=407f3ec4b147fa2aba52fa22eb90d64a86e2374ed812cc9ebe37a3ca3fbbb66c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=c6791411010c0630516544a0045cfd1fc57dfcefa44502f7aac2e1cb5fc6eb1e",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

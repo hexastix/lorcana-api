@@ -1,0 +1,33 @@
+{
+  "name": "Training Dummy",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "b2ffd3347d1cead4ec8b7dece53827b4b191dc01",
+  "culture_invariant_id": 1400,
+  "sort_number": 1399,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "HANDLE WITH CARE , 2 — Chosen character gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "201/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=ccdb111ce4ff520c10e095cd4a4e937626633432ba8ebaf6ed4a79c95dd0a40f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=aafa3af01816ec6c754912b90245809080092bdd2f237c45e2e95b36d24a42f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2f8783af6e11c52f497d813f983210d30d0a31eeba63c04a48565d109c8e1286",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

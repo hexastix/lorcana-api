@@ -1,0 +1,43 @@
+{
+  "name": "Madame Mim",
+  "subtitle": "Winzige Widersacherin",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Moniek Schilder",
+  "deck_building_id": "462aeda1519544194de59f6734300225a5c89003",
+  "culture_invariant_id": 1236,
+  "sort_number": 1235,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Herausfordern +1 (Während dieser Charakter herausfordert, erhält er +1.) SIMSALARIMBIM Deine anderen Charaktere erhalten Herausfordern +1.",
+  "card_identifier": "37/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9e8a300568514b81a717642c9be78bbfbeecea64f7252b9ebdea1c235732b367"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=ea8a64f90a71c6a954942a7fdd0d76ee3d3047711594ae6f81d138d996ae91a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=946d6bf2b80aa904488199ff21fcd5e22fa4a28031e8a791a7cc524a11184a3a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

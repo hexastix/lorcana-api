@@ -1,0 +1,42 @@
+{
+  "name": "Capitan Uncino",
+  "subtitle": "Subdolo",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "41aae15f1c0ae59cefd34a672334c90a3599987b",
+  "culture_invariant_id": 1270,
+  "sort_number": 1269,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "SUSCITARE TERRORE Mentre questo personaggio è impegnato, i personaggi Pirata avversari non possono andare all'avventura. VANTAGGIO Ogni volta che questo personaggio viene sfidato, pesca una carta.",
+  "card_identifier": "71/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6c07dae334451331ce0a80172d44bd19fe28bbb0749c0025b0f2f966e018256b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=8ce471d4c90aca29560ddbb48b85102f53ef36b0ae34a531f0c82752c9327ff5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=ea3a9c2a0a4869dc55dfb4e6d01a1226ebee1809e9d6edc5fc8597f9fc3f3198",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Iago",
+  "subtitle": "Pappagallo Ricomparso",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "6b429fee312a65704722d56f090cd9bbe69ea8ae",
+  "culture_invariant_id": 1244,
+  "sort_number": 1243,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Pensi di poterti liberare di me <così> facilmente?!",
+  "rules_text": "INDOVINA CHI C'È Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta.",
+  "card_identifier": "45/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=ceb97509ef83459e050c1a0920c2316d67e0d6834ebe42053f3d2ad76a0e06c4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=2aa258da15dbc3947b251c369a0d0acc2cc94e51d5a4c5ffaec854613105cd7e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Tiana",
+  "subtitle": "Restaurantbesitzerin",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Casey Robin",
+  "deck_building_id": "17a9503bd48a90ee1ab532c11add850dbfa48460",
+  "culture_invariant_id": 1405,
+  "sort_number": 1404,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "SPEZIALRESERVIERUNG Jedes Mal, wenn einer deiner Charaktere herausgefordert wird, solange dieser Charakter erschöpft ist, erhält der herausfordernde Charakter in diesem Zug -3 , falls die ihm zugehörige Person nicht 3 bezahlt.",
+  "card_identifier": "206/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=49d0865ba9721c3166f95657b0cd3c6e4ba8b1d64b4ffe9741625bfc24ac1bcb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=a111da6c609d1091e7487a36656cd07660899a79f0d42bf1ce473cac8e625139"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=4d888c0df77bb85256f99f0e27c5ae7e65fe8ee3a896138142fc94542cccb9ce",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Alistair Krei",
+  "subtitle": "Ehrgeiziger Unternehmer",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "5caba947c087604d4db6f1463a4c61faab71effb",
+  "culture_invariant_id": 1286,
+  "sort_number": 1285,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Erfinder"
+  ],
+  "flavor_text": "Schlank und doch stark … Diese Tintenflügel sind eine außergewöhnliche technische Meisterleistung.",
+  "rules_text": "EIN AUGE FÜR TECHNIK Wenn du diesen Charakter ausspielst und mindestens eine gegnerische Person einen Gegenstand im Spiel hat, sammelst du 1 Legende.",
+  "card_identifier": "87/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=1b16f01fdcb59ce208c7f6297bd36f3fada4e3f8b24bde275a6a39e215b487fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=067097758267f710b46d05e35aec985abd55e12cde40ed54bdacdc1d3ac954d5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=b35e03313d564da9b77ca62a6ec6b4740944ab5385266e22b741bbe79acbdfb2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

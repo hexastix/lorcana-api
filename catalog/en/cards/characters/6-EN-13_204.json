@@ -1,0 +1,40 @@
+{
+  "name": "Monterey Jack",
+  "subtitle": "Good-Hearted Ranger",
+  "strength": 0,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "1af23f8bf08755dedc59a34cbde709bcba074b8d",
+  "culture_invariant_id": 1212,
+  "sort_number": 1211,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "There’s only one thing I like more than cheese—nothin’.",
+  "rules_text": "",
+  "card_identifier": "13/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=d8f64565b28952e9a020050913b7968a9e025572b90ae4aff598b53890742908"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=9f601b778dcadd8604b1ec07ab14b275af6f34fc02a8320f30cd80f820163446"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=f90e14e38ae7c4b1ba65ec9d7dc43b6d320c352a5be6e572316901dd79751e12",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

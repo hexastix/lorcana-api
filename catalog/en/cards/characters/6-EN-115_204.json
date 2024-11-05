@@ -1,0 +1,40 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Courageous Sailor",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "76067fd15c411217b76ba3aea1ceaa85d6049ec3",
+  "culture_invariant_id": 1314,
+  "sort_number": 1313,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "Golly, this looked a lot easier from the ship. But I know I can make it—the crew is counting on me!",
+  "rules_text": "SOLID GROUND While this character is at a location, he gets +2.",
+  "card_identifier": "115/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=27afca08d4bb245ff168d9275e9f5c612a2f26c45f0aa66be4fbc7fe23872e73"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=cfcd14dfca53df88532a604eba344a177b40e92f4aaa9724cc8fa94e99cddb58"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=84c1e89f622b0a8cc1690166f2ee9d18f92716cd57acf8acec35fc61b3c4d80b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

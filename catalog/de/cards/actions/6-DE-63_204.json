@@ -1,0 +1,33 @@
+{
+  "name": "Den Weg verlieren",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "efd47478baf36aa353f4ec8a99d33cc331c1b1f6",
+  "culture_invariant_id": 1262,
+  "sort_number": 1261,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wenn man sich verirrt hat, dann glaube ich, ist es das Beste, man bleibt, wo man ist, bis einen jemand findet.%–Alice",
+  "rules_text": "Erschöpfe einen Charakter deiner Wahl. Dann darfst du eine Karte von deiner Hand auswählen und abwerfen. Wenn du dies tust, wird der erschöpfte Charakter zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "63/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=902be58f479125ee99cdbe078e40ffc433a600628d09d6d1c8e7c1ca9bb814bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=4375ae7390645faef3b053de1532ea6603f036686193f8354380dfc285da09ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=c76e0245b61cf556385651e803999bbcc90b698d4f70995bb3bc6c526f091cbf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

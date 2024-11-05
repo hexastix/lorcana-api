@@ -1,0 +1,40 @@
+{
+  "name": "Dr. David Wasdenn",
+  "subtitle": "Basils Assistent",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brittney Hackett",
+  "deck_building_id": "eeb6030bde03db17a4eb97445182172a196ebc72",
+  "culture_invariant_id": 1276,
+  "sort_number": 1275,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Bei Gott, er muss hier irgendwo sein. Basil! Basil! Ruf, wenn du – aaahhh!",
+  "rules_text": "",
+  "card_identifier": "77/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=4a231649f50f824ed1bc690d420b25a4239f9e52c65b3cc644f1f27d6c9cbcb9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a2d8606eb0c4d16444be4abe709ed3469901883caad50342eac0f7212f7070a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=20129f9a713ded53ba64ef5a11145d0acd4c5940c14115da079e4fd81ec8aead",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}
