@@ -83,7 +83,11 @@
         ]
       },
       {
-        "term_in_search_filter": "Balai"
+        "term_in_search_filter": "Balai",
+        "terms_on_card": [
+          "Balai",
+          "Broom"
+        ]
       },
       {
         "term_in_search_filter": "Capitaine",
@@ -100,13 +104,17 @@
         ]
       },
       {
-        "term_in_search_filter": "Chiot"
+        "term_in_search_filter": "Chiot",
+        "terms_on_card": [
+          "Chiot",
+          "Puppy"
+        ]
       },
       {
         "term_in_search_filter": "Dieu",
         "terms_on_card": [
-          "Deity",
-          "Dieu"
+          "Dieu",
+          "Deity"
         ]
       },
       {
@@ -115,28 +123,44 @@
       {
         "term_in_search_filter": "Détective",
         "terms_on_card": [
-          "Detective",
-          "Détective"
+          "Détective",
+          "Detective"
         ]
       },
       {
-        "term_in_search_filter": "Envouté"
+        "term_in_search_filter": "Envouté",
+        "terms_on_card": [
+          "Envouté",
+          "Entangled"
+        ]
       },
       {
-        "term_in_search_filter": "Fée"
+        "term_in_search_filter": "Fée",
+        "terms_on_card": [
+          "Fée",
+          "Fairy"
+        ]
       },
       {
-        "term_in_search_filter": "Hyène"
+        "term_in_search_filter": "Hyène",
+        "terms_on_card": [
+          "Hyène",
+          "Hyena"
+        ]
       },
       {
         "term_in_search_filter": "Héros",
         "terms_on_card": [
-          "Hero",
-          "Héros"
+          "Héros",
+          "Hero"
         ]
       },
       {
-        "term_in_search_filter": "Inventeur"
+        "term_in_search_filter": "Inventeur",
+        "terms_on_card": [
+          "Inventeur",
+          "Inventor"
+        ]
       },
       {
         "term_in_search_filter": "Madrigal"
@@ -181,29 +205,37 @@
       {
         "term_in_search_filter": "Princesse",
         "terms_on_card": [
-          "Princess",
-          "Princesse"
+          "Princesse",
+          "Princess"
         ]
       },
       {
         "term_in_search_filter": "Reine",
         "terms_on_card": [
-          "Queen",
-          "Reine"
+          "Reine",
+          "Queen"
         ]
       },
       {
         "term_in_search_filter": "Roi",
         "terms_on_card": [
-          "King",
-          "Roi"
+          "Roi",
+          "King"
         ]
       },
       {
-        "term_in_search_filter": "Sept Nains"
+        "term_in_search_filter": "Sept Nains",
+        "terms_on_card": [
+          "Sept Nains",
+          "Seven Dwarfs"
+        ]
       },
       {
-        "term_in_search_filter": "Tigrou"
+        "term_in_search_filter": "Tigrou",
+        "terms_on_card": [
+          "Tigrou",
+          "Tigger"
+        ]
       },
       {
         "term_in_search_filter": "Titan"
@@ -218,7 +250,11 @@
         ]
       },
       {
-        "term_in_search_filter": "Charge"
+        "term_in_search_filter": "Charge",
+        "terms_on_card": [
+          "Charge",
+          "Rush"
+        ]
       },
       {
         "term_in_search_filter": "Combattant",
@@ -237,32 +273,36 @@
       {
         "term_in_search_filter": "Insaisissable",
         "terms_on_card": [
-          "Evasive",
-          "Insaisissable"
+          "Insaisissable",
+          "Evasive"
         ]
       },
       {
-        "term_in_search_filter": "Mélomane"
+        "term_in_search_filter": "Mélomane",
+        "terms_on_card": [
+          "Mélomane",
+          "Singer"
+        ]
       },
       {
         "term_in_search_filter": "Offensif",
         "terms_on_card": [
-          "Challenger",
-          "Offensif"
+          "Offensif",
+          "Challenger"
         ]
       },
       {
         "term_in_search_filter": "Rempart",
         "terms_on_card": [
-          "Bodyguard",
-          "Rempart"
+          "Rempart",
+          "Bodyguard"
         ]
       },
       {
         "term_in_search_filter": "Résistance",
         "terms_on_card": [
-          "Resist",
-          "Résistance"
+          "Résistance",
+          "Resist"
         ]
       },
       {
@@ -276,7 +316,11 @@
     "item_abilities": [],
     "action_abilities": [
       {
-        "term_in_search_filter": "À l'unisson"
+        "term_in_search_filter": "À l'unisson",
+        "terms_on_card": [
+          "À l'unisson",
+          "Sing Together"
+        ]
       }
     ],
     "location_abilities": []

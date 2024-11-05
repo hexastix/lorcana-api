@@ -73,28 +73,32 @@
       {
         "term_in_search_filter": "Traumgestalt",
         "terms_on_card": [
-          "Dreamborn",
-          "Traumgestalt"
+          "Traumgestalt",
+          "Dreamborn"
         ]
       },
       {
         "term_in_search_filter": "Flutgestalt",
         "terms_on_card": [
-          "Floodborn",
-          "Flutgestalt"
+          "Flutgestalt",
+          "Floodborn"
         ]
       },
       {
         "term_in_search_filter": "Alien"
       },
       {
-        "term_in_search_filter": "Besen"
+        "term_in_search_filter": "Besen",
+        "terms_on_card": [
+          "Besen",
+          "Broom"
+        ]
       },
       {
         "term_in_search_filter": "Detektiv",
         "terms_on_card": [
-          "Detective",
-          "Detektiv"
+          "Detektiv",
+          "Detective"
         ]
       },
       {
@@ -108,50 +112,59 @@
         "term_in_search_filter": "Erfinder/-in",
         "terms_on_card": [
           "Erfinder",
-          "Erfinderin"
+          "Erfinderin",
+          "Inventor"
         ]
       },
       {
-        "term_in_search_filter": "Fee"
+        "term_in_search_filter": "Fee",
+        "terms_on_card": [
+          "Fee",
+          "Fairy"
+        ]
       },
       {
         "term_in_search_filter": "Gottheit",
         "terms_on_card": [
-          "Deity",
-          "Gottheit"
+          "Gottheit",
+          "Deity"
         ]
       },
       {
         "term_in_search_filter": "Held/-in",
         "terms_on_card": [
+          "Held",
           "Heldin",
-          "Hero",
-          "Held"
+          "Hero"
         ]
       },
       {
-        "term_in_search_filter": "Hyäne"
+        "term_in_search_filter": "Hyäne",
+        "terms_on_card": [
+          "Hyäne",
+          "Hyena"
+        ]
       },
       {
         "term_in_search_filter": "Kapitän/-in",
         "terms_on_card": [
+          "Kapitän",
           "Kapitänin",
-          "Captain",
-          "Kapitän"
+          "Captain"
         ]
       },
       {
         "term_in_search_filter": "König",
         "terms_on_card": [
-          "King",
-          "König"
+          "König",
+          "King"
         ]
       },
       {
         "term_in_search_filter": "Königin",
         "terms_on_card": [
-          "Queen",
-          "Königin"
+          "Königin",
+          "Queen"
         ]
       },
       {
@@ -160,8 +173,8 @@
       {
         "term_in_search_filter": "Magier/-in",
         "terms_on_card": [
-          "Magierin",
           "Magier",
+          "Magierin",
           "Sorcerer"
         ]
       },
@@ -187,7 +200,11 @@
         ]
       },
       {
-        "term_in_search_filter": "Prinz"
+        "term_in_search_filter": "Prinz",
+        "terms_on_card": [
+          "Prinz",
+          "Prince"
+        ]
       },
       {
         "term_in_search_filter": "Prinzessin",
@@ -206,9 +223,10 @@
       {
         "term_in_search_filter": "Ritter/-in",
         "terms_on_card": [
-          "Knight",
+          "Ritter",
           "Ritterin",
-          "Ritter"
+          "Knight"
+        ]
         ]
       },
       {
@@ -220,7 +238,11 @@
         ]
       },
       {
-        "term_in_search_filter": "Sieben Zwerge"
+        "term_in_search_filter": "Sieben Zwerge",
+        "terms_on_card": [
+          "Sieben Zwerge",
+          "Seven Dwarfs"
+        ]
       },
       {
         "term_in_search_filter": "Tigger"
@@ -231,16 +253,24 @@
       {
         "term_in_search_filter": "Verbündete/-r",
         "terms_on_card": [
-          "Ally",
           "Verbündeter",
-          "Verbündete"
+          "Verbündete",
+          "Ally"
         ]
       },
       {
-        "term_in_search_filter": "Verstrickt"
+        "term_in_search_filter": "Verstrickt",
+        "terms_on_card": [
+          "Verstrickt",
+          "Entangled"
+        ]
       },
       {
-        "term_in_search_filter": "Welpe"
+        "term_in_search_filter": "Welpe",
+        "terms_on_card": [
+          "Welpe",
+          "Puppy"
+        ]
       }
     ],
     "character_abilities": [
@@ -268,8 +298,8 @@
       {
         "term_in_search_filter": "Herausfordern",
         "terms_on_card": [
-          "Challenger",
-          "Herausfordern"
+          "Herausfordern",
+          "Challenger"
         ]
       },
       {
@@ -280,37 +310,49 @@
         ]
       },
       {
-        "term_in_search_filter": "Rasant"
+        "term_in_search_filter": "Rasant",
+        "terms_on_card": [
+          "Rasant",
+          "Rush"
+        ]
       },
       {
         "term_in_search_filter": "Robust",
         "terms_on_card": [
-          "Resist",
-          "Robust"
+          "Robust",
+          "Resist"
         ]
       },
       {
-        "term_in_search_filter": "Singen"
+        "term_in_search_filter": "Singen",
+        "terms_on_card": [
+          "Singen",
+          "Singer"
+        ]
       },
       {
         "term_in_search_filter": "Unterstützen",
         "terms_on_card": [
-          "Support",
-          "Unterstützen"
+          "Unterstützen",
+          "Support"
         ]
       },
       {
         "term_in_search_filter": "Wendig",
         "terms_on_card": [
-          "Evasive",
-          "Wendig"
+          "Wendig",
+          "Evasive"
         ]
       }
     ],
     "item_abilities": [],
     "action_abilities": [
       {
-        "term_in_search_filter": "Gemeinsam singen"
+        "term_in_search_filter": "Gemeinsam singen",
+        "terms_on_card": [
+          "Gemeinsam singen",
+          "Sing Together"
+        ]
       }
     ],
     "location_abilities": []

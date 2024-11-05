@@ -80,12 +80,16 @@
       {
         "term_in_search_filter": "Imbevuto",
         "terms_on_card": [
-          "Floodborn",
-          "Imbevuto"
+          "Imbevuto",
+          "Floodborn"
         ]
       },
       {
-        "term_in_search_filter": "Aggrovigliato"
+        "term_in_search_filter": "Aggrovigliato",
+        "terms_on_card": [
+          "Aggrovigliato",
+          "Entangled"
+        ]
       },
       {
         "term_in_search_filter": "Alieno",
@@ -97,8 +101,8 @@
       {
         "term_in_search_filter": "Alleato",
         "terms_on_card": [
-          "Ally",
-          "Alleato"
+          "Alleato",
+          "Ally"
         ]
       },
       {
@@ -118,8 +122,8 @@
       {
         "term_in_search_filter": "Cavaliere",
         "terms_on_card": [
-          "Knight",
-          "Cavaliere"
+          "Cavaliere",
+          "Knight"
         ]
       },
       {
@@ -130,30 +134,27 @@
         ]
       },
       {
-        "term_in_search_filter": "Detective",
-        "terms_on_card": [
-          "Detective"
-        ]
+        "term_in_search_filter": "Detective"
       },
       {
         "term_in_search_filter": "Divinità",
         "terms_on_card": [
-          "Deity",
-          "Divinità"
+          "Divinità",
+          "Deity"
         ]
       },
       {
         "term_in_search_filter": "Drago",
         "terms_on_card": [
-          "Dragon",
-          "Drago"
+          "Drago",
+          "Dragon"
         ]
       },
       {
         "term_in_search_filter": "Eroe",
         "terms_on_card": [
-          "Hero",
-          "Eroe"
+          "Eroe",
+          "Hero"
         ]
       },
       {
@@ -166,22 +167,22 @@
       {
         "term_in_search_filter": "Iena",
         "terms_on_card": [
-          "Hyena",
-          "Iena"
+          "Iena",
+          "Hyena"
         ]
       },
       {
         "term_in_search_filter": "Incantatore",
         "terms_on_card": [
-          "Sorcerer",
-          "Incantatore"
+          "Incantatore",
+          "Sorcerer"
         ]
       },
       {
         "term_in_search_filter": "Inventore",
         "terms_on_card": [
-          "Inventor",
-          "Inventore"
+          "Inventore",
+          "Inventor"
         ]
       },
       {
@@ -190,15 +191,15 @@
       {
         "term_in_search_filter": "Mentore",
         "terms_on_card": [
-          "Mentor",
-          "Mentore"
+          "Mentore",
+          "Mentor"
         ]
       },
       {
         "term_in_search_filter": "Moschettiere",
         "terms_on_card": [
-          "Musketeer",
-          "Moschettiere"
+          "Moschettiere",
+          "Musketeer"
         ]
       },
       {
@@ -218,8 +219,8 @@
       {
         "term_in_search_filter": "Principe",
         "terms_on_card": [
-          "Prince",
-          "Principe"
+          "Principe",
+          "Prince"
         ]
       },
       {
@@ -232,43 +233,43 @@
       {
         "term_in_search_filter": "Re",
         "terms_on_card": [
-          "King",
-          "Re"
+          "Re",
+          "King"
         ]
       },
       {
         "term_in_search_filter": "Regina",
         "terms_on_card": [
-          "Queen",
-          "Regina"
+          "Regina",
+          "Queen"
         ]
       },
       {
         "term_in_search_filter": "Scopa",
         "terms_on_card": [
-          "Broom",
-          "Scopa"
+          "Scopa",
+          "Broom"
         ]
       },
       {
         "term_in_search_filter": "Sette Nani",
         "terms_on_card": [
-          "Seven Dwarfs",
-          "Sette Nani"
+          "Sette Nani",
+          "Seven Dwarfs"
         ]
       },
       {
         "term_in_search_filter": "Tigro",
         "terms_on_card": [
-          "Tigger",
-          "Tigro"
+          "Tigro",
+          "Tigger"
         ]
       },
       {
         "term_in_search_filter": "Titano",
         "terms_on_card": [
-          "Titan",
-          "Titano"
+          "Titano",
+          "Titan"
         ]
       }
     ],
@@ -276,15 +277,15 @@
       {
         "term_in_search_filter": "Aiutante",
         "terms_on_card": [
-          "Support",
-          "Aiutante"
+          "Aiutante",
+          "Support"
         ]
       },
       {
         "term_in_search_filter": "Attaccabrighe",
         "terms_on_card": [
-          "Reckless",
-          "Attaccabrighe"
+          "Attaccabrighe",
+          "Reckless"
         ]
       },
       {
@@ -304,8 +305,8 @@
       {
         "term_in_search_filter": "Melodioso",
         "terms_on_card": [
-          "Singer",
-          "Melodioso"
+          "Melodioso",
+          "Singer"
         ]
       },
       {
@@ -325,8 +326,8 @@
       {
         "term_in_search_filter": "Sfidante",
         "terms_on_card": [
-          "Challenger",
-          "Sfidante"
+          "Sfidante",
+          "Challenger"
         ]
       },
       {
@@ -339,15 +340,19 @@
       {
         "term_in_search_filter": "Trasformazione",
         "terms_on_card": [
-          "Shift",
-          "Trasformazione"
+          "Trasformazione",
+          "Shift"
         ]
       }
     ],
     "item_abilities": [],
     "action_abilities": [
       {
-        "term_in_search_filter": "Cantare Insieme"
+        "term_in_search_filter": "Cantare Insieme",
+        "terms_on_card": [
+          "Cantare Insieme",
+          "Sing Together"
+        ]
       }
     ],
     "location_abilities": []
