@@ -51,7 +51,7 @@ def main():
         cards_dir = lang_dir / "cards"
         cards_dir.mkdir(exist_ok=True)
 
-        for card_type in ("characters", "actions", "items", "locations"):
+        for card_type in contents["cards"]:
             card_type_dir = cards_dir / card_type
             card_type_dir.mkdir(exist_ok=True)
             for card in contents["cards"][card_type]:
