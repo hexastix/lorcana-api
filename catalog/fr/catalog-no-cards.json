@@ -353,6 +353,13 @@
   ],
   "news": [
     {
+      "title": "Mise à jour",
+      "subtitle": "En apprendre plus",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=e7a1fbdd8e1e604bf97d8deeef96ae867c10a17f40bf9a82ffcb90c5515bf065"
+    },
+    {
       "title": "Nouveau Set…",
       "subtitle": "La Mer Azurite",
       "target_type": "WebPage",

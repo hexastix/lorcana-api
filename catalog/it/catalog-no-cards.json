@@ -385,6 +385,13 @@
   ],
   "news": [
     {
+      "title": "Aggiornamento",
+      "subtitle": "SCOPRI DI PIÙ",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=16cad4cebd158d04f846bada9767831fa1e7fa5e5c90515dee80ed46c64bc22a"
+    },
+    {
       "title": "Nuovo Set…",
       "subtitle": "Mare di Azzurrite",
       "target_type": "WebPage",
@@ -404,13 +411,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/story/ursula",
       "image_url": "https://api.lorcana.ravensburger.com/images/it/news/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "Aggiornamento",
-      "subtitle": "SCOPRI DI PIÙ",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/set5-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=33d6c6693346cd8ddcdd75e1b84bdc170eea9066bc667b37f8372f2048cb500d"
     },
     {
       "title": "Artist Spotlight",

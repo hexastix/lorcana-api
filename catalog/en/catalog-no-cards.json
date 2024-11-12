@@ -221,6 +221,13 @@
   ],
   "news": [
     {
+      "title": "App Update",
+      "subtitle": "Learn More",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=46704b1576b218bb709443e42f14614b9357ba6605c3bbf52e062c0bb1fa0e69"
+    },
+    {
       "title": "New Set...",
       "subtitle": "Azurite Sea",
       "target_type": "WebPage",

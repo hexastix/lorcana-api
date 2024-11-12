@@ -388,6 +388,13 @@
   ],
   "news": [
     {
+      "title": "App-Update",
+      "subtitle": "Erfahre mehr",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=a66eb9be6117888261079edf7bdc48834f37b36efd1771a4d6f22f88e02d8777"
+    },
+    {
       "title": "Neues Set…",
       "subtitle": "Azurblaues Meer",
       "target_type": "WebPage",
