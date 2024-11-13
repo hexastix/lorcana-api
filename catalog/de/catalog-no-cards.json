@@ -388,6 +388,13 @@
   ],
   "news": [
     {
+      "title": "Neue Geschichten!",
+      "subtitle": "Lies die Geschichten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/story/azurite",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+    },
+    {
       "title": "App-Update",
       "subtitle": "Erfahre mehr",
       "target_type": "WebPage",

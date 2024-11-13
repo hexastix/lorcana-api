@@ -221,6 +221,13 @@
   ],
   "news": [
     {
+      "title": "Azurite Sea Stories!",
+      "subtitle": "Read Now",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/azurite",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+    },
+    {
       "title": "App Update",
       "subtitle": "Learn More",
       "target_type": "WebPage",
