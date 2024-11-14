@@ -9,4 +9,4 @@ jobs:
       - uses: "actions/checkout@v4"
       - run: "rm -r catalog"
       - run: "python3 sync.py"
-      - run: "git diff --exit-code"
+      - run: "git diff --name-only --exit-code"
