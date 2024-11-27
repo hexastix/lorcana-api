@@ -61,12 +61,12 @@
   "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "special_rarities": [
     {
-      "name": "Die Luminari Chroniken",
-      "id": 2
-    },
-    {
       "name": "Promo",
       "id": 1
+    },
+    {
+      "name": "Die Luminari Chroniken",
+      "id": 2
     },
     {
       "name": "Challenge",
