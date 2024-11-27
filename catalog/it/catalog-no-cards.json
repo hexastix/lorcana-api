@@ -57,6 +57,119 @@
       "type": "QUEST"
     }
   ],
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
+  "special_rarities": [
+    {
+      "name": "Avventura degli Illuminatori",
+      "id": 2
+    },
+    {
+      "name": "Promo",
+      "id": 1
+    },
+    {
+      "name": "Challenge",
+      "id": 3
+    }
+  ],
+  "news": [
+    {
+      "title": "Nuove storie!",
+      "subtitle": "LEGGI LE STORIE",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/story/azurite",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+    },
+    {
+      "title": "Aggiornamento",
+      "subtitle": "SCOPRI DI PIÙ",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=16cad4cebd158d04f846bada9767831fa1e7fa5e5c90515dee80ed46c64bc22a"
+    },
+    {
+      "title": "Nuovo Set…",
+      "subtitle": "Mare di Azzurrite",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Nuovo Storie",
+      "subtitle": "Leggi Ora",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
+    },
+    {
+      "title": "Nuove storie",
+      "subtitle": "Leggi Ora",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/story/ursula",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "Artist Spotlight",
+      "subtitle": "Nicholas Ky",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/artist_spotlight_s5_nicolas-ky",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
+    },
+    {
+      "title": "ERRATA CORRIGE",
+      "subtitle": "Cieli Scintillanti",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/july2024-errata",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/667be543b02294b7624119adc3a725473df39885.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
+    },
+    {
+      "title": "Contatore Leggenda",
+      "subtitle": "Problemi negli Abissi",
+      "target_type": "LoreCounter",
+      "target_object": null,
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "Nuovo Set…",
+      "subtitle": "Ritorno di Ursula",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/product/ursulas-return",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
+    },
+    {
+      "title": "NOTIZIE",
+      "subtitle": "Lorcana Challenge",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/challenge-announcement",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
+    },
+    {
+      "title": "NOTIZIE",
+      "subtitle": "Leggi qui",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/news_/inklands-championships",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
+    },
+    {
+      "title": "Anteprima",
+      "subtitle": "delle carte",
+      "target_type": "SearchResults",
+      "target_object": {
+        "expansions": [
+          "Nelle Terre d'Inchiostro"
+        ]
+      },
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
+    },
+    {
+      "title": "Italiano",
+      "subtitle": "Presto in arrivo",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/s3-announcement-1",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=054b6fd0b874cbaf18c805777ac65b777c4a006e4ab34ca89d61e83c80cf00ba"
+    }
+  ],
   "search_filters": {
     "item_subtypes": [],
     "action_subtypes": [
@@ -366,118 +479,5 @@
       }
     ],
     "location_abilities": []
-  },
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
-  "special_rarities": [
-    {
-      "name": "Avventura degli Illuminatori",
-      "id": 2
-    },
-    {
-      "name": "Promo",
-      "id": 1
-    },
-    {
-      "name": "Challenge",
-      "id": 3
-    }
-  ],
-  "news": [
-    {
-      "title": "Nuove storie!",
-      "subtitle": "LEGGI LE STORIE",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/story/azurite",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "Aggiornamento",
-      "subtitle": "SCOPRI DI PIÙ",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/set6-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=16cad4cebd158d04f846bada9767831fa1e7fa5e5c90515dee80ed46c64bc22a"
-    },
-    {
-      "title": "Nuovo Set…",
-      "subtitle": "Mare di Azzurrite",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/product/azurite-sea",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
-    },
-    {
-      "title": "Nuovo Storie",
-      "subtitle": "Leggi Ora",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/story/shimmering",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
-    },
-    {
-      "title": "Nuove storie",
-      "subtitle": "Leggi Ora",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/story/ursula",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "Artist Spotlight",
-      "subtitle": "Nicholas Ky",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
-    },
-    {
-      "title": "ERRATA CORRIGE",
-      "subtitle": "Cieli Scintillanti",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/july2024-errata",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/667be543b02294b7624119adc3a725473df39885.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
-    },
-    {
-      "title": "Contatore Leggenda",
-      "subtitle": "Problemi negli Abissi",
-      "target_type": "LoreCounter",
-      "target_object": null,
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "Nuovo Set…",
-      "subtitle": "Ritorno di Ursula",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/product/ursulas-return",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
-    },
-    {
-      "title": "NOTIZIE",
-      "subtitle": "Lorcana Challenge",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/challenge-announcement",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
-    },
-    {
-      "title": "NOTIZIE",
-      "subtitle": "Leggi qui",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/inklands-championships",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
-    },
-    {
-      "title": "Anteprima",
-      "subtitle": "delle carte",
-      "target_type": "SearchResults",
-      "target_object": {
-        "expansions": [
-          "Nelle Terre d'Inchiostro"
-        ]
-      },
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
-    },
-    {
-      "title": "Italiano",
-      "subtitle": "Presto in arrivo",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/s3-announcement-1",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=054b6fd0b874cbaf18c805777ac65b777c4a006e4ab34ca89d61e83c80cf00ba"
-    }
-  ]
+  }
 }

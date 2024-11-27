@@ -57,6 +57,115 @@
       "type": "QUEST"
     }
   ],
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
+  "special_rarities": [
+    {
+      "name": "Illumineer's Quest",
+      "id": 2
+    },
+    {
+      "name": "Promo",
+      "id": 1
+    },
+    {
+      "name": "Challenge",
+      "id": 3
+    }
+  ],
+  "news": [
+    {
+      "title": "Azurite Sea Stories!",
+      "subtitle": "Read Now",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/azurite",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+    },
+    {
+      "title": "App Update",
+      "subtitle": "Learn More",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/set6-cards-revealed",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=46704b1576b218bb709443e42f14614b9357ba6605c3bbf52e062c0bb1fa0e69"
+    },
+    {
+      "title": "New Set...",
+      "subtitle": "Azurite Sea",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Shimmering Skies",
+      "subtitle": "New Stories",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
+    },
+    {
+      "title": "Ursula's Return",
+      "subtitle": "New Stories",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/story/ursula",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "Artist Spotlight ",
+      "subtitle": "Nicholas Ky",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/artist_spotlight_s5_nicolas-ky",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
+    },
+    {
+      "title": "Errata Update",
+      "subtitle": "Changes to Shimmering Skies",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/july2024-errata",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
+    },
+    {
+      "title": "Deep Trouble",
+      "subtitle": "New Lore Counter!",
+      "target_type": "LoreCounter",
+      "target_object": null,
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "New Set...",
+      "subtitle": "Ursula's Return",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/product/ursulas-return",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
+    },
+    {
+      "title": "COMPETE IN…",
+      "subtitle": "Set Championships",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/inklands-championships",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
+    },
+    {
+      "title": "ENCHANTED",
+      "subtitle": "New Rarity",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/enchanted-reveal",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
+    },
+    {
+      "title": "TEASER",
+      "subtitle": "THE STORY BEGINS",
+      "target_type": "WebPage",
+      "target_object": "https://youtu.be/74nOdRwf92c",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=94d94c056ddd7905dc74f6166f64577027053f025fe4a26cbb785d97b2925b1e"
+    },
+    {
+      "title": "Sign Up!",
+      "subtitle": "Play Events",
+      "target_type": "WebPage",
+      "target_object": "https://melee.gg/Lorcana",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
+    }
+  ],
   "search_filters": {
     "item_subtypes": [],
     "action_subtypes": [
@@ -202,114 +311,5 @@
       }
     ],
     "location_abilities": []
-  },
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
-  "special_rarities": [
-    {
-      "name": "Illumineer's Quest",
-      "id": 2
-    },
-    {
-      "name": "Promo",
-      "id": 1
-    },
-    {
-      "name": "Challenge",
-      "id": 3
-    }
-  ],
-  "news": [
-    {
-      "title": "Azurite Sea Stories!",
-      "subtitle": "Read Now",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/story/azurite",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "App Update",
-      "subtitle": "Learn More",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/set6-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=46704b1576b218bb709443e42f14614b9357ba6605c3bbf52e062c0bb1fa0e69"
-    },
-    {
-      "title": "New Set...",
-      "subtitle": "Azurite Sea",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/product/azurite-sea",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
-    },
-    {
-      "title": "Shimmering Skies",
-      "subtitle": "New Stories",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/story/shimmering",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
-    },
-    {
-      "title": "Ursula's Return",
-      "subtitle": "New Stories",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/story/ursula",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "Artist Spotlight ",
-      "subtitle": "Nicholas Ky",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
-    },
-    {
-      "title": "Errata Update",
-      "subtitle": "Changes to Shimmering Skies",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/july2024-errata",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=64813e0795c8953d3557c24e1a2eebfab3f743a5eccccfc444feb8528341ddd6"
-    },
-    {
-      "title": "Deep Trouble",
-      "subtitle": "New Lore Counter!",
-      "target_type": "LoreCounter",
-      "target_object": null,
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "New Set...",
-      "subtitle": "Ursula's Return",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/product/ursulas-return",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
-    },
-    {
-      "title": "COMPETE IN…",
-      "subtitle": "Set Championships",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/inklands-championships",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
-    },
-    {
-      "title": "ENCHANTED",
-      "subtitle": "New Rarity",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/enchanted-reveal",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
-    },
-    {
-      "title": "TEASER",
-      "subtitle": "THE STORY BEGINS",
-      "target_type": "WebPage",
-      "target_object": "https://youtu.be/74nOdRwf92c",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=94d94c056ddd7905dc74f6166f64577027053f025fe4a26cbb785d97b2925b1e"
-    },
-    {
-      "title": "Sign Up!",
-      "subtitle": "Play Events",
-      "target_type": "WebPage",
-      "target_object": "https://melee.gg/Lorcana",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
-    }
-  ]
+  }
 }
