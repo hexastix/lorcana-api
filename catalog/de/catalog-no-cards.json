@@ -125,13 +125,6 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
     },
     {
-      "title": "App-Update",
-      "subtitle": "Erfahre mehr",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/set5-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=29094d06416b1d04294c386622a348117131583353588e396cbf1e2fe59be996"
-    },
-    {
       "title": "Artist Spotlight",
       "subtitle": "Nicholas Ky",
       "target_type": "WebPage",
@@ -160,20 +153,6 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
     },
     {
-      "title": "NEWS",
-      "subtitle": "Lorcana Challenge",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/challenge-announcement",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
-    },
-    {
-      "title": "NEWS",
-      "subtitle": "Lies hier",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/inklands-championships",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
-    },
-    {
       "title": "Neue Karten",
       "subtitle": "Karten-Vorschau",
       "target_type": "SearchResults",
@@ -183,27 +162,6 @@
         ]
       },
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
-    },
-    {
-      "title": "Ankündigung",
-      "subtitle": "Die Tintenlande",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/s3-announcement-1",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=7138429eb5230289b0ff8a29fecb4e2e6b0e1fe084898c954215f748f6bdef7f"
-    },
-    {
-      "title": "Launch",
-      "subtitle": "Flutgestalten",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/s2mass_release",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=176b7d103ab8e482d3c3ae995e73dffaf9a288dd7d657d7491f52aa170c988eb"
-    },
-    {
-      "title": "VOD",
-      "subtitle": "DE Launch Stream",
-      "target_type": "WebPage",
-      "target_object": "https://youtu.be/x0PWSDLmeyA",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=e8f56ced01e2b1b448c0d01d066f4b6dce89f5d4806598856c2b0c3f32a4ecdb"
     },
     {
       "title": "VERZAUBERT",

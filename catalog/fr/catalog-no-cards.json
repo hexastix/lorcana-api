@@ -160,38 +160,6 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
     },
     {
-      "title": "ACTUALITÉS",
-      "subtitle": "Lorcana Challenge",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/challenge-announcement",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=89d81aa525c7370ccfd1891592c860af64b1cf3a4cc1f0eef159967e7472a888"
-    },
-    {
-      "title": "ACTUALITÉS",
-      "subtitle": "Lire ici",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/inklands-championships",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=51a96feae1f0abdf72c8b1c9f269554996299ebebf51e99e66003c250d2e0341"
-    },
-    {
-      "title": "Coup d’œil",
-      "subtitle": "aperçu de carte",
-      "target_type": "SearchResults",
-      "target_object": {
-        "expansions": [
-          "Les Terres d'Encres"
-        ]
-      },
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
-    },
-    {
-      "title": "JOUER",
-      "subtitle": "À CANNES",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/cannes2024",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=e0911dae66a62f323de6d0496ef8baded6b82491f5aada3529b676e9b8ae8ade"
-    },
-    {
       "title": "Révélation",
       "subtitle": "Terres d’Encres",
       "target_type": "WebPage",
@@ -225,13 +193,6 @@
       "target_type": "WebPage",
       "target_object": "https://melee.gg/Lorcana",
       "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
-    },
-    {
-      "title": "A VOIR !",
-      "subtitle": "Nouveaux Produits",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/product",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=ad83e12c9b85ac621bb7326b645dc967e3bc35e56742ff1d2b2f8abde16ecc88"
     }
   ],
   "search_filters": {
