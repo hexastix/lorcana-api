@@ -90,6 +90,13 @@
   ],
   "news": [
     {
+      "title": "L'Isola di Archazia",
+      "subtitle": "SCOPRI DI PIÙ",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/it-IT/",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+    },
+    {
       "title": "Nuove storie!",
       "subtitle": "LEGGI LE STORIE",
       "target_type": "WebPage",

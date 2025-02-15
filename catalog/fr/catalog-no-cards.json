@@ -90,6 +90,13 @@
   ],
   "news": [
     {
+      "title": "L’Île d’Archazia",
+      "subtitle": "En apprendre plus",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+    },
+    {
       "title": "Nouvelles Histoires",
       "subtitle": "Lire les histoires",
       "target_type": "WebPage",
