@@ -2,63 +2,63 @@
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=31303a30-33b1-4752-a5f9-c2800ada3f91",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=d595932d-d1b2-4ae0-8fc3-05db8148de53",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=16b18c72-9eb1-48ca-8975-49ac3eb664ef",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=1fb7bc6d-c168-4f75-b45c-941ee1915225",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Nelle Terre d'Inchiostro",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=397e0efb-f8ce-4ce4-99ec-1286bb90a3e5",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=53c7f149-b102-4116-b560-e3de66cfc163",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Il Ritorno di Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=fa51caac-c541-4e3d-8ed0-18f362d3a494",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=9a5a3305-91d4-4107-8a6c-9a5b37c35a41",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Cieli Scintillanti",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=92e4db6e-b5da-4604-a525-99ca538c27f6",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=1767c514-346f-4487-a50c-4d00a9a7558d",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Mare Di Azzurrite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=89c11ebf-936e-4b58-9155-95017ded6625",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=3a779275-41e3-4dc9-892d-cbf4ad22ac20",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "Carta in anteprima",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=50cd102c-afdf-48ed-8c7b-22e1df401005",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=65adef84-de99-46aa-9f16-64fa442ccf90",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Avventura degli Illuminatori Problemi negli Abissi",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=eb1010cd-d2ea-41a1-ad55-c9206c039216",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=88ff0b30-9dfb-4a98-84e3-6aa0c246e98d",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Preludio",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=e96515dd-4fe6-494d-a16d-853e2b09da43",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=774bba63-18e9-4ba4-9414-d012610903a1",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
