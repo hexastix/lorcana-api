@@ -55,6 +55,9 @@ def main():
             card_type_dir = cards_dir / card_type
             card_type_dir.mkdir(exist_ok=True)
             for card in contents["cards"][card_type]:
+                if "abilities" in card:
+                    card["abilities"].sort()
+
                 with (card_type_dir / card_filename(card)).open("w") as out:
                     json.dump(card, out, indent=2, ensure_ascii=False)
 
