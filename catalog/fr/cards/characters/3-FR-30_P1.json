@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=65baf4ad766e226da42a7df4930f5a4fffabff72b53e4a91b6f2abedefb8b620"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=65baf4ad766e226da42a7df4930f5a4fffabff72b53e4a91b6f2abedefb8b620"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3f559ce321f2419818c89dfdbe972e78897608290f44378bb8672fc15d16b02f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3f559ce321f2419818c89dfdbe972e78897608290f44378bb8672fc15d16b02f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
   "special_rarity_id": 1,
   "foil_type": "Lava",
   "card_sets": [

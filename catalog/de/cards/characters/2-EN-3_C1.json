@@ -28,14 +28,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/3/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=a6c871a2312afd744afb7039e1889403e94fed425d9db128495d29cc3523327d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=a6c871a2312afd744afb7039e1889403e94fed425d9db128495d29cc3523327d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/3/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=795c39ef3062ecb27e60e5acd0a6e9177c53bab2cc73f8d9e94f3de5b5e8c628"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=795c39ef3062ecb27e60e5acd0a6e9177c53bab2cc73f8d9e94f3de5b5e8c628"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/3/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=5c797cc4a48c6d763176038e80f0fa73014129b3e48f9b9cc2b70c2c65b58796",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=5c797cc4a48c6d763176038e80f0fa73014129b3e48f9b9cc2b70c2c65b58796",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [

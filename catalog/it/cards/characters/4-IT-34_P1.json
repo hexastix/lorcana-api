@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e37352a13782201fc77c26403129036947d92a521b6e63ecf90d8bb0a7053aa9"
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo1/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e37352a13782201fc77c26403129036947d92a521b6e63ecf90d8bb0a7053aa9"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/promos/1/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=775ac470e1d8f64b3d85bffe534615e074eb01b3b337fe683bfcaf399df9665d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo1/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=775ac470e1d8f64b3d85bffe534615e074eb01b3b337fe683bfcaf399df9665d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promos/1/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e8f7fcb4bcc1c93c5d7fa1986ab3fe81c2ef00b3e585914da273839ebee2e6b1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo1/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e8f7fcb4bcc1c93c5d7fa1986ab3fe81c2ef00b3e585914da273839ebee2e6b1",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [
