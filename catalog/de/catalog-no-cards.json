@@ -215,27 +215,6 @@
     "location_subtypes": [],
     "character_subtypes": [
       {
-        "term_in_search_filter": "Sagengestalt",
-        "terms_on_card": [
-          "Sagengestalt",
-          "Storyborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Traumgestalt",
-        "terms_on_card": [
-          "Traumgestalt",
-          "Dreamborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Flutgestalt",
-        "terms_on_card": [
-          "Flutgestalt",
-          "Floodborn"
-        ]
-      },
-      {
         "term_in_search_filter": "Alien"
       },
       {
@@ -427,6 +406,27 @@
         "terms_on_card": [
           "Welpe",
           "Puppy"
+        ]
+      },
+      {
+        "term_in_search_filter": "Flutgestalt",
+        "terms_on_card": [
+          "Flutgestalt",
+          "Floodborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Traumgestalt",
+        "terms_on_card": [
+          "Traumgestalt",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Sagengestalt",
+        "terms_on_card": [
+          "Sagengestalt",
+          "Storyborn"
         ]
       }
     ],

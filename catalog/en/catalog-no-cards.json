@@ -207,15 +207,6 @@
     "location_subtypes": [],
     "character_subtypes": [
       {
-        "term_in_search_filter": "Storyborn"
-      },
-      {
-        "term_in_search_filter": "Dreamborn"
-      },
-      {
-        "term_in_search_filter": "Floodborn"
-      },
-      {
         "term_in_search_filter": "Alien"
       },
       {
@@ -301,6 +292,15 @@
       },
       {
         "term_in_search_filter": "Villain"
+      },
+      {
+        "term_in_search_filter": "Floodborn"
+      },
+      {
+        "term_in_search_filter": "Dreamborn"
+      },
+      {
+        "term_in_search_filter": "Storyborn"
       }
     ],
     "character_abilities": [
