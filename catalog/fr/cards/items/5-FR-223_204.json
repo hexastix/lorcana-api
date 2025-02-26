@@ -1,5 +1,5 @@
 {
-  "name": "Half Hexwell Crown",
+  "name": "Moitié de la Couronne d'Hexasort",
   "rarity": "RARE",
   "ink_cost": 6,
   "author": "Billy Wimblett",
@@ -10,8 +10,8 @@
   "ink_convertible": false,
   "abilities": [],
   "subtypes": [],
-  "flavor_text": "La couronne brisée renferme de sombres et mystérieux pouvoirs.",
-  "rules_text": "TROUVAILLE INATTENDUE , 2 — Piochez une carte. UN POUVOIR PÉRILLEUX , 2 , Défaussez une carte — Choissez un personnage et épuisez-le.",
+  "flavor_text": "Cette couronne brisée renferme de sombres et mystérieux pouvoirs.",
+  "rules_text": "TROUVAILLE INATTENDUE , 2 — Piochez une carte. UN POUVOIR PÉRILLEUX , 2 , Défaussez une carte — Choisissez un personnage et épuisez-le.",
   "card_identifier": "223/204 FR 5",
   "image_urls": [
     {
@@ -23,7 +23,7 @@
       "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=e4182db2c0370b8ccc20ecb9d11e96446fa13d97f9c1777d05282a3a2a8dda45"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=cb715eb461eddaec5bae0a07dc3afa79bb1cf43ce94ed46fda3b7f4e47cb490c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=49adda04b87a1e64242791421a9f769ad59d534e28acb0f546395560addc36e5",
   "foil_type": "Glitter",
   "card_sets": [
     5,
