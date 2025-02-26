@@ -1,0 +1,43 @@
+{
+  "name": "Robotik",
+  "subtitle": "En costume",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "5de1016b1e0ec1f3f0b71db04b7c8ad9001d766d",
+  "culture_invariant_id": 1538,
+  "sort_number": 1535,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Résistance +1 (Les dommages infligés à ce personnage sont réduits de 1.) NOM D’UN CIRCUIT INTÉGRÉ Ce personnage peut défier les personnages redressés s'ils ont au moins un dommage.",
+  "card_identifier": "105/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=b2bd9a50e9cecd60826c82ec89007cc0faccfd9a3545e94bafda58c5705ab411"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=5643713907f1c5ed066df378056a1aa58f33dff7e79d603cac55f622ec97fad8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=d6df73d5f0c13a96d12aa3797587f9ee9034a93d5c230dc0845ae92bd9dedd5b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

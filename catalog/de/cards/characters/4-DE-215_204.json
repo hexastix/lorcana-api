@@ -9,7 +9,7 @@
   "author": "João Moura",
   "deck_building_id": "e06b6bded6dddec463efd1631f0f3855a2a886ca",
   "culture_invariant_id": 906,
-  "sort_number": 916,
+  "sort_number": 915,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=a7e1e5ca0d79af2c3bc9e28089aefe1e4a98add0f8e31ee0accad9891b9161e7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=a7e1e5ca0d79af2c3bc9e28089aefe1e4a98add0f8e31ee0accad9891b9161e7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=1761c649e336865475bb379cbe9cb6d62e2e0209b5ae92b10343fede55650120"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=1761c649e336865475bb379cbe9cb6d62e2e0209b5ae92b10343fede55650120"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=4387938b4560c13338579d8c2bf29880839b0a8edcc237ed96172a0adfb9bb76",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=4387938b4560c13338579d8c2bf29880839b0a8edcc237ed96172a0adfb9bb76",
   "foil_type": "Lava",
   "card_sets": [
     4

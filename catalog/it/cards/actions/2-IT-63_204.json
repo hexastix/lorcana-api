@@ -5,7 +5,7 @@
   "author": "Rob Di Salvo",
   "deck_building_id": "acc10f3d5e369e92d864fbc4fc5b78c3b73e21bc",
   "culture_invariant_id": 279,
-  "sort_number": 303,
+  "sort_number": 302,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=1617788f50676598fee61ac94daa8e907cf95ab4a11a63b379e7cc2c80b14521"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=1617788f50676598fee61ac94daa8e907cf95ab4a11a63b379e7cc2c80b14521"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=68930d0a8c2fd462473486a8cecb86e4645d6dba57f788b0024fc89008c1d6c6"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=68930d0a8c2fd462473486a8cecb86e4645d6dba57f788b0024fc89008c1d6c6"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=5ea7d80192bba17f3ef0ba4466177e52d86386c44cad16b7619371b693555bf5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=5ea7d80192bba17f3ef0ba4466177e52d86386c44cad16b7619371b693555bf5",
   "card_sets": [
     2,
     9

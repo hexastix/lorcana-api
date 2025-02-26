@@ -9,7 +9,7 @@
   "author": "John Loren",
   "deck_building_id": "59b96144e20a1e20918bd0fd047597fe1d9505a7",
   "culture_invariant_id": 976,
-  "sort_number": 985,
+  "sort_number": 984,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=55b09f781fa87a55748155af5032508a2213a71019c2e771464537c012597d9e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=55b09f781fa87a55748155af5032508a2213a71019c2e771464537c012597d9e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=4d677b6cfab56d0fe8045af6e3cd8e892da51240c0fe02d086eb3cc0e0945b41"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=4d677b6cfab56d0fe8045af6e3cd8e892da51240c0fe02d086eb3cc0e0945b41"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=323d66457ffb95ef7b0a91fd78263764d5aab01a7da9a1a8a2ec66844f5d1086",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=323d66457ffb95ef7b0a91fd78263764d5aab01a7da9a1a8a2ec66844f5d1086",
   "card_sets": [
     5
   ],

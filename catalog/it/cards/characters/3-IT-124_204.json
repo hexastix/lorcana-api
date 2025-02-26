@@ -9,7 +9,7 @@
   "author": "Luca Pinelli",
   "deck_building_id": "de6fe4fac9e60d6e1826bcce2255508984e7abfe",
   "culture_invariant_id": 560,
-  "sort_number": 595,
+  "sort_number": 594,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=d39010170d2fc37c4d3c8043d2886afff732bb14e4385b68c909af2084b21162"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=d39010170d2fc37c4d3c8043d2886afff732bb14e4385b68c909af2084b21162"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=5c166b0d0cc75b7d81b09ca7ef8b71a14cfc3215c0e13d0b3235be2376fbfe4d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=5c166b0d0cc75b7d81b09ca7ef8b71a14cfc3215c0e13d0b3235be2376fbfe4d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=88472f0b630b785d3ee2b12f9c97d3adcfd64ae5d3643c49543e59fd1965c2c8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=88472f0b630b785d3ee2b12f9c97d3adcfd64ae5d3643c49543e59fd1965c2c8",
   "card_sets": [
     3
   ],

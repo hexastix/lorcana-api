@@ -9,7 +9,7 @@
   "author": "Aubrey Archer",
   "deck_building_id": "5323f351160ce7e27e6c6f0a14b74b17e2b6f539",
   "culture_invariant_id": 689,
-  "sort_number": 461,
+  "sort_number": 460,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=d5f3a3817ea7cc1e7e25447ed012641654bfe54d24874a88c56063fcda02e873"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=d5f3a3817ea7cc1e7e25447ed012641654bfe54d24874a88c56063fcda02e873"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=ee21c5c672cf8142875879216cb2571640717c0141e6beeee4179000c240d5dc"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=ee21c5c672cf8142875879216cb2571640717c0141e6beeee4179000c240d5dc"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=299219e5e8417e5394b1cd301d0fcdb5720ca8a972483d4840f1b492d97f11e6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=299219e5e8417e5394b1cd301d0fcdb5720ca8a972483d4840f1b492d97f11e6",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [

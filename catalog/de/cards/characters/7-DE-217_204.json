@@ -1,0 +1,46 @@
+{
+  "name": "Belle",
+  "subtitle": "Mechanikerin der Extraklasse",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1650,
+  "sort_number": 1647,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinzessin",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 7 BERGUNG Die Gestaltwandel-Kosten dieses Charakters reduzieren sich für jede Gegenstandskarte in deinem Ablagestapel um 1. WIEDERVERWENDUNG Jedes Mal, wenn dieser Charakter erkundet, darfst du bis zu 3 Gegenstandskarten aus deinem Ablagestapel unter dein Deck legen, um für jede so bewegte Karte 1 Legende zu sammeln.",
+  "card_identifier": "217/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=7a283b764cc8639bc1ef31073ead596022baa00f3822a9ae19c5f36d445f4635"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=b01cef19ba43fc4135ab9f0572ab1f40fdce573558bfdb5afbb337be04f8213f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=b8c2971ca9ed3f6b44c580f1ee16b9b106490eab44c95c6725edbfb943b97cd3",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Saulo Nate",
   "deck_building_id": "e4d5e8f774c50c619ff2d88974512f4e419a3b3c",
   "culture_invariant_id": 1014,
-  "sort_number": 1023,
+  "sort_number": 1022,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,16 +24,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=86f50c992f33d057395dbcfaac62e887100e00501ed595a54c7a54461c99bf01"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=86f50c992f33d057395dbcfaac62e887100e00501ed595a54c7a54461c99bf01"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=cf6316f37bd9049e0b6df8794c5bf9b0ba4a210b2508ff6b3047402710d58326"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=cf6316f37bd9049e0b6df8794c5bf9b0ba4a210b2508ff6b3047402710d58326"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=97d79e969306ee40d7f00a2b2671da925c4ab2762d9154e533299c082d4648e8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=97d79e969306ee40d7f00a2b2671da925c4ab2762d9154e533299c082d4648e8",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=651992dc55cbc253f7ab5c7251ea26490bfb08a23c4b18b9db12c68ea81dea14",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/gloss/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=651992dc55cbc253f7ab5c7251ea26490bfb08a23c4b18b9db12c68ea81dea14",
   "card_sets": [
     5
   ],

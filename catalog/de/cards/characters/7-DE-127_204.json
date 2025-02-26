@@ -1,0 +1,39 @@
+{
+  "name": "Cy-Bug",
+  "subtitle": "Invasiver Feind",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "d03d06aac96130ef91033f5aba0d28d7ade58cdc",
+  "culture_invariant_id": 1560,
+  "sort_number": 1557,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Cy-Bugs sind wie ein Virus. Sie wissen nicht, dass sie in ’nem Spiel sind.%–Sergeant Calhoun",
+  "rules_text": "SCHWARMINTELLIGENZ Dieser Charakter erhält +1 für jeden deiner anderen Charaktere im Spiel.",
+  "card_identifier": "127/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=30cc51b548a4ae1f674806ac81fda3e71d85c8f3cb78e035d412483c696652df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=edca12c3e43343055ee3dd8e93c0fd154c635ffeab40ea3ea96f7ec5fcd9ec00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=3fa0b9c53b4b80a1a146da092ff54b4e80d79ec1eeebfccc4b4e182c5199e19d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

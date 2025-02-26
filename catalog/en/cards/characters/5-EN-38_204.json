@@ -9,7 +9,7 @@
   "author": "Andrea Femerstrand",
   "deck_building_id": "b59a5b35d2109955f13256931685e835cd3a6b47",
   "culture_invariant_id": 994,
-  "sort_number": 1003,
+  "sort_number": 1002,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=18ec46ecc4f32718676ef7cf46fcf327ade8b4b2c9ef883f35cb1f90e036605e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=18ec46ecc4f32718676ef7cf46fcf327ade8b4b2c9ef883f35cb1f90e036605e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=f8c549c643a6ac86d66dab4e8af3ce5ffd534a08ba95601f8596c8c6acdf023b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=f8c549c643a6ac86d66dab4e8af3ce5ffd534a08ba95601f8596c8c6acdf023b"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=01a9973c5648f0c4778be173f37d80d9edbcc9b16c1af27cc9bd2064a93d71f2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=01a9973c5648f0c4778be173f37d80d9edbcc9b16c1af27cc9bd2064a93d71f2",
   "card_sets": [
     5
   ],

@@ -1,0 +1,42 @@
+{
+  "name": "Yokai",
+  "subtitle": "Cospiratore Intellettuale",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "2065122bd47f279ddd80c1814074e29a04edb565",
+  "culture_invariant_id": 1530,
+  "sort_number": 1527,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Inventore"
+  ],
+  "flavor_text": "Nelle mani di una persona inferiore, tutto questo potere sarebbe irresponsabile.",
+  "rules_text": "INNOVARE Paga 1 in meno per giocare i personaggi usando la loro abilità Trasformazione.",
+  "card_identifier": "97/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=e6c010c27bccb33b4014196f4adc3556310d90ef23de41660ce3a3d00c275a77"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=3d8172f3ce4185853f0094e2825c8999d1ddca5b7f4eb5a80dbb1593e8d284a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=3a6507c4259f28d3ea597c8910aedb4429051969b0a23fe10686f1cbb620e2de",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

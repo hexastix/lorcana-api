@@ -1,0 +1,43 @@
+{
+  "name": "Biancaneve",
+  "subtitle": "La Più Bella del Reame",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Mario Manzanares",
+  "deck_building_id": "f66e2e1e500d2d759c8dcd4fdeafbf1831613d78",
+  "culture_invariant_id": 1660,
+  "sort_number": 1658,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Un cuore puro può sventare molti piani malvagi.",
+  "rules_text": "NASCOSTA Questo personaggio non può essere sfidato.",
+  "card_identifier": "23/P2 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=abab56f5b52b5aeb1bf966af94de0ec415fbe9267936586b5397a2293e68fa78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9a853558bac7e9f0fe54f6c5ba9e69455a3899b3d648edfbb22e65b99a13d4d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=2b444b57f377e718504e3ce2e1e4e87742bede647c7a654eea49208216772ece",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

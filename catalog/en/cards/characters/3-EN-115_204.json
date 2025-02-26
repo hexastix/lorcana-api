@@ -9,7 +9,7 @@
   "author": "Massimiliano Narciso",
   "deck_building_id": "afc915c8e0d6e76a43d923beb2bf5400009bad5e",
   "culture_invariant_id": 551,
-  "sort_number": 586,
+  "sort_number": 585,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=233235da338442dea64f51f31b8674ea2ae339f261c7e4f7f6bcde512a5dc49d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=233235da338442dea64f51f31b8674ea2ae339f261c7e4f7f6bcde512a5dc49d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6d79d6741d18736a91f3f169a9f1f762244e4810fa013e2e8132a44a456c891c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6d79d6741d18736a91f3f169a9f1f762244e4810fa013e2e8132a44a456c891c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=74b195aeb9fbcfcdc2be0ef6137292cb5068c38f50ed979dfd0d3b3980d44821",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=74b195aeb9fbcfcdc2be0ef6137292cb5068c38f50ed979dfd0d3b3980d44821",
   "card_sets": [
     3
   ],

@@ -5,7 +5,7 @@
   "author": "Elodie Mondoloni",
   "deck_building_id": "2ff92870c51a6d0ed82d95f43850abf04ef72c3d",
   "culture_invariant_id": 785,
-  "sort_number": 795,
+  "sort_number": 794,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=6c37098e139d9a1b1c39cfe25db270d2721e7bde7002a1b2c9a6bc80436a803f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=6c37098e139d9a1b1c39cfe25db270d2721e7bde7002a1b2c9a6bc80436a803f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ddb66f395fe0330b2fbe1ebad834bece8177e16da9ce30888d378fcab19f641c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ddb66f395fe0330b2fbe1ebad834bece8177e16da9ce30888d378fcab19f641c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ed982e59adab6c87b61c5c310cf76a31beda1000c7627c85cfbb6aad2f2f0bd4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=ed982e59adab6c87b61c5c310cf76a31beda1000c7627c85cfbb6aad2f2f0bd4",
   "card_sets": [
     4
   ],

@@ -5,7 +5,7 @@
   "author": "Carlos Gomes Cabral",
   "deck_building_id": "e18dacf13ba36a2bb5ba634fdc8789594b85507a",
   "culture_invariant_id": 1226,
-  "sort_number": 1225,
+  "sort_number": 1224,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=a3f22dbe106fa0ca9d1779d9480c3b1387ee2bb32a58b18fed84ca6c4f5da4ec"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=a3f22dbe106fa0ca9d1779d9480c3b1387ee2bb32a58b18fed84ca6c4f5da4ec"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=63b67a4891d14c317eb3a7068f17b1f06fc14c1dec450525ebf0cc664368768f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=63b67a4891d14c317eb3a7068f17b1f06fc14c1dec450525ebf0cc664368768f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=aae55012fb478e8c4914124d86a74d32c0cb17799bac7b506be2108f719e51b4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=aae55012fb478e8c4914124d86a74d32c0cb17799bac7b506be2108f719e51b4",
   "card_sets": [
     6
   ],

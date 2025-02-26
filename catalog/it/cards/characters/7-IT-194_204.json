@@ -1,0 +1,40 @@
+{
+  "name": "Orville",
+  "subtitle": "Albatross Air",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rudy Hill",
+  "deck_building_id": "c89b02a8c5ef092f289aafd2dc51de65961e2f18",
+  "culture_invariant_id": 1627,
+  "sort_number": 1624,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Non vola stupendamente?%—Miss Bianca",
+  "rules_text": "BENVENUTI A BORDO, GENTE Durante il tuo turno, mentre hai in gioco un personaggio chiamato Miss Bianca o Bernie, questo personaggio ottiene Sfuggente. (Può sfidare altri personaggi con Sfuggente.)",
+  "card_identifier": "194/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=ebc1a5ae90a92f20600b7bd79f94d6a424479deb087e8c186b3393e8e41e5c1a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=941c1079ab65543e6ce7efb214d664d1c7793153b723e0d84495db0d397c1206"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=2eb74285bd9b341822517e2685aee41ede2fb87f229e874b8e28a4ce77fbc0cb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

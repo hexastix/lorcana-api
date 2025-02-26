@@ -9,7 +9,7 @@
   "author": "Eva Widermann",
   "deck_building_id": "8ff79abe1dc3be06d9d67421be126ceb63898677",
   "culture_invariant_id": 623,
-  "sort_number": 658,
+  "sort_number": 657,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=f589be83109232ffc19022cfcb6b64b34958a66151fddb34a9479ad21c506afe"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=f589be83109232ffc19022cfcb6b64b34958a66151fddb34a9479ad21c506afe"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=91b0dcf98b25af787cf58e60a2a04eafb94e4722eb66d592694c37788be3ad65"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=91b0dcf98b25af787cf58e60a2a04eafb94e4722eb66d592694c37788be3ad65"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=bbef28ba05a303a03ed674ac65526e87b0a7c38dabfd8ad8321bf9752be79de9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=bbef28ba05a303a03ed674ac65526e87b0a7c38dabfd8ad8321bf9752be79de9",
   "card_sets": [
     3,
     8

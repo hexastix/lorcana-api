@@ -9,7 +9,7 @@
   "author": "Etienne Savoie",
   "deck_building_id": "ca779946f1d6ce99fca6248ffe6424994ad3ce8c",
   "culture_invariant_id": 606,
-  "sort_number": 641,
+  "sort_number": 640,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=0876f35858a7baaaa0f2187de6d681e98e3590e6a72dbddd40ffec0f1e13c4e7"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=0876f35858a7baaaa0f2187de6d681e98e3590e6a72dbddd40ffec0f1e13c4e7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=cbeac06b8e165d1c22c156231c4cd7eb2c22ba31eef44c3bd2b32cbcba2dcf35"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=cbeac06b8e165d1c22c156231c4cd7eb2c22ba31eef44c3bd2b32cbcba2dcf35"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=737cc2dbeffa9f0cafc584f2f2ba0542e0fd516c7d8fcbf6fc329f2e9f1c9898",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=737cc2dbeffa9f0cafc584f2f2ba0542e0fd516c7d8fcbf6fc329f2e9f1c9898",
   "card_sets": [
     3
   ],

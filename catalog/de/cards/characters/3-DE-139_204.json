@@ -9,7 +9,7 @@
   "author": "Federico M. Cugliari",
   "deck_building_id": "0b0ddc6a36474b1503510c3a4c1a09e035e13baf",
   "culture_invariant_id": 575,
-  "sort_number": 610,
+  "sort_number": 609,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=a4656a8651788f60805756979bdc7629c78940397dab74e24d51df05f68f2f47"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=a4656a8651788f60805756979bdc7629c78940397dab74e24d51df05f68f2f47"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=275ea8d1b5c2fd58c0f95a0e407591631e70580301ba1ac2e6a21fe7e304884f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=275ea8d1b5c2fd58c0f95a0e407591631e70580301ba1ac2e6a21fe7e304884f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=846ca302a150745cb9a0f7d3868d4853b33bd9699cbc6c00205e7676e3f0844b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=846ca302a150745cb9a0f7d3868d4853b33bd9699cbc6c00205e7676e3f0844b",
   "card_sets": [
     3
   ],

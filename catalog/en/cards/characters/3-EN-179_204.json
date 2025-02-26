@@ -9,7 +9,7 @@
   "author": "Jacob McAlister",
   "deck_building_id": "eb37093fa52ddaa39641f1fb0952282638b7a6d9",
   "culture_invariant_id": 615,
-  "sort_number": 650,
+  "sort_number": 649,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=0dfe6fce071cd564726b28d00cf4fafe8cd54f92afcd0ff50477c6296e3fd988"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=0dfe6fce071cd564726b28d00cf4fafe8cd54f92afcd0ff50477c6296e3fd988"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=254882e322e4dcaf7b66ff5759f423a9d1e08f64cf063ab45a79fc34ce6c652d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=254882e322e4dcaf7b66ff5759f423a9d1e08f64cf063ab45a79fc34ce6c652d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=b6e68bec0691f52221c77280792da509b6d096ad66934aa7fb5f8188a9db1a1d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=b6e68bec0691f52221c77280792da509b6d096ad66934aa7fb5f8188a9db1a1d",
   "card_sets": [
     3
   ],

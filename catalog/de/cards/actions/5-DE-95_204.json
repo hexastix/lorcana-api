@@ -5,7 +5,7 @@
   "author": "Antoine Couttolenc",
   "deck_building_id": "d25d7ef8b4fe1c826e2faa544124363358944a73",
   "culture_invariant_id": 1051,
-  "sort_number": 1060,
+  "sort_number": 1059,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1463fcfb664d55a94789db0572f8250368fc66029881a67be7e4716fdc8211e6"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1463fcfb664d55a94789db0572f8250368fc66029881a67be7e4716fdc8211e6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=089f7184e3ecd7d295009253916f03ff022c7ccb5f718a8bd4549151875672e5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=089f7184e3ecd7d295009253916f03ff022c7ccb5f718a8bd4549151875672e5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1614d0aed39cc415f469d99a9f0ebd3d89bf31911497952e6df48b1643bb130f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1614d0aed39cc415f469d99a9f0ebd3d89bf31911497952e6df48b1643bb130f",
   "card_sets": [
     5
   ],

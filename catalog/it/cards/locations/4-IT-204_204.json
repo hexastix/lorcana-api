@@ -9,7 +9,7 @@
   "author": "Nicolas Ky",
   "deck_building_id": "54c8fae6bda180eec50905712e19ba3aa890fda2",
   "culture_invariant_id": 895,
-  "sort_number": 905,
+  "sort_number": 904,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=cc68fe7949e7152c96225730decb952dae2d4ccc7910dfa59d7ee7e21dd9ea15"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=cc68fe7949e7152c96225730decb952dae2d4ccc7910dfa59d7ee7e21dd9ea15"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=4a0d37eae9b7eb80ca6fc8eb3f34c55569f7e800b6511439287a6c5eca0d7ca7"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=4a0d37eae9b7eb80ca6fc8eb3f34c55569f7e800b6511439287a6c5eca0d7ca7"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=c6b5b3c0a9dab7fccd7401119e583b0f35f7371cdaf26c6b5bd19118c7608f03",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=c6b5b3c0a9dab7fccd7401119e583b0f35f7371cdaf26c6b5bd19118c7608f03",
   "card_sets": [
     4
   ],

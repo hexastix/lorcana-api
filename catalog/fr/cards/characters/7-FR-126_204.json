@@ -1,0 +1,45 @@
+{
+  "name": "Belle",
+  "subtitle": "Mécanicienne extraordinaire",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 9,
+  "author": "Koni",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1559,
+  "sort_number": 1556,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 7 RÉCUPÉRATION Jouer ce personnage en utilisant sa capacité Alter vous coûte 1 de moins pour chaque carte Objet dans votre défausse. RECYCLAGE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez placer jusqu'à 3 cartes Objet de votre défausse sous votre pioche pour gagner 1 éclat de Lore par carte placée ainsi.",
+  "card_identifier": "126/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=9a2bf8b8e05b37f3f3b461fbe4a27ef930b9feeda3f511a4cd1c983e90944aa2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=7442cc1479df1975b0700f62f04d71aa3183ba96ddb1a488b3597a25a440191d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=0ea4bfc14aef2faf48de44c8bd9b3e25e8009bd79d9289cfb34b5c20ed33a40e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

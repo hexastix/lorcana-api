@@ -1,0 +1,42 @@
+{
+  "name": "Merlin",
+  "subtitle": "Clever Clairvoyant",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cam Kendell",
+  "deck_building_id": "ad1a7bee1bba63c46df4b6db68b78cba15608661",
+  "culture_invariant_id": 1500,
+  "sort_number": 1497,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRESTIDIGITONIUM Whenever this character quests, name a card, then reveal the top card of your deck. If it's the named card, put it into your inkwell facedown and exerted. Otherwise, put it on the top of your deck.",
+  "card_identifier": "67/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=6c2d09628090b795b8c38077a6d16827feb6cf86fdcbd45991c28ca4b51795f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=a79ea6ff5ee5f9cac1e7c62b471203897ee7161f0bc971321597bc81e0e07528"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=5c0028bbf16973578f75532c3283bba13d36f02231b6ed9aeb71bfe1eaa56e56",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

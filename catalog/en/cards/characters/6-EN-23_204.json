@@ -9,7 +9,7 @@
   "author": "Gianluca Barone",
   "deck_building_id": "5e51d257d6b1fcde2adb3b7b91d7893fe3916c21",
   "culture_invariant_id": 1222,
-  "sort_number": 1221,
+  "sort_number": 1220,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=319d149c2c83c23159efdd34a247bab4d305795e83e4fbe274c2ac55fc959557"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=319d149c2c83c23159efdd34a247bab4d305795e83e4fbe274c2ac55fc959557"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=7fa35f46cdaaed14cf78a169573f46dd50f1223d6a3e6da2aa36252f5257bfcf"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=7fa35f46cdaaed14cf78a169573f46dd50f1223d6a3e6da2aa36252f5257bfcf"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9f28f1db5e881e4bd653c40d5f0b2e350a1aa10531fd8107f6d1da1c1444a110",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9f28f1db5e881e4bd653c40d5f0b2e350a1aa10531fd8107f6d1da1c1444a110",
   "card_sets": [
     6
   ],

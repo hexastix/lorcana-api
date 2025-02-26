@@ -1,0 +1,40 @@
+{
+  "name": "Kinaï",
+  "subtitle": "Frère protecteur",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Julien Vandois",
+  "deck_building_id": "345850a0e7457dea4d8b46cc4b73e6cc0285b496",
+  "culture_invariant_id": 1463,
+  "sort_number": 1460,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "IL A BESOIN DE MOI À la fin de votre tour, si ce personnage est épuisé, vous pouvez choisir un autre de vos personnages. Redressez-le et retirez-lui tous ses dommages.",
+  "card_identifier": "30/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=319da37c4ad588b0bc749fb878cae6f66addf77b76d6140ad015eb14b83e1911"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=6f17df615704c55cea07255b5197a22f578ecd6c1e7c04635fe2b29d4b92499f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=7e9e60703efac6c04bf1476deddc707374b5409814041286fcceecad6826b80d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

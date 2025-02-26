@@ -9,7 +9,7 @@
   "author": "Otto Paredes",
   "deck_building_id": "8466dac039964fa9f794e1621d30ef9f87b4ead9",
   "culture_invariant_id": 490,
-  "sort_number": 525,
+  "sort_number": 524,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=492e4d5d90d8fa5b618f26de0759d6a7efc3650d0f5269716dc69ebcc67f6b82"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=492e4d5d90d8fa5b618f26de0759d6a7efc3650d0f5269716dc69ebcc67f6b82"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=fabd1a5b253ab0eb31b28eece0aa4de596c41fa02c3360060aaaeeb47a109f86"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=fabd1a5b253ab0eb31b28eece0aa4de596c41fa02c3360060aaaeeb47a109f86"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=3cbb1425cdd8b8e42ad090e27a80dbe741383c096767658909262d28aefdf793",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=3cbb1425cdd8b8e42ad090e27a80dbe741383c096767658909262d28aefdf793",
   "card_sets": [
     3
   ],

@@ -5,7 +5,7 @@
   "author": "Anna Rud / Anna Stosik",
   "deck_building_id": "eddcb5e8b24a67d1fe9ba072650341d9017300d3",
   "culture_invariant_id": 686,
-  "sort_number": 697,
+  "sort_number": 696,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=f9393ab4fd92dad9bc3981b0aa22fda9d5089a7cfb159584b41a6f4afd8108a3"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=f9393ab4fd92dad9bc3981b0aa22fda9d5089a7cfb159584b41a6f4afd8108a3"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=02027571ace44aaf06f45596cf2a3964da475c137a6718e576d21431a5974bb5"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=02027571ace44aaf06f45596cf2a3964da475c137a6718e576d21431a5974bb5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promos/1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=627866dab8389333551f30d62808cc65e03dd5efa87fe0a9801dd167c75b463f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=627866dab8389333551f30d62808cc65e03dd5efa87fe0a9801dd167c75b463f",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [

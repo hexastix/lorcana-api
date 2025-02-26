@@ -1,0 +1,40 @@
+{
+  "name": "Akela",
+  "subtitle": "Wolf Pack Elder",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "1b4a6218f6a563cb71856d431c897d7583ea027f",
+  "culture_invariant_id": 1615,
+  "sort_number": 1612,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "A wise leader does not shy away from difficult decisions when the safety of the pack is at stake.",
+  "rules_text": "",
+  "card_identifier": "182/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7682edb8e52f37f17bd1c4427c2b39ba8a9252eeb9103137148c552562d4a1fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=6152facda6f32afa3f619a6d36b8e07a56104c902e8966f769af63b61ac78817"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=317a9c4eda41ff104af60a6612389ade75477dd05dc76fabc0f3a5bf279e96b6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mr. Smee",
+  "subtitle": "Efficient Captain",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "af71eddc1279e3c929451e656d1d9c68d307965e",
+  "culture_invariant_id": 1540,
+  "sort_number": 1537,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "All right now, crew–we’ve a lot to do today!",
+  "rules_text": "PIPE UP THE CREW Whenever you play an action that isn't a song, you may ready chosen Pirate character.",
+  "card_identifier": "107/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=25d8d076a780c9dcd3e150b97feac90ee63b855491feb27a378d1be7fe80ec4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=1044427051fae0f0dd14987eb0357433353ddb4156a50f1368b8b35fa9b95316"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=a7fc1597a754eaba6750dfd69cef99b50181077579c5985e3599badae8c4c160",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

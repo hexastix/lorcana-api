@@ -9,7 +9,7 @@
   "author": "Jake Parker",
   "deck_building_id": "5e50dc86485330fa31a424a5ef8789c56472efd4",
   "culture_invariant_id": 1110,
-  "sort_number": 1119,
+  "sort_number": 1118,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=a9f59357117b5bbd9491997c753b352df075adfd22212a296ead8531869d0281"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=a9f59357117b5bbd9491997c753b352df075adfd22212a296ead8531869d0281"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=5c0d55c4cae1141fe4c7627fb3e875208a83c4d60103ab1d97093d9b67637acf"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=5c0d55c4cae1141fe4c7627fb3e875208a83c4d60103ab1d97093d9b67637acf"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=329c23fce92b6b812cbf01f5e1418ed1472c8b83a12428a0a3b1e9ec84e272bc",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=329c23fce92b6b812cbf01f5e1418ed1472c8b83a12428a0a3b1e9ec84e272bc",
   "card_sets": [
     5
   ],

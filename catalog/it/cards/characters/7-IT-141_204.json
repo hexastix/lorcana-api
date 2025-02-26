@@ -1,0 +1,45 @@
+{
+  "name": "Mulan",
+  "subtitle": "Generale Imperiale",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "9c206f63c6f0526ce5aac53a49c9fe58909c52ee",
+  "culture_invariant_id": 1574,
+  "sort_number": 1571,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Mulan.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) LEADER ECCEZIONALE Ogni volta che questo personaggio sfida un altro personaggio, i tuoi altri personaggi ottengono “Questo personaggio può sfidare i personaggi preparati” per questo turno.",
+  "card_identifier": "141/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=7bf8c1d9ed8940332013954df6aeb5d5b2090b528f4ce34fba2e519d482bdb66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=eccfc3548a1668a656ea35b5fec8d1c59b587ef664f2a124ea1363f3f520c127"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=252f19c4b7ece174df58a4d6a81da7d6d582d5780895815769c783a61de078b0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

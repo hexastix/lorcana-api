@@ -1,0 +1,41 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Sœur sensible",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "cc1aa602cb2089e854c848bf55d994adcbf44b15",
+  "culture_invariant_id": 1470,
+  "sort_number": 1467,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "La présence apaisante d'Archazia aida Pepa à dissiper son humeur sombre.",
+  "rules_text": "ÉCLAIRCIE, ÉCLAIRCIE Chaque fois qu'un ou plusieurs de vos personnages chantent une chanson, gagnez 1 éclat de Lore.",
+  "card_identifier": "37/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=f626a990193bc8101da869c97778506d2c4e2d8c5c719b23f30dac3327f344b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=d7f2e31fac3d3333d0685503fb6e2084246830bbbe005f44f020b0d950693b3c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=bb741b51e74844178e26ee731994d55c5ce18e3193a5e862b17d999608ed8864",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

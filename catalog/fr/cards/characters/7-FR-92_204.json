@@ -1,0 +1,40 @@
+{
+  "name": "Shere Khan",
+  "subtitle": "Tigre tristement célèbre",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "e5c04a374746e0b16d522ecd3804b6024ae6ad38",
+  "culture_invariant_id": 1525,
+  "sort_number": 1522,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Il serait le premier à vous dire qu'il est aussi magnifique que mortel.",
+  "rules_text": "C’EST REGRETTABLE Lorsque vous jouez ce personnage, défaussez votre main.",
+  "card_identifier": "92/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=e7e3ae581d9b2e4906678965c22cb2a9ae88b6fedf5ab0218aaf11d3ac8f9ed3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=64530ff901b044b05bccdb22f2439f5e1d30aba1fb7bacd9c07722c774839a6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=c743e35694bf06f79df7b40822e175fa6b34e9907618f90b7646a1de03b1f626",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

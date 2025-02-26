@@ -1,0 +1,34 @@
+{
+  "name": "Wiederherstellung von Atlantis",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "3a22bf1160fb323ece5b18abbcd5823cf6c9e990",
+  "culture_invariant_id": 1655,
+  "sort_number": 1652,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Deine Charaktere können bis zu Beginn deines nächsten Zuges nicht herausgefordert werden.",
+  "card_identifier": "222/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=2011ff3b674ef080e44ea85f57bcc59a7d32746785300497f28eba235d159bf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=429a3f6a390a7d22882fe4b430d2d126a8bccb1d495c0a067713ac2db99e01ca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=5e10b4cb7afca4d127a2ea8e8bec8ad1b1225ed977c2138b14d74137e3f61c99",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

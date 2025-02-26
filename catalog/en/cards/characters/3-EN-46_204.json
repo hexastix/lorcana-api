@@ -9,7 +9,7 @@
   "author": "Eri Welli",
   "deck_building_id": "78db2c30715f333eac7d1caefb10b0542be4c840",
   "culture_invariant_id": 482,
-  "sort_number": 517,
+  "sort_number": 516,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=9ddd3f659ef3acb049a3e6d3022c4ca228db7912be6253e2e8ea33485679fda0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=9ddd3f659ef3acb049a3e6d3022c4ca228db7912be6253e2e8ea33485679fda0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=df6d5284a54a46c3b9251f598fd1c9955ada3087e585ed05e9402757d5f91116"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=df6d5284a54a46c3b9251f598fd1c9955ada3087e585ed05e9402757d5f91116"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=5d0de0b66289eb0ba26c528eed434ceae1674929d3a8c5eff095015368fa890b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=5d0de0b66289eb0ba26c528eed434ceae1674929d3a8c5eff095015368fa890b",
   "card_sets": [
     3
   ],

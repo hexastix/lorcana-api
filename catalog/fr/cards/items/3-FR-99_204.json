@@ -5,7 +5,7 @@
   "author": "Billy Wimblett",
   "deck_building_id": "b54a0a0a6287b0a37be5933c25f861901de4eb52",
   "culture_invariant_id": 535,
-  "sort_number": 570,
+  "sort_number": 569,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0fcf1e35b0e90704825deb1923d80aed68b2559581c6436a57a45f61836aa964"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0fcf1e35b0e90704825deb1923d80aed68b2559581c6436a57a45f61836aa964"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=4885945ca682c49798fefe37fdf421a0e75779efa98341be9be574d9c85186e7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=4885945ca682c49798fefe37fdf421a0e75779efa98341be9be574d9c85186e7"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=70b7db29390f1ebbe2bd2187d1bcf9020ddf5add3963a2f39700368bbe1501b5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=70b7db29390f1ebbe2bd2187d1bcf9020ddf5add3963a2f39700368bbe1501b5",
   "card_sets": [
     3
   ],

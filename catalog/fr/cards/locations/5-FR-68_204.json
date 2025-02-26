@@ -9,7 +9,7 @@
   "author": "Roberto Gatto",
   "deck_building_id": "2740051e62c6c85db38c623243de3a6437a10a88",
   "culture_invariant_id": 1024,
-  "sort_number": 1033,
+  "sort_number": 1032,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=a2166b905e2b796e8b3efd1d62cc98c47b27ba23de076f32295de2a6ae288582"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=a2166b905e2b796e8b3efd1d62cc98c47b27ba23de076f32295de2a6ae288582"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=115dcda05295c967f866979459c5980a5d9d296c217780722280081fb7e0c36e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=115dcda05295c967f866979459c5980a5d9d296c217780722280081fb7e0c36e"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=919e3580146367caade2096026e334328936bad4638add2cbaffee92e5bca15f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=919e3580146367caade2096026e334328936bad4638add2cbaffee92e5bca15f",
   "card_sets": [
     5
   ],

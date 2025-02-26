@@ -9,7 +9,7 @@
   "author": "Rianti Hidayat",
   "deck_building_id": "fd9ed4ac5f24cd9d80b478b4fd768b11b486baea",
   "culture_invariant_id": 1094,
-  "sort_number": 1103,
+  "sort_number": 1102,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=f1ff1552c19534c0325b0d5dcc5633745ae17d780b7200bcf6dd06b78fc25471"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=f1ff1552c19534c0325b0d5dcc5633745ae17d780b7200bcf6dd06b78fc25471"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=322522f0f61f0a8eab4b791270fd100e7ab155b74dd6416fb4e231bb882bfe5c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=322522f0f61f0a8eab4b791270fd100e7ab155b74dd6416fb4e231bb882bfe5c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=e7f6fac9fa13356fa16e38d04056041944d9d1456a98d8901be3b643b1a84a3b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=e7f6fac9fa13356fa16e38d04056041944d9d1456a98d8901be3b643b1a84a3b",
   "card_sets": [
     5
   ],

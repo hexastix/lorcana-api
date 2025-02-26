@@ -1,0 +1,42 @@
+{
+  "name": "Paperon de' Paperoni",
+  "subtitle": "Taccagno Intraprendente",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9fb5d0200a632d4583ec76955bc03c2431cf5651",
+  "culture_invariant_id": 1587,
+  "sort_number": 1584,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "FARNE BUON USO Puoi impegnare 4 tuoi oggetti per giocare questo personaggio gratis. CACCIATORE DI TESORI Quando giochi questo personaggio, guarda le prime 4 carte del tuo mazzo. Puoi rivelare una carta oggetto e aggiungerla alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "154/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=8eb4ca87cf9da78a3a0447961f8b2fd5434c131649b31846235b575802d9c64c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=a1ed478783b3ae24593ec9d849ba48ebf2be88435ab5f8057ac105295279417c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=fa600f57d315c8b56bec7884aead3500ebc296aab15d9c9116af152d59fd73a8",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=aabc1d00f611a2ff15c6a3e573f6e1fb84247042a0de6b84c5c06486bf9458e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

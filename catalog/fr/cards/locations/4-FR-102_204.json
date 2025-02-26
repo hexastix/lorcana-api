@@ -9,7 +9,7 @@
   "author": "Jonathan Livslyst",
   "deck_building_id": "bfdd7ccd7b6612d9bacfba22591df0987519db23",
   "culture_invariant_id": 793,
-  "sort_number": 803,
+  "sort_number": 802,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=129abf27ba7331830f627bdfbb4c44d7c6e3f8b67b4388214cbe15a5df6d0bfc"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=129abf27ba7331830f627bdfbb4c44d7c6e3f8b67b4388214cbe15a5df6d0bfc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=08c2b6c6d7b8be078a78e272a15205104950039dc2cb0ba65c86d0e085228711"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=08c2b6c6d7b8be078a78e272a15205104950039dc2cb0ba65c86d0e085228711"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=92b0f49bd66e6c081836f15ce757a11c1005045298cbb14106b35b968ba85739",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=92b0f49bd66e6c081836f15ce757a11c1005045298cbb14106b35b968ba85739",
   "card_sets": [
     4
   ],

@@ -5,7 +5,7 @@
   "author": "Taraneh",
   "deck_building_id": "73b07fd4a3e3b908b93c8d9272c0d97db0f6e2ff",
   "culture_invariant_id": 1396,
-  "sort_number": 1395,
+  "sort_number": 1394,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=150d7f7416c454b82064146e930959b66a65ab9e991a847fe173ddfbadb6d479"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=150d7f7416c454b82064146e930959b66a65ab9e991a847fe173ddfbadb6d479"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=f070261121a44ef1b0054c2471d44f3001abea3a39081613f209169c0debfa02"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=f070261121a44ef1b0054c2471d44f3001abea3a39081613f209169c0debfa02"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=4f36e81c8e1fbd7abbad5c541cbbb421e686449cb250ffe6e5cbebd3936ef176",
   "card_sets": [
     6
   ],

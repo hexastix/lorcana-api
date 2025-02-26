@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Upgraded Robot",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Dustin Panzino",
+  "deck_building_id": "840d0b3ebdf82a8bbc65833ecdf99654ac7ab5ab",
+  "culture_invariant_id": 1608,
+  "sort_number": 1605,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) ADVANCED SCANNER When you play this character, look at the top 4 cards of your deck. You may reveal a Floodborn character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "175/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=238e45d9f91c594ce7bfe525e48d5a885b09a896e0bbd559e27a0c3c6008d2f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=bf7c834f8aadb933a2b25214b5c9d3a1b8c1a8c17832f6c4977b58568a942aa4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=7b6b287b7f1228f3ad58829d034b6f64ee605cc68dfaf3c0e4f7790eb4e8d9e9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

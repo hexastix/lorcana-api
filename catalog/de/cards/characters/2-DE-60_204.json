@@ -9,7 +9,7 @@
   "author": "Casey Robin",
   "deck_building_id": "ad11b54a7e07094083dc887eb31edc68945a31d0",
   "culture_invariant_id": 276,
-  "sort_number": 300,
+  "sort_number": 299,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=fb2dfffad1ecddf67c085b467f348ddc24daed3b0fe4eeb01b2ac65457bf8af3"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=fb2dfffad1ecddf67c085b467f348ddc24daed3b0fe4eeb01b2ac65457bf8af3"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2c3287a91fa23ac0414952f438c8f66d8a0ac537b07e4be2ee14e2a1b35d6479"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2c3287a91fa23ac0414952f438c8f66d8a0ac537b07e4be2ee14e2a1b35d6479"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=87c92b52154b3cf7007794f815845bf012ab2d199fd5a79664050edfcbf7b6fe",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=87c92b52154b3cf7007794f815845bf012ab2d199fd5a79664050edfcbf7b6fe",
   "card_sets": [
     2
   ],

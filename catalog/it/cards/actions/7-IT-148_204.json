@@ -1,0 +1,33 @@
+{
+  "name": "Fuori Servizio",
+  "rarity": "COMMON",
+  "ink_cost": 7,
+  "author": "Hedvig H-S",
+  "deck_building_id": "940eb941273724b043f6118b17a05f669488de72",
+  "culture_invariant_id": 1581,
+  "sort_number": 1578,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "L'ultima cosa che un giocatore vorrebbe vedere.",
+  "rules_text": "Esilia un personaggio a tua scelta.",
+  "card_identifier": "148/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=1536682fd97be67c61113acd1c9512bd5c1f2b2e707f71236ea6a33ecdcfa0a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=9faf1a5d028d4c6f57b4b1b1b395d11e03c594e4a34e97e826b3fb0ba72c60db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=8751b219cd4a67c0e49373c2e4c45594ef14ffb4b8a1dbec5f7834a7355a8e28",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

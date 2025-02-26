@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Respected King",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "e7a671905ede5069c586ea3087e484492a181670",
+  "culture_invariant_id": 1629,
+  "sort_number": 1626,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "Do you see this pillar? Even after it has fallen, it still can serve a purpose.",
+  "rules_text": "",
+  "card_identifier": "196/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=2f3776412c2543d5f4c422ba0be0aa7290d1cfbf91a2aa75390e5ed2254e190b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=d5384792639ac3812413ad41dc54745085dbac13758794861bb91fe942182b05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=ca92dc9aa22237cf39811d40556fc2922c63660e37df629d66be26db4ea5d615",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

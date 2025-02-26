@@ -1,0 +1,43 @@
+{
+  "name": "Fidget",
+  "subtitle": "Sneaky Bat",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cfdd9e04d6917aac14c9f8b2e100a587bf16ce09",
+  "culture_invariant_id": 1539,
+  "sort_number": 1536,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) I TOOK CARE OF EVERYTHING Whenever this character quests, another chosen character of yours gains Evasive until the start of your next turn.",
+  "card_identifier": "106/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=86591f2b7f047f129e831bac32cdfe4560e45637db51ba307d1ddde594746533"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=bbe374da0ef08e7af2245dca54e607cfc54bafa9b920ce7cfaaca320c33607be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=5cb1b8ec21e878ce1e20c42202f706dd77925660910ceb83d59c5a7a244bd4da",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

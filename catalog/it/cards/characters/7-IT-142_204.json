@@ -1,0 +1,42 @@
+{
+  "name": "Baloo",
+  "subtitle": "Vecchio Artigli di Ferro",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Sergio Mancinelli",
+  "deck_building_id": "553ce55ae402433967725f78d62ddd20db118d4f",
+  "culture_invariant_id": 1575,
+  "sort_number": 1572,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Comincia a saltellare di qua e di là. Ecco, così. Ora fammi un bel ringhio da orso. Spaventami.",
+  "rules_text": "BATTERTI COME UN ORSO I tuoi personaggi con 7 o superiore non possono subire danni.",
+  "card_identifier": "142/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=8d95e5f8f5f7b017ebd60f451386a4939955eb4ac72d23dea58f08e490981f2b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=bec57fdeaad25d3a928c8d83ece8851031e38f22ad8c35d2251d45a7d7113db7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=d0d493147ff3303a2277d75494ef35bfabc5c6eb1e0ad62a028fe68c8745a52c",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=5052f50fd19f2a9f9c703e84e0e1fe1e1d51e38f7e108ccec94ac6a630ba62ed",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

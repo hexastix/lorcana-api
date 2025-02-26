@@ -9,7 +9,7 @@
   "author": "Maxine Vee",
   "deck_building_id": "18a98fa235abcf4d0b586d93830e89dc0ca67460",
   "culture_invariant_id": 693,
-  "sort_number": 703,
+  "sort_number": 702,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=02bba21b52bbab086290b65e875f31a2a9854e7fec5b8211f7217f81c28090f3"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=02bba21b52bbab086290b65e875f31a2a9854e7fec5b8211f7217f81c28090f3"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=0593e0ac2ffb7d269d8b0946b69a49212aaecb6886ae000bafd9ff706112ec84"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=0593e0ac2ffb7d269d8b0946b69a49212aaecb6886ae000bafd9ff706112ec84"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3a0a5145a0090527d45b6c456ff9d086d3c264bd01bd88563d033dfbb521d7b5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=3a0a5145a0090527d45b6c456ff9d086d3c264bd01bd88563d033dfbb521d7b5",
   "card_sets": [
     4
   ],

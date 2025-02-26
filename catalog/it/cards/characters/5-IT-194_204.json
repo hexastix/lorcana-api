@@ -9,7 +9,7 @@
   "author": "Anna Stosik",
   "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
   "culture_invariant_id": 1150,
-  "sort_number": 1159,
+  "sort_number": 1158,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,16 +26,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=c03a20c792a5230e254851a051af88fd9b893019007d0abc82f46f4e84b9acbe"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=c03a20c792a5230e254851a051af88fd9b893019007d0abc82f46f4e84b9acbe"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=7a4bf64d881738d2be9c8edd87054301ac15e4226261df18de47971c6953fc15"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=7a4bf64d881738d2be9c8edd87054301ac15e4226261df18de47971c6953fc15"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=1f0d496b35668a5773a196cb65ad85779a041ec55dd3a779fa6afb114344ad83",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=172f5abee84622a99c52a10cee7ead19aaa19cbddb100a54f6f3fccb465d13c9",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=172f5abee84622a99c52a10cee7ead19aaa19cbddb100a54f6f3fccb465d13c9",
   "card_sets": [
     5
   ],

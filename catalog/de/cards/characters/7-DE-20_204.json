@@ -1,0 +1,43 @@
+{
+  "name": "King Candy",
+  "subtitle": "Königlicher Rennfahrer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "1818b1dcc9d7128736de392808ddbc8d6ee9a6ef",
+  "culture_invariant_id": 1453,
+  "sort_number": 1450,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "König",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Verschwinde von meiner Rennstrecke!",
+  "rules_text": "SÜSSE RACHE Jedes Mal, wenn einer deiner anderen Rennfahrer verbannt wird, wählen alle gegnerischen Mitspielenden je einen ihrer Charaktere und verbannen ihn.",
+  "card_identifier": "20/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=5a628b3f1d74e2839da61d55c5847f99b042c88fe1fd777719ec389a73c46615"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=b03604d8f522fa5feb4977bcd7a281eb00bfcd01aa06f44c4f4d1cf782b3d9f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=5fc741afa3b6bc1f15fe7ea8d08fe1dcb1c1cd003696777167146887b901427e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

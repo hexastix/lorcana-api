@@ -1,0 +1,41 @@
+{
+  "name": "Peg",
+  "subtitle": "Née pour la scène",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "762d1029f027634d776b43710b50208449173fad",
+  "culture_invariant_id": 1440,
+  "sort_number": 1437,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Elle est née pour être une star, peu importe où elle se produit.",
+  "rules_text": "AUDITOIRE CAPTIVÉ — Si vous avez au moins 3 autres personnages en jeu, piochez une carte.",
+  "card_identifier": "7/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4d1d14f0d72eba06ff147b362f1b5b5d2a9412660b0bf81d77675189181987f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=fb42f51f470e1d60b69edee1a49d8f44d628a83279e6a9c950ee6b230c1e3453"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=64b4e4b464c82a4cfd720b6edff387747291d8df0d2efd504e2191768e292f1b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Gambadilegno",
+  "subtitle": "Pirata Spaziale",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3f8bdad905e5495556f0eee78e68c291fe1c0160",
+  "culture_invariant_id": 1547,
+  "sort_number": 1544,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Pirata"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Gambadilegno.) COMPLOTTO SPAVENTOSO Mentre questo personaggio è impegnato, i personaggi avversari non si possono impegnare per cantare canzoni e i tuoi personaggi Pirata ottengono Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "114/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=baa39629fb80cc6952adc12654fd881b3fbc06739fa666a672a38312c37c64e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=32e624bcef9c3b282b133e142521e6afb57f750031380233516f8120fce57972"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=76ed8c0318d47e1383d5922bdde1e2fe92d2a51d0951ac9f50b7ebf5c240bc49",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

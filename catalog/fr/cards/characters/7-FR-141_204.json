@@ -1,0 +1,45 @@
+{
+  "name": "Mulan",
+  "subtitle": "Générale impériale",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "9c206f63c6f0526ce5aac53a49c9fe58909c52ee",
+  "culture_invariant_id": 1574,
+  "sort_number": 1571,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Mulan.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) MENEUSE EXCEPTIONNELLE Chaque fois que ce personnage en défie un autre, vos autres personnages gagnent “Ce personnage peut défier des personnages redressés.” pour le reste de ce tour.",
+  "card_identifier": "141/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=21a4a93958fba937dcf9b997a8d6ba47ef347e6893b39c9872c60e9a65f93fe4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=fbf620e3d26239fc6969461d315e91ab8e4bdeb9aa41519d04ef05bff9c4de8c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=5c1cff3b7bacefc5a78efc677b924ca966e285f03f1668328c10ff6dd03e1ba5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

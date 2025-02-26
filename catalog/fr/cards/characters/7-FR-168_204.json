@@ -1,0 +1,40 @@
+{
+  "name": "Biscotte",
+  "subtitle": "Bon chien",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Laura Pauselli",
+  "deck_building_id": "f21c908b247d9cbe4e6848d00540186be031c963",
+  "culture_invariant_id": 1601,
+  "sort_number": 1598,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chiot"
+  ],
+  "flavor_text": "Je veux jouer avec les autres! Je peux, papa? S'il te plaît?",
+  "rules_text": "TELLEMENT MIGNON! Lorsque vous jouez ce personnage, choisissez un personnage adverse qui subit -1 pour le reste de ce tour.",
+  "card_identifier": "168/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=589b8d7c6b6015274481d3fac8d81241815bca80ffdce3a8f763d049d5a7ddc1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=d82888d65c721464514c5dc04b533e3adedb87f853defce25c4ffa7883e80c80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=0fc7d93773e421d806ba6c275b60134a39405eafd5cab26b34a753314a5956d5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

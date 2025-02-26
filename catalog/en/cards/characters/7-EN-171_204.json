@@ -1,0 +1,40 @@
+{
+  "name": "Penny the Orphan",
+  "subtitle": "Clever Child",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Otto Paredes",
+  "deck_building_id": "687a88406aa8c1ed46674b0056434598500a6808",
+  "culture_invariant_id": 1604,
+  "sort_number": 1601,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Penny, dear, now don’t cry. We are here to help you. —Miss Bianca",
+  "rules_text": "OUR BOTTLE WORKED! While you have a Hero character in play, this character gains Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "171/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=c739f4c712a91bc2e042d903ae1337f31731d9a9f5578ab953e85ea04229cd66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=839480ee07fe87a13b0e4d0bf37964a4d959643560eb54d4a0c86aba853350f1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=a04585b8386dc6b17bc60ad004659eaceb5ec553e9746c2af2e1e2e1e7268b45",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

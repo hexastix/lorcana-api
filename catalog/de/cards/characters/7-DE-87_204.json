@@ -1,0 +1,41 @@
+{
+  "name": "Baymax",
+  "subtitle": "Niedriger Akkustand",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "8443d471af8ebbfb5a81734a59bca908a12fa53e",
+  "culture_invariant_id": 1520,
+  "sort_number": 1517,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Roboter"
+  ],
+  "flavor_text": "Die Verarbeitung der Daten von Archazias Gedankenschriftrollen verbraucht sehr viel Energie. Extremer Energiesparmodus aktiviert.",
+  "rules_text": "SCHHHHH Dieser Charakter kommt erschöpft ins Spiel.",
+  "card_identifier": "87/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=8611cd44d9835cbd3cd8737905ee386169d00eb97f48e7221841e85c9cfdec7c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=d1688fdf6334daadb084750c185bdb7ce1ba747bce3eec3494ade2fdfb20fcdf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=bb404c0aaa50aa32a8a54378439907d4530d2cf072e2fcd82b81e7a9aa85336d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

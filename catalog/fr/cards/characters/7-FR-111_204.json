@@ -1,0 +1,41 @@
+{
+  "name": "Le Roi de Cœur",
+  "subtitle": "Monarque pointilleux",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "58b431f0b98bc1d4b41d41d858487fce9f552032",
+  "culture_invariant_id": 1544,
+  "sort_number": 1541,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Roi"
+  ],
+  "flavor_text": "Vous, là! Vous ne pouvez pas rester ici dans cet état. Partez avant que la Reine ne voie ce désordre!",
+  "rules_text": "DANS UN ÉTAT INACCEPTABLE Les personnages avec au moins un dommage ne peuvent pas défier vos personnages.",
+  "card_identifier": "111/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=539056925f4a8e2747a227c633432fa761f7777e0f97f0dfb824d90af4ee6085"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=669441b011ae681fb65229e0129fa9181635358614a3915ff62c3b12c46df4ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=abc58cf449f61c10f3adce3a484ad9bd74938bdefc3239860ca8b8e6893716ca",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

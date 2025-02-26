@@ -1,0 +1,40 @@
+{
+  "name": "Sir Kay",
+  "subtitle": "Unruly Knight",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "b0d3f86aafcc92db5a1493c11884cbb42a5cdf89",
+  "culture_invariant_id": 1577,
+  "sort_number": 1574,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Knight"
+  ],
+  "flavor_text": "An owl in charge? Pshaw. He glared at the others. Then his eye fell on the targets set up nearby, and he brightened. But as long as I still get to joust...",
+  "rules_text": "",
+  "card_identifier": "144/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=f0807d8834187eb3ca16bd035833344ea8a648896591e9598d5e10c2f655401d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=de62b849d8018169c3376da52a94d85f401692c65b7d1094414c0a9de8ff4a4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=70bfabab061ba6f297c5b60abb53a6b1ccdce7a0de184c2fa215f05cd5596643",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

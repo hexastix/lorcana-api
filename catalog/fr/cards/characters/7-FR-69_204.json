@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Faiseuse de glace",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Ian MacDonald",
+  "deck_building_id": "f288eb233a11571c7c54690d782dcb3cf69e5c05",
+  "culture_invariant_id": 1502,
+  "sort_number": 1499,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Elsa.) MUR GLACIAL Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un personnage et l'épuiser. Si vous le faites et que vous avez un personnage Anna en jeu, le personnage choisi ne se redresse pas au début de son prochain tour.",
+  "card_identifier": "69/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=7d1271a1bcc0575f080b4761fe9332d7dc9d0914ab8ba0f00f88769b61141bf6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=5069929093eaa2d9620e52c017707c5378bfa645ef2b8f64c6b4543a07fb344c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=55b4ad7d6df1263b5317cc2db7f2f35c4cecd6faf3dde2d598dd2d00214763a1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

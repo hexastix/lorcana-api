@@ -1,0 +1,41 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Sensitive Sister",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "cc1aa602cb2089e854c848bf55d994adcbf44b15",
+  "culture_invariant_id": 1470,
+  "sort_number": 1467,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "Archazia’s calming presence helped Pepa dispel her dark mood.",
+  "rules_text": "CLEAR SKIES, CLEAR SKIES Whenever one or more of your characters sings a song, gain 1 lore.",
+  "card_identifier": "37/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=9435edc36895709874329e78995c2a9c62547c03cd99f240624255cfc299c8de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=1ff949f506121bee10e166a7dc61a8a0a65aed7db5e3b6979a496fb5414463b4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=a3fb700a06aa9b9c54bdc72ea4a7d67032214f3d462f4a077532c88549b2e0ed",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

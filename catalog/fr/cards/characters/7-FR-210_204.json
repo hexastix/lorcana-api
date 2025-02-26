@@ -1,0 +1,43 @@
+{
+  "name": "Jafar",
+  "subtitle": "Tout juste couronné",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1643,
+  "sort_number": 1640,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE N’AI PAS DIT MON DERNIER MOT Durant le tour d'un adversaire, chaque fois que l'un de vos personnages Illusion est banni, vous pouvez le renvoyer dans votre main.",
+  "card_identifier": "210/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=342d43fcc1a30e513e91a062cc59a2048c0a4b9fd1b1acedabdee8abc4c085f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=9c5f9598b8bd9e209b3f08b737f1de9d052814a10ef0d5d8ce30ef1f112af3c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=6c8b25de43fb511e94a4c4e1e73e8715a19277d27891dd599d5d59397b127d80",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

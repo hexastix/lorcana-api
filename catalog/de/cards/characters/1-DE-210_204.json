@@ -25,19 +25,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=8bcc31bd48db08429b0756ec8f10c0d40dd48460289eb2368ea2536b8665c70e"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=8bcc31bd48db08429b0756ec8f10c0d40dd48460289eb2368ea2536b8665c70e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=eaf15f823ea5d7595bef88d6f1e417e3f6e677cf55846ed5cb79b3f0703a5b95"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=eaf15f823ea5d7595bef88d6f1e417e3f6e677cf55846ed5cb79b3f0703a5b95"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/1/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=a4cba47fcf5d18830bc68fbbae949cb9042a6a4754ec896d078d9964034f1bd6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set1/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=a4cba47fcf5d18830bc68fbbae949cb9042a6a4754ec896d078d9964034f1bd6",
   "foil_type": "Lava",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Mickey Mouse",
+    "Mickey Maus",
+    "Micky Mouse"
   ]
 }

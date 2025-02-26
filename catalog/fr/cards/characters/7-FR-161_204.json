@@ -1,0 +1,41 @@
+{
+  "name": "Dawson",
+  "subtitle": "Détective énigmatique",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "eadc583df968a52341c644cac11cd8aecd7804e2",
+  "culture_invariant_id": 1594,
+  "sort_number": 1591,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Détective"
+  ],
+  "flavor_text": "Quel est donc cet étrange appareil?",
+  "rules_text": "FAIRE PREUVE DE DISCERNEMENT Une seule fois durant votre tour, lorsqu'une carte est placée dans votre réserve d'encre, regardez la carte du dessus de votre pioche. Remettez-la soit sur le dessus de votre pioche, soit en dessous.",
+  "card_identifier": "161/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=e068c172e1946be62d7e0891de56487f64d617b07a4d3adbae92800acc1270ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=50c77babb640b5f260f364d370c503f75a6c2fa76c20cce67b4371b33bfbf68a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=db58e81dfe144f02c87eedf47ecf249d936de16c7922bc55680252507a1a180e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

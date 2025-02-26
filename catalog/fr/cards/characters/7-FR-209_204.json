@@ -1,0 +1,42 @@
+{
+  "name": "Donald",
+  "subtitle": "Sorcier exaspéré",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Rachel Elese",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1642,
+  "sort_number": 1639,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "OBFUSCATION! Les adversaires ont besoin de 25 éclats de Lore pour gagner la partie.",
+  "card_identifier": "209/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=6a313bb80d7cd9104a6e0a1e2669dc3e1f39e92c07b5ecadd0555f52609b5030"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=5b81f6fd50dfdc0bd498de8c34ed8e2ac8d2b17c6b3b714ec4bb766a8df6b1ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=aa42a13997f389cb2a513d8826a926b4ac569a543b6d8d33008caee0fd94d908",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

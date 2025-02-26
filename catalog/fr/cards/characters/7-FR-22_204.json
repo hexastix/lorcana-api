@@ -1,0 +1,42 @@
+{
+  "name": "Félix Fixe Junior",
+  "subtitle": "Héros demi-portion",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "27de73ed728b5b8444dfa4aee552af1f119f9f7b",
+  "culture_invariant_id": 1455,
+  "sort_number": 1452,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Pilote"
+  ],
+  "flavor_text": "Un piège, c’est juste une énigme pas très sympa.",
+  "rules_text": "AU TRAVAIL Chaque fois que vous renvoyez une carte Pilote de votre défausse dans votre main, vous pouvez choisir un Pilote et le redresser. Ce personnage ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "22/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=12ae81bc00cf2c69822a2795d87ffe10d1d7adc304b672dff5206234d63576a4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=2ea7f5e6a7ab7bdd63f5e632a4a03720a93081201e0854a01856026bcf2fb552"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=84200a3e7d39a9e26bcf1816b441389cb694ca7655f5182302d0cd761cdf4197",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

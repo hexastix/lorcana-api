@@ -1,0 +1,44 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Temperamental Emperor",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "d9db9f6bf253381915cb4e979201f2ce3217677d",
+  "culture_invariant_id": 1198,
+  "sort_number": 239,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) NO TOUCHY! When this character is challenged and banished, you may banish the challenging character.",
+  "card_identifier": "8/C1 EN 1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=cd0ba782552ec103196aaaff1e14fe7a8940e5c8d137c755659208da8cdfe671"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=1a328d7137eea1976b654775e81633528ee47892b5fe3136db96f27be621c5ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=2aee49bb0d939ee7a80eb260974745f6e3636daac02c47c1e1523eb3890afc56",
+  "special_rarity_id": 4,
+  "foil_type": "Tempest",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

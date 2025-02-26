@@ -9,7 +9,7 @@
   "author": "Evana Kisa",
   "deck_building_id": "4b874fe55f677240c7632e1507c8b94e37428079",
   "culture_invariant_id": 389,
-  "sort_number": 413,
+  "sort_number": 412,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=524e8793683076ef8a3d5d0619fc152034c2d01d44d5251413857a85f0c96d34"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=524e8793683076ef8a3d5d0619fc152034c2d01d44d5251413857a85f0c96d34"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=1462621b62a4a6065f8a91da0ee4716c2aca160944ec95f725e28bc951a9c4a4"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=1462621b62a4a6065f8a91da0ee4716c2aca160944ec95f725e28bc951a9c4a4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=8a3df7beb140617d583a721b5613b6a83f8ccd1436bad61a0f2a43b9bc59876c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=8a3df7beb140617d583a721b5613b6a83f8ccd1436bad61a0f2a43b9bc59876c",
   "card_sets": [
     2
   ],

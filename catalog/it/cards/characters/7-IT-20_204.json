@@ -1,0 +1,43 @@
+{
+  "name": "Re Candito",
+  "subtitle": "Pilota Reale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "1818b1dcc9d7128736de392808ddbc8d6ee9a6ef",
+  "culture_invariant_id": 1453,
+  "sort_number": 1450,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Re",
+    "Pilota"
+  ],
+  "flavor_text": "Togliti dalla mia pista!",
+  "rules_text": "DOLCE VENDETTA Ogni volta che uno dei tuoi altri personaggi Pilota viene esiliato, ogni avversario sceglie ed esilia uno dei suoi personaggi.",
+  "card_identifier": "20/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=aadb7dc7317657bb836b4951c2d124d6a1532ecd934a75cfd5a987b2639cdcc1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=8e3649c2aa33f4aa3146b6f2dd713261719b044e49f5ce3089436cf9cc40e8d4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=abf4c7e2c9c327dea31482d3af57acd5c53b13811517ac8c62bbb978b588806a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

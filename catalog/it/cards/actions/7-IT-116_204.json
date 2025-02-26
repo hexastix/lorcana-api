@@ -1,0 +1,33 @@
+{
+  "name": "Alice, Svegliati!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "1c2d6362749cb836c4d2e5f90fe707296e30c1fc",
+  "culture_invariant_id": 1549,
+  "sort_number": 1546,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Alice! Vuoi essere così gentile di stare attenta e di ripetere la lezione?%—Sorella di Alice",
+  "rules_text": "Fai tornare in mano al suo giocatore un personaggio danneggiato a tua scelta.",
+  "card_identifier": "116/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=a92f5ca988e65eebb449ff9a1e8e530ba9f5f0a1026f602c3eef57a376c04e2f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=1421a3d604d2db38aa3c497eaf09057f4be32dbab11d380723aff8ea7b3c00c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=d9f47fa6a66132d638e2da1fb24f9923f9287637fdcf93d8bbb43a1a2e1e6e94",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

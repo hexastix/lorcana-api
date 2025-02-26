@@ -9,7 +9,7 @@
   "author": "Oggy Christiansson",
   "deck_building_id": "69760a52254a4b56186ccc0f1cfde2cf2162aa32",
   "culture_invariant_id": 1033,
-  "sort_number": 1042,
+  "sort_number": 1041,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=be8a15cabd5230f26dabf3de3f303409d19854bbeadf304fd3f90e67a6126f90"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=be8a15cabd5230f26dabf3de3f303409d19854bbeadf304fd3f90e67a6126f90"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a34c0690a9ba016a192316b85b80e7b861416bb1c802633d016b9224d7aa9c37"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a34c0690a9ba016a192316b85b80e7b861416bb1c802633d016b9224d7aa9c37"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=f90e167e4fa57a467079c755d5ec898ea31ad8da20ed9f74892288cb5ed4f659",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=f90e167e4fa57a467079c755d5ec898ea31ad8da20ed9f74892288cb5ed4f659",
   "card_sets": [
     5
   ],

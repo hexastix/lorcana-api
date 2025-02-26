@@ -1,0 +1,40 @@
+{
+  "name": "Pepe",
+  "subtitle": "Cucciolo Reattivo",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "97098c501f90935ba737140dca7ffd730fac352d",
+  "culture_invariant_id": 1600,
+  "sort_number": 1597,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cucciolo"
+  ],
+  "flavor_text": "Pepe è la dimostrazione che ogni cucciolo fa parte del branco.",
+  "rules_text": "GIUSTO IN TEMPO Ogni volta che uno dei tuoi personaggi Cucciolo viene esiliato, puoi aggiungere quella carta al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "167/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=b541e535554b8820d977425c96511229a31af8b2b9892e6da686413416d4c474"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=9aea4255da282a1e21f45b0eb1a5fb200e3f63ebf7dec8e74055b4452ec4a9c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=713211fae042861119c7e865afcff848e991f1d6875fba818426ec6a670954cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

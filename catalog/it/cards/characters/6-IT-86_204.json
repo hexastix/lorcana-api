@@ -9,7 +9,7 @@
   "author": "Kapik",
   "deck_building_id": "1d3e9a6a745129558b1f73e99dcf845eebef5469",
   "culture_invariant_id": 1285,
-  "sort_number": 1284,
+  "sort_number": 1283,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,16 +26,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=820911cf22d2fb7714a7c8db5e52d355dfab5dfa95eed0f6c369ae04627ed89b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=820911cf22d2fb7714a7c8db5e52d355dfab5dfa95eed0f6c369ae04627ed89b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=161fd7aaff915340bb490a3ba55f38f96d7a6531dc81d48c13ccc47f7225316e"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=e190b6c70af1c2620665d3949d743dd1618fb7d407e3048e863b2593594d47a1"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=f3c2f0f161dd8c38d021efa56926e92fb8f72931a4d150b1c01ac6bc708ba053",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=f3c2f0f161dd8c38d021efa56926e92fb8f72931a4d150b1c01ac6bc708ba053",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/gloss/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=187aa206fd24dcb0b12cf14013385b3ea7597219ea9ee617ff8e15bff3d6f92f",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/gloss/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=187aa206fd24dcb0b12cf14013385b3ea7597219ea9ee617ff8e15bff3d6f92f",
   "card_sets": [
     6
   ],

@@ -1,0 +1,40 @@
+{
+  "name": "Pepper",
+  "subtitle": "Quick-Thinking Puppy",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "97098c501f90935ba737140dca7ffd730fac352d",
+  "culture_invariant_id": 1600,
+  "sort_number": 1597,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "Pepper proves every puppy is part of the pack.",
+  "rules_text": "IN THE NICK OF TIME Whenever one of your Puppy characters is banished, you may put that card into your inkwell facedown and exerted.",
+  "card_identifier": "167/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=394155d4e5bd6d7f1348e231c15605c6708d05d660bce74cb288099c48b892a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=9826c12814e7ac323d2c441288a7bdfac98a6d93050aa79c950de6b21940e7ab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=5a9688151dab7df9e94015c1da03210efadb5a926df85b732b9f50fdfcf74b84",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

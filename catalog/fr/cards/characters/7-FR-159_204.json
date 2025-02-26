@@ -1,0 +1,42 @@
+{
+  "name": "Belle",
+  "subtitle": "Apprentie inventrice",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jochem van Gool",
+  "deck_building_id": "66089bac792b605815e7eb1bf3d028980fa7039a",
+  "culture_invariant_id": 1592,
+  "sort_number": 1589,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse",
+    "Inventeur"
+  ],
+  "flavor_text": "Elle aide son père à réduire la présence de débris volants.",
+  "rules_text": "QUELLE PAGAILLE ! Durant votre tour, vous pouvez choisir l'un de vos objets et le bannir pour jouer ce personnage gratuitement.",
+  "card_identifier": "159/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=68a479382e67c1cb7e297eaccda4a3e55efed75c3a8d68bf7e00500c390d9972"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=babc87f9d085ee6e8599da1d2a632c4ceb82a9d4bdb79935ca7f9a876066173c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=e7352c39ed257ed18df9d04eee5b8689c5d0059d3ab7ff92b184d7fbe86e79de",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Schneewittchen",
+  "subtitle": "Die Schönste im Land",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Mario Manzanares",
+  "deck_building_id": "f66e2e1e500d2d759c8dcd4fdeafbf1831613d78",
+  "culture_invariant_id": 1660,
+  "sort_number": 1658,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "Ein aufrichtiges Herz kann so manchen bösen Plan durchkreuzen.",
+  "rules_text": "VERSTECKT Dieser Charakter kann nicht herausgefordert werden.",
+  "card_identifier": "23/P2 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=b2626ed0049d0f3ec26331064be3ede53b4b7eff73667164e322865625a8401e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=a36f3aec0499e1ee13431ba0ffdc18a0cf740c6fa37024ff9b0357e426ba5ce3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=6c452a7f4fc00ccfb8a12a97a976709abdd5e362037a08390809780db4649645",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tick-Tock",
+  "subtitle": "Relentless Crocodile",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Rachel Elese",
+  "deck_building_id": "e1cc4fc2b8f3553070493043ebc236022311ddc9",
+  "culture_invariant_id": 1624,
+  "sort_number": 1621,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "I say, Captain, do you hear something? —Peter Pan",
+  "rules_text": "LOOKING FOR LUNCH During your turn, this character gains Evasive while a Pirate character is in play. (They can challenge characters with Evasive.)",
+  "card_identifier": "191/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=c9768385e9b3d438d23f9bb22fd4c7a9063c292d418e0d0ca5b4c789d96509f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=858149554ec252a2b7a43a59de5699d023fd1d53ad7498eb6e7c90fdc642c6f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=836150035ed392b4fdc4f56812ac1dac9378bf147ad18e5135df93ab02e4b1b1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Riesenkobra",
+  "subtitle": "Geisterhafte Schlange",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicola Saviori",
+  "deck_building_id": "ab23bc0d0f42e3fa41a43526d6fca8f364824467",
+  "culture_invariant_id": 1490,
+  "sort_number": 1487,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Verschwinden"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Verschwinden (Jedes Mal, wenn dieser Charakter von einer Aktion einer gegnerischen Person ausgewählt wird, verbanne ihn.) MYSTERIÖSER VORTEIL Wenn du diesen Charakter ausspielst, darfst du eine Karte von deiner Hand auswählen und abwerfen, um 2 Legenden zu sammeln.",
+  "card_identifier": "57/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=e394fc68377145ddecab4253cf1b4b83fa259f1c565531fcc061887ef4d8d825"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=f5bd2c2924ad5dfc9c1f0bc989b89a9ea541f0f2f5e1de87cb47afeaaf50a637"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9984b39e797860a6f722e8192fd16073c1ec39ea481d9616cbea455d66695758",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

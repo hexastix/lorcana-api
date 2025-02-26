@@ -1,0 +1,43 @@
+{
+  "name": "Blanche-Neige",
+  "subtitle": "Plus belle que jamais",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Mario Manzanares",
+  "deck_building_id": "f66e2e1e500d2d759c8dcd4fdeafbf1831613d78",
+  "culture_invariant_id": 1660,
+  "sort_number": 1658,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Un cœur sincère peut déjouer bien des plans maléfiques.",
+  "rules_text": "DISSIMULÉE Ce personnage ne peut pas être défié.",
+  "card_identifier": "23/P2 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=59945e04e206841afcb39a9f138041307c101610c5b72585334b9baaa8f53411"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=9ef7a4913bbc628e58f67a015daab2803e5891b334b99598d44b9000e60e81f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=24da0854a8d9b06c948ec7e10f272a22cbaf47353fbaa860df8bbfa65782e64f",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

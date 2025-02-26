@@ -5,7 +5,7 @@
   "author": "Andy Estrada / Stefano Zanchi",
   "deck_building_id": "5e2657fa5dbffd004f504784ce267a28e50d742c",
   "culture_invariant_id": 1016,
-  "sort_number": 1025,
+  "sort_number": 1024,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2b3b625a8702b043609a7f06e86a7ac62c2b5cfadfcd5a79053741bf79cf39ad"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2b3b625a8702b043609a7f06e86a7ac62c2b5cfadfcd5a79053741bf79cf39ad"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=168de16c34efde01035fe7c37979fa04d409f23b2cbbfabcb0fa62056b2c74b6"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=168de16c34efde01035fe7c37979fa04d409f23b2cbbfabcb0fa62056b2c74b6"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=e4fb0770cd879f8d034ca62143b9474c9980df9d06f13aefceb23ff3b618fcfc",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=e4fb0770cd879f8d034ca62143b9474c9980df9d06f13aefceb23ff3b618fcfc",
   "card_sets": [
     5
   ],

@@ -9,7 +9,7 @@
   "author": "Lissette Carrera",
   "deck_building_id": "8f1136e3663dd82c592b712ae6772bd4f6486f55",
   "culture_invariant_id": 223,
-  "sort_number": 247,
+  "sort_number": 246,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5cc99910cf2313fea55f7aba7fcdf6780a0edc0827291011a23db6f7d8f67b35"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5cc99910cf2313fea55f7aba7fcdf6780a0edc0827291011a23db6f7d8f67b35"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=07cbeaebde9875ae1fd054fa87e1c16d159483e4d1588fbf41cb0d3d36f01a97"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=07cbeaebde9875ae1fd054fa87e1c16d159483e4d1588fbf41cb0d3d36f01a97"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2f155c4455d26c55a3a056841cbffa037b04fe46f4c5ebabd96cf5b9e1d799ac",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2f155c4455d26c55a3a056841cbffa037b04fe46f4c5ebabd96cf5b9e1d799ac",
   "card_sets": [
     2
   ],

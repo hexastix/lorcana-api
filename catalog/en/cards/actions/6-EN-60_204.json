@@ -5,7 +5,7 @@
   "author": "Geoffrey Boudout",
   "deck_building_id": "bec1b79d300150cdb92902404916f10483de4dbd",
   "culture_invariant_id": 1259,
-  "sort_number": 1258,
+  "sort_number": 1257,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=7be075c424efe54ae26ce52f053e6b0fd865af0b5736c04a15bd55f3fa5fe7a5"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=7be075c424efe54ae26ce52f053e6b0fd865af0b5736c04a15bd55f3fa5fe7a5"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=cd9da179ddcce7d1698195474c778d14232e1ae9d5a8babc1a0b1a09c2f7fd2c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=cd9da179ddcce7d1698195474c778d14232e1ae9d5a8babc1a0b1a09c2f7fd2c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=ac55382624e6d46aa96d6c8c5a446328435ddd9f5219c1246a6e607d5f993baf",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=ac55382624e6d46aa96d6c8c5a446328435ddd9f5219c1246a6e607d5f993baf",
   "card_sets": [
     6
   ],

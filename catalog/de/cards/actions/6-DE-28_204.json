@@ -5,7 +5,7 @@
   "author": "Natalia Trykowska",
   "deck_building_id": "706fa1412f17c17eec43c565c3816da3af922fe6",
   "culture_invariant_id": 1227,
-  "sort_number": 1226,
+  "sort_number": 1225,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=20d2df14faff4c13a197dc2263709db3b51e331d466ff2e5f081aa67eb17be64"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=20d2df14faff4c13a197dc2263709db3b51e331d466ff2e5f081aa67eb17be64"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fd9abbe092eaafe9545098f3f2e2d1fa75d0f8b60d0ececba5e0765ab0dc80dd"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fd9abbe092eaafe9545098f3f2e2d1fa75d0f8b60d0ececba5e0765ab0dc80dd"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fc7b58c7e6c2991f00a23c9a573ea92fd97fb2fe11819f991796177133123946",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=fc7b58c7e6c2991f00a23c9a573ea92fd97fb2fe11819f991796177133123946",
   "card_sets": [
     6
   ],

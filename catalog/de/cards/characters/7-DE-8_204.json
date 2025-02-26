@@ -1,0 +1,40 @@
+{
+  "name": "Susi, die Maus",
+  "subtitle": "Schneidermeisterin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kapik",
+  "deck_building_id": "6c854aa30ab77afc53f38061766e42e06f160e6a",
+  "culture_invariant_id": 1441,
+  "sort_number": 1438,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Die hingebungsvollen Mäuse freuten sich darauf, Cinderella mit einem neuen Kleid zu überraschen. Lächelnd gab Archazia ihnen eine Spule mit Zaubergarn. Damit wird es perfekt, sagte sie.",
+  "rules_text": "",
+  "card_identifier": "8/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=762765f693b631ad32c79b197b075997331e8893a414a262d9890a037e116c99"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=8873e85a8e334c0b3666b40b1390454e58f7dac9917d9f7d18ec702af22dd098"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=b4831c49956d364c608d84a9d369b862df94a630ff87b2fe95f7a653841b907f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

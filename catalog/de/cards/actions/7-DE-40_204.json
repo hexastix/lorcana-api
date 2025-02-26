@@ -1,0 +1,36 @@
+{
+  "name": "Familie Madrigal",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "420231f6bb1e6544dc1575a7d7d4334232698cfb",
+  "culture_invariant_id": 1473,
+  "sort_number": 1470,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 5 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Schaue dir die obersten 5 Karten deines Decks an. Du darfst bis zu 1 Madrigal-Charakterkarte und bis zu 1 Liedkarte daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge auf dein Deck.",
+  "card_identifier": "40/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=9ffe7a5e71cf38002ccc0d2ac2a1c51f9a32524df02004da0960abbdd186c8ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=90aa72cf2632be6af00d82df9c48c1fe9173f8522e38ca0517d0f4e118823814"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=5a741e687240971c7ff72026aa099b85c42037aedb99e74d07b44ae343c16759",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

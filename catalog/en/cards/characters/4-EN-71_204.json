@@ -9,7 +9,7 @@
   "author": "Ellie Horie",
   "deck_building_id": "724e8cde6128ddddf0d52b69c970e486816ee451",
   "culture_invariant_id": 762,
-  "sort_number": 772,
+  "sort_number": 771,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6b1e3f5346e88967cacbbbe5e92c1ae7a09985f81f7fd4ef24c3c0a8caddd75d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6b1e3f5346e88967cacbbbe5e92c1ae7a09985f81f7fd4ef24c3c0a8caddd75d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=ab33c43e4de9da4f0d5eaa5caf91b88c7dda989867bd0efe92ea71d931f40277"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=ab33c43e4de9da4f0d5eaa5caf91b88c7dda989867bd0efe92ea71d931f40277"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=4ae5c654837a6506d5838261175fed776078bba79ef503346e28bb92d89d8f72",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=4ae5c654837a6506d5838261175fed776078bba79ef503346e28bb92d89d8f72",
   "card_sets": [
     4
   ],

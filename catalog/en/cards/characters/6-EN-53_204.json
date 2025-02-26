@@ -9,7 +9,7 @@
   "author": "Veronica Di Lorenzo / Livio Cacciatore",
   "deck_building_id": "53873ab78cd68666de74c7d32546d4290f86353b",
   "culture_invariant_id": 1252,
-  "sort_number": 1251,
+  "sort_number": 1250,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=2631abdcbeeb9870684b0db06c13d17a1a326869bad05717b1429abd99360779"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=2631abdcbeeb9870684b0db06c13d17a1a326869bad05717b1429abd99360779"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=3419067051beb05e6bbecdd20cc68956c4a417f4a9dcec4860e820415c36d38b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=d9381e3ec32b11819f3945de7b5d8bddbaa65489396aa4b9c684a1d4b0402cc0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=8a790792d5a829e0335a1b36813099a0f9393da177066df576785b7f4e4d582c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=8a790792d5a829e0335a1b36813099a0f9393da177066df576785b7f4e4d582c",
   "card_sets": [
     6
   ],

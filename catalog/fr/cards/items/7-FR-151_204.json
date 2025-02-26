@@ -1,0 +1,34 @@
+{
+  "name": "Machine de Maurice",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "051f6f7d75be055d8f35359a37f5737c6cf8907a",
+  "culture_invariant_id": 1584,
+  "sort_number": 1581,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "J'espère qu'elle va fonctionner comme je l'entends !%—Maurice",
+  "rules_text": "TOMBÉE EN PANNE Lorsque cet objet est banni, vous pouvez renvoyer une carte Objet coûtant 2 ou moins de votre défausse dans votre main.",
+  "card_identifier": "151/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=fdc8f4c86baa31b7de4d57af4460034dfaf581f979d25e60a533aff547515e16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=86a9c44a04414ba2e2971649f9f1e22b9341a4dc78017c7d514bfa573f2287d9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=0c191685e8dfcaadf7e1b18dc6fe61e8b9f7177829973ec482e089387df0d485",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

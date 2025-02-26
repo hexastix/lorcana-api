@@ -5,7 +5,7 @@
   "author": "Valentina Graziuso",
   "deck_building_id": "740b1d11aff60c73e623704984ea2d1ed98a312f",
   "culture_invariant_id": 819,
-  "sort_number": 829,
+  "sort_number": 828,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=27bb46cda38ae62e23617b1b13aa4d7809650dbaeb4f69180ca3ca3b529ae467"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=27bb46cda38ae62e23617b1b13aa4d7809650dbaeb4f69180ca3ca3b529ae467"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=48f24daa1e2386ea1b1fb00ed7a8b8f1604814615a77ba9877abebb72c062574"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=48f24daa1e2386ea1b1fb00ed7a8b8f1604814615a77ba9877abebb72c062574"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=1cc7a6ad2fadf9c20e6c849ae5e3cd56dde7d78cd5d74b5b80a22646f74e9eca",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=1cc7a6ad2fadf9c20e6c849ae5e3cd56dde7d78cd5d74b5b80a22646f74e9eca",
   "card_sets": [
     4
   ],

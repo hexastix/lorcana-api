@@ -5,7 +5,7 @@
   "author": "Simone Tentoni",
   "deck_building_id": "dc0802d2dbfb80d577f530a89334ff27a081f61a",
   "culture_invariant_id": 1229,
-  "sort_number": 1228,
+  "sort_number": 1227,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=0ec7ace6f3e3e3cbbc7d40f1de1efd4d1213c9bdee87472bb2a54209da712b5a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=0ec7ace6f3e3e3cbbc7d40f1de1efd4d1213c9bdee87472bb2a54209da712b5a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=7cd45fbb63d82483e65592fb2784d8ef9275dbcc230b0b45833cca1c6b08f3fc"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=7cd45fbb63d82483e65592fb2784d8ef9275dbcc230b0b45833cca1c6b08f3fc"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=ce9d708ee5db703ce8c8ae44459599d3f805f0bfa69d225eae6611b97d923ce9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=ce9d708ee5db703ce8c8ae44459599d3f805f0bfa69d225eae6611b97d923ce9",
   "card_sets": [
     6
   ],

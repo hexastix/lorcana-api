@@ -1,0 +1,42 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Appena Promosso",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "e8958ebe93bfe67555697e9e3d0477d5a9e145ad",
+  "culture_invariant_id": 1566,
+  "sort_number": 1563,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "NON TI DELUDERÒ Questo personaggio può sfidare i personaggi preparati. ENORME RESPONSABILITÀ Mentre questo personaggio ha danno, riceve +2.",
+  "card_identifier": "133/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=536841ba4921c36e5d919eee38d5ca40eeb06c3f071a203b3bd94284f551b694"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=708af9ee7a5529a667a50add48183c284ff7fc3fa89f63149d8dc8d4d201fa20"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=a671db2e27414309c60cade081ead0cc77b8f50cbb7e473de6a3e200499a910e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

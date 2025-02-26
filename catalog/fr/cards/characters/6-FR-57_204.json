@@ -9,7 +9,7 @@
   "author": "Mel Milton",
   "deck_building_id": "dd7d2bad727d4ee049c2ff4d1088d312e827f4ce",
   "culture_invariant_id": 1256,
-  "sort_number": 1255,
+  "sort_number": 1254,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=0717d4456889ddab2dfbcd8116437da9676f90535d58d05c5bd3c75f77eb0265"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=0717d4456889ddab2dfbcd8116437da9676f90535d58d05c5bd3c75f77eb0265"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9c95901e38abbf2d90c8ed719d193ee5d161bf290fc47efd7cfbd1a47d5c376e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9c95901e38abbf2d90c8ed719d193ee5d161bf290fc47efd7cfbd1a47d5c376e"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=06a5fd9d6ce8db9e98938389ec236039c2c7a488b2eb20cf201d439a37348a02",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=06a5fd9d6ce8db9e98938389ec236039c2c7a488b2eb20cf201d439a37348a02",
   "card_sets": [
     6
   ],

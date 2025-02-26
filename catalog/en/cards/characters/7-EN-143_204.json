@@ -1,0 +1,42 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Nefarious Criminal",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Max Ulichney",
+  "deck_building_id": "1f72b455c62ec192fa0b46a65aa7a58a6ff89147",
+  "culture_invariant_id": 1576,
+  "sort_number": 1573,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Why stop the show when you can simply steal it?",
+  "rules_text": "A MARVELOUS PERFORMANCE Whenever you play an action while this character is exerted, gain 1 lore.",
+  "card_identifier": "143/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=d72c4de0c1c49dd87a0486d109a55b35ee2274fbf7c8823267f3b9c62194cae6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=47c3a034200b8952e1772fed427a33b69d71ba03887708df5e77306a74aeab77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=e3ddf067af265b0473c264743c499a82b2abfe224095fe78d8d74a8681f4735e",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b3d2381956d9598119a0d9976f82e7a379b5b0ffb95bad76e336e1b7103e3332",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

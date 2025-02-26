@@ -1,0 +1,42 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Multitalented Pirate",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "d8f343ee238be3a7ebf0f0a9f5f2a7b707f21cdf",
+  "culture_invariant_id": 1541,
+  "sort_number": 1538,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "A captain must be inventive, commanding, and unafraid of trampolines.",
+  "rules_text": "FOWL PLAY Once during your turn, whenever a card is put into your inkwell, chosen opponent chooses one of their characters and returns that card to their hand.",
+  "card_identifier": "108/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=87aba14fccc6e3059c317772cc586a583bbbcb7b5e6a6faf759c0e0288d2f3e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=748b17e71fcf206c4667a93bbc01e7094277f843235d93d381f055c96d7bbb20"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=a5322ddc5f95516c4bc5d93a165120dc355030370f0ca5cb67f342375fc60579",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

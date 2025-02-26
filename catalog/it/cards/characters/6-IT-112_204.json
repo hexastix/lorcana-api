@@ -9,7 +9,7 @@
   "author": "Lava Hijzelaar",
   "deck_building_id": "d262ec42463f47d7cbbefb75d1d9f0e0013a4748",
   "culture_invariant_id": 1311,
-  "sort_number": 1310,
+  "sort_number": 1309,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=59061d5e41c82afbaed7e7f7d7a03090d92755a28e20f877bd5f25d62fe84feb"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=59061d5e41c82afbaed7e7f7d7a03090d92755a28e20f877bd5f25d62fe84feb"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=ab67314ecfd6dbb5f16c9fba14b053cb01ec2a600c79cec312c1b999032d2d9d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=ab67314ecfd6dbb5f16c9fba14b053cb01ec2a600c79cec312c1b999032d2d9d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=66042fc04686edf1abe6d91a5b7e3300225ac66316975600b5436d234c6a14a6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=66042fc04686edf1abe6d91a5b7e3300225ac66316975600b5436d234c6a14a6",
   "card_sets": [
     6
   ],

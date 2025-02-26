@@ -9,7 +9,7 @@
   "author": "Lauren Barger",
   "deck_building_id": "064fed608ce47eeb3e4ae4b15e6fc7f3e58763e1",
   "culture_invariant_id": 1214,
-  "sort_number": 1213,
+  "sort_number": 1212,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=74771b3116c0f11cf3912768dc635b258fbb68c84b5be22e4bd22722aaeb1d9d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=74771b3116c0f11cf3912768dc635b258fbb68c84b5be22e4bd22722aaeb1d9d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=797968fcd03d707c1c25237b350217cca82b5f1685009e4b7ff53c4e5d551669"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=797968fcd03d707c1c25237b350217cca82b5f1685009e4b7ff53c4e5d551669"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=75fd72c7d3afe81dc717bef1fd3c62cd505685ae7f41667def5319b70be65489",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=75fd72c7d3afe81dc717bef1fd3c62cd505685ae7f41667def5319b70be65489",
   "card_sets": [
     6
   ],

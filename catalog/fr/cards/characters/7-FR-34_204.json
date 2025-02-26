@@ -1,0 +1,40 @@
+{
+  "name": "Koda",
+  "subtitle": "Petit nounours",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "88ff3b894f745ef4716c8feccea0a6f1c4ca0cfb",
+  "culture_invariant_id": 1467,
+  "sort_number": 1464,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Et après, ils m'ont demandé ‘Comment as-tu attrapé autant de poissons, Koda?’ Et j'ai répondu: ‘Vous me connaissez. Je sais comment attraper les poissons.' Et ils ont dit...",
+  "rules_text": "",
+  "card_identifier": "34/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e2b63d9ad5a06701bf4c7e13912165c9c24fc1923afe500128f362fb15e3f17c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=1336228519f8157664474c6aaef9f0983f13c80557f060ba426c87cb19f64c82"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e31da1633a33911901fe29512faaffea2ff35def2e1cc8904875fdf7303d71d7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

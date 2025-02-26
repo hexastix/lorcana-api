@@ -1,0 +1,40 @@
+{
+  "name": "Panico",
+  "subtitle": "Diavoletto Nervoso",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Arianna Rea",
+  "deck_building_id": "29e6560843c19488f858e257358e01b036237875",
+  "culture_invariant_id": 1508,
+  "sort_number": 1505,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Quello che il capo non sa non può farci male. Non più di tanto. Spero.",
+  "rules_text": "STRILLO SORPRESO Quando giochi questo personaggio, puoi spostare fino a 2 segnalini danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "75/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=20d967081a11e15f6b8ef1855419612468e75285381dfaf964fdd11edba943a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=2f60bd16e4736cf57d410bc0dd51514f3c6b2340cbd3fe787f32c9bba489550b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=c28af2febb803a2a0a7d6df6b21a444413d9e90af270869999757ab1d9e95554",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

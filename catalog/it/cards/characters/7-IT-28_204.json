@@ -1,0 +1,43 @@
+{
+  "name": "Lilli",
+  "subtitle": "Miss Parioli",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "João Moura",
+  "deck_building_id": "9f61c69f6fd196f8a513e41f12c5e1940c07dc32",
+  "culture_invariant_id": 1461,
+  "sort_number": 1458,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Lilli.) QUALCOSA DI MAGNIFICO Quando giochi questo personaggio, puoi riprendere in mano fino a 2 carte personaggio con costo 2 o inferiore ciascuno dai tuoi scarti.",
+  "card_identifier": "28/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=d226bdd7dadc19f89605c41f16a359244397857a675cf7d39b16c390ce014ba9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=e094f64bcc88e67c4bbe1dea1e7cbb4cb5195736679f76764dfd8792fdb6cc3d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=94944d1e00f5ab8cfa9c9d15db76ce16ee85b6aa340f56d75dba88defd291c5b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "French Carlomagno",
   "deck_building_id": "ef51cbc17715fb350e0780b289c630d1a5e5a916",
   "culture_invariant_id": 1211,
-  "sort_number": 1210,
+  "sort_number": 1209,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=ac2c2ee310f99cd994ede14ce615692d73fb73d68b9209b5a7a7564b27bc1b4b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=ac2c2ee310f99cd994ede14ce615692d73fb73d68b9209b5a7a7564b27bc1b4b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=a089ff88e0add0635ce81fbb53f1b8d7fbc9af681a8b72290d38668b7399e969"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=a089ff88e0add0635ce81fbb53f1b8d7fbc9af681a8b72290d38668b7399e969"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=bc68df7ead0e98cf38fd27841fc2c40b49fda1a292702e052308a60d3c4fe209",
   "card_sets": [
     6
   ],

@@ -9,7 +9,7 @@
   "author": "Arianna Rea",
   "deck_building_id": "c555de0cc0c5618aef6420094f6b4d9e52c30313",
   "culture_invariant_id": 427,
-  "sort_number": 451,
+  "sort_number": 450,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=1478beac80849980006d9cea7620aa734ef605e3ab45176899c5dc317ef6c249"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=1478beac80849980006d9cea7620aa734ef605e3ab45176899c5dc317ef6c249"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=ecfec048b1491a5040e711fc19693722843830ed312f447138a208e77a154497"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=ecfec048b1491a5040e711fc19693722843830ed312f447138a208e77a154497"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fb863c0513de14af9511b409e467c5729c7f7bf3cc64b867b68372fffe0ca582",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fb863c0513de14af9511b409e467c5729c7f7bf3cc64b867b68372fffe0ca582",
   "foil_type": "Lava",
   "card_sets": [
     2

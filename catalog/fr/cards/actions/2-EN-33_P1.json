@@ -5,7 +5,7 @@
   "author": "Jochem van Gool",
   "deck_building_id": "d52697d4b0ff2e40219b0dd851caf0ee7dc5cf09",
   "culture_invariant_id": 691,
-  "sort_number": 463,
+  "sort_number": 462,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=bd68e0129c35ca48c64a4d060caa91dd2104ff8f56f1a8806dde175b646c0173"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=bd68e0129c35ca48c64a4d060caa91dd2104ff8f56f1a8806dde175b646c0173"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=4014f6a117da5fb03b015958b973e6333cdd5c8fb9617b09509386d4db4964a9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=4014f6a117da5fb03b015958b973e6333cdd5c8fb9617b09509386d4db4964a9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=521568a40e034797917b9f1073c4fed2b36e56a792d45f8f8fe50651cb49ba4f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=521568a40e034797917b9f1073c4fed2b36e56a792d45f8f8fe50651cb49ba4f",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [

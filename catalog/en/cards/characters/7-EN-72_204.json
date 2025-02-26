@@ -1,0 +1,45 @@
+{
+  "name": "Anna",
+  "subtitle": "Ice Breaker",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "5c027c79eedd9a761d4497187cd38ba25c697de4",
+  "culture_invariant_id": 1505,
+  "sort_number": 1502,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) WINTER AMBUSH When you play this character, chosen opposing character can't ready at the start of their next turn.",
+  "card_identifier": "72/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=1fb9a53909a367a0e6ce157a1adac8221293c79cbf31a83d26f428de00c6dff9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=2523f89a17a89c6599c0054625e545dfef2197cc0964074c5eed10f8a7022a4a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=86365317d89e2320266ce5146efacc5a48e0c847378ad3af069f2c4d624f26f7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

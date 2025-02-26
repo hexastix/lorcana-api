@@ -1,0 +1,39 @@
+{
+  "name": "The Matchmaker",
+  "subtitle": "Unforgiving Expert",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "37ceefedfc5a4857cf51f3b75ec149712c62fdab",
+  "culture_invariant_id": 1556,
+  "sort_number": 1553,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Who spit in her bean curd? —Grandmother Fa",
+  "rules_text": "YOU ARE A DISGRACE! Whenever this character challenges another character, each opponent loses 1 lore.",
+  "card_identifier": "123/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=a96453c835e04dd539c769138ab9cbd1ee1d002ead8bd51869fbe5a152aeae23"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=831ad59362343891742821b4650499d8846677584ee5720271642e4f7c7891fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=fc494d34edeb8728b3a464468b30aaf704ada4cb7561c000ae3047e7b490d208",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

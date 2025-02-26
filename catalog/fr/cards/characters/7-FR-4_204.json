@@ -1,0 +1,43 @@
+{
+  "name": "Volt",
+  "subtitle": "Superchien",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "a31d2bdbf009fa85ab285105f4b19017beef7180",
+  "culture_invariant_id": 1437,
+  "sort_number": 1434,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Volt.) LA MARQUE DE MON POUVOIR Chaque fois que vous redressez ce personnage, pour chacun de vos autres personnages sans dommage en jeu, gagnez 1 éclat de Lore. YEUX LASER — Choisissez un personnage Illusion et bannissez-le.",
+  "card_identifier": "4/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=234bf8cf68b5df671ef7a626d84017f2766d89f2395ac41a02e6b604c09894a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=efb553e4a99fe8b1adf2ca7597d6cd45cebcfdfaa2eaf3fdfe97df1ec8c6d7c9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=dac0e4d47865ee6804f0fdfe15b4785bda0622772c852912bed452751c4a40d4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

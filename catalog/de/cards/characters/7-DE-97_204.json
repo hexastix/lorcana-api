@@ -1,0 +1,42 @@
+{
+  "name": "Yokai",
+  "subtitle": "Intellektueller Intrigant",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "2065122bd47f279ddd80c1814074e29a04edb565",
+  "culture_invariant_id": 1530,
+  "sort_number": 1527,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Erfinder"
+  ],
+  "flavor_text": "In den Händen einer unbedeutenden Person wäre so viel Macht unverantwortlich.",
+  "rules_text": "ERNEUERN Du zahlst 1 weniger, um Charaktere mithilfe von Gestaltwandel auszuspielen.",
+  "card_identifier": "97/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=92d5ea003d81375df7ec8f22585929bec3a5094387df38a5434d65f9218b8521"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=467367a5ca370ac849e70df64c4de746afbb5e338d8e8f9c55e04d73988cd165"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=68a6fd49b496d29fcc4fe91734acabb4509cd877fbeb93c35358da04517a0eb3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

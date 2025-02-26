@@ -1,0 +1,40 @@
+{
+  "name": "Edgar Balthazar",
+  "subtitle": "Ambitious Butler",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "628e46b17ac88741c7b9ab68ff8754cf1b81de57",
+  "culture_invariant_id": 1579,
+  "sort_number": 1576,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "All these traps, all these locks, all these machines... If they think that's going to stop me, they’ve sorely underestimated Edgar Balthazar!",
+  "rules_text": "",
+  "card_identifier": "146/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=6a9db57a85be485e562aaf9eeea0d50454910907219072acf36edb488bd44230"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=31b466633795fe45ce6c354743bf9ef5d4c9538d2be4c161ef22dbc8b3476c7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=2c02ea0e5ddd48acbf777142af308d3b12cc31cda3b408e51053de3276b3921a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

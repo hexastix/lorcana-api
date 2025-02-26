@@ -9,7 +9,7 @@
   "author": "César Vergara",
   "deck_building_id": "94e713f1c1f184e73a082487f65cd724657ffbec",
   "culture_invariant_id": 1049,
-  "sort_number": 1058,
+  "sort_number": 1057,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0386d053167e78f0aac4ae69ece05a38e8ce9650a3a1debe454c0c1aa18a7a76"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0386d053167e78f0aac4ae69ece05a38e8ce9650a3a1debe454c0c1aa18a7a76"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=10ac4fe058ddb4c1534e74a4cdbcd6ff58acd400b95db4fa977131105f28f893"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=10ac4fe058ddb4c1534e74a4cdbcd6ff58acd400b95db4fa977131105f28f893"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=a421f9f975954ad1c8276c045c0dbe5bdb021abbead08108b90ebfb79189ca2e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=a421f9f975954ad1c8276c045c0dbe5bdb021abbead08108b90ebfb79189ca2e",
   "card_sets": [
     5
   ],

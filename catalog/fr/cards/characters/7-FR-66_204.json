@@ -1,0 +1,44 @@
+{
+  "name": "Diablo",
+  "subtitle": "Corbeau malveillant",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "f1e14998918b85b112c9a5038a782041079b1e7d",
+  "culture_invariant_id": 1499,
+  "sort_number": 1496,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable",
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "66/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=2da11d1e21e157a5161a7a8135b7c8cbd31a0876a7723b17a4ebe8067823751e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=cd8fb23e731124307ca870d3262d93a05ff384516863ed89807e97d57ebb8896"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=985d36eb080b09bf5c2bece0709a891f9e106efb169e0a2db367126fb9fe867f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

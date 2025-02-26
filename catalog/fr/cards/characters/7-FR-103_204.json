@@ -1,0 +1,40 @@
+{
+  "name": "Tweedledee et Tweedeldum",
+  "subtitle": "Étranges conteurs",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c398f0b7dad3ae90647cd655f39c3337fb9a5ce4",
+  "culture_invariant_id": 1536,
+  "sort_number": 1533,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Vous ne pouvez pas partir maintenant! Ne voulez-vous pas entendre la fin? %—Tweedledee",
+  "rules_text": "ENCORE UNE AUTRE HISTOIRE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un personnage avec au moins un dommage et le renvoyer dans la main de son propriétaire.",
+  "card_identifier": "103/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=825ca793e311ec98b71abe0e130ccdcdb3dbce2b3f9c21c35ff90c0bb0a19a95"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=c18acba3a3e5f7b3e3e31ffd72d2422dab2b99048062a6996dad8e30fff8780c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=2cf89624da78bc08cc8ce472988fdb155ef5ec19eb3a90269552416cb6dea1b8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

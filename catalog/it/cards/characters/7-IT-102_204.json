@@ -1,0 +1,40 @@
+{
+  "name": "Pacha",
+  "subtitle": "Compagno di Cammino",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Luca Pinelli",
+  "deck_building_id": "a375827e674b232f0d824d876ebddaaa0e37b54c",
+  "culture_invariant_id": 1535,
+  "sort_number": 1532,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Gli piaceva essere pronto a ogni emergenza. Con Kuzco nei paraggi, accadevano spesso.",
+  "rules_text": "ZAINO PIENO Mentre hai in mano più carte di ogni avversario, questo personaggio riceve +2.",
+  "card_identifier": "102/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=3ce19089a2f8ba188c90ad1eac02458d3f0bd35801f4b76ce30fb944f73b4ba1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=a52d62f1296d4d7825f845e4140a770accdd0e9508851caee294704baf39daad"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e6ff43eef1f3be9542f536b274daf2a60e6085cf00d15acf28738a911ad56551",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

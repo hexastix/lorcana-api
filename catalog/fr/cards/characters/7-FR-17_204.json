@@ -1,0 +1,41 @@
+{
+  "name": "Adèle Machandelle",
+  "subtitle": "Pilote passionnée",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "735997cb2d2bb3550d9657a45ff6656a73b7c2eb",
+  "culture_invariant_id": 1450,
+  "sort_number": 1447,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA VICTOIRE NE FAIT PAS TOUT Lorsque ce personnage est banni, vous pouvez choisir un personnage et lui retirer jusqu'à 2 dommages.",
+  "card_identifier": "17/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=0716c81dfcf42bf1337d14db51501fff15a6dac3195ff1e643a69095d7b3ad31"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=a9ca26cd2b421bb7d5b4fdb0a8770a34c23a80c187dbaba88c6f0d939540f5c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=44d8602e4cb65acf7d9ae73423de9a65c65c6b095863ef8cd112efbf633f3ba8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

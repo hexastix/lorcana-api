@@ -29,18 +29,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cee5972d2284780f93c3d3d25c93b442f434f2ae607b2d0c754a603828f95e54"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cee5972d2284780f93c3d3d25c93b442f434f2ae607b2d0c754a603828f95e54"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=ed07d321b9aeb8ce547a4e39663987a3ff6c10a7ae89f2da7bc9fa3b0bed7909"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=ed07d321b9aeb8ce547a4e39663987a3ff6c10a7ae89f2da7bc9fa3b0bed7909"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d7dc133e53a5048d41463e4f628c1d379c017bd2ba5dafda424c1b9eab3eb1e7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=d7dc133e53a5048d41463e4f628c1d379c017bd2ba5dafda424c1b9eab3eb1e7",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Vaiana"
   ]
 }

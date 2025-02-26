@@ -9,7 +9,7 @@
   "author": "Vanessa Morales",
   "deck_building_id": "6587479529519fdd93c24cecd1d0c2d05d2524b1",
   "culture_invariant_id": 975,
-  "sort_number": 984,
+  "sort_number": 983,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c5f7147b48a84f3282519f4810532552b136d3e582cb0847b783617888430c8d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c5f7147b48a84f3282519f4810532552b136d3e582cb0847b783617888430c8d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=d0c4919e50c3705e8ccd686ffe3e881497a58c8a5cc7d7b3775a4ba12d6c4657"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=d0c4919e50c3705e8ccd686ffe3e881497a58c8a5cc7d7b3775a4ba12d6c4657"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=97f8fcc8fb85482261eb664ee10c875febaf14c108866ba654702cecfa32016a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=97f8fcc8fb85482261eb664ee10c875febaf14c108866ba654702cecfa32016a",
   "card_sets": [
     5
   ],

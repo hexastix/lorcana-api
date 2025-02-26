@@ -9,7 +9,7 @@
   "author": "Roger Pérez / Leonardo Giammichele",
   "deck_building_id": "5691a241218d73c335bda2e1619d1160eff5e117",
   "culture_invariant_id": 971,
-  "sort_number": 980,
+  "sort_number": 979,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=6ea163ddd98dc1e30c45758b0055b7e53c9bd9903ce7725e1b757920b526e3c0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=6ea163ddd98dc1e30c45758b0055b7e53c9bd9903ce7725e1b757920b526e3c0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=918118ee407ebdca2c763618abea7b5bea1266c2263e1824757f0da9f64951f6"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=918118ee407ebdca2c763618abea7b5bea1266c2263e1824757f0da9f64951f6"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=e647f8c3ef246665c7b3dbbf1a123332f4e12e89cb5f974e8bcb6021aa4da871",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=e647f8c3ef246665c7b3dbbf1a123332f4e12e89cb5f974e8bcb6021aa4da871",
   "card_sets": [
     5
   ],

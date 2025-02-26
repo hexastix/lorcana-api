@@ -9,7 +9,7 @@
   "author": "Nicholas Kole",
   "deck_building_id": "6b9d427c13f4bf6e25d74e6d6073361045e3d3af",
   "culture_invariant_id": 801,
-  "sort_number": 811,
+  "sort_number": 810,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=00a3bdfd9e07e2867a9f941aab50de321246d4f805ae93523e708a917d62ac8a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=00a3bdfd9e07e2867a9f941aab50de321246d4f805ae93523e708a917d62ac8a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=8d48b035ba54401bb9cf4839174edafa1df128defd87929ca0534294732f1b1e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=8d48b035ba54401bb9cf4839174edafa1df128defd87929ca0534294732f1b1e"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=e8bf4ce7cf6d9e244f1281bd1a90a358a596a7e7e7e2a07872fd0ecfb4834983",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=e8bf4ce7cf6d9e244f1281bd1a90a358a596a7e7e7e2a07872fd0ecfb4834983",
   "card_sets": [
     4,
     8,

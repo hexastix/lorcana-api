@@ -1,0 +1,33 @@
+{
+  "name": "Spira di Rubino",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "d250ec35251eedb4e3d598f75f217e0acca62570",
+  "culture_invariant_id": 1582,
+  "sort_number": 1579,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Venturo sentì partire una scintilla dalla spira al suo braccio, e l'energia pervase i suoi muscoli affaticati.",
+  "rules_text": "SCINTILLA SCARLATTA Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, un personaggio a tua scelta riceve +2 per questo turno.",
+  "card_identifier": "149/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=347ef796b803b09c5f5cab8d641174ae37c1d5f0db132c97cf8d2b315be86c6a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=736ecaaf227b26366e8c764fcb0ea94a00a8180cd5c20dbcd4e3fe70c9c561d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=1760cf21279935d538b570766bfad9e835512dad0358ca63c931ca4959c641fd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

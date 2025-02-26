@@ -1,0 +1,33 @@
+{
+  "name": "Unkonventionelles Werkzeug",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "6132d37f5c0ee1b84d2dc393df229f24f13c9cc6",
+  "culture_invariant_id": 1583,
+  "sort_number": 1580,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Den benutze ich viel öfter, als man denkt!%–Maurice",
+  "rules_text": "IM HANDUMDREHEN REPARIERT Wenn dieser Gegenstand verbannt wird, zahlst du 2 weniger für den nächsten Gegenstand, den du in diesem Zug ausspielst.",
+  "card_identifier": "150/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=8a2f714dd54cd9ece343f8684ea6455d99a2dede7c502cfcebad27901e279bab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=c8899c262572201590af12f96795e3df01675d7aec03c0055ffa49e03b0cd58c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=4a12c77de7a24b7966ef8ed2701eb2b91c986b75a44eb9de50546925f22a5a18",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

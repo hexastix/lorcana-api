@@ -1,0 +1,43 @@
+{
+  "name": "Biest",
+  "subtitle": "Frustrierter Designer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Koni",
+  "deck_building_id": "eea594c1f8504db74823bfd75c4ed44f1a518599",
+  "culture_invariant_id": 1569,
+  "sort_number": 1566,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz",
+    "Erfinder"
+  ],
+  "flavor_text": "Nein, nein, nein! Das sieht NICHT SO AUS, WIE ICH ES MIR VORGESTELLT HABE!",
+  "rules_text": "ICH HAB’ GENUG! , 2 , Verbanne 2 deiner Gegenstände — Füge einem Charakter deiner Wahl 5 Schaden zu.",
+  "card_identifier": "136/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=5c6f06dd1073078a1fb7b51afaa103ef91e52805f2e322c3f1e4c0c888cb10db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=10aad18c996193444e0d2816942b0b4bbf860c5e5ce9b4f654703f1406c1462c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=b7dc077a7af58746d012c2ba6f8d1b7365cf4dd9797d4dfeae095f2c54aa6dd9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

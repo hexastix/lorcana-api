@@ -9,7 +9,7 @@
   "author": "James Rey Sanchez",
   "deck_building_id": "46113126c7bad0cd90cc18033e9413118fc1ccb1",
   "culture_invariant_id": 1025,
-  "sort_number": 1034,
+  "sort_number": 1033,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=400a69fa2beeb13ac86d85e7008a92cac5504fc54cc662be6f1d354afd68f12f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=400a69fa2beeb13ac86d85e7008a92cac5504fc54cc662be6f1d354afd68f12f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=89ac79b30d3cf0ddf145658a253e3d046f794b702cf6bf9db18ad8c15ec5dd38"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=89ac79b30d3cf0ddf145658a253e3d046f794b702cf6bf9db18ad8c15ec5dd38"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=a1004410c29ece95f39bd4f5c2a595bcaf335a8a3076df1844b17b5767227ba5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=a1004410c29ece95f39bd4f5c2a595bcaf335a8a3076df1844b17b5767227ba5",
   "card_sets": [
     5
   ],

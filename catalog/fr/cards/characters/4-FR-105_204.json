@@ -9,7 +9,7 @@
   "author": "Carmine Pucci",
   "deck_building_id": "3ade52ca8750abaa4717ad4df3cc61186242ddd6",
   "culture_invariant_id": 796,
-  "sort_number": 806,
+  "sort_number": 805,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=f0fbcc032e1f4a6bf0024b14629ac907396b0c74bee5d324e06d919d8fbf7bfa"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=f0fbcc032e1f4a6bf0024b14629ac907396b0c74bee5d324e06d919d8fbf7bfa"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=56ee8be15102dd75d5a86934660f56601be408af283dc0be85541cab98130c9d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=56ee8be15102dd75d5a86934660f56601be408af283dc0be85541cab98130c9d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=5e5f4c271b54e14fe9e53174b50ddefad3ddd936adc3a3126623cf3d648dce0c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=5e5f4c271b54e14fe9e53174b50ddefad3ddd936adc3a3126623cf3d648dce0c",
   "card_sets": [
     4
   ],

@@ -9,7 +9,7 @@
   "author": "Mario Manzanares",
   "deck_building_id": "cfbdd1113e262b66941b16da85701f5a8aa882eb",
   "culture_invariant_id": 1420,
-  "sort_number": 1419,
+  "sort_number": 1418,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=61d31aa399bfa15f4e27c7fd24e7372fa4be0b16e7560849586af819922ed2ad"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=61d31aa399bfa15f4e27c7fd24e7372fa4be0b16e7560849586af819922ed2ad"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=e7f987093c06ac0710f6363ac590fb5c64dba8f8b5983dc7c0afdd88fb380226"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=e7f987093c06ac0710f6363ac590fb5c64dba8f8b5983dc7c0afdd88fb380226"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=76529d8744eeac6c7e87b95f9b04284cebe91cee4efbb217593429439519cc42",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=76529d8744eeac6c7e87b95f9b04284cebe91cee4efbb217593429439519cc42",
   "foil_type": "VerticalWave",
   "card_sets": [
     6

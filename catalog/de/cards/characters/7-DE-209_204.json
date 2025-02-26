@@ -1,0 +1,42 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Aufgeregter Zauberer",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Rachel Elese",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1642,
+  "sort_number": 1639,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "VERWIRREN! Gegnerische Mitspielende brauchen 25 Legenden, um das Spiel zu gewinnen.",
+  "card_identifier": "209/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=dd3d19fb3dfb57aec3b883ae07960ec6d99234b4e5449319a9e2521de268a784"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=324d3177c3a3d8483847f95348fbe499ff100459b78f4bec28e8325500bb685e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=81b517669bc4226c49da48ee8e1802a7cac8aaad6112e794ea89d48c5cf8c92d",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

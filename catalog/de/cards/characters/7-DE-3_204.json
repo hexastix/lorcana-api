@@ -1,0 +1,41 @@
+{
+  "name": "König Stefan",
+  "subtitle": "Frischgebackener Vater",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Mike Parker",
+  "deck_building_id": "4a04aa0e1cc9335eac636d980b21167061d65aab",
+  "culture_invariant_id": 1436,
+  "sort_number": 1433,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "Alle Eltern haben damit zu kämpfen, ihr Baby zum Schlafen zu bringen. Könige sind da nicht anders.",
+  "rules_text": "",
+  "card_identifier": "3/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=3d630665545358d73a0a10f83db81957b5b383043dd4f2d01a80552dfff25e21"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=206fbb13a4e64271faa41b5d6af0967d9ffede521e744f83397b58f680f8c210"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=f369056ef4e938f61f12498c1865c64e15fdb1510cbfa9f04345447ecd5ecc6d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

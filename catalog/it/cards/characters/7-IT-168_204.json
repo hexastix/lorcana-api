@@ -1,0 +1,40 @@
+{
+  "name": "Lentiggini",
+  "subtitle": "Bravo Ragazzo",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Laura Pauselli",
+  "deck_building_id": "f21c908b247d9cbe4e6848d00540186be031c963",
+  "culture_invariant_id": 1601,
+  "sort_number": 1598,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cucciolo"
+  ],
+  "flavor_text": "Voglio giocare con gli altri! Posso, papà? Per piacere?",
+  "rules_text": "COSÌ CARINO! Quando giochi questo personaggio, un personaggio avversario a tua scelta riceve -1 per questo turno.",
+  "card_identifier": "168/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=99a958bc889ad885a4be4a21b8545842b93a9642285a301fbfcb0abfd39d181e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=0a29747f6630ae6b76041988154cb27e25a8b30a87879f1717a2e7df3fa062e1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=2d8e537e93992f4568597b57a67b946b80b14570daa3dd762204d51d4e1cf0d5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

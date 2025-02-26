@@ -1,0 +1,41 @@
+{
+  "name": "Pongo",
+  "subtitle": "Caro Vecchio Papà",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Cécile Carre",
+  "deck_building_id": "4ded36b061197a0ad11ed674df025e831934904a",
+  "culture_invariant_id": 1462,
+  "sort_number": 1459,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Trucchi e trappole non sono niente per dei cuccioli impavidi.",
+  "rules_text": "TI HO TROVATO, PICCOLO BIRBANTE All'inizio del tuo turno, guarda le carte nel tuo calamaio. Puoi giocare un personaggio Cucciolo da lì, gratis.",
+  "card_identifier": "29/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=4e9639e604f5df1dc7e5eac1ca9fdb2a65c04ff8919f996e02a49818d9235e29"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=c5f41944b956f79e9d606a563c09388589e7637b25341d13e4ce01cbf2b1b0ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=136821190571cbedddd3aeb5846a63cdf3fea981d9ccd37d79e17b9bcb7472ce",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

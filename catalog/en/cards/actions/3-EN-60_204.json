@@ -5,7 +5,7 @@
   "author": "Dylan Bonner",
   "deck_building_id": "cd7d8f2725ca5bf77ca34f0bf089e7810fd2ea21",
   "culture_invariant_id": 496,
-  "sort_number": 531,
+  "sort_number": 530,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=fb9cb30cb41c9406dcb360d013f72a7d60bd30668443391defcf744a3312584b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=fb9cb30cb41c9406dcb360d013f72a7d60bd30668443391defcf744a3312584b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=f87faab233daff574b2a9f5d9c54dbf550d28e96dddce7c1f7eb4b1bc86e4f8c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=f87faab233daff574b2a9f5d9c54dbf550d28e96dddce7c1f7eb4b1bc86e4f8c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=b87f4d821297d7dcf9df76c306a77d101d30a84c660b45e2b67d6d7b0cb624d2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=b87f4d821297d7dcf9df76c306a77d101d30a84c660b45e2b67d6d7b0cb624d2",
   "card_sets": [
     3
   ],

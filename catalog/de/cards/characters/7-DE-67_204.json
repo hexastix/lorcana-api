@@ -1,0 +1,42 @@
+{
+  "name": "Merlin",
+  "subtitle": "Kluger Hellseher",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cam Kendell",
+  "deck_building_id": "ad1a7bee1bba63c46df4b6db68b78cba15608661",
+  "culture_invariant_id": 1500,
+  "sort_number": 1497,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRESTODIGITONIUM Jedes Mal, wenn dieser Charakter erkundet, benenne eine Karte und decke danach die oberste Karte deines Decks auf. Falls es die benannte Karte ist, darfst du jene verdeckt und erschöpft in deinen Tintenvorrat legen. Falls nicht, lege sie zurück auf dein Deck.",
+  "card_identifier": "67/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=2e32a640221d2c9d90e41320932721e14b364d03d678c70a2f1c03cdfc44c613"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=f35049d6e3c56570043e521760a03f47c8e1cf2b9c4b83db0129818dd55f0c38"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ae82c53b532db2706176f5c2e21ebe310b3ae4633c69f397d53868397ada924d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

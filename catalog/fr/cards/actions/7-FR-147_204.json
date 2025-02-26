@@ -1,0 +1,33 @@
+{
+  "name": "Nous avons de la visite !",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "43362114455febd0d8b29de9e69a7c4841fd2ec7",
+  "culture_invariant_id": 1580,
+  "sort_number": 1577,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je constate qu’une fois encore la diplomatie a échoué. %—Lyle Tiberius Rourke",
+  "rules_text": "Redressez tous vos personnages. Ils gagnent Combattant pour le reste de ce tour. (Ils ne peuvent pas être envoyés à l'aventure et doivent défier s'il le peuvent.)",
+  "card_identifier": "147/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=5f6f54a6de6a9e1ab4427633a0613736c0ac9f8b460e59639424bcadfac160b7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=3bf4e49e9dc0a37ee5f97ebd1dcbfec9cace2b5f9beb484a477ee44c6eb4196d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=549d29fbc5412ca11f8a3be273a4139124c8bd41b8d6053ca949fe3438df8d57",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

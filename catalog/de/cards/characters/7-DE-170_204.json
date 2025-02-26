@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Auge fürs Detail",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a4d8629141486ff391420a5a92cc523b1bdfc285",
+  "culture_invariant_id": 1603,
+  "sort_number": 1600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Es gibt viele Legenden und Geschichten über Robin Hood. Jede ist anders.%–Allan von Dale",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "170/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=505278eea1c23377f85b0a9fb561bf754a8b39f10b3e496104c3078bcfdf98bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=f616381579c05e5ced08f747861323891efca80564210f4d8cf5812a7872ff3e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=243888421f6e62100c4739da32d0ab0796a64b425204491350729d14e0cab6ac",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Jared Mathews",
   "deck_building_id": "dc42755db5ece09465c9e80da08501b1ee99e7d1",
   "culture_invariant_id": 806,
-  "sort_number": 816,
+  "sort_number": 815,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=410f67927b67da377958f7a1a6857f6237e513118a0962f537ae337758df338b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=410f67927b67da377958f7a1a6857f6237e513118a0962f537ae337758df338b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=13407450aadf1a6525409cec39602d42882a45d61cacde14db8a584825050a41"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=13407450aadf1a6525409cec39602d42882a45d61cacde14db8a584825050a41"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=0f53c107f1bebf100c8ed2d835a4114ae2699d072b8be5965f9309de26336117",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=0f53c107f1bebf100c8ed2d835a4114ae2699d072b8be5965f9309de26336117",
   "card_sets": [
     4,
     8

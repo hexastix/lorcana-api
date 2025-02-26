@@ -1,0 +1,43 @@
+{
+  "name": "Maleficent",
+  "subtitle": "Monstrous Dragon",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 9,
+  "author": "Luis Huerta",
+  "deck_building_id": "a3c5b9ffeb759ea92fe07213aadc27902cf0ddbf",
+  "culture_invariant_id": 663,
+  "sort_number": 228,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Dragon"
+  ],
+  "flavor_text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
+  "rules_text": "DRAGON FIRE When you play this character, you may banish chosen character.",
+  "card_identifier": "1TFC EN 5/P1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=f7c522957add24e8f4b14ff1e5ec803789a256a8410706be8c44cb400b041b35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=eef98b021f1393850ab278059d112eb8cac07d0ecb32f74f8b6f8edc0363e369"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=970eeaa693e292eab35caf6b074b0a69d1e8beb7993c3d2494640f86733a43b0",
+  "special_rarity_id": 2,
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

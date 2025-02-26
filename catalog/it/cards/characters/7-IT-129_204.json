@@ -1,0 +1,40 @@
+{
+  "name": "Carte Soldato",
+  "subtitle": "Truppe Reali",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "dcb1ec98a56ada4be8acd345b0b77737465de130",
+  "culture_invariant_id": 1562,
+  "sort_number": 1559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Il Tre di Cuori alzò la lancia e sussurrò tra sé e sé: Mentre gli altri cadono, un soldato della Regina resta in piedi.",
+  "rules_text": "PRENDERE IL COMANDO Mentre un personaggio danneggiato è in gioco, questo personaggio riceve +2.",
+  "card_identifier": "129/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=a0ba74aba6ae1f29eaa66ed8a349cade615718c67be207a63fc614652fc34cd7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=00ed35066e626d276e4609dfcdd2eb08e834afd4138f93665df14724e020618a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=58e6ef3c712df3eb1bcf268379a94fa57ca2b4629f70af49b071fcd030013bec",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

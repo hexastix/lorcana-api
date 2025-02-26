@@ -9,7 +9,7 @@
   "author": "Dinulescu Alexandru",
   "deck_building_id": "e32abffa68664089a138943286790c91aa3b29ed",
   "culture_invariant_id": 1065,
-  "sort_number": 1074,
+  "sort_number": 1073,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=e304dddec06c0d1ddbbfdf909e52c33a20cfa585e5fd852f40d9ea79a065f454"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=e304dddec06c0d1ddbbfdf909e52c33a20cfa585e5fd852f40d9ea79a065f454"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=337520e2aa4afdda62047137b189f7ab583d6b226addfeb2e5b7f44e6c411464"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=337520e2aa4afdda62047137b189f7ab583d6b226addfeb2e5b7f44e6c411464"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c9e0f3182d2472ece3423d0299530be8497fdbd77860b9023a7d100e812e981f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c9e0f3182d2472ece3423d0299530be8497fdbd77860b9023a7d100e812e981f",
   "card_sets": [
     5
   ],

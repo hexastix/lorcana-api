@@ -1,0 +1,41 @@
+{
+  "name": "Strolch",
+  "subtitle": "Schlauer Hund",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "1e70debf71c03c6a1973a11689057dde2fe76b95",
+  "culture_invariant_id": 1443,
+  "sort_number": 1440,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "JETZT IST ES EINE PARTY Für jeden deiner Charaktere im Spiel zahlst du 1 weniger, um diesen Charakter auszuspielen. WIEDER AM TURTELN? Wenn du diesen Charakter ausspielst, darfst du für jeden deiner anderen Charaktere im Spiel eine Karte ziehen. Wähle danach dieselbe Anzahl Karten aus deiner Hand und wirf sie ab.",
+  "card_identifier": "10/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=f2075409ae0260785bc0681cb4b7744d1e997ca2d662710f800974fa1f0103c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=7ad7c4d15353760fcebf47b4afd7667ed84dabdce281e587bd3d920cf5b5430a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=3fdf9a8901c5104dce3070ff68924f3f0827c2f064a3db2c810f86887c073053",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

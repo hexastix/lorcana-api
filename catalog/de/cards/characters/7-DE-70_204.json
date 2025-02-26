@@ -1,0 +1,42 @@
+{
+  "name": "Kenai",
+  "subtitle": "Magischer Bär",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "7696e481f25492ef90ec0b0ac819144fbe6fcffa",
+  "culture_invariant_id": 1503,
+  "sort_number": 1500,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.) DIE WEISHEIT SEINER GESCHICHTE Wenn dieser Charakter in deinem Zug durch eine Herausforderung verbannt wird, nimm ihn zurück auf deine Hand und sammle 1 Legende.",
+  "card_identifier": "70/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=e3800a6201a1ec2d18f2e4e16cb47340da9aef2e33d195149095af5278a23bc1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=58095fae705d920815653a9fcf85f0367d522d06cff14af8ace964442c2fd95b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=0eccc51f877f2c7a46594136e1b785d5007354cca4b79b9b55e923c80a757ad8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

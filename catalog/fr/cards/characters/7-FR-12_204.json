@@ -1,0 +1,46 @@
+{
+  "name": "Wendy Darling",
+  "subtitle": "Reine Pirate",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "da2e6704efe9fa9440082d5430d64696d469d7e2",
+  "culture_invariant_id": 1445,
+  "sort_number": 1442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Reine",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) NE RACONTE PAS D'HISTOIRES Chaque fois que l'un de vos autres personnages est banni, vous pouvez choisir un personnage et lui retirer tous ses dommages.",
+  "card_identifier": "12/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=c9ac910354cb0a9feed661d0776f5f5559979f01bd6bfb5a4ea281d73efd9853"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=09b83fd20cae3ca24fc18c9a630e792d7144140d4e74fc455c8d4a0092620c6c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=3833cc4c4596b79842933f8865d95f3f2ad990e5482c4c025f4eb3ae76992c74",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

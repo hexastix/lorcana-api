@@ -9,7 +9,7 @@
   "author": "Anderson Mahanski",
   "deck_building_id": "402556072df095be47408c9b2240053e919333e0",
   "culture_invariant_id": 782,
-  "sort_number": 792,
+  "sort_number": 791,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=ba2f5320e518464d039828cfbfba3cd6c70ca74ff783bc6c5ceed2ee96fb7a33"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=ba2f5320e518464d039828cfbfba3cd6c70ca74ff783bc6c5ceed2ee96fb7a33"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=3c163340937065424b840b08fe723943cc2bee89dfdedc5450cef53bff0db39c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=3c163340937065424b840b08fe723943cc2bee89dfdedc5450cef53bff0db39c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=981075848939d7d86d60e9b765e040d7181cbac7d1598466f3eef461b7d5c6ff",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=981075848939d7d86d60e9b765e040d7181cbac7d1598466f3eef461b7d5c6ff",
   "card_sets": [
     4
   ],

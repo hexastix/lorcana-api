@@ -1,0 +1,41 @@
+{
+  "name": "Basil",
+  "subtitle": "Informateur secret",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "4db0a324dcb5d1ff69156dfa4c107253863062c3",
+  "culture_invariant_id": 1526,
+  "sort_number": 1523,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Détective"
+  ],
+  "flavor_text": "La dernière partie de la couronne! Jafar sera content.",
+  "rules_text": "LES APPÂTER Lorsque ce personnage est envoyé à l'aventure, les personnages adverses avec au moins un dommage gagnent Combattant durant leur prochain tour. (Ils ne peuvent pas être envoyés à l'aventure et doivent défier s'il le peuvent.)",
+  "card_identifier": "93/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=afb87a3132fb6892b3cf65353a5ad7293944ee8791afbfe978a4aa07d8474ba8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=f516c78bef954365b70d82defc731dc18a1d8d52065dd5ed2af129e9bb2a5b10"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=b2fe7203e90a68b098c52e2f6e5f1a5740035f4ea0692c3d74e05ac4ec944de0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

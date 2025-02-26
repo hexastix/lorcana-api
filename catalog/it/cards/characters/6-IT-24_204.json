@@ -9,7 +9,7 @@
   "author": "Amanda Duarte / Julio Cesar",
   "deck_building_id": "2b218e9fef97146992d8ada33a9b4abcc9bc1c1b",
   "culture_invariant_id": 1223,
-  "sort_number": 1222,
+  "sort_number": 1221,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=5fe7aead309ffead42f1fc75bcafa57501db05a47c229e1f346f2e1410f1bdb9"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=5fe7aead309ffead42f1fc75bcafa57501db05a47c229e1f346f2e1410f1bdb9"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=40a222c57597df9b49d2346f20973b51af322e805ed48716fad1d3e51f73bb50"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=40a222c57597df9b49d2346f20973b51af322e805ed48716fad1d3e51f73bb50"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=6f06f9ab1336c38e630ab4c4032cb0483b775951ee1ab3fd6b1680884b1b2d82",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=6f06f9ab1336c38e630ab4c4032cb0483b775951ee1ab3fd6b1680884b1b2d82",
   "card_sets": [
     6
   ],

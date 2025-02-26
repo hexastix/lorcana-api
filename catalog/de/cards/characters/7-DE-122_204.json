@@ -1,0 +1,41 @@
+{
+  "name": "Die Herzkönigin",
+  "subtitle": "Fassungslos",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Antoine Couttolenc / Samanta Erdini",
+  "deck_building_id": "88fa1eead948d44f2664e3321bf492777618b145",
+  "culture_invariant_id": 1555,
+  "sort_number": 1552,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Königin"
+  ],
+  "flavor_text": "Irgendetwas sagte den Luminari, dass sie genug von den Hindernissen hatte.",
+  "rules_text": "KÖNIGLICHER SCHMERZ Solange dieser Charakter beschädigt ist, erhält er +3.",
+  "card_identifier": "122/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=bc882688fa98d308059ecf9a662c535f8e6ae40e5fba577b5468f063cfef2de1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=57ee7e43b375a137e3a11d153ecf76658aa5ea8943b3270b53be7f26d0302641"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=97ddbe7acc95d07d1462ee926f083dd3b662638fa6b77aaea31cb0eb0b7a4f03",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

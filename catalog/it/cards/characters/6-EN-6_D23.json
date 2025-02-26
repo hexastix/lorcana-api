@@ -9,7 +9,7 @@
   "author": "Tom Bancroft",
   "deck_building_id": "6b871e4973f6b230175cf0b121338b49c07804fe",
   "culture_invariant_id": 1422,
-  "sort_number": 1428,
+  "sort_number": 1429,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=de0439bf9f5b0c6c86fefa441484d63a37a51bd70b651071b710ce3800ef5df1"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=de0439bf9f5b0c6c86fefa441484d63a37a51bd70b651071b710ce3800ef5df1"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=864701af33b39c580c8e7c9ff675eb1d48319401c9550c659688ab1b0e0cb9ae"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=864701af33b39c580c8e7c9ff675eb1d48319401c9550c659688ab1b0e0cb9ae"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/4/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=b30150cc2798dd46a18cd6d1d050cd4186668c2024644f0ee4fbbc7e54b41e9a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=b30150cc2798dd46a18cd6d1d050cd4186668c2024644f0ee4fbbc7e54b41e9a",
   "special_rarity_id": 2,
   "foil_type": "FreeForm",
   "card_sets": [
@@ -38,5 +38,8 @@
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "D23"
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "name": "Denahi",
+  "subtitle": "Impatient Hunter",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "203ba2afbe930769d683d5bcc2b361b27d68c85a",
+  "culture_invariant_id": 1557,
+  "sort_number": 1554,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Reckless",
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "There's no time. We have to act now!",
+  "rules_text": "Reckless (This character can't quest and must challenge each turn if able.) Resist +2 (Damage dealt to this character is reduced by 2.)",
+  "card_identifier": "124/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=294de31d346ded4829123f6273f1d35f61a5d2d11d56e4bab2fcfc0dfef0827c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=6a15b546b91bc066c18dab4bb9a36a0caedbcaab3d05ee7dedc0dfc00cd995ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=df6ced53ff0b71becb9b9d6634ff48a549c49bc29aa745b58c094a675958389a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

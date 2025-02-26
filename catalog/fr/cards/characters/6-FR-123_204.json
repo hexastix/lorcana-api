@@ -9,7 +9,7 @@
   "author": "Kenneth Anderson",
   "deck_building_id": "c2cae8618c5864d48ef0976fe51bceeccce58b3f",
   "culture_invariant_id": 1322,
-  "sort_number": 1321,
+  "sort_number": 1320,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=8614a8199266b343c5cd401b5f220b866faf851b4071bf787f35aafaee692518"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=8614a8199266b343c5cd401b5f220b866faf851b4071bf787f35aafaee692518"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c590112dcc956b4db8f4b41aa227a3123937a0b30bd13fab19700cf4c483b542"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c590112dcc956b4db8f4b41aa227a3123937a0b30bd13fab19700cf4c483b542"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
   "card_sets": [
     6
   ],

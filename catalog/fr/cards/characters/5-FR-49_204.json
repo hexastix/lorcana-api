@@ -9,7 +9,7 @@
   "author": "Brian Kesinger",
   "deck_building_id": "c3a3e22a3dc8e185181d63b0572644983c11e23a",
   "culture_invariant_id": 1005,
-  "sort_number": 1014,
+  "sort_number": 1013,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,16 +23,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=b4d9b0ffef359c0eeb5891011854bbd09298654523b43ef0de82978a825f10b8"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=b4d9b0ffef359c0eeb5891011854bbd09298654523b43ef0de82978a825f10b8"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=a3bc3dd27c6a9c26b48ab5060159f8ccf70fe0e40207c15d554691c350871625"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=a3bc3dd27c6a9c26b48ab5060159f8ccf70fe0e40207c15d554691c350871625"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=2f0b15961015df50252b4ea6deceaafaa8030a19457712b16b6e9ddaecf4416f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=2f0b15961015df50252b4ea6deceaafaa8030a19457712b16b6e9ddaecf4416f",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=e6a3e4f9a5669d485fd163543fdbb35199fef03042c26e6801e5dab966db6aa8",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/gloss/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=e6a3e4f9a5669d485fd163543fdbb35199fef03042c26e6801e5dab966db6aa8",
   "card_sets": [
     5
   ],

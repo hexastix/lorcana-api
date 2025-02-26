@@ -1,0 +1,42 @@
+{
+  "name": "Elsa",
+  "subtitle": "Sorella Fidata",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "7d3e568c2cd7e015fe10f8fd4df6d76439d11d52",
+  "culture_invariant_id": 1488,
+  "sort_number": 1485,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "È della paura che non ci si può fidare.",
+  "rules_text": "COSA FACCIAMO ORA? Ogni volta che questo personaggio va all'avventura, se hai in gioco un personaggio chiamato Anna, ottieni 1 leggenda.",
+  "card_identifier": "55/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=80d8b6323e65336ff9f77c76d097eff51e61382c3dc53e47397c534d0c4a0e3e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=8e4671f4690fb4b3dcc6b6ddb63ad525d73aa482e325fd4aefeecbb0eb3a568e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=83be40c2fc1ca71d86c495b02ce5878b002a8845b6d5e5ebc6fedeaa866d70c7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

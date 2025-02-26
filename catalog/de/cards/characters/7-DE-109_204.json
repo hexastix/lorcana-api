@@ -1,0 +1,46 @@
+{
+  "name": "John Silver",
+  "subtitle": "Rachsüchtiger Pirat",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "dc584065fcb4cd49d186951d0d6d794fd2de71a4",
+  "culture_invariant_id": 1542,
+  "sort_number": 1539,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Alien",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "ZUM KAMPF HINGEZOGEN Falls ein gegnerischer Charakter in diesem Zug Schaden erhalten hat, zahlst du 2 weniger, um diesen Charakter auszuspielen. Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) ICH BIN NICHT WEICH GEWORDEN! Jedes Mal, wenn du eine Aktion ausspielst, die kein Lied ist, darfst du einem Charakter deiner Wahl 1 Schaden zufügen.",
+  "card_identifier": "109/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=5c12a6f8649d01ba423767ab34d6ef11ea965d187018a6bfb8ecea592eee9b55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=b1cdcd46f2b0ac68ef1311f303ec797101b28e52109aa1a404866b67d38256ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c6b5bfa6ee02b81593114af0114fc788f286482218e4e917dce909ffc215d1f1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

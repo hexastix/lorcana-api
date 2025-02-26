@@ -9,7 +9,7 @@
   "author": "Kiersten Hale",
   "deck_building_id": "6ba38008e226dd2b1f7f7d339eda6aa832fd6eb3",
   "culture_invariant_id": 252,
-  "sort_number": 276,
+  "sort_number": 275,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e1ae0ef2ab7462b61f07bea07764d153419a4ace7a4e974902228d6ea3801180"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=e1ae0ef2ab7462b61f07bea07764d153419a4ace7a4e974902228d6ea3801180"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=8250c72bde87b087e9bb46a45117e4e76d988f048a70898457a672347551bfd3"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=8250c72bde87b087e9bb46a45117e4e76d988f048a70898457a672347551bfd3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=43a162008b96a30e2c2010d9b8f9bf4c0a31b4ccc5e34a4031cca8165ceca4d7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=43a162008b96a30e2c2010d9b8f9bf4c0a31b4ccc5e34a4031cca8165ceca4d7",
   "card_sets": [
     2
   ],

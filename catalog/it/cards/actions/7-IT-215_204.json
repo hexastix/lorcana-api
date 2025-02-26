@@ -1,0 +1,34 @@
+{
+  "name": "Il Ritorno di Ercole",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Brie Schmida",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1648,
+  "sort_number": 1645,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Ogni giocatore può rivelare una carta personaggio dalla sua mano e giocarla gratis.",
+  "card_identifier": "215/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=7922a55a2001331185482a84c6dd74fe6913931a865d7e42eb289670f7ae9f6c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=bbb294ffe97a97fbe7161fdbf74236bef18732dde8b72316fd19fd72f729e889"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=ddf564d8f9ed4cad328fc69c4b93abe96a1227a7359ceb89aa8486330b0d0404",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

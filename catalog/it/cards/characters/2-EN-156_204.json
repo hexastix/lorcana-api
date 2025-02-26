@@ -9,7 +9,7 @@
   "author": "Agnes Christianson",
   "deck_building_id": "dfe6a38e469b63500f416689faee62ce3f319149",
   "culture_invariant_id": 372,
-  "sort_number": 396,
+  "sort_number": 395,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=40b91fe235a277623ce48db8496fe99b4ef37ba16ab96ce749f4317deff06c5f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=40b91fe235a277623ce48db8496fe99b4ef37ba16ab96ce749f4317deff06c5f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=89655b7ddeff13357d1a08c669aab8d8281d3ce5fb540e13720ae09b3e26bfdb"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=89655b7ddeff13357d1a08c669aab8d8281d3ce5fb540e13720ae09b3e26bfdb"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=cc3afbf61d8db4c170ebe1e80f3d17edfe8ad81dee9b4c1e969f6560c935f7aa",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=cc3afbf61d8db4c170ebe1e80f3d17edfe8ad81dee9b4c1e969f6560c935f7aa",
   "card_sets": [
     2
   ],

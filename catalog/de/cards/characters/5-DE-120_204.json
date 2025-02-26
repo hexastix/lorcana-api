@@ -9,7 +9,7 @@
   "author": "Gaku Kumatori",
   "deck_building_id": "b6741a8152956d298a7d5f702a9358f9e22b07d4",
   "culture_invariant_id": 1076,
-  "sort_number": 1085,
+  "sort_number": 1084,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=36484610f79672c51c290356dddfd677527e476e6c1eb6dcc846289bbada6737"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=36484610f79672c51c290356dddfd677527e476e6c1eb6dcc846289bbada6737"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=54c64d5e5a6c67880a41c4c57b41d11791251a22faa86d55c296e142b72ce662"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=54c64d5e5a6c67880a41c4c57b41d11791251a22faa86d55c296e142b72ce662"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=97772ec3c2b4eb7c1376fa2a87aae51cfdb25ccac889936493f6bbab55ee2107",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=97772ec3c2b4eb7c1376fa2a87aae51cfdb25ccac889936493f6bbab55ee2107",
   "card_sets": [
     5
   ],

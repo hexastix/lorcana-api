@@ -5,7 +5,7 @@
   "author": "Kapik",
   "deck_building_id": "1db87a0f3feb2b0a4a3818b87f46013e9c354cd8",
   "culture_invariant_id": 1232,
-  "sort_number": 1231,
+  "sort_number": 1230,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=44029cffdf284a99272190699f60da3ada9b51eeab6520c3da13a2cdd4c96ff1"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=44029cffdf284a99272190699f60da3ada9b51eeab6520c3da13a2cdd4c96ff1"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=277e04246ae8aae0840130230cea3e54dcdb13ffafa154792931b57980e58942"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=277e04246ae8aae0840130230cea3e54dcdb13ffafa154792931b57980e58942"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=b2389c6cf6f9764f01d8f01772a9644d21b3e0fa418e59ea503c01f7fce74213",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=b2389c6cf6f9764f01d8f01772a9644d21b3e0fa418e59ea503c01f7fce74213",
   "card_sets": [
     6
   ],

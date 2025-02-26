@@ -1,0 +1,40 @@
+{
+  "name": "Ralph la Casse",
+  "subtitle": "Hero's Duty",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "dec60147f5f6f17659c25d3d2ec4a24dd5c2d35d",
+  "culture_invariant_id": 1460,
+  "sort_number": 1457,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Et la médaille, elle est pour moi !",
+  "rules_text": "CONTOURNEMENT Durant votre tour, chaque fois que l'un de vos autres personnages est banni, ce personnage-ci gagne +1 pour le reste de ce tour.",
+  "card_identifier": "27/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=c01f25e844f41d740421959a6362708afe93e9636c9eca954d9fbf9ee98f3195"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=cf7a874a2be41a2f08840a3465aba77430081669e144682ba5122b5694677b83"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=75f74d8054b732c075caa29aa33a75bdba11bb61bdd127090ab13713b7e488e1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

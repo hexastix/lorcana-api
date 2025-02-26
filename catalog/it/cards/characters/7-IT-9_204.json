@@ -1,0 +1,42 @@
+{
+  "name": "Mittens",
+  "subtitle": "Insolente Gatta di Strada",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "3560af4d94b66ca33fed2fa534f5c8ee97513428",
+  "culture_invariant_id": 1442,
+  "sort_number": 1439,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) NON SERVE RINGRAZIARE Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, i tuoi altri personaggi con Guardiano ricevono +1 per questo turno.",
+  "card_identifier": "9/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=f908de4d3541e9b473f91aca6053366f1d1ffca56b39ff9ee8966776543c6240"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=fb8c35f443a32cd4b4c94aa47e4b1502a1d621dac1664466328a95742c2da57b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=a48b8066a58c81cbc997cdc1cf26c34377928052ab635f9ade6c3081b5ba9fd1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

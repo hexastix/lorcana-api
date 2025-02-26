@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Musicalement talentueuse",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "e4e34e724a44eb13af101f51552399722b885dba",
+  "culture_invariant_id": 1639,
+  "sort_number": 1636,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Mirabel Madrigal.) SON PROPRE POUVOIR Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez renvoyer une carte Chanson coûtant 3 ou moins de votre défausse dans votre main.",
+  "card_identifier": "206/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=b5ad187488a8f760f1eaf7a4d373bc7b120f98f709164ad3a0629f03a4841698"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=c3f062c21008a3103e2262e654546cfd7cbd50887ec3ec1e3e0ba620243771f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=006c954ec08c85a90ae90bec6caed090647963aab4eefcd0618a9edb8eaa9835",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

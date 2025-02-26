@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Sognatrice Speranzosa",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "adf0136e1ec25cf120f49b7a4e1d31f8560793a7",
+  "culture_invariant_id": 1446,
+  "sort_number": 1443,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Melodioso",
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Madrigal"
+  ],
+  "flavor_text": "Famiglia stupenda, in cui sono anche io, perciò...",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) Melodioso 5 (Questo personaggio conta come di costo 5 per cantare le canzoni.)",
+  "card_identifier": "13/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=4c3bb15a7626bf724baf30c35f5f9d7d0eea0a99523badeb831f3f831046781e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=c5210f5352e9b1f306f2bc5673c941c049ce4e5436bd4bb74f788fe0ff13916b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=cf91c481933992e546d271215b24f8a1bcd790081d5ea5950cb54ec14f732943",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

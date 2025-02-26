@@ -9,7 +9,7 @@
   "author": "Adam Fenton",
   "deck_building_id": "21266db7b36d71ffdf1724077c586bfa8a5b870e",
   "culture_invariant_id": 330,
-  "sort_number": 354,
+  "sort_number": 353,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=9690f043d76ea65c57c9bf6e1ab5801d1ef02f14be6745ff8d1c2b4e1e90f0c0"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=9690f043d76ea65c57c9bf6e1ab5801d1ef02f14be6745ff8d1c2b4e1e90f0c0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=929a3ea442201a8f43275a9e99746bb5751eed351053f7cfebed3627b0af24f8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=929a3ea442201a8f43275a9e99746bb5751eed351053f7cfebed3627b0af24f8"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=634c8dff2ea605acbacd556ff4b8e657ba591583546c04b1b34fef20ed9e82e2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=634c8dff2ea605acbacd556ff4b8e657ba591583546c04b1b34fef20ed9e82e2",
   "card_sets": [
     2,
     9

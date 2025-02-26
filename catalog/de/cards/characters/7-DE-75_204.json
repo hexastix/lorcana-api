@@ -1,0 +1,40 @@
+{
+  "name": "Schwefel",
+  "subtitle": "Nervöser Wicht",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Arianna Rea",
+  "deck_building_id": "29e6560843c19488f858e257358e01b036237875",
+  "culture_invariant_id": 1508,
+  "sort_number": 1505,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Was der Boss nicht weiß, wird uns nicht schaden. Jedenfalls nicht viel. Hoffe ich.",
+  "rules_text": "ERSCHROCKENER SCHREI Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "75/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=4a2ae0e0c31a5872efbf4923419596da6e6ddb94656078ccb197734dc133df40"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=99681f85415d19ee9f4c836272135fea5936c4a013725a1c355e0a52c56f30d3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=7b7e99eccafd5367f2c3f1486b164e8893b7543ce6a424cb02d78784359b8379",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

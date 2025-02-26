@@ -9,7 +9,7 @@
   "author": "Stefano Spagnuolo",
   "deck_building_id": "7edcac0597ed1f8c60c37804180011de044631fa",
   "culture_invariant_id": 1009,
-  "sort_number": 1018,
+  "sort_number": 1017,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=4f1bcd52f50c014812cc28840f4c6384f4ae1a75b9d3b203b9aa988820d277fd"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=4f1bcd52f50c014812cc28840f4c6384f4ae1a75b9d3b203b9aa988820d277fd"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=47f62f819390928310df2b43e1958b28fe546f34dc1a84f95ac9b53fc18be682"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=47f62f819390928310df2b43e1958b28fe546f34dc1a84f95ac9b53fc18be682"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=ca54d28e49e9cd4b907d6370a26151187a817ccaa21fa2ee489b7d6810661b17",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=ca54d28e49e9cd4b907d6370a26151187a817ccaa21fa2ee489b7d6810661b17",
   "card_sets": [
     5
   ],

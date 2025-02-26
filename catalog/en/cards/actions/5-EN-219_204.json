@@ -5,7 +5,7 @@
   "author": "Jennifer Wu",
   "deck_building_id": "211fa6f2c714f9c7c38c603759096a5a87b2f7c3",
   "culture_invariant_id": 1175,
-  "sort_number": 1184,
+  "sort_number": 1183,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=a4eccb548e0f9ad0b718fa71322434aed3af8ca07b7e791c5cce0c564bd5418c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=a4eccb548e0f9ad0b718fa71322434aed3af8ca07b7e791c5cce0c564bd5418c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=04e9ec997b0830f1e4080d62f85a540a01f59cd73a5d6fddc8dfad7b04007ce3"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=04e9ec997b0830f1e4080d62f85a540a01f59cd73a5d6fddc8dfad7b04007ce3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=362e54631f6b38b142997b1b727cad2106a323bce7d3496057c0ea9d7f99ae6a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=362e54631f6b38b142997b1b727cad2106a323bce7d3496057c0ea9d7f99ae6a",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

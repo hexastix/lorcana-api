@@ -9,7 +9,7 @@
   "author": "Natalie Dombois",
   "deck_building_id": "b38a4856ba9e1a52fe3f980304c83bf8c74f7a15",
   "culture_invariant_id": 1167,
-  "sort_number": 1176,
+  "sort_number": 1175,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=74f2cca0637ce0795982828b13c4704445fe5232ec167f874ca458ec245c9999"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=74f2cca0637ce0795982828b13c4704445fe5232ec167f874ca458ec245c9999"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=459908a5b8ed6aaa490346570eef476c4000137a1a593babf8fb6ccbca67f982"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=459908a5b8ed6aaa490346570eef476c4000137a1a593babf8fb6ccbca67f982"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=eccadfbfa04bdcc030dc0a8feab886f789869d85f616ff698c57023b0323c830",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=eccadfbfa04bdcc030dc0a8feab886f789869d85f616ff698c57023b0323c830",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

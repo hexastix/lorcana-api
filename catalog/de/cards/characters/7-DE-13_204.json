@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Hoffnungsvolle Träumerin",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "adf0136e1ec25cf120f49b7a4e1d31f8560793a7",
+  "culture_invariant_id": 1446,
+  "sort_number": 1443,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Madrigal"
+  ],
+  "flavor_text": "Meine Familie ist wunderbar und dazu gehör nun mal auch ich …",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) Singen 5 (Die Kosten dieses Charakters gelten als 5 für das Singen von Liedern.)",
+  "card_identifier": "13/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=969abfa516b23ead7161af090daec1f78d85b79980ba5c9cff1b1ad05c298b16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=96cabf34b37db663bb3fdddd163ffdac278848a7a75253a61425502c4075cf8b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=721ec7125c2237bf5edb8c27066ebabb9a5708cb629dd04d53ca7caba727c564",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

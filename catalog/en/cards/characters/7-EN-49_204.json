@@ -1,0 +1,44 @@
+{
+  "name": "Iago",
+  "subtitle": "Giant Spectral Parrot",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "92a28806ab3fe41ff2c28195914ec78416311980",
+  "culture_invariant_id": 1482,
+  "sort_number": 1479,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) Vanish (When an opponent chooses this character for an action, banish them.)",
+  "card_identifier": "49/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=19a4d4b75ffe17d40f5f2c30c98ed9de9dc0d64ad84b8eba4bf704d260f5648d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=60d6587b5996bf0c39a196fa571801f2243b4a3b19c6fbcf150c5002c36b3be2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=5be5014946f66cacf38842de3eb874a02bb1bddd919b10066e1cb5590dad1bc4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Nicola Saviori / Raquel Villanueva",
   "deck_building_id": "1c21022c9fe68d3bc59e89fd423ebca777a22505",
   "culture_invariant_id": 471,
-  "sort_number": 506,
+  "sort_number": 505,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=2fd7d58754eeaad1890c87e81f5fc9c0fde4cb3278240bcc707d883e7d8568e6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=2fd7d58754eeaad1890c87e81f5fc9c0fde4cb3278240bcc707d883e7d8568e6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=09927197bc6c9d57006dbe7224804d35e3c5744adcbaaa7ca7aeb6696318c453"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=09927197bc6c9d57006dbe7224804d35e3c5744adcbaaa7ca7aeb6696318c453"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=1183e47d09d1a712d3c9d13f4cf333a55aabb8e29a94bb6df63434cc2688098f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=1183e47d09d1a712d3c9d13f4cf333a55aabb8e29a94bb6df63434cc2688098f",
   "card_sets": [
     3
   ],

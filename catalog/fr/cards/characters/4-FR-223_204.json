@@ -1,6 +1,6 @@
 {
   "name": "Yen Sid",
-  "subtitle": "Puissant Sorcier",
+  "subtitle": "Puissant sorcier",
   "strength": 1,
   "willpower": 3,
   "quest_value": 1,
@@ -9,7 +9,7 @@
   "author": "Matthew Robert Davies",
   "deck_building_id": "1aa8732475a085d134487bd92f161c07bcdcbb3e",
   "culture_invariant_id": 946,
-  "sort_number": 924,
+  "sort_number": 923,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -19,19 +19,19 @@
     "Mage"
   ],
   "flavor_text": "",
-  "rules_text": "INTERVENTION OPPORTUNE Si vous avez un personnage Balais Magiques en jeu lorsque vous jouez ce personnage, vous pouvez piocher une carte. ÉTUDE ARCANIQUE Tant que vous avez au moins 2 personnages Balai en jeu, ce personnage gagne +2.",
+  "rules_text": "INTERVENTION OPPORTUNE Lorsque vous jouez ce personnage, si vous avez un personnage Balais magiques en jeu, vous pouvez piocher une carte. ÉTUDE ARCANIQUE Tant que vous avez 2 personnages Balai ou plus en jeu, ce personnage gagne +2.",
   "card_identifier": "223/204 FR 4",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=5d72b92eaf921ee38c63c2c58099d40c96a7de174f0e09b8ffea5e5c61843028"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=5d72b92eaf921ee38c63c2c58099d40c96a7de174f0e09b8ffea5e5c61843028"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=eb4f50fca64b0e5ca9ac46def58da9319bbdebe0ac706f4e105070cb97de39eb"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=eb4f50fca64b0e5ca9ac46def58da9319bbdebe0ac706f4e105070cb97de39eb"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=f3c0d38e7083a085bed4b8f21bcf2718fd1cf60edb54424fd5691826036371e1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=f3c0d38e7083a085bed4b8f21bcf2718fd1cf60edb54424fd5691826036371e1",
   "foil_type": "Silver",
   "card_sets": [
     4,

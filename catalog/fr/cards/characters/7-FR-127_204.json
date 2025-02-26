@@ -1,0 +1,39 @@
+{
+  "name": "Cybug",
+  "subtitle": "Ennemi invasif",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "d03d06aac96130ef91033f5aba0d28d7ade58cdc",
+  "culture_invariant_id": 1560,
+  "sort_number": 1557,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Les Cybugs sont comme des virus. Ils ne savent pas qu’ils sont dans un jeu. %—Calhoun",
+  "rules_text": "ESPRIT DE RUCHE Ce personnage gagne +1 pour chaque autre personnage que vous avez en jeu.",
+  "card_identifier": "127/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=dd43861a45ad4a1b7b6e64b017fe30828d27401c8365163d449cb2732eb45be9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=b18290c3ff8115a814d35cd200d0838b9bf5fa63179e811d275affb528877c5f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=43daca7239dc3805609c061174f4cd178d8f966432c17853289a583f9ac9100e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

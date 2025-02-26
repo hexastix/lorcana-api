@@ -1,0 +1,42 @@
+{
+  "name": "Madre Gothel",
+  "subtitle": "Strega Vanesia",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3e9f98f1d7977ded6fef0a7befc7211878539f95",
+  "culture_invariant_id": 1497,
+  "sort_number": 1494,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "ORA MI HAI FATTO ARRABBIARE Ogni volta che uno dei tuoi personaggi sfida, puoi spostare 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "64/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=59ec588464165d27755c11a1fb9c5d461ee10c33fb8c0566696e53e256e36b26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=13b319cf09bce67d8358785f77c806b9598d22bfc2a1118caee0cafa61ce4cba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=7554649abab9d9fe630e0fdc0f7e749cc69396250f3f38f279071eedd349c33b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

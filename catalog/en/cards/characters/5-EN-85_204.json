@@ -9,7 +9,7 @@
   "author": "Dylan Bonner / Celeste Jamneck",
   "deck_building_id": "ccc44e0dfdc4c493db2af13ca258445a6e8d8e7b",
   "culture_invariant_id": 1041,
-  "sort_number": 1050,
+  "sort_number": 1049,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,16 +24,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=34ac4f6d84ff8070bc4af568e99845f1a7a80ed8e3e5cc9064c0f50f50f4fe7c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=34ac4f6d84ff8070bc4af568e99845f1a7a80ed8e3e5cc9064c0f50f50f4fe7c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=ee30b8ffaae1f2bd10d53ade6f3f7a67ebdd07b1ef59ee8aa49bdfc33cfad5d3"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=ee30b8ffaae1f2bd10d53ade6f3f7a67ebdd07b1ef59ee8aa49bdfc33cfad5d3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=3f46605d83d59b41d2b2737a38b20dca2ed18c4b7083f8c284bcc8db5531bdc4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=3f46605d83d59b41d2b2737a38b20dca2ed18c4b7083f8c284bcc8db5531bdc4",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/gloss/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=b195395e888bcee8ac6d21ea6a0d13ab04e1423f8453bd1d4498b1f104a6e266",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/gloss/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=b195395e888bcee8ac6d21ea6a0d13ab04e1423f8453bd1d4498b1f104a6e266",
   "card_sets": [
     5
   ],

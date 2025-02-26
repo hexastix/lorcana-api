@@ -1,0 +1,44 @@
+{
+  "name": "Fulmine",
+  "subtitle": "Cane Prodigio",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Max Grecke",
+  "deck_building_id": "9ff1e3265aaa35ad585e9111ab61f6c0c7b2db71",
+  "culture_invariant_id": 1456,
+  "sort_number": 1453,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione Cucciolo 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi Cucciolo.) Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "23/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=0124d9ab07f19f95d288f0bd8b7403e1833435806a6f4faabbefb8693d18de78"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=d455af914691ea42128bd7f83a5dec6033144882ee64e7e59bd39644f31c47a3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=e67343e911921b5d2e0749d40f8fb23f1d1f601ef6fd1b665c403ac8af13deaa",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

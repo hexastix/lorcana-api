@@ -9,7 +9,7 @@
   "author": "Kendall Hale",
   "deck_building_id": "f8c32f163faec632f2671c22514b26af31b45646",
   "culture_invariant_id": 872,
-  "sort_number": 882,
+  "sort_number": 881,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=87b134caf2a45cf5de2625922ebcdb98c24fd10429494c25021d9f317fb01596"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=87b134caf2a45cf5de2625922ebcdb98c24fd10429494c25021d9f317fb01596"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=f324a4f778778a0c50a8801dc37aa3cff1c3e30829137a6352fa54211b89004a"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=f324a4f778778a0c50a8801dc37aa3cff1c3e30829137a6352fa54211b89004a"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=484309cf29cc15bc005f3c22199c379eb2d5386222cf26bd1afe6abaf59ba59b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=484309cf29cc15bc005f3c22199c379eb2d5386222cf26bd1afe6abaf59ba59b",
   "card_sets": [
     4
   ],

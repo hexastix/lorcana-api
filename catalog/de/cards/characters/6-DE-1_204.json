@@ -9,7 +9,7 @@
   "author": "Omar Lozano",
   "deck_building_id": "4ab1a2c7f0197a4df9d436fc82d25fb88371a3ec",
   "culture_invariant_id": 1200,
-  "sort_number": 1199,
+  "sort_number": 1198,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d03ada7368dce0576db06eda17f7ca5b47c8ae5349444c8fe75fd5b72a0b92c2"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d03ada7368dce0576db06eda17f7ca5b47c8ae5349444c8fe75fd5b72a0b92c2"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=66b51db2ed97465f96479a5f86598bad9d1aacfe4b9af3c760baf317820d07e5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=66b51db2ed97465f96479a5f86598bad9d1aacfe4b9af3c760baf317820d07e5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
   "card_sets": [
     6
   ],

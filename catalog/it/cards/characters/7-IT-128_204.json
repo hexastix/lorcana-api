@@ -1,0 +1,40 @@
+{
+  "name": "Fratello Stabbington",
+  "subtitle": "Con la Benda",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Saulo Nate",
+  "deck_building_id": "036bf4522b52312d577ea5211b54cebf7979ed09",
+  "culture_invariant_id": 1561,
+  "sort_number": 1558,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Il silenzio è d'oro. E lui adora l'oro.",
+  "rules_text": "L'OCCASIONE FA L'UOMO LADRO Quando giochi questo personaggio, un avversario a tua scelta perde 1 leggenda.",
+  "card_identifier": "128/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=cf359a2dc224be06204de1212182379cc06e41b6f2f5bce86fe94ebfd3dacba9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=36c5d24438c8b142d3364f8c5c0fb3928cf1cf9894e2243252d1696457cfc7a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=967d69ebf90911e5aa0db6d32b13c68a4888318596c70a8cd4658a6c230cfc9f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

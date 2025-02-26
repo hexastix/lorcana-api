@@ -1,0 +1,40 @@
+{
+  "name": "Penny, das Waisenkind",
+  "subtitle": "Kluges Kind",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Otto Paredes",
+  "deck_building_id": "687a88406aa8c1ed46674b0056434598500a6808",
+  "culture_invariant_id": 1604,
+  "sort_number": 1601,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Penny, du musst jetzt nicht mehr weinen. Wir sind hier, um dir zu helfen.%–Miss Bianca",
+  "rules_text": "DIE FLASCHE WAR KLASSE! Solange du mindestens einen Helden im Spiel hast, erhält dieser Charakter Behütet. (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "171/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=83bb39c0abf8b8a01281b973afd2ad2d2adbb2c3742e6570dd2e233eac45dc80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=b502d1368a83eed8d334c12822c09321fee8aef4895fa8bf5eb138d5fc116b66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=da9233b5c834f8d46d0813bdabe1750774b4cd6eae6c7278d1a2f4c64359200b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

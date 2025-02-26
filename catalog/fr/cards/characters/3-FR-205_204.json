@@ -9,7 +9,7 @@
   "author": "Thomas Brissot",
   "deck_building_id": "61a80f2f88c8834ee4e9f7ab5c36239495197b09",
   "culture_invariant_id": 641,
-  "sort_number": 676,
+  "sort_number": 675,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=8bdbe708e360a8c28e5d9bf6f45bda0c228c6f3ec27d60bf0e0d4e0e361ec227"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=8bdbe708e360a8c28e5d9bf6f45bda0c228c6f3ec27d60bf0e0d4e0e361ec227"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ea37d0f0146e00a87d204c90617e7a689620693e3a80e190360a6ad445006e44"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ea37d0f0146e00a87d204c90617e7a689620693e3a80e190360a6ad445006e44"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=304ec0fd5826a98aa06221d8911b7374ca7b1243a9842424eb579d363d236f8f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=304ec0fd5826a98aa06221d8911b7374ca7b1243a9842424eb579d363d236f8f",
   "foil_type": "Lava",
   "card_sets": [
     3

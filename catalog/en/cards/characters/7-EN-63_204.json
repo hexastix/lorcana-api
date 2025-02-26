@@ -1,0 +1,43 @@
+{
+  "name": "Kronk",
+  "subtitle": "Laid Back",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "3e3ad547703c4a8a5dbc00b8c4deace40863300d",
+  "culture_invariant_id": 1496,
+  "sort_number": 1493,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) I'M LOVIN' THIS If an effect would cause you to discard one or more cards, you don't discard.",
+  "card_identifier": "63/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=fbd5cc3fffb3ea1a07b2757a6b74dfff438aeeb76835f99199a95cac2bea28d4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=bf0f59862978f1b70b415c0bc62da315e02f440718a350bb10c3f3dbf0ffbbe6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=48e85a44c83aba40f66e429eaab3058d5a992126378c8c0f2e362b07a4c298aa",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

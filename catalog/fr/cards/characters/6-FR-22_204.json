@@ -9,7 +9,7 @@
   "author": "Samoldstoree",
   "deck_building_id": "b04d53c72e0daaa51190f5bfd88e9191a2d259cc",
   "culture_invariant_id": 1221,
-  "sort_number": 1220,
+  "sort_number": 1219,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4cd6c483682b6d1d20072b6dd6159774fea44e8c7febe2ccbd35150fc9e83fdc"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4cd6c483682b6d1d20072b6dd6159774fea44e8c7febe2ccbd35150fc9e83fdc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=bb643f57b5031d51f7fb2712387754c16a43700c77956315647ffeae5b72516f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=bb643f57b5031d51f7fb2712387754c16a43700c77956315647ffeae5b72516f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4e5c2702f7a25572f4724e70bb3072b7700fe9b2e4ea26472cf53ae37df6c6be",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=4e5c2702f7a25572f4724e70bb3072b7700fe9b2e4ea26472cf53ae37df6c6be",
   "card_sets": [
     6
   ],

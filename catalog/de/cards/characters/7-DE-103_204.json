@@ -1,0 +1,40 @@
+{
+  "name": "Dideldei und Dideldum",
+  "subtitle": "Seltsame Geschichtenerzähler",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c398f0b7dad3ae90647cd655f39c3337fb9a5ce4",
+  "culture_invariant_id": 1536,
+  "sort_number": 1533,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Du kannst noch nicht gehen! Willst du nicht noch das Ende hören?%–Dideldei",
+  "rules_text": "NOCH EINE GESCHICHTE Jedes Mal, wenn dieser Charakter erkundet, darfst du einen beschädigten Charakter deiner Wahl zurück auf die zugehörige Hand schicken.",
+  "card_identifier": "103/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=4017d60e87dceb02398067462c28633cfce0b0dfe29375e475e10d25d435ee89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=dae2e64ae51c3ed9e4c3f96eab5cf6842a4b9d7d9e3c70e64d7aa6de53a05391"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=a91a33f99db3be03844fe33759974c3ff03769789e96fdfb339a59447392deb4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

@@ -5,7 +5,7 @@
   "author": "Michael \"Cookie\" Niewiadomy",
   "deck_building_id": "741296e5c7fe289b3e57d105fe603434b8320ffa",
   "culture_invariant_id": 465,
-  "sort_number": 500,
+  "sort_number": 499,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=8793bcea25d7b5999bcfb1129c1a881c39ed340a58cf06b0b5b7c6b23fbeefa9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=8793bcea25d7b5999bcfb1129c1a881c39ed340a58cf06b0b5b7c6b23fbeefa9"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=8ee24122afbdc00a939dc5129fff0a59e8019139890af3cdf8c18361346bd768"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=8ee24122afbdc00a939dc5129fff0a59e8019139890af3cdf8c18361346bd768"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=5b3a40a01238824ae1411f71c26a469269f4c8d4c19ae7b12334993dfd66fdb4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=5b3a40a01238824ae1411f71c26a469269f4c8d4c19ae7b12334993dfd66fdb4",
   "card_sets": [
     3
   ],

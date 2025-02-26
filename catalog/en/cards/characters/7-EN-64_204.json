@@ -1,0 +1,42 @@
+{
+  "name": "Mother Gothel",
+  "subtitle": "Vain Sorceress",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3e9f98f1d7977ded6fef0a7befc7211878539f95",
+  "culture_invariant_id": 1497,
+  "sort_number": 1494,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "NOW YOU'VE UPSET ME Whenever one of your characters challenges, you may move 1 damage counter from chosen character to chosen opposing character.",
+  "card_identifier": "64/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=8e309488e5906529ddd34a0b0aef92ec63e6aaa0dae5d06e68465be980c1ad1d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=cd6e6bb32a922f6d83fae9574fb9949bf857ddd98a8db7e861015364919ccbdb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=f45d4bdc0c08a5bb32726eab92783e0ca7c2b7077e199225308fe4a401d2f865",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

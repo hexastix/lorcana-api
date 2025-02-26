@@ -1,0 +1,40 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Creature of the Night",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "f8c82e67f89c9ff310443e3e85dd847673575b7e",
+  "culture_invariant_id": 1483,
+  "sort_number": 1480,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "MIDNIGHT REVEL When you play this character, each opponent chooses and exerts one of their ready characters. They can't ready at the start of their next turn.",
+  "card_identifier": "50/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=f634845a6242b846e07b2fa4626dc075fc419f3770ca2a3cd1f1c37a9e33ab57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=b267969163a5dc4350c5cec6fd505f6f9439a4c0b11aaee8f8a2db78309b5096"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=8ab703c33743859b06cacbecf007f32e565aa5a284a5f96cc3e5be0480bdd318",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

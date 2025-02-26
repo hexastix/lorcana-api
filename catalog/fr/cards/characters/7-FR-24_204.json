@@ -1,0 +1,43 @@
+{
+  "name": "Le Prince",
+  "subtitle": "Prétendant vigilant",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "João Moura",
+  "deck_building_id": "5966f7b1df7bd6ef309aa7694d0a45d89624c970",
+  "culture_invariant_id": 1457,
+  "sort_number": 1454,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "24/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=4159b00287f97768b5d5a7e902d27632a9d64278228e810dd8ea04fed489b0c4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=f220bbe19e3b75aff37de6f2199a2b8897a839a36260cde8d7f2d1c791df8879"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=09575dbed62b1a675ae24026bb8cd14981b83aa70231a1991a522d9d5d98e18c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

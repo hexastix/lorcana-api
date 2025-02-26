@@ -1,0 +1,40 @@
+{
+  "name": "Kashekim",
+  "subtitle": "Ancient Ruler",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jocelyn Sepulveda",
+  "deck_building_id": "f06a4604d6d95e7eefe5ea6ae9caaa4c6ecb6df7",
+  "culture_invariant_id": 1510,
+  "sort_number": 1507,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "King"
+  ],
+  "flavor_text": "You presume much, to think you are welcome here.",
+  "rules_text": "",
+  "card_identifier": "77/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=85be30303d46798cdbd3074ef5b93b55235054d2f55b8f9397110aaf3f397347"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=e1b768bea075dbd2fa7afe4ceb216b7c17f7775b80b0b4a8abc9c388ba5f596d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a3dec45c4757f4a4fa9c855ad263eecd1afe21423407412a9f5a77f1d8f8e70e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

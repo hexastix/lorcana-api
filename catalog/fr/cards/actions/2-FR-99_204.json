@@ -5,7 +5,7 @@
   "author": "Mané Kandalyan",
   "deck_building_id": "3ab79a09520ac3d506965f3d02a348a861f725c5",
   "culture_invariant_id": 315,
-  "sort_number": 339,
+  "sort_number": 338,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=ecfc0a69ade454edfdb87cf46a714103e16dbe33c836810c6fc266e56a2248db"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=ecfc0a69ade454edfdb87cf46a714103e16dbe33c836810c6fc266e56a2248db"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=5e043ec859e0be1cb5f1168a574b412a9f79f9f33fcc103b6b4366050a6dbd56"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=5e043ec859e0be1cb5f1168a574b412a9f79f9f33fcc103b6b4366050a6dbd56"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0b0056194e6a61488328e3c0eaf9c6ee44129cc34eebae2c7da3c0d3fb0cb547",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=0b0056194e6a61488328e3c0eaf9c6ee44129cc34eebae2c7da3c0d3fb0cb547",
   "card_sets": [
     2
   ],

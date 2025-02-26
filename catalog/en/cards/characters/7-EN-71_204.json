@@ -1,0 +1,43 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Panicked Llama",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "13ad1b826bfa0c021406dce75ac9d15ecaf5669a",
+  "culture_invariant_id": 1504,
+  "sort_number": 1501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) WE CAN FIGURE THIS OUT At the start of your turn, choose one: • Each player draws a card. • Each player chooses and discards a card.",
+  "card_identifier": "71/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=4146aec224d3f0827fe1d2b235a96a065a884df1bdbeece2e4044073e5615dab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=550b82e1d948d1692683df273cb2bd5d732d326ed022fe0c103b20ce835a8426"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=f9d8544e3e381489d507fe449738151c215fb2394456e1b82bcbda7b1fa8ddc6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Noukah",
   "deck_building_id": "e836b4740f7b37d1bb09ffe4674ef38b8b93c2ed",
   "culture_invariant_id": 628,
-  "sort_number": 663,
+  "sort_number": 662,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=2841ddbb705687f4ce74ee00fc84342644523a6ee8ddbfe51cd1757bc171ad62"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=2841ddbb705687f4ce74ee00fc84342644523a6ee8ddbfe51cd1757bc171ad62"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=c30b27d58819382be8a874f7084b4d54901f0853a99b53c498c888306b39ed51"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=c30b27d58819382be8a874f7084b4d54901f0853a99b53c498c888306b39ed51"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5160747183f5792183a8df0eb9b17b45571742e7a1802c0ee695aa8f9ff8dfb1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5160747183f5792183a8df0eb9b17b45571742e7a1802c0ee695aa8f9ff8dfb1",
   "card_sets": [
     3
   ],

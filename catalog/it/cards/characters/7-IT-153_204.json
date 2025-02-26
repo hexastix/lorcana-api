@@ -1,0 +1,42 @@
+{
+  "name": "Clarabella",
+  "subtitle": "Giornalista",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "e3b5dbe6ce01c2ada369d0b5792e10567e35497f",
+  "culture_invariant_id": 1586,
+  "sort_number": 1583,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) NOTIZIA BOMBA I tuoi altri personaggi con Aiutante ricevono +1.",
+  "card_identifier": "153/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=09a0b67b33edfd469d53efa611a362dcd3b2d5c8083287ec691beb20d1712162"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a17ffd055bf84ff9f7ce7347be5a24f41de15b91afad68905bcc04b8bce89f7b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=cdd665ae019ed145df928c1c673ac07dd21dee151962e529615aef261997846a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Andrew Thompson",
   "deck_building_id": "578bdd170d24c10c27b0de9d21eb62b130201c69",
   "culture_invariant_id": 1164,
-  "sort_number": 1173,
+  "sort_number": 1172,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=8e6105606201d7b93ea987691169a4c0c5fda590c084fce8495ab2f103eee116"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=8e6105606201d7b93ea987691169a4c0c5fda590c084fce8495ab2f103eee116"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=1da0ca9637b21bea697fd41b7ea919d532e6adc9bdb8806b481c7cf7cd180532"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=1da0ca9637b21bea697fd41b7ea919d532e6adc9bdb8806b481c7cf7cd180532"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=5e68dbe83d258a6261cb5fb028268249a7d829baf042a96dcb59bd1e961a7484",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=5e68dbe83d258a6261cb5fb028268249a7d829baf042a96dcb59bd1e961a7484",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

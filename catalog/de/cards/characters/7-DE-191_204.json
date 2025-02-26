@@ -1,0 +1,39 @@
+{
+  "name": "Ticktack",
+  "subtitle": "Unerbittliches Krokodil",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Rachel Elese",
+  "deck_building_id": "e1cc4fc2b8f3553070493043ebc236022311ddc9",
+  "culture_invariant_id": 1624,
+  "sort_number": 1621,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Sperrt eure Ohren auf, Käpt'n, hört ihr nicht etwas?%–Peter Pan",
+  "rules_text": "SUCHT NACH ESSEN Solange ein Pirat im Spiel ist, erhält dieser Charakter in deinem Zug Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "191/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=6f51c39b88558be5fb29e2c6c7bb14e415756591e00e027bb101937b847890c2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=038ed0b0c91486203a354a9939cb3fa8a5fdd2f15bd9932c36396c08d2f72fc6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=3b5d8ce8782443d733f92bf011f4fb3f41c5fbf74df4527d7cf7fdd2bfa9c799",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

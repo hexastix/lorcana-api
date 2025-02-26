@@ -1,0 +1,39 @@
+{
+  "name": "Hüter des Schatzes",
+  "subtitle": "Bedrohlicher Wächter",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "239268271716f479ba115fea202b33efe3854e73",
+  "culture_invariant_id": 1480,
+  "sort_number": 1477,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Endlich geht meine langjährige Suche zu Ende.%–Dschafar",
+  "rules_text": "UNGEHEURER SCHATZ Wenn du diesen Charakter ausspielst, falls du eine Illusion im Spiel hast, darfst du 1 Karte ziehen.",
+  "card_identifier": "47/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=deb872fa62e179430f3ffbe4ddbdc8e0cd799d75f2f0e1648973344217261495"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b77e345b2fd83107518aa38ddd0478a2442a243301aab2561efd9257fcf5cbfc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=02889b9c37ec41d3b841004717f2801f3623a4787f03b0a8edf33adf7771e010",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

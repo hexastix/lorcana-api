@@ -5,7 +5,7 @@
   "author": "Wietse Treurniet",
   "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
   "culture_invariant_id": 1329,
-  "sort_number": 1328,
+  "sort_number": 1327,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=0569e8d80865ffe22fc4207cc7269fdb9094f2cc5abbcc69be291d403babc813"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=0569e8d80865ffe22fc4207cc7269fdb9094f2cc5abbcc69be291d403babc813"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=cb03975d772ec6c547eed7038b6c8f1918a342151fa23f02a273d16c2dc600b9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=cb03975d772ec6c547eed7038b6c8f1918a342151fa23f02a273d16c2dc600b9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4570468d6607333348661dce68e03041a23306f041d3005df16358401fdc2291",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4570468d6607333348661dce68e03041a23306f041d3005df16358401fdc2291",
   "card_sets": [
     6
   ],

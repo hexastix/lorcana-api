@@ -5,7 +5,7 @@
   "author": "Pablo Hidalgo / Jeff Merghart",
   "deck_building_id": "80b19310099db7717fc69d00ac3c45f408c38276",
   "culture_invariant_id": 416,
-  "sort_number": 440,
+  "sort_number": 439,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=2751e0c174e77f34b5ad69075593b35a8e20b65ec074967dc6ba582f0d08b91c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=2751e0c174e77f34b5ad69075593b35a8e20b65ec074967dc6ba582f0d08b91c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=97b16bdeaaf55b2d174325b60870b2d1bd7135c4906e3433ec121b5e74c40147"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=97b16bdeaaf55b2d174325b60870b2d1bd7135c4906e3433ec121b5e74c40147"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/2/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=dcab005d806fe35e22e32c83abeab0344b062d25479b9d0642f519fec480c020",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=dcab005d806fe35e22e32c83abeab0344b062d25479b9d0642f519fec480c020",
   "card_sets": [
     2,
     8

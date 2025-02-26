@@ -9,7 +9,7 @@
   "author": "Lisanne Koeteeuw",
   "deck_building_id": "3219378181dc565b5d4b7488cccbc75d171bb04f",
   "culture_invariant_id": 1004,
-  "sort_number": 1013,
+  "sort_number": 1012,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -28,14 +28,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=b054bbd0bfdf7d8947a9cbe6d90bd372a95c12b4c60332a3faa5dfb8f8803c20"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=b054bbd0bfdf7d8947a9cbe6d90bd372a95c12b4c60332a3faa5dfb8f8803c20"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=10fe5fe36efd313fb072af4868528f9ff470f9de6a9fc4d8989aaf312f9e93c7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=10fe5fe36efd313fb072af4868528f9ff470f9de6a9fc4d8989aaf312f9e93c7"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=02d4ff86e0fdc805fd218f5d7abdbfd9953339dadd934a07ab923785a6cc6e20",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=02d4ff86e0fdc805fd218f5d7abdbfd9953339dadd934a07ab923785a6cc6e20",
   "card_sets": [
     5
   ],

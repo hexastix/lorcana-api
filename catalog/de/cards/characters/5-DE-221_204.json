@@ -9,7 +9,7 @@
   "author": "Lisa Parfenova",
   "deck_building_id": "2f3a330ce28cc7aa20666f69e8e605efcffacc9b",
   "culture_invariant_id": 1177,
-  "sort_number": 1186,
+  "sort_number": 1185,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=dd0dd46cd939518cbcc18393d86738a28ff1351b8b017146fcbc466a3545145d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=dd0dd46cd939518cbcc18393d86738a28ff1351b8b017146fcbc466a3545145d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=451db124d124774e58d70cc229d14c1d19b88d5a3c63defdbb557eda125b0501"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=451db124d124774e58d70cc229d14c1d19b88d5a3c63defdbb557eda125b0501"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=97148a7497df98758eca4f3bdb233c86659e15cac10555f035a4c65e0ea0a827",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=97148a7497df98758eca4f3bdb233c86659e15cac10555f035a4c65e0ea0a827",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

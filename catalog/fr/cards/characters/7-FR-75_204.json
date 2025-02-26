@@ -1,0 +1,40 @@
+{
+  "name": "Panique",
+  "subtitle": "Diablotin tendu",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Arianna Rea",
+  "deck_building_id": "29e6560843c19488f858e257358e01b036237875",
+  "culture_invariant_id": 1508,
+  "sort_number": 1505,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ce que le patron ignore ne nous fera pas de mal. Pas trop. J'espère.",
+  "rules_text": "CRI EFFAROUCHÉ Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et déplacer jusqu'à 2 de ses dommages sur un personnage adverse de votre choix.",
+  "card_identifier": "75/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=f61ae368d141b51aa6a142bd987d3d34b1ed85b5ff3b8fa88db35c4f3de4844a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=75618c2b2c61df3d04716832541f79854fce3afd9e536b8a346bd24e0fbdbfcf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=230bf14bed18c4824a502bd4dcd37f5f7b52334bcacd5044a8ec32b65afb2bd4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

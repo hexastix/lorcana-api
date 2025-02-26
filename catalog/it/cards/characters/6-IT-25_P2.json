@@ -1,0 +1,42 @@
+{
+  "name": "Lilo",
+  "subtitle": "Artista della Fuga",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1431,
+  "sort_number": 1428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Non puoi tenermi lontana da tutto il divertimento!",
+  "rules_text": "NON C'È POSTO MIGLIORE All'inizio del tuo turno, se questa carta si trova nei tuoi scarti, puoi giocarla ed entra in gioco impegnata.",
+  "card_identifier": "25/P2 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=877f4f767ecd78408332b14cde8379f34c600df6083a104572b2ded6e6685f97"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=f176b2fe094d28311c7835eb1580710d7179285c823213f6c37274c87976c7ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=48ffd256407e18f020c157d791e2d71f64a9fe3fd9f2ca6ea239689d7e867c63",
+  "special_rarity_id": 1,
+  "foil_type": "Glitter",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

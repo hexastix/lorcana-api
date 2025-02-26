@@ -1,0 +1,42 @@
+{
+  "name": "Bolt",
+  "subtitle": "Dependable Friend",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "4569c6b9d1aa773811189e4fe7746e13a5b67569",
+  "culture_invariant_id": 1451,
+  "sort_number": 1448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Super dog versus super log! This is AWESOME! —Rhino",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "18/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=c4fb4a9f522bb3d6dc21037f1c5882c51c09cf9caeb0fc2e7206b33ffc4d5cc0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=662e77812344dcda99d8f7988befc0eb3755eab4d582dc6e66f89dcb50ce6a56"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=ae6a6dd0d24b512b3f471053f13689b02c23f4e3031e3d53ec5369f3bb44ae07",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

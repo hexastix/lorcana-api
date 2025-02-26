@@ -9,7 +9,7 @@
   "author": "Randy Bishop",
   "deck_building_id": "3ae24edc572e0092a6b460c4cad956c1859b0525",
   "culture_invariant_id": 863,
-  "sort_number": 873,
+  "sort_number": 872,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=de6658d89cf2e7801c10a5deb7ae3be24c9aaef7f89bf3b65d4454d3bb0d3939"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=de6658d89cf2e7801c10a5deb7ae3be24c9aaef7f89bf3b65d4454d3bb0d3939"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=6be696058aa5a4f86168f94eb03c553da4221525a38adb3ef79549c374c14942"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=6be696058aa5a4f86168f94eb03c553da4221525a38adb3ef79549c374c14942"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=0e96626d8110ca69c02eab5f88c264b5ec21470e3cea77da8054f821b6031d5e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=0e96626d8110ca69c02eab5f88c264b5ec21470e3cea77da8054f821b6031d5e",
   "card_sets": [
     4
   ],

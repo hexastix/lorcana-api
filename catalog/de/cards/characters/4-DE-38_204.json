@@ -9,7 +9,7 @@
   "author": "Aubrey Archer",
   "deck_building_id": "e14d5d0b9b6bc59f80886c989f265721cdc6c6fc",
   "culture_invariant_id": 729,
-  "sort_number": 739,
+  "sort_number": 738,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=81b70b449c0d62f2dea311c67a2e0fce161f2dc5a5eba14802b2a08d498673df"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=81b70b449c0d62f2dea311c67a2e0fce161f2dc5a5eba14802b2a08d498673df"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=31196ea4d3dd92fbb795118df663627854bc4da4b6f5ba380ddf2b1afddbe1d5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=31196ea4d3dd92fbb795118df663627854bc4da4b6f5ba380ddf2b1afddbe1d5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=8042cfbc70c1aebb1693cfefecfa460804e3f038fa61dfbd18fe756c09ef65a5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=8042cfbc70c1aebb1693cfefecfa460804e3f038fa61dfbd18fe756c09ef65a5",
   "card_sets": [
     4
   ],

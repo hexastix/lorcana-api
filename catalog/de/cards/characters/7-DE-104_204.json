@@ -1,0 +1,44 @@
+{
+  "name": "Baymax",
+  "subtitle": "Riesiger Roboter",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "ad862baa5875379e40b08691465e23adf5ba70d0",
+  "culture_invariant_id": 1537,
+  "sort_number": 1534,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Roboter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Universal-Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf irgendeinen deiner Charaktere auszuspielen.) FUNKTIONALITÄT VERBESSERT Wenn du diesen Charakter mithilfe von Gestaltwandel ausspielst, entferne jeglichen Schaden von ihm.",
+  "card_identifier": "104/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=b3a5133cce20f0d4bdf4d3739962dc9e155ad3618d8a9dfabdd67f0a71b02218"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=9734ff217420ed61ee686be7a0aacb88fe9fdce0539ed7f2a8286b40171c0f66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=07d7068b72b89ab10f97ad8e3ce803c66b0bef5e91f3b7030ce61ae22f1f1fb0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

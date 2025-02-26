@@ -1,0 +1,46 @@
+{
+  "name": "Wendy Darling",
+  "subtitle": "Pirate Queen",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "da2e6704efe9fa9440082d5430d64696d469d7e2",
+  "culture_invariant_id": 1445,
+  "sort_number": 1442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) TELL NO TALES Whenever one of your other characters is banished, you may remove all damage from chosen character.",
+  "card_identifier": "12/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=4ee7dceffba73ac90cda1867c48858fbcba874782c07fab32613a2707ae2fc12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=cacff4de75499bd76f75607c1025f65cb737c73034943086977f8dbdb4aff395"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=100dece24c8195b009d94d9ba6b87865ac33fb470f94db66c72a1f9f65392ac6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mostrami di Più!",
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1515,
+  "sort_number": 1512,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Trama del tempo, dammi retta—%Rivela il futuro che si prospetta!",
+  "rules_text": "Ogni giocatore pesca 3 carte.",
+  "card_identifier": "82/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=d22fd899bc17c1b7b42bfec755fbe1c62a632cc49cd9017c770ccaf69a5100a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=3818f916be247345b602f11067e3cc607b1597af92b93c13044980c7130ab623"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=7bdd001998a5a80d70a574d13d2673cfb425885234a54176fb5dd90f0d9d5aaf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

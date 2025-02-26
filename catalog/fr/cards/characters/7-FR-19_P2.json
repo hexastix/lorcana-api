@@ -1,0 +1,47 @@
+{
+  "name": "Anna",
+  "subtitle": "Briseuse de glace",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "5c027c79eedd9a761d4497187cd38ba25c697de4",
+  "culture_invariant_id": 1656,
+  "sort_number": 1653,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.) EMBUSCADE GLACIALE Lorsque vous jouez ce personnage, choisissez un personnage adverse qui ne se redresse pas au début de son prochain tour.",
+  "card_identifier": "19/P2 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=68a493f01f3d9c5b3205b6e37e4595cca01789e6988304965777ba551cc1112b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=9270d2e20f0ee0f61672c5548d364d48d4c82652c8de9a6f8f9919540878e975"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=351af5b10b6deac07463f9d9e129b1a638e3dcd90e64f1a1a484217c1f24aa84",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

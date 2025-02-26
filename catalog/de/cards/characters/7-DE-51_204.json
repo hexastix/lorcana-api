@@ -1,0 +1,42 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Neu gekrönt",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1484,
+  "sort_number": 1481,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Nun, da die Hexwell-Krone endlich mein ist, kann keine Macht in Lorcana gegen meine bestehen!",
+  "rules_text": "MIT DIR BIN ICH NOCH NICHT FERTIG Jedes Mal, wenn eine deiner Illusionen im Zug einer gegnerischen Person verbannt wird, darfst du jene Karte zurück auf deine Hand nehmen.",
+  "card_identifier": "51/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=a19e64a2dfa79bdb8a39d4fc71210b6a6e6e42c1c32ede5ba5c018a9eef9684d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=222ca9eda813af4a411561fef977304730b6909d208c0f9f0459003b4a7bdefe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=4ca7d76cec2234253457dc8458ed4d4e755a18230e9596ba3ee0f87d0340b6e8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

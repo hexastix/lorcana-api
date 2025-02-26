@@ -1,0 +1,41 @@
+{
+  "name": "Tramp",
+  "subtitle": "Street-Smart Dog",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "1e70debf71c03c6a1973a11689057dde2fe76b95",
+  "culture_invariant_id": 1443,
+  "sort_number": 1440,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "NOW IT'S A PARTY For each character you have in play, you pay 1 less to play this character. HOW'S PICKINGS? When you play this character, you may draw a card for each other character you have in play, then choose and discard that many cards.",
+  "card_identifier": "10/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=94ea3f594f41fe328ca288f04fea15badf381dfc1eac2836ed2df6751e132d39"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=a9cb72d5234b8e572933d46a3fd41be111be723a4ab080a345251b0dbf258876"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=191c27af02b32a7ea41275b8a580383cd8e3ecb7361e206b89a26289b3a7984b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

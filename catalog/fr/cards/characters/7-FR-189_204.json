@@ -1,0 +1,41 @@
+{
+  "name": "Razoul",
+  "subtitle": "Garde menaçant",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "bd4556b415c9d59ebf5ce6f7e363998afd05e091",
+  "culture_invariant_id": 1622,
+  "sort_number": 1619,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Capitaine"
+  ],
+  "flavor_text": "Ces simples babioles ne vous permettront pas de vous approcher de Jafar.",
+  "rules_text": "JE NE REÇOIS MES ORDRES QUE DE JAFAR Lorsque vous jouez ce personnage, si vous avez un personnage Jafar en jeu, vous pouvez choisir un objet et le bannir.",
+  "card_identifier": "189/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=f678fbc04487d368323611319ec4cc1e6a589111d575767bc698dfc832fb8dcb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=5d0f960e329cdeb4cc7c210dc4965b23f6e6cd4cb60c0c9c3653a4c07e719d9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=2ce792abf03ff1f3af6ec666ae7531f5507acc29203f022e1a14d12e41fe4f9b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

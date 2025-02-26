@@ -1,0 +1,44 @@
+{
+  "name": "Perla",
+  "subtitle": "Nimble Seamstress",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kapik",
+  "deck_building_id": "754809c4ccbf3140a82f6fcb4d3f7feb624fb42f",
+  "culture_invariant_id": 1465,
+  "sort_number": 1462,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "32/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=9b5ed25529c28ca47c7d41ff4391535a8fce4b02c1d1e7146b9619a26c750aec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=0d6d8485bc6e1a80d08a5aeaa3c01a79d90da765d6abd7653112fe6de0ce4eb6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=ea38fcebbc7fbb6812f7b7fca84b3f767116ce46542946aba4bec79b4edc5bb3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

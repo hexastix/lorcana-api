@@ -1,0 +1,42 @@
+{
+  "name": "Le Fantôme Noir",
+  "subtitle": "Figure de l'ombre",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luca Pinelli",
+  "deck_building_id": "f87fff900b6d5596c88b04100c0a87c2c9346faa",
+  "culture_invariant_id": 1568,
+  "sort_number": 1565,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Personne ne sait qui ou ce qu'il est vraiment, ni ce qu'il prépare.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "135/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=0fd55d429df8fbbd030b80d7ebbe5a43f8df6d3b70562d42071247a3a7023753"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=6fffa71a0fd75cf803b82ce6855bb3b8c2a7db6b9aa019094cf2148be4c990e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=84b4524918fc96ee42402ea137040347e73959206c6f139368e9286363ffe068",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

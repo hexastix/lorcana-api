@@ -1,0 +1,44 @@
+{
+  "name": "La Reine",
+  "subtitle": "Beauté jalouse",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "2caba9821f2a147d04377683850773c4a50e222d",
+  "culture_invariant_id": 1507,
+  "sort_number": 1504,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "PAS UNE POMME ORDINAIRE — Choisissez un adversaire. Choisissez 3 cartes de sa défausse et placez-les sous sa pioche pour gagner 3 éclats de Lore. Si vous avez déplacé au moins un personnage Princesse de cette façon, gagnez 4 éclats de Lore à la place.",
+  "card_identifier": "74/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=f8c209c845b22c0a24c9ff94560756b77ea3335fb8e5fb3d086378101d693020"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b87ed5bbd82da5049a04d1a456d0637b504f59069ef4860c4781b3a822792f95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=39671584c4642fdd2ab925fe417dadcfbad6523c487f4fb176ebe9b9e87b5d1f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2ecd2b06ec0482eba1b64036b9c2e4883c0190e72b9bd77a706eb63d0b30d966",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

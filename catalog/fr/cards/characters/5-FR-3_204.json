@@ -9,7 +9,7 @@
   "author": "Rosa la Barbera / Livio Cacciatore",
   "deck_building_id": "7019f88f23a40f374d0cc8e7cbb8cb18fd60de3a",
   "culture_invariant_id": 959,
-  "sort_number": 968,
+  "sort_number": 967,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,16 +26,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=039365e21d443d8120f3f69d7dfdc239bedb817bb494357b974ab6d3b8f4cc8b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=039365e21d443d8120f3f69d7dfdc239bedb817bb494357b974ab6d3b8f4cc8b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=8a07abaef810e75bf27f613f097878848ecb49130231a0b8bd5a5d12b9ca05f4"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=8a07abaef810e75bf27f613f097878848ecb49130231a0b8bd5a5d12b9ca05f4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c95767c3baf0888161fb7da0fcfc925e2a28b15bda08420a252f96bd9564b87f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=c95767c3baf0888161fb7da0fcfc925e2a28b15bda08420a252f96bd9564b87f",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/gloss/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=76597804cd94cc95de1d040b9915c65b25da7ea18969c3f158653767b3d40b5b",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/gloss/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=76597804cd94cc95de1d040b9915c65b25da7ea18969c3f158653767b3d40b5b",
   "card_sets": [
     5
   ],

@@ -1,0 +1,40 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Balena per Poco",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luca Pinelli",
+  "deck_building_id": "8a16f3c83a53236d523529bacad2e9c79e60b668",
+  "culture_invariant_id": 1478,
+  "sort_number": 1475,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Re"
+  ],
+  "flavor_text": "",
+  "rules_text": "NON DIRE NULLA Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi far riprendere in mano al suo giocatore un personaggio, un oggetto o un luogo a tua scelta con costo 2 o inferiore, poi quel giocatore pesca una carta.",
+  "card_identifier": "45/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=379586a49afe6b2a010f3b549bdc182495f3363394542938858faae771f0377c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=1b9295711a8626e285e5a1df507bd38c63e12c8933466464f79d92b090ad59db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=ed90a1d9f66f186fd1c16942e8085a90b33364fdd3496fce723778bee58d5af4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

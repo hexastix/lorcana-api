@@ -1,5 +1,5 @@
 {
-  "name": "Moana",
+  "name": "Vaiana",
   "subtitle": "Adventurer of Land and Sea",
   "strength": 1,
   "willpower": 6,
@@ -7,9 +7,9 @@
   "rarity": "SPECIAL",
   "ink_cost": 3,
   "author": "Anna Stosik",
-  "deck_building_id": "72e2aed18c3a12f81235f7a9ece30082bff11ed7",
-  "culture_invariant_id": 1433,
-  "sort_number": 1429,
+  "deck_building_id": "moana-vaiana",
+  "culture_invariant_id": 1663,
+  "sort_number": 1655,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,20 +18,20 @@
     "Hero",
     "Princess"
   ],
-  "flavor_text": "Moana receives a call from the ancestors to sail to new skies and reconnect people across the entire ocean.",
+  "flavor_text": "Vaiana receives a call from the ancestors to sail to new skies and reconnect people across the entire ocean.",
   "rules_text": "",
   "card_identifier": "26/P2 EN 7",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=c2837c3bff93c21423a059c6ae4660c8ea85852a9a4e36027497f178bcaddc4a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=53cee1a6b314a84ec56a07c8caf256335c129682411f2a1e82da348413ec1e3c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/2/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=bbc68013a96dbc666476b2660b22ece73ff532b249dd20144f037654f0761bee"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=0b0aa9ebf38fdeb356e5dab72c9790f3a276da1333bfb832fb851b48715ff189"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/2/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=506c564e783c2c87cfbc872d1d9ff0092fdbe9b5e251cfb842e0da967a9e878e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=a55b2f5b38ea933eba64794b1e1c889cb199be84555aa8ef2a40f47cc9b35b99",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [
@@ -39,5 +39,8 @@
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Moana"
   ]
 }

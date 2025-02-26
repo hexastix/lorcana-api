@@ -1,0 +1,42 @@
+{
+  "name": "Belle Marianne",
+  "subtitle": "As du badminton",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "16b563305b1ebac09f45ac449c05181244aff0e5",
+  "culture_invariant_id": 1609,
+  "sort_number": 1606,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "FORT BIEN JOUÉ Durant le tour d'un adversaire, chaque fois que l'un de vos personnages Allié subit des dommages, choisissez un personnage adverse et infligez-lui 1 dommage. ESPRIT SPORTIF Vos personnages Dame Gertrude gagnent Résistance +1. (Les dommages qui leur sont infligés sont réduits de 1.)",
+  "card_identifier": "176/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=9640c03cd69a865e720557d88f5c3f0e0534c100f0d1f1842837b26003f04a4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=d0d16e709b90e2ad754dc3f0a1e59dc6576d5e7e7103edc219290c9b28e1baa0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=f0f68cff8072b877f44d18e4011604ada6b46906510e329b9e43bfe3681c8cb7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

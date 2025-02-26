@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Re Rispettato",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "e7a671905ede5069c586ea3087e484492a181670",
+  "culture_invariant_id": 1629,
+  "sort_number": 1626,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "Lo vedi questo pilastro? Persino dopo essere crollato può servire ancora a uno scopo.",
+  "rules_text": "",
+  "card_identifier": "196/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=f33d254515bb31c3103ee945be626ee6144f764918de3390470f1ce1ce1f1827"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=f5bb1cace4fb0089e94715ff89ac1bd1e74ae9f8ff8569732ac5f70b7a9cf2fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=65658966aec12dd9759e1fc2d695340c8775bfb01405e5da7ebf7a5abcfaf13c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

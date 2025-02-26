@@ -9,7 +9,7 @@
   "author": "Isaiah Mesq",
   "deck_building_id": "41fb5ac17fe0a5be5e913e0cb5f4a4294a187330",
   "culture_invariant_id": 395,
-  "sort_number": 419,
+  "sort_number": 418,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=9c8a47cdb876196a1acd8d5ae42b0d537dc6afff68e4d7b10b36b2b62897a871"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=9c8a47cdb876196a1acd8d5ae42b0d537dc6afff68e4d7b10b36b2b62897a871"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=529646eeaf1476c6f23233004ae82b1ada014e654d25fb90be8e72e28163064c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=529646eeaf1476c6f23233004ae82b1ada014e654d25fb90be8e72e28163064c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=f51648f1bcef998785996aab337d68dbace879bf6c3afea054e7723e4b4e7553",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=f51648f1bcef998785996aab337d68dbace879bf6c3afea054e7723e4b4e7553",
   "card_sets": [
     2
   ],

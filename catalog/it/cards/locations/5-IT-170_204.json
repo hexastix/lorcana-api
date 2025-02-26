@@ -9,7 +9,7 @@
   "author": "Gabe",
   "deck_building_id": "b8c3e0fa48f7dd83d249333474e56e59bc3fc146",
   "culture_invariant_id": 1126,
-  "sort_number": 1135,
+  "sort_number": 1134,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=d9c8a7c2d1686d03c5dfca8ad643a21aa731a69dc5606ab7a1ac2777ae03d1ad"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=d9c8a7c2d1686d03c5dfca8ad643a21aa731a69dc5606ab7a1ac2777ae03d1ad"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=1ba20b837d9ff80585214b96c369190df8e8b0f5b07eef979384f6c573e582a0"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=1ba20b837d9ff80585214b96c369190df8e8b0f5b07eef979384f6c573e582a0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=141dae7ce171684a66ee56553efd220c8ca2060aa67688597ed36ed96fa65760",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=141dae7ce171684a66ee56553efd220c8ca2060aa67688597ed36ed96fa65760",
   "card_sets": [
     5
   ],

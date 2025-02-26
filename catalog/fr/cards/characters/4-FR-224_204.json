@@ -9,7 +9,7 @@
   "author": "Nicola Saviori",
   "deck_building_id": "06e306a4259dd86efa3be5c32d8bc2d7de24b052",
   "culture_invariant_id": 948,
-  "sort_number": 925,
+  "sort_number": 924,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -21,19 +21,19 @@
     "Princesse"
   ],
   "flavor_text": "",
-  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Mulan.) TIREUSE D'ÉLITE Si vous jouez ce personnage en utilisant sa capacité Alter, il gagne +3 pour le reste de ce tour. COUP TRIPLE Chaque fois que ce personnage en défie un autre durant votre tour et lui inflige des dommages, choisissez jusqu'á 2 autres personnages et infligez á chacun autant de dommages.",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Mulan.) TIREUSE D’ÉLITE Si vous jouez ce personnage en utilisant sa capacité Alter, il gagne +3 pour le reste de ce tour. TIR TRIPLE Chaque fois que ce personnage en défie un autre durant votre tour et lui inflige des dommages, choisissez jusqu’à 2 autres personnages et infligez à chacun autant de dommages.",
   "card_identifier": "224/204 FR 4",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=edb6ee0c837f3c9e6b1df88d88e6462b7264eb786aa0ae4f1508957f56c61aa4"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=edb6ee0c837f3c9e6b1df88d88e6462b7264eb786aa0ae4f1508957f56c61aa4"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=1a1c1111d15b399e44ed9b8b7f2eb0c7c3a2bd16133766a86ebe85266dbea8b5"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=1a1c1111d15b399e44ed9b8b7f2eb0c7c3a2bd16133766a86ebe85266dbea8b5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=c10cbd6dfa8ef4ebfd3fd6fca59d3700841d9aefa40662bfbc11d0596ad90937",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/bc15c774dca4499ea6fb42da7d216ca54f8c697e.jpg?checksum=c10cbd6dfa8ef4ebfd3fd6fca59d3700841d9aefa40662bfbc11d0596ad90937",
   "foil_type": "Silver",
   "card_sets": [
     4,

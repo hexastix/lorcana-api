@@ -1,0 +1,42 @@
+{
+  "name": "Das Phantom",
+  "subtitle": "Schattenhafte Gestalt",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luca Pinelli",
+  "deck_building_id": "f87fff900b6d5596c88b04100c0a87c2c9346faa",
+  "culture_invariant_id": 1568,
+  "sort_number": 1565,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Niemand weiß, wer oder was er wirklich ist oder was er vorhat.",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)",
+  "card_identifier": "135/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=03c1c022fb92629b738ad8b86cba1c8d86326d7113adbb99806f5642fe102fc9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=c1ab289be731ef5d8e239800ff4b4a1e0e46c8ea49aa938d29d8186ba8de51f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=83a10481af22b2fc655d6b335fc6e314469de5bf9e3a69e9a8ce0757a65a7bd6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Honeymaren",
+  "subtitle": "Guida dei Northuldri",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b37f54cccdfd81e4fac8a77d3054a00ee72b292d",
+  "culture_invariant_id": 1481,
+  "sort_number": 1478,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Si dice che sia un ponte tra noi e la magia della natura.",
+  "rules_text": "LA LEGGENDA DEL QUINTO SPIRITO Quando giochi questo personaggio, se un avversario ha in gioco un personaggio impegnato, ottieni 1 leggenda.",
+  "card_identifier": "48/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=3ffb97af465f0ac2583c050666361316ee6be2f0fa21f53078d17f1db245eb16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=11fc0a3756a01a09d82594aaddbb918ec4970093ce108d75ec8836c9a21e2324"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=28320e8b1f9d999822c9fc64069dbec24c812594b82ff8498811b74ea106aa62",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

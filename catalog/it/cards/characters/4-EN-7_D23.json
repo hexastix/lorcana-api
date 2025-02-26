@@ -9,7 +9,7 @@
   "author": "Alice Pisoni",
   "deck_building_id": "92ca31b3dd2f356cf1cd1d09a4c9d9744440282d",
   "culture_invariant_id": 1432,
-  "sort_number": 934,
+  "sort_number": 933,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -27,22 +27,25 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=9424e5a7d41194f609c1a7b35cc1c686a940ef5324a3fb795de2bf6039510de7"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=9424e5a7d41194f609c1a7b35cc1c686a940ef5324a3fb795de2bf6039510de7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/4/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=8d694094152e31c652a3b4a2707c8683a4bc4593de7b08e952bea65e7c144193"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=cfbc97ca02a446be0bbaae2b56b0969897b6421b62fa869bb28b9b0e20e306cd"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/4/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4eeaca023486a01a72f0f6ffa51c3447c3b458a7c75ecb93bd57776d197a2a92",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4eeaca023486a01a72f0f6ffa51c3447c3b458a7c75ecb93bd57776d197a2a92",
   "special_rarity_id": 2,
   "foil_type": "FreeForm",
   "varnish_type": "Gold",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/4/gloss/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4365328bed28d778b12cb09bdfb2d3257a4a7785034f0a77139c37c2136fb5e4",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/gloss/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=4365328bed28d778b12cb09bdfb2d3257a4a7785034f0a77139c37c2136fb5e4",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "D23"
   ]
 }

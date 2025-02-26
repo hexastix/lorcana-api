@@ -9,7 +9,7 @@
   "author": "Jake Parker",
   "deck_building_id": "bba8990971606047f1bc8e18917bc3d0f888d38b",
   "culture_invariant_id": 1115,
-  "sort_number": 1124,
+  "sort_number": 1123,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,16 +26,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=24a5fa2b74c9ae1ed2443002bc519515fbfc8997b5f1c8bb1717e5822f3f0ecb"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=24a5fa2b74c9ae1ed2443002bc519515fbfc8997b5f1c8bb1717e5822f3f0ecb"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=2fcd48eb37d12fcefd5927d3ea9e0dd6f9a055660b08cf792162f7ef645dc664"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=2fcd48eb37d12fcefd5927d3ea9e0dd6f9a055660b08cf792162f7ef645dc664"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=28494c41223e96cc003c095f3dd84855a56077a7ede2f202f719dc95f0fb04ad",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=28494c41223e96cc003c095f3dd84855a56077a7ede2f202f719dc95f0fb04ad",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/gloss/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=8cd34262d958ada7987028590ab6ab0275c627fbb652a1980ea890377282342c",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/gloss/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=8cd34262d958ada7987028590ab6ab0275c627fbb652a1980ea890377282342c",
   "card_sets": [
     5
   ],

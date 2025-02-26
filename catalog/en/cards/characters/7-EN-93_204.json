@@ -1,0 +1,41 @@
+{
+  "name": "Basil",
+  "subtitle": "Secret Informer",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "4db0a324dcb5d1ff69156dfa4c107253863062c3",
+  "culture_invariant_id": 1526,
+  "sort_number": 1523,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Detective"
+  ],
+  "flavor_text": "The final part of the crown! Jafar will be pleased.",
+  "rules_text": "DRAW THEM OUT Whenever this character quests, opposing damaged characters gain Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "93/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=5cbc821ed32a322187fe359f97f146ace2dd1eff3fd5c2e588c5427b2cfc9e4d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0ba20af18fbf0cfab83825dacd564616f56b4f10cdb4cb11c18db8de04862d8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=750b3e88210b30033554c96e5c737369858096945bd62be597db71049e8c1090",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

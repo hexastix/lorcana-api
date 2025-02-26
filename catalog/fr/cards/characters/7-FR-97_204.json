@@ -1,0 +1,42 @@
+{
+  "name": "Yokai",
+  "subtitle": "Comploteur érudit",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "2065122bd47f279ddd80c1814074e29a04edb565",
+  "culture_invariant_id": 1530,
+  "sort_number": 1527,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Inventeur"
+  ],
+  "flavor_text": "Placer un tel pouvoir entre les mains d'un être inférieur serait irresponsable.",
+  "rules_text": "INNOVER Jouer des personnages via leur capacité Alter vous coûte 1 de moins.",
+  "card_identifier": "97/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=d31e6222803a242003143154ac5f841e39c8f2e2f24ed91dc369bf4a9a410a49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=d63a6cf7f34d1c7cd2b07b1930b9a27a18a1e7c3ea02e197cec6c1627d82c122"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=cd58dec84454cfa42faa11039c1d7bd3d93f63ac3310cd816d0df8a2d02e888c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Kenai",
+  "subtitle": "Orso Magico",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "7696e481f25492ef90ec0b0ac819144fbe6fcffa",
+  "culture_invariant_id": 1503,
+  "sort_number": 1500,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.) LA SAGGEZZA DELLA SUA STORIA Durante il tuo turno, quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta e ottieni 1 leggenda.",
+  "card_identifier": "70/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=46a7ecf1e45a5803a5ad97c4a138c85c1c88929b88e665235f6964fd947d4548"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=cc62f3bd4c30eb87a470e6baf014c2534972c1fbcc553ecc762e1e3ebab6baf9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=29edef9179aab1bcb5ad85d520eafe31beaa09ffd1f5cdfd3d65ac0fd623d2f2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ricostruire Atlantide",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Ricardo Caria",
+  "deck_building_id": "3a22bf1160fb323ece5b18abbcd5823cf6c9e990",
+  "culture_invariant_id": 1634,
+  "sort_number": 1631,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In momenti critici, il cristallo sceglie una persona di sangue reale, per proteggere se stesso e la sua gente.%—Re Kashekim Nedakh",
+  "rules_text": "I tuoi personaggi non possono essere sfidati fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "201/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=98784a48446382969f60f8bdb9ff9fbb940320111d612ad5feac370a02de4588"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=602ed3113cddcb832dfc83d51b56fef0e1bbd80d4ff885473c61a04ebfa3ddff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=6c8954135f8cc862fb71b0bef5eb427b1994a32b9a7c06f601277c769f88a268",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

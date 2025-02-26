@@ -1,0 +1,41 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Future Champion",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jennifer Wu",
+  "deck_building_id": "686034d962f46489c63777e2863fb97e064b033a",
+  "culture_invariant_id": 1523,
+  "sort_number": 1520,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "Even with a mind as brilliant as his, the mixed ink was a unique puzzle to solve.",
+  "rules_text": "ORIGIN STORY When you play a Floodborn character on this card, draw a card.",
+  "card_identifier": "90/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=5f7d7d9fbfeab9826ecfecacce9882072db98c65c8d96ce97f5f8e93d8147002"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=e7354e836549bdd7a0d09965e069b908c5b1061fafdd1cd33c0623a79394fdb4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=9d0c1a49e9a05563e77f71d1935845b5fd7a776644f3804d58eff43d0edbbf1d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Miss Bianca",
+  "subtitle": "Unermüdliche Agentin",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Maria Dresden",
+  "deck_building_id": "45f268b2214fbccf3540a2e7412282b75f6885a1",
+  "culture_invariant_id": 1628,
+  "sort_number": 1625,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "Wir werden die Spitze dieses Turms im Handumdrehen erreichen, wenn wir nur zusammenarbeiten, mein Schatz.",
+  "rules_text": "WENN WIR ZUVERSICHTLICH SIND Wenn du mindestens einen Verbündeten im Spiel hast, zahlst du 2 weniger, um diesen Charakter auszuspielen.",
+  "card_identifier": "195/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=db6cdf1c48ce276485f3b3627376e58b780926d682968e1546284cbb74664ca6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=33422d505d132fc2f3209dc9962fdec2e0f892867e003cb3bf88fa08463f7bf4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=acc41a1a7234392f580f3ac9f3630182e05576f80589daa6e0767da8e6e26e6f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

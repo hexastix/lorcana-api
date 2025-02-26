@@ -9,7 +9,7 @@
   "author": "Matthew Oates",
   "deck_building_id": "154540891abf203a5959b722088b9cd9d1ee9109",
   "culture_invariant_id": 990,
-  "sort_number": 999,
+  "sort_number": 998,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e104cbea57c03fe50962cd25a2b36b2bdd11d6ac4936db9bf7a4022f42322125"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=e104cbea57c03fe50962cd25a2b36b2bdd11d6ac4936db9bf7a4022f42322125"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=cec614224e092cbfab35a1035a971c64030e221e4aafeba850e2687dddd01624"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=cec614224e092cbfab35a1035a971c64030e221e4aafeba850e2687dddd01624"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=fb9e50a37462c418b42ab242911087e8c993115b5b6a02f7c61dd1f53ddc6b8a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=fb9e50a37462c418b42ab242911087e8c993115b5b6a02f7c61dd1f53ddc6b8a",
   "card_sets": [
     5
   ],

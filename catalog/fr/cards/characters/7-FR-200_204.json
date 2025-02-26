@@ -1,0 +1,42 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Combattant exaltant",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "727b46485183fb5777acda6297c425330554ddff",
+  "culture_invariant_id": 1633,
+  "sort_number": 1630,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "C'est le cœur vaillant qu'il ouvre la voie.",
+  "rules_text": "INSPIRE LES FOULES Durant votre tour, chaque fois que ce personnage en bannit un autre via un défi, vous pouvez jouer un personnage gratuitement.",
+  "card_identifier": "200/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=ed2962f07673fb0a3dc97aabf4ae7fc41d058f313dc041bc0c8bb9d0e95054f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=59c783a1639ef78f79de23a4685e7caea94cf3324b0715d550b9625634c6960a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=4c6c9917c2fdf00595982597404410d47fffa4b89f3b7856a72cdf7746b2287c",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=b7409fe7fbc4d51b9e91a635d2a85ebe5b1290e061a1ee3f0283e44e9ff7858c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

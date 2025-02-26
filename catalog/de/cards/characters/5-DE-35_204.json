@@ -9,7 +9,7 @@
   "author": "Malia Ewart",
   "deck_building_id": "04a79bb0eca187a8b814a8086f523827a8495e69",
   "culture_invariant_id": 991,
-  "sort_number": 1000,
+  "sort_number": 999,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=1e44a0aadb129497cc3eeebd1212c43b062cb6f877b5e3172b1c59f57ac4de9c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=1e44a0aadb129497cc3eeebd1212c43b062cb6f877b5e3172b1c59f57ac4de9c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=b7cf9c6adad70e542b6239158b20a6f3396b517036a2a0221be00420ee05e226"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=b7cf9c6adad70e542b6239158b20a6f3396b517036a2a0221be00420ee05e226"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c6887e51a7abae3e20fc826f9c69e82c6d134baba27146dd867ec04dd5c9aaf3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c6887e51a7abae3e20fc826f9c69e82c6d134baba27146dd867ec04dd5c9aaf3",
   "card_sets": [
     5
   ],

@@ -9,7 +9,7 @@
   "author": "Carlos Ruiz",
   "deck_building_id": "68146d6fa08641ea608a09555035a71d11aef35e",
   "culture_invariant_id": 836,
-  "sort_number": 846,
+  "sort_number": 845,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=81c1c0f0e4aabc05b32d150a248dfda3936089441b5f207f5706e2befc586517"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=81c1c0f0e4aabc05b32d150a248dfda3936089441b5f207f5706e2befc586517"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=822ee20a8029774c3927e42bd4ceac54b46ecc515a97b6629997ea581ea6baae"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=822ee20a8029774c3927e42bd4ceac54b46ecc515a97b6629997ea581ea6baae"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=2e1b50fc03fe445de96f71def37fdc5a02e09065110e2d58efe807567f015fec",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=2e1b50fc03fe445de96f71def37fdc5a02e09065110e2d58efe807567f015fec",
   "card_sets": [
     4
   ],

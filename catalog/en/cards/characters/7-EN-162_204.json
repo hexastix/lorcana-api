@@ -1,0 +1,42 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Happy as a Clam",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1595,
+  "sort_number": 1592,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "COOLEST COLLECTION When you play this character, return up to 2 item cards from your discard to your hand. I'M BEAUTIFUL, BABY! Whenever this character quests, you may play an item for free.",
+  "card_identifier": "162/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=77d8ef6e1ea965a0339676ba411fef503037d05c083f659d003e34247c4e21f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=52a2ae77b3062895b0b1c81928bf853b8c3e0be470cc7b793388388e8942cd54"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=e4e9bb07b9212b33d6fb6a6e5b870659a069e5ca1100fffd81becb4843906cb1",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=054a77378dc96b2437886395d1849c978ecb726b26551c32bf56b6818584fbd3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

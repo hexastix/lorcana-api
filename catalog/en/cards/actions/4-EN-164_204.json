@@ -5,7 +5,7 @@
   "author": "Rachel Elese",
   "deck_building_id": "a42da0e7fb78600ad53ee43454f669e4f312509b",
   "culture_invariant_id": 855,
-  "sort_number": 865,
+  "sort_number": 864,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=20d8ee13670cacd91571193bd282239fed902c1955f3b31689563f23023af681"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=20d8ee13670cacd91571193bd282239fed902c1955f3b31689563f23023af681"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=bc0ad901fc6afcbc3ddbedd9612f08032ecd44886f16fd0b2443907db257ebec"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=bc0ad901fc6afcbc3ddbedd9612f08032ecd44886f16fd0b2443907db257ebec"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=b2be77156e4411eb4cc4821603ba0b46ebee0eac4491c225d9e15990fa00e170",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=b2be77156e4411eb4cc4821603ba0b46ebee0eac4491c225d9e15990fa00e170",
   "card_sets": [
     4,
     9

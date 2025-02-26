@@ -1,0 +1,35 @@
+{
+  "name": "So Much to Give",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "47f551a402c331ac81e1b4f502c282a9cdb4dc34",
+  "culture_invariant_id": 1471,
+  "sort_number": 1468,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 2 or more can to sing this song for free.) Draw a card. Chosen character gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "38/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=07bed60bb19678a9eddb369ae131998c2c593703eb57ac9a800c3c3be25cb888"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=a10deeeb27118b61b2d76e93b4a9e9b495a4fb03b71a0c6e22cd3633df28f89e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=0615590320cb43ddb3fc943ffca4f4855b405f40ae873746c9b772aff518ee7e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

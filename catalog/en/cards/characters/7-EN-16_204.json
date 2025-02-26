@@ -1,0 +1,40 @@
+{
+  "name": "Mariano Guzman",
+  "subtitle": "Handsome Suitor",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "96e9154811d25333627f2c164557f25cf35abeae",
+  "culture_invariant_id": 1449,
+  "sort_number": 1446,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "The puzzles of the heart are trickier than anything Archazia could come up with.",
+  "rules_text": "I SEE YOU While you have a character named Dolores Madrigal in play, this character gets +1.",
+  "card_identifier": "16/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=9af1af83ad91a8fadeee1ca22b83987b225827116585a56d0eb23dd4f8680233"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=26da676027cae862820370472957f45160b1365d6eb27fd81ac7ec746f2714c2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/1574bddb75c78a6fd2251d61e2993b5146201319.jpg?checksum=2d9208ca282647dcecf949fbe625fa43486faea6c05ee7c0ea64401e61de2d47",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

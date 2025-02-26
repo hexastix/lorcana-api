@@ -5,7 +5,7 @@
   "author": "Michaela Martin",
   "deck_building_id": "b2698b79ffc3b73ed2fbd0eb78ade15a624dace1",
   "culture_invariant_id": 1296,
-  "sort_number": 1295,
+  "sort_number": 1294,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=11a25774804611f3eabf86c6b5c8dfa15b7661acfd37463b7dd192128183c010"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=11a25774804611f3eabf86c6b5c8dfa15b7661acfd37463b7dd192128183c010"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=ba23d09d2a2533d2676f56ab592c06524dff828ad39277f1be38b18cb09c5e98"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=ba23d09d2a2533d2676f56ab592c06524dff828ad39277f1be38b18cb09c5e98"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f064cd3b4a6ea031412b662abb696dec7b48e392702076b5a9213b6cdea99cf3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=f064cd3b4a6ea031412b662abb696dec7b48e392702076b5a9213b6cdea99cf3",
   "card_sets": [
     6
   ],

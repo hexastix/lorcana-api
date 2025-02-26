@@ -1,0 +1,42 @@
+{
+  "name": "Stabbington Brother",
+  "subtitle": "Without a Patch",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "81f21ee6476f7c8c81ebff1d297c52457d8fc8e4",
+  "culture_invariant_id": 1558,
+  "sort_number": 1555,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rush"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rush (This character can challenge the turn they're played.) GET 'EM! Your other characters named Stabbington Brother gain Rush.",
+  "card_identifier": "125/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=9a05c91008c77d355722992af5aaccc5e06a84df3964705f53a70f45cf18f751"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=63f92f26597b15f5424fb52f2657cdf15d6b394249820b6a19d7adc9c26bf64d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a23df63e9f3624c8b6e944ddebbdc863fdf386fdc16c046fcaaad64050416340",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

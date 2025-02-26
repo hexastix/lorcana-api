@@ -9,7 +9,7 @@
   "author": "Kasia Brzezinska",
   "deck_building_id": "b5dc77f02c6bd98a899931617aa411e51cb55e4e",
   "culture_invariant_id": 511,
-  "sort_number": 546,
+  "sort_number": 545,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=945e0bf3c3646535c1a05d4d5332ff54330689f1bcb8e556f246476f5e645136"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=945e0bf3c3646535c1a05d4d5332ff54330689f1bcb8e556f246476f5e645136"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=62e6b05a02d6dcf719616f125cf28a58c6f1857897bbef0a630e6cfc67c1c281"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=62e6b05a02d6dcf719616f125cf28a58c6f1857897bbef0a630e6cfc67c1c281"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=22c89976558d7a739fb195ef0cf9a24f935bce8a0147f6e5352d181d9cb87c7d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=22c89976558d7a739fb195ef0cf9a24f935bce8a0147f6e5352d181d9cb87c7d",
   "card_sets": [
     3
   ],

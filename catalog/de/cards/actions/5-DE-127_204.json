@@ -5,7 +5,7 @@
   "author": "Brian Kesinger",
   "deck_building_id": "8248c978719b5c75b9b75c52ba7e436f3fc416db",
   "culture_invariant_id": 1083,
-  "sort_number": 1092,
+  "sort_number": 1091,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=fd88c5c6f925e3b07b5bfa21a3598f83c1a7708348fecf9b39c4c2a476e9a8c5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=fd88c5c6f925e3b07b5bfa21a3598f83c1a7708348fecf9b39c4c2a476e9a8c5"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=19cb94df3ba285679d0ccb21d0981ac8752cc25f1c9f25fead6b5633829c00de"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=19cb94df3ba285679d0ccb21d0981ac8752cc25f1c9f25fead6b5633829c00de"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=bf66f34a5fbdb2d20dd4602b402504d12270624f89aea364bb77e07ca490ac40",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=bf66f34a5fbdb2d20dd4602b402504d12270624f89aea364bb77e07ca490ac40",
   "card_sets": [
     5
   ],

@@ -9,7 +9,7 @@
   "author": "Miss Tania Soler",
   "deck_building_id": "40c4bd3ba073f42de5b7fe1697a04fdd67105db4",
   "culture_invariant_id": 830,
-  "sort_number": 840,
+  "sort_number": 839,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=dbf388a7716d852c7b32a695e795d07f87254dfd9a9209e6f5ab2dfa89f77e3e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=dbf388a7716d852c7b32a695e795d07f87254dfd9a9209e6f5ab2dfa89f77e3e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=033ee7e0546f87cb72b2d041d8502581983c0d9ffd902e5b035f25899cd69607"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=033ee7e0546f87cb72b2d041d8502581983c0d9ffd902e5b035f25899cd69607"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=51023af3782b5a405cc2535c2e889747fff092734a692105f2f770d0671ac0b2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=51023af3782b5a405cc2535c2e889747fff092734a692105f2f770d0671ac0b2",
   "card_sets": [
     4
   ],

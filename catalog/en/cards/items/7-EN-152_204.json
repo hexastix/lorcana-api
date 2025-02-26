@@ -1,0 +1,33 @@
+{
+  "name": "Devil's Eye Diamond",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1585,
+  "sort_number": 1582,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Just look at it, filled with power for its owner. —Madame Medusa",
+  "rules_text": "THE PRICE OF POWER — If one of your characters was damaged this turn, gain 1 lore.",
+  "card_identifier": "152/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f2379201c98ae6552ba2c9aa535afb5b577f9354de6aaed905acfcbcb73341d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f63b428f286ff624d7ff018322c9b015763a4ea2a768dfa56eebd8cf27974a1c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=77c6fcd94542ebb117c5f0506ddd4fce14c460508109793e3459a5b65aa7515f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

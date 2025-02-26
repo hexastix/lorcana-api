@@ -5,7 +5,7 @@
   "author": "Kristen Kaluba",
   "deck_building_id": "ee955829a8966f3315097e2637aafd172c098344",
   "culture_invariant_id": 1333,
-  "sort_number": 1332,
+  "sort_number": 1331,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=c127682ec2bbda8512187e39890fbbcd48785c882515b8d7bba684d6a0bd490a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=c127682ec2bbda8512187e39890fbbcd48785c882515b8d7bba684d6a0bd490a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=83038e2ba6ed240a9b828051b5a8bd83610c69a94fa344a62830160420cce76d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=83038e2ba6ed240a9b828051b5a8bd83610c69a94fa344a62830160420cce76d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=47f72fdaa0dc728b64c0d2c3c109ec031fe7547931ef1c2225a54ed2516785fc",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=47f72fdaa0dc728b64c0d2c3c109ec031fe7547931ef1c2225a54ed2516785fc",
   "card_sets": [
     6
   ],

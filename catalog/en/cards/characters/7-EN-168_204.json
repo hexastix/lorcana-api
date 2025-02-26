@@ -1,0 +1,40 @@
+{
+  "name": "Freckles",
+  "subtitle": "Good Boy",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Laura Pauselli",
+  "deck_building_id": "f21c908b247d9cbe4e6848d00540186be031c963",
+  "culture_invariant_id": 1601,
+  "sort_number": 1598,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "I want to play with the others! Can I, Dad? Please?",
+  "rules_text": "JUST SO CUTE! When you play this character, chosen opposing character gets -1 this turn.",
+  "card_identifier": "168/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=d03e9a48354618130ab7d562d18644515c6bc4b205063cc89b600fff22f156c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=5dc2e32ba787945980212dcd21a5c394bfd40ba2b22d5aac72b92dbcb44c479e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=28d83012d6f3e31a4a14fe6a2f0169dd44b0acbc463b6429c20707d8928c6291",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

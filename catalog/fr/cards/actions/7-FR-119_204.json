@@ -1,0 +1,34 @@
+{
+  "name": "Geyser d’encre",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "d4b8b8bbbaefeaf584e85192063ab4a5fce656af",
+  "culture_invariant_id": 1552,
+  "sort_number": 1549,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque joueur épuise toutes les cartes de sa réserve d'encre. Ensuite, chaque joueur avec plus de 3 cartes dans sa réserve d'encre renvoie des cartes au hasard de sa réserve d'encre dans sa main jusqu'à n'en avoir plus que 3 dans sa réserve d'encre.",
+  "card_identifier": "119/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=484e72624705f827eb8867033332b373723e9bdfaf5a59823a19b49b9c886a1c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=3f70e4178ae876511445701e671848dff02312901b5957be6cf199c16a2b69cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=f2d82bd4d1b47180abbdeee21d6fa619d98a324a9ccd0fae5ab9f522c5fb7525",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Javi Salas",
   "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
   "culture_invariant_id": 645,
-  "sort_number": 680,
+  "sort_number": 679,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=395e9c392b189d1b109ddd85c05d32d1b59e2155464c2f662f5c8d94da3d5e0b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=395e9c392b189d1b109ddd85c05d32d1b59e2155464c2f662f5c8d94da3d5e0b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=8d28470687f57fd5e816e52d355615a64eaaaaf28486b4b6d80074d8d5bc506c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=8d28470687f57fd5e816e52d355615a64eaaaaf28486b4b6d80074d8d5bc506c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=bbf42a4fc376250e1be4db82f23c2be50cc247f40a408c16d457c312389eb63d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=bbf42a4fc376250e1be4db82f23c2be50cc247f40a408c16d457c312389eb63d",
   "foil_type": "Lava",
   "card_sets": [
     3

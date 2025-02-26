@@ -1,0 +1,41 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Testata in Battaglia",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e89d02771a72229278fa2e4100374bf2c2eb63e0",
+  "culture_invariant_id": 1469,
+  "sort_number": 1466,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pilota"
+  ],
+  "flavor_text": "Preparazione e fortuna — puoi affidarti soltanto a una delle due per vincere un combattimento!",
+  "rules_text": "VANTAGGIO TATTICO Quando giochi questo personaggio, puoi scegliere e scartare una carta per dare a un personaggio avversario a tua scelta -3 fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "36/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=2f2e900c8a183c14f75757c8221a9ba16b4abfd8aa2d20cbc3117b68456da523"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=56707edc710e94055ad945249f87cfc20a6defd08475972a2c4d27b5aa7517dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=55aff824b6497071a9eeae7d9aaa5a41f9f9baab7f15a2e34dbce3c4b0a0d3c8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

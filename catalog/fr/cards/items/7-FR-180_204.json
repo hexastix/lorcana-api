@@ -1,0 +1,33 @@
+{
+  "name": "Chargeur de Baymax",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "809b5752ee2de600186f4bd616bff5e0ec7a1806",
+  "culture_invariant_id": 1613,
+  "sort_number": 1610,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Batterie à 100%. Paré pour l'action !—Hiro Hamada",
+  "rules_text": "CONVERTISSEUR D'ÉNERGIE Chaque fois que vous jouez un personnage Floodborn en utilisant sa capacité Alter, vous pouvez piocher une carte.",
+  "card_identifier": "180/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=d66598555a7d07b1f6ba837155b645a62737f62de7a7f83c8993bb9bc042cd43"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=fa8d45f6f4431a2060fecab02ed25a9781915fa6ba808d4a5de25d28eef00fb4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=e8562f22d55f6fd294421dc8682d34368125db43c911b29c097a915a74fd40b3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

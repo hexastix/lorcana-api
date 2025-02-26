@@ -1,0 +1,41 @@
+{
+  "name": "Isma",
+  "subtitle": "Verärgerte Intrigantin",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mel Milton",
+  "deck_building_id": "1549f70d69d265a807a772bbb979f346c7040f6a",
+  "culture_invariant_id": 1534,
+  "sort_number": 1531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Einer davon muss der richtige Schalter sein, doch ich wäre die Tante eines Lamas, wenn ich wüsste welcher …",
+  "rules_text": "WIE SOLL ICH ES TUN? Wenn du diesen Charakter ausspielst, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "101/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=804829ea0a52358206c5d97cc36aab24cb87470476c0b73e392b641083bd147d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=96a79520936e20d4ea4b46a310be3953be874b4e6d1d8ff98c09d86b7cf6e9d0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=cc728f283e0823bcfc756c4c9e4d9a0ece575867f5118e0c1d5102c309269212",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

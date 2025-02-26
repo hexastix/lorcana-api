@@ -1,0 +1,42 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Flustered Sorcerer",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Rachel Elese",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1642,
+  "sort_number": 1639,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "OBFUSCATE! Opponents need 25 lore to win the game.",
+  "card_identifier": "209/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f8d4703b8f295350eb50571cc8ea7934cddafe46ab16861543ece037ecea6a17"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=6bfd10240159749773df54735298be0d3c07b54ff01da61a21d8c0255e27a29c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=453a50cd50aa3a5c0ed394f957c6457854608aa4921cbb212ba68f6ffb257f4d",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

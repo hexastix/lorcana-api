@@ -1,0 +1,44 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Courageous Rescuer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d15917edc226a4d5a0f74f8b78306c814c3c1a48",
+  "culture_invariant_id": 1459,
+  "sort_number": 1456,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Racer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Calhoun.) BACK TO START POSITIONS! Whenever this character challenges another character, you may return a Racer character card from your discard to your hand.",
+  "card_identifier": "26/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=02efe7fa111e6bffbd47a428c3dd73db7a9be6a3f4af645a4f8bfeb13422627a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=3d694642c1d5fecc273429a73bf4b08bd94043be176f49e09569326030fee59d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=9b759b27556eca07a35f32f176a555d308cc9dde5d15078be8dbfb6963ef09db",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

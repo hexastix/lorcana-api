@@ -5,7 +5,7 @@
   "author": "Alex Shin",
   "deck_building_id": "af9346263084f8db2def377ca5195d0e6c557948",
   "culture_invariant_id": 567,
-  "sort_number": 602,
+  "sort_number": 601,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=421b978f9af23b4123129c2059cb5297df96baa5c1c6d2a62d7652b1df464b1e"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=421b978f9af23b4123129c2059cb5297df96baa5c1c6d2a62d7652b1df464b1e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=4cf8cf1722407cddf32b3dd8d8fd4c3c1ddd2e03c23948da92a65553c3757cf8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=4cf8cf1722407cddf32b3dd8d8fd4c3c1ddd2e03c23948da92a65553c3757cf8"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=ac7364436b5c73cf2eb55121d1430cb0d26dcec01ef56d069e20267eb04ed966",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=ac7364436b5c73cf2eb55121d1430cb0d26dcec01ef56d069e20267eb04ed966",
   "card_sets": [
     3
   ],

@@ -5,7 +5,7 @@
   "author": "Adam Ford",
   "deck_building_id": "d155c19a7e92dc65f53ce5d529431fec5fb85353",
   "culture_invariant_id": 1120,
-  "sort_number": 1129,
+  "sort_number": 1128,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=3d872183292142420bdbdb8d5098c62c3459091f5477b0c42ae2b14c2d37e01f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=3d872183292142420bdbdb8d5098c62c3459091f5477b0c42ae2b14c2d37e01f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=257ce0358c26ca8401204990f43770c1fd273de22475d395d5a20f34d2ff0994"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=257ce0358c26ca8401204990f43770c1fd273de22475d395d5a20f34d2ff0994"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=919bd1ee96303768fea97da6fa8abd490fb8158e52c0d991a5a151f638c75648",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=919bd1ee96303768fea97da6fa8abd490fb8158e52c0d991a5a151f638c75648",
   "card_sets": [
     5
   ],

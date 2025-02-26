@@ -9,7 +9,7 @@
   "author": "Andreas Rocha",
   "deck_building_id": "52ec9a7c34475277f634f704e9058f3740be19fe",
   "culture_invariant_id": 1058,
-  "sort_number": 1067,
+  "sort_number": 1066,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c0835f1f16dcd45fbc23a0260ae7387b63d5b7099d287239e6adc97acef45b4d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c0835f1f16dcd45fbc23a0260ae7387b63d5b7099d287239e6adc97acef45b4d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=8bc7e24298397241b75b52a8a88dd275eac0afe8f784e66b2a89df88794771b9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=8bc7e24298397241b75b52a8a88dd275eac0afe8f784e66b2a89df88794771b9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e208e3d64825168f40576be1ef52a7d4b0afcc456895630d3e29d9c73c02aeac",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e208e3d64825168f40576be1ef52a7d4b0afcc456895630d3e29d9c73c02aeac",
   "card_sets": [
     5
   ],

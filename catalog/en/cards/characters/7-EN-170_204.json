@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Eye for Detail",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a4d8629141486ff391420a5a92cc523b1bdfc285",
+  "culture_invariant_id": 1603,
+  "sort_number": 1600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "There’s been a heap of legends and tall tales about Robin Hood. All different too. —Alan-a-Dale",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "170/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=d9eab55a19aba3f9ea1676e9cabab96e1c6e3eaddceeb0a8c44d43317c222fc8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=92c4455734ba3aa5c7ef71c123ccb9d1be221f6b5a910ea378d38e3c347ac9fd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=6d1c3089c3c2d230db77914319bc4704a235297cadfbec466931356de5928e5c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

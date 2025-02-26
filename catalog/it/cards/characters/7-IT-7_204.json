@@ -1,0 +1,41 @@
+{
+  "name": "Gilda",
+  "subtitle": "Intrattenitrice Nata",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "762d1029f027634d776b43710b50208449173fad",
+  "culture_invariant_id": 1440,
+  "sort_number": 1437,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Era nata per essere una star, non importa dove si esibisse.",
+  "rules_text": "PUBBLICO RAPITO — Se hai in gioco 3 o più altri personaggi, pesca una carta.",
+  "card_identifier": "7/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5b796ac8281ef3eee074ab6efe2a72adb6aae97e76ee2aa692e359c31a24c89c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=240d54399423c5a77747230f8c26f5fd84e56934b73b570f63fb785b624bfec1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=bc060ba4219eb079a7854adc1f853c6e724a2c3e8245599b867d5d52693523cb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

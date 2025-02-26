@@ -1,0 +1,41 @@
+{
+  "name": "Grewnge",
+  "subtitle": "Esperto di Cannoni",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simangaliso Sibaya / Mario Manzanares",
+  "deck_building_id": "953728c67c2d903d508f34dfca89bfb6c27fcbc2",
+  "culture_invariant_id": 1519,
+  "sort_number": 1516,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Pirata"
+  ],
+  "flavor_text": "Ama due cose: le esplosioni e ancora più esplosioni.",
+  "rules_text": "FUOCO RAPIDO Ogni volta che questo personaggio va all'avventura, paga 1 in meno per giocare la tua prossima azione per questo turno.",
+  "card_identifier": "86/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=8edfd8110fa1e69d9ad225b167d795147507129c31e0e07a63d9961bfe1aa9a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=b3d5933f0455f1cca3bbf86a4404c961330cd1f0aaa07118d6402fec4c19bcb1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=ea9bea5a606dd731e93abbc2b20cb54fe6ab81fe4efba511dc8c305484f4b3cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

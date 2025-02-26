@@ -9,7 +9,7 @@
   "author": "Amber Kommavongsa",
   "deck_building_id": "d7114e7a4426e7b0c237363dd0c72b71183ddbe2",
   "culture_invariant_id": 880,
-  "sort_number": 890,
+  "sort_number": 889,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=aa0761d0cdf73b67526821451d9ce8d5aba3cf8adc5a0ecec30b653b07c39886"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=aa0761d0cdf73b67526821451d9ce8d5aba3cf8adc5a0ecec30b653b07c39886"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=611c335c0450ea43317038daec8c62db5909d0f3594bfc9a6e4cb52740e772d0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=611c335c0450ea43317038daec8c62db5909d0f3594bfc9a6e4cb52740e772d0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=da54b4e92e8ebaa8bd20cb68418347fc4282db0f6ce3582d4f3338df3f27ece2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=da54b4e92e8ebaa8bd20cb68418347fc4282db0f6ce3582d4f3338df3f27ece2",
   "card_sets": [
     4
   ],

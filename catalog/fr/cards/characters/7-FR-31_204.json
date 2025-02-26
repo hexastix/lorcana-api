@@ -1,0 +1,42 @@
+{
+  "name": "Minnie",
+  "subtitle": "Conteuse",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "SCG",
+  "deck_building_id": "40e23a6aa4e9b85c3ae4a6b8a3433cc2c36a426c",
+  "culture_invariant_id": 1464,
+  "sort_number": 1461,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "APPROCHEZ-VOUS Chaque fois que vous jouez un personnage, ce personnage-ci gagne +1 pour le reste de ce tour. JUSTE UNE DERNIÈRE ! Chaque fois que ce personnage part à l'aventure, choisissez un personnage adverse qui perd autant de que le de ce personnage-ci jusqu'au début de votre prochain tour.",
+  "card_identifier": "31/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=196ebb45b21da4f971ae5fa0f33476ca8df1035bf93220c62811bbb44df4fbc1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6a4c90d356f151bf54434d895f2c3731c366bcb7c2975bb1f52fa44f4fd926ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=dc1b65792bc815e803370951c8cc4d5d0bbbfe618fdb6936dc71c522e7cd09fa",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6d77d51385bcd60dcadc63053ab48bf14bbd3a1b9cfb2d4c4d4b2821829f18a9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

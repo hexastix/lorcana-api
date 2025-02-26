@@ -1,0 +1,40 @@
+{
+  "name": "Toulouse",
+  "subtitle": "Chaton artiste",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Celeste Jamneck",
+  "deck_building_id": "27718e9c6fa9fbce1ded888a8cdc3f4723eabffb",
+  "culture_invariant_id": 1598,
+  "sort_number": 1595,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Il pressa le tube pour en extraire plus de peinture et se trémoussa de plaisir. Archazia était très amusante, même s'il s'agissait d'une chouette géante. Elle possédait tellement de nouvelles couleurs pour peindre!",
+  "rules_text": "",
+  "card_identifier": "165/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e11a8e4d666ef38b7ac0a2832870ec67803e35fd413d5b7105fa6875bf06bc6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=5f320c252306c4069b7bd2d72fb7109134e6be825b783bd0e0805717bb02e234"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=f97306d977670efd7562a1b6c5ebeeb0b04303fa71cb9a3d82cf11ca1dae9e16",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

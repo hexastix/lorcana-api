@@ -1,0 +1,35 @@
+{
+  "name": "Es kommt zu dir",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1611,
+  "sort_number": 1608,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Folg dem Nordwind, denn er bringt%dich zum Meer hin, wo ein Fluss entspringt",
+  "rules_text": "(Du kannst einen Charakter, der 5 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Lege bis zu 2 Karten aus deinem Ablagestapel verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "178/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=066495cc57b1bf928b924396784c74bd1497071b44d292430207cff063c91bd2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=4ffabfb6728b1fd6550a2849db45326f11f98f0434d996ddb8d9e16f79f31c0e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=ca4ca0e7fbbb4eb252f164b59eb3e550821a4c3a69b7829b3207d1f9fc06f10a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

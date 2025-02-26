@@ -1,0 +1,43 @@
+{
+  "name": "Pascal",
+  "subtitle": "Caméléon de jardin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Aubrey Archer",
+  "deck_building_id": "dbbfc68f60125a864a3dff7e2bf4693570e24611",
+  "culture_invariant_id": 1452,
+  "sort_number": 1449,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Une fois Pascal dans les parterres de fleurs d'Archazia, il était impossible de l’en faire sortir.",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "19/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e874887edf7d37b0646f07488ebe2d4df85eaa4de805b8e962934600f201262e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=530271ad3ded37501137dd7122a9208bfd758525d918d46eb3d4d976f46d21c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=7770dc56d81dd8dd831fe60e575e20585d542f4f1c5386803458848c326c809f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

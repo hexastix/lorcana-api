@@ -1,0 +1,34 @@
+{
+  "name": "Le Diamant Œil-du-Diable",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1651,
+  "sort_number": 1648,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LE PRIX DU POUVOIR — Si l'un de vos personnages s'est vu infliger des dommages ce tour-ci, gagnez 1 éclat de Lore.",
+  "card_identifier": "218/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=9079dfb47b8c1ef2ac448c45b0ba009ee537240a24cce37488389cae2e0fc35e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=d7e867bdb1c11a84f30ab04452eaf3d6594b87c380e9011987043f47eb8fd0ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=47bcfbdf42aa5e3a30f2c90262aff4edc3abf03e09dabea25b4937104f138b1c",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

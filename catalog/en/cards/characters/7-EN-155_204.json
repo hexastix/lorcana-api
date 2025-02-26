@@ -1,0 +1,41 @@
+{
+  "name": "Mattias",
+  "subtitle": "Arendelle General",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "370ac9a4fe75cd66bd7260022d0a49e58bd67d78",
+  "culture_invariant_id": 1588,
+  "sort_number": 1585,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Knight"
+  ],
+  "flavor_text": "You must move quickly before the trap resets. Go!",
+  "rules_text": "PROUD TO SERVE Your Queen characters gain Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "155/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=fe897aacdcbf81ee5c974ec8d526eb62869cfb4c64e30cf35f21765c56c7aba7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=297d8c3987d529d20c61f9989274e150500276c5bf28551fb52b97f180ea1942"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=40a0031c1931854a5c3e5e40b8918ba82d1a479cd1b6845538c87405cbfd660e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

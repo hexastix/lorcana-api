@@ -1,0 +1,35 @@
+{
+  "name": "The Return of Hercules",
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1551,
+  "sort_number": 1548,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Congratulations, Wonderboy. You’ll make one heck of a god. —Megara",
+  "rules_text": "Each player may reveal a character card from their hand and play it for free.",
+  "card_identifier": "118/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=8915f4043cda78576118df73c8e6569a5c2a249d6fb766ba688af7eec6e36ddc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=fddc3756ba6926214f6c2527e2a28ff6d52825716d8c1160a9e7c39b5c84d8c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=ee495f6522fd4de244ef419f57ec3fdd348a2cf65b742b5f2edf3795b24014e3",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=c51487a6618950a084f6f3cb76a3a7f24ffb2a461e645e0fd6dca2cdfaa8eccf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

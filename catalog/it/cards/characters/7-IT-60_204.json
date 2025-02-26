@@ -1,0 +1,40 @@
+{
+  "name": "Bucky",
+  "subtitle": "Bricconcello Svitato",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9e2af09893b0ca662b9ffaf6ed3e829170c038b7",
+  "culture_invariant_id": 1493,
+  "sort_number": 1490,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Oh, aspetta. Adoro questa parte! Fa scoppiare il palloncino e tutte queste ghiande schizzano via. Mi fa morire ogni volta.%—Kronk",
+  "rules_text": "POP! Quando questo personaggio viene esiliato in una sfida, puoi pescare una carta.",
+  "card_identifier": "60/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=3287a0a521040801ca34b3b37b9d05115580f5efd227774223cf2bb23c5dc33c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=de866afb4b46c463b284f5440a81e444c8a50d5ceb6a49eeaad8ba322d54793b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=afe992628b753a9910e8ee737c5d0139fc6d77c35b074177af4d5292fee878ed",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

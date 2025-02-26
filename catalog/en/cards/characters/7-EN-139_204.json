@@ -1,0 +1,42 @@
+{
+  "name": "Goofy",
+  "subtitle": "Extreme Athlete",
+  "strength": 7,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "96d401c6b682205be0432b7df1aee5a9856f9a11",
+  "culture_invariant_id": 1572,
+  "sort_number": 1569,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) STAR POWER Whenever this character challenges another character, your other characters get +1 this turn.",
+  "card_identifier": "139/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=e2b7816ef92d484855755e5e16a2cbb8ed09e702253d69fa17f90bed5284ef9c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=1142f3104e7e9551d373510886f8c5ce8e3f87f99ff9d2945d4ff2957aba2fc4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=4e23e8adc2d316c9d24de240df39f1fff1e1da92676e5d3aa555b3f3ed036514",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

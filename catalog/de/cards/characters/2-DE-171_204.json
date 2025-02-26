@@ -9,7 +9,7 @@
   "author": "Alice Pisoni",
   "deck_building_id": "166eafad1d590ff957396077a5bee751b022c264",
   "culture_invariant_id": 387,
-  "sort_number": 411,
+  "sort_number": 410,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4a99c4ed5afc35455e306d042784ccf76a47271e130d73514ff6492eb235bd28"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4a99c4ed5afc35455e306d042784ccf76a47271e130d73514ff6492eb235bd28"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=45162e96a9fdb47a00a04a1624594f79b94c336be561a34501ddd60694da4431"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=45162e96a9fdb47a00a04a1624594f79b94c336be561a34501ddd60694da4431"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=054781936559c9dba0a2b116aa9dad6ec11f2bcdec636c11a7e49289b6c95df3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=054781936559c9dba0a2b116aa9dad6ec11f2bcdec636c11a7e49289b6c95df3",
   "card_sets": [
     2
   ],

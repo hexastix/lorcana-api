@@ -1,0 +1,40 @@
+{
+  "name": "Card Soldiers",
+  "subtitle": "Royal Troops",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "dcb1ec98a56ada4be8acd345b0b77737465de130",
+  "culture_invariant_id": 1562,
+  "sort_number": 1559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "The Three of Hearts raised his spear and whispered to himself, While others fall, a Queen's soldier stands tall.",
+  "rules_text": "TAKE POINT While a damaged character is in play, this character gets +2.",
+  "card_identifier": "129/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=d03a7335ce58e0d0484d256c8eff347f8483528429c50123fb137c843c838f4a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=68fd3e2453e094d17be580c77eac1827567af389b475efcef136e34d4c6bde0a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=6cc3238b3c229ac1fbbaa7c3a5e43a5670f66ae4979cfc561feed6a770566684",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

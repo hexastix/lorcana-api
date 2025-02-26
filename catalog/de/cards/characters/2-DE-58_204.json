@@ -9,7 +9,7 @@
   "author": "Juan Diego Leon",
   "deck_building_id": "54e34e5ca1450807ff2d91e78c5462ae095adfd5",
   "culture_invariant_id": 274,
-  "sort_number": 298,
+  "sort_number": 297,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=fb87112d64165a2e65a1185d95bbb741dfa0e2aeaba01bf7824ac96af9b39ddc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=fb87112d64165a2e65a1185d95bbb741dfa0e2aeaba01bf7824ac96af9b39ddc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=99a0e7d34ad30542f6e106268cd042bbbe5fd274d1053c584fbf30ee5ac89a56"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=99a0e7d34ad30542f6e106268cd042bbbe5fd274d1053c584fbf30ee5ac89a56"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=2d834364ac8964e1b119d2e1870cd25c45670b424df20b15006ebb7c08adfbd9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=2d834364ac8964e1b119d2e1870cd25c45670b424df20b15006ebb7c08adfbd9",
   "card_sets": [
     2
   ],

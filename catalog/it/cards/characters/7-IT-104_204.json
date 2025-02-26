@@ -1,0 +1,44 @@
+{
+  "name": "Baymax",
+  "subtitle": "Robot Gigante",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "ad862baa5875379e40b08691465e23adf5ba70d0",
+  "culture_invariant_id": 1537,
+  "sort_number": 1534,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione Universale 4 (Puoi pagare 4 per giocare questa carta sopra a uno qualsiasi dei tuoi personaggi.) FUNZIONALITÀ POTENZIATA Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, rimuovi tutti i danni da esso.",
+  "card_identifier": "104/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=9db1450d64601d5f7fd4e1624b3751990dac19b817567dd25b983315fd2c2e1d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=34ee3287bccc46fdd310906564f7179b9604e2f5351785727600eb5daea2b087"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=87c812402c022bf7bc3222f15f2c39dbd4ecbe46ec6e8133e91d7a3c98b65210",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

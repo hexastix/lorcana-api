@@ -1,0 +1,44 @@
+{
+  "name": "Bolt",
+  "subtitle": "Superhund",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Beatrice Blue",
+  "deck_building_id": "a31d2bdbf009fa85ab285105f4b19017beef7180",
+  "culture_invariant_id": 1640,
+  "sort_number": 1637,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Bolt-Charaktere auszuspielen.) DAS ZEICHEN MEINER KRAFT Jedes Mal, wenn du diesen Charakter bereit machst, sammelst du 1 Legende für jeden deiner anderen unbeschädigten Charaktere im Spiel. BOLT LASERBLICK – Verbanne eine Illusion deiner Wahl.",
+  "card_identifier": "207/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=9418d256f4eef15e2476c14be6ecd953a096253ea4e1991416a9bf586d530b0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=cbac51ef3ec22b98172e27b3dc665f917b170ac488d0452f587cb1b3a4fa2f7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=ee27b25b291af8a672e138a2d8bfa3acaf117366443b22f532790da3b41840ef",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

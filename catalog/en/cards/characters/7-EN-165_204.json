@@ -1,0 +1,40 @@
+{
+  "name": "Toulouse",
+  "subtitle": "Artistic Kitten",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Celeste Jamneck",
+  "deck_building_id": "27718e9c6fa9fbce1ded888a8cdc3f4723eabffb",
+  "culture_invariant_id": 1598,
+  "sort_number": 1595,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He squeezed more paint from the tube and wiggled in delight. Archazia was fun, even if she was a giant owl. She had so many new colors to paint with!",
+  "rules_text": "",
+  "card_identifier": "165/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=a9b2feb7fa217d2750795de3a4d5c3c5c98910ad9d4a3b0c9174dd04f13b47a0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=ff5d42586a31a5a70770f3ccf870bff9a126b77dffe3848789b45940f166c656"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=9923557da05812ad663d65903498f94fd6c872a3d66eb84557275dd7c09d265b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

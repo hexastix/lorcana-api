@@ -1,0 +1,41 @@
+{
+  "name": "Re di Cuori",
+  "subtitle": "Monarca Schizzinoso",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "58b431f0b98bc1d4b41d41d858487fce9f552032",
+  "culture_invariant_id": 1544,
+  "sort_number": 1541,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Re"
+  ],
+  "flavor_text": "Tu, laggiù! Non puoi stare qui in questo stato. Vattene, prima che la Regina veda questo disastro!",
+  "rules_text": "IN UNO STATO DEPLOREVOLE I personaggi danneggiati non possono sfidare i tuoi personaggi.",
+  "card_identifier": "111/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=887e6507e08df174f49ce1d5a074c96e42a3af6f3409f325cc41f7bf7a0b9852"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=dda3348faa6df0308e5af36679fde96f333c379dc859ed2e0707d63a7bd118ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=837377e4796c03670742b6377fb3db6be93ccc53f715b49344073fb95b4b0e4b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

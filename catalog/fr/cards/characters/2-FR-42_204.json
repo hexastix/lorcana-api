@@ -9,7 +9,7 @@
   "author": "Matt Chapman",
   "deck_building_id": "83b99c29716dc645e59792cecd067f6715bc51fd",
   "culture_invariant_id": 258,
-  "sort_number": 282,
+  "sort_number": 281,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=7e6f593a4190c053ec9c43697477c7d590a6991b4abe261cc1993c5e4a1df464"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=7e6f593a4190c053ec9c43697477c7d590a6991b4abe261cc1993c5e4a1df464"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=197f39a64865c5a4c96f7d3310d811a1cfa4d5151e9f53b3d6b901d09eabc0a9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=197f39a64865c5a4c96f7d3310d811a1cfa4d5151e9f53b3d6b901d09eabc0a9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=3efd96b126486a3536ee3aa4fc1a2463f38dd050c5403aa87ad35a88c7bdb4bb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=3efd96b126486a3536ee3aa4fc1a2463f38dd050c5403aa87ad35a88c7bdb4bb",
   "card_sets": [
     2
   ],

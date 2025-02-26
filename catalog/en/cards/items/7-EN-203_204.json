@@ -1,0 +1,33 @@
+{
+  "name": "Steel Coil",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ffb0c77401e035728f3eb2f32bed33d56dcc8e09",
+  "culture_invariant_id": 1636,
+  "sort_number": 1633,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "As the coil clicked onto Shanzay's arm, she felt a strengthened sense of clarity.",
+  "rules_text": "METALLIC FLOW During your turn, whenever a card is put into your inkwell, you may draw a card, then choose and discard a card.",
+  "card_identifier": "203/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=295e828231f227518837ad559a964b6e4cccd5cb1a98a3c73d93445dd74f87f0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1617be5ba8c8f4feb0fd2297e3f8d594859221700cb35925b58260c1d5d05445"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=a6f832675a2ff56e6d47adaf3dae884f54535c9cb4a4a698efff179cd35e1c63",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

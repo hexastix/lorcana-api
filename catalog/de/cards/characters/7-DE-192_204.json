@@ -1,0 +1,40 @@
+{
+  "name": "Kokomora",
+  "subtitle": "Piratenbande",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "968fb5547e711a20578bb568ded5ae7b8bffbf73",
+  "culture_invariant_id": 1625,
+  "sort_number": 1622,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Pirat"
+  ],
+  "flavor_text": "Die sind … irgendwie süß.%–Vaiana",
+  "rules_text": "ANGEBEREI Solange du mindestens einen weiteren Piraten im Spiel hast, erhält dieser Charakter Herausfordern +3. (Während der Charakter herausfordert, erhält er +3.)",
+  "card_identifier": "192/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=832f41d843aa3845c5475a50e56d57ea5a42af52ba7cdb8b5dc48f025edac90f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=f650785861d32a325fcf776650018a6b1a851ad655c84516a8272c220953b627"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=0cc35af5015bcaa2711d2c7f7fa36199818a48cbf6c908d2c809a3ce2f365280",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Manovre Magiche",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jennifer Wu",
+  "deck_building_id": "d587c3f09f6a2381566ef6cc840935c84c29d8dc",
+  "culture_invariant_id": 1513,
+  "sort_number": 1510,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Oh, sono sicura che non sia un problema se spostiamo queste trappole. Ad Archazia non dispiacerà un po' di magia.%—Flora",
+  "rules_text": "Riprendi in mano un tuo personaggio a tua scelta. Impegna un personaggio a tua scelta.",
+  "card_identifier": "80/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=35dd606d95e196c2dbc116488e57d7cf2ce8fcaa90c21f9ea737e9e76669a0f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=f647378830d19d9530a9e6ab7175f4f7a4c80f079bc238db0daf4ad817a21c9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=b22a364bf81ae47ab6093f8ae6bda323ae7cd0d4c57e9c7c728ccf785323975a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

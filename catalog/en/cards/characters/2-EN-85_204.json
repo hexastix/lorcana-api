@@ -9,7 +9,7 @@
   "author": "Isabella Ceravolo",
   "deck_building_id": "ee4d4809396b53e10d975f147e56450ed93eaaff",
   "culture_invariant_id": 301,
-  "sort_number": 325,
+  "sort_number": 324,
   "additional_info": [
     {
       "title": "FAQ 2",
@@ -28,14 +28,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9e25b780f16f0d3cdf59d7f1d554dd943dd457b97c9bf727878912e41733a546"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9e25b780f16f0d3cdf59d7f1d554dd943dd457b97c9bf727878912e41733a546"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=15309146e9765b50ba7304b94ffdba4d9679f49882ac2ba2eed6350dd1310f1c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=15309146e9765b50ba7304b94ffdba4d9679f49882ac2ba2eed6350dd1310f1c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=caa9b4d98dbb41b5774d0770153faffab424f5c419ba662cf1aecd3f8bbd55c2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=caa9b4d98dbb41b5774d0770153faffab424f5c419ba662cf1aecd3f8bbd55c2",
   "card_sets": [
     2
   ],

@@ -9,7 +9,7 @@
   "author": "Louis Jones",
   "deck_building_id": "560738cc26ab41c3b9302243666e56a60e99e4df",
   "culture_invariant_id": 1072,
-  "sort_number": 1081,
+  "sort_number": 1080,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=f17b413f4ea4d610818d8af2735fba354cbeace6fb869a1b4223017a7786f1f0"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=f17b413f4ea4d610818d8af2735fba354cbeace6fb869a1b4223017a7786f1f0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=269c5ac1df97c373fe9d801f6919ffcd416b9dcc909b04ac29f508a9b14641b9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=269c5ac1df97c373fe9d801f6919ffcd416b9dcc909b04ac29f508a9b14641b9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=5e1f82d854ca478d1e84fc478c6ffacd19cc360030e2d587bfe82a2c1b87a8d4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=5e1f82d854ca478d1e84fc478c6ffacd19cc360030e2d587bfe82a2c1b87a8d4",
   "card_sets": [
     5
   ],

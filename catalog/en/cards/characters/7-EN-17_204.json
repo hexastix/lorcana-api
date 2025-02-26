@@ -1,0 +1,41 @@
+{
+  "name": "Candlehead",
+  "subtitle": "Dedicated Racer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "735997cb2d2bb3550d9657a45ff6656a73b7c2eb",
+  "culture_invariant_id": 1450,
+  "sort_number": 1447,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Racer"
+  ],
+  "flavor_text": "",
+  "rules_text": "WINNING ISN'T EVERYTHING When this character is banished, you may remove up to 2 damage from chosen character.",
+  "card_identifier": "17/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=45f7d7158bc8a76f59d9e03f0eef59c9b08678c9f60eb4d107bd77a073af7a96"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=3128dbc235dda3b4f5269a264c63b9590be9e54a052ecf25249a0ce2263151c1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=20dd90e97f7e5d91935c502571074a56ae3c02961c7ebc1d74dfa28c144ccc04",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "La Dame marieuse",
+  "subtitle": "Experte impitoyable",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "37ceefedfc5a4857cf51f3b75ec149712c62fdab",
+  "culture_invariant_id": 1556,
+  "sort_number": 1553,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Elle n’est pas à prendre avec des baguettes.%—Grand-Mère Fa",
+  "rules_text": "TU DEVRAIS AVOIR HONTE ! Chaque fois que ce personnage en défie un autre, chaque adversaire perd 1 éclat de Lore.",
+  "card_identifier": "123/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=a0c45cf5e22c25b9bedc37f2896883faae90ba8169505cb2f3d975d718d43e49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=716a50e6a934c3c199c3e068be140e276fc02f095d120c5b6bac2b84932405c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=eb7d6901c740e05b2797b073a89d7bd8d43dcc30fc71fa62700c64187ef4f593",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

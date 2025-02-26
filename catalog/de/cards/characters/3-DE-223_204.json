@@ -6,10 +6,10 @@
   "quest_value": 1,
   "rarity": "SUPER",
   "ink_cost": 2,
-  "author": "Jonathan Livslyst",
+  "author": "Grace Tran",
   "deck_building_id": "122c433c05a0334dea67706084da9d47eef28c95",
   "culture_invariant_id": 945,
-  "sort_number": 694,
+  "sort_number": 693,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=6aae1a46e09e555d1b2eb213cd2f53837bf1bcfb543aeb827f65b632d1b79db6"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=6aae1a46e09e555d1b2eb213cd2f53837bf1bcfb543aeb827f65b632d1b79db6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=04e6c71bf16fa7c5412332488ec19245b1a7261a0adc3870f9bcca172950aeae"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=04e6c71bf16fa7c5412332488ec19245b1a7261a0adc3870f9bcca172950aeae"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=1502b0ea9cbc6d5818a0801f10dbc51fc702b715c7aef8e5db2f99ec93e2b705",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=1502b0ea9cbc6d5818a0801f10dbc51fc702b715c7aef8e5db2f99ec93e2b705",
   "foil_type": "Silver",
   "card_sets": [
     3,

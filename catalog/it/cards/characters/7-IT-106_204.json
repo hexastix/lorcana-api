@@ -1,0 +1,43 @@
+{
+  "name": "Vampirello",
+  "subtitle": "Pipistrello Furtivo",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cfdd9e04d6917aac14c9f8b2e100a587bf16ce09",
+  "culture_invariant_id": 1539,
+  "sort_number": 1536,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) HO PRESO TUTTO Ogni volta che questo personaggio va all'avventura, un tuo altro personaggio a tua scelta ottiene Sfuggente fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "106/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=2c199981133a2bb069ea6380f7173eb8256b2381d18eb88fe6cc53439c705539"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=6dc9f114951195116e7634c4c0897b6ac26ad11b6f4290b07d21d3d49208f6fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=922c79f2fd0b8a871335e3ba69066c2314c1839d26baa10ca734647ef84f5d35",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Hedvig Häggman-Sund",
   "deck_building_id": "498a07d34db6a52ef27e29b54a76950cc05708d7",
   "culture_invariant_id": 425,
-  "sort_number": 449,
+  "sort_number": 448,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e925838434f2d9e7bf8b02fed8fab73ba896e4ed866e4362ea8121f968f6757f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e925838434f2d9e7bf8b02fed8fab73ba896e4ed866e4362ea8121f968f6757f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=39d3c451e4961ab03fbe5550f9c81abc51fdc1a4de7bc1dc660022f5110ad5de"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=39d3c451e4961ab03fbe5550f9c81abc51fdc1a4de7bc1dc660022f5110ad5de"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=ce8198fd6bddfe7d9d76c873879ca4f8662e3011871f787f0c03182fd922bd54",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=ce8198fd6bddfe7d9d76c873879ca4f8662e3011871f787f0c03182fd922bd54",
   "foil_type": "Lava",
   "card_sets": [
     2

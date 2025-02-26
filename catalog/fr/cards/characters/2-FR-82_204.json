@@ -9,7 +9,7 @@
   "author": "E. Meleranci / L. Giammichele",
   "deck_building_id": "8812a7f3b2b166bdddc6961bfc5a2b1a783b1d51",
   "culture_invariant_id": 298,
-  "sort_number": 322,
+  "sort_number": 321,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=a1e55ef92af1ebac043f469aaebfcf95113355a24d1428857647fe3c25a26735"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=a1e55ef92af1ebac043f469aaebfcf95113355a24d1428857647fe3c25a26735"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=925d08f933a266dde21b54e1d60ef974c7d3d854b50f7b0d24d6eba55e257595"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=925d08f933a266dde21b54e1d60ef974c7d3d854b50f7b0d24d6eba55e257595"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=31a4599c00c6f593c3c082c2c7c5dd205662064d5fd6f3912c6bcc5fed9ff8cf",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=31a4599c00c6f593c3c082c2c7c5dd205662064d5fd6f3912c6bcc5fed9ff8cf",
   "card_sets": [
     2
   ],

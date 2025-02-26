@@ -10,7 +10,7 @@
   "deck_building_id": "41a059413bf3c6cc52013cb2a2306150864300be",
   "deck_building_limit": 99,
   "culture_invariant_id": 437,
-  "sort_number": 472,
+  "sort_number": 471,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=a175f8ddec64c9fa9f20ac37c89182435a201550d4b0a0ae8a9a8aaaa3466b0c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=a175f8ddec64c9fa9f20ac37c89182435a201550d4b0a0ae8a9a8aaaa3466b0c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=bea0cde98627de271a046ed091ce74dedfce40608c1055167683e44d0edd4822"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=bea0cde98627de271a046ed091ce74dedfce40608c1055167683e44d0edd4822"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=f8aa910f8b31540f1f39b4962abd3f82270e24282476f72d65b58833e7096013",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/6fa2000398eaf94788c238f3ef366ee6a846b7cd.jpg?checksum=f8aa910f8b31540f1f39b4962abd3f82270e24282476f72d65b58833e7096013",
   "card_sets": [
     3
   ],

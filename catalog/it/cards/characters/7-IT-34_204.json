@@ -1,0 +1,40 @@
+{
+  "name": "Koda",
+  "subtitle": "Orsetto Cosetto",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "88ff3b894f745ef4716c8feccea0a6f1c4ca0cfb",
+  "culture_invariant_id": 1467,
+  "sort_number": 1464,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "E poi mi dicono tipo, 'Come hai fatto a pescare così tanti pesci, Koda?' E io gli dico, 'Beh, mi conosci. Io <so> come si prende il pesce.' E allora mi dicono...",
+  "rules_text": "",
+  "card_identifier": "34/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=72833f60ff9ba9274a6df7f38dfcb2a1e6de432dae26d5cea19cb1695c032ec4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=1b45e9cd429a70e4241cb88b6680e0c8ab3ee7c00193c6359e6815c3fca7f7f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=ea5b371f081a2b0fd6b3ca7f6f035cdc3b48a8bbb222c988795aaa56be2e209c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

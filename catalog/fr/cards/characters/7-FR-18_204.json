@@ -1,0 +1,42 @@
+{
+  "name": "Volt",
+  "subtitle": "Ami digne de confiance",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "4569c6b9d1aa773811189e4fe7746e13a5b67569",
+  "culture_invariant_id": 1451,
+  "sort_number": 1448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Super chien contre super bûche! C'est TROP GÉNIAL!%—Rhino",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "18/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=07b1b82b287cda61cd162a771e71481695497cb244dd2259e0a0b467e277b560"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=32c56e4ff05d788d717852b18fabfb48c906b1428284127f3b9824265cd18dd7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=997412fa259565cd336e55da32a0cae9a6844203237294d7fcb96cba287a06fb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

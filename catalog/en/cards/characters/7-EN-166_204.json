@@ -1,0 +1,40 @@
+{
+  "name": "Marie",
+  "subtitle": "Favored Kitten",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Ellie Horie",
+  "deck_building_id": "81dd4eed0402aea8e6e1f4d7519caf40b6da4199",
+  "culture_invariant_id": 1599,
+  "sort_number": 1596,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Find yourself another Illumineer. This one's taken.",
+  "rules_text": "I'LL SHOW YOU Whenever this character quests, you may give chosen character -2 this turn.",
+  "card_identifier": "166/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=63878acc2e78ac6fbf637fc93bdb017c59f2e609c3dd16d61e09bd3b491b39f5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=159411d71b2f20b152a9f3049a119abbc20960d239ba0f6877851b635d377328"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=cb3dbb4a63f351f534b2eddd692cb4e2012752f291dc1f6b56075ead581575b2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

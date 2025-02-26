@@ -1,0 +1,41 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Sorella Sensibile",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "cc1aa602cb2089e854c848bf55d994adcbf44b15",
+  "culture_invariant_id": 1470,
+  "sort_number": 1467,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "La presenza calmante di Archazia aiutò Pepa a dissipare il suo umore nero.",
+  "rules_text": "CIELI TERSI, CIELI TERSI Ogni volta che uno o più dei tuoi personaggi canta una canzone, ottieni 1 leggenda.",
+  "card_identifier": "37/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=f22d10ad5bbd12419a32816a17cfa2c4627ac5e4c7540a6de9f65097fda3b123"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=eacaaf4e2f3edc43724ba01914342b0c59b9c659e5c68a818243079a14b00c22"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=4946f00d77d5d63b754ee5d085a68ae0972df31c47c8de1b202b55e886a3d146",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

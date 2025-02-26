@@ -1,0 +1,40 @@
+{
+  "name": "Pinco Panco e Panco Pinco",
+  "subtitle": "Strani Cantastorie",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c398f0b7dad3ae90647cd655f39c3337fb9a5ce4",
+  "culture_invariant_id": 1536,
+  "sort_number": 1533,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Non puoi andartene ora! Non vuoi sentire il finale?%—Pinco Panco",
+  "rules_text": "SECONDO NUMERO Ogni volta che questo personaggio va all'avventura, puoi far riprendere in mano al suo giocatore un personaggio danneggiato a tua scelta.",
+  "card_identifier": "103/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=68d860ca70339ffce68320dd814620cc90b7cfe9975a4a73635a843ad897d867"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=44ac3d400e045a188840d8b99043b298085f8defdcc66de77b3fdabfc9bdf609"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=8c917bbe60f90d37c2d5334d1447b651d2c77c3544a6b2c5a30beb069646e3c1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

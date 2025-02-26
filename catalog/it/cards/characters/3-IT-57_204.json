@@ -9,7 +9,7 @@
   "author": "Anna Rud / Livio Cacciatore",
   "deck_building_id": "7c70fa409442c808c2767e850bea7a836b11829c",
   "culture_invariant_id": 493,
-  "sort_number": 528,
+  "sort_number": 527,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=bfb67e76a6b6592f53e99aff51f7c4cbc64122315fd52748c77cc5da1b3cf83a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=bfb67e76a6b6592f53e99aff51f7c4cbc64122315fd52748c77cc5da1b3cf83a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9f2736985dcdd2ab9a786d62b509706adedd410f3bac96ce8860c5f9fa2dcff6"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9f2736985dcdd2ab9a786d62b509706adedd410f3bac96ce8860c5f9fa2dcff6"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ec94fccee92c15af619410f725ddc145f8e2d96ad08a54dbd53bc425262ae3ce",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ec94fccee92c15af619410f725ddc145f8e2d96ad08a54dbd53bc425262ae3ce",
   "card_sets": [
     3
   ],

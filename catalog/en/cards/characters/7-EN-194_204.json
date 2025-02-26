@@ -1,0 +1,40 @@
+{
+  "name": "Orville",
+  "subtitle": "Albatross Air",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rudy Hill",
+  "deck_building_id": "c89b02a8c5ef092f289aafd2dc51de65961e2f18",
+  "culture_invariant_id": 1627,
+  "sort_number": 1624,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Doesn't he fly beautifully? —Miss Bianca",
+  "rules_text": "WELCOME ABOARD, FOLKS During your turn, while you have a character named Miss Bianca or Bernard in play, this character gains Evasive. (They can challenge characters with Evasive.)",
+  "card_identifier": "194/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=02f50ecf77d8d23533f33b33179607357d54f29be4e1e2f0995eb4e6a84904d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=d412f9431271ab3cbcb609c96d8d19518ec818843a977be7e166f6fa5b798473"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=7ef82f1ff55c1c195e9ce060a656050c4c4fcdb6136b0c460f2187dc6bbbd29a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

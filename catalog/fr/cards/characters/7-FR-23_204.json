@@ -1,0 +1,44 @@
+{
+  "name": "Ouragan",
+  "subtitle": "Chien prodigieux",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Max Grecke",
+  "deck_building_id": "9ff1e3265aaa35ad585e9111ab61f6c0c7b2db71",
+  "culture_invariant_id": 1456,
+  "sort_number": 1453,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Rempart"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter de Chiot 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Chiot.) Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "23/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=049f8e52a9ece1393dc29c3b646fd3437da03cb86ee689f21f9c7748f62b4465"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=187b0067d2c877149ae98a185b908aafa29e2c0205034a54157b81582ba559cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=d6c27ed56b70c2dd64ce8bcffcc5162ee86b281822499387d416e232aa296da9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

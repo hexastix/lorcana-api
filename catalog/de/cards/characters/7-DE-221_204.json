@@ -1,0 +1,46 @@
+{
+  "name": "Micky Maus",
+  "subtitle": "Inspirierender Krieger",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "727b46485183fb5777acda6297c425330554ddff",
+  "culture_invariant_id": 1654,
+  "sort_number": 1651,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "MITREISSENDER GEIST Jedes Mal, wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du einen Charakter kostenlos ausspielen.",
+  "card_identifier": "221/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=c2776bc057af0dc6f38c4dd06dd90ab8712a4a48fe6535e1035929e23be76bc0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=841d6d52b224ca5f641a165bb1c0ad0632a3c79682596bc676cdc3b68fc7aa30"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9a70776c743352cfcf688e52512673332e5e4007.jpg?checksum=30db7f3ea34988335ff32e21431cadecdb7e5f855510a3fac8e4b26366fd7d23",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mickey Mouse",
+    "Mickey Maus",
+    "Micky Mouse"
+  ]
+}

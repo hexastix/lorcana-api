@@ -1,0 +1,40 @@
+{
+  "name": "Roger Radcliffe",
+  "subtitle": "Hundeliebhaber",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Hedvig H-S",
+  "deck_building_id": "eac2ac31d2370e8bb57973ee953fec1616cdcb05",
+  "culture_invariant_id": 1438,
+  "sort_number": 1435,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Das Beste an der Bewältigung des Hindernisparcours war, dass sie am Ende ihren Menschen wiedergefunden haben.",
+  "rules_text": "SO IST’S FEIN Jedes Mal, wenn dieser Charakter erkundet, darfst du bis zu 1 Schaden von jedem deiner Welpen entfernen.",
+  "card_identifier": "5/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=5aad38177cb9cb4e30ca30f3b8415f0bba3e823bd664dbbb5b6abe1dfe4114f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=2e695e9379dc5fb18c7918647bbe9bbb6f0f8371a810cf65d51fc5b45e35f148"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=f9f3111ad7a7305b62132521492f5d34a81779445a2ab30ac84cdcea38e51f9b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

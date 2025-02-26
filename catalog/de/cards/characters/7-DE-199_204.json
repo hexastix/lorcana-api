@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Erfahrener Vollstrecker",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "0cf9ec8277220e1e3790acd6c84c33cd9edb0ceb",
+  "culture_invariant_id": 1632,
+  "sort_number": 1629,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Alien",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "SCHLIESST ALLE KANÄLE Wenn du diesen Charakter ausspielst, können Charaktere bis zu Beginn deines nächsten Zuges nicht erschöpft werden, um Lieder zu singen. KOMM JA NICHT AUF DUMME GEDANKEN Alle Mitspielenden (auch du) müssen 2 mehr bezahlen, um Aktionen oder Gegenstände auszuspielen. (Dies wirkt sich nicht auf das Singen von Liedern aus.)",
+  "card_identifier": "199/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=a614cc1723ef87d2f10f23ade8ee8591b0fd2f322a49215871a15a9544f800e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=e3dbcdb193162b4226b4c41f4f49094b26c056c6133e58e8d17cfe8b8042f041"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=0ec7f14eff8cf8f5aebd5cff73e29f44e6fcedd51cf2d69bcf5cbbfc00dfce12",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

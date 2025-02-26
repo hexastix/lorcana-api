@@ -1,0 +1,42 @@
+{
+  "name": "Robin des Bois",
+  "subtitle": "À l’œil affûté",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a4d8629141486ff391420a5a92cc523b1bdfc285",
+  "culture_invariant_id": 1603,
+  "sort_number": 1600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "On raconte des tas de légendes et d’histoires à dormir debout sur Robin des Bois. Toutes différentes d’ailleurs.%—Adam de la Halle",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "170/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=2d0f619b4a0a6725f8e6af492a55b88a52b49b156a39b7962024e7d669b26003"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=71a783cfa6589cf8ff73535873acee7aefca71e8216951abdc8fd3cbb977fdcd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=8dc546d71e613794c6a10c1fb0216db528e199c3a0fab4505aa893298caa2e01",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Stregatto",
+  "subtitle": "Felino Sconcertante",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Sandara Tang",
+  "deck_building_id": "99b060c09b5134d9107f78d08e2018d615658a7c",
+  "culture_invariant_id": 1524,
+  "sort_number": 1521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Non è il solito gatto, dopo tutto. Ma del resto, quale gatto lo è?%—Archazia",
+  "rules_text": "FOLLE GHIGNO Quando giochi questo personaggio, puoi infliggere 2 danni a un personaggio danneggiato a tua scelta.",
+  "card_identifier": "91/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=e6e574be2aa0af7d55b379e3ff34153ea73c647af995a66f498f4e29ca006517"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=de6b991f2a843700edbf7d233ee6eae0a0de25e3245760df81c3550cf435a40e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=80c75f1690d86bae362a983dcef1bacd19caa88b85da7efe16e780bb0268f071",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -5,7 +5,7 @@
   "author": "Giulia Riva",
   "deck_building_id": "5c4e5d5a2a02a6032d8112a3e0f6e3d89ae1a904",
   "culture_invariant_id": 1415,
-  "sort_number": 1414,
+  "sort_number": 1413,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=7cceea380152214a5cf95555440ad18e1eafaa908e929bd152252f4981617ee6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=7cceea380152214a5cf95555440ad18e1eafaa908e929bd152252f4981617ee6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=66118d27fd50dc40e268fcc4aeee1bb5390154e59307495aed025eab44089a6a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=66118d27fd50dc40e268fcc4aeee1bb5390154e59307495aed025eab44089a6a"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=94a2b2df7a34c0c9a567ab87e0ab38bf79f1d0edb28228049614cfd47dc422e2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=94a2b2df7a34c0c9a567ab87e0ab38bf79f1d0edb28228049614cfd47dc422e2",
   "foil_type": "VerticalWave",
   "card_sets": [
     6

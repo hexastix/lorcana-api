@@ -9,7 +9,7 @@
   "author": "Kevin Sidharta",
   "deck_building_id": "ead46bfd3bf059ae7fe97fb6163a498b70b7e8a7",
   "culture_invariant_id": 1312,
-  "sort_number": 1311,
+  "sort_number": 1310,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6995080a8d4f65719b334bd097743d23e06fc24b9ff3274865273c86df539918"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6995080a8d4f65719b334bd097743d23e06fc24b9ff3274865273c86df539918"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=c4eeda4292fd8ffe3101104f4d090f9ba70d330f8094105b8acf0855c77aa2ce"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=c4eeda4292fd8ffe3101104f4d090f9ba70d330f8094105b8acf0855c77aa2ce"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
   "card_sets": [
     6
   ],

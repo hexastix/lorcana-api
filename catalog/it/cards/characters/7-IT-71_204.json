@@ -1,0 +1,43 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Lama Impanicato",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "13ad1b826bfa0c021406dce75ac9d15ecaf5669a",
+  "culture_invariant_id": 1504,
+  "sort_number": 1501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Re"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) RIUSCIREMO A CAVARCELA All'inizio del tuo turno, scegli uno: • Ogni giocatore pesca una carta. • Ogni giocatore sceglie e scarta una carta.",
+  "card_identifier": "71/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=3453749391b1ed819399335134bd8018b5d64137982e8adbe0d90a5c735b43d2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=5a17ac4ed5f5fce028cbecf13c077ad6f9780a5636171cb070b35ddd9673b223"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=5032dd0c602dbee337d1cf2dc517bbe437a230703c878ada584e564f6fd99c99",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

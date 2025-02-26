@@ -5,7 +5,7 @@
   "author": "Hyuna Lee",
   "deck_building_id": "0f90fdf72f661609d43e8e558f069305b91a4e05",
   "culture_invariant_id": 530,
-  "sort_number": 565,
+  "sort_number": 564,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=441d3ad75ec05d43af16e32b1de1413ef099efa8bc5eff64b97756823291cb4d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=441d3ad75ec05d43af16e32b1de1413ef099efa8bc5eff64b97756823291cb4d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=c04112a0b7b1bc4155fd1f8ee7be34131a7d147648b9100e7e919700bed2a611"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=c04112a0b7b1bc4155fd1f8ee7be34131a7d147648b9100e7e919700bed2a611"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=51e56cfc1b561981bbc5a83419e96e4ddcc585fbb5dae5a751391e620ed16cd0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=51e56cfc1b561981bbc5a83419e96e4ddcc585fbb5dae5a751391e620ed16cd0",
   "card_sets": [
     3
   ],

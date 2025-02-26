@@ -5,7 +5,7 @@
   "author": "McKay Anderson",
   "deck_building_id": "02918ccd3a403f27aeb1591007157c27c8cb9736",
   "culture_invariant_id": 1122,
-  "sort_number": 1131,
+  "sort_number": 1130,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=3094a53a3cd682b587805f47589c5a93e296e905e153e02362e3420becb3f4fc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=3094a53a3cd682b587805f47589c5a93e296e905e153e02362e3420becb3f4fc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=f982d6f182dc895bc54b23e38c88a0c2aab71d4966c574247761529340cf0709"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=f982d6f182dc895bc54b23e38c88a0c2aab71d4966c574247761529340cf0709"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=0b6d572bedc32e8302f336d42c9d8433ae59b16563f338a517ce8d1218bde594",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=0b6d572bedc32e8302f336d42c9d8433ae59b16563f338a517ce8d1218bde594",
   "card_sets": [
     5
   ],

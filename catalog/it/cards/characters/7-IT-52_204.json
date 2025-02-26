@@ -1,0 +1,42 @@
+{
+  "name": "Ade",
+  "subtitle": "Dalla Parlantina Veloce",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "df2b712163f2278bdb5a2b67b13b5d5e3e04e6d4",
+  "culture_invariant_id": 1485,
+  "sort_number": 1482,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "... otterrai un gran guadagno.",
+  "rules_text": "CON SOLO UN PO' DI DOLORE Quando giochi questo personaggio, puoi infliggere 2 danni a un tuo altro personaggio a tua scelta per esiliare un personaggio a tua scelta con costo 3 o inferiore.",
+  "card_identifier": "52/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=bf33693ecdf35934d279080acfdacc1d0e6129e94e15982421e8d7eef174edb0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=dbf4cb25e88ab38652a87c12d9dcd9a39b222fbb39dff0a9058af698c941e102"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=a542e14b2a634f9e3f7aea052a073d93b00aefb5962e1419da6e713186b9ec7b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

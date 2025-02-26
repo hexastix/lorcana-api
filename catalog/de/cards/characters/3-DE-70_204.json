@@ -9,7 +9,7 @@
   "author": "Massimiliano Narciso / Marieke Ferrari",
   "deck_building_id": "ddbb33e43b310ecb59a6a51a6478e65366db0275",
   "culture_invariant_id": 506,
-  "sort_number": 541,
+  "sort_number": 540,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=bdcfb09e5e09604aff7477019762bde0dbbd23674e20d871ed6a6bb912ed6891"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=bdcfb09e5e09604aff7477019762bde0dbbd23674e20d871ed6a6bb912ed6891"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=5124c2f68206200efe180d551c624972f5971ca2b8cfb24713ca79ac6284c785"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=5124c2f68206200efe180d551c624972f5971ca2b8cfb24713ca79ac6284c785"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=c3624a90c0e8edc7b38cb37ce98097f942798cd042a1a47944f21146087d0820",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=c3624a90c0e8edc7b38cb37ce98097f942798cd042a1a47944f21146087d0820",
   "card_sets": [
     3
   ],

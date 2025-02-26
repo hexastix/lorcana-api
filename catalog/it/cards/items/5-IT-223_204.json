@@ -1,29 +1,29 @@
 {
-  "name": "Mezza corona esmantica",
+  "name": "Mezza Corona Esamantica",
   "rarity": "RARE",
   "ink_cost": 6,
   "author": "Billy Wimblett",
   "deck_building_id": "b811b3defd86d738200c72437085b562903d888b",
   "culture_invariant_id": 1179,
-  "sort_number": 1188,
+  "sort_number": 1187,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
   "subtypes": [],
   "flavor_text": "La corona spezzata nasconde poteri oscuri e misteriosi.",
-  "rules_text": "UN RITROVAMENTO INASPETTATO , 2 — Pesca una carta. UN POTERE RISCHIOSO , 2 , Scarta una carta — Impegna un personaggio a tua scelta.",
+  "rules_text": "UN RITROVAMENTO INASPETTATO , 2 — Pesca una carta. UN POTERE RISCHIOSO , 2 , scarta una carta — Impegna un personaggio a tua scelta.",
   "card_identifier": "223/204 IT 5",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=43be24e460e52ea43cbb2a18016993226a55d015ea144a541c24e07181cd2b86"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=43be24e460e52ea43cbb2a18016993226a55d015ea144a541c24e07181cd2b86"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=02a17aa407b05d800d521c7a50fbd9db09daed93da1c08f83bf334eec2e4fd36"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=04a5d369f8be201bc34b4d387b5878d5852bb2769573cf887ad7e26b7cd7b6be"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=6c9126344d4d908e8e08a311cdf856ee5e839b053c5493e777d2f14e978bc750",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/af06318c33c8e41c70083ee23dbe19426f1f9c5b.jpg?checksum=2753203c96a6302a8e1368798d1ac1ba15b560bbad49c34167c0ef44b68130cd",
   "foil_type": "Glitter",
   "card_sets": [
     5,

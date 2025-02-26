@@ -1,0 +1,39 @@
+{
+  "name": "Tic-Tac",
+  "subtitle": "Crocodile acharné",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Rachel Elese",
+  "deck_building_id": "e1cc4fc2b8f3553070493043ebc236022311ddc9",
+  "culture_invariant_id": 1624,
+  "sort_number": 1621,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Mais, écoutez ça Capitaine. Vous n’entendez pas comme un bruit ?%—Peter Pan",
+  "rules_text": "EN QUÊTE D'UN REPAS Durant votre tour, ce personnage gagne Insaisissable tant qu'il y a un personnage Pirate en jeu. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "191/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=bf00872f616c8d0175cd0077874755c5167a619c613f1492893f388774cca517"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=e3de30d84064d16daabea194d9b34242613b922e2c7cb3a2217372720432595a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c.jpg?checksum=5b192ceb0c43ce74cab8fad217841034baf4ad19280b38717a97935536c84a29",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

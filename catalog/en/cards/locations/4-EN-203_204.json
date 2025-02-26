@@ -9,7 +9,7 @@
   "author": "Jimmy Lo",
   "deck_building_id": "e5952f14f0c762b6186776b684752cbc36e40ac8",
   "culture_invariant_id": 894,
-  "sort_number": 904,
+  "sort_number": 903,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1edb9be7c4744ae5efa843054cef2157d916f975a1881c4c23d4684104dd33c7"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1edb9be7c4744ae5efa843054cef2157d916f975a1881c4c23d4684104dd33c7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=4b24bfe2dd1cfd9589ce228bbf642dfdd7e09db58d6de0e6499bb76259869435"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=4b24bfe2dd1cfd9589ce228bbf642dfdd7e09db58d6de0e6499bb76259869435"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1940b8dd87122d2c98ec89e9cf27990ad865cf34a6a5ca22e31ed4fb2a9dbb66",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=1940b8dd87122d2c98ec89e9cf27990ad865cf34a6a5ca22e31ed4fb2a9dbb66",
   "card_sets": [
     4
   ],

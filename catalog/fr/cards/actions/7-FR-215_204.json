@@ -1,0 +1,34 @@
+{
+  "name": "Le retour d’Hercule",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Brie Schmida",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1648,
+  "sort_number": 1645,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque joueur peut révéler une carte Personnage de sa main et la jouer gratuitement.",
+  "card_identifier": "215/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=b884192e45546a6f69f91bf5b4059484ddf674bd60e5eb3b6f01ac629a4971ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=de2625f1d398f3064e8d672165888a85f325bce5cb443484fd6031bf3495a7b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=8a5b9564a72e3f9a587bf5781b6a7dbe0a14bbe3b27a4ad6ade0b93d68baa79f",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

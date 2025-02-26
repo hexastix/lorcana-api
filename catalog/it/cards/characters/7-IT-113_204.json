@@ -1,0 +1,40 @@
+{
+  "name": "Anastasia",
+  "subtitle": "Sorellastra Prepotente",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "186abcc44c27815f1b4006504346a766d8731138",
+  "culture_invariant_id": 1546,
+  "sort_number": 1543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Togliti di mezzo! Sarò <io> la prima a raggiungere il traguardo!",
+  "rules_text": "CHE PORCHERIA! Ogni volta che questo personaggio viene sfidato, il giocatore sfidante sceglie e scarta una carta.",
+  "card_identifier": "113/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=430f339c7d3bf77a09f47157ba3c311de61651899786e8054abca15cff65e4f1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=49dc3beb3f3d0a99ea237c0156da5e942c80bb89f3e6b9bfd12d9ca6bc28b2a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=303e784eb09eb67bbb1daa85398b90a209b6143e04d08c487b6ea2b7b06880a8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

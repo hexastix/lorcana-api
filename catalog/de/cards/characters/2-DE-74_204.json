@@ -9,7 +9,7 @@
   "author": "Alex Accorsi",
   "deck_building_id": "3f65d8ab4c005c12cadaad7de8ea54b0da6776d8",
   "culture_invariant_id": 290,
-  "sort_number": 314,
+  "sort_number": 313,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=eedbde9ba86c3048f53c08b0e64fecdf1ad55da69a828125eb01e17034ca1ffc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=eedbde9ba86c3048f53c08b0e64fecdf1ad55da69a828125eb01e17034ca1ffc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=a528d85327418ff182a331d01eeb6b016493a814b5f90fc056861a90f3445dae"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=a528d85327418ff182a331d01eeb6b016493a814b5f90fc056861a90f3445dae"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=4104deae23800aaa13c4d85dac3015f4b8e8c15779f2fa7bb66dffb6b681a658",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=4104deae23800aaa13c4d85dac3015f4b8e8c15779f2fa7bb66dffb6b681a658",
   "card_sets": [
     2
   ],

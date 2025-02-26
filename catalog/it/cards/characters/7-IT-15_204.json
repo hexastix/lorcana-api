@@ -1,0 +1,41 @@
+{
+  "name": "Cenerentola",
+  "subtitle": "Quella Giusta",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Tania Soler",
+  "deck_building_id": "314a16eb5a595cf0c7fefa00777939b5e367ef18",
+  "culture_invariant_id": 1448,
+  "sort_number": 1445,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Ma vedete, io ho l'altra scarpetta.",
+  "rules_text": "SE LA SCARPETTA CALZA Quando giochi questo personaggio, puoi mettere una carta oggetto chiamata La Scarpetta di Cristallo dai tuoi scarti in fondo al tuo mazzo per ottenere 3 leggenda.",
+  "card_identifier": "15/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=0ccc02cd3f7321d4a0a0c6bc5999a096e310e6702234530b6b016750f9c96670"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=277fa531eb9db2f22dbba63a283a825f38fbfebf9a1aa8229561248f40641110"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=ca597c7b49b8de7f6568a15db71f87b56e8caafe27624dd2af8a6b0bc30c80e4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

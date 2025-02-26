@@ -1,0 +1,46 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Bei den Sternen",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "adcb1daa41ea7803f3fe66ab407a12ff728ac741",
+  "culture_invariant_id": 1512,
+  "sort_number": 1509,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Robust",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Mufasa-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "79/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=2f8ad24d2d94711b674c83c065fe4047a92c7bb5117cd38dbae0a33e1724f7d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=7b8cc783091ea9a4246a461084a0d281ee74c2597e7bd7de1974bbbb66ee9c51"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=ad5110627ad9b9fac22633fb4e8775345f9d4b688dc155fb4adc7a10504d4c69",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

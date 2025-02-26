@@ -1,0 +1,34 @@
+{
+  "name": "Montre-m’en davantage !",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1644,
+  "sort_number": 1641,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Chaque joueur pioche 3 cartes.",
+  "card_identifier": "211/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=87d0b69b7f3fedddeb96789109fe94154d26ef83306ee4d60fd99ae52f88f79b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=eb1190d74ccd96e0c7acb2f164f18a364c5841c7653a187f68ac671a46ecacea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=6a0b3e4b8c2f4f7bbec0aa5effdb4e5376748be1134709cd41ab28b7439b90ec",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

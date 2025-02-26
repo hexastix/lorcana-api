@@ -1,0 +1,33 @@
+{
+  "name": "Doppio Problema",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "3e31b41e5c09e6378ea85d26576fd33b5e524c80",
+  "culture_invariant_id": 1635,
+  "sort_number": 1632,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ne abbiamo avuto abbastanza delle tue bricconate! Prendi questo!%—Serenella",
+  "rules_text": "Infliggi 1 danno ciascuno a fino a 2 personaggi a tua scelta.",
+  "card_identifier": "202/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=e6cfcd0a17d72ad41e518627664f2accc00d984ce2ee4d6f80307c802a7deec2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=ab5c17a4223ecefd0e9ef161cb7ed58fee5dcc873ebdf8da38113ce231105f78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=11ddcb68f7df2ccba60ac63c24a9a6ecd9b64fcae5152055e39ef6204b38cda8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

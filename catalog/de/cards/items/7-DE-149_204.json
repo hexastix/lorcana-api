@@ -1,0 +1,33 @@
+{
+  "name": "Rubin-Reif",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "d250ec35251eedb4e3d598f75f217e0acca62570",
+  "culture_invariant_id": 1582,
+  "sort_number": 1579,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Venturo spürte einen Funken aus seinem Armreif, als Energie seine angespannten Muskeln durchflutete.",
+  "rules_text": "KARMINROTER FUNKE Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, gib einem Charakter deiner Wahl in diesem Zug +2.",
+  "card_identifier": "149/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=a8fdcf307aeb49b13a412347c1b3951732b27d0729eaeee4773025334a420da7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=c1230210dcbdbbc223335ea5d8759c972c11ea9c6925c4e6b4e5c246b6c5d452"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=7af40307af7dc57242bbd9bed096cd04bec38d82bca9b53cbd6b68e5845b30f5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

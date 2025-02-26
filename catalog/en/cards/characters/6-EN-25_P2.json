@@ -1,0 +1,42 @@
+{
+  "name": "Lilo",
+  "subtitle": "Escape Artist",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1431,
+  "sort_number": 1428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "You can’t keep me away from the fun!",
+  "rules_text": "NO PLACE I'D RATHER BE At the start of your turn, if this card is in your discard, you may play her and she enters play exerted.",
+  "card_identifier": "25/P2 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=32b2dfac3edac20d6638962918726bf6eb846fea4d2fa2904aba6cbe0936d376"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=ce9e69e8da985d98056cca5b455247b6564b435b9381282391f80015f1ead756"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=b4ec04bd3e2a852bf73c10a4fd2f6351b1575324a3f52c7a5b02aad157f0a9c5",
+  "special_rarity_id": 1,
+  "foil_type": "Glitter",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

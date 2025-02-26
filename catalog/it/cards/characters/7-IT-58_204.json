@@ -1,0 +1,43 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Mostro di Lava",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Max Grecke",
+  "deck_building_id": "1d4dce8830332274f2d71f03712751024137f96e",
+  "culture_invariant_id": 1491,
+  "sort_number": 1488,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "Se vuoi arrivare a Te Fiti, devi attraversare tutto un oceano di pericoli. Per non parlare di Te Kā.%—Maui",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.)",
+  "card_identifier": "58/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=7384d228788cc2408fdab4996a78f58cfca0fcdd92ffc4d902f5cb9369e9d87d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=945b260c8b9ed6715c53c60dc505ff4b639101bbb2e2eab1e1758883134a15b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=1396b348cc2c08fb08c714cdf4abb04ac6664d59ed7f057c260ae498cadae00c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "La Reine de Cœur",
+  "subtitle": "Despote imprévisible",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "de884385b8d6949128ae14c3ed43527359b2d71d",
+  "culture_invariant_id": 1528,
+  "sort_number": 1525,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages La Reine de Cœur.) SI JAMAIS JE PERDAIS MON SANG-FROID Chaque fois qu'un autre personnage est joué, placez un dommage sur lui.",
+  "card_identifier": "95/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=7b54cdad750b32250b0104893d6c6caf8ba3a3b7a7ab0b3835e6042d3b5a9162"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=58ff41c36845f8b73ae928c3fb128d77e38d66226d55301090c2155a5f8f358d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=1e0fd47352db493cc8b744ca741428f0e377669ed8cefc998e18a67f0c931f09",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Belle",
+  "subtitle": "Apprentice Inventor",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jochem van Gool",
+  "deck_building_id": "66089bac792b605815e7eb1bf3d028980fa7039a",
+  "culture_invariant_id": 1592,
+  "sort_number": 1589,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Inventor"
+  ],
+  "flavor_text": "Helping her dad keep the flying debris to a minimum.",
+  "rules_text": "WHAT A MESS During your turn, you may banish chosen item of yours to play this character for free.",
+  "card_identifier": "159/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=0ea22da4b34cf27fdd6357900561524c7b87ca623db3e2cb59247d27fc6eeb6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=fe71b3858afe60c8acf64f1156775fc673eb9866a8ffcf59d3e99aa396851c0f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=703584ab8eac15a66a7ab11ec6d03415ae173d0246bd77423d226a27a2c9c067",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

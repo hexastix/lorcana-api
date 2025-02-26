@@ -1,64 +1,68 @@
 {
+  "application_shared_properties": {
+    "current_app_version": "2025.1",
+    "minimum_app_version": "2025.1"
+  },
   "card_sets": [
     {
       "name": "Das erste Kapitel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=1f5ea1a6-a9c5-43aa-bb52-9b391bb7c630",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=9c786f73-9757-45a7-8a57-e7556b1c6c76",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Aufstieg der Flutgestalten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=a735bc30-1dd8-4ab8-afb6-e7fa534e4825",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=f9d546a1-638c-42c2-8cd3-97fe755b416c",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Die Tintenlande",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=069047d9-a041-4938-b34e-c521476ebb5c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=97121dbc-391a-49bc-b047-7755dd2f93c1",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursulas Rückkehr",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=b80c664a-988f-4900-aa6b-680746eb3fc5",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=61af51b6-86d8-442b-ad35-8f304abdebd7",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Himmelsleuchten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=40d2390e-1509-4bb8-80c6-b77cb18383ea",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=b5497efd-22cb-4d51-9379-439159e59f74",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurblaues Meer",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=f615e833-ee3b-4c21-9f18-9121c740da5b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=efad09e3-0ae7-46b8-8ebf-d1fb3ed1d4a9",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
-      "name": "Vorschau-Karte",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=f490aa97-aab8-4e8b-a6d7-65066e7e967e",
+      "name": "Archazias Insel",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=212a3eb9-47ce-46b0-b1e6-cf9bf66632e5",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quests/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=29ef00b5-8594-4ea7-b546-55a7d7d58737",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=4311463b-768a-4a30-9138-f6aa9c494b23",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Der Einstieg",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quests/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=56592a1e-6fe7-494f-9357-af5ec2c08d86",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=4d6c5105-df21-455c-a2ea-efa9ac5d1a84",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
@@ -69,26 +73,38 @@
   "special_rarities": [
     {
       "name": "Promo",
+      "type": "PROMO",
       "id": 1
     },
     {
       "name": "D23",
+      "type": "D23",
       "id": 2
     },
     {
       "name": "Disney 100",
+      "type": "D100",
       "id": 3
     },
     {
       "name": "Challenge",
+      "type": "CHALLENGE",
       "id": 4
     },
     {
       "name": "Die Luminari Chroniken",
+      "type": "QUEST",
       "id": 5
     }
   ],
   "news": [
+    {
+      "title": "App-Update",
+      "subtitle": "Erfahre mehr",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/02_/2025-2-app-update",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+    },
     {
       "title": "Anna Stosik",
       "subtitle": "Verzauberte Karten",
@@ -109,13 +125,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/story/azurite",
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "App-Update",
-      "subtitle": "Erfahre mehr",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/set6-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=a66eb9be6117888261079edf7bdc48834f37b36efd1771a4d6f22f88e02d8777"
     },
     {
       "title": "Neues Set…",
@@ -151,13 +160,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/news_/july2024-errata",
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
-    },
-    {
-      "title": "Legendenzähler",
-      "subtitle": "Gefahr aus der Tiefe",
-      "target_type": "LoreCounter",
-      "target_object": null,
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
     },
     {
       "title": "Neues Set",
@@ -212,27 +214,6 @@
     ],
     "location_subtypes": [],
     "character_subtypes": [
-      {
-        "term_in_search_filter": "Sagengestalt",
-        "terms_on_card": [
-          "Sagengestalt",
-          "Storyborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Traumgestalt",
-        "terms_on_card": [
-          "Traumgestalt",
-          "Dreamborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Flutgestalt",
-        "terms_on_card": [
-          "Flutgestalt",
-          "Floodborn"
-        ]
-      },
       {
         "term_in_search_filter": "Alien"
       },
@@ -293,6 +274,9 @@
           "Hyäne",
           "Hyena"
         ]
+      },
+      {
+        "term_in_search_filter": "Illusion"
       },
       {
         "term_in_search_filter": "Kapitän/-in",
@@ -426,6 +410,27 @@
           "Welpe",
           "Puppy"
         ]
+      },
+      {
+        "term_in_search_filter": "Flutgestalt",
+        "terms_on_card": [
+          "Flutgestalt",
+          "Floodborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Traumgestalt",
+        "terms_on_card": [
+          "Traumgestalt",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Sagengestalt",
+        "terms_on_card": [
+          "Sagengestalt",
+          "Storyborn"
+        ]
       }
     ],
     "character_abilities": [
@@ -490,6 +495,13 @@
         "terms_on_card": [
           "Unterstützen",
           "Support"
+        ]
+      },
+      {
+        "term_in_search_filter": "Verschwinden",
+        "terms_on_card": [
+          "Verschwinden",
+          "Vanish"
         ]
       },
       {

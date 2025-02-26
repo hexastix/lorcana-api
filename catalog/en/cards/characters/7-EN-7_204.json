@@ -1,0 +1,41 @@
+{
+  "name": "Peg",
+  "subtitle": "Natural Performer",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "762d1029f027634d776b43710b50208449173fad",
+  "culture_invariant_id": 1440,
+  "sort_number": 1437,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "She was born to be a star no matter where she performed.",
+  "rules_text": "CAPTIVE AUDIENCE — If you have 3 or more other characters in play, draw a card.",
+  "card_identifier": "7/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=b8783a8d9c777120b79e580f3f85e3853af5d6ecede96f5a3ec2c4d92b8bf496"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=e9f04eb678c23dbe9c791c8461730bce514b0f27fbb735a6c8b85f826a16133c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=323b0d9d117c55963c9cff634971787da4beecacd0fa942708083fe0d032f5bb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

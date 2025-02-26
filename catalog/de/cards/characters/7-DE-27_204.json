@@ -1,0 +1,40 @@
+{
+  "name": "Randale Ralph",
+  "subtitle": "Hero's Duty",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "dec60147f5f6f17659c25d3d2ec4a24dd5c2d35d",
+  "culture_invariant_id": 1460,
+  "sort_number": 1457,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Die Medaille hab ich im Sack.",
+  "rules_text": "ÜBERFLÜGELN Jedes Mal, wenn einer deiner anderen Charaktere in deinem Zug verbannt wird, erhält dieser Charakter in diesem Zug +1.",
+  "card_identifier": "27/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=cf59c96f36ef8484a8e44ce5abf191bb2a89ba8e4f08fa2b07d80a6df5001fe2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=e158e24e754ad3e72e4ed768dd78902304f667d12c5f6dcaa7aef6a9a7ee38aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=3568bbe88e6c0d6d12c41a4374a4809fb16d9722a100dca2d5856c5ab3f6035f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

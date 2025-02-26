@@ -1,0 +1,42 @@
+{
+  "name": "Merlino",
+  "subtitle": "Chiaroveggente Brillante",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cam Kendell",
+  "deck_building_id": "ad1a7bee1bba63c46df4b6db68b78cba15608661",
+  "culture_invariant_id": 1500,
+  "sort_number": 1497,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Mentore",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRESTIDIGITORIUM Ogni volta che questo personaggio va all'avventura, nomina una carta, poi rivela la prima carta del tuo mazzo. Se è la carta nominata, aggiungila al tuo calamaio, a faccia in giù e impegnata. Altrimenti, mettila in cima al tuo mazzo.",
+  "card_identifier": "67/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=89f86c37b896ed8cb1a8f87d9c0fcbd6585ff2d6334e1a7135894b38c793a4fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=f4083a26a4c0cfbccfef259621251c9a98d4f94d4b0688757924f6cad68c81ab"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=747c7ad002a093f34f721496186e3c619a505d1de2a49f3ca05057ffa309ab83",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

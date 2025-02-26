@@ -9,7 +9,7 @@
   "author": "Roger Pérez",
   "deck_building_id": "47773147eebaaca874ca1bcb4a9b47503e4dc810",
   "culture_invariant_id": 583,
-  "sort_number": 618,
+  "sort_number": 617,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=0c2fd5fd7be39f40fb1ed2f6f922904cb5d380c51e9342a5a8949b128420f7eb"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=0c2fd5fd7be39f40fb1ed2f6f922904cb5d380c51e9342a5a8949b128420f7eb"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=cad93044946d686866a79569136b2a08aee9b258e88e936cf255b00103d1fdab"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=cad93044946d686866a79569136b2a08aee9b258e88e936cf255b00103d1fdab"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=e14e2b802c90ba3d6bb0f86bf2538b64392b83f08485d307b0cc22cdbc78f72a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=e14e2b802c90ba3d6bb0f86bf2538b64392b83f08485d307b0cc22cdbc78f72a",
   "card_sets": [
     3
   ],

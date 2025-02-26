@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Exécuteur expérimenté",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "0cf9ec8277220e1e3790acd6c84c33cd9edb0ceb",
+  "culture_invariant_id": 1632,
+  "sort_number": 1629,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "FERMER TOUTES LES RADIOS Lorsque vous jouez ce personnage, aucun personnage ne peut être épuisé pour chanter une chanson jusqu'au début de votre prochain tour. AU CAS OÙ IL TE VIENDRAIT DES IDÉES Jouer une action ou un objet coûte 2 de plus à tous les joueurs. (Ceci ne compte pas pour chanter des chansons.)",
+  "card_identifier": "199/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=8c3c0f52aa78b1774240bf45afcfe5164f3a4cd39a22f762a659ff97860da6d7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=4ae777b852b9cec5bca1cd6a7a2138efbb8fefc8d3da5a6c6f559aef264c637c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=f51fdec0f9ea193906fa0ac56c0bb99fe9de6f580f1c2ac755f7bc2f2201483e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

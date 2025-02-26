@@ -9,7 +9,7 @@
   "author": "Brian Weisz",
   "deck_building_id": "229b50a7f3386e0bd2aa989a726fa7a22826eee1",
   "culture_invariant_id": 1135,
-  "sort_number": 1144,
+  "sort_number": 1143,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=40d6d37b7a4e15f2ebefeb6998207ebc5a7202aecbf0f92d2cefb3ea6d823ff1"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=40d6d37b7a4e15f2ebefeb6998207ebc5a7202aecbf0f92d2cefb3ea6d823ff1"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=24e3cc60f83bf6e25660053a3e307c7c092f40c0abc8a39cb3c69b6893feb0e3"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=24e3cc60f83bf6e25660053a3e307c7c092f40c0abc8a39cb3c69b6893feb0e3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=4838e565bb3777a27228c5baa59afbba4833afaa762bb553a39f79c4808af28d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=4838e565bb3777a27228c5baa59afbba4833afaa762bb553a39f79c4808af28d",
   "card_sets": [
     5
   ],

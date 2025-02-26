@@ -1,0 +1,40 @@
+{
+  "name": "Honeymaren",
+  "subtitle": "Northuldra Guide",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b37f54cccdfd81e4fac8a77d3054a00ee72b292d",
+  "culture_invariant_id": 1481,
+  "sort_number": 1478,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "It's said to be a bridge between us and the magic of nature.",
+  "rules_text": "TALE OF THE FIFTH SPIRIT When you play this character, if an opponent has an exerted character in play, gain 1 lore.",
+  "card_identifier": "48/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=dce4a998fc2d21671d509e41006cf86dd08552f639dc70779eda15172c3d25b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=ae161ac39da84d22cdb577b330742bda77cf334a2812194ea4edfd15fbe49446"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=3a73928a67edc5559c634ec4e96d4e6338899da621189c8b90627763af5a0c6f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

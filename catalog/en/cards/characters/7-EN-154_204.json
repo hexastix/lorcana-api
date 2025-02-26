@@ -1,0 +1,42 @@
+{
+  "name": "Scrooge McDuck",
+  "subtitle": "Resourceful Miser",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9fb5d0200a632d4583ec76955bc03c2431cf5651",
+  "culture_invariant_id": 1587,
+  "sort_number": 1584,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "PUT IT TO GOOD USE You may exert 4 items of yours to play this character for free. FORTUNE HUNTER When you play this character, look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "154/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=35500642f884219ab9f5d64ba2e9b977453fc603ebf0586eb94656d2b5901884"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=61a22ce507840558baafa7f5b0477cdbe71e0c93b52fab5779aa43bcf0e32295"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=fa15f0a3bd9d1db9b95289fab2c5f9b7950c15889feebb59f437e36823de6983",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=aabc1d00f611a2ff15c6a3e573f6e1fb84247042a0de6b84c5c06486bf9458e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Kartensoldaten",
+  "subtitle": "Königliche Truppen",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "dcb1ec98a56ada4be8acd345b0b77737465de130",
+  "culture_invariant_id": 1562,
+  "sort_number": 1559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Die Herz-Drei hob ihren Speer und flüsterte vor sich hin: Wo ein anderer hinfällt, ein Soldat der Königin sich hält.",
+  "rules_text": "DEN PUNKT NEHMEN Solange ein beschädigter Charakter im Spiel ist, erhält dieser Charakter +2.",
+  "card_identifier": "129/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=7f9f3cf74282bec3f8796e173772c3b35de88c334418b58c2523fa6b56fe429b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=0480cb10621ae9451945382abb4c3b8b1d1f6ca911e733790ee58855b8d7dc3a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=7c7194810231e4e80c54e767b8acded87ba6bfc47e54a50a187e7c90a3ee881a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

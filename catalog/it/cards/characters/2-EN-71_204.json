@@ -9,7 +9,7 @@
   "author": "Jenna Gray",
   "deck_building_id": "e62d9c43e5fbd5aceee5fad79ab1e069b8c412dc",
   "culture_invariant_id": 287,
-  "sort_number": 311,
+  "sort_number": 310,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=0f8bf97c2beae2ba07609a7aea803e2bd4f92daf4131dc6be1165870f5fb18c4"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=0f8bf97c2beae2ba07609a7aea803e2bd4f92daf4131dc6be1165870f5fb18c4"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=f703b945587cdb99c95fd639b485cdf7f4aaf1c02c8bd922eb2c5c33f1569cb9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=f703b945587cdb99c95fd639b485cdf7f4aaf1c02c8bd922eb2c5c33f1569cb9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=600464097d653d0916d1d98b0c056cbf64d4dbd1b24568e8babe4604b99fd3ae",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=600464097d653d0916d1d98b0c056cbf64d4dbd1b24568e8babe4604b99fd3ae",
   "card_sets": [
     2
   ],

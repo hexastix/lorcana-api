@@ -1,0 +1,43 @@
+{
+  "name": "Lady",
+  "subtitle": "Miss Park Avenue",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "João Moura",
+  "deck_building_id": "9f61c69f6fd196f8a513e41f12c5e1940c07dc32",
+  "culture_invariant_id": 1461,
+  "sort_number": 1458,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Lady.) SOMETHING WONDERFUL When you play this character, you may return up to 2 character cards with cost 2 or less each from your discard to your hand.",
+  "card_identifier": "28/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c673576dbf41e2aa4a2285f7a775fda71f3b15352dcd53fb19c2223e0033ce02"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=2e648c3676d7eb377dd31a2376d730dd8665f0063de9c47b30e65047f637391a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=f3691a54d02da0d17c6f4c44702da3f4dedf18e533325d688a028ff05ac3a084",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

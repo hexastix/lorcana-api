@@ -5,7 +5,7 @@
   "author": "Olivier Désirée",
   "deck_building_id": "c4c4f0e3ace8d22946df975891f7711d501b13c5",
   "culture_invariant_id": 755,
-  "sort_number": 765,
+  "sort_number": 764,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=cfb1534d940176e9ebe24bd43bd5796a0bb122f4d5cb7490e2cfce62724ac854"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=cfb1534d940176e9ebe24bd43bd5796a0bb122f4d5cb7490e2cfce62724ac854"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=9451910b64508c37834b6525c040211a150dc3a8690db3aeda7153127d82d150"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=9451910b64508c37834b6525c040211a150dc3a8690db3aeda7153127d82d150"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fa7fa510c0eabec254957473238ef87a1b5fbfbbf128268ff46aa524ccf66316",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=fa7fa510c0eabec254957473238ef87a1b5fbfbbf128268ff46aa524ccf66316",
   "card_sets": [
     4
   ],

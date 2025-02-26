@@ -5,7 +5,7 @@
   "author": "Michela Cacciatore",
   "deck_building_id": "c24ba0e28c5f3a8df3686d5068b960ef77a1875b",
   "culture_invariant_id": 565,
-  "sort_number": 600,
+  "sort_number": 599,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=0b6956ccbeff4b80868c82de569f7f21eeb52a862194ac2ea3958ee6b1a5e552"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=0b6956ccbeff4b80868c82de569f7f21eeb52a862194ac2ea3958ee6b1a5e552"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=d0fb8f4451573c9578c40e010a4bc00762a5f41e15274d909124dc05362772f2"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=d0fb8f4451573c9578c40e010a4bc00762a5f41e15274d909124dc05362772f2"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=92d9a0c621eef43ca89b0f1f05dd928eb67cac3787a612ae9bb8d7c0bf02cf7b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=92d9a0c621eef43ca89b0f1f05dd928eb67cac3787a612ae9bb8d7c0bf02cf7b",
   "card_sets": [
     3
   ],

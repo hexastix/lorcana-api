@@ -1,0 +1,40 @@
+{
+  "name": "Fa Zhou",
+  "subtitle": "Kriegsheld",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mel Milton",
+  "deck_building_id": "0569382cc56b9650bdb6db49b16d08e519dba845",
+  "culture_invariant_id": 1621,
+  "sort_number": 1618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Jede Falle, die du entschärfst, jede Prüfung, die du bestehst, ehrt uns alle. Gut gemacht.",
+  "rules_text": "ÜBUNGSAUFGABEN Jedes Mal, wenn einer deiner Charaktere einen anderen Charakter herausfordert, falls es die zweite Herausforderung in diesem Zug ist, sammelst du 3 Legenden.",
+  "card_identifier": "188/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=d26c2698f74a14cf2f9537a624b898b291433c2087295b81b8e4ee4ec5c5f806"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=b35ec4cee86ec170d88ae948e88a313647fd0268a8933a201034cc08497affc9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=b9f86f9107f78d4752e43ba87d46edfef1e878c38fb661d9918de386fef6e187",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

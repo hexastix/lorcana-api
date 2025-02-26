@@ -5,7 +5,7 @@
   "author": "Nicola Saviori",
   "deck_building_id": "167ce3ffa872b248ed98311ea3be37caf99525c5",
   "culture_invariant_id": 634,
-  "sort_number": 669,
+  "sort_number": 668,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=4aca75d7aaecdc53e72da034ec60105620cb1a332222752450a43f3e4ef3fa3c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=4aca75d7aaecdc53e72da034ec60105620cb1a332222752450a43f3e4ef3fa3c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=7f830c1191db03db378bbee600c3fb1d69b23320625762f20be2195e77c20539"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=7f830c1191db03db378bbee600c3fb1d69b23320625762f20be2195e77c20539"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=5c792ab1093998fd2ad8a81dd35fbf3770209f992057d2b9da477bbbd4ae0ede",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=5c792ab1093998fd2ad8a81dd35fbf3770209f992057d2b9da477bbbd4ae0ede",
   "card_sets": [
     3
   ],

@@ -1,0 +1,44 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Elemental Terror",
+  "strength": 12,
+  "willpower": 12,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Nicola Saviori",
+  "deck_building_id": "060b34992cdf3b51d872b1f70f9d808ba0b3be9a",
+  "culture_invariant_id": 1487,
+  "sort_number": 1484,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 7 (You may pay 7 to play this on top of one of your characters named Te Kā.) ANCIENT RAGE During your turn, whenever an opposing character is exerted, banish them.",
+  "card_identifier": "54/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=565722dac7ef9b5ab55cc454cbf0766a52244b90349266d93301ae4a500f3d46"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=70879e997edcb6fe1c3189658909466d4050af9e38dcf2edee704f886fb7716d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=e2867c7fb5435bda867aed48671c01f09164e33c14ab5d70cabbe29fadd73c80",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

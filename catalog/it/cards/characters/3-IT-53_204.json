@@ -9,7 +9,7 @@
   "author": "Denny Minonne",
   "deck_building_id": "a41b9d6c76e9b057ca90c96cd1935027b2a84c1e",
   "culture_invariant_id": 489,
-  "sort_number": 524,
+  "sort_number": 523,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=5202fdf2dc5ffed1a62db59939b8d4ec383320a419d99c8afb73fc6dc84f0a54"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=5202fdf2dc5ffed1a62db59939b8d4ec383320a419d99c8afb73fc6dc84f0a54"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=11afde0e84676e427d9b1c6cf3175a77be087561607d77c3d1b43f74977e0d6f"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=11afde0e84676e427d9b1c6cf3175a77be087561607d77c3d1b43f74977e0d6f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=4aa5a320482a2e5011967433a4940bebde64c4cfd50d317811c047ef1c5bc2f2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=4aa5a320482a2e5011967433a4940bebde64c4cfd50d317811c047ef1c5bc2f2",
   "card_sets": [
     3
   ],

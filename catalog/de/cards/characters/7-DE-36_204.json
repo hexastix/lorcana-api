@@ -1,0 +1,41 @@
+{
+  "name": "Sergeant Calhoun",
+  "subtitle": "Kampferprobt",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e89d02771a72229278fa2e4100374bf2c2eb63e0",
+  "culture_invariant_id": 1469,
+  "sort_number": 1466,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Vorbereitung und Glück – man kann sich nur auf eines verlassen, um einen Kampf zu gewinnen!",
+  "rules_text": "TAKTISCHER VORTEIL Wenn du diesen Charakter ausspielst, darfst du eine Karte von deiner Hand auswählen und abwerfen, um einem gegnerischen Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -3 zu geben.",
+  "card_identifier": "36/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=3b0e94cdb619a6ebe0c15131a015590f8a3115698fab95050f5c116a52fddc01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=13d2acc03845595606a93f4a2fb57aec6e5803681e305e3a2abd571f08bf3478"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=17f8ac3c45977f12c9be10edfabb84f60e1b1881a90cd9749c675a3b65d90112",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

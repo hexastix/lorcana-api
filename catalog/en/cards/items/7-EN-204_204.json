@@ -1,0 +1,33 @@
+{
+  "name": "Training Staff",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "e59a60896a2cea72441d79546048b4cce3a5ed23",
+  "culture_invariant_id": 1637,
+  "sort_number": 1634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Do not sit idle while others quest for glory. —Li Shang",
+  "rules_text": "PRECISION STRIKE , 1 — Chosen character gains Challenger +2 this turn. (They get +2 while challenging.)",
+  "card_identifier": "204/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=b10fed0415d704aca735c237f5f958ece952159d73a1dc942d473bf30ce7d33c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=1f5c1652d81c793e6880fee34d54bff520049d6c83195b7c44c876eb21b30fd1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=34e4c4e8007550e22a7644bb39e936e1d0f5e6621f88299d374469f2e0a0ba83",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

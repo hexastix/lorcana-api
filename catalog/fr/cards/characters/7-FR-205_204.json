@@ -1,0 +1,44 @@
+{
+  "name": "Aurore",
+  "subtitle": "La belle s'éveillant",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Viv Tanner",
+  "deck_building_id": "2ea925b3bcd4e58c5bd1d5bb775db0d24bf1d993",
+  "culture_invariant_id": 1638,
+  "sort_number": 1635,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Mélomane 5 (Ce personnage est considéré comme ayant un coût de 5 pour chanter des chansons.) BEAUX RÊVES Chaque fois que vous retirez au moins 1 dommage d'un personnage, redressez ce personnage-ci. Il ne peut ni partir à l'aventure ni défier pour le reste de ce tour.",
+  "card_identifier": "205/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ecddf39754b31a83121880fc62c7f53d26d2ebb443a87046a693e850d50dcd75"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=9d393ba0a30eff963928d06944f18cd01ae5c36cd54c59424458c9e66d022ee8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=1e6485c407268f5e88653321bcdd0dfcdba971860e7ad65bc7cd6b4c73a03421",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

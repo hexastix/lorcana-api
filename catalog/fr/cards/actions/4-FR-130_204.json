@@ -5,7 +5,7 @@
   "author": "R. la Barbera / L. Giammichele",
   "deck_building_id": "275f6a87f41c07adb1007eb7d1b5a6c177b506c7",
   "culture_invariant_id": 821,
-  "sort_number": 831,
+  "sort_number": 830,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=38caa2d0701bc79955cfb2bdf2336479b5b01316f553b3522c7c70676a3feadd"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=38caa2d0701bc79955cfb2bdf2336479b5b01316f553b3522c7c70676a3feadd"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=bb95eb3ac35fca9f1235a7a5620f6505a1359cec9803050a9f8ef42907999fe4"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=bb95eb3ac35fca9f1235a7a5620f6505a1359cec9803050a9f8ef42907999fe4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=524b636a2d2361700662ba719b4a33b218fed4c7177b0bb167b4b8fbfe804711",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=524b636a2d2361700662ba719b4a33b218fed4c7177b0bb167b4b8fbfe804711",
   "card_sets": [
     4
   ],

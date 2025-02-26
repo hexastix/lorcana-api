@@ -1,0 +1,46 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Pirate Captain",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Koni",
+  "deck_building_id": "25626315d5e1fbf223d3c10f20336b464a7a2e7e",
+  "culture_invariant_id": 1430,
+  "sort_number": 1427,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Mickey Mouse.) MARINER'S MIGHT Whenever this character quests, chosen Pirate character gets +2 and gains \"This character takes no damage from challenges\" this turn.",
+  "card_identifier": "18/P2 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=2434b55128ac583d1342ca04021b30bc0dd4f74407279b603908d17977a74c47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=9769da1f16deb6f36381e6d1cfc5a6d293cba75564f65aeef71ec6e0cbedbbff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=89392773f283e0722534957616857b59b68f8701d50d85dd89e2d1fb12eb2dee",
+  "special_rarity_id": 1,
+  "foil_type": "Glitter",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

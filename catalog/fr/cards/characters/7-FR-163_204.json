@@ -1,0 +1,44 @@
+{
+  "name": "Heihei",
+  "subtitle": "Conscience élargie",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Maxine Vee",
+  "deck_building_id": "60cce29a8b123e85708a10c1bc80278325d99446",
+  "culture_invariant_id": 1596,
+  "sort_number": 1593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Heihei.) Résistance +1 (Les dommages infligés à ce personnage sont réduits de 1.) FAITES LE VIDE DANS VOTRE ESPRIT Lorsque vous jouez ce personnage, placez toutes les cartes de votre main dans votre réserve d'encre, face cachée et épuisées.",
+  "card_identifier": "163/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=56706833cdc6fa729109e359f4117ccfa74b5208daaaee95f7368b39f80d3d07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=c540d67ffdee87fe24c9797ab24dfa2ebb05d506a1810e0fb2ca7f5a7e9c40ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=46637471bee9b90875626371d3566fe05b1ff545101bb85839301120434e5553",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

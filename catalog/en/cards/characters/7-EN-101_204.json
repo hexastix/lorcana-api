@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Exasperated Schemer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mel Milton",
+  "deck_building_id": "1549f70d69d265a807a772bbb979f346c7040f6a",
+  "culture_invariant_id": 1534,
+  "sort_number": 1531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "One of these must be the right lever, but I’ll be a llama’s aunt if I can figure out which one...",
+  "rules_text": "HOW SHALL I DO IT? When you play this character, you may draw a card, then choose and discard a card.",
+  "card_identifier": "101/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=d388714504abfe4522758f4198628daf4c6c0639d38c705c955cc26913b10baa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=048658aca1cd2efa3004b6fc419387fc689450832d7e7bf56b31c24b205afe33"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=764a0cbdc892ba13cc04f982ba3f51515bb4e63c84623274f04e7faf0523527e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

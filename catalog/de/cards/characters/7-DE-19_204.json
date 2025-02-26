@@ -1,0 +1,43 @@
+{
+  "name": "Pascal",
+  "subtitle": "Gartenchamäleon",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Aubrey Archer",
+  "deck_building_id": "dbbfc68f60125a864a3dff7e2bf4693570e24611",
+  "culture_invariant_id": 1452,
+  "sort_number": 1449,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Nachdem Pascal erst einmal in Archazias Blumenbeeten war, gab es keinen Weg mehr, ihn herauszubekommen.",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.)",
+  "card_identifier": "19/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=0f7126206ca7b388962cd0c8439748d1d6caaabaffab7701c2c9ece92aec5a46"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=7bc6b78d7d81a86617716163f78ef7f9bb75d1fe7820f9348af1580235fd8bf4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=fa4ea121d79b6985e0b7400bd5e4dc9b866dcb1a49273b7c21e82af1d5b54826",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

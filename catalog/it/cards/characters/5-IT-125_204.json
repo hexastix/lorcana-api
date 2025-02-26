@@ -9,7 +9,7 @@
   "author": "Valentin Palombo",
   "deck_building_id": "f366b5591bf174421106ad9ef1b368decafc6ace",
   "culture_invariant_id": 1081,
-  "sort_number": 1090,
+  "sort_number": 1089,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=920205ed5980e93ced957a4a3594857069eab621f4f54c830d553c99dd1eb7d0"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=920205ed5980e93ced957a4a3594857069eab621f4f54c830d553c99dd1eb7d0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a2ddc69d61d4368c7b976a159a486aa755404798dfd1c94b5b66d9fb70dcfe38"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a2ddc69d61d4368c7b976a159a486aa755404798dfd1c94b5b66d9fb70dcfe38"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=12ba27dbf97de0d3b7e71cb5a71459f1d4e8f682118252a403a07df1d6af27ab",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=12ba27dbf97de0d3b7e71cb5a71459f1d4e8f682118252a403a07df1d6af27ab",
   "card_sets": [
     5
   ],

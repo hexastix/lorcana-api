@@ -9,7 +9,7 @@
   "author": "Whitney Pollett",
   "deck_building_id": "0d5611559055a8c3782f6db74f2c9ab14e5d8dcf",
   "culture_invariant_id": 1408,
-  "sort_number": 1407,
+  "sort_number": 1406,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f038de0da868d62c82d16a3775309460902309ac6a1fad9d583c8be5dcb97d01"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f038de0da868d62c82d16a3775309460902309ac6a1fad9d583c8be5dcb97d01"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=3441dc82bc8865f72321838892f4b1db6f17f374b1d5466a3eb907d6616c5e38"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=3441dc82bc8865f72321838892f4b1db6f17f374b1d5466a3eb907d6616c5e38"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=13d5b91d65d5cbf3d5cbe273158c9888aea2c101570b802411b1828228d45f27",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=13d5b91d65d5cbf3d5cbe273158c9888aea2c101570b802411b1828228d45f27",
   "foil_type": "VerticalWave",
   "card_sets": [
     6

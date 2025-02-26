@@ -5,7 +5,7 @@
   "author": "Mané Kandalyan / Jochem van Gool",
   "deck_building_id": "eb38cba8fe1056601e3bcc7c466dba3649d7cb10",
   "culture_invariant_id": 381,
-  "sort_number": 405,
+  "sort_number": 404,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=13aa95aa037246fc91bc4f85ba51bd1df32624764ddd4e19bf197c25269f5709"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=13aa95aa037246fc91bc4f85ba51bd1df32624764ddd4e19bf197c25269f5709"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=f9270a8a1898c3be47540679f2f90c3c4c1ad76d552f64a15e98e2c4f38ddbcc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=f9270a8a1898c3be47540679f2f90c3c4c1ad76d552f64a15e98e2c4f38ddbcc"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e7a2f88447bc5ec33b91c8685f54fe75847066928015951646c82d6a9624e242",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e7a2f88447bc5ec33b91c8685f54fe75847066928015951646c82d6a9624e242",
   "card_sets": [
     2
   ],

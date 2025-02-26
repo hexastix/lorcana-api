@@ -1,0 +1,40 @@
+{
+  "name": "Stabbington Brother",
+  "subtitle": "With a Patch",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Saulo Nate",
+  "deck_building_id": "036bf4522b52312d577ea5211b54cebf7979ed09",
+  "culture_invariant_id": 1561,
+  "sort_number": 1558,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Silence is golden. And he loves gold.",
+  "rules_text": "CRIME OF OPPORTUNITY When you play this character, chosen opponent loses 1 lore.",
+  "card_identifier": "128/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=0c1cb7b6df84340bd46b69f919d6f087bb6fc948e86b55421e5c43b3f0b37db1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=f48f07ce149a9a4ccf57e90d6ed1ccec01e72dcd82efe0da8cff20f3bcc6423b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=88f508ed322d34895ecc1b45d57e97a65a0e25aebae01d7858f4e5ef4e9a1f2d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

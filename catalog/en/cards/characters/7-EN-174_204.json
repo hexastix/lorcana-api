@@ -1,0 +1,42 @@
+{
+  "name": "Jebidiah Farnsworth",
+  "subtitle": "Expedition Cook",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Pix Smith",
+  "deck_building_id": "fffdd033322affbd2f0dbae5b6b9b13ef3984c6a",
+  "culture_invariant_id": 1607,
+  "sort_number": 1604,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) I GOT YOUR FOUR BASIC FOOD GROUPS When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "174/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=87227d7d2a82ea82f70163174acd84e66eda4a5903127268f4af271e593cd6c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=8618f4e29f550f251c301975bf0a0072df02b2e1e080ec76ebef9f1f62413fba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=1caf63403f17da1732f27db2439bb820a245a2b13e35b4b9613873972cef13a5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

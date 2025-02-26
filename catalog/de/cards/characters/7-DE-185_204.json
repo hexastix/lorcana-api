@@ -1,0 +1,40 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Wandernder Hahn",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alan Batson",
+  "deck_building_id": "aaad7c547b0a41deda99a69fae279042d4585c95",
+  "culture_invariant_id": 1618,
+  "sort_number": 1615,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Archazia: Warum trägt er eine Kokosnuss?%Shanzay: Es ist wahrscheinlich besser, nicht zu fragen.",
+  "rules_text": "",
+  "card_identifier": "185/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=96582198b291f30b562bea7887818dbbb23ba39a97144f5e7d75a5e3bc587f51"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=b52104fb783c5410da842f7aa9a06ebaad965c9b8eada79a8eb04fe786cb74cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=d39b8215ab72f0cf2dad53e0b9bce5c169f431964d6ecf1a62eeac733ac3861e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

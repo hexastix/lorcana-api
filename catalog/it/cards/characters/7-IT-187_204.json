@@ -1,0 +1,43 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Bello e Disarmante",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maria Dresden",
+  "deck_building_id": "fc3303c43ff9b9600d46c652cda744f6e999e753",
+  "culture_invariant_id": 1620,
+  "sort_number": 1617,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano",
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) Resistere +2 (Il danno inflitto a questo personaggio è ridotto di 2.)",
+  "card_identifier": "187/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=c34d995b8ce532b331949a8b651d12c60de7e71fa433fdf9473cd032bc599b3a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=6220146fb04e3472ac9f88e90998bdd1ac25a2125d4214ca5821718d6b1924e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=d488b8a9c538722dacae58a5763265c257efcfd136c846d791e4ea8824030152",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Grewnge",
+  "subtitle": "Expert en canon",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simangaliso Sibaya / Mario Manzanares",
+  "deck_building_id": "953728c67c2d903d508f34dfca89bfb6c27fcbc2",
+  "culture_invariant_id": 1519,
+  "sort_number": 1516,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Pirate"
+  ],
+  "flavor_text": "Il aime deux choses: les explosions et les grosses explosions.",
+  "rules_text": "FEU NOURRI Chaque fois que ce personnage est envoyé à l'aventure, la prochaine action que vous jouez ce tour-ci vous coûte 1 de moins.",
+  "card_identifier": "86/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=8020c10e3c9262fe42d20f21c1e8533f1dd3e88d8b9c7b8a7acbe70847d8ea83"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=0d9b878049098cbaa17f7e227b8a65e702495e366c50b8885d6868bddb1b8d0e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=b9d9ebd97c8d51e72426836731e7c9c592d87fc09f864e41f6c828e3c981b3ce",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

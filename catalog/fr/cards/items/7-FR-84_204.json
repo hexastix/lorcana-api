@@ -1,0 +1,33 @@
+{
+  "name": "Spirale d’améthyste",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ac754e91e28825cba2776c444e2988b47cd9016b",
+  "culture_invariant_id": 1517,
+  "sort_number": 1514,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La spirale de Shanzay flamboya et projeta une vrille d'énergie mystique vers le Glimmer mal en point.",
+  "rules_text": "TOUCHER MAGIQUE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, vous pouvez choisir un personnage et déplacer 1 de ses dommages sur un personnage adverse de votre choix.",
+  "card_identifier": "84/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=77ac39a4d154ad2adf33e6b18fb98e4512f9f0ddf3a70fee36530211eac38295"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=6580fb11109bef32c16d28ef6fd2477de66d69488622de3e04d86e55623fa0ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=c8a4924e8e1dbb0c5d347e5548166ea14a07f21fb610e298bab77109bbb61d03",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

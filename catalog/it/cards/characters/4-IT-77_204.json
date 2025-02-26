@@ -9,7 +9,7 @@
   "author": "Maddie Shilt",
   "deck_building_id": "f0675a175f212c4b0fba027fb9728620ab990e7c",
   "culture_invariant_id": 768,
-  "sort_number": 778,
+  "sort_number": 777,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=0f1a52ca0c6099862444a2160ad569d29e76adcf3ba5b7cceb59b011e811154b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=0f1a52ca0c6099862444a2160ad569d29e76adcf3ba5b7cceb59b011e811154b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=24919227c79137418e9957f57fbabc70663e47e9cdd653cb47f24edfb8718c3a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=24919227c79137418e9957f57fbabc70663e47e9cdd653cb47f24edfb8718c3a"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=73d26cb0615506cef588a03dec154af2a069b64e24437291dd7cd7975b609fa7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=73d26cb0615506cef588a03dec154af2a069b64e24437291dd7cd7975b609fa7",
   "card_sets": [
     4
   ],

@@ -1,0 +1,41 @@
+{
+  "name": "Mulan",
+  "subtitle": "Verkleidete Soldatin",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jochem van Gool",
+  "deck_building_id": "dc468c676e85ae64384d43f7358b0f77eac28102",
+  "culture_invariant_id": 1626,
+  "sort_number": 1623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "Okay, es geht los. Beweg dich wie ein richtiger Mann.%–Mushu",
+  "rules_text": "WO KANN MAN SICH HIER EINSCHREIBEN? Wenn du diesen Charakter ausspielst, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "193/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=7e9a4fa2df8bb2be54112352552d22eebbadb90eb224736cc568779b4c029596"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=05fdcf0071a6b54139bbe415e56b5b9af2a587a5a30064868152e00889d0ffce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=19c9add175218a31de229e903ecde5d82b8d896da884edc02fdeb3b365db4ec7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

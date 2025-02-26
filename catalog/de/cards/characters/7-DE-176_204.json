@@ -1,0 +1,42 @@
+{
+  "name": "Maid Marian",
+  "subtitle": "Badminton-Ass",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "16b563305b1ebac09f45ac449c05181244aff0e5",
+  "culture_invariant_id": 1609,
+  "sort_number": 1606,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "EIN GUTER SCHLAG Jedes Mal, wenn einer deiner Verbündeten im Zug einer gegnerischen Person Schaden erhält, füge einem gegnerischen Charakter deiner Wahl 1 Schaden zu. FAIRES SPIEL Deine Lady-Gluck-Charaktere erhalten Robust +1 (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.)",
+  "card_identifier": "176/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=9f600fad333235cb55d25a7dd18e32a4f895d89f16d29b395a28cd36ef5a9d18"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=838925140afa3afc69441511557dedc7b81094ee2005f72b81a524dc2efce7cf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=08793dad0b3cdee5f6a3eb809d99da58314e17ce53a7c0800b34942b9a70364d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

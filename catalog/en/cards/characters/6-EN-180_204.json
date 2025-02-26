@@ -9,7 +9,7 @@
   "author": "Stefano Zanchi",
   "deck_building_id": "d57ba4914c87d36251c93894e3081d6552322ca0",
   "culture_invariant_id": 1379,
-  "sort_number": 1378,
+  "sort_number": 1377,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=8901c2aabfd9241a9199b01593036efef62bbf5119ea7b88944925be2c57da21"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=8901c2aabfd9241a9199b01593036efef62bbf5119ea7b88944925be2c57da21"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a8c98518b04f5303ad8e7ddb93cecc1771cf6a5437e79d5b496c264486f208de"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a8c98518b04f5303ad8e7ddb93cecc1771cf6a5437e79d5b496c264486f208de"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f7632bf0b81bf85839bbf7dca450e6c67b9a27f898a1be1a1f3b3a24f709a601",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=f7632bf0b81bf85839bbf7dca450e6c67b9a27f898a1be1a1f3b3a24f709a601",
   "card_sets": [
     6
   ],

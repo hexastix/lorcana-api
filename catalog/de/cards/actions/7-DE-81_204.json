@@ -1,0 +1,35 @@
+{
+  "name": "Meine Familie",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "c3565f192febee8aaadc4da67348a3246ad959eb",
+  "culture_invariant_id": 1514,
+  "sort_number": 1511,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Schau, wie sie strahlen. Ja, wir sind füreinander da.",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Sammle 1 Legende. Ziehe 1 Karte.",
+  "card_identifier": "81/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=ea17cb0718ce5757859eedcfdacc198938b75a965ad8f79ac1162c7922978fbd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=ce1f233f45204b5dba46cba128001ed0b49ef3a1b51df2237064eacb74c1b147"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=b4120eeda4f2f4579059acf1a747f557b9aa7305155fe0924b5ca2bc694e531c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

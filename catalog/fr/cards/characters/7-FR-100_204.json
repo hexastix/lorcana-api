@@ -1,0 +1,40 @@
+{
+  "name": "Lady",
+  "subtitle": "Épagneule élégante",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sara Leal (Loyal)",
+  "deck_building_id": "934805edfc939c3c6e92fa8b34aca79d34855421",
+  "culture_invariant_id": 1533,
+  "sort_number": 1530,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Êtes-vous sûrs que nous sommes autorisés à entrer ici? Jim Chéri ne m’aurait jamais donné la permission de pénétrer dans la cuisine.",
+  "rules_text": "LES DROITS DU CITOYEN CHIEN Tant que vous avez un personnage Clochard en jeu, ce personnage-ci gagne +1.",
+  "card_identifier": "100/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=6cc4d5f9a65a3bfae818688fe557c5b1670990ac244d2701dce17274618ed41f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=9d38950ba07fd0aa96c1d51d6c660c7e62190ad99f6e4cbb83575e189d761645"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=31ce573de7a5a60626e9a500d30d7297bc03badd73ab78b8c3f7f8f26a1a848f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

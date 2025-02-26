@@ -1,0 +1,42 @@
+{
+  "name": "Bolt",
+  "subtitle": "Verlässlicher Freund",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "4569c6b9d1aa773811189e4fe7746e13a5b67569",
+  "culture_invariant_id": 1451,
+  "sort_number": 1448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Superhund gegen Superholz! Das ist WAHNSINN!%–Dino",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "18/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=ea3116dd25a52178d6f80f2db5f9e70ef2f996f03613cecffd7f78a3c2c8bef1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=e08a3725e3fad67cbe07a9b1cf95983182c67904321ab6ce02c66612d1c2f0ae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=b486110b2e4bf6669546dff157728423b82cc6cffab48aa40ebdef2135fda5df",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

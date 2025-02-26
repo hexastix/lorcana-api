@@ -1,0 +1,40 @@
+{
+  "name": "Heihei",
+  "subtitle": "Gallo Sconclusionato",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Alan Batson",
+  "deck_building_id": "aaad7c547b0a41deda99a69fae279042d4585c95",
+  "culture_invariant_id": 1618,
+  "sort_number": 1615,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato"
+  ],
+  "flavor_text": "Archazia: Perché indossa una noce di cocco?%Shanzay: Probabilmente è meglio non chiederlo.",
+  "rules_text": "",
+  "card_identifier": "185/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=e3e420ad7cee7437cb72570abbeb2eb826285232e6ae9433f036d70921a2f2a8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=186d14bb29ca539b2eab145124506642d4b666b8321a50abf5ee89bca3008843"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22.jpg?checksum=41deb9efcab1833e26a41b51f47c716e7b82f72300151af112b0add46b2f3a1b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

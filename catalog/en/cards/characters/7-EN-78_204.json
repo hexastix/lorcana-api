@@ -1,0 +1,41 @@
+{
+  "name": "Dolores Madrigal",
+  "subtitle": "Within Earshot",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "f7ca2bca88c3d51f863bc2d006117959a66f603a",
+  "culture_invariant_id": 1511,
+  "sort_number": 1508,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "She heard Mariano’s heart skip a beat. Was it because of the puzzle, or was he looking at her?",
+  "rules_text": "I HEAR YOU Whenever one of your characters sings a song, chosen opponent reveals their hand.",
+  "card_identifier": "78/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=785f627b66298f9a0e58af93ec0d0e5293d66d9d52de55e5e44c374bbaea5366"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=cb51aef661a7f74dfd3974e4ca0829d70cf7282a97fcaefe18a937a8a14ed793"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=0550369c84bf391eff3a7be436be3c7ce451403c579243f1ea5d2706cf544c80",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

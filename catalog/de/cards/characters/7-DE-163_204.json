@@ -1,0 +1,44 @@
+{
+  "name": "HeiHei",
+  "subtitle": "Erweitertes Bewusstsein",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Maxine Vee",
+  "deck_building_id": "60cce29a8b123e85708a10c1bc80278325d99446",
+  "culture_invariant_id": 1596,
+  "sort_number": 1593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Robust"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Heihei-Charaktere auszuspielen.) Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) DEN GEIST BEFREIEN Wenn du diesen Charakter ausspielst, lege alle Karten aus deiner Hand verdeckt und erschöpft in deinen Tintenvorrat.",
+  "card_identifier": "163/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=c5ac3ff75003a59c8c3367322d486eb9684d83016f6c60ce30fb9c5d4592e085"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=a5b85395dcc6d50bc8226b012686bf5045ad51e6d528e6b0db99ee4b3df46c6c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=17a9e1a1ff8ecc7805d1193b0ba48e4c41db6414393b89c9b891c729c071b6aa",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

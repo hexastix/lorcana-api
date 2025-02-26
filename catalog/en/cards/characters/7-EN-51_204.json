@@ -1,0 +1,42 @@
+{
+  "name": "Jafar",
+  "subtitle": "Newly Crowned",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1484,
+  "sort_number": 1481,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "Now that the Hexwell Crown is finally mine, no force in Lorcana can stand against me!",
+  "rules_text": "THIS IS NOT DONE YET During an opponent's turn, whenever one of your Illusion characters is banished, you may return that card to your hand.",
+  "card_identifier": "51/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=594fc682a30f6851896d4c2d652865a0222a15fa216894f926b3b061d0473429"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=6462e383a93ad0462d8b24e8971630d4a3f20ba2d52916cfebc2a43fbff8a78c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=ebd53b7f1a00832c9d45ebb12d339ed31f5ec69792bbc8dd1f55d6d1fa38803d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

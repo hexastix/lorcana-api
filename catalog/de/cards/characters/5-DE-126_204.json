@@ -9,7 +9,7 @@
   "author": "Raquel Villanueva",
   "deck_building_id": "3b8ce9d853822f37f2a8ccdac5ba917bd8570611",
   "culture_invariant_id": 1082,
-  "sort_number": 1091,
+  "sort_number": 1090,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=8d21e790eddb17a0fac10776ea421cc997d0ebbe0d397360c5ef8c4f4aebdfff"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=8d21e790eddb17a0fac10776ea421cc997d0ebbe0d397360c5ef8c4f4aebdfff"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=c048a1044dd142bdcc904e6ad590f48d702c062794613cc91fb4604386802394"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=c048a1044dd142bdcc904e6ad590f48d702c062794613cc91fb4604386802394"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=205974c91a8da42a66a68316b2f9f4d77ff118dded82d3dea611b35bc794c6a1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=205974c91a8da42a66a68316b2f9f4d77ff118dded82d3dea611b35bc794c6a1",
   "card_sets": [
     5
   ],

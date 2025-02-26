@@ -1,0 +1,33 @@
+{
+  "name": "Spirale d’Émeraude",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "f9a952d88bbccdde151f68df4d1cfc77395426cf",
+  "culture_invariant_id": 1553,
+  "sort_number": 1550,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La spirale que portait Martin lui allégea le moral... et le corps tout entier.",
+  "rules_text": "AILES CHATOYANTES Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, choisissez un personnage qui gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "120/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=2dcf3f66fdb74b5c226e18df7a94d1946a1f35ec4fc98b1294b64c3bc7f13e20"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=4422712db38d67cd2233f5dc3ac93640d89a201ec8320dfba3cea947a393e215"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=8e1ee95069fc8afb1dcf083e1e3cfd9320c1e654103e66c31961f390f150efd3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

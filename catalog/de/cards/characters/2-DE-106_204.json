@@ -9,7 +9,7 @@
   "author": "Carmine Pucci / Leonardo Giammichele",
   "deck_building_id": "d130a56e0f8c8813f9fae0f025c3b78620f2fc45",
   "culture_invariant_id": 322,
-  "sort_number": 346,
+  "sort_number": 345,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=512e9d5bc5fa160284d521937099cd60d5a97064acde8cc1340a1455a8e0a45e"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=512e9d5bc5fa160284d521937099cd60d5a97064acde8cc1340a1455a8e0a45e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=c6ecdb32f82af38185043c67d9f07c21fc6b6ce4af7eacc00d70b6658202c5b3"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=c6ecdb32f82af38185043c67d9f07c21fc6b6ce4af7eacc00d70b6658202c5b3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=1f23cbf5b134de9a5dc6a5f88d97e2966a7563ed7e587a35e257f06ea1f88029",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=1f23cbf5b134de9a5dc6a5f88d97e2966a7563ed7e587a35e257f06ea1f88029",
   "card_sets": [
     2
   ],

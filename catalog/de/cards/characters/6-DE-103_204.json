@@ -9,7 +9,7 @@
   "author": "Koni",
   "deck_building_id": "25626315d5e1fbf223d3c10f20336b464a7a2e7e",
   "culture_invariant_id": 1302,
-  "sort_number": 1301,
+  "sort_number": 1300,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -27,18 +27,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=c341a1f5b99697ee991642f60db36cbe30d8d901293d0376a4980634b61ca4e1"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=c341a1f5b99697ee991642f60db36cbe30d8d901293d0376a4980634b61ca4e1"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=31e6682b7c50b681bbc69bf061e57e70c39ed22f3ff70777b068f73aec9139f5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=31e6682b7c50b681bbc69bf061e57e70c39ed22f3ff70777b068f73aec9139f5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=78f6eda785798d6bf9ca533719a44195421bdf12055e56d01534e8a2a23ad933",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=78f6eda785798d6bf9ca533719a44195421bdf12055e56d01534e8a2a23ad933",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mickey Mouse",
+    "Mickey Maus",
+    "Micky Mouse"
   ]
 }

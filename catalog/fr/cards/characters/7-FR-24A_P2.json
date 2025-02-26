@@ -1,0 +1,45 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Concepteur d'armures",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Max Grecke",
+  "deck_building_id": "80e5899ff870979d2047e3094ca8c48b56af6ada",
+  "culture_invariant_id": 1661,
+  "sort_number": 1659,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Hiro Hamada.) VOUS SEREZ BIEN PLUS Vos personnages Floodborn avec une carte sous eux gagnent Insaisissable et Hors d'atteinte. (Seuls les personnages avec Insaisissable peuvent défier ces personnages. Les adversaires ne peuvent pas choisir ces personnages, hormis pour un défi.)",
+  "card_identifier": "24A/P2 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/7b298a95ccbe921710eb93dde58f2fb10df44434.jpg?checksum=e5a12a3ee61eab9b909b243f4541a7bd22c72e9699fdb2f340ccdfbfba971d25"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/7b298a95ccbe921710eb93dde58f2fb10df44434.jpg?checksum=6a10365ebcc53e783b19e2c1fa63a0014650091afc65793630624fa1933b0d53"
+    }
+  ],
+  "special_rarity_id": 4,
+  "foil_type": "None",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Sam Nielson",
   "deck_building_id": "7c256dab47d16a89c757b84431b8ddca2fb61add",
   "culture_invariant_id": 1251,
-  "sort_number": 1250,
+  "sort_number": 1249,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=6f48e8211f3276167b7510161d875651e6d2cca9192de13b8a1a2dc2acc051fa"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=6f48e8211f3276167b7510161d875651e6d2cca9192de13b8a1a2dc2acc051fa"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=8e2fbeb97aa4eb66ebddb9e9ea378bf13e793d0720303058ccf448d192a8192b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=8e2fbeb97aa4eb66ebddb9e9ea378bf13e793d0720303058ccf448d192a8192b"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=439716ee402eea1f3b7e6fe27cb94f95968ea149f99eb5377ea5af02a3237caf",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=439716ee402eea1f3b7e6fe27cb94f95968ea149f99eb5377ea5af02a3237caf",
   "card_sets": [
     6
   ],

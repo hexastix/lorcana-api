@@ -1,0 +1,44 @@
+{
+  "name": "Lady Cocca",
+  "subtitle": "Confidente Protettiva",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a1c520968878a4659e2e5283c4bb522936f0fa60",
+  "culture_invariant_id": 1605,
+  "sort_number": 1602,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)",
+  "card_identifier": "172/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=08319e48ca2be8dad39c89ae49e38f6f40617f593c9360fc455c5e09d813feb9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=c84a2498175c02b37ef8c692bc0c7511fe3075e6f179081066d702c609451873"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=db480d97a1e38640e0e72b7b320e872b190d6faa163d564192a940e4be1f6eed",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

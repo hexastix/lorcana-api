@@ -5,7 +5,7 @@
   "author": "Mario Oscar Gabriele",
   "deck_building_id": "3978188633160fe7db7bc875815de9594fe4e400",
   "culture_invariant_id": 1089,
-  "sort_number": 1098,
+  "sort_number": 1097,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=569a203ff9617532bdfd6ba751a20138bceb372e3919eea900ed3288a08882f4"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=569a203ff9617532bdfd6ba751a20138bceb372e3919eea900ed3288a08882f4"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=8d75c168236af4f3d1bafd6bdd681107bf43ef46fb058b5e3a7a10960c70a252"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=8d75c168236af4f3d1bafd6bdd681107bf43ef46fb058b5e3a7a10960c70a252"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=cb84852db2df937c222a284eca84cbeb14ddedd8cfd0f412453d7ba4733c6eab",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=cb84852db2df937c222a284eca84cbeb14ddedd8cfd0f412453d7ba4733c6eab",
   "card_sets": [
     5
   ],

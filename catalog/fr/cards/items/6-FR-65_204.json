@@ -5,7 +5,7 @@
   "author": "Gabriel Angelo",
   "deck_building_id": "f0af7b77ab79602de64eaa232f48153d20f4cada",
   "culture_invariant_id": 1264,
-  "sort_number": 1263,
+  "sort_number": 1262,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=a670206bb07eb2e4364324119cc0c394943ad20bcb5054a4e345b65c386feb1b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=a670206bb07eb2e4364324119cc0c394943ad20bcb5054a4e345b65c386feb1b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=447bac2dc8c1aa31300198e067e32ec41cc49cda46d030473805a6fc037a5932"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=447bac2dc8c1aa31300198e067e32ec41cc49cda46d030473805a6fc037a5932"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=775651f4c9f640e3731b8d65f305066ceed3fa339874b512f88f889d9ab49e0b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=775651f4c9f640e3731b8d65f305066ceed3fa339874b512f88f889d9ab49e0b",
   "card_sets": [
     6
   ],

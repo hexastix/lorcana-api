@@ -9,7 +9,7 @@
   "author": "Marco Giorgianni",
   "deck_building_id": "6db4cfeb86203d0a9247630bfbebe786bd291e09",
   "culture_invariant_id": 396,
-  "sort_number": 420,
+  "sort_number": 419,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=fa0b1397ec32bdc193ecbd064b37ed891d197351eebe212ec26fc243613afed7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=fa0b1397ec32bdc193ecbd064b37ed891d197351eebe212ec26fc243613afed7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=9dfa9d0d118042f0c53423e9613a1d07dc40f5a7687728e214473ef586215973"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=9dfa9d0d118042f0c53423e9613a1d07dc40f5a7687728e214473ef586215973"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a0401f7e8c8db4d1e181e3276d7b776a903ecf5e71c91d4e543858c7f2a1c2d8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=a0401f7e8c8db4d1e181e3276d7b776a903ecf5e71c91d4e543858c7f2a1c2d8",
   "card_sets": [
     2
   ],

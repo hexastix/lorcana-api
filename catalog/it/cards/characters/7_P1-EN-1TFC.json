@@ -1,0 +1,46 @@
+{
+  "name": "Captain Hook",
+  "subtitle": "Forceful Duelist",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Marcel Berg",
+  "deck_building_id": "296f4ed274c9b83418b64ea35bcc8ffc4a4a5dc3",
+  "culture_invariant_id": 665,
+  "sort_number": 230,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "He loves to make light of a foe’s predicament.",
+  "rules_text": "Challenger +2 (While challenging, this character gets +2.)",
+  "card_identifier": "1TFC EN 7/P1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=97a2db135da315971c4faf8afd042e68ac16a64803ba853bcabb9c87bc8af59b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=c95ba8b244cc62b924bd965aac5c881d08ab38a88cc568ac00e776695806216f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=0e78151e47173b47c2f215984c466a4fea8d2b68c2f88a44ec79a6a12b5214e7",
+  "special_rarity_id": 2,
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

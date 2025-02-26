@@ -9,7 +9,7 @@
   "author": "Linh Dang",
   "deck_building_id": "215468ad3c809a1adc7ae0b14aa9d95e4875e52d",
   "culture_invariant_id": 712,
-  "sort_number": 722,
+  "sort_number": 721,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=07c9dfd94d27ce815d27429390f2ec770c48b1ecfc97a086271a954251eb8407"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=07c9dfd94d27ce815d27429390f2ec770c48b1ecfc97a086271a954251eb8407"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=3485e2cc80b76d87118df621836ca3f25680f561b3b5f23b359a2f99c614e856"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=3485e2cc80b76d87118df621836ca3f25680f561b3b5f23b359a2f99c614e856"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=b927e379c0abb3ba8721129c1a2f7464f676c1447688408f4873e5cbee953145",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=b927e379c0abb3ba8721129c1a2f7464f676c1447688408f4873e5cbee953145",
   "card_sets": [
     4
   ],

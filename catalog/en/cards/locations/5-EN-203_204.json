@@ -9,7 +9,7 @@
   "author": "Saulo Nate",
   "deck_building_id": "cc71c1618903c39c8004b62c6773737e15c61cef",
   "culture_invariant_id": 1159,
-  "sort_number": 1168,
+  "sort_number": 1167,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=890f265d5db3cde4a21e030fc78bbf00591c99a64cb2840432d596bd890a87df"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=890f265d5db3cde4a21e030fc78bbf00591c99a64cb2840432d596bd890a87df"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=fd15992e29207086f0a26cbccf5c99e52e924c6b9a3bba07893c6e0ed939d9f9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=fd15992e29207086f0a26cbccf5c99e52e924c6b9a3bba07893c6e0ed939d9f9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=035aa18ad946eec1e1c123467a14b2c1e1148a78bb220694e1abf14650372fbd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=035aa18ad946eec1e1c123467a14b2c1e1148a78bb220694e1abf14650372fbd",
   "card_sets": [
     5
   ],

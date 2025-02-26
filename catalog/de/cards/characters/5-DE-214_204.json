@@ -9,7 +9,7 @@
   "author": "Gabriel Quinn",
   "deck_building_id": "92fccc7cdd7f354c194d3872d469ff147c33e442",
   "culture_invariant_id": 1170,
-  "sort_number": 1179,
+  "sort_number": 1178,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=79611c28f9613e79aecfcd6b72944b8940bd70714fd914783b28b1b0216735a5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=79611c28f9613e79aecfcd6b72944b8940bd70714fd914783b28b1b0216735a5"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=acfa3b025f7e21efdd4f2f854e93fc22676ce749add53dc9dfe2f536873e13f6"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=db2d86e2892af7291d991f2224a09958c110ae0983435573ea4e4a8d058b319d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=bfa93b29d43dd65a38a75f0a0f2a673ac2d92e4f02c153ba4ece0525ddd4ce62",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=bfa93b29d43dd65a38a75f0a0f2a673ac2d92e4f02c153ba4ece0525ddd4ce62",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

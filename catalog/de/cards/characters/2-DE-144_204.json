@@ -9,7 +9,7 @@
   "author": "Aisha Durmagambetova",
   "deck_building_id": "39d81f72fb13e512ea913ac8dd9ab95f2688be81",
   "culture_invariant_id": 360,
-  "sort_number": 384,
+  "sort_number": 383,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=66250a9c57cfd794eb8698373285ea8632bb50083bd551b6b09786e81cfa113c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=66250a9c57cfd794eb8698373285ea8632bb50083bd551b6b09786e81cfa113c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=245ba028e1c194b60cfe000bb8727f2dd8faff996a41b10454e3a80d42492401"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=245ba028e1c194b60cfe000bb8727f2dd8faff996a41b10454e3a80d42492401"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=b59404da899ad43b9c47fa4f37714af42f0cb0912ff71f9a1d74b2a5ac99f20a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=b59404da899ad43b9c47fa4f37714af42f0cb0912ff71f9a1d74b2a5ac99f20a",
   "card_sets": [
     2
   ],

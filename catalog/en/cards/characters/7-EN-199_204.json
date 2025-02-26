@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Experienced Enforcer",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "0cf9ec8277220e1e3790acd6c84c33cd9edb0ceb",
+  "culture_invariant_id": 1632,
+  "sort_number": 1629,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Alien",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "CLOSE ALL CHANNELS When you play this character, characters can't exert to sing songs until the start of your next turn. DON'T GET ANY IDEAS Each player pays 2 more to play actions or items. (This doesn't apply to singing songs.)",
+  "card_identifier": "199/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=d3e7723355d9bb6abfd8bc9d4132b1413d23bd2142b47108c72d733fe9175f52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=5d53d2f039f870c44dc3d2dc90d60d4a0909e26a818a3f063b7663507e2e92e7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=52e5ac323935fd97c6bb0dd962c488312ca9b0941a4815b12227313bd7e33398",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

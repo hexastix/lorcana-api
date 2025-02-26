@@ -9,7 +9,7 @@
   "author": "Samanta Erdini",
   "deck_building_id": "fa11e4dee0304a775175091334b4bfa75690d3eb",
   "culture_invariant_id": 1001,
-  "sort_number": 1010,
+  "sort_number": 1009,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=86b30d41203fbec557fec6b6e6aa5207b320eaba9ca34d5487902087452c236a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=86b30d41203fbec557fec6b6e6aa5207b320eaba9ca34d5487902087452c236a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=20bb57bf9b7a36d06cc19b95f4e479783954215becb6dba0e8bf7f51f39773a5"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=20bb57bf9b7a36d06cc19b95f4e479783954215becb6dba0e8bf7f51f39773a5"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=e1b58bd39ec6ca2224e65689069b2d963dcd60611c235b4986b076695260cb68",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=e1b58bd39ec6ca2224e65689069b2d963dcd60611c235b4986b076695260cb68",
   "card_sets": [
     5
   ],

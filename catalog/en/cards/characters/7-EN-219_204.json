@@ -1,0 +1,41 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Happy as a Clam",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Beatrice Blue",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1652,
+  "sort_number": 1649,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "COOLEST COLLECTION When you play this character, return up to 2 item cards from your discard to your hand. I'M BEAUTIFUL, BABY! Whenever this character quests, you may play an item for free.",
+  "card_identifier": "219/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=8bb310db6b548d23b042276b40d53d39c3fef5f8c0b2bf231e46d0b4ff1e0f16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=2f57e526b61fc600da743fd84bf975dbef2c2870c5df9950b3f3d1a37d969b23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=8bd0eab97f1ec10cdf606370e014af9863c63343da14c3a62390a63599d49303",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

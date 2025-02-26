@@ -1,0 +1,40 @@
+{
+  "name": "Stabbington-Bruder",
+  "subtitle": "Mit Augenklappe",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Saulo Nate",
+  "deck_building_id": "036bf4522b52312d577ea5211b54cebf7979ed09",
+  "culture_invariant_id": 1561,
+  "sort_number": 1558,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Schweigen ist Gold. Und er liebt Gold.",
+  "rules_text": "VERBRECHEN DER GELEGENHEIT Wenn du diesen Charakter ausspielst, verliert eine gegnerische Person deiner Wahl 1 Legende.",
+  "card_identifier": "128/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=2d02d2ec9c7e59e16e89e26b5a1d44f39abec7363d8ace8cac2947a3ba1b2c37"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=cc31af7a1128c892d4f3bd1723cc4ace1d0a46a44f3829f44a96dcd743e863b4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=984acabd880f34889b51a286408b699abf8e553f69d8732f65bae774848e045c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

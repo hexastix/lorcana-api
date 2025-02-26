@@ -1,0 +1,46 @@
+{
+  "name": "Belle",
+  "subtitle": "Mécanicienne extraordinaire",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1650,
+  "sort_number": 1647,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 7 RÉCUPÉRATION Jouer ce personnage en utilisant sa capacité Alter vous coûte 1 de moins pour chaque carte Objet dans votre défausse. RECYCLAGE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez placer jusqu'à 3 cartes Objet de votre défausse sous votre pioche pour gagner 1 éclat de Lore par carte placée ainsi.",
+  "card_identifier": "217/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=6932ad5a82e8c4b1644e217fb5a9518fe22d2b375a9d2d4c63972dbd3e1f2c91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e31ebe3615e01037254b5afa65286194896829ef6175b960d625b309829104e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=090114e8e3a4cb5f270984d2c53ff5d6ba3cb35f7f75d50486d45f779f149974",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

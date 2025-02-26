@@ -1,0 +1,42 @@
+{
+  "name": "Hades",
+  "subtitle": "Fast Talker",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "df2b712163f2278bdb5a2b67b13b5d5e3e04e6d4",
+  "culture_invariant_id": 1485,
+  "sort_number": 1482,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "... You get a whole lotta gain.",
+  "rules_text": "FOR JUST A LITTLE PAIN When you play this character, you may deal 2 damage to another chosen character of yours to banish chosen character with cost 3 or less.",
+  "card_identifier": "52/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=4a9cfda15bcf4ab7f4bd4f42ee5a2e5a1b3fa2615f1740fca9535b98e912bc63"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=3d05538322537beb86e13a1c0c80a426927c15f64274fcb180dcc148822b6e2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=138610dbc25293b6e77e08565bf5fc5a0c8a4976b806fbb24e40bd988cb48d08",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

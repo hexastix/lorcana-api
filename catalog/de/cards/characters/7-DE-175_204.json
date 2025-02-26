@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Aufgerüsteter Roboter",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Dustin Panzino",
+  "deck_building_id": "840d0b3ebdf82a8bbc65833ecdf99654ac7ab5ab",
+  "culture_invariant_id": 1608,
+  "sort_number": 1605,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Roboter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) ERWEITERTER SCANNER Wenn du diesen Charakter ausspielst, schaue dir die obersten 4 Karten deines Decks an. Du darfst 1 Flutgestalt-Charakterkarte daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "175/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=5c9c658cfc57420b99ad29ae4ca76034fee4c48eb1bd7d43e2411c73e566cad3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=f3bb18cc35eacfb7fc90729c4edd1752a4aa93470f81e5153446f96efe651008"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=405c2c33a0404e433aa352d6b3d54956d39c120b469753574d47568cca49ec0a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

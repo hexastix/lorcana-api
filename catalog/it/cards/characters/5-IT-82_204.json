@@ -9,7 +9,7 @@
   "author": "Justin Runfola",
   "deck_building_id": "2a5d939bc141ebe8540f3584cea9e8e2cb51fc57",
   "culture_invariant_id": 1038,
-  "sort_number": 1047,
+  "sort_number": 1046,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=af08d343e32f7841435ca47d604e95d983de74872bad1be48c60f457029c8808"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=af08d343e32f7841435ca47d604e95d983de74872bad1be48c60f457029c8808"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c3a34c3ac12c04a253c7e3ad6d215f9a0d94576f3d83adc7f2e906731abaaf8f"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c3a34c3ac12c04a253c7e3ad6d215f9a0d94576f3d83adc7f2e906731abaaf8f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=71d952a28a9a9c84a9aedf70c75def747803613406f7c1ff08a8f1f6fca3cdd2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=71d952a28a9a9c84a9aedf70c75def747803613406f7c1ff08a8f1f6fca3cdd2",
   "card_sets": [
     5
   ],

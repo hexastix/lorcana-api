@@ -1,0 +1,42 @@
+{
+  "name": "Bolt",
+  "subtitle": "Amico Fidato",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Ellie Horie",
+  "deck_building_id": "4569c6b9d1aa773811189e4fe7746e13a5b67569",
+  "culture_invariant_id": 1451,
+  "sort_number": 1448,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Super cane contro super tronco! È PAZZESCO!%—Rhino",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "18/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=10c786be6c2c45a34aa4c43bd162c937f019c31837ef582aff0d809681ddeb1e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=faf82ec8773429d16768a92badf40bf817547a5311583e7c40b12761a318bda6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=83984a5b738032de139626db7d257ac24265b54a0e8c7225ea984bc94f0a6850",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

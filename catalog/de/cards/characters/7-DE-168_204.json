@@ -1,0 +1,40 @@
+{
+  "name": "Pünktchen",
+  "subtitle": "Guter Junge",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Laura Pauselli",
+  "deck_building_id": "f21c908b247d9cbe4e6848d00540186be031c963",
+  "culture_invariant_id": 1601,
+  "sort_number": 1598,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "Ich will mit den anderen spielen! Darf ich, Papa? Bitte!",
+  "rules_text": "EINFACH NIEDLICH! Wenn du diesen Charakter ausspielst, gib einem gegnerischen Charakter deiner Wahl in diesem Zug -1.",
+  "card_identifier": "168/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=d03393415d4074ff5554385ba90d5b42993383d990be759b74da2e256b9b3ccb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=2692e4d5ff67d3784986805085130b7310efd72f021b2915be29618ec73b04a8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f76b2ea6b45eff3bc8e4399145cc17a0601f5c8d.jpg?checksum=4fe84a93963a07d8fb16325bf591130722fc4c7239ede1045d533fde6b23be0e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

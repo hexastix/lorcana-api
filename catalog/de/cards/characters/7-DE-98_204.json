@@ -1,0 +1,41 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Lebhafter Pirat",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "João Moura",
+  "deck_building_id": "9c7d800c6c0e522c7c7224a1dfb5b79bcac0edee",
+  "culture_invariant_id": 1531,
+  "sort_number": 1528,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Pirat"
+  ],
+  "flavor_text": "Aye, aye, Käpt'n! Ich mache das schon.",
+  "rules_text": "ENTE DER AKTION Jedes Mal, wenn dieser Charakter herausgefordert wird, darfst du 1 Aktionskarte, die keine Liedkarte ist, aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "98/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=5db2eb25348980e572ef415dca314ab1260324397b90e8569d6e65b25a8848ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=f377f1107bd9e430a1665038a696c16ead6039fe85b6d7f6199a6113e1e04060"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=6a1bfc2a29eb00ed496b7cab3d83e1a04888b6e452eb67724422a70299f495ba",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

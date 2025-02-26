@@ -1,0 +1,40 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Außergewöhnliche Eule",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luis Huerta",
+  "deck_building_id": "2e059909be50ae3de97d3674f118f6da8e648180",
+  "culture_invariant_id": 1509,
+  "sort_number": 1506,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Die Bibliothek von Archazia war selbst für eine so gebildete Eule eine Fundgrube des Wissens.",
+  "rules_text": "MEHR ZU LERNEN Jedes Mal, wenn dieser Charakter von einer Aktion oder Fähigkeit einer gegnerischen Person ausgewählt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "76/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=4b59eb4e927cbc13c482fd58455460532d473022e8befc077ffedfdb356b030c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=e2b4dcd6180ff9fd311f6a010611be6a6ff175de11071e2133ae598e050fb86c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=169e91a268d4329a77ee2edab1132ac2e590fcd5726654b46c149c1c640d86fc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

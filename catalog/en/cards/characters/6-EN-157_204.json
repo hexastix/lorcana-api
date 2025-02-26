@@ -9,7 +9,7 @@
   "author": "Brianna Garcia",
   "deck_building_id": "8b5b13c2943342369d72422e5cc509b8583ffe42",
   "culture_invariant_id": 1356,
-  "sort_number": 1355,
+  "sort_number": 1354,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,16 +24,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=8e0e33ad028d633939ba7b0083060afeab39dd8629c0d9c4340fa1c45846ab7b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=8e0e33ad028d633939ba7b0083060afeab39dd8629c0d9c4340fa1c45846ab7b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=6cc0e34bd021a26d68b08ec70440c419221b3c345c7705a2c34270424bd5c3b0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=6cc0e34bd021a26d68b08ec70440c419221b3c345c7705a2c34270424bd5c3b0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dfb4d81a083ef60dcbe295ed3d2fd4215b8ed18f37497bc8b50a007ee25a6123",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dfb4d81a083ef60dcbe295ed3d2fd4215b8ed18f37497bc8b50a007ee25a6123",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/gloss/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d3b4c5a769e5ead92a1ab080e0ef87cfd0fc61927180819b907377fb5476b316",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/gloss/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d3b4c5a769e5ead92a1ab080e0ef87cfd0fc61927180819b907377fb5476b316",
   "card_sets": [
     6
   ],

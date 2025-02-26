@@ -9,7 +9,7 @@
   "author": "Carlos Luzzi",
   "deck_building_id": "2f8a8a1f35e467578c986936eff493b9b875b067",
   "culture_invariant_id": 776,
-  "sort_number": 786,
+  "sort_number": 785,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=132c8321672863b7f6c3319e0dee99fbf47e5a1fbd6caaa880cfb25be66a5bd5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=132c8321672863b7f6c3319e0dee99fbf47e5a1fbd6caaa880cfb25be66a5bd5"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=2d7ec95a950b09b669ed2df3261aba12976268c4ef6ecd2816969f0a2ed1d152"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=2d7ec95a950b09b669ed2df3261aba12976268c4ef6ecd2816969f0a2ed1d152"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=25762ba837b7839449dec05889ad024e44a3f3b06ed27f5726b9021e47765685",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=25762ba837b7839449dec05889ad024e44a3f3b06ed27f5726b9021e47765685",
   "card_sets": [
     4
   ],

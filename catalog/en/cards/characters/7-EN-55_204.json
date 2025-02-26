@@ -1,0 +1,42 @@
+{
+  "name": "Elsa",
+  "subtitle": "Trusted Sister",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "7d3e568c2cd7e015fe10f8fd4df6d76439d11d52",
+  "culture_invariant_id": 1488,
+  "sort_number": 1485,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "Fear is what can't be trusted.",
+  "rules_text": "WHAT DO WE DO NOW? Whenever this character quests, if you have a character named Anna in play, gain 1 lore.",
+  "card_identifier": "55/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=93b45874cb19aea85749ba5c88e3ee0b6e470b3beebbb486196c9d977f7e6789"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=e7aedbaf3cd347165f6786693eeb505552ecd9c31e8b9ed43ae6e599cb9ed1f6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=0886919da48e2138568e2aaad05a1496ccb24c9625ed39620690d7669be7e9b1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

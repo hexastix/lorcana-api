@@ -9,7 +9,7 @@
   "author": "noc4urne",
   "deck_building_id": "9770423d3353e97f5163db0a1d9ae9050969620a",
   "culture_invariant_id": 903,
-  "sort_number": 913,
+  "sort_number": 912,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=a211efe4dd07547b8a9c1a89c5321f2177dd61a7fe1f1cf0d8b53b3ef7bb84be"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=a211efe4dd07547b8a9c1a89c5321f2177dd61a7fe1f1cf0d8b53b3ef7bb84be"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=8dc6641f0ef5dbf6bc29aa574b651095ee80b3252bd91d65a530cc1fc8821cc9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=8dc6641f0ef5dbf6bc29aa574b651095ee80b3252bd91d65a530cc1fc8821cc9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=620aa51b8350ccc307a6c4863f8e70a3a84dddf32c9511b0b79a237de3ba743c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=620aa51b8350ccc307a6c4863f8e70a3a84dddf32c9511b0b79a237de3ba743c",
   "foil_type": "Lava",
   "card_sets": [
     4

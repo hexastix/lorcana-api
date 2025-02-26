@@ -9,7 +9,7 @@
   "author": "Valerio Buonfantino",
   "deck_building_id": "7de3467f13bdd030c58d520d0e1d5f48017d006a",
   "culture_invariant_id": 1131,
-  "sort_number": 1140,
+  "sort_number": 1139,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=764a045be41a65ad4de6c091c9db84cb921e35df6944f241857c2b63c04cbe1d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=764a045be41a65ad4de6c091c9db84cb921e35df6944f241857c2b63c04cbe1d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=2757d96f0031cbd961d412cbaa58de97d7660616cb6e5bd78774c33a069157dd"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=2757d96f0031cbd961d412cbaa58de97d7660616cb6e5bd78774c33a069157dd"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=56c05ace90fea615c9046625a4ac828a55756038cc8c01f8f0cd2607528c6546",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=56c05ace90fea615c9046625a4ac828a55756038cc8c01f8f0cd2607528c6546",
   "card_sets": [
     5
   ],

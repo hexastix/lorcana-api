@@ -1,0 +1,45 @@
+{
+  "name": "Belle",
+  "subtitle": "Meccanica Straordinaria",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 9,
+  "author": "Koni",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1559,
+  "sort_number": 1556,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 7 RECUPERARE Per ogni carta oggetto nei tuoi scarti, paga 1 in meno per giocare questo personaggio usando la sua abilità Trasformazione. CONVERTIRE Ogni volta che questo personaggio va all'avventura, puoi mettere fino a 3 carte oggetto dai tuoi scarti in fondo al tuo mazzo per ottenere 1 leggenda per ogni carta oggetto spostata in questo modo.",
+  "card_identifier": "126/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=8c6cd6c188dc36fca83407b60c2db23d38de7660be128540ae6ab295f488391d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=0e11eb4908ee877a84c231dee8aaae8af652361beefa8dc999aa3f1c6f1c8c5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=87c0e3e04a0661b3f925d4854a74ae64be9f2946cdb1f836ede8f1aa5e79edab",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

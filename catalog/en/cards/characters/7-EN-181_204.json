@@ -1,0 +1,40 @@
+{
+  "name": "Dr. Calico",
+  "subtitle": "Green-Eyed Man",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "6e241493e0ee6543ecca03f5f5e315161367b063",
+  "culture_invariant_id": 1614,
+  "sort_number": 1611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "Everything is positioning nicely.",
+  "rules_text": "YOU'RE BEGINNING TO IRK ME While this character has no damage, he gains Resist +2. (Damage dealt to them is reduced by 2.)",
+  "card_identifier": "181/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=2a0abd5d6b7743abeec3733b039c1f8d40cda08ea5540ff578ea642d0402b049"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=a291dcbbd3216b3618e12a2117c90539e0073407e1263d4301b3ac9c26533ad8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=fd173c3e2ef77ee3963cafb63246a1de91dce278afc74bc507f2c6a63d4931d2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

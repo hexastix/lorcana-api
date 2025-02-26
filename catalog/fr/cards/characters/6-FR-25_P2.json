@@ -1,0 +1,42 @@
+{
+  "name": "Lilo",
+  "subtitle": "Reine de l’évasion",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Grace Tran",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1431,
+  "sort_number": 1428,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Vous ne m'empêcherez pas de m'amuser!",
+  "rules_text": "PAS D’AUTRE ENDROIT OÙ JE PRÉFÉRERAIS ÊTRE Au début de votre tour, si cette carte est dans votre défausse, vous pouvez la jouer et elle entre en jeu épuisée.",
+  "card_identifier": "25/P2 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=df6ea400627848cc869c358063832d7c47efafb048e6c8f2391a1c26f75b9753"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=55fd3cfc815905007ba674ff0892c9172f5fc8f4ca2c777f47e6222831b56487"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=ff0e90a2a439d4f61ba8a4e37c230452805e91f663ad1d709d234c9e47e11116",
+  "special_rarity_id": 1,
+  "foil_type": "Glitter",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Bagheera",
+  "subtitle": "Guardian Jaguar",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "8e707e6dd19e262dc08b7529a727f0a41a77b507",
+  "culture_invariant_id": 1631,
+  "sort_number": 1628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) YOU'VE GOT TO BE BRAVE During an opponent's turn, when this character is banished, deal 2 damage to each opposing character.",
+  "card_identifier": "198/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=ccbee3432e7d83ecd985e355c3d924bb05e63b117f252663d8f3afc9c0c70077"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=6c1e2576f0d890cdf5e92b94744f66d7f98055766c64a20ce370e158edb32e6f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=3ff28c77a0da5ddd45792e4f7b3e1693624d0b5b4b56efd6f1cd71fce58b1a14",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=de6b667e61f9df88ec0c973a7c2bbcd3e0eb6e40e4189200d63e80b1467cb76d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Balthazar Picsou",
+  "subtitle": "Avare plein de ressources",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9fb5d0200a632d4583ec76955bc03c2431cf5651",
+  "culture_invariant_id": 1587,
+  "sort_number": 1584,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "METTRE À PROFIT Vous pouvez épuiser 4 de vos objets pour jouer ce personnage gratuitement. CHASSEUR DE TRÉSOR Lorsque vous jouez ce personnage, regardez les 4 cartes du dessus de votre pioche. Vous pouvez révéler une carte Objet parmi elles et la mettre dans votre main. Placez les autres cartes sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "154/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=24054b025ee1c903a9accb0dd4309ff03232be7723f997bc9a22899031cddd96"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=80415097f8cb5ab6bc9f0032f10dd80057e359b03199760848e266522fbf7569"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=97aba1c365affacaf27e36c54a57a910f1330a69b522859b02be0787a0de765c",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=aabc1d00f611a2ff15c6a3e573f6e1fb84247042a0de6b84c5c06486bf9458e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

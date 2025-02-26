@@ -1,0 +1,44 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Nouvellement promu",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "e8958ebe93bfe67555697e9e3d0477d5a9e145ad",
+  "culture_invariant_id": 1659,
+  "sort_number": 1657,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "JE FERAI TOUT CE QUI EST EN MON POUVOIR Ce personnage peut défier des personnages redressés. UNE ÉNORME RESPONSABILITÉ Tant que ce personnage a au moins un dommage, il gagne +2.",
+  "card_identifier": "22/P2 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=049823def55a4c7ef5c85fb77fa7e451bc4ec82bd81a99b9519aa08c19c53dcc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=79a6d922e5cf5bf9aefb89fab2eb75c47a273ff2c6e68cd57dc1775ebba97ef1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=1df082164d776ac2dd389859aa7bd56c16782f4bdeca2c2ee68d9a4819eb776b",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Aurora",
+  "subtitle": "Waking Beauty",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "2ea925b3bcd4e58c5bd1d5bb775db0d24bf1d993",
+  "culture_invariant_id": 1447,
+  "sort_number": 1444,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singer 5 (This character counts as cost 5 to sing songs.) SWEET DREAMS Whenever you remove 1 or more damage from a character, ready this character. She can't quest or challenge for the rest of this turn.",
+  "card_identifier": "14/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=26f50f9747103ca85658a6f26f2340c9bf75f8216d37d46d5e80bcc19c6a0f31"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=95ead9fc3a0abc1f961fbe033747e0c8d0c5fa434ca1495705a5d60eed8b8ee6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=08832d00dfb47229c56e414e3202aaee33989695528fa1eb94a00a35dedafc98",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=5bc19cb52fe035d2718ea0c2d5e96d5046eb8ec73f94794dd0b0d1183476d9b6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

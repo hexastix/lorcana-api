@@ -5,7 +5,7 @@
   "author": "Heidi Neunhoffer",
   "deck_building_id": "5c09a4c51f5fe4668bbd8723ebc416da70603684",
   "culture_invariant_id": 1018,
-  "sort_number": 1027,
+  "sort_number": 1026,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=9b63eb6940fe5683bdee8255b1098392330119800383e21395820568eeb8a914"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=9b63eb6940fe5683bdee8255b1098392330119800383e21395820568eeb8a914"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=a3f519a914ea7ec8218eab754ab95b9527904273e03b61e81bfa93411bf78314"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=a3f519a914ea7ec8218eab754ab95b9527904273e03b61e81bfa93411bf78314"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=200304562daded762a5c1241cf101f6c53e5232d66f8f238d5a999c35aafb5d2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=200304562daded762a5c1241cf101f6c53e5232d66f8f238d5a999c35aafb5d2",
   "card_sets": [
     5
   ],

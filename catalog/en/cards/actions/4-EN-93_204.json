@@ -5,7 +5,7 @@
   "author": "Wouter Bruneel",
   "deck_building_id": "086cbb4a18c9cc21f6ba04e1011c055bd4c551a4",
   "culture_invariant_id": 784,
-  "sort_number": 794,
+  "sort_number": 793,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=32d86b32cec0a9121745c94065a5189c674f00fbbf72b299b8843da72335b661"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=32d86b32cec0a9121745c94065a5189c674f00fbbf72b299b8843da72335b661"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=73114260b7d2e49b8858d97772650fc37d86c71e6c3fe1dde5610a6aab088dd0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=73114260b7d2e49b8858d97772650fc37d86c71e6c3fe1dde5610a6aab088dd0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=cad84061f534d252f4fa4b4ab080e206b00cdabbb8abd8a6d494e517db6d7cb3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=cad84061f534d252f4fa4b4ab080e206b00cdabbb8abd8a6d494e517db6d7cb3",
   "card_sets": [
     4
   ],

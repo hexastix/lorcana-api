@@ -9,7 +9,7 @@
   "author": "Ron Baird",
   "deck_building_id": "4af7234f2f361cc2d518bc0f1bde9b379e38d192",
   "culture_invariant_id": 1250,
-  "sort_number": 1249,
+  "sort_number": 1248,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=5a3f814ba55e6d897749a367075f00829921ef52acec9456b6c7d429f0ad65f6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=5a3f814ba55e6d897749a367075f00829921ef52acec9456b6c7d429f0ad65f6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=423abdadc8247d255e5b819c80cb2fa9d9bfb90bf8d1857ebf3745ce20ce6000"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=423abdadc8247d255e5b819c80cb2fa9d9bfb90bf8d1857ebf3745ce20ce6000"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=d9ab37ebf47fb1c145f9a9997fd1e6f7297d77883575c3f45c37db0314fda2a0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=d9ab37ebf47fb1c145f9a9997fd1e6f7297d77883575c3f45c37db0314fda2a0",
   "card_sets": [
     6
   ],

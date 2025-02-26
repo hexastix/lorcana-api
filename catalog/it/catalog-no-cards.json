@@ -1,64 +1,68 @@
 {
+  "application_shared_properties": {
+    "current_app_version": "2025.1",
+    "minimum_app_version": "2025.1"
+  },
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=d595932d-d1b2-4ae0-8fc3-05db8148de53",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=3262def6-1e67-404b-8066-a26e6e2a563b",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=1fb7bc6d-c168-4f75-b45c-941ee1915225",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=ca0cf62a-e7aa-49b8-9869-77f15f8cc001",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Nelle Terre d'Inchiostro",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=53c7f149-b102-4116-b560-e3de66cfc163",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=6014bb2f-1004-40dd-b001-70e5ad4ef019",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Il Ritorno di Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=9a5a3305-91d4-4107-8a6c-9a5b37c35a41",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=3d074303-2fa8-4ad3-9260-8996b1cdd4d7",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Cieli Scintillanti",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=1767c514-346f-4487-a50c-4d00a9a7558d",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=efb5a6b2-2041-4aa8-85ca-10104b9d4ce8",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Mare Di Azzurrite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=3a779275-41e3-4dc9-892d-cbf4ad22ac20",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=8d7b0820-24af-4482-99a5-6bf5923b3f5c",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
-      "name": "Carta in anteprima",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=65adef84-de99-46aa-9f16-64fa442ccf90",
+      "name": "L’isola Di Archazia",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=4f14b1b6-9e56-4f0f-bf45-641615b17621",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Avventura degli Illuminatori Problemi negli Abissi",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=88ff0b30-9dfb-4a98-84e3-6aa0c246e98d",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=8666f28c-bac6-48b4-863a-8e721ee9a23d",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Preludio",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quests/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=774bba63-18e9-4ba4-9414-d012610903a1",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=34420e5f-96d0-447d-924e-b39681fddd72",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
@@ -69,26 +73,38 @@
   "special_rarities": [
     {
       "name": "Promo",
+      "type": "PROMO",
       "id": 1
     },
     {
       "name": "D23",
+      "type": "D23",
       "id": 2
     },
     {
       "name": "Disney 100",
+      "type": "D100",
       "id": 3
     },
     {
       "name": "Challenge",
+      "type": "CHALLENGE",
       "id": 4
     },
     {
       "name": "Avventura degli Illuminatori",
+      "type": "QUEST",
       "id": 5
     }
   ],
   "news": [
+    {
+      "title": "Aggiornamento",
+      "subtitle": "SCOPRI DI PIÙ",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/02_/2025-2-app-update",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+    },
     {
       "title": "Anna Stosik",
       "subtitle": "Rivelata una nuova Incantata",
@@ -109,13 +125,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/story/azurite",
       "image_url": "https://api.lorcana.ravensburger.com/images/it/news/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "Aggiornamento",
-      "subtitle": "SCOPRI DI PIÙ",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/set6-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=16cad4cebd158d04f846bada9767831fa1e7fa5e5c90515dee80ed46c64bc22a"
     },
     {
       "title": "Nuovo Set…",
@@ -151,13 +160,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/news_/july2024-errata",
       "image_url": "https://api.lorcana.ravensburger.com/images/it/news/667be543b02294b7624119adc3a725473df39885.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
-    },
-    {
-      "title": "Contatore Leggenda",
-      "subtitle": "Problemi negli Abissi",
-      "target_type": "LoreCounter",
-      "target_object": null,
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
     },
     {
       "title": "Nuovo Set…",
@@ -198,27 +200,6 @@
     ],
     "location_subtypes": [],
     "character_subtypes": [
-      {
-        "term_in_search_filter": "Classico",
-        "terms_on_card": [
-          "Classico",
-          "Storyborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Immaginato",
-        "terms_on_card": [
-          "Immaginato",
-          "Dreamborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Imbevuto",
-        "terms_on_card": [
-          "Imbevuto",
-          "Floodborn"
-        ]
-      },
       {
         "term_in_search_filter": "Aggrovigliato",
         "terms_on_card": [
@@ -304,6 +285,13 @@
         "terms_on_card": [
           "Iena",
           "Hyena"
+        ]
+      },
+      {
+        "term_in_search_filter": "Illusione",
+        "terms_on_card": [
+          "Illusione",
+          "Illusion"
         ]
       },
       {
@@ -409,6 +397,27 @@
           "Titano",
           "Titan"
         ]
+      },
+      {
+        "term_in_search_filter": "Imbevuto",
+        "terms_on_card": [
+          "Imbevuto",
+          "Floodborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Immaginato",
+        "terms_on_card": [
+          "Immaginato",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Classico",
+        "terms_on_card": [
+          "Classico",
+          "Storyborn"
+        ]
       }
     ],
     "character_abilities": [
@@ -473,6 +482,13 @@
         "terms_on_card": [
           "Sfuggente",
           "Evasive"
+        ]
+      },
+      {
+        "term_in_search_filter": "Svanire",
+        "terms_on_card": [
+          "Svanire",
+          "Vanish"
         ]
       },
       {

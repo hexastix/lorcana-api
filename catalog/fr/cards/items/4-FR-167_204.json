@@ -5,7 +5,7 @@
   "author": "Ryan Bittner",
   "deck_building_id": "a483198432a5bd7a7c3564e2fe584d5c13f05727",
   "culture_invariant_id": 858,
-  "sort_number": 868,
+  "sort_number": 867,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=076bf7488e808a38f246f61057e1cc8d1c8cbb77adc53b68efa89ef97abc9de4"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=076bf7488e808a38f246f61057e1cc8d1c8cbb77adc53b68efa89ef97abc9de4"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=b7499f60a1e5dc71c98a9cb36abedc18ee8d5ad687eab7f498fcd0b8caaa2c9f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=b7499f60a1e5dc71c98a9cb36abedc18ee8d5ad687eab7f498fcd0b8caaa2c9f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=f712560dc6ea297ccf32dd006d799f9aff23bc24684be9b60da3762c94271236",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=f712560dc6ea297ccf32dd006d799f9aff23bc24684be9b60da3762c94271236",
   "card_sets": [
     4
   ],

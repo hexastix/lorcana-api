@@ -1,0 +1,40 @@
+{
+  "name": "Nonna Fa",
+  "subtitle": "Anziana Vivace",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Javi Salas",
+  "deck_building_id": "7a2836741ab1e3ba9615346ca322042052b83d1e",
+  "culture_invariant_id": 1554,
+  "sort_number": 1551,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Con la paura ti farai male. Con la fortuna supererai tutto.",
+  "rules_text": "HO TUTTA LA FORTUNA CHE CI SERVE Ogni volta che questo personaggio va all'avventura, puoi dare +2 a un tuo personaggio a tua scelta per questo turno.",
+  "card_identifier": "121/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=3e614616b94be2e5fc5e13549c8d882bb3916a93f18b667bfd627b30075d71b0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=6978c618c19919062694b04cbce5c53e12a596eed7732d2176efb84685f0887a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=6537ca5fba70f4185284b6951ec9b49a7e42c7a7401e99ddc0fb0727dd07bd04",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "M. Robert Davies / L. Giammichele",
   "deck_building_id": "d699b7284880df41462554acf1e1f68689fab0bd",
   "culture_invariant_id": 342,
-  "sort_number": 366,
+  "sort_number": 365,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=718efcea53e68ce4ba67b5561a9adc910bec69a696a35f5dce6698e5a98bc751"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=718efcea53e68ce4ba67b5561a9adc910bec69a696a35f5dce6698e5a98bc751"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=68b77cfc596615081ab897b2e261c2cb31713b13410712c717cf93c4e8197d5b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=68b77cfc596615081ab897b2e261c2cb31713b13410712c717cf93c4e8197d5b"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=fe48fe01e151cde6d3855df03c6e7eb940a11782c869033042fe4b4b13fbc5b9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=fe48fe01e151cde6d3855df03c6e7eb940a11782c869033042fe4b4b13fbc5b9",
   "card_sets": [
     2
   ],

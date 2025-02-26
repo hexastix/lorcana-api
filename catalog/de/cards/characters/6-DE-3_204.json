@@ -9,7 +9,7 @@
   "author": "Koni",
   "deck_building_id": "f4cb028f3925f704d8e509b9f824df90e1dfdf0e",
   "culture_invariant_id": 1202,
-  "sort_number": 1201,
+  "sort_number": 1200,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=0a827f4ae191ffeadd386c3f9942d5435f4f7a306c294d555702b9e6fbaef7fd"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=0a827f4ae191ffeadd386c3f9942d5435f4f7a306c294d555702b9e6fbaef7fd"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=e7624ac3d8e603d06f7cc98beda173e4d03a40fa9f7e59428eacf0d3afd776dc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=e7624ac3d8e603d06f7cc98beda173e4d03a40fa9f7e59428eacf0d3afd776dc"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d1765187971ebd1e98e8c06d98835f2f1855073d319b47652679f79edd4d50f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=6d1765187971ebd1e98e8c06d98835f2f1855073d319b47652679f79edd4d50f",
   "card_sets": [
     6
   ],

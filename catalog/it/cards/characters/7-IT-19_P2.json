@@ -1,0 +1,47 @@
+{
+  "name": "Anna",
+  "subtitle": "Rompighiaccio",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "5c027c79eedd9a761d4497187cd38ba25c697de4",
+  "culture_invariant_id": 1656,
+  "sort_number": 1653,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) IMBOSCATA INVERNALE Quando giochi questo personaggio, un personaggio avversario a tua scelta non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "19/P2 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=bd9c6f29a9e49a80bf708c4df6eab74a424ad7236c6660d607dc9fb5b357a3fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c7b2f51f2cc221ba4ef22a19042873358efd2f342f487fcc6cf751f041ea3240"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=11865f8747aca5dc63f63e908ebad7444e79d9f64a3f078519fd2ad66810626a",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

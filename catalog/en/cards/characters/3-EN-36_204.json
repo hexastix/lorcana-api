@@ -9,7 +9,7 @@
   "author": "Monica Catalano",
   "deck_building_id": "543369c0676bd8eef7719a7222f19cca6fe00083",
   "culture_invariant_id": 472,
-  "sort_number": 507,
+  "sort_number": 506,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=4680bacb7c662267abf050e5d5ff77cf0e720820617b0e73e9501f860ee3f513"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=4680bacb7c662267abf050e5d5ff77cf0e720820617b0e73e9501f860ee3f513"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=396c45fbb0a3fc7ffe336a92132a5f71001052afd8feee9c4d29a774dca9e5f1"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=396c45fbb0a3fc7ffe336a92132a5f71001052afd8feee9c4d29a774dca9e5f1"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=67f5e4108fddd067776ed66c71b414c25ba9d57d97ba96d596948f112031feaa",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=67f5e4108fddd067776ed66c71b414c25ba9d57d97ba96d596948f112031feaa",
   "card_sets": [
     3
   ],

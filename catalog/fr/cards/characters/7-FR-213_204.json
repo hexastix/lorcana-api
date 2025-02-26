@@ -1,0 +1,41 @@
+{
+  "name": "Le Chapelier Fou",
+  "subtitle": "Excentrique turbulent",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "87d0afe0cc27daae68ff3640462f927eefae05ef",
+  "culture_invariant_id": 1646,
+  "sort_number": 1643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "CADEAU DE NON-ANNIVERSAIRE Chaque fois qu'un personnage avec au moins un dommage défie un autre personnage, vous pouvez piocher une carte.",
+  "card_identifier": "213/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=c4609dbd1ecce8f237f3c4f238c926273f26f181c6cd36f1913e581d41dd2a07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=79d0d1409b541a85446a3588e8ca4eb6f54df3b45d0d439a409bc3c0220c77f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=8982e7a3053fa283733d84f5fec0ccd76877e7aa3a2ba6c11ad647ccc2d9ab09",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

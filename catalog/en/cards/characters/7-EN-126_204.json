@@ -1,0 +1,45 @@
+{
+  "name": "Belle",
+  "subtitle": "Mechanic Extraordinaire",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 9,
+  "author": "Koni",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1559,
+  "sort_number": 1556,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 7 SALVAGE For each item card in your discard, you pay 1 less to play this character using her Shift ability. REPURPOSE Whenever this character quests, you may put up to 3 item cards from your discard on the bottom of your deck to gain 1 lore for each item card moved this way.",
+  "card_identifier": "126/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=dc4ff9f7b18f69829a8c5928298e5ba64cf5b62fecd1db2a6baac5d403186ff8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=90196d7e3fd64e724d1c3ddc34dedb4251b73ee45e7772e6aef77a292e6e9cbc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=e7b3d29caa87e723b23f9841da6915e4c362ddfb7ecf1466eb8d256d0d594163",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

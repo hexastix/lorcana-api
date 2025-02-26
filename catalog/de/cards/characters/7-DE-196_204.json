@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Respektierter König",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "e7a671905ede5069c586ea3087e484492a181670",
+  "culture_invariant_id": 1629,
+  "sort_number": 1626,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "König"
+  ],
+  "flavor_text": "Siehst du diese Säule? Selbst nachdem sie gefallen ist, kann sie noch einen Zweck erfüllen.",
+  "rules_text": "",
+  "card_identifier": "196/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=d3bac47f70eda9feefb333d38552a3b4c1a0bdf8134fd1f5239edd3abb56e068"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=9f55463ded6e0cf9ac19943dda0ecc6d7091b4a3f6dfe5db70ae69a148a70845"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=73ee131413ec4f1f54fe7f91a65018d686eeaa983a11297028b0ff46ad903341",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

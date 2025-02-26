@@ -9,7 +9,7 @@
   "author": "Kuya Jaypi",
   "deck_building_id": "1c49ac7ff34fcbbbd4e8e2c2cc50bc858e2cb391",
   "culture_invariant_id": 1028,
-  "sort_number": 1037,
+  "sort_number": 1036,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=f5880c008831bb4e05b32ec0e7d0595a3a4be99320e4e37c3059b8f2dde8b6e8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=f5880c008831bb4e05b32ec0e7d0595a3a4be99320e4e37c3059b8f2dde8b6e8"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=dbb349629952503b124cab36895037f370a35bd3922addfbe74f1d5c4fce8be9"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=dbb349629952503b124cab36895037f370a35bd3922addfbe74f1d5c4fce8be9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=2160540a624b56ae64612a746bf1e42d149f4bfe29bab787a04ff0b7b3a69499",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=2160540a624b56ae64612a746bf1e42d149f4bfe29bab787a04ff0b7b3a69499",
   "card_sets": [
     5
   ],

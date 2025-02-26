@@ -1,0 +1,42 @@
+{
+  "name": "Mickey Mouse",
+  "subtitle": "Inspirational Warrior",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "727b46485183fb5777acda6297c425330554ddff",
+  "culture_invariant_id": 1633,
+  "sort_number": 1630,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "He leads the way with a steadfast heart.",
+  "rules_text": "STIRRING SPIRIT During your turn, whenever this character banishes another character in a challenge, you may play a character for free.",
+  "card_identifier": "200/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=6b635620f705f753b9a22f937ebd34ffae174e7d77d60abf6ba5343f8c3de8f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=af6434a0c91a45f320eae254f5c34202399cf0835af72d990e483a4ba24e8fb8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=f3d42c1f67026c7f6ecd6af588740e8bddc28fb6941b7007eefed527a921f532",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=b7409fe7fbc4d51b9e91a635d2a85ebe5b1290e061a1ee3f0283e44e9ff7858c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

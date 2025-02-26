@@ -1,0 +1,43 @@
+{
+  "name": "Bolt",
+  "subtitle": "Supercane",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "a31d2bdbf009fa85ab285105f4b19017beef7180",
+  "culture_invariant_id": 1437,
+  "sort_number": 1434,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Bolt.) SIMBOLO DI POTERE Ogni volta che prepari questo personaggio, ottieni 1 leggenda per ogni altro personaggio non danneggiato che hai in gioco. BOLT, PUNTA — Esilia un personaggio Illusione a tua scelta.",
+  "card_identifier": "4/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=2507eba5c7b2cc52b219ec96a0fd67c61c14a6f36864a4817b1d024be323204d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=3b5635ce1d885fa5e4026bf63d6eb4a9751874339f9784d40ab1404841ec8413"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=61b524d0f4a2c463673896cb01304d266033dddb1d8f2164bd8eb107a427a39e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

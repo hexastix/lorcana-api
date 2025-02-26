@@ -1,0 +1,41 @@
+{
+  "name": "Dawson",
+  "subtitle": "Puzzling Sleuth",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "eadc583df968a52341c644cac11cd8aecd7804e2",
+  "culture_invariant_id": 1594,
+  "sort_number": 1591,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Detective"
+  ],
+  "flavor_text": "I say, what sort of contraption <is> this?",
+  "rules_text": "BE SENSIBLE Once during your turn, whenever a card is put into your inkwell, look at the top card of your deck. You may put it on either the top or the bottom of your deck.",
+  "card_identifier": "161/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=a5c5abcca7c52119141dab03cdd2827f7e690ced3a6ba11388703b0419f49923"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=cc6450c82256d8b6de5bdbe04bef04cdfc3d5bbf586c149edc4a6746ee4ac09f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=246514ffeeb1a2e90f07e88b9cb362763384873779831d5bdef8ebf96e18f569",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -5,7 +5,7 @@
   "author": "Dustin Panzino",
   "deck_building_id": "c52fabcec115b588f6fb5dd2bbc1529632fb8b72",
   "culture_invariant_id": 636,
-  "sort_number": 671,
+  "sort_number": 670,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=95926e71418aaa3910d98285980275b1fc295e682906a98c92d0b56e7201f71f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=95926e71418aaa3910d98285980275b1fc295e682906a98c92d0b56e7201f71f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=c0d288236ae97329167550b9f60419e361a8a5370fa02d6bc9fe32f6cba74837"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=c0d288236ae97329167550b9f60419e361a8a5370fa02d6bc9fe32f6cba74837"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=0d958af909adce01e442288ac4a88152e33ea959da7c0f0fe3d936bdeda320db",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=0d958af909adce01e442288ac4a88152e33ea959da7c0f0fe3d936bdeda320db",
   "card_sets": [
     3
   ],

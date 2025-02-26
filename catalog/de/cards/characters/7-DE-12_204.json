@@ -1,0 +1,46 @@
+{
+  "name": "Wendy Darling",
+  "subtitle": "Piratenkönigin",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "da2e6704efe9fa9440082d5430d64696d469d7e2",
+  "culture_invariant_id": 1445,
+  "sort_number": 1442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Königin",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) ERZÄHL KEINE MÄRCHEN Jedes Mal, wenn einer deiner anderen Charaktere verbannt wird, darfst du jeglichen Schaden von einem Charakter deiner Wahl entfernen.",
+  "card_identifier": "12/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=75266792f532b3c6e611acdbb530447efc89c0e0967e7d817d74c69a4c327a68"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=d2cde7644899cf700ad278d498275ceeb94a9a2ad2c6e9a4c5194ec468c6fb13"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=ad7d1babb28900d72256a06c0660319e51d3f9a135d64ded9b3b616c11c8793c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

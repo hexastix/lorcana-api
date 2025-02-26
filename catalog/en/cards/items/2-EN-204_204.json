@@ -5,7 +5,7 @@
   "author": "Antonia Flechsig",
   "deck_building_id": "f4a817b51d3a5cca4d03b98d0eddc55294471120",
   "culture_invariant_id": 420,
-  "sort_number": 444,
+  "sort_number": 443,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=675b3844e4a53c28aad8f21031b7dfc732ac1d4f59fff7a433c659ab6e46544c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=675b3844e4a53c28aad8f21031b7dfc732ac1d4f59fff7a433c659ab6e46544c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=8e00447bccb3a1c40a4c56b73af0bc664f8c0c192c5cdc13dbfaf9374df66926"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=8e00447bccb3a1c40a4c56b73af0bc664f8c0c192c5cdc13dbfaf9374df66926"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=ea331142720b4c474e5d9e1e71f5b3128be5d75477f6ca2ede84f21db3ef945b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=ea331142720b4c474e5d9e1e71f5b3128be5d75477f6ca2ede84f21db3ef945b",
   "card_sets": [
     2
   ],

@@ -1,0 +1,40 @@
+{
+  "name": "Ser Caio",
+  "subtitle": "Cavaliere Indisciplinato",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "b0d3f86aafcc92db5a1493c11884cbb42a5cdf89",
+  "culture_invariant_id": 1577,
+  "sort_number": 1574,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cavaliere"
+  ],
+  "flavor_text": "Un gufo al comando? Puah. Lanciò un'occhiataccia agli altri. Poi il suo sguardo cadde sui bersagli lì vicino, e si illuminò. Ma finché posso continuare a giostrare...",
+  "rules_text": "",
+  "card_identifier": "144/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=c96a75a01b2b0b4a0e2762a813cbcf7345f7f7bb9ae667f7be85c35d4da510e0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=021bcb55393de60959fece26e167ef065b678cd55c30f8578226528c8a79cc13"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=50b2575688ca3542d0cc2668eedb63ebb316f6a90422d06a97eda2791639854c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

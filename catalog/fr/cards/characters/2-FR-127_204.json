@@ -9,7 +9,7 @@
   "author": "P. Gaylord / L. Giammichele",
   "deck_building_id": "d777770ea1c3e9501c20b77a65e2cfcce67bd0d6",
   "culture_invariant_id": 343,
-  "sort_number": 367,
+  "sort_number": 366,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=90ae3b6d74ad48e4f01df4c44be04e5bd4ea479b12adbd5e04264eddefa6542b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=90ae3b6d74ad48e4f01df4c44be04e5bd4ea479b12adbd5e04264eddefa6542b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=f5f63073a23860628105dd42317af4a4b50c6731b2dca51c2f6cf9a5e0a488c3"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=f5f63073a23860628105dd42317af4a4b50c6731b2dca51c2f6cf9a5e0a488c3"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=374a81b0cb177099925f6b15ca1b13c2ace22a895d397a8529af56e60c956762",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=374a81b0cb177099925f6b15ca1b13c2ace22a895d397a8529af56e60c956762",
   "card_sets": [
     2
   ],

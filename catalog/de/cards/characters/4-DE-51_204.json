@@ -9,7 +9,7 @@
   "author": "Simone Buonfantino",
   "deck_building_id": "b9b57c518d4487484cbb0f68ce8ace42b5dfc9e7",
   "culture_invariant_id": 742,
-  "sort_number": 752,
+  "sort_number": 751,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=843361bbcfa5f2b9a8fbf29746a57c511f0778d6344d465bfb147a5374cb6e87"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=843361bbcfa5f2b9a8fbf29746a57c511f0778d6344d465bfb147a5374cb6e87"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=dc93c9e6ea3c678b16569886de96953d1881e528452965a1404b82ab950d16cc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=dc93c9e6ea3c678b16569886de96953d1881e528452965a1404b82ab950d16cc"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=83484246c769f099c47f52528cc9ff7d8f40b9abf951f0b259a831246c93a338",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=83484246c769f099c47f52528cc9ff7d8f40b9abf951f0b259a831246c93a338",
   "card_sets": [
     4
   ],

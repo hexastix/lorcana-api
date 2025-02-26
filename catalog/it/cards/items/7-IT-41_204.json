@@ -1,0 +1,33 @@
+{
+  "name": "Spira d'Ambra",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Francesco Colucci",
+  "deck_building_id": "1a4b8495891072543683523882d11f76e3883842",
+  "culture_invariant_id": 1474,
+  "sort_number": 1471,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Martin sorrise quando la spira scattò al suo posto e avvertì un'ondata di energia curativa.",
+  "rules_text": "AURA CURATIVA Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi rimuovere fino a 2 danni da un personaggio a tua scelta.",
+  "card_identifier": "41/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=c3fab156a561e4872cd150444bd257f09b482d5594d3f76e864320f5fed9567d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=1659a2ce4025fe63f39f8bc357290a65aab4b6f518c148efbcdf6059b0ceba39"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=73fb151a51dec099f82316c4b746ebfe23e1d3f7ec19b80300dc47b35e4d15e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

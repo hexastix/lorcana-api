@@ -1,0 +1,44 @@
+{
+  "name": "Cobra Gigante",
+  "subtitle": "Serpente Spettrale",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicola Saviori",
+  "deck_building_id": "ab23bc0d0f42e3fa41a43526d6fca8f364824467",
+  "culture_invariant_id": 1490,
+  "sort_number": 1487,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Svanire"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Illusione"
+  ],
+  "flavor_text": "",
+  "rules_text": "Svanire (Quando un avversario sceglie questo personaggio per un'azione, esilialo.) VANTAGGIO MISTERIOSO Quando giochi questo personaggio, puoi scegliere e scartare una carta per ottenere 2 leggenda.",
+  "card_identifier": "57/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=07271ce91f6e095f5eb9edec4b55ad622630af042a0fc6d6e16413c81e189aeb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=9a39efdad6420f59ba3aed96a0a9bbc1b4081760521bcfd36e6aafeed1aa1739"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=e89fd395f2807a79650e3dea6f349333cbf50f4b1df6b4d17a774bf93452c1af",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

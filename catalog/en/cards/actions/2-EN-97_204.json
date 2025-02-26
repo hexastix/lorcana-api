@@ -5,7 +5,7 @@
   "author": "Bill Robinson",
   "deck_building_id": "b85b9b0d27f8d3a0741d01cb289b25aab4f498e3",
   "culture_invariant_id": 313,
-  "sort_number": 337,
+  "sort_number": 336,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=24f96c109ee44f071fb389e20ec5abf81dcb30eee20526e82663625599a84f8a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=24f96c109ee44f071fb389e20ec5abf81dcb30eee20526e82663625599a84f8a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=d327694ad2819c7b86e199786c751e395137aee22dc3fec52e98ba60cecc2656"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=d327694ad2819c7b86e199786c751e395137aee22dc3fec52e98ba60cecc2656"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=a91fc62a10a82b646777f2422e202e764d4ca132474d67d22530ae367d393ded",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=a91fc62a10a82b646777f2422e202e764d4ca132474d67d22530ae367d393ded",
   "card_sets": [
     2
   ],

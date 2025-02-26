@@ -9,7 +9,7 @@
   "author": "Jennifer Park",
   "deck_building_id": "04c91810f3fc39ddc8a72d65dbdc698847565330",
   "culture_invariant_id": 1404,
-  "sort_number": 1403,
+  "sort_number": 1402,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=eefcd05f700d10dfb0e19c5e8936150bb254f90bea9077a24767fb0ce0de3310"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=eefcd05f700d10dfb0e19c5e8936150bb254f90bea9077a24767fb0ce0de3310"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=0f00afb69e67a4087d303b4f8a8180d02f869f6ecb3539ecc37561de5922eba4"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=0f00afb69e67a4087d303b4f8a8180d02f869f6ecb3539ecc37561de5922eba4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ea4e06d53d2728bc68fe14c3dbcab977cc91bc53aa4a8293562c955940f87703",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=ea4e06d53d2728bc68fe14c3dbcab977cc91bc53aa4a8293562c955940f87703",
   "foil_type": "VerticalWave",
   "card_sets": [
     6

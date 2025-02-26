@@ -1,0 +1,40 @@
+{
+  "name": "Kenai",
+  "subtitle": "Beschützender Bruder",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Julien Vandois",
+  "deck_building_id": "345850a0e7457dea4d8b46cc4b73e6cc0285b496",
+  "culture_invariant_id": 1463,
+  "sort_number": 1460,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "ER BRAUCHT MICH Am Ende deines Zuges, falls dieser Charakter erschöpft ist, darfst du einen deiner anderen Charaktere wählen. Mache ihn bereit und entferne jeglichen Schaden von ihm.",
+  "card_identifier": "30/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=5d52d348c2d0978051b68879f4c2c7749e7fe66c50ad1f7a572802ec87524a90"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=6f8008f96996c6713d9bba9a355f6648e046b2cc7c39dbe604ddacd17b9cff18"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=ba3ffe4e05c09e9960822ce32f40d9f8e26c66ce7c4e4aa99f7732ba3e5a9285",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

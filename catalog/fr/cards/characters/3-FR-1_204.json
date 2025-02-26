@@ -9,7 +9,7 @@
   "author": "Cam Kendell",
   "deck_building_id": "59ca12ef2ed51d7e5c544d6de0d81a98cc06daee",
   "culture_invariant_id": 433,
-  "sort_number": 468,
+  "sort_number": 467,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=810dfe3c9ca259296558f7a28861c4ed8097bcb014a36d3ce20fa6fc278e825c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=810dfe3c9ca259296558f7a28861c4ed8097bcb014a36d3ce20fa6fc278e825c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=8dfd7a0078a21487a805acb8fee89e27c760dde19bee813f9e7799b26289e966"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=8dfd7a0078a21487a805acb8fee89e27c760dde19bee813f9e7799b26289e966"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=77bda8c1053e9e74aed115313a3dc955f8e6d983a510fc982e4c7f3868dcfb8c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=77bda8c1053e9e74aed115313a3dc955f8e6d983a510fc982e4c7f3868dcfb8c",
   "card_sets": [
     3
   ],

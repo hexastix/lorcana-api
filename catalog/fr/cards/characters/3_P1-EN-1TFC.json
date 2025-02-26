@@ -1,0 +1,44 @@
+{
+  "name": "Elsa",
+  "subtitle": "Snow Queen",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Nicholas Kole",
+  "deck_building_id": "9b02f08020a21f05415b5cfa5c0d376fb04d8a1d",
+  "culture_invariant_id": 661,
+  "sort_number": 226,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "Recreated by magical ink, Elsa found herself in an entirely new world. Fortunately, ice works the same way everywhere.",
+  "rules_text": "FREEZE — Exert chosen opposing character.",
+  "card_identifier": "1TFC EN 3/P1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=81fb19a26cc97167ea7c6d0f4f25acea62ceadeab8a74243eae05805f37a218a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=2a9f5f85cc962f68bc3b2448a6f8cbbd5ed8df8e90cf0e64fc58e50ad46a7790"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=42998b6ad38c06944b02b20b514ceb8e4036cc7875cd4e9ad474a834a43f9fef",
+  "special_rarity_id": 2,
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

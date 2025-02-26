@@ -9,7 +9,7 @@
   "author": "Vicky Xie / Mariana Moreno",
   "deck_building_id": "c029c13c232151b65d3a9383723939ef81b21546",
   "culture_invariant_id": 373,
-  "sort_number": 397,
+  "sort_number": 396,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dc1870a5ec41048b1c178b5b565ea1ca761f304a1cd40ed5e66e78650831a694"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=dc1870a5ec41048b1c178b5b565ea1ca761f304a1cd40ed5e66e78650831a694"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=cc2fc5bf0bd573198a8f296abd39494fb847d691039e27bef13d9c6e90db04a1"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=cc2fc5bf0bd573198a8f296abd39494fb847d691039e27bef13d9c6e90db04a1"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d944cada823b706765b13a19dfdd1cee808da73093dee1a5f0de85ee5bdc3c35",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d944cada823b706765b13a19dfdd1cee808da73093dee1a5f0de85ee5bdc3c35",
   "card_sets": [
     2
   ],

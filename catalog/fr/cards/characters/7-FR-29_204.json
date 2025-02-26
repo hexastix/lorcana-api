@@ -1,0 +1,41 @@
+{
+  "name": "Pongo",
+  "subtitle": "Bon vieux papa",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Cécile Carre",
+  "deck_building_id": "4ded36b061197a0ad11ed674df025e831934904a",
+  "culture_invariant_id": 1462,
+  "sort_number": 1459,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Les pièges et embûches ne font pas le poids face à des chiots intrépides.",
+  "rules_text": "JE T'AI TROUVÉ, PETIT COQUIN Au début de votre tour, regardez les cartes dans votre réserve d'encre. Vous pouvez jouer gratuitement un personnage Chiot s'y trouvant.",
+  "card_identifier": "29/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=46cd45b1694cc88260fb76f0c81ba525dafe870e47b9dceb005669e1a468cb26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=e4b2b540a56084ed7d6bc7078a02eb405305d92fe29af9c950802b055c3d3121"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=7a3c1570f87fc18176f633f30dc466cfbb32994cf27a015ef85446d995ae22e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

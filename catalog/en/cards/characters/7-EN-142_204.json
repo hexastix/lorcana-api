@@ -1,0 +1,42 @@
+{
+  "name": "Baloo",
+  "subtitle": "Ol' Iron Paws",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Sergio Mancinelli",
+  "deck_building_id": "553ce55ae402433967725f78d62ddd20db118d4f",
+  "culture_invariant_id": 1575,
+  "sort_number": 1572,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Now, move. That's it. Now give me a big bear growl. Scare me.",
+  "rules_text": "FIGHT LIKE A BEAR Your characters with 7 or more can't be dealt damage.",
+  "card_identifier": "142/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=5df2e76cbb8369354dd249c9e93f6f83ddcfde972485bdb95392214868c7db8b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=7a961b9ab919cfcaf6b0b050306016e72a2489458de082097cbcd71f8a693604"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=ed733415bbd129248ef074d68ffd451cc31a257531e17a071323950ff3469ab9",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=5052f50fd19f2a9f9c703e84e0e1fe1e1d51e38f7e108ccec94ac6a630ba62ed",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

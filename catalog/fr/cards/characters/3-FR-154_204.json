@@ -9,7 +9,7 @@
   "author": "Grace Tran",
   "deck_building_id": "b91ab841ba2a2c52983687a609e0d1a647a704f8",
   "culture_invariant_id": 590,
-  "sort_number": 625,
+  "sort_number": 624,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=f73a55b750752e99fa2661fc785c1e5814d34e2e84ba092b71a3171a4d117c2a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=f73a55b750752e99fa2661fc785c1e5814d34e2e84ba092b71a3171a4d117c2a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=cc9d53de9632816a8844409a9037b1093eaa8f3112f5a1ccb04c9bda15b0c256"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=cc9d53de9632816a8844409a9037b1093eaa8f3112f5a1ccb04c9bda15b0c256"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/3/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=dd355c87e47a808a3ac6d6f244ec66ad05cfcfa43b65c5cc2bb135cdd124ae67",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=dd355c87e47a808a3ac6d6f244ec66ad05cfcfa43b65c5cc2bb135cdd124ae67",
   "card_sets": [
     3
   ],

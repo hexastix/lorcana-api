@@ -1,0 +1,42 @@
+{
+  "name": "Trusty",
+  "subtitle": "Loyal Bloodhound",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Yu Nguyễn",
+  "deck_building_id": "59fb789b94c97942a564b6c0fd20a35b436b07c6",
+  "culture_invariant_id": 1439,
+  "sort_number": 1436,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "As my grandpappy, Old Reliable, used to say, save your energy for when it matters.",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.)",
+  "card_identifier": "6/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=7a80963f3fd8d92ae3b7a7419d470897396e0ce18de2b6c45c52331b65c1371c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=1773f04c0f89c6818b7fdd28dbbe4013f025218669bc4b17598cc0a191cc06c6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=c68f3a0c426e4a33c517556ccaf272d222f6bd438dd12531525246f5cc4ea461",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

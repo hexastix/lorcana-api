@@ -1,0 +1,40 @@
+{
+  "name": "Tweedledee & Tweedledum",
+  "subtitle": "Strange Storytellers",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "c398f0b7dad3ae90647cd655f39c3337fb9a5ce4",
+  "culture_invariant_id": 1536,
+  "sort_number": 1533,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "You can’t leave yet! Don’t you want to hear the ending? —Tweedledee",
+  "rules_text": "ANOTHER RECITATION Whenever this character quests, you may return chosen damaged character to their player's hand.",
+  "card_identifier": "103/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=8bc4a39776a2e5a297d3a32085d5fcbec1026b7636814958bc89c40eb7fde22e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=cb89b80cfc1f2336ad517b0dc8970cef8f9fc468aae06ad5e6ae665b6f5ceeea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb.jpg?checksum=e94230ccfc4128e229cfee1aadd96a3e520763e30aca5ab7267618352e676994",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Nicholas Kole",
   "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
   "culture_invariant_id": 688,
-  "sort_number": 699,
+  "sort_number": 698,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=6e14e7a5a685f4c2f04d36e6eb4a2d2d395459a257124908b899c8bed5af57c8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=6e14e7a5a685f4c2f04d36e6eb4a2d2d395459a257124908b899c8bed5af57c8"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promos/1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=965d7ca393f1e4d474d4aa241e35694e2d678c00ce1e1e3c2ce5354e53524add"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=965d7ca393f1e4d474d4aa241e35694e2d678c00ce1e1e3c2ce5354e53524add"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promos/1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=41fd39fe43de1e55dd4e18f31bdd8e00373a3c73429593859463afc4d7f4b3cb",
   "special_rarity_id": 1,
   "foil_type": "Lava",
   "card_sets": [

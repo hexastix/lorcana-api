@@ -1,0 +1,33 @@
+{
+  "name": "Cena di Spaghetti",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "a9a9ca2c6a1c80726daf8f1358630264d440c24b",
+  "culture_invariant_id": 1475,
+  "sort_number": 1472,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ehi, Tony! Ma certo! È il posto indicato per un'occasione specialissima.%—Biagio",
+  "rules_text": "CUCINA RAFFINATA , 1 — Se hai in gioco 2 o più personaggi, ottieni 1 leggenda.",
+  "card_identifier": "42/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=cdbb3399a8c43f4cb5e95314ebaa3041e46f150831e181324b453028b455cdea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=e5fe75faf5873433751d63aa8d848afd59ff8f706c63343c931d07873d5ab6b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=b4dc2e3eacb663f1e577f157c9b2bf616b20d38c15f2832dae938fe94cba954b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

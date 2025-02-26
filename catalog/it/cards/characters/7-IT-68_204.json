@@ -1,0 +1,45 @@
+{
+  "name": "Yzma",
+  "subtitle": "Al di Sopra di Ogni Cosa",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "65f8813035775940d5c4911773a0ebf5c5f20342",
+  "culture_invariant_id": 1501,
+  "sort_number": 1498,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Regina"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Yzma.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) AL LAVORO Ogni volta che un altro personaggio viene esiliato in una sfida, fai riprendere in mano al suo giocatore quella carta, poi quel giocatore scarta una carta a caso.",
+  "card_identifier": "68/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=679c3cbae12275ea5c404b6a7e24ca6a9d5b6c58851d3cf791272afee32009dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=5b9b79f747d02248e9f552dee884e4887362148067aedf4372dfb4d8f99f242e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8c134c3ec1a91b36fd9585e9da2e88bc0676b2dd692a0cd6a4f9315a29af8d2a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Isma",
+  "subtitle": "Steht über allem",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "65f8813035775940d5c4911773a0ebf5c5f20342",
+  "culture_invariant_id": 1501,
+  "sort_number": 1498,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Königin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Isma-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) ZURÜCK AN DIE ARBEIT Jedes Mal, wenn ein anderer Charakter durch eine Herausforderung verbannt wird, nimmt die zugehörige Person ihn auf ihre Hand zurück und wirft danach eine zufällig ausgewählte Karte von ihrer Hand ab.",
+  "card_identifier": "68/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=00f9c5831c3a32674e9694216fee1d36baadd16393b1470a69fd0f65332e448b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=6b0a1ab7fdb91bc0902b276fbbcc11fbd091bc58f364ac88912c75a7fecd6d84"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=dbd32b58a8f16a42add58b27aa6df405b959f3ad6999785fcbb6912739de5067",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

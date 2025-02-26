@@ -5,7 +5,7 @@
   "author": "Jared Nickerl / Alex Accorsi",
   "deck_building_id": "7a794400c5430b77a9bd93dc9c73e7ae38d73f5e",
   "culture_invariant_id": 417,
-  "sort_number": 441,
+  "sort_number": 440,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bed888c315e8429b9b12713f4dcc32920029700d94fdd86cc3e78d2238b15242"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bed888c315e8429b9b12713f4dcc32920029700d94fdd86cc3e78d2238b15242"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=aa834ce9f26ceb3f6e6623942bac60518ec3a0b3b26bccc0a3e65de595984f69"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=aa834ce9f26ceb3f6e6623942bac60518ec3a0b3b26bccc0a3e65de595984f69"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2457ebd1ee3e51ac1d043e608c27ff8eaf39a01d30f14409e80425603db1009a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=2457ebd1ee3e51ac1d043e608c27ff8eaf39a01d30f14409e80425603db1009a",
   "card_sets": [
     2,
     8

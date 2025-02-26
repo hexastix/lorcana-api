@@ -1,0 +1,44 @@
+{
+  "name": "Die Königin",
+  "subtitle": "Eifersüchtige Schönheit",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "2caba9821f2a147d04377683850773c4a50e222d",
+  "culture_invariant_id": 1507,
+  "sort_number": 1504,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Königin",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "KEIN GEWÖHNLICHER APFEL — Wähle 3 Karten aus einem gegnerischen Ablagestapel und lege diese unter das zugehörige Deck, um 3 Legenden zu sammeln. Falls du so mindestens eine Prinzessinnen-Karte bewegt hast, sammelst du stattdessen 4 Legenden.",
+  "card_identifier": "74/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b603cc24a0dc27cf965a883d3dc152d581b6c09f4631bc04e10bf13ba42f8987"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=5965908a1290aedd7c9bd27cc2d894391fbe4b0b043abe4ecf2a14b28ef3c162"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=8939b542fc0f3782a2023e98463993aded7892930cdf2a154ca22f031bb3e498",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2ecd2b06ec0482eba1b64036b9c2e4883c0190e72b9bd77a706eb63d0b30d966",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

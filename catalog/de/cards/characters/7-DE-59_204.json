@@ -1,0 +1,41 @@
+{
+  "name": "Isma",
+  "subtitle": "Verwandeltes Kätzchen",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "a338053c5fc78cd2976092628447d8a80725dbad",
+  "culture_invariant_id": 1492,
+  "sort_number": 1489,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Ja, ich habe diesen Kurs bereits gemeistert. Ich werde hier aber noch ein wenig hüpfen.",
+  "rules_text": "GEWONNEN Wenn dieser Charakter verbannt wird und du mehr Karten als jede gegnerische Person auf der Hand hast, darfst du diese Karte zurück auf deine Hand nehmen.",
+  "card_identifier": "59/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=2856e9035a85f15d1f92f13268d9af303000b361502ad7208b561865d5398e34"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=40edc6dbe13fa2c71863ad284422ea73d4679d8891ece851ce110d7df2892f91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=c24f614669f0fc069752a3c512005f302cc90234bb6411c7aa024cfed3bebd75",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

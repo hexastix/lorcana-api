@@ -5,7 +5,7 @@
   "author": "Ian MacDonald",
   "deck_building_id": "cf37b6d51b29ef3781307521b75714776bf0549a",
   "culture_invariant_id": 498,
-  "sort_number": 533,
+  "sort_number": 532,
   "additional_info": [
     {
       "title": "FAQ",
@@ -21,14 +21,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=dc7a4ef44191ce33a5d20f6836d7713cf376e9293070276e716211a68fcf17bc"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=dc7a4ef44191ce33a5d20f6836d7713cf376e9293070276e716211a68fcf17bc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=4a6d941979d4711677b868417cb93dfff6c8d231c7df40430b092af063405a36"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=4a6d941979d4711677b868417cb93dfff6c8d231c7df40430b092af063405a36"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=54d3804431c6ef869160baef1000a0dfa2047b431cbec67831db2c0ebf0dbf3d",
   "card_sets": [
     3
   ],

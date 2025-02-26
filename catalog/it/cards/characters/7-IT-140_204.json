@@ -1,0 +1,40 @@
+{
+  "name": "Lyle Tiberius Rourke",
+  "subtitle": "Mercenario Cristallizzato",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "ef808ef7c1703b959b0bcb033683307dd1b4aca2",
+  "culture_invariant_id": 1573,
+  "sort_number": 1570,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Ha ottenuto ciò che voleva — ma non come se l'era immaginato.",
+  "rules_text": "ESPLOSIVO Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, infliggi 2 danni a ogni personaggio in gioco.",
+  "card_identifier": "140/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=2332ac1a8007ec79b85b19a155dfc3c1ba289cbc9fa8da3250dec0d3a16e3874"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=a16378ccae4826d10c77d93b14fccf1f8c10d1ebdeec99b7dfb8e3f95343bedf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=c3b8ae6c01d286123616c26595cb072066f1298585f8e666dc70c80a0b5bc6ef",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Jeremy Adams",
   "deck_building_id": "ade3b9a1cc4c9a87627a75f1318e62b804de153e",
   "culture_invariant_id": 860,
-  "sort_number": 870,
+  "sort_number": 869,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=4ca45633499f8929cc7360927101a5563ec5f8633a634efb2786975b827b7133"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=4ca45633499f8929cc7360927101a5563ec5f8633a634efb2786975b827b7133"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=fbdd0289f904201b1a58d87d1469a75606816ed203ef5ee79907863a3733594e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=fbdd0289f904201b1a58d87d1469a75606816ed203ef5ee79907863a3733594e"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=c8da353e30349783f94288147252eb9ea061067d12ac0bda79de367c474d9f20",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=c8da353e30349783f94288147252eb9ea061067d12ac0bda79de367c474d9f20",
   "card_sets": [
     4
   ],

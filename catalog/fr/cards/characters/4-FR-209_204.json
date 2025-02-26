@@ -9,7 +9,7 @@
   "author": "Alan Batson",
   "deck_building_id": "1aa8732475a085d134487bd92f161c07bcdcbb3e",
   "culture_invariant_id": 900,
-  "sort_number": 910,
+  "sort_number": 909,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f8f588e3fd91601b2b42e81761971d9296c27887cab3ade9eb768fe500533564"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=f8f588e3fd91601b2b42e81761971d9296c27887cab3ade9eb768fe500533564"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=4b79f82a70008e4f115ff06f02a6b0aaa7529f706bf55620ba608bdc5a479fab"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=4b79f82a70008e4f115ff06f02a6b0aaa7529f706bf55620ba608bdc5a479fab"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=87b638e38e9377e3b8e54a902554047eb72b615efde48bf1426ab9f85411bd2a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=87b638e38e9377e3b8e54a902554047eb72b615efde48bf1426ab9f85411bd2a",
   "foil_type": "Lava",
   "card_sets": [
     4

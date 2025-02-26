@@ -1,0 +1,35 @@
+{
+  "name": "Il se traîne",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "d2e7b04e55be924e0bc9c07444cacc89c38ba255",
+  "culture_invariant_id": 1550,
+  "sort_number": 1547,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Je le suivrai au bout de la vie.",
+  "rules_text": "(Vous pouvez un personnage coûtant 1 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage qui gagne +1 pour le reste de ce tour pour chaque personnage que vous avez en jeu.",
+  "card_identifier": "117/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=201a554edad0f1ceb8775fa53bef062474a1006f1adf8d190d63cbbb6c948722"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=76b2c9238d01424687f964abfe15a62c83d410f3b69be954468c34de23617eb4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=01348bca1f09f260d292b338a397efe5092ce9c69451a926f944b9132b4b73fb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

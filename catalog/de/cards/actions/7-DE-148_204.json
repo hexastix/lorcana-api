@@ -1,0 +1,33 @@
+{
+  "name": "Ausser Betrieb",
+  "rarity": "COMMON",
+  "ink_cost": 7,
+  "author": "Hedvig H-S",
+  "deck_building_id": "940eb941273724b043f6118b17a05f669488de72",
+  "culture_invariant_id": 1581,
+  "sort_number": 1578,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Das ist das Letzte, was ein Gamer sehen möchte.",
+  "rules_text": "Verbanne einen Charakter deiner Wahl.",
+  "card_identifier": "148/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=089938826d434789e74c6f8e7abbb13c6dd266bab38a6a4151e4bb25270d5cc5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=5e332d368ba6f9c3191b8a3528e17d964cb5d305b261bc4f3701d1c6df3e1e23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=8baea8cd03b7c216770365efea2ddae879518c87a450881f631f2024514ba713",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

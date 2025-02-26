@@ -9,7 +9,7 @@
   "author": "Michela Cacciatore / Giulia Priori",
   "deck_building_id": "46fab1f4f08af604245e97f1b80242c4b74024c3",
   "culture_invariant_id": 874,
-  "sort_number": 884,
+  "sort_number": 883,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=db3a12ca69a18b7e7e871877200a1690adb4a5ba96cfcd1e8885dc35f00dbb66"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=db3a12ca69a18b7e7e871877200a1690adb4a5ba96cfcd1e8885dc35f00dbb66"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=92e55c62599f7ecf957ed3042482fe38e26eb25c1ac0e44eea131a2496d62c1c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=92e55c62599f7ecf957ed3042482fe38e26eb25c1ac0e44eea131a2496d62c1c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=dd7a4201d5bf1e7ce99779aa016a305cc40efb3f0bfeccab755cbde1e6c0d5e3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=dd7a4201d5bf1e7ce99779aa016a305cc40efb3f0bfeccab755cbde1e6c0d5e3",
   "card_sets": [
     4
   ],

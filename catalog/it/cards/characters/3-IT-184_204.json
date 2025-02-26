@@ -9,7 +9,7 @@
   "author": "Ally Zermeno",
   "deck_building_id": "9a550d6d1adb8c9c50c770cd0354b54e62316cdd",
   "culture_invariant_id": 620,
-  "sort_number": 655,
+  "sort_number": 654,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=5831864d9cd0b2b3ccda0c7598f714e66efe7c5cd2a0f642c75c6090edf9e5be"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=5831864d9cd0b2b3ccda0c7598f714e66efe7c5cd2a0f642c75c6090edf9e5be"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=4db9a3361376a011f8ab20d241efabae0c50f06913eb5268136867af0d50e081"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=4db9a3361376a011f8ab20d241efabae0c50f06913eb5268136867af0d50e081"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0d74a1a99ba99ac090bd07c5c531f1a6acbd7acc7f86c1b52d07f65fa3d1faa6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=0d74a1a99ba99ac090bd07c5c531f1a6acbd7acc7f86c1b52d07f65fa3d1faa6",
   "card_sets": [
     3
   ],

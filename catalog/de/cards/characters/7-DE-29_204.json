@@ -1,0 +1,41 @@
+{
+  "name": "Pongo",
+  "subtitle": "Guter alter Papa",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Cécile Carre",
+  "deck_building_id": "4ded36b061197a0ad11ed674df025e831934904a",
+  "culture_invariant_id": 1462,
+  "sort_number": 1459,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Tricks und Fallen sind ein Klacks für mutige Welpen.",
+  "rules_text": "HAB DICH, DU KLEINER RACKER Sieh dir zu Beginn deines Zuges die Karten in deinem Tintenvorrat an. Du darfst einen Welpen daraus kostenlos ausspielen.",
+  "card_identifier": "29/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=37306ef3e7e457b7737d5d5a478aa664d8531f447fe5f19521de6d6c23ccb23b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=5a2ce7e65c8cf3e992cc972a7b987efd101d776e1e70d4eb5d509469bd099e15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=472bf903cf6bfe616b66239a332796af776bb0ef13b2a9df2d540056fb2b05ec",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

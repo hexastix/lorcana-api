@@ -1,0 +1,40 @@
+{
+  "name": "Duchesse",
+  "subtitle": "Féline élégante",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Therese Vildefall",
+  "deck_building_id": "c8a1fa5bb27b00c8d7577631813808d567603f6d",
+  "culture_invariant_id": 1545,
+  "sort_number": 1542,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Maintenant mes chéris, observez attentivement l'endroit où nous nous trouvons. Qu'est-ce que la maison peut vous apprendre sur la Chouette?",
+  "rules_text": "",
+  "card_identifier": "112/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=8decacb56a4cd2a444f312a823aeb5bdbd04fdcf72b66a1e53da7b647658f272"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=dd7d8fa54624cabda350ab901829e65dccc97808ee0f666756b5ff59c2bc98ef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=664cd5948d6d90c14e9e596f7432f9e767921ac5da1a93c8a9bc247e0723663f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rhino",
+  "subtitle": "Orateur motivant",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "95a56b1f8277a035af9afaaabfaf7215216b4ab9",
+  "culture_invariant_id": 1434,
+  "sort_number": 1431,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "N'oublie pas que tu es génial. Tu peux tout faire. Maintenant, puise dans ton génie intérieur et SORS-NOUS DE CE PIÈGE!",
+  "rules_text": "L'APPEL DU DESTIN Vos autres personnages gagnent +2.",
+  "card_identifier": "1/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=40a0ee1a238571399b5a0e48a722e6a7f2ad744d60e93707ee7e7b387bd7f2f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=3b25c440eb703b80b932d79a48a205cc09a9c736fb5877e2d5187f335eb5d9bc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=3f00a57a453512e44c24137048f5fbc47ff98cc4cddcfb95f76759e5b6ef1756",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Luigi Aimé",
   "deck_building_id": "4034b1ebebc8be7b47cefd7197cffd40f1b428db",
   "culture_invariant_id": 1111,
-  "sort_number": 1120,
+  "sort_number": 1119,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=edab57e95f3dd106d1216a9aca69d292d8c269bc9ac905346bc67dee8e067791"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=edab57e95f3dd106d1216a9aca69d292d8c269bc9ac905346bc67dee8e067791"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f549a61d1691ec7132429832aa7383a840c22d402315562d4cbc0bb1ac584f5d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f549a61d1691ec7132429832aa7383a840c22d402315562d4cbc0bb1ac584f5d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=a5421af335ea1595179d7b804b879671561d4205ddc48f63f9be3bc724315ec7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=a5421af335ea1595179d7b804b879671561d4205ddc48f63f9be3bc724315ec7",
   "card_sets": [
     5
   ],

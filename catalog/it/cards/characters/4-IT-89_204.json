@@ -9,7 +9,7 @@
   "author": "Jon Densk / Hayley Evans",
   "deck_building_id": "a006d6c335ba5f1e0446f91c16ab10467268b77b",
   "culture_invariant_id": 780,
-  "sort_number": 790,
+  "sort_number": 789,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e8003c5315668bfa3d31e3d8471ddc661579214d06865417c42e871bc5253ded"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e8003c5315668bfa3d31e3d8471ddc661579214d06865417c42e871bc5253ded"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=389eafb5d5ed8f6b7e7467087e98b7f465b10b0c909c266da2a58c94516a615d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=389eafb5d5ed8f6b7e7467087e98b7f465b10b0c909c266da2a58c94516a615d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=310af1dba59fd7ae455ca8163685c66726d053b69678165e4d58f83d75121320",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=310af1dba59fd7ae455ca8163685c66726d053b69678165e4d58f83d75121320",
   "card_sets": [
     4
   ],

@@ -1,0 +1,40 @@
+{
+  "name": "Javotte",
+  "subtitle": "Belle-sœur pourrie gâtée",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "4d3083e3a6043881d6f41d12e8ee9d9c77c1f8a4",
+  "culture_invariant_id": 1518,
+  "sort_number": 1515,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Une fois encore, Javotte dut se rendre à l'évidence: la vie n’était pas juste.",
+  "rules_text": "",
+  "card_identifier": "85/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=193dc9236e734c967af93e2e7dd22fa9c995f47c0872222db2b2dd85e595c86d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=55ef1ec394eb1659e3072559f82916e7053598b10159d1c3d2ad25cbd8a822c1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=1828d81e7501dfd5c170290100f7bb3e3ca9d2739ff00dff75e1ea1a7cc29e04",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

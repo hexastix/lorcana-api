@@ -1,0 +1,40 @@
+{
+  "name": "Clochard",
+  "subtitle": "Chien entreprenant",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "306f19dbca99cea365477d3efb8420831ab5d23c",
+  "culture_invariant_id": 1543,
+  "sort_number": 1540,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "HÉ, BEAUTÉ Jouer ce personnage vous coûte 1 de moins si vous avez un personnage Lady en jeu. ON FERA DE L’HUMOUR UN AUTRE JOUR Lorsque vous jouez ce personnage, choisissez un de vos personnages qui gagne +1 ce tour-ci pour chaque autre personnage que vous avez en jeu.",
+  "card_identifier": "110/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=bd44e7faca654b904ef9298b35b6762c8ef27e35ef1803f4671225fa2d6802ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=980eb59b74015caa24b89cc19e535d7da51fdbdf59964b4b536ac1af71c8345d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=bfa77e13147a9749472847f7e25c75783a9732940829fe03705f873c46a57f7c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

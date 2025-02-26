@@ -9,7 +9,7 @@
   "author": "Ryan Moeck",
   "deck_building_id": "416bac0341350b57e21af4fcde238c89c9ec758e",
   "culture_invariant_id": 536,
-  "sort_number": 571,
+  "sort_number": 570,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f2ea512437da6c69b3eac49a85d2b817f3cf0bafdef80a9aa6a537950cf2268e"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f2ea512437da6c69b3eac49a85d2b817f3cf0bafdef80a9aa6a537950cf2268e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f547358ea5cf9d441114cf30388d567af9a64e6eaa3fd9b438107e2beb3cce94"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f547358ea5cf9d441114cf30388d567af9a64e6eaa3fd9b438107e2beb3cce94"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=4da975ab159b51590b0f8217f9528c3db552e5b098d7ed83125202a0ede51e77",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=4da975ab159b51590b0f8217f9528c3db552e5b098d7ed83125202a0ede51e77",
   "card_sets": [
     3
   ],

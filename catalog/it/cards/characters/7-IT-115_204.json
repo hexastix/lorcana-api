@@ -1,0 +1,42 @@
+{
+  "name": "La Matrigna",
+  "subtitle": "Tremendamente Invidiosa",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "d6d17b4712d5e27c288f4076156bcc3e4c0ddb28",
+  "culture_invariant_id": 1548,
+  "sort_number": 1545,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "ADESSO BASTA — Fai riprendere in mano al suo giocatore un personaggio danneggiato a tua scelta. Poi, ogni avversario scarta una carta a caso.",
+  "card_identifier": "115/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=1d76eb7996a6e2188163eea8f0fd27ef93781d14be2ee284bec9031dbbdd6265"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6790a36504e0bcbd834c6b182a6d817c2dd718c72ffb03f359e30687244ec94a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6a2d2ec999e968c9e0bc0ef6742bcbf6f252f8a0159769f21c9c5c169a2c749a",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6658591283cfb0a40d510131acec8ebe514864f5a66ca6b86264e828d3bf8d28",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Hopeful Dreamer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "adf0136e1ec25cf120f49b7a4e1d31f8560793a7",
+  "culture_invariant_id": 1446,
+  "sort_number": 1443,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Madrigal"
+  ],
+  "flavor_text": "My family's amazing, and I'm in my family, so...",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) Singer 5 (This character counts as cost 5 to sing songs.)",
+  "card_identifier": "13/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=bfdcc6f1411fc03cc5a302afcfbb96b3b76b95e37db04f0747dcbd268aca2c35"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=cde35137adc1d5672d90ac54c94ef4f3ce5e8817437e05f6e496eb2aa2963a60"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=e59208f861a91993094f24cfe29c6a9866300278c3f01fa1ad691fa8a4a7ef47",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

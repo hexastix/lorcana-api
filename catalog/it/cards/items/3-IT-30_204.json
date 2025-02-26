@@ -5,7 +5,7 @@
   "author": "Elliot Baum / Viv Tanner",
   "deck_building_id": "81b7a4a7ddb1986db77cd54d3e3e40d0154f0a29",
   "culture_invariant_id": 466,
-  "sort_number": 501,
+  "sort_number": 500,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=eb7dcfa85c242f9ec0f8f12d45d2136bb6767ac5b6ffc73121e9aba4398b0f8f"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=eb7dcfa85c242f9ec0f8f12d45d2136bb6767ac5b6ffc73121e9aba4398b0f8f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=4cb56144de8262b487d3367959e6469d0b4f408c5f048ef36b6290110d02752a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=4cb56144de8262b487d3367959e6469d0b4f408c5f048ef36b6290110d02752a"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3e689790548b7ab4900f0ef4906637a6554964bf2b833c6e530e317dcc2c3bf6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg?checksum=3e689790548b7ab4900f0ef4906637a6554964bf2b833c6e530e317dcc2c3bf6",
   "card_sets": [
     3
   ],

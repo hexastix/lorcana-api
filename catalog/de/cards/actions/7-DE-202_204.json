@@ -1,0 +1,33 @@
+{
+  "name": "Doppelter Ärger",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "3e31b41e5c09e6378ea85d26576fd33b5e524c80",
+  "culture_invariant_id": 1635,
+  "sort_number": 1632,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wir haben genug von eurem Blödsinn! Nehmt das!%–Sonnenschein",
+  "rules_text": "Wähle bis zu 2 Charaktere und füge ihnen je 1 Schaden zu.",
+  "card_identifier": "202/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=c6637d8932dc9ce53b24f03768903849f1034578a0bde97c0803593b9a1371be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=156fe9cab95a320c0880a8347ab24ed59f6d2bb51804a3b2bf1788d0102efcf9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=0ed99a505f29b98c191f3cff1e15054cb78e238e8a1e3326211fb8787a21373a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

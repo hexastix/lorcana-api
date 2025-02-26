@@ -1,0 +1,33 @@
+{
+  "name": "Out of Order",
+  "rarity": "COMMON",
+  "ink_cost": 7,
+  "author": "Hedvig H-S",
+  "deck_building_id": "940eb941273724b043f6118b17a05f669488de72",
+  "culture_invariant_id": 1581,
+  "sort_number": 1578,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The last thing any gamer wants to see.",
+  "rules_text": "Banish chosen character.",
+  "card_identifier": "148/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=72093a9c72efa10400307e168b9009da1255d22d3f742a83892153257e0465c4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=23b5298b786ed6db0fa5beee8ce360caf5ca5625679fa479347deb865bddcc43"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=eabd60a7bca03084ce3656f3395d4f426ec88cdf743ee19f5bdd5f514f15a351",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Cinderella",
+  "subtitle": "The Right One",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Tania Soler",
+  "deck_building_id": "314a16eb5a595cf0c7fefa00777939b5e367ef18",
+  "culture_invariant_id": 1448,
+  "sort_number": 1445,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "But, you see, I have the other slipper.",
+  "rules_text": "IF THE SLIPPER FITS When you play this character, you may put an item card named The Glass Slipper from your discard on the bottom of your deck to gain 3 lore.",
+  "card_identifier": "15/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=22537ddbc424f8ee79166a3298d463876bc454212ccb421acd3c550b4ec7e816"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=0a0d9b0b43e8b5e3aec6ec9a8d0f557bd50d1db00bcafd103c2c0962c787bdd7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=0982c016cb7e6d613639fc6bf55df8f52a27fa94cc5ab5e1e97b4723d6530496",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

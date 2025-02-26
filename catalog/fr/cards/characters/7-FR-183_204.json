@@ -1,0 +1,42 @@
+{
+  "name": "Helga Sinclair",
+  "subtitle": "Dure à cuire",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Samoldstoree",
+  "deck_building_id": "cec4229e674ce5edcf99772e0cc579abb664db74",
+  "culture_invariant_id": 1616,
+  "sort_number": 1613,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "Offensif +3 (Lorsqu'il défie, ce personnage gagne +3.) BONS RÉFLEXES Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "183/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=730e21b36b7c912573f459c40496d28608e2476d41e3d61cd215bf79a17db903"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=7d64a3c2877b04c1f1646776f17aa6a5e573bba219b3701805638762f1d66f05"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=2a57cdf3aa032b12816fb37337f94da8967eadfb87516286e62d71ae0a618e99",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

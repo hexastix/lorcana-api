@@ -1,0 +1,44 @@
+{
+  "name": "Queen of Hearts",
+  "subtitle": "Unpredictable Bully",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "de884385b8d6949128ae14c3ed43527359b2d71d",
+  "culture_invariant_id": 1528,
+  "sort_number": 1525,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Queen of Hearts.) IF I LOSE MY TEMPER... Whenever another character is played, put a damage counter on them.",
+  "card_identifier": "95/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=c7e175a4f4dc2b13d151a2b478b809026241ff691cb6a4ff157ec5239bb60a57"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=2ad70bad3cd313d1f5d374ce3e0c5d018a97cb805b57181d355c7a2777591f3f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=27d8c846c91d209329d1f3579eef5749ee92337c2ee4fef6ee497b93b0ce31c6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

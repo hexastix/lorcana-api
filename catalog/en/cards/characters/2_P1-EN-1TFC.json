@@ -1,0 +1,45 @@
+{
+  "name": "Stitch",
+  "subtitle": "Rock Star",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Simangaliso Sibaya",
+  "deck_building_id": "7b7f04e633966caf889d94df0f18c427dd6306f6",
+  "culture_invariant_id": 660,
+  "sort_number": 225,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "The best part about a beachside concert is that there’s always room for one more.",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Stitch.) ADORING FANS Whenever you play a character with cost 2 or less, you may exert them to draw a card.",
+  "card_identifier": "1TFC EN 2/P1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=657dbbee1816490abb90088013e6307509fc69e25965457f61f840b41fce8089"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=105b00f30218559e3506e328778820b6ec6dfd1a5c0cf2af5dbe9f11edb087af"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=2462fd6a1bbc0e8ed39fbaae2a0d3e118dc074fcde025e2e17556ce92aed8b96",
+  "special_rarity_id": 2,
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

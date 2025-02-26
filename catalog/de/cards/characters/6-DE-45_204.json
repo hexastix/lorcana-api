@@ -9,12 +9,12 @@
   "author": "Cam Kendell",
   "deck_building_id": "6b429fee312a65704722d56f090cd9bbe69ea8ae",
   "culture_invariant_id": 1244,
-  "sort_number": 1243,
+  "sort_number": 1242,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
   "subtypes": [
-    "Traumgestalt",
+    "Sagengestalt",
     "Verbündeter"
   ],
   "flavor_text": "Denkst du wirklich, du wirst mich <so> einfach los?!",
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=8462abcdf00aa1e4b00134b894db64d145098d1efdbada375334bd9675fde7be"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=a332f670e826106ae1e18ddf774932af507b6c33ba327708bf90fa5b24ee827c"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=165ad5431b9f893d2ffe775d3f8b8cc6e633699e5abf86240913732710abe4ae"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=558a7e2d7d11412318fada987ced57e68883e094191688400254e24e963360b4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
   "card_sets": [
     6
   ],

@@ -1,0 +1,40 @@
+{
+  "name": "Bucky",
+  "subtitle": "Chenapan à la noix",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9e2af09893b0ca662b9ffaf6ed3e829170c038b7",
+  "culture_invariant_id": 1493,
+  "sort_number": 1490,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "Oh, attendez. J'adore ce passage! Il éclate le ballon et les glands volent dans tous les sens. Ça me fait rire à chaque fois.%—Kronk",
+  "rules_text": "BANG ! Lorsque ce personnage est banni via un défi, vous pouvez piocher une carte.",
+  "card_identifier": "60/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=c2331587afa2f34a798df906d2f0c64dd0482d6f4a9a45ee2b17b89f6deaf0b8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=7e49400e5d815a552d150251fab0abb95009108ea25c0a93da526cc2973b638b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=3cc6b7c65baca8da5da9fdf8040b696a49cf980fb4c0735d238facf81d0787d9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

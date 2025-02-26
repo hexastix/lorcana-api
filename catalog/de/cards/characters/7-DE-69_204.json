@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Eismacherin",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Ian MacDonald",
+  "deck_building_id": "f288eb233a11571c7c54690d782dcb3cf69e5c05",
+  "culture_invariant_id": 1502,
+  "sort_number": 1499,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Königin",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Elsa-Charaktere auszuspielen.) WINTERLICHE MAUER Jedes Mal, wenn dieser Charakter erkundet, darfst du einen Charakter deiner Wahl erschöpfen. Falls du dies tust und du einen Anna-Charakter im Spiel hast, wird der gewählte Charakter zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "69/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=522ba4ae40b9832725a9a00f0ebd48c131fa81c49b4306008333d8e15f1c6b10"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=7d110d743ad1991ea9b518537f8c430f4e693e42611becf5637be5dea2db7059"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=e7793baaed2815b7efcef33dbf23e0684dea3737e3d4a3af984bdfd8b265d649",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

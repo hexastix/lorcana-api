@@ -1,0 +1,33 @@
+{
+  "name": "Bastone da Allenamento",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "e59a60896a2cea72441d79546048b4cce3a5ed23",
+  "culture_invariant_id": 1637,
+  "sort_number": 1634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Non stare seduto in pigrizia mentre gli altri vanno all'avventura in cerca di gloria.%—Li Shang",
+  "rules_text": "COLPO DI PRECISIONE , 1 — Un personaggio a tua scelta ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "204/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=95cd69b4c022089cfe813f420657d6db4a92a0f400a928ec1c0a4da02c5452f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=d63e42c308cb4168c8d196b8e185d4d52d993227362dc7afdf14f8014793508a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=0501fcaf327891f19caadba4f6603d67b0bc38fbaa9e91c1443c177c2678018f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

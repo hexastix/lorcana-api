@@ -1,0 +1,36 @@
+{
+  "name": "La berceuse d'Ahtohallan",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Viv Tanner",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1653,
+  "sort_number": 1650,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Placez jusqu'à 2 cartes de votre défausse dans votre réserve d'encre, face cachée et épuisées.",
+  "card_identifier": "220/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=ad27df24a5a547299efc1a419614144cde3c047ce98831e765fe28b3635a59d5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=8643daba66235caa13c4ce88e5765badd51800f02cfdc32e096b18a37b39aa29"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=1a60f9629cf685fedfb8abea8b55243134fe5a65806bf0e28e9525baddd628de",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

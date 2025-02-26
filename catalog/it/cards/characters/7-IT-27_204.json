@@ -1,0 +1,40 @@
+{
+  "name": "Ralph Spaccatutto",
+  "subtitle": "In Hero's Duty",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "dec60147f5f6f17659c25d3d2ec4a24dd5c2d35d",
+  "culture_invariant_id": 1460,
+  "sort_number": 1457,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Ho la medaglia in tasca.",
+  "rules_text": "AGGIRARE Durante il tuo turno, ogni volta che uno dei tuoi altri personaggi viene esiliato, questo personaggio riceve +1 per questo turno.",
+  "card_identifier": "27/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=9a526521135c933bce2222e69f1ac35ec39926b8ccb7a466d8dc27be3e2ff8d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=b3a83a21f7c5cd44b00a461730040cf8b50054d2bb027bb65e62dd7e60cde148"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=8c7a893e6b261ade5c1133cd16c1cd40ef8a990bc0822393d7f0445e44e967bd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

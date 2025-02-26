@@ -1,0 +1,42 @@
+{
+  "name": "Gräfin Tremaine",
+  "subtitle": "Zutiefst neidisch",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "d6d17b4712d5e27c288f4076156bcc3e4c0ddb28",
+  "culture_invariant_id": 1548,
+  "sort_number": 1545,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "JETZT HÖRT IHR AUF — Schicke einen beschädigten Charakter deiner Wahl auf die zugehörige Hand zurück. Danach müssen alle gegnerischen Mitspielenden je eine zufällig ausgewählte Karte von ihrer Hand abwerfen.",
+  "card_identifier": "115/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=cd4d6814584971f2be48ff6e51b3335b7cc80055b9cd93d3dd1b141db9188a26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=e2417657debbcc0bee0243d01272eb8325ea99f417aaf0ca1ca8eed1aa605881"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6d4df57544fdf79479910fd2302cfd7e3065ffc75b358bbd77bd617ff456524e",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6658591283cfb0a40d510131acec8ebe514864f5a66ca6b86264e828d3bf8d28",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Miss Bianca",
+  "subtitle": "Agente Risoluta",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Maria Dresden",
+  "deck_building_id": "45f268b2214fbccf3540a2e7412282b75f6885a1",
+  "culture_invariant_id": 1628,
+  "sort_number": 1625,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Raggiungeremo la cima di questa torre in un batter d'occhio se lavoriamo insieme, caro.",
+  "rules_text": "SE ABBIAMO UN PO' DI FEDE Se hai in gioco un personaggio Alleato, paga 2 in meno per giocare questo personaggio.",
+  "card_identifier": "195/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=fbc706e19cc8effbc6158605dbf92a3eb5c0595cfed6c589ee437b6a87ebfdd7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=6085258bddb74042a2599ffa6583505fdabfb15430f4d4b14d7ca3a6e02d1341"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9e6a577e352b57e7f1acacce4c1bfb9c6744e2bef32a4dd8fc237ffaf1901a29",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

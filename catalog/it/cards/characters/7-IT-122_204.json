@@ -1,0 +1,41 @@
+{
+  "name": "La Regina di Cuori",
+  "subtitle": "Che Perde le Staffe",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Antoine Couttolenc / Samanta Erdini",
+  "deck_building_id": "88fa1eead948d44f2664e3321bf492777618b145",
+  "culture_invariant_id": 1555,
+  "sort_number": 1552,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Regina"
+  ],
+  "flavor_text": "Qualcosa fece capire agli Illuminatori che lei ne aveva avuto abbastanza degli ostacoli.",
+  "rules_text": "REGALE SPINA NEL FIANCO Mentre questo personaggio ha danno, riceve +3.",
+  "card_identifier": "122/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=01dbbc8498ba6dd65459d9f2e1e2ef74e9f1a1d506dd07a7a77599a9aedc6dcf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=28ffca9efb1dc6496a027eacc2762b5c57f5606d9c388be445dfe8b94b15a312"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=147c76f94cd7fc98e9542c9aa7cf19c7f2a7464869214ee921eea1002d6ee995",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

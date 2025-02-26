@@ -1,0 +1,44 @@
+{
+  "name": "TE KĀ",
+  "subtitle": "Terreur élémentaire",
+  "strength": 12,
+  "willpower": 12,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Nicola Saviori",
+  "deck_building_id": "060b34992cdf3b51d872b1f70f9d808ba0b3be9a",
+  "culture_invariant_id": 1487,
+  "sort_number": 1484,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 7 (Vous pouvez payer 7 pour jouer ce personnage sur l'un de vos personnages Te Kā.) RAGE ANCESTRALE Durant votre tour, chaque fois qu'un personnage adverse devient épuisé, bannissez-le.",
+  "card_identifier": "54/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=218e5405a476ddcc0219f757b08fdf2e1523cadf73be8e453856c9f3cb643815"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=756ece42d3ab37df2586fc6b55faed85d0476f65b48fc99fc868bc840404d830"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=8d194aa040763c976f09bbf62a66f97e79275a327d3e2301ca7eb4573e6aa7ac",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Simangaliso Sibaya",
   "deck_building_id": "62f8f59f90124ef9f0b9787ccf4611aaf361be9f",
   "culture_invariant_id": 1066,
-  "sort_number": 1075,
+  "sort_number": 1074,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=64b0c049bd27c8be7c893ee5d3f7195b9cb74eb9bc45ef21417d3710f81ed1c8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=64b0c049bd27c8be7c893ee5d3f7195b9cb74eb9bc45ef21417d3710f81ed1c8"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=a54d2756103e976821e21fcebd314959a5f5ba02eb51d6ccdd0a1c1fcc009d48"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=a54d2756103e976821e21fcebd314959a5f5ba02eb51d6ccdd0a1c1fcc009d48"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/5/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4d4af6ffaea0cdac3df00339dd69b73f96de86e2ed97aa5a61ca3288331e78e4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=4d4af6ffaea0cdac3df00339dd69b73f96de86e2ed97aa5a61ca3288331e78e4",
   "card_sets": [
     5
   ],

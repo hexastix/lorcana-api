@@ -1,0 +1,40 @@
+{
+  "name": "Suzy",
+  "subtitle": "Maîtresse-couturière",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kapik",
+  "deck_building_id": "6c854aa30ab77afc53f38061766e42e06f160e6a",
+  "culture_invariant_id": 1441,
+  "sort_number": 1438,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Dévouées, les souris étaient très contentes de surprendre Cendrillon avec une nouvelle robe. En souriant, Archazia leur donna une bobine de fil magique. Ceci la rendra parfaite, dit-elle.",
+  "rules_text": "",
+  "card_identifier": "8/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=1a2fba63ae885c7e74f7290f03d493dd712cc16c04ae3c4a2d9e25732bb760a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=1747df64094d60b560bade8ea792531db470701651618efd5455c3f542928e34"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=6b5615ec3b12caa6e6d16bc96d8646114fe3ab49268e19036fcfd85a7172ea86",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

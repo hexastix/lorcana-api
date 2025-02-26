@@ -1,0 +1,40 @@
+{
+  "name": "Edgar Balthazar",
+  "subtitle": "Ehrgeiziger Butler",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "628e46b17ac88741c7b9ab68ff8754cf1b81de57",
+  "culture_invariant_id": 1579,
+  "sort_number": 1576,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "All diese Fallen, all diese Schlösser, all diese Maschinen … Wenn sie glauben, dass mich das aufhält, haben sie Edgar Balthazar gründlich unterschätzt!",
+  "rules_text": "",
+  "card_identifier": "146/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=f159467c949c3b8d9d03b55449dd4ba5ef6b6c159f120c9627a72afbf0eb210d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=5d1bf3b3b6a349bdb7aaa4986a3eeb96316db87ba0e29a59c9c1aadfece645b3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=3f3a0069a3eccf68827c2cb4af4ed1e0c553ac47ad6c962aaeef7f80ace52057",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

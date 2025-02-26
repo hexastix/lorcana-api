@@ -9,7 +9,7 @@
   "author": "Alexandria Neonakis",
   "deck_building_id": "b66d745358da7ec9b30e05117dd8f73ea6ae5746",
   "culture_invariant_id": 1129,
-  "sort_number": 1138,
+  "sort_number": 1137,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2a32a0d742dff183db230ed002a21b1dc67f6f5e648a3599ceb642a6d49fda82"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2a32a0d742dff183db230ed002a21b1dc67f6f5e648a3599ceb642a6d49fda82"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=f13becd0e4759b424864d6f3fe51294d146e93ea4ea2e5103ba95f3e9fe57f55"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=f13becd0e4759b424864d6f3fe51294d146e93ea4ea2e5103ba95f3e9fe57f55"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2aaa821ed3a5e16c35c2ff0b7d1beb214a1878f99423dcc047a7062a40f5087e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=2aaa821ed3a5e16c35c2ff0b7d1beb214a1878f99423dcc047a7062a40f5087e",
   "card_sets": [
     5
   ],

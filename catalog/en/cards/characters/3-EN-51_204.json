@@ -9,7 +9,7 @@
   "author": "Grace Tran",
   "deck_building_id": "07edd0c48b6c74df55bfa81bd0511d9b8743d8a1",
   "culture_invariant_id": 487,
-  "sort_number": 522,
+  "sort_number": 521,
   "additional_info": [
     {
       "title": "FAQ",
@@ -29,14 +29,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=face9baaac78bf71f1ceed24ebd36d7272e84591c224e202f9a18f5c7813756b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=face9baaac78bf71f1ceed24ebd36d7272e84591c224e202f9a18f5c7813756b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=23506722f1738bd4a3e1f6f0f6953e25ab9f6c6f24f2e5d8b10845bcda258cdd"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=23506722f1738bd4a3e1f6f0f6953e25ab9f6c6f24f2e5d8b10845bcda258cdd"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=04d18cf79806593a91558cf0f94d72f91e24721ac279352cc1d19f203a9a9e0d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=04d18cf79806593a91558cf0f94d72f91e24721ac279352cc1d19f203a9a9e0d",
   "card_sets": [
     3
   ],

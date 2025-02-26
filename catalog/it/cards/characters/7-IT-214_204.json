@@ -1,0 +1,45 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Proggettista di Armature",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Rachel Elese",
+  "deck_building_id": "80e5899ff870979d2047e3094ca8c48b56af6ada",
+  "culture_invariant_id": 1647,
+  "sort_number": 1644,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Hiro Hamada.) POTETE DIVENTARE MOLTO DI PIÙ I tuoi personaggi Imbevuti che hanno una carta sotto di essi ottengono Sfuggente e Protetto. (Solo altri personaggi con Sfuggente possono sfidarli. Gli avversari non possono sceglierli se non per sfidarli.)",
+  "card_identifier": "214/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=17f29290d57ec2170c24df694a3abbfd9d0211a76d9a139f4e9442570cc57b84"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=ee073bcd89fc0dd49827921e53d53432ccde034b664fa54a8e18f497830bc8f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9a15f42d1c524c306eb91c3df1216db248a8f224.jpg?checksum=9747b4f0d0dd50196f81f30749d9d6186fa66c127fe6f0c254ab78622b78f0ac",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Paperino",
+  "subtitle": "Stregone Agitato",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Rachel Elese",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1642,
+  "sort_number": 1639,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "OTTENEBRARE! Gli avversari hanno bisogno di 25 leggenda per vincere la partita.",
+  "card_identifier": "209/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=a444aabb3d60580b7dbd5ac809c593d046dcd5ceccfbab1b1bfce7fccaae0360"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=c9ba0fcbbc1f281850790bab61ad2035b832d148f1dcc7dad7e25b4fc1e610a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=c813809108d741dc7b2734a8efe6832d37ff90c549dc137ca6f37fe461519a00",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

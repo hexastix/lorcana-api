@@ -1,0 +1,40 @@
+{
+  "name": "Grand-Mère Fa",
+  "subtitle": "Ancienne pleine d'entrain",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Javi Salas",
+  "deck_building_id": "7a2836741ab1e3ba9615346ca322042052b83d1e",
+  "culture_invariant_id": 1554,
+  "sort_number": 1551,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "La peur vous fera souffrir. La chance vous permettra de vous en sortir.",
+  "rules_text": "J'AI TOUTE LA CHANCE QU'IL NOUS FAUT Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir l'un de vos personnages qui gagne +2 pour le reste de ce tour.",
+  "card_identifier": "121/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=8e318377318b280defb41fc540330a4bfc484c7623f70bc24823478624783a6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=0acb5a6c05442b70405f96b3cdb642fb99b5244aead09434e67b6fb4439492da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=24e2824b27389b17f9fc5c2890d22409c4613a3d55b198bdf8d5a111d7637a20",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

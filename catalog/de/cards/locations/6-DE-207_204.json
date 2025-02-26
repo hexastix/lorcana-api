@@ -9,7 +9,7 @@
   "author": "Andrew Peña / Aubrey Archer",
   "deck_building_id": "2e9b2654fee6bda12d63af97fba258e9e06d906c",
   "culture_invariant_id": 1406,
-  "sort_number": 1405,
+  "sort_number": 1404,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=517764849054cbdd768f5600769fb48c4e7ba1f8a604b279346ee0aab54ee87f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=517764849054cbdd768f5600769fb48c4e7ba1f8a604b279346ee0aab54ee87f"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=fc41907de86f06cb86878debe6b2194bad42d8c24773abcb42bb99bd8a52b064"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=fc41907de86f06cb86878debe6b2194bad42d8c24773abcb42bb99bd8a52b064"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e56bb6b3ca5e35e06ed1536839da2ac799ced5a51f3363fb0bd0e1ebe73720eb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=e56bb6b3ca5e35e06ed1536839da2ac799ced5a51f3363fb0bd0e1ebe73720eb",
   "foil_type": "VerticalWave",
   "card_sets": [
     6

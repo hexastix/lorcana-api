@@ -9,7 +9,7 @@
   "author": "Douglas De La Hoz",
   "deck_building_id": "a416a2ed276dca00b412fc5313190730b363eef2",
   "culture_invariant_id": 1402,
-  "sort_number": 1401,
+  "sort_number": 1400,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=ad5c6db7d15fb59682e74133eaf6ec911e33d3bea1f3e853520f1a632be0d711"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=ad5c6db7d15fb59682e74133eaf6ec911e33d3bea1f3e853520f1a632be0d711"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=9682cf0adb2e9fd9dc25be001473c244605f6c5c71731b33c0865532a34da168"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=9682cf0adb2e9fd9dc25be001473c244605f6c5c71731b33c0865532a34da168"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/6/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=963d0504eafe6cc1097e7777998167eefa356ec4fb5e808a66e502644735a347",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=963d0504eafe6cc1097e7777998167eefa356ec4fb5e808a66e502644735a347",
   "card_sets": [
     6
   ],

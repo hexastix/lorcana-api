@@ -1,0 +1,42 @@
+{
+  "name": "Paperina",
+  "subtitle": "Pirata dai Molti Talenti",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "d8f343ee238be3a7ebf0f0a9f5f2a7b707f21cdf",
+  "culture_invariant_id": 1541,
+  "sort_number": 1538,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Una capitana deve essere creativa, autoritaria e impavida di fronte ai trampolini.",
+  "rules_text": "MOSSA ASTUTA Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, un avversario a tua scelta sceglie uno dei suoi personaggi e riprende in mano quella carta.",
+  "card_identifier": "108/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=9cd27de253db88500ca4eafa6e02e4fa8626d6f895d89e5ace51493523360301"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=f7eaec97c7abf55402bbcea72091555411d47ece26c7897601eebb9f3af9ba0d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=d8403d8da8c3605b75ece7ded642cbe64f50dc856a6e0693e69ec6ac7143abe7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Restaurer la Couronne",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e9790e95ed228e5ba1499db77a02cb0f08ae189b",
+  "culture_invariant_id": 1516,
+  "sort_number": 1513,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La Forge d’Hexasort libéra une pure énergie créatrice, fusionnant les morceaux de la couronne dans une ultime décharge de puissance.",
+  "rules_text": "Épuisez tous les personnages adverses. Chaque fois que l'un de vos personnages en bannit un autre via un défi ce tour-ci, gagnez 2 éclats de Lore.",
+  "card_identifier": "83/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=b65b02a7b632910ae2edebb6df260cbe155fee46e520f2e0d3057aa89450cb6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=731851edfdbfd55d9b3edd382414438fcadb36efc4f8d72dc1e3ca8cd2b199f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=a25fb7351fea10ea33ee1dd07e2632d0977e5811d02308e02ee838d300f5171c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

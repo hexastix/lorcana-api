@@ -1,0 +1,41 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Battle-Tested",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e89d02771a72229278fa2e4100374bf2c2eb63e0",
+  "culture_invariant_id": 1469,
+  "sort_number": 1466,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Racer"
+  ],
+  "flavor_text": "Preparation and luck—you can only rely on one to win a fight!",
+  "rules_text": "TACTICAL ADVANTAGE When you play this character, you may choose and discard a card to give chosen opposing character -3 until the start of your next turn.",
+  "card_identifier": "36/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=170d47f66e1be7effd61c0d308e3ed4ea7c42cb40308d532795d3628fdd2c60c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=3a61f82104c8bd2959a94e3b023828c94361de0525e78b602dfaccbeba68a5d1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=9dddd480bf3a7e1b0918ad1911b76539f987a6a16b005bf8cc843023d91b7cc1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

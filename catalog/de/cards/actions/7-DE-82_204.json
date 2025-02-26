@@ -1,0 +1,33 @@
+{
+  "name": "Zeig mir mehr!",
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1515,
+  "sort_number": 1512,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Lauf der Zeit, erhöre mich –%zeig mir, was du bald versprichst!",
+  "rules_text": "Alle Mitspielenden (auch du) ziehen je 3 Karten.",
+  "card_identifier": "82/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=31b28b806ddf54a07cba61580a0712318aacf266f8967f4df5152c798b5facdc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=213fefd7c4f61f7144676e9bcaaccb37e31a34ed496d2d79b9b14231f50c5bb1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=82584cd51afa9555653ef05596792d541d15db6494148547c834daf0d92800e5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

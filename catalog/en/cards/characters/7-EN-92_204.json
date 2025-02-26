@@ -1,0 +1,40 @@
+{
+  "name": "Shere Khan",
+  "subtitle": "Infamous Tiger",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "e5c04a374746e0b16d522ecd3804b6024ae6ad38",
+  "culture_invariant_id": 1525,
+  "sort_number": 1522,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "He'd be the first to tell you he's as magnificent as he is deadly.",
+  "rules_text": "WHAT A PITY When you play this character, discard your hand.",
+  "card_identifier": "92/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=efe0d3687096f6c9b7458e59b41291a6c91b35ee8f489721d3bc1972cd2af1ea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=d8031a179d472adb3d8f637cfaa4e044f02f4795135901791daf521ed43bf7af"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=581359ae2ce0ea2a762a9ae0e03f6b7636aa892f51d8321295cea791b35387d7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

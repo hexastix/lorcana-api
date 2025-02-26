@@ -1,0 +1,33 @@
+{
+  "name": "Teufelsaugen Diamant",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1585,
+  "sort_number": 1582,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sieh ihn dir nur an! Macht und Reichtum gibt er seinem Besitzer.%–Madam Medusa",
+  "rules_text": "DER PREIS DER MACHT – Falls einer deiner Charaktere in diesem Zug Schaden erhalten hat, sammelst du 1 Legende.",
+  "card_identifier": "152/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=d0c9f9f855de9368e248b8cef9006c169b6593f13418a1df32b33f99d11ce141"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e2089d757c5ee0c85e63dd8e9556ff1c0f61a78fec61c74eb3e301e8c8fca762"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=a9bfd6a648807b5d32dca6a86fee14465cbe46f81214070141dde0934d8edf00",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

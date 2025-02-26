@@ -9,7 +9,7 @@
   "author": "Lava Hijzelaar / Ellie Horie",
   "deck_building_id": "711db291586153124e70c559ba0991a638fc6d4f",
   "culture_invariant_id": 1104,
-  "sort_number": 1113,
+  "sort_number": 1112,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=0cbbe8b2dd92c1a83b1315bf0230a9290d849450c86f364e71bc6feb0f121db6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=0cbbe8b2dd92c1a83b1315bf0230a9290d849450c86f364e71bc6feb0f121db6"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=eb40aa11ac49e7b49005ff9da64daeff41b665c627841e65e8046f0e297c32e7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=eb40aa11ac49e7b49005ff9da64daeff41b665c627841e65e8046f0e297c32e7"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=118c353a09360b258c5b901008538b4b9a0b36af5b51ec5cb948e5bba9f0c0e1",
   "card_sets": [
     5
   ],

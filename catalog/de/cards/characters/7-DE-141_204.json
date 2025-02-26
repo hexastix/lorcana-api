@@ -1,0 +1,45 @@
+{
+  "name": "Mulan",
+  "subtitle": "Kaiserliche Generalin",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "9c206f63c6f0526ce5aac53a49c9fe58909c52ee",
+  "culture_invariant_id": 1574,
+  "sort_number": 1571,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Mulan-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) AUSSERGEWÖHNLICHE ANFÜHRERIN Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, erhalten deine anderen Charaktere in diesem Zug „Dieser Charakter kann bereite Charaktere herausfordern“.",
+  "card_identifier": "141/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=8f243b0249f4e6dfe1804bdd3523f1e151eb26a27780a939c7f06fa26553a41c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=8ef5d4662abab56be449ec61545561b421bd3b7800e13eed159623d15aed7641"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=dde4004f5635a4bbb4d7a85c9b7417e3c579b0cb6262e0add0d16a0898c45467",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

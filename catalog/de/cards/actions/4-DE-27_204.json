@@ -5,7 +5,7 @@
   "author": "Gonzalo Kenny",
   "deck_building_id": "c0a5e3fc4e2e37085c62af71ef02f6136af750d2",
   "culture_invariant_id": 718,
-  "sort_number": 728,
+  "sort_number": 727,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=cb94789d2c487c527b2fcb8e8aa32692041c62a0ce2e5a696b563bc66c6957fd"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=cb94789d2c487c527b2fcb8e8aa32692041c62a0ce2e5a696b563bc66c6957fd"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=e0cf6c47a4a3b83fba8beee6f48e4df7c833a0634b6fa6b017ae16445ac5f351"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=e0cf6c47a4a3b83fba8beee6f48e4df7c833a0634b6fa6b017ae16445ac5f351"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=385af033a0ac75e389748eb29cf4b43279adfa0b3b010b7b7bcb15a20d73b474",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/bc33ea4e26e5e1af1408321416956113a4658763.jpg?checksum=385af033a0ac75e389748eb29cf4b43279adfa0b3b010b7b7bcb15a20d73b474",
   "card_sets": [
     4
   ],

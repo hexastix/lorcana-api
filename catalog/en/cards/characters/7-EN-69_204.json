@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Ice Maker",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Ian MacDonald",
+  "deck_building_id": "f288eb233a11571c7c54690d782dcb3cf69e5c05",
+  "culture_invariant_id": 1502,
+  "sort_number": 1499,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Elsa.) WINTER WALL Whenever this character quests, you may exert chosen character. If you do and you have a character named Anna in play, the chosen character can't ready at the start of their next turn.",
+  "card_identifier": "69/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=2cf7b5d366ddbc2cd010eefb5196e2c80d26e2faa0505cb998523d757045fc86"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=ee5b2462fb05654e536739ee9af845fe4e5d380d9cbbfa62ad639c6538de115c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=1818f7317837a71a917d95035a89611bb08cc1d28d7e2dfd7f0f6e8281a4e892",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Beverly Arce / Jonathan Livslyst",
   "deck_building_id": "df2e59641883d44ec34c12b9ba600f92f8be0ec2",
   "culture_invariant_id": 469,
-  "sort_number": 504,
+  "sort_number": 503,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=d54f96434bab64a1b1c763d642d28b26797fdf36d83e543ba2d97751ff6435ef"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=d54f96434bab64a1b1c763d642d28b26797fdf36d83e543ba2d97751ff6435ef"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=8623d9a349f26dfe7b78a9e710ae58ccae036a01068144979632827fe2ab5f63"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=8623d9a349f26dfe7b78a9e710ae58ccae036a01068144979632827fe2ab5f63"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=ee0f520a17193a7a5ab1cada4e811d5ac57607010b68a275cee11a53bd411636",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=ee0f520a17193a7a5ab1cada4e811d5ac57607010b68a275cee11a53bd411636",
   "card_sets": [
     3
   ],

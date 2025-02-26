@@ -1,0 +1,40 @@
+{
+  "name": "Suzy",
+  "subtitle": "Master Seamstress",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kapik",
+  "deck_building_id": "6c854aa30ab77afc53f38061766e42e06f160e6a",
+  "culture_invariant_id": 1441,
+  "sort_number": 1438,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "The devoted mice were excited to surprise Cinderella with a new dress. Smiling, Archazia gave them a spool of magic thread. This will make it perfect, she said.",
+  "rules_text": "",
+  "card_identifier": "8/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=b13b094ff59e9c82b2501fef308d922204b5dbf87e8edab0fb5f5181be9de6bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=41ee8fccad95354dbe1c37e0267937025649f254ca02bc261c10cf5d617e370a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=4379d53370402e64b9c9171282d515e7cd7813623ea0d4cbeb37ceb9b5d34894",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

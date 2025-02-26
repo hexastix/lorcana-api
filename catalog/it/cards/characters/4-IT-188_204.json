@@ -9,7 +9,7 @@
   "author": "Mariana Moreno",
   "deck_building_id": "48839e24171f940246ad8c892880d562b4dcffc4",
   "culture_invariant_id": 879,
-  "sort_number": 889,
+  "sort_number": 888,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=464d60f81270108f41f054d68603e7f9f4baa02889e69ecf84679deaedfa72af"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=464d60f81270108f41f054d68603e7f9f4baa02889e69ecf84679deaedfa72af"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=35c859c0effcafba345e78e956c932b1f822f7eaff2c88a0823b04f7fc857239"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=35c859c0effcafba345e78e956c932b1f822f7eaff2c88a0823b04f7fc857239"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=c31f7d6794810b06ca8c141ad332ce0f77b710d107f2db8cafc1274c4a21a746",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=c31f7d6794810b06ca8c141ad332ce0f77b710d107f2db8cafc1274c4a21a746",
   "card_sets": [
     4
   ],

@@ -5,7 +5,7 @@
   "author": "Andrew Trabbold",
   "deck_building_id": "560069c50fe9ddb3a3f3ce8b2aefc1174c7eb7fc",
   "culture_invariant_id": 283,
-  "sort_number": 307,
+  "sort_number": 306,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e565b2a10cae89a4c97c1d522da55a250b67cc0500701c5587aad69d462f2094"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=e565b2a10cae89a4c97c1d522da55a250b67cc0500701c5587aad69d462f2094"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ab799fe36f739ea2d41d7240dd431838ca2e3625eb0b74521949ce0a20682158"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=ab799fe36f739ea2d41d7240dd431838ca2e3625eb0b74521949ce0a20682158"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=37ca3d221d2b8a6618020997ec3739aeb951f90c6a7cc01040558741eef6f954",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=37ca3d221d2b8a6618020997ec3739aeb951f90c6a7cc01040558741eef6f954",
   "card_sets": [
     2
   ],

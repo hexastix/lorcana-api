@@ -9,7 +9,7 @@
   "author": "Therese Vildefall",
   "deck_building_id": "61dfa38413220473e46c109bcc7a62ead1bddf58",
   "culture_invariant_id": 957,
-  "sort_number": 966,
+  "sort_number": 965,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=bc2247d1b2f632d9940590280c59f26e133b91e8050e8ba05c579ffae494adb2"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=bc2247d1b2f632d9940590280c59f26e133b91e8050e8ba05c579ffae494adb2"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=f3dbf7878dbc024beec245e9c1d8bed225dffe9cbe7b9f4d2c223eaae336bcab"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=f3dbf7878dbc024beec245e9c1d8bed225dffe9cbe7b9f4d2c223eaae336bcab"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=f2710dff617a51c3a5509ce8d1aa143903151741892ca65aa33dba1ea775e340",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=f2710dff617a51c3a5509ce8d1aa143903151741892ca65aa33dba1ea775e340",
   "card_sets": [
     5
   ],

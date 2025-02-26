@@ -1,0 +1,43 @@
+{
+  "name": "Denahi",
+  "subtitle": "Ungeduldiger Jäger",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "203ba2afbe930769d683d5bcc2b361b27d68c85a",
+  "culture_invariant_id": 1557,
+  "sort_number": 1554,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Impulsiv",
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Es bleibt keine Zeit. Wir müssen jetzt handeln!",
+  "rules_text": "Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn möglich.) Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "124/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=fcaa3a7ef07b61d90ff292c71937b17320592928a3fd80161f0523988241295a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=d1e621c30d44ebcd1b5982e469eecab091fc132a78be59299f33c4fb36602702"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=68172e66d696b5dd2baa13bbfe000a3def6dfbdc7e665e9f442550e859fa17af",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

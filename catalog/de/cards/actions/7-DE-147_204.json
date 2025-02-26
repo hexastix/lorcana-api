@@ -1,0 +1,33 @@
+{
+  "name": "Wir kriegen Gesellschaft!",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "43362114455febd0d8b29de9e69a7c4841fd2ec7",
+  "culture_invariant_id": 1580,
+  "sort_number": 1577,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Tja, wie gewöhnlich führt diplomatisches Vorgehen zu nichts.%–Lyle Tiberius Rourke",
+  "rules_text": "Mache alle deine Charaktere bereit. Sie erhalten in diesem Zug Impulsiv. (Sie können nicht erkunden und müssen herausfordern, wenn möglich.)",
+  "card_identifier": "147/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=1c7c827dea519fa94ffb5bd8b455fa8663a87afc52e3ddb8602dac58f1901eb2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=fe919fb8ba4a7a12e5f05d0f25f72f22a0005cd64fb17be2cf41606639eb406c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=8b8596ca1a11bcb115a5adf2dfb0a26381d17c87b18f1c8f49683559f1b7972a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

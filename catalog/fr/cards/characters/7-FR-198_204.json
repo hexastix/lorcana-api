@@ -1,0 +1,44 @@
+{
+  "name": "Bagheera",
+  "subtitle": "Gardien félin",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "8e707e6dd19e262dc08b7529a727f0a41a77b507",
+  "culture_invariant_id": 1631,
+  "sort_number": 1628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) IL FAUT QUE TU SOIS BRAVE Lorsque ce personnage est banni durant le tour d'un adversaire, infligez 2 dommages à chaque personnage adverse.",
+  "card_identifier": "198/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=4582f1f9fb72cf021ab745f5b4546a1cb34f7c7e3e24154d4b396196eec24112"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=23b7ff68d93af8832ff400e84d46183d7fd6b2fcfc4435e6efac3c15813a3dbd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=0e95cfefc8c157d3f1aca20676050e8f8950542dbb3d6c36d1e3a35f5cfe88c5",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=de6b667e61f9df88ec0c973a7c2bbcd3e0eb6e40e4189200d63e80b1467cb76d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Celeste Jamneck / Mariana Moreno",
   "deck_building_id": "cc4f9781276050c70704d7062dfa20e416bed1cb",
   "culture_invariant_id": 1321,
-  "sort_number": 1320,
+  "sort_number": 1319,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=35bbdc6e13efd8bf4deee33a69332fe6b63a8bcbb224a529ccdbeb7377ba7798"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=35bbdc6e13efd8bf4deee33a69332fe6b63a8bcbb224a529ccdbeb7377ba7798"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=cf220ca0d615f8ee017d403496e69d1aad8886b2f03db2b2b6887252f7e25181"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=cf220ca0d615f8ee017d403496e69d1aad8886b2f03db2b2b6887252f7e25181"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a59a9d711364b86400bcd637250bb59dca03f2dd1e280ef24f19ad49d475bb34",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=a59a9d711364b86400bcd637250bb59dca03f2dd1e280ef24f19ad49d475bb34",
   "card_sets": [
     6
   ],

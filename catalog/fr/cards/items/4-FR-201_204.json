@@ -5,7 +5,7 @@
   "author": "Yari Lute",
   "deck_building_id": "cded588bc643a1accb5d62c5fb7c6a8644f34ebf",
   "culture_invariant_id": 892,
-  "sort_number": 902,
+  "sort_number": 901,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=d3557d555ed83c945dabc97220bfc23ab87409d2f0c455049091e278bd885404"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=d3557d555ed83c945dabc97220bfc23ab87409d2f0c455049091e278bd885404"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=c6977b457dfa879bd838c977a67051cddbfa6b464b1e0fb184c1a4e81a6363cf"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=c6977b457dfa879bd838c977a67051cddbfa6b464b1e0fb184c1a4e81a6363cf"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bd3246a91bade142dcf95f0db5a53b89da42fe77a8e8785d308941463bc0d67e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=bd3246a91bade142dcf95f0db5a53b89da42fe77a8e8785d308941463bc0d67e",
   "card_sets": [
     4
   ],

@@ -1,0 +1,35 @@
+{
+  "name": "La berceuse d'Ahtohallan",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1611,
+  "sort_number": 1608,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Quand le vent frais vient danser%La rivière chante pour ne pas oublier",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Placez jusqu'à 2 cartes de votre défausse dans votre réserve d'encre, face cachée et épuisées.",
+  "card_identifier": "178/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=af3df04766e5ad33acf8f8554c0fae74be7f865cfcede9bf13dc3ae6a35b3f62"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=285cb0bf31b6a1249163a301c7bc2687bab0b122189ab4452b1ff4403d0e7760"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=4aa190c5b8130ffbbb299fd3e1cc86e8de65b6e89205ee73c89a14163a8f4007",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

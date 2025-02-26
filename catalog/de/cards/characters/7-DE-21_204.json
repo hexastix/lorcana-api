@@ -1,0 +1,41 @@
+{
+  "name": "Penny",
+  "subtitle": "Bolts Frauchen",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "411deec2bc09d6d9bad7ac874b976b9ef4264678",
+  "culture_invariant_id": 1454,
+  "sort_number": 1451,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "EWIGE LOYALITÄT Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Schaden von einem Charakter deiner Wahl entfernen. Er erhält bis zu Beginn deines nächsten Zuges Robust +1. (Reduziere jeglichen Schaden, der jenem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "21/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=6b98486d08a9685aed4a096d36668ff6377fd242c83b2a57c8c7293296940d32"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=a4d9cb1e9e2559eb43c6e6bb7cfc520f9d64a5208aad2dd84216d63569a5e526"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=08271fd811f261cc03f4a805c9dbc9333a5a3dc525121c26bb774567debc97be",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Shannon Hallstein",
   "deck_building_id": "587243dff13c71d2996bab2b8c17b82e1f0179ae",
   "culture_invariant_id": 1253,
-  "sort_number": 1252,
+  "sort_number": 1251,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=22b84a3f788a46b92568f0cf391a0861f86d53b99dcb599775134e960d55255e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=22b84a3f788a46b92568f0cf391a0861f86d53b99dcb599775134e960d55255e"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=ca3acaf93ac119012b949a2a7b3614201a0fef97d8ac5125fde29b5c9c657fe9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=ca3acaf93ac119012b949a2a7b3614201a0fef97d8ac5125fde29b5c9c657fe9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=8c2cdc08f4d3fdf733389bc6786120c9344a6e5651919fe4808d0b8a98e79477",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=8c2cdc08f4d3fdf733389bc6786120c9344a6e5651919fe4808d0b8a98e79477",
   "card_sets": [
     6
   ],

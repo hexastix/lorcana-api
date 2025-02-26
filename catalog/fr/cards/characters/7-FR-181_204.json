@@ -1,0 +1,40 @@
+{
+  "name": "Dr. Calico",
+  "subtitle": "L'homme à l'œil vert",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "6e241493e0ee6543ecca03f5f5e315161367b063",
+  "culture_invariant_id": 1614,
+  "sort_number": 1611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Tout se met en place conformément à nos plans.",
+  "rules_text": "VOUS COMMENCEZ À M’INDISPOSER Tant que ce personnage n'a aucun dommage, il gagne Résistance +2. (Les dommages infligés à ce personnage sont réduits de 2.)",
+  "card_identifier": "181/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=2dad19d9fefd133935b9da09901eefdaf5f5c9e59a22308e0e8d7a89826931be"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=c238e671a4370c55c9731c1f6f6ca77fd7b7875b8b8ca36f3990591021e04948"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=791f613c1038822458732e59d0ae7b73d40a0b051348c9de370694a53a61a708",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

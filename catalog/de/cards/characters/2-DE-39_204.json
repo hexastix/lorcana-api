@@ -9,7 +9,7 @@
   "author": "Cristian Romero",
   "deck_building_id": "19ff66fcdff2f3666e276f89a192f746b49b256b",
   "culture_invariant_id": 255,
-  "sort_number": 279,
+  "sort_number": 278,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=257454da5ed943ec66bc6298ffa5972985fc08bd8fe741a9cd611aaf7e6e560d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=257454da5ed943ec66bc6298ffa5972985fc08bd8fe741a9cd611aaf7e6e560d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=71d005af5d2356d2377b0fa5e786a8e2a1b659d05a8788930f1633b8f8aeaec9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=f84e3d7f513f0e8add818c4cdfaeefb55fc21962574b1ddbacf127563f53fa0c"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/2/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=3c08d4f74413f8acd5281e9774c36e3b1db457412cd19a3e18f5280bc8fc61cb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=3c08d4f74413f8acd5281e9774c36e3b1db457412cd19a3e18f5280bc8fc61cb",
   "card_sets": [
     2
   ],

@@ -9,7 +9,7 @@
   "author": "Diogo Saito",
   "deck_building_id": "633d4a96c208e764155fc83b9f94d76fda5454b9",
   "culture_invariant_id": 850,
-  "sort_number": 860,
+  "sort_number": 859,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=8fb2d37ac277a2cb9599fe6ae49384601216065abf97668849d3bb14fc7652ae"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=8fb2d37ac277a2cb9599fe6ae49384601216065abf97668849d3bb14fc7652ae"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=4973595d0475534fc5fd391194bf5c8ef738183fcfbb63d46c38baf535f7ee78"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=4973595d0475534fc5fd391194bf5c8ef738183fcfbb63d46c38baf535f7ee78"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/4/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=60e248f3e571b24afdb3a84b713af0d0136a3339c12aac363bff092b6074768e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=60e248f3e571b24afdb3a84b713af0d0136a3339c12aac363bff092b6074768e",
   "card_sets": [
     4
   ],

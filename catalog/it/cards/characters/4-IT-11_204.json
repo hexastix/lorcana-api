@@ -9,7 +9,7 @@
   "author": "Andrea Parisi",
   "deck_building_id": "f4f450832cdc1e0cb2bf7a119554af0e031d4a98",
   "culture_invariant_id": 702,
-  "sort_number": 712,
+  "sort_number": 711,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=230e4f5044dff7a8384a30346f66f9bf520fa8074fdab61fcdd8f8f26d92ef1a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=230e4f5044dff7a8384a30346f66f9bf520fa8074fdab61fcdd8f8f26d92ef1a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=126889bf2c8e6691e8b46adc65e379d136ccab540604e1064f47fc608b5e0295"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=126889bf2c8e6691e8b46adc65e379d136ccab540604e1064f47fc608b5e0295"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=fa254665ca27e28d7f0ba7ba09b4ae99ca8956145ee6d578f1539471bab31d93",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=fa254665ca27e28d7f0ba7ba09b4ae99ca8956145ee6d578f1539471bab31d93",
   "card_sets": [
     4
   ],

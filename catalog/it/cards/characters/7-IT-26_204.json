@@ -1,0 +1,44 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Soccorritrice Coraggiosa",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d15917edc226a4d5a0f74f8b78306c814c3c1a48",
+  "culture_invariant_id": 1459,
+  "sort_number": 1456,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Calhoun.) IN POSIZIONE DI PARTENZA! Ogni volta che questo personaggio sfida un altro personaggio, puoi riprendere in mano una carta personaggio Pilota dai tuoi scarti.",
+  "card_identifier": "26/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=b341bc01bd5dc925bb24d2fe1ff63351753f9e19bb07bc9333521538603e49bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=06a134e35092912a0fd90c7c3ceed810ff40dac70e671732864214fc61cf8cdd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=a8a1e67b82c070555f0aff1e66a47f6955f170b31ea673b536d8b06db9420f24",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

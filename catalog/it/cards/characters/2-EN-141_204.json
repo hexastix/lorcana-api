@@ -9,7 +9,7 @@
   "author": "Cory Godbey",
   "deck_building_id": "05117f1bf13d4fb9861daaa0459dfe4a2b7ed70e",
   "culture_invariant_id": 357,
-  "sort_number": 381,
+  "sort_number": 380,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=c1e07b2f269b91bc93d28f64b86e3838cd48ff52e77688efb682cc816fd527fc"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=c1e07b2f269b91bc93d28f64b86e3838cd48ff52e77688efb682cc816fd527fc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=6b5af1e90656c1006d06d2ed266ecc5590e8d7fb962d99af2a17a6fea8868a93"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=6b5af1e90656c1006d06d2ed266ecc5590e8d7fb962d99af2a17a6fea8868a93"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=6d925fff0f141d99d66e18efbb74c4481ea9b129807aeaaace404f8a766de337",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=6d925fff0f141d99d66e18efbb74c4481ea9b129807aeaaace404f8a766de337",
   "card_sets": [
     2
   ],

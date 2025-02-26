@@ -1,0 +1,42 @@
+{
+  "name": "Thomas O’Malley",
+  "subtitle": "Charmanter Kater",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "926bc29c21b56c27f1a52cfead290ea03de769de",
+  "culture_invariant_id": 1521,
+  "sort_number": 1518,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Es gibt nichts, aus dem er sich nicht herausreden kann.",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "88/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=abfa5c8ffa569155f98f1c2754b9236f7a0ba1de911d6dffdd54709d39f03451"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=058452e348c11da8d5931f4a321d55f5acfcf65358251bd8167b39ba51cb683f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=8c5b73b2fe8fd94b1c85ab0f42565956ac2b142902b2fa1975a587828e0324ad",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "S. Shaw / L. Giammichele",
   "deck_building_id": "a29eca3d8c2f7e753604eac2019e1eb7a21a01b2",
   "culture_invariant_id": 267,
-  "sort_number": 291,
+  "sort_number": 290,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=a8e63c88d116dc78018af057ce4bca21934421aa5561e5f99ede54343488ddcd"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=a8e63c88d116dc78018af057ce4bca21934421aa5561e5f99ede54343488ddcd"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=637b0c673fc003564074edfb37d81474e6f754fdb351230dfa55b7015a5d77c8"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=637b0c673fc003564074edfb37d81474e6f754fdb351230dfa55b7015a5d77c8"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=2ec284ba244a184998938210f5e1e1d660c817ebe72c45ea3fd23de0d2db1f10",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=2ec284ba244a184998938210f5e1e1d660c817ebe72c45ea3fd23de0d2db1f10",
   "card_sets": [
     2
   ],

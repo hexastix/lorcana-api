@@ -1,0 +1,43 @@
+{
+  "name": "Peggy",
+  "subtitle": "Madre Giocosa",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Cécile Carre",
+  "deck_building_id": "3435d99659b2cfcde044628324d37c6c5fa17c57",
+  "culture_invariant_id": 1658,
+  "sort_number": 1656,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "A CHI TOCCA? Ogni volta che questo personaggio va all'avventura, paga 2 in meno per giocare il tuo prossimo personaggio Cucciolo per questo turno. NON AVER PAURA I tuoi personaggi Cucciolo ottengono Protetto. (Gli avversari non possono sceglierli se non per sfidarli.)",
+  "card_identifier": "21/P2 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=f6f369407d9171583247f16a6e7fb68dafa6196f22ab2f50bfbfdae118a4cf65"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=9f54920258276a20e5903249bb17261cdeda8b75d644a87a2bd3abdcffff1b34"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=c435e2d99121ee29d6daa406856f46b88a3968fbf9ae92e82b92f3103ce83fd1",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

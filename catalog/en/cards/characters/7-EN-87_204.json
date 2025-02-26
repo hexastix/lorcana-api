@@ -1,0 +1,41 @@
+{
+  "name": "Baymax",
+  "subtitle": "Low Battery",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "8443d471af8ebbfb5a81734a59bca908a12fa53e",
+  "culture_invariant_id": 1520,
+  "sort_number": 1517,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "Processing data from Archazia's thought scrolls is taking a great deal of power. Extreme battery saver protocol engaged.",
+  "rules_text": "SHHHHH This character enters play exerted.",
+  "card_identifier": "87/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=b999725235fca85cbf2b57bc30b1b9e6ddb943a874957a50f21e5a4ea8e0367e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=3a91eb5453f6fd7f1f239a07b06ee567c8bfcc5265f4f13431d8698d81ad9d4f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=3525c82000ee03544e0890ee46039c2a84f28e6205ed2aa9ee8055b059cc6f74",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

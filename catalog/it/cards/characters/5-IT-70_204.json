@@ -9,7 +9,7 @@
   "author": "Julien Vandois",
   "deck_building_id": "d76d53b25e89ba4480b569e40a9053d73d50bb2f",
   "culture_invariant_id": 1026,
-  "sort_number": 1035,
+  "sort_number": 1034,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=08e89e778b45aeb45b7ea5744674716564409c9c3510993a443a603e4c50714b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=08e89e778b45aeb45b7ea5744674716564409c9c3510993a443a603e4c50714b"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=c5269d49f298868e7367770b6355668ace8f87556bbbda686d90d1c39a9ee090"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=c5269d49f298868e7367770b6355668ace8f87556bbbda686d90d1c39a9ee090"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/5/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=2fe909a6c128781c7a8dbf478f6146f02e503bae3f21de8e615b19da0f54ff13",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=2fe909a6c128781c7a8dbf478f6146f02e503bae3f21de8e615b19da0f54ff13",
   "card_sets": [
     5
   ],

@@ -1,0 +1,43 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Disarmingly Cute",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maria Dresden",
+  "deck_building_id": "fc3303c43ff9b9600d46c652cda744f6e999e753",
+  "culture_invariant_id": 1620,
+  "sort_number": 1617,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Bodyguard",
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) Resist +2 (Damage dealt to this character is reduced by 2.)",
+  "card_identifier": "187/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=42a9c55d87d72b1f5821e4bae06c31212a92f0cbbc6b7bb6011e383a1a83b268"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=ec164ad8229c0776fd5648190769ab0bebcc4ebd3ef75353fce2bb5aa86ccfc9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=260ac09b2ad32f768e28723fc8525405285db6fbfd5eda11f338119550472146",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

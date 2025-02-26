@@ -1,0 +1,41 @@
+{
+  "name": "Dolores Madrigal",
+  "subtitle": "A Portata di Orecchio",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "f7ca2bca88c3d51f863bc2d006117959a66f603a",
+  "culture_invariant_id": 1511,
+  "sort_number": 1508,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "Sentì il cuore di Mariano palpitare. Era a causa dell'enigma, o perché la stava guardando?",
+  "rules_text": "TI SENTO Ogni volta che uno dei tuoi personaggi canta una canzone, un avversario a tua scelta rivela la sua mano.",
+  "card_identifier": "78/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=f434ef32baa64ccca75a33c9a05e68ae9516f5d6fa48d89792e2ab6fa3b93c87"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=e332c03cdc3212b5f96ffb29430b8fc8d3f9beb3a7cc597f6d8c23f253026cca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=18a23212306713c7b8052e43999d66264f2af3ef101ab4693b7cc9501bd1549a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

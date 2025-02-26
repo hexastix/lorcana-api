@@ -1,0 +1,42 @@
+{
+  "name": "Cruella De Vil",
+  "subtitle": "Miserable As Usual",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Nicholas Kole",
+  "deck_building_id": "2e73f0957919d8b91e9c5a66b5c0b5a5ede4afeb",
+  "culture_invariant_id": 662,
+  "sort_number": 227,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "When she stops by, misery is company.",
+  "rules_text": "YOU'LL BE SORRY! When this character is challenged and banished, you may return chosen character to their player's hand.",
+  "card_identifier": "1TFC EN 4/P1",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=2b43f3b98d7df487d265843b1658139d9aba2c59012487734f8c111f5a9e3aec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo1/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=253eaa4a0c438e7180c50678b827f940c8ec2c73b758f86c3db80f0948a9f3e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo1/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=2d119905962f4cfa16b40647ee55c07d664a3fb1b18f9b6cf9a63ce58e1750e6",
+  "special_rarity_id": 2,
+  "foil_type": "Lava",
+  "card_sets": [
+    1
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

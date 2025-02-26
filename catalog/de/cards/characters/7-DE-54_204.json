@@ -1,0 +1,44 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Elementarer Terror",
+  "strength": 12,
+  "willpower": 12,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Nicola Saviori",
+  "deck_building_id": "060b34992cdf3b51d872b1f70f9d808ba0b3be9a",
+  "culture_invariant_id": 1487,
+  "sort_number": 1484,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 7 (Du kannst 7 zahlen, um diesen Charakter auf einen deiner Te-Kā-Charaktere auszuspielen.) ALTER ZORN Jedes Mal während deines Zuges, wenn ein gegnerischer Charakter erschöpft wird, verbanne ihn.",
+  "card_identifier": "54/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=50c5ced6e5484a8e2ab6dbd5a1f0d016ee6b1a4ecaedbb137ee09f1b7a59d61b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=b9581753e1a580681537eaa89c6ec3d7ab4fc144c9ae37f056c2da8559891ecc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=32704eb7f06af99ef19806840666ca42888b5c50aea3782d81c3946841e911a6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

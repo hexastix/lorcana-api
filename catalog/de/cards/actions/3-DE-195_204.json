@@ -5,7 +5,7 @@
   "author": "Isabella Ceravolo",
   "deck_building_id": "70a43800d36d83e54f6abc028f75b80ac11dbe91",
   "culture_invariant_id": 631,
-  "sort_number": 666,
+  "sort_number": 665,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=f29dc3de0588daec5ca66aa875ccc366574b549915982b7143e6bf36a795ef56"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=f29dc3de0588daec5ca66aa875ccc366574b549915982b7143e6bf36a795ef56"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9d6b72ed958056517326ab6f287ea6128ca65bc93bb12a4fc401e096df7249d9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9d6b72ed958056517326ab6f287ea6128ca65bc93bb12a4fc401e096df7249d9"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/3/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=1273401d022ca1c9b82a72dec0600f1d939b975c9dbbdb7ffbd7674ab0be5bf6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=1273401d022ca1c9b82a72dec0600f1d939b975c9dbbdb7ffbd7674ab0be5bf6",
   "card_sets": [
     3
   ],

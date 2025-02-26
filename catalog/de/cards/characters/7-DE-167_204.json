@@ -1,0 +1,40 @@
+{
+  "name": "Pepper",
+  "subtitle": "Schnelldenker",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "97098c501f90935ba737140dca7ffd730fac352d",
+  "culture_invariant_id": 1600,
+  "sort_number": 1597,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "Pepper beweist, dass jeder Welpe ein Teil des Rudels ist.",
+  "rules_text": "AUF DEN PUNKT GEBRACHT Jedes Mal, wenn einer deiner Welpen verbannt wird, darfst du jenen verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "167/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=c35cded71d6529d99b4ec704fd82883cb73eac51acad835fdb69f6ec026cdaf5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=f2a3897dc89cebd529a3ddf2aa3f5288abac6b72c511cf3a7962f06531a0be4d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=5192e41d44fbc86df9fce449b19b07c9a09b3242170a79691783e237b3f35d85",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

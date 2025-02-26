@@ -1,0 +1,43 @@
+{
+  "name": "Kronk",
+  "subtitle": "Entspannt",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "3e3ad547703c4a8a5dbc00b8c4deace40863300d",
+  "culture_invariant_id": 1496,
+  "sort_number": 1493,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) DAS GEFÄLLT MIR Wenn du durch einen Effekt 1 oder mehr Karten abwerfen müsstest, wirfst du keine Karten ab.",
+  "card_identifier": "63/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=503b168ccceb4f34c27f242e6ed189a24fdbeb6117b4ac0c93a034b4b7237c92"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=e93760d7a9a89ba7c9ba8ec71ceaa1c1073b0a2489f2dc9b9de42f27ffe151b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=fcaeeadbf0b7bd531e9a2f7cf15fce1c4c2f13d3ea17c325f0f1fd999c254671",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

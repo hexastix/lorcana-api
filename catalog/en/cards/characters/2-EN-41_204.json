@@ -9,7 +9,7 @@
   "author": "Filipe Laurentino",
   "deck_building_id": "38afe33729ebebc667c2357984ce9c75a090da76",
   "culture_invariant_id": 257,
-  "sort_number": 281,
+  "sort_number": 280,
   "additional_info": [
     {
       "title": "FAQ 1",
@@ -31,14 +31,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=ad64d9f1096f83fa892e9b195554b8df001f4cfe8d6a9b349f8fc57338bbda5a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=ad64d9f1096f83fa892e9b195554b8df001f4cfe8d6a9b349f8fc57338bbda5a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=e4893320bdc5da443157ecbf22ebe2a5db211a6d6cdd80af3e184a4c789d7e6e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=e4893320bdc5da443157ecbf22ebe2a5db211a6d6cdd80af3e184a4c789d7e6e"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=64132934cc50c6382c057f484f182d593100c5d6c8c72393c9ca7fcea0884cd9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=64132934cc50c6382c057f484f182d593100c5d6c8c72393c9ca7fcea0884cd9",
   "card_sets": [
     2
   ],

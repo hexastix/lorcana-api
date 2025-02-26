@@ -1,0 +1,40 @@
+{
+  "name": "Gaëtan Molière",
+  "subtitle": "La Taupe",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Saulo Nate",
+  "deck_building_id": "1c1e54c8c9b1a32bfd3621e101e982e875461d44",
+  "culture_invariant_id": 1591,
+  "sort_number": 1588,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Fascinant. Cela ne devrait pas exister, et pourtant, c'est le cas. C'est peut-être encore plus ancien que le Grand Illuminarium lui-même.",
+  "rules_text": "",
+  "card_identifier": "158/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=1008f384f8052a73638211a528aba3c35b65f8c1e554abd8f89b6c6da87c64e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=bd2f204e819699453fbfb50673813b1ef96a1079ba3a38c9918a685f74ed7393"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=9dd7c1884674f43b99c9629c7c797ea7160a280939065c1cd8c0cfc62517b47f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

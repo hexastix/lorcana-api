@@ -9,7 +9,7 @@
   "author": "Leonardo Giammichele",
   "deck_building_id": "378e912a20a6e0f185bf32a266c970f3ffe1a3b3",
   "culture_invariant_id": 309,
-  "sort_number": 333,
+  "sort_number": 332,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=609df6d3744c55a28ec118e5a56830b403e77665c4fd16c3d79715e76d9c96cc"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=609df6d3744c55a28ec118e5a56830b403e77665c4fd16c3d79715e76d9c96cc"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=84415a6fe95af229dc2aa44db341184fc2a5f38302dc7883261579ecfecae58d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=84415a6fe95af229dc2aa44db341184fc2a5f38302dc7883261579ecfecae58d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0a723c790b973d507d45598fa35f85a4e8e4b28b0764a0cf76cea91c2f3d3e25",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0a723c790b973d507d45598fa35f85a4e8e4b28b0764a0cf76cea91c2f3d3e25",
   "card_sets": [
     2
   ],

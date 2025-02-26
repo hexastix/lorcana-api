@@ -1,0 +1,42 @@
+{
+  "name": "Klarabella",
+  "subtitle": "Nachrichtenreporterin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "e3b5dbe6ce01c2ada369d0b5792e10567e35497f",
+  "culture_invariant_id": 1586,
+  "sort_number": 1583,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) EILMELDUNG Deine anderen Charaktere mit Unterstützen erhalten +1.",
+  "card_identifier": "153/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=55b0f478a7c2309a11244b50071f5d76959dc3161f10aaf40d4f8f3b4b99d65d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=467c2430ffe095ccf97b1e0ebc25732662f4ade4cc1ce17028fafd5d4c1801f8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=9abf7fa42b487d286290198954776ae17e163fb58ba54e73ebb94ac3a5814306",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

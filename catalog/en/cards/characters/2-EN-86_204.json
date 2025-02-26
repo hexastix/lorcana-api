@@ -9,7 +9,7 @@
   "author": "Kristina Chouri / Mariana Moreno",
   "deck_building_id": "1fe8193faae4a3e917c75b66570a89630455f0c7",
   "culture_invariant_id": 302,
-  "sort_number": 326,
+  "sort_number": 325,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd9b86fcc5e75ffca4bb6c421c097cac0215452e973e250a4a53483de378faef"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd9b86fcc5e75ffca4bb6c421c097cac0215452e973e250a4a53483de378faef"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd582dd8fcd9ca6adbe6c5cc4c840a56f7a4d84d89bad4f959f0d627b960fa9f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=bd582dd8fcd9ca6adbe6c5cc4c840a56f7a4d84d89bad4f959f0d627b960fa9f"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/2/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c3f7d7eabe6f0e870d4448898906926c340fcf42f0451eba23b9f171c9243589",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=c3f7d7eabe6f0e870d4448898906926c340fcf42f0451eba23b9f171c9243589",
   "card_sets": [
     2
   ],

@@ -1,0 +1,33 @@
+{
+  "name": "Spaghetti Dinner",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "a9a9ca2c6a1c80726daf8f1358630264d440c24b",
+  "culture_invariant_id": 1475,
+  "sort_number": 1472,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hey, Tony’s! Of course. The very place for a very special occasion. —Tramp",
+  "rules_text": "FINE DINING , 1 — If you have 2 or more characters in play, gain 1 lore.",
+  "card_identifier": "42/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=f23b89cb87403ce2f7f862692a9f7825d846853cd8a1c24f20a7df1f295eea8b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=ea69d89e525e1a30ebbd171e301974cc3e2759a5c2d742a1a2c356679df4f8cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=4e9b6567d52e50800cb9a183ec1755079bd96ad5f7e966eba49f3f6714227f39",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

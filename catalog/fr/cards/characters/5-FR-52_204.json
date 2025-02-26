@@ -9,7 +9,7 @@
   "author": "Ivan Shavrin",
   "deck_building_id": "29ee1170b2ca2e8b9dff1156c7e6bb4b0c5e68c0",
   "culture_invariant_id": 1008,
-  "sort_number": 1017,
+  "sort_number": 1016,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -22,14 +22,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=bcdda5c44f8358ad0bbbcd78e720e513707345faf50c2be85e6c01d5c7e25325"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=bcdda5c44f8358ad0bbbcd78e720e513707345faf50c2be85e6c01d5c7e25325"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=b7e4d92672b4173efc0ff9cd2838935c8119c6905f12443d3bb6b0e56205513a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=b7e4d92672b4173efc0ff9cd2838935c8119c6905f12443d3bb6b0e56205513a"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/5/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=fc53e91e8c5850a503e49c616622434a1884943b213b6bfb382d7ff231ed1255",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=fc53e91e8c5850a503e49c616622434a1884943b213b6bfb382d7ff231ed1255",
   "card_sets": [
     5
   ],

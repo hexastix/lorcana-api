@@ -1,0 +1,40 @@
+{
+  "name": "Duchesse",
+  "subtitle": "Elegante Katze",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Therese Vildefall",
+  "deck_building_id": "c8a1fa5bb27b00c8d7577631813808d567603f6d",
+  "culture_invariant_id": 1545,
+  "sort_number": 1542,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Nun, meine Kleinen, schaut euch genau um. Was könnt ihr anhand des Hauses über die Eule erfahren?",
+  "rules_text": "",
+  "card_identifier": "112/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=59ab014bf89edf288baa5f157b09dacff753a8abc58fbf7bee5917961d802836"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=f2517d906c73de890a3d34f61fc6799bb7c60ca5ee43c50defa814cfb0c5575a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=7990b9a6532ecd630bbeaae1a1ee210bc27318640113933a488a8e9866d461f8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

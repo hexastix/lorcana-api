@@ -9,7 +9,7 @@
   "author": "Luis Huerta",
   "deck_building_id": "e673e28c8e84ee6a6a337c7ec4008fd12e0ff908",
   "culture_invariant_id": 402,
-  "sort_number": 426,
+  "sort_number": 425,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=85ca56fafe7a1d415313ecde80d3f85598e66a9e2b32178197b8151306619393"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=85ca56fafe7a1d415313ecde80d3f85598e66a9e2b32178197b8151306619393"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=c015053e99e144234f44c507a20bb15acb39b2d0c0974aeeb5146693e74e9272"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=c015053e99e144234f44c507a20bb15acb39b2d0c0974aeeb5146693e74e9272"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=60fc76819dda59afa84669bd8079b745863a0569d472d9176574919778b6f12d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=60fc76819dda59afa84669bd8079b745863a0569d472d9176574919778b6f12d",
   "card_sets": [
     2
   ],

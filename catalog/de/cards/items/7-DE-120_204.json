@@ -1,0 +1,33 @@
+{
+  "name": "Smaragd-Reif",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "f9a952d88bbccdde151f68df4d1cfc77395426cf",
+  "culture_invariant_id": 1553,
+  "sort_number": 1550,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Der Reif, den Martin trug, stärkte sowohl seinen Geist als auch seinen Körper.",
+  "rules_text": "SCHIMMERNDE FLÜGEL Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, erhält ein Charakter deiner Wahl bis zu Beginn deines nächsten Zuges Wendig. (Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "120/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=005b0baaea51eb9b9807f49af203b80c86069a0277f208b3f5e0f0cdedb8bd0f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=d00c9aabe05291886bb81d619cfb40198282d9c747ded557c2a591663b1e146c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=d7313059ece179740bd58e7745edc68c613d752cb1600e25e5de946c59fb9f17",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

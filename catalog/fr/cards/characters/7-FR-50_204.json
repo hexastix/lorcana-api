@@ -1,0 +1,40 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Créature de la nuit",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "f8c82e67f89c9ff310443e3e85dd847673575b7e",
+  "culture_invariant_id": 1483,
+  "sort_number": 1480,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "FESTIVITÉS DE MINUIT Lorsque vous jouez ce personnage, chaque adversaire choisit l'un de ses personnages redressés et l'épuise. Les personnages épuisés de cette manière ne se redressent pas au début de leur prochain tour.",
+  "card_identifier": "50/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=6f205f4560ebe83ab2f2e810fea4f8cb94bace1f420ffa3af3de9c8a39225127"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=e31e0b45fa66ff1eb2ec43e1db9f83e35462c5755d508ad88f0fbbea27473749"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=e86507b23ec8fe287aab0f55dfae904b27c5deffd31a21d77eea4319e0eca012",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

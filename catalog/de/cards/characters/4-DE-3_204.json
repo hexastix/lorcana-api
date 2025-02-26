@@ -9,7 +9,7 @@
   "author": "Matthew Robert Davies",
   "deck_building_id": "9e45cd57bcaee1034e81d1c387fdbd8b35cdab85",
   "culture_invariant_id": 694,
-  "sort_number": 704,
+  "sort_number": 703,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -26,14 +26,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=765f2bbeec360799535439d56a35dea147e4d01592b3d91c96fa86a8a0ba3028"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=765f2bbeec360799535439d56a35dea147e4d01592b3d91c96fa86a8a0ba3028"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=410c1a00e8f0850709ec061a9e85ba4d624f03a2cd020db91af33f2a243d1a3b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=410c1a00e8f0850709ec061a9e85ba4d624f03a2cd020db91af33f2a243d1a3b"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=2c8754526d6123e374d4bdfed2aeda3037981cc8fea5cf30f9d1c41b56999179",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=2c8754526d6123e374d4bdfed2aeda3037981cc8fea5cf30f9d1c41b56999179",
   "card_sets": [
     4
   ],

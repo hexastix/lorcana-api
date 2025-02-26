@@ -5,7 +5,7 @@
   "author": "Giuseppe di Maio",
   "deck_building_id": "efed43f00fc8ef2ffa9a90270aa7a41a14b24f8c",
   "culture_invariant_id": 595,
-  "sort_number": 630,
+  "sort_number": 629,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=efa05ce03fa783412828492525c62c4f25d7514471a2e766b1ad0c24c70dce99"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=efa05ce03fa783412828492525c62c4f25d7514471a2e766b1ad0c24c70dce99"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=789ed8eccb4c32136be652832b451a469e816460079f45a1333b51f19d6c80fe"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=789ed8eccb4c32136be652832b451a469e816460079f45a1333b51f19d6c80fe"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=fdd124b0844bd0da64a13210dcfa893bbffd4abb8a5580e392513a52d12561c0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=fdd124b0844bd0da64a13210dcfa893bbffd4abb8a5580e392513a52d12561c0",
   "card_sets": [
     3
   ],

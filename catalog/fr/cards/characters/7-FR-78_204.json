@@ -1,0 +1,41 @@
+{
+  "name": "Dolores Madrigal",
+  "subtitle": "À portée d’oreille",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "f7ca2bca88c3d51f863bc2d006117959a66f603a",
+  "culture_invariant_id": 1511,
+  "sort_number": 1508,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "Elle entendit le cœur de Mariano s’emballer. Était-ce à cause de l'énigme, ou bien parce qu'il la regardait?",
+  "rules_text": "JE T’ENTENDS, OUI Chaque fois qu'un ou plusieurs de vos personnages chantent une chanson, choisissez un adversaire qui révèle sa main.",
+  "card_identifier": "78/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=98fa60161d777ff400e179ef0d9280369604e33dda38c68942af2dfdb23990f2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=390130ee6a68ad39958a46b1fe8c27fe5f30f202a3253f35a46a02d5c7d1155d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=f8bd2b3cbabcd0689c0b5f5c1cfc3f390245bec8dac00c0662c25f17c57b9c5c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

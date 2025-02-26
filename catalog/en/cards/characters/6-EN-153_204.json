@@ -9,7 +9,7 @@
   "author": "Jeanne Plounevez",
   "deck_building_id": "993aaea8ad85362fb36241b749ab1bd73d13fdc7",
   "culture_invariant_id": 1352,
-  "sort_number": 1351,
+  "sort_number": 1350,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=00096dae45627070cd96e24e4da0aafd0a4a41b20d0863042a58189ed1b4a6db"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=00096dae45627070cd96e24e4da0aafd0a4a41b20d0863042a58189ed1b4a6db"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=f3ef96d4aacbca0852ff9320f5db7ad6459e66262672d44986cc940330adfd90"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=f3ef96d4aacbca0852ff9320f5db7ad6459e66262672d44986cc940330adfd90"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/6/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a2c3d10a6bacee8182ddd7d3ba7e6a48a599612bba1975101633be5940e85445",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a2c3d10a6bacee8182ddd7d3ba7e6a48a599612bba1975101633be5940e85445",
   "card_sets": [
     6
   ],

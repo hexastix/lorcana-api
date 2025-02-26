@@ -1,0 +1,44 @@
+{
+  "name": "Lady Kluck",
+  "subtitle": "Protective Confidant",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a1c520968878a4659e2e5283c4bb522936f0fa60",
+  "culture_invariant_id": 1605,
+  "sort_number": 1602,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard",
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "172/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5ba0232050a040b73e10a69cceb4194387bcb322983547e6f28d04dd50e0ba47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=fa72f62fc82780dfc91a99dacf12830095d45b51a9d85d809a4b6aaa2431dc86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=9358e3e02738baa0feaf313e3c091dc6e6d8adec1b98b886fad0ae4a5687d1df",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

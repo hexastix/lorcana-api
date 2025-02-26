@@ -5,7 +5,7 @@
   "author": "Peter Brockhammer",
   "deck_building_id": "a9e7ec404bfc922091cf146ebf47177ce8ea39db",
   "culture_invariant_id": 568,
-  "sort_number": 603,
+  "sort_number": 602,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=4b3b518393ec8236a2541353da3e2250d1bcd1b13358c41996dbc841cab0bfa0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=4b3b518393ec8236a2541353da3e2250d1bcd1b13358c41996dbc841cab0bfa0"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=0c777d0dcc1229a1401bbfea0c6eda43dc1f69877f47eb014279831da85ba477"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=0c777d0dcc1229a1401bbfea0c6eda43dc1f69877f47eb014279831da85ba477"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/expansions/3/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b1556988ba39f385e78d3384c624a404fafe0aecee9515f283e9dd28c78f2d0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3b1556988ba39f385e78d3384c624a404fafe0aecee9515f283e9dd28c78f2d0",
   "card_sets": [
     3
   ],

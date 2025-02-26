@@ -1,0 +1,44 @@
+{
+  "name": "Die Herzkönigin",
+  "subtitle": "Unberechenbare Tyrannin",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "de884385b8d6949128ae14c3ed43527359b2d71d",
+  "culture_invariant_id": 1528,
+  "sort_number": 1525,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Königin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Die-Herzkönigin-Charaktere auszuspielen.) WENN ICH DIE BEHERRSCHUNG VERLIERE … Jedes Mal, wenn ein anderer Charakter ausgespielt wird, lege 1 Schadensmarker auf ihn.",
+  "card_identifier": "95/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=f923686c1b49303d7d31edc8e0aefcc6f46b4ea1c55087bec8e3957badf70864"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=925cbc935ee3f3c57ef0264237597d4217f089ef4e389fb34a3f54bde4bd105e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=508c5c124a13c84eddb1e11fae5e46dea019755bdd75a4f006d32ae653547f24",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

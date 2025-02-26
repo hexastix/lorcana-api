@@ -1,0 +1,42 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Inspired Researcher",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "10b04e532f811271010fabf5d712bcce0f547d7a",
+  "culture_invariant_id": 1606,
+  "sort_number": 1603,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Oh, this is wonderful! I <knew> Archazia's thought scrolls would be worth a little extra effort!",
+  "rules_text": "EXTRA ASSISTANCE Whenever this character quests, if you have no cards in your hand, draw a card for each Ally character you have in play.",
+  "card_identifier": "173/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=515b942a8171c1bbfbb0f2f5b741d4da35a59f7c3bf1a8dc52ea63e944793782"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=c23e47f918f7bc290019226ff3b6b2b4ee4c9b8c552a8e0c01900c4492273f7c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=40b73e5e273f57c21d98ec303d3a70c3f1806621e0fe85a53f9a9bf816c71bb6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

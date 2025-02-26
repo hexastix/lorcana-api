@@ -9,7 +9,7 @@
   "author": "James C Mulligan",
   "deck_building_id": "d25e463a72b570a5a6cd876b38749e5e28add26d",
   "culture_invariant_id": 999,
-  "sort_number": 1008,
+  "sort_number": 1007,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=fb048f9a924b6ff5114b5cb10d6009197fbea1c11111213e769a95728ea3ba4a"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=fb048f9a924b6ff5114b5cb10d6009197fbea1c11111213e769a95728ea3ba4a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=07f9fe1510829e7378c36df30509304c5b9e5c354468acdbce320e3584781d32"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=07f9fe1510829e7378c36df30509304c5b9e5c354468acdbce320e3584781d32"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=677d65a659ff017870d7e1ec5791975daa017e162f804463bc0434b5e6e7273c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=677d65a659ff017870d7e1ec5791975daa017e162f804463bc0434b5e6e7273c",
   "card_sets": [
     5
   ],

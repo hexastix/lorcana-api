@@ -5,7 +5,7 @@
   "author": "Kamil Murzyn",
   "deck_building_id": "f2d37b460b9e74070319ab78f31a81246eb7f444",
   "culture_invariant_id": 600,
-  "sort_number": 635,
+  "sort_number": 634,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,16 +16,17 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=93be86f113954af28f2c45207c2c182bd9ddfdd7713944eac23a126f52fb4e54"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=93be86f113954af28f2c45207c2c182bd9ddfdd7713944eac23a126f52fb4e54"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=02c98ac5aeb956cf527b84656c462879c895c5001eb8f21319a15eff66d9cf3d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=02c98ac5aeb956cf527b84656c462879c895c5001eb8f21319a15eff66d9cf3d"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=db7aa31900121153bdd0d1bb045a4106ea9206a5087c0a6910456d7ce6460367",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=db7aa31900121153bdd0d1bb045a4106ea9206a5087c0a6910456d7ce6460367",
   "card_sets": [
-    3
+    3,
+    9
   ],
   "magic_ink_colors": [
     "SAPPHIRE"

@@ -9,7 +9,7 @@
   "author": "Hadjie Joos",
   "deck_building_id": "5e84bd330102f933591077e27d65cdc0c3dbfdf1",
   "culture_invariant_id": 376,
-  "sort_number": 400,
+  "sort_number": 399,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=46220786b698a7c63c4dd1af325551aabe5b6cab998435b7c0455118a8ac3bb8"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=46220786b698a7c63c4dd1af325551aabe5b6cab998435b7c0455118a8ac3bb8"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=65acd16beb41ea6f799c2f7ca51c70931c10f1f1d6da883837ea3ab27a0ffa95"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=65acd16beb41ea6f799c2f7ca51c70931c10f1f1d6da883837ea3ab27a0ffa95"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/2/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=d47e7d72924fcb57d5434ba763d6325cff44e8c69feb284744485866f3df500b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=d47e7d72924fcb57d5434ba763d6325cff44e8c69feb284744485866f3df500b",
   "card_sets": [
     2
   ],

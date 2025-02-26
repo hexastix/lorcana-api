@@ -1,0 +1,44 @@
+{
+  "name": "Dame Gertrude",
+  "subtitle": "Confidente protectrice",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a1c520968878a4659e2e5283c4bb522936f0fa60",
+  "culture_invariant_id": 1605,
+  "sort_number": 1602,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte",
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "172/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=68aeb4b7426c9a8263501ef4ddd7471099bb6182dbfaf63a90c0931131b509f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5c4c3b9f5b6c967bbe56ffa5135b0dfb78f64358728f52626dda8959466b338f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=2087514b39239bd036f15eed18dc2ca29f882a3bfca683345771a7aeab66f0dd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

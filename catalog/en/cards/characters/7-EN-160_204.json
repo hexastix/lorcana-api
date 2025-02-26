@@ -1,0 +1,40 @@
+{
+  "name": "Lucky",
+  "subtitle": "Runt of the Litter",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "e1e514a227339f3c439243177d0de9e17bd71e57",
+  "culture_invariant_id": 1593,
+  "sort_number": 1590,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "",
+  "rules_text": "FOLLOW MY VOICE Whenever this character quests, look at the top 2 cards of your deck. You may reveal any number of Puppy character cards and put them in your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "160/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=274999b120d992ddf84837a2890f0175d73c5ace0364de8dbbd5dc874fa39a15"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=64bd23d9e4815795c392f757b42b6e7d2af83145b02069b0ce44f04486477e2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=6958f25a06e3a17349cf8248e85cebda8fce4f649cd94b1913ef287ab574aee7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -9,7 +9,7 @@
   "author": "Michael Guimont",
   "deck_building_id": "ab87ad77d9132e447d7025f86689d1abc0aa9f5d",
   "culture_invariant_id": 537,
-  "sort_number": 572,
+  "sort_number": 571,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=805d9ceeabe0a2ddcedbd3352b1e23e00e1f1ff2d47e3d18e9f1ef4f1f97f909"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=805d9ceeabe0a2ddcedbd3352b1e23e00e1f1ff2d47e3d18e9f1ef4f1f97f909"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=8d038071b25f20706a22a4182f6cbbf0ddad780ab7c9c322c7aed3fa68f457df"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=8d038071b25f20706a22a4182f6cbbf0ddad780ab7c9c322c7aed3fa68f457df"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/3/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=2631a4302208ad261e7220a76bd259bea4c876689b115f9bd43b6601783e8fd7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=2631a4302208ad261e7220a76bd259bea4c876689b115f9bd43b6601783e8fd7",
   "card_sets": [
     3
   ],

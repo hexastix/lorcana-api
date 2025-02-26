@@ -9,12 +9,12 @@
   "author": "Cam Kendell",
   "deck_building_id": "6b429fee312a65704722d56f090cd9bbe69ea8ae",
   "culture_invariant_id": 1244,
-  "sort_number": 1243,
+  "sort_number": 1242,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
   "subtypes": [
-    "Dreamborn",
+    "Storyborn",
     "Allié"
   ],
   "flavor_text": "Tu crois vraiment que tu peux te débarrasser de moi aussi facilement?!",
@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=bb520abb6ff4fbaadb5cf6201d666989d660038730db44464fef2eac8bd357a9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=a27b91787f8d195759d2fe7111bd6abcfa85cc165021665e4c38b86889ce2089"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=1287f2194fbe7ee21d1efbdd740e1bcd2f993b921f532857ee884d406eb0aa12"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=adbda3f024c83791ff99b6f33e5315ee9dbdd9fc43b4abde2745aafe72832b60"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=036c841775c6168a0547402c9a14b6c03b290c9c760ce3b87db76366160a52bd",
   "card_sets": [
     6
   ],

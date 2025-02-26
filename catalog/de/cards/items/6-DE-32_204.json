@@ -5,7 +5,7 @@
   "author": "Kaitlin Cuthbertson",
   "deck_building_id": "1740993c2d9c41b47477e050c6664ad461d7aa89",
   "culture_invariant_id": 1231,
-  "sort_number": 1230,
+  "sort_number": 1229,
   "additional_info": [],
   "ink_convertible": false,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=d009b33a699c185f67b553038c87b596b06ab54af6dbf35ffd9acdb8a9cb9738"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=d009b33a699c185f67b553038c87b596b06ab54af6dbf35ffd9acdb8a9cb9738"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=7889a29b13443a36549fee7e682d7e7e61efafda64c54614c6ea8664076787f0"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=7889a29b13443a36549fee7e682d7e7e61efafda64c54614c6ea8664076787f0"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=fa25cb218c21e84311c19cb48ec1f07a669fcfff7c1fd0ecc5f541eee90956f6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=fa25cb218c21e84311c19cb48ec1f07a669fcfff7c1fd0ecc5f541eee90956f6",
   "card_sets": [
     6
   ],

@@ -9,7 +9,7 @@
   "author": "Dominik Mayer",
   "deck_building_id": "94e713f1c1f184e73a082487f65cd724657ffbec",
   "culture_invariant_id": 1168,
-  "sort_number": 1177,
+  "sort_number": 1176,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [
@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=ff489dbc7d42e8f0f00ea5ccbb64b1eacaa69f3c48a0223c7b27a8803fa5f1cb"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=ff489dbc7d42e8f0f00ea5ccbb64b1eacaa69f3c48a0223c7b27a8803fa5f1cb"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=f393889fafc736c4c783fe5aaa162616839d17f702d0965ba96ea3e6cc81c371"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=f393889fafc736c4c783fe5aaa162616839d17f702d0965ba96ea3e6cc81c371"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/5/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=ed2577fcb80bd88916c3365522b3e6c56c5bc839cd2af2b371cc8388a31fb942",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=ed2577fcb80bd88916c3365522b3e6c56c5bc839cd2af2b371cc8388a31fb942",
   "foil_type": "VerticalWave",
   "card_sets": [
     5

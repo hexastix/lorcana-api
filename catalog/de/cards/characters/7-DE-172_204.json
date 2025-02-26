@@ -1,0 +1,44 @@
+{
+  "name": "Lady Gluck",
+  "subtitle": "Beschützende Vertraute",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a1c520968878a4659e2e5283c4bb522936f0fa60",
+  "culture_invariant_id": 1605,
+  "sort_number": 1602,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet",
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.)",
+  "card_identifier": "172/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=0520a9ec2922248b4f84696d3fbe65beab94ae40841aaec56a09ab01bb1a3726"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=5000d9c5b45e5a1a52f9fc7e95115c4292abaed8409f2887f696c9f4b0d656cd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=bc8abfa331e9e388a65ecf2e7bbef5c5a929292212822e0629abb02e6df509b0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

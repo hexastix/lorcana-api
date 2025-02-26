@@ -9,7 +9,7 @@
   "author": "Mike Mu",
   "deck_building_id": "0a20b1d4aed57d1908ea2d27b2a70c90e2ff9be8",
   "culture_invariant_id": 797,
-  "sort_number": 807,
+  "sort_number": 806,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=9922460a02c56f5de5941bb548ee2b2af2aba71c387ec17e7ddc9bae0e47dcf7"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=9922460a02c56f5de5941bb548ee2b2af2aba71c387ec17e7ddc9bae0e47dcf7"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=8de8655c067386265b819d5b169d858fad1cc8f052a1c5f954816ca23ee64045"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=8de8655c067386265b819d5b169d858fad1cc8f052a1c5f954816ca23ee64045"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=7009aab2ba83e87186b65b94f57709d079da4e9b52500d31840cc5df57185fb1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=7009aab2ba83e87186b65b94f57709d079da4e9b52500d31840cc5df57185fb1",
   "card_sets": [
     4
   ],

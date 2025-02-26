@@ -5,7 +5,7 @@
   "author": "Devin Yang",
   "deck_building_id": "8b04c1aa6989c48cb5eff4b133824a7f25a7a517",
   "culture_invariant_id": 822,
-  "sort_number": 832,
+  "sort_number": 831,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=e64b6876ad34ddb4e8826ac53848303c48b967b3df4f597bc1274f8abb58094d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=e64b6876ad34ddb4e8826ac53848303c48b967b3df4f597bc1274f8abb58094d"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=c519066a1ebbb44e6af9364e2d878dd520784f3b345377e1cf8593d3d4077ea4"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=c519066a1ebbb44e6af9364e2d878dd520784f3b345377e1cf8593d3d4077ea4"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/4/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=fbccf5e2f503b3e50b1f3ee7424d3f28175cd00c6fa2be904713a8703bd1a1b8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=fbccf5e2f503b3e50b1f3ee7424d3f28175cd00c6fa2be904713a8703bd1a1b8",
   "card_sets": [
     4
   ],

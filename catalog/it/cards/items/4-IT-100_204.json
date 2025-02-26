@@ -5,7 +5,7 @@
   "author": "Jonas Petrauskas",
   "deck_building_id": "e6d57ae690cdbb13b3985f7a1f47b40c2fd61080",
   "culture_invariant_id": 791,
-  "sort_number": 801,
+  "sort_number": 800,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=497cad43bcb1805d64da5852788b05710eb56bb8c8fd5c07a5dff20cc0073e3a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=497cad43bcb1805d64da5852788b05710eb56bb8c8fd5c07a5dff20cc0073e3a"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=5e65a1214ce3e9d7a871ecd04447a903d16d306ca51a3e9d1c0ce7b4a4e35ef1"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=5e65a1214ce3e9d7a871ecd04447a903d16d306ca51a3e9d1c0ce7b4a4e35ef1"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/expansions/4/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b7eee5f6b64bda794fddb7072c04c5dea277a69c1b622e9cc05bd19590fdd071",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=b7eee5f6b64bda794fddb7072c04c5dea277a69c1b622e9cc05bd19590fdd071",
   "card_sets": [
     4
   ],

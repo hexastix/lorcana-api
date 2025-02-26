@@ -1,0 +1,33 @@
+{
+  "name": "Wiederherstellung von Atlantis",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Ricardo Caria",
+  "deck_building_id": "3a22bf1160fb323ece5b18abbcd5823cf6c9e990",
+  "culture_invariant_id": 1634,
+  "sort_number": 1631,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In Zeiten der Gefahr wählt der Kristall einen Wirt aus, von königlichem Blut, um sich und sein Volk zu beschützen.%–König Kashekim Nedakh",
+  "rules_text": "Deine Charaktere können bis zu Beginn deines nächsten Zuges nicht herausgefordert werden.",
+  "card_identifier": "201/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=cf8f350e9997468e5511c63e202283afdeda102d9da3e9e23760aa29fc076ced"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=01d46c475aa3db5f605021da924abe307800a25d8b5c509513cff18463063d23"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=21586004acafbef8b33a39658302035414df3da2d72604e099e099b9bdbff0a7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

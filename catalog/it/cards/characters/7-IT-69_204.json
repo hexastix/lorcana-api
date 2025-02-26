@@ -1,0 +1,45 @@
+{
+  "name": "Elsa",
+  "subtitle": "Creaghiaccio",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Ian MacDonald",
+  "deck_building_id": "f288eb233a11571c7c54690d782dcb3cf69e5c05",
+  "culture_invariant_id": 1502,
+  "sort_number": 1499,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Elsa.) MURO INVERNALE Ogni volta che questo personaggio va all'avventura, puoi impegnare un personaggio a tua scelta. Se lo fai e hai in gioco un personaggio chiamato Anna, il personaggio scelto non può prepararsi all'inizio del suo prossimo turno.",
+  "card_identifier": "69/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=f208fcd69755e673c41f9d1cb8147194ef27bcda9f51e3bfa733e194466ecc12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=acbe0cbab9b8ac06b574a6a1df08ab26f73eb4a4b825ab97f7538a19c7f55b77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=b34251184e26bf804b709a18ae1ae57667d28b115345f9eab991b638185b3880",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

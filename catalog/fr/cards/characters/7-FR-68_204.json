@@ -1,0 +1,45 @@
+{
+  "name": "Yzma",
+  "subtitle": "Au-dessus de tout",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "65f8813035775940d5c4911773a0ebf5c5f20342",
+  "culture_invariant_id": 1501,
+  "sort_number": 1498,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Yzma.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) AU BOULOT Chaque fois qu'un autre personnage est banni via un défi, renvoyez-le dans la main de son propriétaire, puis ce joueur se défausse d'une carte au hasard.",
+  "card_identifier": "68/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=f7e77fae6f89cce76b882ccbac1e23ec17a27355879bb15711b29ccce141ab14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=80347f87f5edd7945a665d37814ba8c043386c49b1e9801ca0f4f7542e5c5013"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=e10cc534316ea0a682c78fef5122c8ef9c74eca5b78171504977a437ffdbf71f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

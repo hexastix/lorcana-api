@@ -5,7 +5,7 @@
   "author": "Andrew Peña",
   "deck_building_id": "fd1f3ba849d2d59ce5e0e3e8c3e3e7a146685998",
   "culture_invariant_id": 790,
-  "sort_number": 800,
+  "sort_number": 799,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -16,14 +16,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=765ce87b4e69f0c6020ec0e4673e36e18245da008139040aaac6e4d82db61214"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=765ce87b4e69f0c6020ec0e4673e36e18245da008139040aaac6e4d82db61214"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=bc7cb79e5019c1c21fcb6ce77ae34102aeea5fcf25a4b462f9728fcdfa7dd653"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=bc7cb79e5019c1c21fcb6ce77ae34102aeea5fcf25a4b462f9728fcdfa7dd653"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/4/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a1e6df8f6f2676c9804354dab5e241cc7ef1b37d18cfa0bbd7d28ef27db9ebad",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=a1e6df8f6f2676c9804354dab5e241cc7ef1b37d18cfa0bbd7d28ef27db9ebad",
   "card_sets": [
     4
   ],

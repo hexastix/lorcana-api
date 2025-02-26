@@ -1,0 +1,33 @@
+{
+  "name": "Montre-m’en davantage !",
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1515,
+  "sort_number": 1512,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Réponds à mon appel, Ô trame du temps ! %Dévoile-moi l’avenir par bribes, par instants !",
+  "rules_text": "Chaque joueur pioche 3 cartes.",
+  "card_identifier": "82/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=9ba7874db71c31bd9e1a6e8aab5fdb96bc7e099cfb3369b8f32af4ec61981379"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=a86d8cf4d102e067ad1b0bd78765c9af55eb30b20b5f68518751ec522767e9ef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=7ec03cbf98b77ca0a7df187199c466ae17c5b161b2197d42a72ed0d6d3b7a825",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

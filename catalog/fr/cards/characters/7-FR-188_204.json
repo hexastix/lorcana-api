@@ -1,0 +1,40 @@
+{
+  "name": "Fa Zhou",
+  "subtitle": "Héros de guerre",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mel Milton",
+  "deck_building_id": "0569382cc56b9650bdb6db49b16d08e519dba845",
+  "culture_invariant_id": 1621,
+  "sort_number": 1618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Chaque piège que vous désamorcez, chaque épreuve que vous franchissez, nous honore tous. Excellent travail.",
+  "rules_text": "EXERCICES D'ENTRAÎNEMENT Chaque fois que l'un de vos personnages en défie un autre, s'il s'agit du deuxième défi de ce tour, gagnez 3 éclats de Lore.",
+  "card_identifier": "188/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=48e5a90091f9893e100d939e71b14d24a2f8e904bf80dd535255ba57ab81cf07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=23aab0c8f67725f4314e126accf8b95ffab01ca9f599e05a36577288a1d564c3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=a81808b495cca790f4d8112f0ace2eb443ddc2b0d6116187a5d42bbf54a76bf5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

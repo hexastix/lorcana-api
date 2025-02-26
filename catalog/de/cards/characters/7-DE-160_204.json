@@ -1,0 +1,40 @@
+{
+  "name": "Lucky",
+  "subtitle": "Der Jüngste im Wurf",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "e1e514a227339f3c439243177d0de9e17bd71e57",
+  "culture_invariant_id": 1593,
+  "sort_number": 1590,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "",
+  "rules_text": "FOLGE MEINER STIMME Jedes Mal, wenn dieser Charakter erkundet, schaue dir die obersten 2 Karten deines Decks an. Du darfst beliebig viele Welpen-Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.",
+  "card_identifier": "160/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=c76119c7fff0ce3f92e038063203fceaee3bf29d5e2c4699feed793e0a1d0127"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=f1adb97db70ff6741631bb41b4934c966dd537e867cb6230a720d21ad95b16ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=e4d09aadb49d59b536e0426ab64dbf7ce3897e91269cba5bd18657ba77caf88e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

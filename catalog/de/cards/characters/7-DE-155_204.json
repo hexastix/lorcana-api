@@ -1,0 +1,41 @@
+{
+  "name": "Leutnant Mattias",
+  "subtitle": "General von Arendelle",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "370ac9a4fe75cd66bd7260022d0a49e58bd67d78",
+  "culture_invariant_id": 1588,
+  "sort_number": 1585,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Ritter"
+  ],
+  "flavor_text": "Du musst schnell handeln, bevor die Falle wieder zuschnappen kann. Los!",
+  "rules_text": "BEREIT ZU BESCHÜTZEN Deine Königinnen erhalten Behütet. (Gegnerische Mitspielende können diese Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "155/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=c40a19151b13bb4943d2f805eea31f4cad2d02debc0eeddff19b94ce8afe5b6f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=32ce6fd578476d453998e31600b24ddbedfb16883160ac1ad0e39ec78b4a2c35"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=0cc5532ae6419dea36db392c05c61c29035cc648d6bbf078093c388dfa4c8ef1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

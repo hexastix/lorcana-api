@@ -1,0 +1,41 @@
+{
+  "name": "Madam Medusa",
+  "subtitle": "Diamantenliebhaberin",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Roger Pérez",
+  "deck_building_id": "8ec81683de9edc28cff895c40262318d9597be87",
+  "culture_invariant_id": 1486,
+  "sort_number": 1483,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "SUCHE IM SUMPF Jedes Mal, wenn dieser Charakter erkundet, darfst du einen deiner Charaktere wählen und ihm 2 Schaden zufügen, um eine mitspielende Person zu wählen. Diese legt die obersten 3 Karten ihres Decks auf ihren Ablagestapel.",
+  "card_identifier": "53/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=2cc1de18a3837c04beebf2d151afcf8aaaed9f53d2c6213a6ba545620b790a2b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=811ab463efed91c1cfcd2beb2956cd3cd68c7218910118483732d65150617deb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=769e239ac77fa55e916b80885d4d93176cc87e4603568f611d30100eff8ee5ab",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

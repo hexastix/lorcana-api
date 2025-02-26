@@ -1,0 +1,42 @@
+{
+  "name": "Merlin",
+  "subtitle": "Enchanteur clairvoyant",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Cam Kendell",
+  "deck_building_id": "ad1a7bee1bba63c46df4b6db68b78cba15608661",
+  "culture_invariant_id": 1500,
+  "sort_number": 1497,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRESTIDIGITONIUM Chaque fois que ce personnage est envoyé à l'aventure, nommez une carte et révélez la carte du dessus de votre pioche. S'il s'agit de la carte nommée, placez-la dans votre réserve d'encre, face cachée et épuisée. Sinon, replacez-la sur votre pioche.",
+  "card_identifier": "67/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=2cf1878c3ca51791e6439b9afc25de7b8435354b7e51e9e81e247e85a9b7c343"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=94f2bf25bdc2b3ba4cadbe28143cc16977dae05c84abaadfdec6c736af26bcd0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=bdfff07e28f849c2c6f032786168cf359ac0e7f1de433b1c3d78c5f92858ead7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

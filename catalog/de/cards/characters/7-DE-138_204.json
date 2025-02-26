@@ -1,0 +1,41 @@
+{
+  "name": "Maurice",
+  "subtitle": "Unkonventioneller Erfinder",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Andy Estrada / Greg Shrader",
+  "deck_building_id": "6698a30b59037423babb442467706c9fb7964d3a",
+  "culture_invariant_id": 1571,
+  "sort_number": 1568,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "WIE IST DENN DAS PASSIERT? Wenn du diesen Charakter ausspielst, darfst du einen deiner Gegenstände wählen und verbannen, um 1 Karte zu ziehen. Wenn du so Maurice’ Maschine verbannst, darfst du außerdem einen Charakter deiner Wahl mit 2 oder weniger verbannen.",
+  "card_identifier": "138/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=2e57630c8e482c1171ff38e97eff2f1f76d4ce6c3e84fa890de2b6d86e283bff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=88ebfa9fc38459efcdeaf72d27e0fb820bcf78c2bbc85c7e0262d628f136760a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=db566f2aea96b1783478d104842fdaf72748602c1bdd59ac3f2d088c2b59b438",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

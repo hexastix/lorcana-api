@@ -1,0 +1,33 @@
+{
+  "name": "Saphir-Reif",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "2edc5c6a2d242205e70f3764dd61ae550d2a771d",
+  "culture_invariant_id": 1612,
+  "sort_number": 1609,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ein einziger Lichtblitz von dem Reif an Venturos Bein konnte jeden Feind blenden.",
+  "rules_text": "STRAHLENDER GLANZ Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du einem Charakter deiner Wahl in diesem Zug -2 geben.",
+  "card_identifier": "179/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=413f3fa4857f5dde7731afe0e4bf48ee998d43e211f46bc3a2481dc45e0bd1cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=a94edf9daea2cc374525921e6dfae6904d83634ffaa49970c7cd940879f8dece"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9e44d2771c052d44058245eda6cb334689ca78cc.jpg?checksum=cb08893a1126647ef1efa50d8df38979d431646faa7feda6cdce6e14e53e17a8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Sucht nach Führung",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Maxine Vee",
+  "deck_building_id": "c3ed1b6beca0a36c4bdc370e94c2f7665523f104",
+  "culture_invariant_id": 1619,
+  "sort_number": 1616,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "EIN GRÖSSERER ZWECK Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, erhält dieser Charakter bis zu Beginn deines nächsten Zuges Robust +1. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "186/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=a37a1a4f02e9019748cfcdc6791986bf2b04fe0e05ad08e2a1633dc6f36d7f91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=5b301fa5bd24d7485d9decbc9075f1b5b60e6a2cf0ceaef52a26b7cd72eea65e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=67ea47fa714df0e87ec60ad9e5e3edefb0fc0f5e856688beaa04fb25c8eea515",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

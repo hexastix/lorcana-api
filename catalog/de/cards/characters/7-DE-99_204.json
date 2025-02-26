@@ -1,0 +1,40 @@
+{
+  "name": "Berlioz",
+  "subtitle": "Schelmisches Kätzchen",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Geoffrey Boudout",
+  "deck_building_id": "d4b9105cacdcfd93cf2692d519305a5fa5e8e03b",
+  "culture_invariant_id": 1532,
+  "sort_number": 1529,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Schau, was ich gefunden habe! Können wir hierbleiben und spielen?",
+  "rules_text": "",
+  "card_identifier": "99/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=ca656f2b6071d7bf6e211f2725b4f0ac9fee6f94c1d82415a8395ea6c478b4b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=6f86bd701e4c18355202a5ed425c96c6cf2e9ed732df0207c2d36358d36d5399"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=1f4da516784d9340db602e0b98092e57e30a89d0e3ab4236a87a4fc9e121995a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

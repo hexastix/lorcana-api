@@ -9,7 +9,7 @@
   "author": "Aristeidis Zentelis",
   "deck_building_id": "5e86a95c6d5233fcd709d4134f62d1bdc511f8d1",
   "culture_invariant_id": 1273,
-  "sort_number": 1272,
+  "sort_number": 1271,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2cbccc9d819713acdfa2227423183b182741e50d3607a3169c37147571f8a239"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2cbccc9d819713acdfa2227423183b182741e50d3607a3169c37147571f8a239"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=6c4f47926a53900f1de20f758d8584a290544be59f2bc2d83d418f967b5b83ba"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=6c4f47926a53900f1de20f758d8584a290544be59f2bc2d83d418f967b5b83ba"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/expansions/6/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=02793fead4b2bf9558089f453deb51972030252398de78845ce06bda246cee9e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=02793fead4b2bf9558089f453deb51972030252398de78845ce06bda246cee9e",
   "card_sets": [
     6
   ],

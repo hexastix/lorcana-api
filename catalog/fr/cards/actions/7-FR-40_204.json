@@ -1,0 +1,36 @@
+{
+  "name": "La Famille Madrigal",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "420231f6bb1e6544dc1575a7d7d4334232698cfb",
+  "culture_invariant_id": 1473,
+  "sort_number": 1470,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 5 ou plus pour chanter cette chanson gratuitement.) Regardez les 5 premières cartes de votre pioche. Vous pouvez révéler jusqu'à 1 carte Personnage Madrigal et 1 carte Chanson parmi elles. Placez les cartes révélées dans votre main. Placez les autres cartes sur votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "40/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=862ac70213a7c49799727b860ee6a163507ac2e9a3344dc7881769ef9c55b47c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=72aabcb19ec1708fe277c6c3a8ea863ffa97823f47c20e96473295ec39b79b7f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=58bd8de2e3b3e9229c27eea1430c88c1f1f403e9e51d9606484d2d5e3d1ec1ea",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

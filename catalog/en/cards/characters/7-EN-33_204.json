@@ -1,0 +1,41 @@
+{
+  "name": "Snow White",
+  "subtitle": "Fairest in the Land",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Mario Manzanares",
+  "deck_building_id": "f66e2e1e500d2d759c8dcd4fdeafbf1831613d78",
+  "culture_invariant_id": 1466,
+  "sort_number": 1463,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "A true heart can thwart many an evil scheme.",
+  "rules_text": "HIDDEN AWAY This character can't be challenged.",
+  "card_identifier": "33/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=da70dab57abd9a092f602119b17e55d23c22c5da80cc81eed303643d9b466f56"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=d79ff3ee21b9a36883cebfb7dc94d98c1f50c3609d2223d1b6edf7296b500a81"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=eb1e2f5633629248e30f50863fd5a1890800de8f7587dd01a9cdc00899c26828",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

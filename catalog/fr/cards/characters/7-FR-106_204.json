@@ -1,0 +1,43 @@
+{
+  "name": "Fidget",
+  "subtitle": "Chauve-souris furtive",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cfdd9e04d6917aac14c9f8b2e100a587bf16ce09",
+  "culture_invariant_id": 1539,
+  "sort_number": 1536,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) J’AI TOUT CE QU’IL VOUS FALLAIT Chaque fois que ce personnage est envoyé à l'aventure, choisissez un autre de vos personnages qui gagne Insaisissable jusqu'au début de votre prochain tour.",
+  "card_identifier": "106/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=05481b534c16fce235ba70d5c1e57a207e778d92623f5440d0e1ae9d5faa8bad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=c227340d3fd09d887cc26206cb9140947a46f5d77a3a31bdf0b2308a330b37ca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=c051950064a50f66a5290d5e78acfe6acf70374ad117616679b7d00c4b181346",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

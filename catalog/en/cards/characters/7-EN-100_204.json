@@ -1,0 +1,40 @@
+{
+  "name": "Lady",
+  "subtitle": "Elegant Spaniel",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sara Leal (Loyal)",
+  "deck_building_id": "934805edfc939c3c6e92fa8b34aca79d34855421",
+  "culture_invariant_id": 1533,
+  "sort_number": 1530,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Are you sure we’re allowed in here? Jim Dear would never allow me in the kitchen.",
+  "rules_text": "A DOG'S LIFE While you have a character named Tramp in play, this character gets +1.",
+  "card_identifier": "100/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=103a18a8e1499f055f7b6c4f37ffb3e7e2e26399bcf1ae34490eb6de6d406c55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=afb41c818a4e8d2ad75916aa210fee62e01a2473a01ddc894b8a9bf5621d3e64"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=a24db59c41c2c08d1b49cf4b3105783c7d4f7c285b58885dbe596290528a8562",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}
