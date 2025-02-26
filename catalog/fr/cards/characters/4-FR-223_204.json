@@ -1,6 +1,6 @@
 {
   "name": "Yen Sid",
-  "subtitle": "Puissant Sorcier",
+  "subtitle": "Puissant sorcier",
   "strength": 1,
   "willpower": 3,
   "quest_value": 1,
@@ -19,7 +19,7 @@
     "Mage"
   ],
   "flavor_text": "",
-  "rules_text": "INTERVENTION OPPORTUNE Si vous avez un personnage Balais Magiques en jeu lorsque vous jouez ce personnage, vous pouvez piocher une carte. ÉTUDE ARCANIQUE Tant que vous avez au moins 2 personnages Balai en jeu, ce personnage gagne +2.",
+  "rules_text": "INTERVENTION OPPORTUNE Lorsque vous jouez ce personnage, si vous avez un personnage Balais magiques en jeu, vous pouvez piocher une carte. ÉTUDE ARCANIQUE Tant que vous avez 2 personnages Balai ou plus en jeu, ce personnage gagne +2.",
   "card_identifier": "223/204 FR 4",
   "image_urls": [
     {
