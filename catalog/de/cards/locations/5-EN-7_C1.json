@@ -1,0 +1,39 @@
+{
+  "name": "Elsa's Ice Palace",
+  "subtitle": "Place of Solitude",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Wietse Treurniet",
+  "deck_building_id": "bf43fd7fefe1c9af6f81222844d80806e88a2f61",
+  "culture_invariant_id": 1197,
+  "sort_number": 1197,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ETERNAL WINTER When you play this location, choose an exerted character. While this location is in play, that character can't ready at the start of their turn.",
+  "card_identifier": "7/C1 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=1ab31b06a5e1a21d57dc7bef2b75e4f9a4b1de3494eeb719e6fa0d1d9ffbe3ff"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2e491090fa455319bff5805b80d28395102d334727fd6b2404b1962c3c14d6f2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=b2a6f6071885baebb340e1240ce594277bdb2a8827f687e991efa5888596f497",
+  "special_rarity_id": 4,
+  "foil_type": "Tempest",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Armored Companion",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "8b5b13c2943342369d72422e5cc509b8583ffe42",
+  "culture_invariant_id": 1664,
+  "sort_number": 1430,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "THE TREATMENT IS WORKING When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way.",
+  "card_identifier": "9/C1 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=d7f76cad8bef50a377796e48661657c0194ec8086e70673544deb8a4b3c6e32e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=1d43cf88a3135659a2009f667d320b96b9a3aac666db8c775060a9cd674cecae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=e50200ffeef1fee03699c1998d47d3ec116729e8c2d2b0d4b01278e82ec538a0",
+  "special_rarity_id": 4,
+  "foil_type": "Tempest",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Invited to the Ball",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Taraneh",
+  "deck_building_id": "131285f868d7a8dcc13be15bf7ce5a95fa706fa1",
+  "culture_invariant_id": 1196,
+  "sort_number": 1196,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the bottom of your deck in any order.",
+  "card_identifier": "6/C1 EN 5",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=65af5025d0c167a84073bd59627c07d2743fbad18a68cd9124b37aec2881e5ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=1e008c7cece6cef11f77cc321d184627f7448b5a9c065033ca6eb525d1d8aa8e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=fe8db59e18238e6885ee0341f1bcfa4f2b8f52775c55c8bf926f340e84c22370",
+  "special_rarity_id": 4,
+  "foil_type": "Tempest",
+  "card_sets": [
+    5
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}
