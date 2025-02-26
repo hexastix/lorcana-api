@@ -99,6 +99,13 @@
   ],
   "news": [
     {
+      "title": "Mise à jour",
+      "subtitle": "En apprendre plus",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/02_/2025-2-app-update",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+    },
+    {
       "title": "Anna Stosik",
       "subtitle": "Cartes Enchantées",
       "target_type": "WebPage",
@@ -118,13 +125,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/story/azurite",
       "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "Mise à jour",
-      "subtitle": "En apprendre plus",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/set6-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=e7a1fbdd8e1e604bf97d8deeef96ae867c10a17f40bf9a82ffcb90c5515bf065"
     },
     {
       "title": "Nouveau Set…",
