@@ -1,0 +1,42 @@
+{
+  "name": "Belle",
+  "subtitle": "Auszubildende Erfinderin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jochem van Gool",
+  "deck_building_id": "66089bac792b605815e7eb1bf3d028980fa7039a",
+  "culture_invariant_id": 1592,
+  "sort_number": 1589,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin",
+    "Erfinder"
+  ],
+  "flavor_text": "Sie hilft ihrem Vater, die herumfliegenden Trümmer auf ein Minimum zu reduzieren.",
+  "rules_text": "WAS FÜR EIN CHAOS In deinem Zug kannst du einen deiner Gegenstände wählen und verbannen, um diesen Charakter kostenlos auszuspielen.",
+  "card_identifier": "159/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=78df27bacd5fe882cdbd5a69197fb1abe1905db4afde019cbfe0f7594009bee7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=902bbf62f56335030d9889ff2e4d1c6717f7b50f85f4b20476309f0db5923586"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=39ab99edd53726d82c2fee1db4c4716e597d7a385c509ddc89a9bf5902213766",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

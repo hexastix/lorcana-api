@@ -1,0 +1,41 @@
+{
+  "name": "Clochard",
+  "subtitle": "Chien débrouillard",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "1e70debf71c03c6a1973a11689057dde2fe76b95",
+  "culture_invariant_id": 1443,
+  "sort_number": 1440,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA FÊTE, C'EST MAINTENANT Jouer ce personnage vous coûte 1 de moins pour chaque personnage que vous avez en jeu. ON PICORE ? Lorsque vous jouez ce personnage, vous pouvez piocher une carte pour chaque autre personnage que vous avez en jeu. Ensuite, défaussez autant de cartes que vous en avez pioché.",
+  "card_identifier": "10/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=45210baba1377c1b25a1ddcfd17cbd85671813a1d575057103049882121ba33d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=9d38772dd9e9a680f9ccc0daadbfdc78aa23c951d84d5383745844ecedfbd42e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=6d37cd0c5a10bd8208349a1ac30a07b803b30413bd5bee5bd4e48e709243e03e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

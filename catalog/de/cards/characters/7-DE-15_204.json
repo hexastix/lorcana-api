@@ -1,0 +1,41 @@
+{
+  "name": "Cinderella",
+  "subtitle": "Die Richtige",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Tania Soler",
+  "deck_building_id": "314a16eb5a595cf0c7fefa00777939b5e367ef18",
+  "culture_invariant_id": 1448,
+  "sort_number": 1445,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "Seht, ich hab’ den anderen Schuh.",
+  "rules_text": "WENN DER SCHUH PASST Wenn du diesen Charakter ausspielst, darfst du 1 Der-gläserne-Schuh-Gegenstandskarte aus deinem Ablagestapel unter dein Deck legen, um 3 Legenden zu sammeln.",
+  "card_identifier": "15/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=eed4bb6a204be75cb94c2dcacb038c1c536a52fb8f3fc8ffc9139a965b7841a9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=1ca7f332b8c95c7059959e593d33e50d443678fd7937fca77109d74b5a2a0a09"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=489fd724605605f3d3ec74689d2f10b14fba3be733c371371df102b158641828",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

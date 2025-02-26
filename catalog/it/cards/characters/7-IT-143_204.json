@@ -1,0 +1,42 @@
+{
+  "name": "Rattigan",
+  "subtitle": "Efferato Criminale",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Max Ulichney",
+  "deck_building_id": "1f72b455c62ec192fa0b46a65aa7a58a6ff89147",
+  "culture_invariant_id": 1576,
+  "sort_number": 1573,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Perché fermare lo spettacolo quando puoi semplicemente rubare la scena?",
+  "rules_text": "UNA SPLENDIDA INTERPRETAZIONE Ogni volta che giochi un'azione mentre questo personaggio è impegnato, ottieni 1 leggenda.",
+  "card_identifier": "143/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b152690f78c34b68f1f11eefbd46600f582e166c65ba92f8a0d95dae9eeca42b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=96f972dc900066d3ebcfec4cb66c19f2e5807cc78c20b9a0547418c086b8a728"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=bf2de6c2cb5eb73bed2aab8453cbc92b4d23e98a0442802d2ba350a4fd9ba531",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b3d2381956d9598119a0d9976f82e7a379b5b0ffb95bad76e336e1b7103e3332",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

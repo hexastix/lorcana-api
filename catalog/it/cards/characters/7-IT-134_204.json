@@ -1,0 +1,43 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Esploratrice dell'Isola",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jackie Droujko",
+  "deck_building_id": "e4393d614409dae5df4ecdd00e5bd3f488227461",
+  "culture_invariant_id": 1567,
+  "sort_number": 1564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) SPIRITO AVVENTUROSO Ogni volta che questo personaggio sfida un altro personaggio, un tuo altro personaggio a tua scelta riceve +3 per questo turno.",
+  "card_identifier": "134/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=5f25090ee1bbf5bec59d34aba3608a213db25781259af17c3ca2303bbc84f8d3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=0e8300fad7027bcceda2b15daa9217ae7d5f7a95590bdeebe3713171467fd9e2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=d5a57e5c42463c311093a46d91eec1bf81d10ccf355d559ecac0638c3ce847d0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

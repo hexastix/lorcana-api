@@ -1,0 +1,41 @@
+{
+  "name": "Perdita",
+  "subtitle": "Mère joueuse",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cécile Carre",
+  "deck_building_id": "3435d99659b2cfcde044628324d37c6c5fa17c57",
+  "culture_invariant_id": 1435,
+  "sort_number": 1432,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "À QUI LE TOUR? Chaque fois que ce personnage est envoyé à l'aventure, le prochain personnage Chiot que vous jouez ce tour-ci vous coûte 2 de moins. N'AIE PAS PEUR Vos personnages Chiot gagnent Hors d'atteinte. (Les adversaires ne peuvent pas choisir ces personnages, hormis pour un défi.)",
+  "card_identifier": "2/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=7bc4bb6139d56d1696c7bfedc37e3cd652d7cc3ff9ec67449b56c4560cff81a3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=d36bd8da36144927e3d8194e54db386f244f39e47c6e19d3b68e3cb693706b5d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=492c8c15c374127023b2dc1e37bc3b8c3f5cff44bed886a7e16682ffbd0310ae",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

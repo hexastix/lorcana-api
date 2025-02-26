@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Band of Pirates",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "968fb5547e711a20578bb568ded5ae7b8bffbf73",
+  "culture_invariant_id": 1625,
+  "sort_number": 1622,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "They’re... kinda cute. —Moana",
+  "rules_text": "SHOWBOATING While you have another Pirate character in play, this character gains Challenger +3. (While challenging, this character gets +3.)",
+  "card_identifier": "192/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=931c7b63aadfa60e5e3a51b681f06eee0a9265310000953abe9d1772b4bb41b9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=7286c152cc3e218da095fe7149cfc85db7609af4c0cc712ba74e1837a30ce45b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=f29a4b375f7a876ba2a0803d2c2f209244b83f5762013439d4d5ab158f4b7ae7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

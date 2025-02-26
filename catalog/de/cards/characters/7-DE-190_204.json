@@ -1,0 +1,41 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Aufstrebender Herrscher",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "César Vergara",
+  "deck_building_id": "ac6a2901f00291b5613e65f0a4c17baf9607964c",
+  "culture_invariant_id": 1623,
+  "sort_number": 1620,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Endlich gehören beide Hälften der Krone mir!",
+  "rules_text": "SO IST ES BESSER Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Herausfordern +2. (Während der Charakter herausfordert, erhält er +2).",
+  "card_identifier": "190/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=686768332646dc16995f08f76bdc498c0878c9e13d074afe76eed0255687330c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=209203ae9a1f463c173b75d90226d10a2350f829a69f3e7c1c0d39e6b65b75a5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=b5460ff4a23352533f22c84ab380de2b74db9c3e6074d3901252f223ea4e5eb9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

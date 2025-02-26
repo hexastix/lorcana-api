@@ -1,0 +1,41 @@
+{
+  "name": "Basil",
+  "subtitle": "Informatore Segreto",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "4db0a324dcb5d1ff69156dfa4c107253863062c3",
+  "culture_invariant_id": 1526,
+  "sort_number": 1523,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Detective"
+  ],
+  "flavor_text": "L'ultimo pezzo della corona! Jafar sarà soddisfatto.",
+  "rules_text": "ATTIRARLI ALLO SCOPERTO Ogni volta che questo personaggio va all'avventura, i personaggi danneggiati avversari ottengono Attaccabrighe durante il loro prossimo turno. (Non possono andare all’avventura e devono sfidare, se possibile.)",
+  "card_identifier": "93/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=baac11955a8e3856c5e0ab876ef97e802d1ce1a86d4add2acc70f71f2080d537"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=4bcf2317349f430ce51a10df80f3b11eeb689b22ab5e69540df71400ae8d4a81"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=2b9db436ea6f07251d96670d8ccb596f168d22aa1ad15c5ae1373a21b3142723",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

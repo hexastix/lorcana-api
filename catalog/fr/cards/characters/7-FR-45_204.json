@@ -1,0 +1,40 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Provisoirement en baleine",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luca Pinelli",
+  "deck_building_id": "8a16f3c83a53236d523529bacad2e9c79e60b668",
+  "culture_invariant_id": 1478,
+  "sort_number": 1475,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "SANS COMMENTAIRE Une seule fois durant votre tour, lorsqu'une carte est placée dans votre réserve d'encre, vous pouvez choisir un personnage, un objet ou un lieu coûtant 2 ou moins et le renvoyer dans la main de son propriétaire. Ce joueur pioche ensuite une carte.",
+  "card_identifier": "45/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=d12052352d08d8cfc2f1a404bf68ebe5656b1ff082566d75a0a6411fac274bf5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=2a79f9c8573ad2b42bcd4a6d1bb54d8a01d897b4a2485c40855978aefc177079"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=c063e375273ff5f6fe66995b7a4718fa70c83ca9bf6bc189b56b33a41f9aa1bb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Penny l'Orfana",
+  "subtitle": "Bambina Intelligente",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Otto Paredes",
+  "deck_building_id": "687a88406aa8c1ed46674b0056434598500a6808",
+  "culture_invariant_id": 1604,
+  "sort_number": 1601,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Penny, cara, non piangere. Siamo qui per aiutarti.%—Miss Bianca",
+  "rules_text": "LA BOTTIGLIA HA FUNZIONATO! Mentre hai in gioco un personaggio Eroe, questo personaggio ottiene Protetto. (Gli avversari non possono sceglierlo se non per sfidarlo.)",
+  "card_identifier": "171/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=8342b097bfea734c0b49e6f352178d21cff51b83acb0262e5a82885c66fa011b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d51e6ee3774f85abcde31b3e5ddbefee654b7d108f64878def3d970a50e89409"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=023a1456b5f751f8aeb6a105c59cbfbca30b7c8785aac1fcbe0b410b1c768523",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

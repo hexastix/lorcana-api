@@ -1,0 +1,41 @@
+{
+  "name": "Basil",
+  "subtitle": "Geheimer Informant",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "4db0a324dcb5d1ff69156dfa4c107253863062c3",
+  "culture_invariant_id": 1526,
+  "sort_number": 1523,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Detektiv"
+  ],
+  "flavor_text": "Der letzte Teil der Krone! Dschafar wird sich freuen.",
+  "rules_text": "LOCKE SIE HERAUS Jedes Mal, wenn dieser Charakter erkundet, erhalten gegnerische beschädigte Charaktere in ihrem nächsten Zug Impulsiv. (Sie können nicht erkunden und müssen herausfordern, wenn möglich.)",
+  "card_identifier": "93/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=886a7f742b10443ab3ce1eff319a8518a446b3405cf6fffc85d67c3876af0d7c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=436ff1471c966d69ed982d35f204b05eb424613cd4d63d29068aba3cc5658502"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=ab84cda793ab0c1e06b465af25fc1e97033ab48aa0337b6a29b419cf10becdb6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

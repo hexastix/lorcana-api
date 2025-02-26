@@ -1,0 +1,42 @@
+{
+  "name": "Jasmin",
+  "subtitle": "Inspirierte Forscherin",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "10b04e532f811271010fabf5d712bcce0f547d7a",
+  "culture_invariant_id": 1606,
+  "sort_number": 1603,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "Oh, das ist wunderbar! Ich <wusste>, dass Archazias Gedankenschriftrollen eine kleine zusätzliche Anstrengung wert sein würden!",
+  "rules_text": "ZUSÄTZLICHE UNTERSTÜTZUNG Jedes Mal, wenn dieser Charakter erkundet, falls du keine Karten auf der Hand hast, ziehe 1 Karte für jeden Verbündeten, den du im Spiel hast.",
+  "card_identifier": "173/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=376291d53e2f2d15fcca1c58cc209ab9fe1e6a724af13c3e654d2f44f829b3e9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=455e1790c10aaf713ee7884b13b978edaadf0b9ca30b7294834a2e760c68d610"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=15988755459ff9a5fa0fedb9beb1b152d5797cd433dc6d5b377b0f7ce18a5eb8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

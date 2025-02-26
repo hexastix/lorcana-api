@@ -1,0 +1,41 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Fama Trovata",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Beatrice Blue",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1652,
+  "sort_number": 1649,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "INCREDIBILE COLLEZIONE Quando giochi questo personaggio, riprendi in mano fino a 2 carte oggetto dai tuoi scarti. IO SONO IL PIÙ BELLO, BABY! Ogni volta che questo personaggio va all'avventura, puoi giocare un oggetto gratis.",
+  "card_identifier": "219/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=d720009fea1aa89e386c3ba126dca67995dea20e01d604d9bf30e8ca6e2e2a49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=04c0c14e2d915b9f077e4661c46c2d8c20627823443c03d5c4c0577ef11a429b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=b2ff283ecb74f48c159f7ecd0523d975b6d1a2ef6d25211ffaaf356e754c19cc",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

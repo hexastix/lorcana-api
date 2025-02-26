@@ -1,0 +1,40 @@
+{
+  "name": "Tanana",
+  "subtitle": "Stammesälteste",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "807b7d0d2a91ae411ae70464452df3a5a6b60498",
+  "culture_invariant_id": 1479,
+  "sort_number": 1476,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Dies ist ein Ort des Wunderns und Lernens. Hört auf die Eule und seht, was sie euch lehren kann.",
+  "rules_text": "",
+  "card_identifier": "46/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=cd1fb473013d770e71dbe5193172e932e6cffb92078d097a73dcd33246bffaed"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=7fd2a9df7d6f8aa34a671c9104217960ff7e4ce08bc8f4d56a9a561c101e9112"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=1c23fcbea200cfd476da9af24e6159370fe5f6ad2307c0a37844423869169a83",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

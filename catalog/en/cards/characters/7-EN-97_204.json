@@ -1,0 +1,42 @@
+{
+  "name": "Yokai",
+  "subtitle": "Intellectual Schemer",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diogo Saito",
+  "deck_building_id": "2065122bd47f279ddd80c1814074e29a04edb565",
+  "culture_invariant_id": 1530,
+  "sort_number": 1527,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Inventor"
+  ],
+  "flavor_text": "In the hands of a lesser person, this much power would be irresponsible.",
+  "rules_text": "INNOVATE You pay 1 less to play characters using their Shift ability.",
+  "card_identifier": "97/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=ddd762badc2a5423ca8b4adce87564e64d1b1f37d5084dc1c51f6f383b344c9e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=79d0531cbdb93d02529925dc9f271acb92886c63e2718c68c1e3cce3d94de467"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=520d9cd34fb9e24879a9a76a00076f6fb57e0b5b444fa188135c8275e033694d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

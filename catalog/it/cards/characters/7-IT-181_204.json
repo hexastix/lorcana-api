@@ -1,0 +1,40 @@
+{
+  "name": "Dr. Calico",
+  "subtitle": "Uomo dall'Occhio Verde",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "6e241493e0ee6543ecca03f5f5e315161367b063",
+  "culture_invariant_id": 1614,
+  "sort_number": 1611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Tutto si sta mettendo per il meglio.",
+  "rules_text": "COSÌ MI FARÀ IRRITARE Mentre questo personaggio non ha danno, ottiene Resistere +2. (Il danno che gli viene inflitto è ridotto di 2.)",
+  "card_identifier": "181/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=46db9904c6f3d2311e8972d5b033cb2213110fe676eef5cbde02e43ed3a10f49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=92ad5afd47b23462a62a308bb7e989bcdc05fe2db36cd51da6d1ca9b0cd5e52f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=e87e23d0599a3236b60516b4c8c5b34aae1f4aaffe19ee0e963c5677d7da8a95",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

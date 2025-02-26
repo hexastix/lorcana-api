@@ -1,0 +1,41 @@
+{
+  "name": "Donald",
+  "subtitle": "Pirate plein d'entrain",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "João Moura",
+  "deck_building_id": "9c7d800c6c0e522c7c7224a1dfb5b79bcac0edee",
+  "culture_invariant_id": 1531,
+  "sort_number": 1528,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate"
+  ],
+  "flavor_text": "À vos ordres, Capitaine! Je m'en occupe.",
+  "rules_text": "CANARD D’ACTION Chaque fois que ce personnage est défié, vous pouvez renvoyer une carte Action qui n'est pas une chanson de votre défausse dans votre main.",
+  "card_identifier": "98/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=3244e13c109cb67ace02f6958887b0af6cc50bc21b24b8d1b3eeeccc376d4969"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=3da6ca08f09c0bd3a6ac5e573817c89dec55f4abf4befaa3a4199b5496c8e5ca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/31bd9b9f5f7b338e41b56183a2f3008b541d7c84.jpg?checksum=979d5e3e6db389c99ff993f3da92e9595eb4df20bb67f4bb86117e9d21334d11",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

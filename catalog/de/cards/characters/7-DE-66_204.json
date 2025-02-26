@@ -1,0 +1,44 @@
+{
+  "name": "Diablo",
+  "subtitle": "Boshafter Rabe",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "f1e14998918b85b112c9a5038a782041079b1e7d",
+  "culture_invariant_id": 1499,
+  "sort_number": 1496,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.)",
+  "card_identifier": "66/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=f2bafd04b56ec0da7ab78b2cfcfe32b2a9a73ac5ea66f3222cd70ec7abe930bd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=12ab99d6c4b7a2034fd0c2b6a8125c2b2a9f9a7b746c448b894e070df1cf3013"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=445d98a90cb57822dc040454868a7823cc4d836a949df3ea41d49873a22ff7c5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Creatura della Notte",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "f8c82e67f89c9ff310443e3e85dd847673575b7e",
+  "culture_invariant_id": 1483,
+  "sort_number": 1480,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "ECCESSI DI MEZZANOTTE Quando giochi questo personaggio, ogni avversario sceglie e impegna uno dei suoi personaggi preparati. Non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "50/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=f1a59102980056484c462cd04c3d3f358094c6e3ef0bc394f3c584df49ad4bdd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=cc73837ccd92eef517a0920deca3127a866c5270a57eb6e2614acf53f97f414b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=711ea7e222aeb59612820783c536d6b15ac1afdfefcdbf62eec7c5e2f5a9497d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

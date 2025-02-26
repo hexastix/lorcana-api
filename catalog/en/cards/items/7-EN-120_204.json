@@ -1,0 +1,33 @@
+{
+  "name": "Emerald Coil",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "f9a952d88bbccdde151f68df4d1cfc77395426cf",
+  "culture_invariant_id": 1553,
+  "sort_number": 1550,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The coil Martin wore lifted his spirits as well as his body.",
+  "rules_text": "SHIMMERING WINGS During your turn, whenever a card is put into your inkwell, chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "120/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=377c9808d62a3f50f9121f4ed84cb1bd74527ef7ea24eaab62a64c7d55c0e2ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=c703d9b1992969ff0d86b59b9fb4b4c994d87599360cba3d09bfbca3fcec887b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=f61af0198c95807d3f85fa393f254c5f5e116bb04e372dc6b1384b4b8e08c7a6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

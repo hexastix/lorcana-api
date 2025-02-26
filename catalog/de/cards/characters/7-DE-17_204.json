@@ -1,0 +1,41 @@
+{
+  "name": "Candlehead",
+  "subtitle": "Engagierte Rennfahrerin",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kapik",
+  "deck_building_id": "735997cb2d2bb3550d9657a45ff6656a73b7c2eb",
+  "culture_invariant_id": 1450,
+  "sort_number": 1447,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "GEWINNEN IST NICHT ALLES Wenn dieser Charakter verbannt wird, darfst du bis zu 2 Schaden von einem Charakter deiner Wahl entfernen.",
+  "card_identifier": "17/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=5c38bc65b4f1998e8974fdf65f76281a7091587ef7914ebb5373091666a7ac9a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=447024dea8d0c9a054fedf79881bbe8af0bf4f1793c31ebac0cca9a5e86c72c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0716d9708d321ffb6a00818614779e779925365c.jpg?checksum=375c2bd687999752469a22c6ee77ee6761426b92e851f2ceb20a072b97255265",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Toby",
+  "subtitle": "Dogged Companion",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "2ce68e33c28129fa66e9ff6b4fa8385224fc0ea4",
+  "culture_invariant_id": 1564,
+  "sort_number": 1561,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Toby has the most splendid sense of smell of any hound I’ve trained. But he can be deucedly frisky. —Basil",
+  "rules_text": "",
+  "card_identifier": "131/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=dde96998c4ca57f495facdaa190013759ec2c63acce8ef1474fb5c20235417c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=39f1bad7b5396ef992a9b94e36f1c8c501ec0f66312c09eb7de63a71a051d6b5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=8ad6911153e61ae8761b4e75d9386fd273024b4f83fb9993c3907795cff915d8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

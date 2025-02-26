@@ -1,0 +1,44 @@
+{
+  "name": "Diablo",
+  "subtitle": "Spiteful Raven",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "f1e14998918b85b112c9a5038a782041079b1e7d",
+  "culture_invariant_id": 1499,
+  "sort_number": 1496,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger",
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) Challenger +2 (While challenging, this character gets +2.)",
+  "card_identifier": "66/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=e1b1cf91d15464fb18ea6122c11e2dc41f58e97bf3a59f7b3011258603accfa5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=db8b198dfd99f5b7344214a714745f513ef47350f2c0320e4f989fa58cf45d32"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=ac3aace5d4fabd52746a2c5653264c34e97bd90b9a6b5531853aa8c301d301a5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

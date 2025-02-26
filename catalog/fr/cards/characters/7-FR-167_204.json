@@ -1,0 +1,40 @@
+{
+  "name": "Pepper",
+  "subtitle": "Chiot vif d’esprit",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rachel Elese",
+  "deck_building_id": "97098c501f90935ba737140dca7ffd730fac352d",
+  "culture_invariant_id": 1600,
+  "sort_number": 1597,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chiot"
+  ],
+  "flavor_text": "Pepper prouve que tout chiot fait partie de la meute.",
+  "rules_text": "JUSTE À TEMPS Chaque fois que l'un de vos personnages Chiot est banni, vous pouvez le placer dans votre réserve d'encre, face cachée et épuisé.",
+  "card_identifier": "167/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=acc6c41dc3a96cba3ed421af22bcac1e54fe53ce16d9758e55ab80187d4fdad5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=7b328ffb0e71825a01e43f11f39db89465fb21199db04371dba7040180f6ab54"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/708a77db476d737e54b8bf4663fc79b346d696d2.jpg?checksum=a7e37cf572096bc6274607ec5ffbae551b2e93d164c69faf12f19d62b222690e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

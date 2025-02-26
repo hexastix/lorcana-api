@@ -1,0 +1,42 @@
+{
+  "name": "Fix-It Felix, Jr.",
+  "subtitle": "Pint-Sized Hero",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "27de73ed728b5b8444dfa4aee552af1f119f9f7b",
+  "culture_invariant_id": 1455,
+  "sort_number": 1452,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Racer"
+  ],
+  "flavor_text": "A trap is just a puzzle that's not very friendly.",
+  "rules_text": "LET'S GET TO WORK Whenever you return a Racer character card from your discard to your hand, you may ready chosen Racer character. They can't quest for the rest of this turn.",
+  "card_identifier": "22/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=d5f6874c3e5f79a6c32681280458f6d24de0aeaf9717d2ff10e6cec508003397"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=09622152d61b765b589c4e3271f00575a9643aa0fbc0b526f9130c73125e58f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=71ec7d798318a470d446fe5e392293f0542353c473d5c2d6b470c0cd9a21090c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

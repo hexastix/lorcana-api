@@ -1,0 +1,43 @@
+{
+  "name": "Greifer",
+  "subtitle": "Hinterhältige Fledermaus",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "cfdd9e04d6917aac14c9f8b2e100a587bf16ce09",
+  "culture_invariant_id": 1539,
+  "sort_number": 1536,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) ICH HABE MICH UM ALLES GEKÜMMERT Jedes Mal, wenn dieser Charakter erkundet, wähle einen deiner anderen Charaktere. Jener erhält bis zu Beginn deines nächsten Zuges Wendig.",
+  "card_identifier": "106/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=9a47db38e635c15dd99a14731a10252afe11028bed9c0be7aa16b7573bfb484d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=e96a86d345172e64e5c32fba960f00a7cb741a93dccb9d50f6b86236aaa77373"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=cb4fd2a23748436fd401544ee260123e3e51e75f48bec664f37241b064bf15a3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Thomas O'Malley",
+  "subtitle": "Feline Charmer",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "926bc29c21b56c27f1a52cfead290ea03de769de",
+  "culture_invariant_id": 1521,
+  "sort_number": 1518,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "There's nothing he can’t talk his way out of.",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.)",
+  "card_identifier": "88/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=d25c70b9abbfc96336a491c043e80eaa379ac114e1dc2e312849fc621b0f4ef9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=7e63d84f14babd2ae167e337de3667da3090ba5b13cf9bcdf0cb89ddb3d75e8b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=242290c127de90f0e76645b35b92daafe841bc177eb78993600956ce25e2979e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

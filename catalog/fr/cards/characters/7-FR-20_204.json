@@ -1,0 +1,43 @@
+{
+  "name": "Sa Sucrerie",
+  "subtitle": "Pilote royal",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "1818b1dcc9d7128736de392808ddbc8d6ee9a6ef",
+  "culture_invariant_id": 1453,
+  "sort_number": 1450,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Roi",
+    "Pilote"
+  ],
+  "flavor_text": "Disparais de mon circuit !",
+  "rules_text": "DOUCE REVANCHE Chaque fois que l'un de vos autres personnages Pilote est banni, chaque adversaire choisit l'un de ses personnages et le bannit.",
+  "card_identifier": "20/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=e421477ed8c9a5cc7f158317942dc55ab3bbc2f0b39269455cffd83b4349275e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=f853564af86ad52f775f6a0c028b6c4bbf1f23207e97ae21a207ba31a1d68f71"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=723c3beab6984812044c22adaba7da2235404a50c6061ec145833ae00e0f422b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

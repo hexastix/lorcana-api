@@ -1,0 +1,33 @@
+{
+  "name": "Plat de spaghetti",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "a9a9ca2c6a1c80726daf8f1358630264d440c24b",
+  "culture_invariant_id": 1475,
+  "sort_number": 1472,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Hey, chez Tony ! Mais oui, bien sûr. C’est l’endroit idéal pour un dîner aux chandelles.%—Clochard",
+  "rules_text": "CUISINE RAFFINÉE , 1 — Si vous avez au moins 2 personnages en jeu, gagnez 1 éclat de Lore.",
+  "card_identifier": "42/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=55f5a405cb73a6fbe212bed29838544f6e2b827e588f77ac0dd1b407c9e1b9b5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=05dc1f0d7182d2755e9013f52c67591cfe7d3e93f4ab5074031972bd3ecdaabd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=213149dee22cb23a0436681b8816f1fb5ac90c292ae23e3e205d1cb1274d20da",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

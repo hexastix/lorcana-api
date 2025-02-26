@@ -1,0 +1,42 @@
+{
+  "name": "Clarabelle",
+  "subtitle": "Journaliste",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "e3b5dbe6ce01c2ada369d0b5792e10567e35497f",
+  "culture_invariant_id": 1586,
+  "sort_number": 1583,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.) SCOOP Vos autres personnages avec Soutien gagnent +1.",
+  "card_identifier": "153/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=17b0a774a85ce7573d9b47d7c9a74269d7ac5729b5ac20ae04d2b5c1ce94ba53"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=2cd95dcf343d39a554b37a7faee5757d0db53faace25a32a323d63f160eabd00"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=578321040311bdf7cdc0e5dd9911d1ddf9e700810b6e915a0b1b775d82e62216",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

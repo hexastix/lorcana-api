@@ -1,0 +1,40 @@
+{
+  "name": "Kusco",
+  "subtitle": "Vorübergehender Wal",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luca Pinelli",
+  "deck_building_id": "8a16f3c83a53236d523529bacad2e9c79e60b668",
+  "culture_invariant_id": 1478,
+  "sort_number": 1475,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "WEHE, DU SAGST JETZT WAS Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du einen Charakter, Gegenstand oder Ort deiner Wahl, der 2 oder weniger kostet, zurück auf die zugehörige Hand schicken. Wer jenen im Spiel hatte, zieht 1 Karte.",
+  "card_identifier": "45/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=8dd1bc96bd4c8718559c284cea991db966e62a9d4a25cb98cc15a004cfe44f55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=6961eb8cef149587e7734bf347e44ab44f4a3c703a45bb821dc12629a416cadf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=72950dc67b62a76a3fd08299af8b7dfa734615bd86eb3c01e74ddae016983833",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

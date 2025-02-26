@@ -1,0 +1,33 @@
+{
+  "name": "Spira d'Acciaio",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ffb0c77401e035728f3eb2f32bed33d56dcc8e09",
+  "culture_invariant_id": 1636,
+  "sort_number": 1633,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Non appena la spira si chiuse sul braccio di Shanzay, lei avvertì un maggiore senso di chiarezza.",
+  "rules_text": "FLUSSO METALLICO Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi pescare una carta, poi scegli e scarta una carta.",
+  "card_identifier": "203/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=efac6d8e396b4022161853bd3c9f045585d5af4346fa8e8f5312293b254d1701"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=2e7b0c6dc82478224e50836e5d70b79d94ef6436e37838117febf70e9833b8f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=ada7fb57a386676daf448a3a2bf26bf4c4ff1f70681dee5a559f1d8558c38453",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

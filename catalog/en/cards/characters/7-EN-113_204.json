@@ -1,0 +1,40 @@
+{
+  "name": "Anastasia",
+  "subtitle": "Bossy Stepsister",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "186abcc44c27815f1b4006504346a766d8731138",
+  "culture_invariant_id": 1546,
+  "sort_number": 1543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Out of my way! <I’m> going to be the first to finish!",
+  "rules_text": "OH, I HATE THIS! Whenever this character is challenged, the challenging player chooses and discards a card.",
+  "card_identifier": "113/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=9fd5e06b0f47af944a941263df8efc4a7f7ba3c1fe66e8e322d6c8e036b6bb01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=aa43966c35ba20bf3b40c8befc712957ca7ad8c11baeb98363096bcb25ee5a11"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=b5faef8f3eaf7cbca4b0caa85625cc4997821f77c1f8d8ec4a7fd4e619b3e31d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

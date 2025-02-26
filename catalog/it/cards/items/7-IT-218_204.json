@@ -1,0 +1,34 @@
+{
+  "name": "Diamante Occhio del Diavolo",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1651,
+  "sort_number": 1648,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "IL PREZZO DEL POTERE — Se uno dei tuoi personaggi è stato danneggiato in questo turno, ottieni 1 leggenda.",
+  "card_identifier": "218/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=e3e8fd087933e3d4f1f8ffe6a0136b52d9dcf5f77babf42bac9e13d7ea143f75"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=19dbb175ec82b7fda63c7b37925aed1569bbeff5ea3ec4dfa97a8eaf60096b9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=654dd8c4d9824ec22f1e0adddb837bd2d90ce25d2d36db81f3e69f77dfa3ecfb",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

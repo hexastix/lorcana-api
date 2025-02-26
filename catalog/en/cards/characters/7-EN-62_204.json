@@ -1,0 +1,43 @@
+{
+  "name": "Rajah",
+  "subtitle": "Ghostly Tiger",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "aa7759237b508c4b2e253ca43417ab8d26d6da36",
+  "culture_invariant_id": 1495,
+  "sort_number": 1492,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Illusion"
+  ],
+  "flavor_text": "He may be spectral, but the danger is very real.",
+  "rules_text": "Vanish (When an opponent chooses this character for an action, banish them.)",
+  "card_identifier": "62/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=101fb83d8b23342cb6dea874b7bc2d919f649e88a16da6baac22d24794949427"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=dd8e3fa51d49a2f6324758b6add3cfce3839ffe5b3eea61685e579cc0f07b986"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=ac53822a0341db35458d9f7b1e72ccba721d244b7ab15189b2e44303f269cfbc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

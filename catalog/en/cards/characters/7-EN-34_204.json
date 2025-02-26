@@ -1,0 +1,40 @@
+{
+  "name": "Koda",
+  "subtitle": "Smallish Bear",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "88ff3b894f745ef4716c8feccea0a6f1c4ca0cfb",
+  "culture_invariant_id": 1467,
+  "sort_number": 1464,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "And then they were like, ‘How’d you catch so many fish, Koda?’ And I said, ‘Well, you know me. I <know> how to catch fish.’ And they said...",
+  "rules_text": "",
+  "card_identifier": "34/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=41630e82abb56c575472e4e54504b0b843cee3cc8294017df09e2c28520b19ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=2f5efebab7988b081b01ccd54eb0202e4abc7db1bb2ee9d9c0d4b35680e1466f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=3a07b45c8c4b7c38846f8c741361c7905890e70b0f12d23043e0c39418b05407",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

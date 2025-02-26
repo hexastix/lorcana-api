@@ -1,0 +1,41 @@
+{
+  "name": "Kater Karlo",
+  "subtitle": "Piraten-Schurke",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Serena Wade",
+  "deck_building_id": "d89b25a8952e36576cfdd04557b3a45e0ca9dc07",
+  "culture_invariant_id": 1522,
+  "sort_number": 1519,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Pirat"
+  ],
+  "flavor_text": "Ich habe es nicht gestohlen! Ich wollte es nur sicher aufbewahren.",
+  "rules_text": "STEHLEN UND PLÜNDERN Jedes Mal, wenn du eine Aktion ausspielst, die kein Lied ist, darfst du einen Gegenstand deiner Wahl verbannen.",
+  "card_identifier": "89/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e18dc4161b9751189c73a933c47762e1035093fed09eebfffd555ae8c89d1ad9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=bd98e6a88ec1658772c886deba57db2541932a3d192206c2e7056e3119b68c66"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=7da626fefe4994e650ba88d6a6e0188779f5910d14b43e7ad7a2481fb29db7f9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

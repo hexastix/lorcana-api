@@ -1,0 +1,34 @@
+{
+  "name": "The Return of Hercules",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Brie Schmida",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1648,
+  "sort_number": 1645,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Each player may reveal a character card from their hand and play it for free.",
+  "card_identifier": "215/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=00d8b4d89dd039959e1884662ee9d0d0ea111f1a967bcfdefef7936dc6d350c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=2ea5369e4ca420763e164981a9f8920aa5cea2b1e0d96c5227f73c13e1f5b615"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=c9572c3efcf17cd06dca13ff3016af323e9521e4f1119769087a03efb18980b8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

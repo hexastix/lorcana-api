@@ -1,0 +1,40 @@
+{
+  "name": "Big Ben",
+  "subtitle": "Horloge grimpeuse",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "ebfcd72de83d8a6b13d8d56f7b949f97ff029f88",
+  "culture_invariant_id": 1563,
+  "sort_number": 1560,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "L'étagère du haut? Pfff! Si c'est un livre que mademoiselle veut, je trouverai un moyen de l'obtenir pour elle!",
+  "rules_text": "ENCORE UTILE Tant que vous avez une carte Objet dans votre défausse, ce personnage gagne +2.",
+  "card_identifier": "130/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=4d8dd669e08fb502fd39ad0dafd0a69e7abdb292b2f5e523ef37413816944f21"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=f8397a8f376c0867c23f0a5b24511664ad577b3ec349403ed5ba6e7ec37eb64e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=8ee129f13d81f5c60ecd5b4fa5784f200ba2d994097f67f7cc8dd5b550642d5e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

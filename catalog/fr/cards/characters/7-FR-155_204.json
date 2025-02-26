@@ -1,0 +1,41 @@
+{
+  "name": "Mattias",
+  "subtitle": "Général d’Arendelle",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "370ac9a4fe75cd66bd7260022d0a49e58bd67d78",
+  "culture_invariant_id": 1588,
+  "sort_number": 1585,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Chevalier"
+  ],
+  "flavor_text": "Vous devez agir vite avant que le piège ne se réenclenche. Allez-y!",
+  "rules_text": "FIER DE SERVIR Vos personnages Reine gagnent Hors d'atteinte. (Les adversaires ne peuvent pas choisir ces personnages, hormis pour un défi.)",
+  "card_identifier": "155/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=1e72bf649a4ee93d8427a4196606f75f632116607587f9f5781395a5b6a2d965"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f8023059abc7705d7f1364fd212c45515b751998385ecabaf410adeddde2d68d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=a32d16d1aff9cd49b4f86fb917b4cfa941cfd162a2dfa96980473130d4bd2772",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

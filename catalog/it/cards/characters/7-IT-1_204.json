@@ -1,0 +1,41 @@
+{
+  "name": "Rhino",
+  "subtitle": "Motivatore",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "95a56b1f8277a035af9afaaabfaf7215216b4ab9",
+  "culture_invariant_id": 1434,
+  "sort_number": 1431,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Non dimenticare che sei pazzesco. Puoi gestire qualsiasi cosa. Ora, incanala questo tuo essere pazzesco e DISATTIVA QUESTA TRAPPOLA!",
+  "rules_text": "CHIAMATA DEL DESTINO I tuoi altri personaggi ricevono +2.",
+  "card_identifier": "1/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=51c636eb6aa5a40f14294852a3b12888e676ec094df726228c09feadf9a6c0ab"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=97e2d31c77a1046b8b5d09d730c10f27fa724e3c2b353f9935685918be4ccb9e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=cfc889288188cd6d4178ea81d7e83284c0d04b0d9d46ed47cae7100f4cb46117",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

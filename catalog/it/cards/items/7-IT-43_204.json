@@ -1,0 +1,33 @@
+{
+  "name": "Kanine Krunchies",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "0e14bb8a862da981efa44f59d4328c79ee92dba1",
+  "culture_invariant_id": 1476,
+  "sort_number": 1473,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Per un cane che ha buon gusto Kanine Krunchies è il più giusto!",
+  "rules_text": "SE LO TRATTI CON AMORE I tuoi personaggi Cucciolo ricevono +1.",
+  "card_identifier": "43/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=c5e514d27acc6a712981a13e10ac9126b1cb1694734e2a52cc4a7c5730bdecbb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=9cb1b97d0426af369f1554cf0e8721f81d2174168511f527c779a61a7ff6ba7a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=1486424a6be69df72ecdfd4d2754f81561a88ad18fbc5179261511a1c8863d38",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

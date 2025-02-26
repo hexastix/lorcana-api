@@ -1,0 +1,43 @@
+{
+  "name": "Paperino",
+  "subtitle": "Stregone Agitato",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Eri Welli",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1506,
+  "sort_number": 1503,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Incantatore"
+  ],
+  "flavor_text": "Quando si tratta di incantesimi, una corretta pronuncia è essenziale.",
+  "rules_text": "OTTENEBRARE! Gli avversari hanno bisogno di 25 leggenda per vincere la partita.",
+  "card_identifier": "73/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=2abd51060be282bc440f5c0426761907fbec4b57a8a2f9cb7a9af0939292af66"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=8c30e08682587e3e58b9bbfe4b9f77c749cb939852af47fcc28ae53cc6e1a0c9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=e4f5b69d9c6963e04f333dc803bfc8078cc76d1baad4923ac47a3f58cd4aa037",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7489cf093de5b9521492e07ab1f9b6e412b242528d816104ffe76a2958d16ea4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

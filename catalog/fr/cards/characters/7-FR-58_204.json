@@ -1,0 +1,43 @@
+{
+  "name": "TE KĀ",
+  "subtitle": "Monstre de lave",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Max Grecke",
+  "deck_building_id": "1d4dce8830332274f2d71f03712751024137f96e",
+  "culture_invariant_id": 1491,
+  "sort_number": 1488,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "Aller jusqu’à Te Fiti, c’est traverser un océan de malheur. Sans parler de Te Kā. %—Maui",
+  "rules_text": "Offensif +2 (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "58/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=eca814b889972bf95ae2b8f0c7da13f67c5b4b7fc1a44b3c371a3bfe7aaa7047"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=7d31a308f88fce16cab3922e823cde2e7df08b3ade0a2b616556ed2810ad9805"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=044876c9c8f47cfdf030fdc62a9c1874b8a2c70911126f97255bde3dc51fba86",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

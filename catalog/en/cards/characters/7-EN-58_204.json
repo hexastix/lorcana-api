@@ -1,0 +1,43 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Lava Monster",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Max Grecke",
+  "deck_building_id": "1d4dce8830332274f2d71f03712751024137f96e",
+  "culture_invariant_id": 1491,
+  "sort_number": 1488,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Deity"
+  ],
+  "flavor_text": "You wanna get to Te Fiti, you have to go through a whole ocean of bad. Not to mention Te Kā. —Maui",
+  "rules_text": "Challenger +2 (While challenging, this character gets +2.)",
+  "card_identifier": "58/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=2f5d0f0dc2a7ecc71d493f2cec309e812ea789367d07aa6a5880a552cf17d247"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=30fc6c5e5bb248897a483427b6d2b80eea9e75d6652e35ab3d51d61fbaa5d393"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=ac2ee8d2057a64831efeee78c60964fa109df646dedc5b0b479419571b43747d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

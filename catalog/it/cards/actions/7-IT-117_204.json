@@ -1,0 +1,35 @@
+{
+  "name": "È un Briccon",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "d2e7b04e55be924e0bc9c07444cacc89c38ba255",
+  "culture_invariant_id": 1550,
+  "sort_number": 1547,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "Ma io darei mezzo mondo%per poter vagabondare con lui",
+  "rules_text": "(Un personaggio con costo 1 o superiore può per cantare questa canzone gratis.) Un personaggio a tua scelta riceve +1 per ogni personaggio che hai in gioco per questo turno.",
+  "card_identifier": "117/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=5bfbc6d70f9d0e9479d7a8c49164c1e77aa082b230b8d0469ab9d539f1d1cbac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=9ef56e521c8b622faee9e9502aed8fb972a556ad0763c6e5e9124a0f76e08e77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=da6092fc065c34b32a9c7fb19aea90b1b49da673e5030587054b819d729862d6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

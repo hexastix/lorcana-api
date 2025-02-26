@@ -1,0 +1,44 @@
+{
+  "name": "The Troubadour",
+  "subtitle": "Musical Narrator",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "c57710fd5e34103000a17c6eedbbbdf775ab07ec",
+  "culture_invariant_id": 1444,
+  "sort_number": 1441,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist",
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.) Singer 4 (This character counts as cost 4 to sing songs.)",
+  "card_identifier": "11/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=f0c34dad60af569483bdb1a21d01dd1084d9cbaff8c03b7dc40694b911539189"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=e764d6d088f954292616e64e97620d5e83aa540d945882de3bb5d3ba8dea0c2a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=40f03b8c49c6123533cce370c18cde78d1d48c04acd4be34ba316633fab4d638",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

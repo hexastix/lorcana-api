@@ -1,0 +1,43 @@
+{
+  "name": "Herr Smee",
+  "subtitle": "Effizienter Kapitän",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "af71eddc1279e3c929451e656d1d9c68d307965e",
+  "culture_invariant_id": 1540,
+  "sort_number": 1537,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Also gut, Leute – wir haben heute viel zu tun!",
+  "rules_text": "HERAUF MIT DEN LEUTEN Jedes Mal, wenn du eine Aktion ausspielst, die kein Lied ist, darfst du einen Piraten deiner Wahl bereit machen.",
+  "card_identifier": "107/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=8c2b2ab62f38384cc4ccdf966649c8087bc3395ae0638a6b2f6b4687f35b5b34"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=f91f2ba45c90d37cc163afa4553d6d4f4406eb0fe2e539847e6fdc9d7cd5bc17"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=a07ce161a91e3fd913c15c7fc446b8e77db1b5798e10f50efe8f2b3292232e92",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

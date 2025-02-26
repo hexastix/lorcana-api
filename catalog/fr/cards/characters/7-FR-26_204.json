@@ -1,0 +1,44 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Sauveteuse pleine de courage",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d15917edc226a4d5a0f74f8b78306c814c3c1a48",
+  "culture_invariant_id": 1459,
+  "sort_number": 1456,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Calhoun.) REPRENEZ VOTRE POSITION DE DÉPART ! Chaque fois que ce personnage en défie un autre, vous pouvez renvoyer une carte Pilote de votre défausse dans votre main.",
+  "card_identifier": "26/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=fa800ca9af9f02aaaacc88c63459c3fe2cacdc0856b2d28bbcf0549616dacfeb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=d2e2b59f78f10827c81a0462821cce2e82c601f3eab06dbc450c91bf98c29a2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=77e6b2182917bfdecd75e2732c3c10738a818d0a33d9011a9af6a50bead7d31b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

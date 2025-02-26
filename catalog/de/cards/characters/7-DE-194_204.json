@@ -1,0 +1,40 @@
+{
+  "name": "Orville",
+  "subtitle": "Albatross-Fluggesellschaft",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rudy Hill",
+  "deck_building_id": "c89b02a8c5ef092f289aafd2dc51de65961e2f18",
+  "culture_invariant_id": 1627,
+  "sort_number": 1624,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Fliegt er nicht wie ein junger Gott?%–Miss Bianca",
+  "rules_text": "WILLKOMMEN AN BORD Solange du mindestens einen Miss-Bianca-Charakter oder einen Bernard-Charakter im Spiel hast, erhält dieser Charakter in deinem Zug Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "194/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=5678f397542894bab20b2306678528e44d52d4895bb73dd3eb33a2283b346f84"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=4773e67f6295bea714807e756e44265772eb3e6f55500957b644c3d79b026655"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=0007c6181412f0edcc3c603e9cd2e76e6b9420890fa1945b82ec483f36069724",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Mulan",
+  "subtitle": "Travestita da Soldato",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jochem van Gool",
+  "deck_building_id": "dc468c676e85ae64384d43f7358b0f77eac28102",
+  "culture_invariant_id": 1626,
+  "sort_number": 1623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Forza, ci siamo. Sfoggia una camminata virile.%—Mushu",
+  "rules_text": "DOV'È CHE CI SI ARRUOLA? Quando giochi questo personaggio, puoi pescare una carta, poi scegli e scarta una carta.",
+  "card_identifier": "193/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=84a1023ef12b2dc9639a4549146a373b5acb3d7ef56f74534255186f8730f85a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=f1ecf6147eaa1ff4805221c92b53a8c8126c5f7894da98995509df7602184c39"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=97badd4a781194d0e247371670a96236aa0f868c3c750b25b0d39216dd2da6d5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

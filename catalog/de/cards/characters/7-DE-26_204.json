@@ -1,0 +1,44 @@
+{
+  "name": "Sergeant Calhoun",
+  "subtitle": "Mutige Retterin",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d15917edc226a4d5a0f74f8b78306c814c3c1a48",
+  "culture_invariant_id": 1459,
+  "sort_number": 1456,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Sergeant-Calhoun-Charaktere auszuspielen.) ZURÜCK ZU DEN STARTPOSITIONEN! Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, darfst du eine Rennfahrer-Charakterkarte aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "26/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=9e2c8b4845743129bc31bd0150c57b057b9fc65397d8e1504ccc848fa4bbe0d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=35c9665f62cf296c846f16bc9ad66cea3f3acc05a3787e82c2fc2e1c634ee33b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/887309d048beef83ad3eabf2a79a64a389ab1c9f.jpg?checksum=c2d26b134b9b268526da0713e4922fb88e03c545894fb73eb13980ccb4430a77",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

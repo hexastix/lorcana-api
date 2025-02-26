@@ -1,0 +1,40 @@
+{
+  "name": "Chernabog",
+  "subtitle": "Kreatur der Nacht",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Giulia Riva",
+  "deck_building_id": "f8c82e67f89c9ff310443e3e85dd847673575b7e",
+  "culture_invariant_id": 1483,
+  "sort_number": 1480,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "MITTERNACHTSTREIBEN Wenn du diesen Charakter ausspielst, wählen alle gegnerischen Mitspielenden je einen ihrer bereiten Charaktere und erschöpfen ihn. Sie werden zu Beginn ihres nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "50/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=4bbedcc6cbc923f2c758a2323c737594566fe733dbb00757d8673360bcbfc1c8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=332cf8898974422f1b5fa9fe35a9ca2079656a5e1870a0962850f326fb42a29b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/e1822db470e60d090affd0956d743cb0e7cdf113.jpg?checksum=176ce9ed7f342e8730f60d4979e27c7fd4e4fc8c85b65189484d0ca887e7a7a8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

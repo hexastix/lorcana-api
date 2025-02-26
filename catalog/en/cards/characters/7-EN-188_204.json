@@ -1,0 +1,40 @@
+{
+  "name": "Fa Zhou",
+  "subtitle": "War Hero",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mel Milton",
+  "deck_building_id": "0569382cc56b9650bdb6db49b16d08e519dba845",
+  "culture_invariant_id": 1621,
+  "sort_number": 1618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Every trap you disarm, every test you pass, honors us all. Well done.",
+  "rules_text": "TRAINING EXERCISES Whenever one of your characters challenges another character, if it's the second challenge this turn, gain 3 lore.",
+  "card_identifier": "188/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=b702a61d2031e3f22f5ffcfbe00381b3a0ce188c4e7979d6177e7bc3bbe5af37"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=67f9904dcc50b2809e64fe5941a512c7d34342757643b91ebe8776781078ad0b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=7c1098238853e580b6c096d13255d8311c9f30655af52fa8811b0f52ce5107e8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

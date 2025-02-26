@@ -1,0 +1,44 @@
+{
+  "name": "Regina",
+  "subtitle": "Bellezza Gelosa",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "2caba9821f2a147d04377683850773c4a50e222d",
+  "culture_invariant_id": 1507,
+  "sort_number": 1504,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Regina",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "NON È UNA MELA COME UN'ALTRA — Scegli 3 carte dagli scarti di un avversario a tua scelta e mettile in fondo al suo mazzo per ottenere 3 leggenda. Se una qualsiasi carta Principessa è stata spostata in questo modo, ottieni invece 4 leggenda.",
+  "card_identifier": "74/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=aa192a5a4b8c97bb7563397ac422b6a754a5246b082f4ce591e1c4fa463d2595"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=0350e5a04490dd4fa9d86ebe149260b28583dea147b1f3548a7ef43a4427dbbe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2ff718e06b84f09ba1d9891e4721adbe9b873c6c1ad9f66078511cec79f33706",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2ecd2b06ec0482eba1b64036b9c2e4883c0190e72b9bd77a706eb63d0b30d966",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

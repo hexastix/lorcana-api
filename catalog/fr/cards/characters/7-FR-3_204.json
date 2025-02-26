@@ -1,0 +1,41 @@
+{
+  "name": "Le Roi Stéphane",
+  "subtitle": "Jeune papa",
+  "strength": 4,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Mike Parker",
+  "deck_building_id": "4a04aa0e1cc9335eac636d980b21167061d65aab",
+  "culture_invariant_id": 1436,
+  "sort_number": 1433,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "Tous les parents rencontrent des difficultés pour endormir leur bébé. Les rois ne font pas exception.",
+  "rules_text": "",
+  "card_identifier": "3/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=3c908ba4f9d6e72a8c4c5a9615baa38f987500e65ebaab289346578449b97dda"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=b8d3b38bbb682be40569b75237b96a8cd63aee863e7fc349757014b9de8872bf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=784ca38608be957274a8dace68a9f5a58dfa72cc2482ced2f92410031acf18cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

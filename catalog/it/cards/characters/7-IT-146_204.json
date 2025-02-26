@@ -1,0 +1,40 @@
+{
+  "name": "Edgar Balthazar",
+  "subtitle": "Maggiordomo Ambizioso",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "628e46b17ac88741c7b9ab68ff8754cf1b81de57",
+  "culture_invariant_id": 1579,
+  "sort_number": 1576,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Tutte queste trappole, tutti questi lucchetti, tutti questi macchinari... Se pensano che possano fermarmi, stanno gravemente sottovalutando Edgar Balthazar!",
+  "rules_text": "",
+  "card_identifier": "146/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=689103c24e049323c3d212595413321390a2a1e926c00736f722d23f67d83d86"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=60e3e6e34878221e1482678641e301fe4a2c7f7431fddf377b3374f5f968e810"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=11b01d54e2c37f0d783e26b8dac7bf5d643033e21f9b9acc0ddf5af6a87034d9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

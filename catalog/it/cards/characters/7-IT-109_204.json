@@ -1,0 +1,46 @@
+{
+  "name": "John Silver",
+  "subtitle": "Pirata Vendicativo",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "dc584065fcb4cd49d186951d0d6d794fd2de71a4",
+  "culture_invariant_id": 1542,
+  "sort_number": 1539,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Alieno",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "ATTRATTO DALLE ZUFFE Se un personaggio avversario è stato danneggiato in questo turno, paga 2 in meno per giocare questo personaggio. Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) NON MI SONO RAMMOLLITO Ogni volta che giochi un'azione che non è una canzone, puoi infliggere 1 danno a un personaggio a tua scelta.",
+  "card_identifier": "109/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=c34bc78b4ca62e8a6af4e3715848f7a323d4854496425ce5416b5f4b94bd5557"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=caf1e99e4eb0a3b931b3a4f98105c2c6803ad81348c5841972e678290c9e0f0e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=101b60d08cf07bb82663d6f37824e040acd689d0f412f651b14217935757ada2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

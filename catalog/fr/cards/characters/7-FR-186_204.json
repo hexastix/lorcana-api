@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "À la recherche de conseils",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Maxine Vee",
+  "deck_building_id": "c3ed1b6beca0a36c4bdc370e94c2f7665523f104",
+  "culture_invariant_id": 1619,
+  "sort_number": 1616,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "UNE CAUSE PLUS GRANDE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, ce personnage gagne Résistance +1 jusqu'au début de votre prochain tour. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "186/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=092b7ccca396a3ea027bed74e2bb077e0413d51f10509f8c383fc95830f3ee24"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=3aabd73d1870cf7cf354ff087ef270f43bb38c8e15660fce76e89200287efa30"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=7f637beeeeddc02fa4345761a77dc713077d5495169a6a5098c9ceeacbbf211f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

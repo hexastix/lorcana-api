@@ -1,0 +1,46 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Among the Stars",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "adcb1daa41ea7803f3fe66ab407a12ff728ac741",
+  "culture_invariant_id": 1512,
+  "sort_number": 1509,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Resist",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Mentor",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Mufasa.) Evasive (Only characters with Evasive can challenge this character.) Resist +1 (Damage dealt to this character is reduced by 1.)",
+  "card_identifier": "79/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=e96489a9bec42c531c6cc268fe1d04dc306604de2463d1101388da29c6b0c1c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=e777d3deb8563b671ba4c8667fdb6546acf119f839d33c4f124b5543da766698"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=303d04ff7db9438e8ff656ccbb5283d00d04895bbe5ab6e315ade981f72f1704",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

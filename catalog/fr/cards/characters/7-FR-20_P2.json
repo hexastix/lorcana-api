@@ -1,0 +1,45 @@
+{
+  "name": "Kronk",
+  "subtitle": "Décontracté",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "3e3ad547703c4a8a5dbc00b8c4deace40863300d",
+  "culture_invariant_id": 1657,
+  "sort_number": 1655,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) QU’EST-CE QUE J’M’AMUSE Si un effet devait vous faire défausser une ou plusieurs cartes, ne les défaussez pas.",
+  "card_identifier": "20/P2 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=2de0a26a0acafeafba1f1f3c673d8fa5d863d4fa76bbe14136c650c391fa1be2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=cf86583f38aa46bdb8f234d2bbc081b770f775d6fc1b501c76b43d59176bb5f3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=fd823964755f928ddea8e2cbe4c4dd60586b42f1511d0189f42cc09f0ae46589",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

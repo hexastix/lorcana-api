@@ -1,0 +1,39 @@
+{
+  "name": "Cheshire Cat",
+  "subtitle": "Perplexing Feline",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Sandara Tang",
+  "deck_building_id": "99b060c09b5134d9107f78d08e2018d615658a7c",
+  "culture_invariant_id": 1524,
+  "sort_number": 1521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "He's not your average cat, after all. Then again, what cat is? —Archazia",
+  "rules_text": "MAD GRIN When you play this character, you may deal 2 damage to chosen damaged character.",
+  "card_identifier": "91/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=d0e9af59044c3fe8f10c6a89c265b6ad52207da7b4e9b73b4b201bc51b327e4c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=1e1a4fc94d3ce90e1c647de4860b6c48fb4903aece0c080d546c9e2e9dcdb519"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=11f3c30272aced0267f1366b84e86f15185310980de4cf6bfab0334775c83f55",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

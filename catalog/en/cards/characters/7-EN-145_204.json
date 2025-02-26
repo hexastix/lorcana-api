@@ -1,0 +1,40 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Undaunted Scholar",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "a781b1576f0db15a070fa749c5764a5d0fb543d0",
+  "culture_invariant_id": 1578,
+  "sort_number": 1575,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Okay, we rotated the globe to move the mural into position. We have the coordinates. Let's go!",
+  "rules_text": "I'M YOUR GUY Whenever you play an action, you may give chosen character +2 this turn.",
+  "card_identifier": "145/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=0fdfc11d9dfd4d7cdc316bd69c77a5d4a0b2b61df82a8b5228e15f39648ff24c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=f410dfbd65a9b43287de7f6a5945afce803771bba4e68ab11370392a3a2354f7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=5a24b8c783f40ec214c8a29603bdbd387465b3f2b9cc14885409e21a40be3db1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

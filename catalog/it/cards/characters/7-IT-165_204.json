@@ -1,0 +1,40 @@
+{
+  "name": "Matisse",
+  "subtitle": "Gattino Artistico",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Celeste Jamneck",
+  "deck_building_id": "27718e9c6fa9fbce1ded888a8cdc3f4723eabffb",
+  "culture_invariant_id": 1598,
+  "sort_number": 1595,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Schiacciò altra tempera fuori dal tubetto e fremette di gioia. Archazia era simpatica, anche se era un gufo gigante. Aveva così tanti nuovi colori con cui dipingere!",
+  "rules_text": "",
+  "card_identifier": "165/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=2868e98c4dd8c94c4b2d1a3f4db87490e8858a83bf0bacab6187150bf247ab9b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=9f15d0619d3c25718b8e59b5fac74a48589322a8ac365bc1babb49f039b7de6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=3562a026e4f7cd60f17aa98523568b3f81f65ff4a6df3d6936dad9e0f9dafb4a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

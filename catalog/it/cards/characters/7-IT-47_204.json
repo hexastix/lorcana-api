@@ -1,0 +1,39 @@
+{
+  "name": "Guardiano del Tesoro",
+  "subtitle": "Sentinella Profetica",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "239268271716f479ba115fea202b33efe3854e73",
+  "culture_invariant_id": 1480,
+  "sort_number": 1477,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Finalmente, l'ho cercata per tanti anni!%—Jafar",
+  "rules_text": "TESORO INDICIBILE Quando giochi questo personaggio, se hai in gioco un personaggio Illusione, puoi pescare una carta.",
+  "card_identifier": "47/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=d17de233a20d56685531ea3d80bc0aa059fa97b13886e40f2fdb44141bf401fd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=2ea08e56704e34fd2235a483211f5293c0efb5eb34d0cbfe852146f6edf2d6ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=53c5410f45a3c9c20de854faf126668834345365bd129ea191bbb5a1c62ad264",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

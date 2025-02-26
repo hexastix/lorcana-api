@@ -1,0 +1,34 @@
+{
+  "name": "Maurice's Machine",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "051f6f7d75be055d8f35359a37f5737c6cf8907a",
+  "culture_invariant_id": 1584,
+  "sort_number": 1581,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I hope it does what I built it to do! —Maurice",
+  "rules_text": "BREAK DOWN When this item is banished, you may return an item card with cost 2 or less from your discard to your hand.",
+  "card_identifier": "151/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=9f0be69a15eaf2f18053a41e6bc049f77115a3d479b1fd64aa4ec4b0ac9d519f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=103cadb081362a903e39ce8ea9810e6eaa5005eb4a7563479853d6f53bcdac84"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=9b1ca9b35cc701d354362fdfd921f32b9ea833b69ea813c7410298c25088be59",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

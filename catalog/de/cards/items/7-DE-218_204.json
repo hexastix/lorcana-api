@@ -1,0 +1,34 @@
+{
+  "name": "Teufelsaugen Diamant",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1651,
+  "sort_number": 1648,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "DER PREIS DER MACHT – Falls einer deiner Charaktere in diesem Zug Schaden erhalten hat, sammelst du 1 Legende.",
+  "card_identifier": "218/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=537611003231533072d96592874004a8d2b72ef60ac25933a6da2d2f8c419d3f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=c807d49a4254228429b8acf85b2ac4557f5c0d327f7a364aefd0c1fe1d44bcef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=aa6fdfe7c77b3e44617389b2f3396b59f3e29db5c9c0cce2a5367274168481c4",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

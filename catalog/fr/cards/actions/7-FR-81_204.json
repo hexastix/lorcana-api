@@ -1,0 +1,35 @@
+{
+  "name": "C'est ma famille",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "c3565f192febee8aaadc4da67348a3246ad959eb",
+  "culture_invariant_id": 1514,
+  "sort_number": 1511,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "Telles les étoiles, chacun des membres flamboyant",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Gagnez 1 éclat de Lore. Piochez une carte.",
+  "card_identifier": "81/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=c38051313618c3d3166581bd7fbfbc2e38dd81300b118cc1c0293ede10e6e4ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=3be4468009383ed1c5a5a3b7e83d1afa3d11512aa551f0fa8f529a33ec6925e6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=e98175aab1fdc06d3895db53d2fba55cd04083588e5e406c46ca6fab4d75a0c3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "La Bestia",
+  "subtitle": "Inventore Frustrato",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Koni",
+  "deck_building_id": "eea594c1f8504db74823bfd75c4ed44f1a518599",
+  "culture_invariant_id": 1569,
+  "sort_number": 1566,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principe",
+    "Inventore"
+  ],
+  "flavor_text": "No, no, no! NON È COSÌ CHE LO VEDO NELLA MIA TESTA!",
+  "rules_text": "NE HO ABBASTANZA! , 2 , esilia 2 tuoi oggetti — Infliggi 5 danni a un personaggio a tua scelta.",
+  "card_identifier": "136/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=e6ea32dd91e67ebbb777b992cf1c4828eb551735ca269af2005ba210321cc57f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=d35a62fbd2a60b71e307e7e2ce5908c3049588ae0b115a2a8c7fdf699be63813"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=e36551630a934ddaeb3af16308e9bf49fdec844d66abc179b31d4edaf6fde351",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

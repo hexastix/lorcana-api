@@ -1,0 +1,39 @@
+{
+  "name": "Chat du Cheshire",
+  "subtitle": "Félin déroutant",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Sandara Tang",
+  "deck_building_id": "99b060c09b5134d9107f78d08e2018d615658a7c",
+  "culture_invariant_id": 1524,
+  "sort_number": 1521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Ce n'est pas un chat ordinaire, après tout. Mais bon, aucun chat ne l'est, non ?%—Archazia",
+  "rules_text": "SOURIRE DÉMENT Lorsque vous jouez ce personnage, vous pouvez choisir un personnage avec au moins un dommage et lui infliger 2 dommages.",
+  "card_identifier": "91/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=26e268bed2f82ed95b17e46613a66514a149e28d7900b68116c0495fd41ec20d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=72b40e3d1927a01849a4c7feea26f2df5098584c81d7222e54d1bf3e7124582d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=708fed6a5a41744d79cd3181185c6eb03a878c60b970170319db46ecee7fc4c6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

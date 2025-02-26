@@ -1,0 +1,45 @@
+{
+  "name": "Yzma",
+  "subtitle": "Above It All",
+  "strength": 3,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Cristian Romero",
+  "deck_building_id": "65f8813035775940d5c4911773a0ebf5c5f20342",
+  "culture_invariant_id": 1501,
+  "sort_number": 1498,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Queen"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Yzma.) Evasive (Only characters with Evasive can challenge this character.) BACK TO WORK Whenever another character is banished in a challenge, return that card to its player's hand, then that player discards a card at random.",
+  "card_identifier": "68/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=4692797062fdd79fd301e4858d132c2f2bea6bcfaf2e1adad5acc71d69db3f17"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=c215f52b8c7fbed38b4209914881c3603e3396a9cd97c8f7cd32c6037a55573b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=63a345f2b39daeac5d368cc811eb776cb1753347ab118e1269d3a4485365e958",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

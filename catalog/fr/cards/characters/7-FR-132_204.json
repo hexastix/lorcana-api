@@ -1,0 +1,41 @@
+{
+  "name": "Les Rapetou",
+  "subtitle": "Escrocs à la petite semaine",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Lauren Barger",
+  "deck_building_id": "3640f3d03075b83c26d1c507eb09571e3f2a2efa",
+  "culture_invariant_id": 1565,
+  "sort_number": 1562,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "FAITES VITE! Chaque fois que ce personnage est envoyé à l'aventure, choisissez l'un de vos personnages qui gagne Charge et Résistance +1 pour le reste de ce tour. (Ce personnage peut défier le tour où il est joué. Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "132/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=00ed9722a38d7187aa8a818764b0d18bec73700f853d7d42cf41c0613f7c3738"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=610dcdcdd2f527a59b4d9177482f091cd81fe3075d0d33266acb2e9c47e80cdb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=4a2cd7b119b6a8d242ada771d91b5310415b0fef67f83adc13a609da21adde5f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

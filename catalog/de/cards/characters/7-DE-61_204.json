@@ -1,0 +1,40 @@
+{
+  "name": "Pech",
+  "subtitle": "Unverschämter Wicht",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Arianna Rea",
+  "deck_building_id": "437524fb99141f7b428777b42137c9c945611507",
+  "culture_invariant_id": 1494,
+  "sort_number": 1491,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ähm, gab es nicht etwas, um das wir uns für den Boss kümmern sollten? Ging es darum, diese Pfeile zu testen?",
+  "rules_text": "",
+  "card_identifier": "61/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=5f0c1a00c4649e2b0dcb0e22699ea7b3ee2e5da4a7f7e37c7e8920f273cb798e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=abb4eee6376d8fdfe2b92a5dfc4211b6ff3810fe7c9ded396dd0736648d80256"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=5a5abab64bca7fdb2d58e4c9779d27fa57d209717cb60f79ebb242016f768c55",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

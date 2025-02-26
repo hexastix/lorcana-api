@@ -1,0 +1,35 @@
+{
+  "name": "La vie nous a réunis",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "47f551a402c331ac81e1b4f502c282a9cdb4dc34",
+  "culture_invariant_id": 1471,
+  "sort_number": 1468,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 2 ou plus pour chanter cette chanson gratuitement.) Piochez une carte. Choisissez un personnage qui gagne Rempart jusqu'au début de votre prochain tour. (Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.)",
+  "card_identifier": "38/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=71126e982224544553d5cab6c9f22f318764da2e126625221d8cc3b80c9283c9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=827541616f259388797c82a9feb26f510de97dbcb8e65d4097d82152c92b1f2b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=a85f6a262492fa9320261d5342b570af8cbb124c470c1aeca73ffa6bbb44ec94",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

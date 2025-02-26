@@ -1,0 +1,41 @@
+{
+  "name": "Mad Hatter",
+  "subtitle": "Unruly Eccentric",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "87d0afe0cc27daae68ff3640462f927eefae05ef",
+  "culture_invariant_id": 1646,
+  "sort_number": 1643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "UNBIRTHDAY PRESENT Whenever a damaged character challenges another character, you may draw a card.",
+  "card_identifier": "213/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=06380260c1dada62c6ec18b41d751d8a3033fe36ed581aed7f045610861c5424"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=0a1457c8163f726561c8152a2fe86d8c90b9337929564c6febefd67b18e6169e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=0844a0569d17f91e6dbe37e9ab4a2ac9d99312264f664a37cc66182e5f1b272c",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

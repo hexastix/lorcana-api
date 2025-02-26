@@ -1,0 +1,44 @@
+{
+  "name": "Der Troubadour",
+  "subtitle": "Musikalischer Erzähler",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "c57710fd5e34103000a17c6eedbbbdf775ab07ec",
+  "culture_invariant_id": 1444,
+  "sort_number": 1441,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust",
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.) Singen 4 (Die Kosten dieses Charakters gelten als 4 für das Singen von Liedern.)",
+  "card_identifier": "11/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=47fbb51c7826450129a9264fb286e1a1619d89d5e50dbc6052c0b874238c70e6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=eaad03f5cb276f1b6fc6deac70b00ff555dd9fa24148fe3e945f2d1ac76d81aa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=b23c01dada2c43ec75d640092f264ca903eca644acb6c7461495f7049cd6c792",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

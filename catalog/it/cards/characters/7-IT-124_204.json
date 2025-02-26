@@ -1,0 +1,43 @@
+{
+  "name": "Denahi",
+  "subtitle": "Cacciatore Impaziente",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "203ba2afbe930769d683d5bcc2b361b27d68c85a",
+  "culture_invariant_id": 1557,
+  "sort_number": 1554,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Attaccabrighe",
+    "Resistere"
+  ],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Non c'è tempo. Dobbiamo agire adesso!",
+  "rules_text": "Attaccabrighe (Questo personaggio non può andare all’avventura e deve sfidare ogni turno, se possibile.) Resistere +2 (Il danno inflitto a questo personaggio è ridotto di 2.)",
+  "card_identifier": "124/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=34da65335b08a64a8461caaec4d3d2459760093247e82df20ff9e8b818568697"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=91e64f1d62fe55ecdf7f115dba42f9df2dd4607462eb5fed570ef21f90457923"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=d22bae954e514fa0cb20806839f279a6047eb45bc495d6c742b0cc840586edbf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

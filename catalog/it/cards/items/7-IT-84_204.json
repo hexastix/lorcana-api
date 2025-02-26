@@ -1,0 +1,33 @@
+{
+  "name": "Spira d'Ametista",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ac754e91e28825cba2776c444e2988b47cd9016b",
+  "culture_invariant_id": 1517,
+  "sort_number": 1514,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La spira di Shanzay brillò, inviando un filamento di energia mistica verso il glimmer danneggiato.",
+  "rules_text": "TOCCO MAGICO Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, puoi spostare 1 segnalino danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.",
+  "card_identifier": "84/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=4a204cb92f920f441da75ff6a2349ecbec5f2de1ee66eb51b7566739ad944df5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=518b3350576ee028deea886272ee1459cad9531a60f5b0838afc1b15f12e5cf7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=580f185473bea4782acc92a07501eff918e09a00ffd48440643e7e1750a244ae",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

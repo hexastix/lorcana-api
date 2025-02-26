@@ -1,0 +1,40 @@
+{
+  "name": "Pena",
+  "subtitle": "Diavoletto Impudente",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Arianna Rea",
+  "deck_building_id": "437524fb99141f7b428777b42137c9c945611507",
+  "culture_invariant_id": 1494,
+  "sort_number": 1491,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Uhm, non c'era qualcosa di cui il capo voleva che ci occupassimo? Forse dovevamo provare queste frecce?",
+  "rules_text": "",
+  "card_identifier": "61/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=d2589df668ee6c52726fe16b4371fb01767bce95f303a8bc70a02b1168cc1ca5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=91d6b4511538adb92abda2ce39bdd831226c58d5abfc7a61858341de8f1f0abd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=3e34af0e327ef2841ed310a12d959439eaf7c5461ee4301d7c75d8082cda1e04",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

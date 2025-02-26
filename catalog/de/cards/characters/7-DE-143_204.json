@@ -1,0 +1,42 @@
+{
+  "name": "Rattenzahn",
+  "subtitle": "Ruchloser Verbrecher",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Max Ulichney",
+  "deck_building_id": "1f72b455c62ec192fa0b46a65aa7a58a6ff89147",
+  "culture_invariant_id": 1576,
+  "sort_number": 1573,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Warum die Show unterbrechen, wenn man sie einfach stehlen kann?",
+  "rules_text": "EINE WUNDERBARE VORSTELLUNG Jedes Mal, wenn du eine Aktion ausspielst, solange dieser Charakter erschöpft ist, sammelst du 1 Legende.",
+  "card_identifier": "143/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=af2a9479917c6f440dd567b668f5a7cccdfe25f73d41d88b9a4bb3fe5d9dcefb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=be7075d445a93a501bef3e3104fe16fbc573ce8e871c2fd0c3adab8821ab8d77"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=bfeab420caf9bf9cc14490361cf49a025685eba37f16b39bbdcb477f4dedee9f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b3d2381956d9598119a0d9976f82e7a379b5b0ffb95bad76e336e1b7103e3332",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

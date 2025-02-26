@@ -1,0 +1,40 @@
+{
+  "name": "Bolt",
+  "subtitle": "Starrköpfiger Hund",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Brian Weisz",
+  "deck_building_id": "8e6b0a691fd08092d8dcbaaa348d77b450f4795e",
+  "culture_invariant_id": 1617,
+  "sort_number": 1614,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "So wie’s aussieht, ist die harte Tour nötig.",
+  "rules_text": "ES GIBT KEIN ZURÜCK Jedes Mal, wenn dieser Charakter erkundet, falls er unbeschädigt ist, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "184/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=a2d7467a902179225e94efe9e3b19191050a1f883735f0a449a2cfd6e6ea9ad4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=7ce867ea9b0f7d1b72d64243882fbebbe62caaca16124b5b6384bab800874c36"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=1a1509d2052972a99be691e1f9760a852052390b531f47f8baf02ba6d8dbe9b5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

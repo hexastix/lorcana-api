@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Rêveuse pleine d'espoir",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "adf0136e1ec25cf120f49b7a4e1d31f8560793a7",
+  "culture_invariant_id": 1446,
+  "sort_number": 1443,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable",
+    "Mélomane"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Madrigal"
+  ],
+  "flavor_text": "Ma famille est géniale. J'en fais partie, je suis comme…",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) Mélomane 5 (Ce personnage est considéré comme ayant un coût de 5 pour chanter des chansons.)",
+  "card_identifier": "13/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=3820675aef80eaac0f53c9363c4c720c766890dc44be547f2d7a41fcbd392d88"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=8be9c0bacf8c1f9352f16a0c8ed45462200f6770c2969fca8e36a776afb440c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/bd307a3ec329e10a2cff8fb87480823da114f8f4.jpg?checksum=582fa645732658239015e46bf4eaed3afaaf6676b422cc5194996e4d0de9b70e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

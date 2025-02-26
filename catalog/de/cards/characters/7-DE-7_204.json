@@ -1,0 +1,41 @@
+{
+  "name": "Peggy",
+  "subtitle": "Naturtalent im Auftreten",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "762d1029f027634d776b43710b50208449173fad",
+  "culture_invariant_id": 1440,
+  "sort_number": 1437,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Sie war dazu geboren, ein Star zu sein, egal wo sie auftrat.",
+  "rules_text": "DAS PUBLIKUM IM BANN — Wenn du mindestens 3 weitere Charaktere im Spiel hast, ziehe 1 Karte.",
+  "card_identifier": "7/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=45fd8c1cb8acbb8cd51587c609e27d7b1cd03680a6057c123bcaf7c6fb7f9f61"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=dedad87ee1aa468d7ba437e43206eebf16ebbc4c7fada13be60137ddbcf54fd4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=ed5fbf093167e19768f1b04dbd917fd26b9c159da7b1c84fe7abf392b6ed9822",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

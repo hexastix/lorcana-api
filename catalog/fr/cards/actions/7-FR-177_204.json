@@ -1,0 +1,33 @@
+{
+  "name": "L’eau a de la mémoire",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samoldstoree",
+  "deck_building_id": "5e97cf7b8358a2a7fa4446b2bfdf89d0986ab9fe",
+  "culture_invariant_id": 1610,
+  "sort_number": 1607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choisissez un joueur et regardez les 4 premières cartes de sa pioche. Placez l'une d'entre elles sur sa pioche et le reste sous sa pioche, dans l'ordre de votre choix.",
+  "card_identifier": "177/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=69cdd96bc570ea778694a6f08431b020ca967b6a4c5b61b24c99b4c77eb5990c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b28c5cbfdc6103c831ab0cdc8fb9c2d523b4148523615ed886922c401b9d89b6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=ee47d104dbacf8538bd16ea9e8c63656f8ff46bfdab87bb6975615d2a2413b6a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

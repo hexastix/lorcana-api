@@ -1,0 +1,43 @@
+{
+  "name": "Tuktuk",
+  "subtitle": "Entwaffnend niedlich",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maria Dresden",
+  "deck_building_id": "fc3303c43ff9b9600d46c652cda744f6e999e753",
+  "culture_invariant_id": 1620,
+  "sort_number": 1617,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Beschützen",
+    "Robust"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) Robust +2 (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "187/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=a64fcf88847c90aa4b338063a12310cba09a11bddd9260986e9362f17190f789"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=91f1d33d1134be6563252c942b0bf0609faef75131e1ed6cc2bcef6ab0a661f4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=23cd4e68909fad509d6e8462a280b5e2600c0b94bb4fbf9c6d73f70d581d195d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Penny",
+  "subtitle": "Bolt's Person",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "411deec2bc09d6d9bad7ac874b976b9ef4264678",
+  "culture_invariant_id": 1454,
+  "sort_number": 1451,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "ENDURING LOYALTY When you play this character, you may remove up to 2 damage from chosen character and they gain Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "21/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=64b0af42f8bfecee01f43a159c8cc2c7093482812de129110f8471c565f0dd4e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=1d2c1565cb86bdac4cb9e26d2a4489f37b420aff736e304b19984a83aea65124"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=12b143f456a675f6e0d10d9accee3c6987c012ad7c33005c213df9591a6cf0b9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

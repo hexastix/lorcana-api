@@ -1,0 +1,43 @@
+{
+  "name": "Jafar",
+  "subtitle": "Newly Crowned",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1643,
+  "sort_number": 1640,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "THIS IS NOT DONE YET During an opponent's turn, whenever one of your Illusion characters is banished, you may return that card to your hand.",
+  "card_identifier": "210/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=9cc8b1fd0b9754c0b529daf05dbc8063071542c21080afe2dd83c76a64dc44e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=8a16436c83668a5fb1c19e3ede0bbd34e3daf99263541a07c06888cc6629b695"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=5507fb45a8033350956fd47ec90419e58101f88a1bfc8360126a73a1e08265ec",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

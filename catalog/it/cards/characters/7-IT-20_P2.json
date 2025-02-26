@@ -1,0 +1,45 @@
+{
+  "name": "Kronk",
+  "subtitle": "Rilassato",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "3e3ad547703c4a8a5dbc00b8c4deace40863300d",
+  "culture_invariant_id": 1657,
+  "sort_number": 1655,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.) LO ADORO Se un effetto ti farebbe scartare una o più carte, non scartarne.",
+  "card_identifier": "20/P2 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=f10d80a5916e065839563171ef7240c50fb07c879a94b5a40bbd2654da84c68d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=40de5bb4e3bbc4e0f93c99ea44c6ac7842585e155bbab0977dc486708eb703ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/91032ad7bbcb6cf72875e8e8207dcfba80173f7c.jpg?checksum=b383cf879e79b187b0a1ee5cf840f6354b267bb6328ded3e6c7f9a1e277076c2",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

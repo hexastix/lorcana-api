@@ -1,0 +1,40 @@
+{
+  "name": "Susi",
+  "subtitle": "Elegante Spaniel",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Sara Leal (Loyal)",
+  "deck_building_id": "934805edfc939c3c6e92fa8b34aca79d34855421",
+  "culture_invariant_id": 1533,
+  "sort_number": 1530,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Bist du sicher, dass wir hier reindürfen? Herrchen würde mich nie in die Küche lassen.",
+  "rules_text": "EIN HUNDELEBEN Solange du mindestens einen Strolch-Charakter im Spiel hast, erhält dieser Charakter +1.",
+  "card_identifier": "100/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=f8d465f42a986d5e6f34aaaae829c000253bf495c0aea99e68c5d3a4a38cf06b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=eca25d23254e85b131595ac859c5fb6fa3b827c70d861c152d95660b01af9c6e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=7f970a991015c2426c31293581bad1ce23af4e11238c7762d0eb31ace5e5b08f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

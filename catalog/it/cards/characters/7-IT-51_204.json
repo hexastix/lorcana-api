@@ -1,0 +1,42 @@
+{
+  "name": "Jafar",
+  "subtitle": "Appena Incoronato",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1484,
+  "sort_number": 1481,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Ora che la Corona Esamantica è finalmente mia, nessuna forza in Lorcana può opporsi a me!",
+  "rules_text": "NON HAI ANCORA VINTO Durante il turno di un avversario, ogni volta che uno dei tuoi personaggi Illusione viene esiliato, puoi riprendere in mano quella carta.",
+  "card_identifier": "51/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=0f0769b48bfe05e29b10763f21fa981c95aa5d83ef537d461be8f49d4efab69e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=705bb075e87d3f062612888543fd990ac5d50c55dd2d5a71f021a31f60a40419"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=1e722bcfd5f9706bc7bf2add48382feaab51a0040342b04800c9e2dffb02e66d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

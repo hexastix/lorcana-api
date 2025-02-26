@@ -1,0 +1,42 @@
+{
+  "name": "Maid Marian",
+  "subtitle": "Badminton Ace",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "16b563305b1ebac09f45ac449c05181244aff0e5",
+  "culture_invariant_id": 1609,
+  "sort_number": 1606,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "GOOD SHOT During an opponent's turn, whenever one of your Ally characters is damaged, deal 1 damage to chosen opposing character. FAIR PLAY Your characters named Lady Kluck gain Resist +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "176/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=46b96047fb0051a358ee61831dbc32f5fd1204d141f3bbb78f94f55ea234c810"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=262fb5ee90943fbb500aeaa8bb9adcd9a021aff55de75b298db80fe78bfd2b16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=c654473d285d30c165d5181031ad38f7e04949cdbc3d7c8e3c3a34cca6bec85a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

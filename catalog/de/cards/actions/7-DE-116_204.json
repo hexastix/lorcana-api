@@ -1,0 +1,33 @@
+{
+  "name": "Alice, wach auf!",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "1c2d6362749cb836c4d2e5f90fe707296e30c1fc",
+  "culture_invariant_id": 1549,
+  "sort_number": 1546,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Alice! Würdest du bitte zuhören und deine Lektion aufsagen?%–Alice’ Schwester",
+  "rules_text": "Schicke einen beschädigten Charakter deiner Wahl auf die zugehörige Hand zurück.",
+  "card_identifier": "116/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=22115204a25bcd59f71d9358286b245691399f692c0f440982b8db1e9239057d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=b9199293e834504f34e95d5973d73f2f18b150b1a5acff72bae3fedfc1bb174e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/683e725c03a87baaad2623231644e944e537acab.jpg?checksum=02afaa83e819b4b1fded7c2a090c581c5a365e10d2cc0b61d715139b722850c9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

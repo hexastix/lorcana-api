@@ -1,0 +1,40 @@
+{
+  "name": "Biagio",
+  "subtitle": "Cane Intraprendente",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "306f19dbca99cea365477d3efb8420831ab5d23c",
+  "culture_invariant_id": 1543,
+  "sort_number": 1540,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "EHI, BIMBA Se hai in gioco un personaggio chiamato Lilli, paga 1 in meno per giocare questo personaggio. NON È IL MOMENTO DI FARE DELLO SPIRITO Quando giochi questo personaggio, un tuo personaggio a tua scelta riceve +1 per ogni altro personaggio che hai in gioco per questo turno.",
+  "card_identifier": "110/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=7e400dc00021f1fcc0915f163aa5f97a600e01136d7c4b9a286b3a4f50d8b71c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=5f0f88053ea62bc2a032848afc3c983e53d6b145d396c6c3a1dda6acc6724a6a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=386cbcaf359e61d073dcf863eb621c4f647f2e9cc2aa89c13177c338196a67b8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

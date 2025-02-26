@@ -1,0 +1,42 @@
+{
+  "name": "Minnie Maus",
+  "subtitle": "Geschichtenerzählerin",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "SCG",
+  "deck_building_id": "40e23a6aa4e9b85c3ae4a6b8a3433cc2c36a426c",
+  "culture_invariant_id": 1464,
+  "sort_number": 1461,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "VERSAMMELN Jedes Mal, wenn du einen Charakter ausspielst, erhält dieser Charakter in diesem Zug +1. NUR NOCH EINS Jedes Mal, wenn dieser Charakter erkundet, verliert ein gegnerischer Charakter deiner Wahl bis zu Beginn deines nächsten Zuges so viel , wie dieser Charakter hat.",
+  "card_identifier": "31/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=356a666d3ca844dd414e58d04d07481e0cbc7fe8b34d838aa6ccc4c0559de9ca"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=40aa648dcfd41619a509eb648b1893e6ac46649312ea6610c00d07ccc9f03fae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=df97421a51329f531607c97a3c438ee0d3b5160e74aa0b2ac3974d2b66b7766d",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6d77d51385bcd60dcadc63053ab48bf14bbd3a1b9cfb2d4c4d4b2821829f18a9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

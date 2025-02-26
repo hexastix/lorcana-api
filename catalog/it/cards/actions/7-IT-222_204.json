@@ -1,0 +1,34 @@
+{
+  "name": "Ricostruire Atlantide",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "3a22bf1160fb323ece5b18abbcd5823cf6c9e990",
+  "culture_invariant_id": 1655,
+  "sort_number": 1652,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "I tuoi personaggi non possono essere sfidati fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "222/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=81ac20b438c5670330f09921603ee7241b431b6c7d70a530d7728e06cb9ce91d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=1cb95366825500c481f60d03230ce051c948604636e288b13d0c4f6cf7da66cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=04726be734fee25d6b6f7b9df70eb2bf5e7cc52212941bacfb14f1d837dbb487",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

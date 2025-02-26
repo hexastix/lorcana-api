@@ -1,0 +1,44 @@
+{
+  "name": "Heihei",
+  "subtitle": "Dalla Coscienza Ampliata",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Maxine Vee",
+  "deck_building_id": "60cce29a8b123e85708a10c1bc80278325d99446",
+  "culture_invariant_id": 1596,
+  "sort_number": 1593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Heihei.) Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.) LIBERA LA TUA MENTE Quando giochi questo personaggio, aggiungi tutte le carte dalla tua mano al tuo calamaio, a faccia in giù e impegnate.",
+  "card_identifier": "163/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=badb71f2593ade85d2043cb61591a8818c6946c3742e50b46ba8f8054f36024c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=177fe19f41d12ff80672b4b11153a529826a94b6a6316580c69b900582e5c368"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=fabe56a9c5258fef6dfceedc30846f394c702a56f2c9643038e54f429e937201",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mushu",
+  "subtitle": "Maestoso Drago",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Tom Bancroft",
+  "deck_building_id": "2a608171e87ca61b48b698e1fe5482c717572e13",
+  "culture_invariant_id": 1570,
+  "sort_number": 1567,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Drago"
+  ],
+  "flavor_text": "",
+  "rules_text": "INTIMIDATORIO E IMPONENTE Ogni volta che uno dei tuoi personaggi sfida, ottiene Resistere +2 durante quella sfida. (Il danno che gli viene inflitto è ridotto di 2.) GUARDIANO DELLE ANIME PERDUTE Durante il tuo turno, ogni volta che uno dei tuoi personaggi esilia un altro personaggio in una sfida, ottieni 2 leggenda.",
+  "card_identifier": "137/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=0c46ad85feab94d0bf193f50ad8d5d7ef070ede713bd394c70f86dfd9aad0987"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=e38e535ec9605b905dada1ab353cd1f190b3d2be2487ab6c3491897d78a3c9fc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/e1a864f0b77f6c89794827a9035355dc8d052622.jpg?checksum=011fa32af01ad252b563323eb4baab4190a1a58b97e80cb07126636d2fdb9f26",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

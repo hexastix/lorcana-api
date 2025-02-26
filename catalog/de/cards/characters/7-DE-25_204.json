@@ -1,0 +1,41 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "Lebt im Moment",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "César Vergara",
+  "deck_building_id": "78a3743253e0c1d99573f5b0580092912919c335",
+  "culture_invariant_id": 1458,
+  "sort_number": 1455,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Madrigal"
+  ],
+  "flavor_text": "Das hätt’ ich von mir nicht erwartet. Spitz und scharf, was kommt nun?",
+  "rules_text": "ICH WILL NICHT PERFEKT SEIN Jedes Mal, wenn einer deiner Charaktere ein Lied singt, kann dieser Charakter bis zu Beginn deines nächsten Zuges nicht herausgefordert werden.",
+  "card_identifier": "25/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=56b7852e31447125bdf50ae103846f68b4278f94d95a1425a123204594ebffd8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=003b35aae46cbdf8fef6f86be2d7aa2037af90f84769e43e1841a8a87e01f471"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=a972a92741a35ba378ec056017d7c036655c8739ef4caa761796e2f5121e6cb4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

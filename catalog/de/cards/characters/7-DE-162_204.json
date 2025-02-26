@@ -1,0 +1,42 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Ist er nicht souverän",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1595,
+  "sort_number": 1592,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "SAGENHAFTE SAMMLUNG Wenn du diesen Charakter ausspielst, nimm bis zu 2 Gegenstandskarten aus deinem Ablagestapel zurück auf deine Hand. ICH BIN STRAHLEND SCHÖN, BABY! Jedes Mal, wenn dieser Charakter erkundet, darfst du einen Gegenstand kostenlos ausspielen.",
+  "card_identifier": "162/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=592016f7e3099f828052857af60dd31d8785360052e78f310d44bfde5d75d79f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=699e43997b897db70af8e5a5235e18a224e78a4f7f52f3e10a7c8d576538118f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=ce749ce17eb1aa16698ae411461cfce9fb0183bf8a34c4fc53e37b8b842859b1",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=054a77378dc96b2437886395d1849c978ecb726b26551c32bf56b6818584fbd3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

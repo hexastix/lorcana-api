@@ -1,0 +1,41 @@
+{
+  "name": "Perdi",
+  "subtitle": "Verspielte Mutter",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cécile Carre",
+  "deck_building_id": "3435d99659b2cfcde044628324d37c6c5fa17c57",
+  "culture_invariant_id": 1435,
+  "sort_number": 1432,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "WER KOMMT ALS NÄCHSTES? Jedes Mal, wenn dieser Charakter erkundet, zahlst du 2 weniger für den nächsten Welpen, den du in diesem Zug ausspielst. HABT KEINE ANGST Deine Welpen erhalten Behütet. (Gegnerische Mitspielende können diese Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "2/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=284f9f3a65eaac84d3a8c37762731ac28b9723615b74a36dac25a91574a05682"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=43e8b73c6b5060f4a7e49ed640358008f5596d85d101e31c2a3f9575292c821a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=57e26e9b16ddc28feaaa7a9620a43fc29b6af6be139d17fff36d5b2eb82b7831",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

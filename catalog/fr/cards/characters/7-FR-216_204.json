@@ -1,0 +1,41 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Criminel néfaste",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "1f72b455c62ec192fa0b46a65aa7a58a6ff89147",
+  "culture_invariant_id": 1649,
+  "sort_number": 1646,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "SPLENDIDE PERFORMANCE Chaque fois que vous jouez une action, si ce personnage est épuisé, gagnez 1 éclat de Lore.",
+  "card_identifier": "216/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=1e45b22e66892322869921f1ebb5d18c4dbc028fe529d236a4eac155db3b47cf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=0f73af42d2c5de3246c11e368a166b30e89587dbca4e4593d1f230d7ff60a752"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0bad865a02d82f4970687ffe1b80822b76cc0626.jpg?checksum=198aa0aaf6ad4b04a1c759bbdb250ce63b476f3673588bee6e7ee5a9215d43ba",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

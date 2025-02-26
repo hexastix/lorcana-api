@@ -1,0 +1,43 @@
+{
+  "name": "Rajah",
+  "subtitle": "Tigre fantomatique",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "aa7759237b508c4b2e253ca43417ab8d26d6da36",
+  "culture_invariant_id": 1495,
+  "sort_number": 1492,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Dissipation"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Illusion"
+  ],
+  "flavor_text": "Il a beau être spectral, le danger est bien réel.",
+  "rules_text": "Dissipation (Lorsqu'un adversaire choisit ce personnage avec une action, bannissez-le.)",
+  "card_identifier": "62/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=35e60e8172379d58ed5f79a765b0425dcc30ba7cd298411853dce9291d9dc7fe"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=d7380a61813f9559e74899f51de8a7679672707b6d9144a0aaea8f1dde55536b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=55498d339751e192b7d15b1adae5cdd41ca208e0fe93b7ebbd1f0ce134c37159",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

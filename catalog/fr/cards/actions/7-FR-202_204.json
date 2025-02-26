@@ -1,0 +1,33 @@
+{
+  "name": "Les problèmes vont par paire",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "3e31b41e5c09e6378ea85d26576fd33b5e524c80",
+  "culture_invariant_id": 1635,
+  "sort_number": 1632,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Nous en avons assez de vos manigances! Prenez ça!%—Pimprenelle",
+  "rules_text": "Choisissez jusqu'à 2 personnages et infligez 1 dommage à chacun.",
+  "card_identifier": "202/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=2aa3f257ff350217fb1fa857c2cdb22cea975b3f3755298cd57957e6a25d2ea1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=020a665d54bf66fa7a3a29615fb48c25522b18aa1443e835050c4104e00005f9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=611a749e2eb06d80dab1cca50bc26c3ae8d4d58569a17b470b0437cf0b13a8ce",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

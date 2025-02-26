@@ -1,0 +1,33 @@
+{
+  "name": "Double Trouble",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "3e31b41e5c09e6378ea85d26576fd33b5e524c80",
+  "culture_invariant_id": 1635,
+  "sort_number": 1632,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "We've had enough of your shenanigans! Take that! —Merryweather",
+  "rules_text": "Deal 1 damage each to up to 2 chosen characters.",
+  "card_identifier": "202/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=a40db9bd17e21767790d0bc3e1c8e94acc83abf984a27c863fdc22181d78339c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=cd2c71802203a4ae2c1ce8622fba2a7a00ad788bdf01178231877d8c5d35ab69"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/1e7b95c5614637fdcde70eb7f2d109134c95c6bf.jpg?checksum=6c1cfc33d6dc296ac2326916e879fbb57105ada19d56b619f3c56e0a39fc722c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

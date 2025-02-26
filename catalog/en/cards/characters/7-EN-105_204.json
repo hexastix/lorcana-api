@@ -1,0 +1,43 @@
+{
+  "name": "Gizmoduck",
+  "subtitle": "Suited Up",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Cam Kendell",
+  "deck_building_id": "5de1016b1e0ec1f3f0b71db04b7c8ad9001d766d",
+  "culture_invariant_id": 1538,
+  "sort_number": 1535,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resist +1 (Damage dealt to this character is reduced by 1.) BLATHERING BLATHERSKITE This character can challenge ready damaged characters.",
+  "card_identifier": "105/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=136236c0d2fd8831a8d350a93a8f9fb2a6dbb64a2685c140e3920c3f069bf580"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=19008dc1fe445b41834bf47959f4a1333121946552fb355985da5e5e9be5d226"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc.jpg?checksum=615ef9c664f16e75674753ec082daf4be25d3365aacfd2d4e24112f33fc9c433",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

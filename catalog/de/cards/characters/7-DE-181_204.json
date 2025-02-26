@@ -1,0 +1,40 @@
+{
+  "name": "Dr. Calico",
+  "subtitle": "Grünäugiger Mann",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "6e241493e0ee6543ecca03f5f5e315161367b063",
+  "culture_invariant_id": 1614,
+  "sort_number": 1611,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Alles läuft genau so, wie es laufen soll.",
+  "rules_text": "SO LANGSAM NERVEN SIE MICH Solange dieser Charakter unbeschädigt ist, erhält er Robust +2. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "181/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=f6ff330739eb6f6dc03deb3cc366b378492221db05a3ad94470bd6d0d5914f65"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=a4738ccfdd90d09dd0f66001c8cb8513efb2c4d231fee229e75cd3372c53a751"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02.jpg?checksum=c75587d3f1217a6081e61936ad14d3e96f62d7f1a2b27dbae54769c4e539264b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

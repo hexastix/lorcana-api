@@ -1,0 +1,40 @@
+{
+  "name": "Akela",
+  "subtitle": "Ancien du clan des loups",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "1b4a6218f6a563cb71856d431c897d7583ea027f",
+  "culture_invariant_id": 1615,
+  "sort_number": 1612,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Un chef avisé doit savoir prendre des décisions difficiles lorsque la survie de la meute est en jeu.",
+  "rules_text": "",
+  "card_identifier": "182/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=7a5efd61c54f97e8343c615fd22bbcb0f154cf5686b29fa5a0edf7b64e678c3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=0f4e97404d992063cfde86f9310b0d2b3f1a4177f599d8ffc620da3d332a847b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=f175d7aaa5b019663833f444b9dd56d9e22236e6fde97582de6dd0466e51553f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

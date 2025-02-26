@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Bellezza Risvegliata",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Viv Tanner",
+  "deck_building_id": "2ea925b3bcd4e58c5bd1d5bb775db0d24bf1d993",
+  "culture_invariant_id": 1638,
+  "sort_number": 1635,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Melodioso"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Melodioso 5 (Questo personaggio conta come di costo 5 per cantare le canzoni.) SOGNI D'ORO Ogni volta che rimuovi 1 o più danni da un personaggio, prepara questo personaggio. Non può andare all'avventura o sfidare per il resto di questo turno.",
+  "card_identifier": "205/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=816ca9872fab8ac154c9ebf128ea107bbd63ea90a33398f3cfc5e88b38c770db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=93f8e8768e31659b1483560eeb6302235925e7e50d537b95a10f63802e62ea41"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=4ffee8c8b1403b848b1028bac4da306a3b1d3c81fe06104a5587b9b888bc5d00",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

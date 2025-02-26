@@ -1,0 +1,40 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Exceptional Owl",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luis Huerta",
+  "deck_building_id": "2e059909be50ae3de97d3674f118f6da8e648180",
+  "culture_invariant_id": 1509,
+  "sort_number": 1506,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Archazia’s library was a treasure trove of knowledge even for such an educated owl.",
+  "rules_text": "MORE TO LEARN Whenever an opponent chooses this character for an action or ability, you may draw a card.",
+  "card_identifier": "76/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=5db6280a8193123c9075b7e31d2a796b1f001a750003b04e065b39f687850a56"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=f7873a7bb5cd26724575a1b722e63fef7633ea7cebf73ceeb4b675c7e0af24cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=c4ec0cfe50aa6ef6e1f207055747ae59e8b0eee4e8e2879389f6c12bf97f4323",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

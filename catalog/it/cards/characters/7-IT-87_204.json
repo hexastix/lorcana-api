@@ -1,0 +1,41 @@
+{
+  "name": "Baymax",
+  "subtitle": "Batteria Scarica",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "8443d471af8ebbfb5a81734a59bca908a12fa53e",
+  "culture_invariant_id": 1520,
+  "sort_number": 1517,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Robot"
+  ],
+  "flavor_text": "Elaborare i dati dei pensierotoli di Archazia sta richiedendo gran parte della mia energia. Attivati i protocolli di risparmio energetico estremo.",
+  "rules_text": "SHHHHH Questo personaggio entra in gioco impegnato.",
+  "card_identifier": "87/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=f9875785b767689a9823ffc000d946a05618671ad88350778958681cdf12e2ae"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=c18fcf94826e893a84c4a4f2bf155491702aec10b21ba04080eabf2ce315f65d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=1375e2cce67a11888fff0b683889c2a90426ce2f5daa4b576c491a9dcb4c9f29",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

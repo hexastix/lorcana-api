@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Musically Talented",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "e4e34e724a44eb13af101f51552399722b885dba",
+  "culture_invariant_id": 1639,
+  "sort_number": 1636,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Mirabel Madrigal.) HER OWN SPECIAL GIFT Whenever this character quests, you may return a song card with cost 3 or less from your discard to your hand.",
+  "card_identifier": "206/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=825d0913647d96b0582ab5cca00b787e5fa4f682175295c9ea452ed91e36c1f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=86396b57cacdb54275e35d4ffa90291d6bb2a8a182357e0c0a99a3d89e5da45c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=1f2835b3ab1f3dc44781d21a737c78bff0d6d24e253e97a99b723b68184040ed",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

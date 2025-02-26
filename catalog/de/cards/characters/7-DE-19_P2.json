@@ -1,0 +1,47 @@
+{
+  "name": "Anna",
+  "subtitle": "Eisbrecherin",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "5c027c79eedd9a761d4497187cd38ba25c697de4",
+  "culture_invariant_id": 1656,
+  "sort_number": 1653,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Königin",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) WINTERLICHER HINTERHALT Wenn du diesen Charakter ausspielst, wähle einen gegnerischen Charakter. Er wird zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "19/P2 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f05fd9a28d825eac3166bb23f0f55a228a9ac27f19ff232ca3259616254a8a26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=348274d389459a9f3ab7ac68da949ecc29a5a1c1fb71808046da61a172955034"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=a9ba47abebd85fc7bbf398b8e043d20b6c1ae9d73280971f38e6e1e54af7cc6a",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

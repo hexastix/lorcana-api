@@ -1,0 +1,33 @@
+{
+  "name": "Show Me More!",
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Natalie Dombois",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1515,
+  "sort_number": 1512,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Weave of time, attend to me— Reveal the moments soon to be!",
+  "rules_text": "Each player draws 3 cards.",
+  "card_identifier": "82/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c6ba1df1f9ab3d6e24bfa80bbf8ec5c211f33868a1d3bdc1327e69d8515468c5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c9cbfa43dade85e76f6cb8d89ccea1dd3091dbcc498cda8bb551918b019faf47"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=a0f8bf3a16826c28168a453f541d17a71f69c6661cc9ff68aabd02b24a1df5f9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Grewnge",
+  "subtitle": "Cannon Expert",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simangaliso Sibaya / Mario Manzanares",
+  "deck_building_id": "953728c67c2d903d508f34dfca89bfb6c27fcbc2",
+  "culture_invariant_id": 1519,
+  "sort_number": 1516,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "He loves two things: explosions and even more explosions.",
+  "rules_text": "RAPID FIRE Whenever this character quests, you pay 1 less for the next action you play this turn.",
+  "card_identifier": "86/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=3bebe1600a8af7f1cc05b2c98a85ab86383657be3cecbfb99228accef939e6fb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=1aee42a96cae0824865eb2a2da58d9dad6d95b5e435270c71bf0e49905aa0324"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=59914eef243b46467dacf2074345417871b10273d9fd39a1a31b183f1a03b52a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

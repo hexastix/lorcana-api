@@ -47,8 +47,8 @@
       "type": "EXPANSION"
     },
     {
-      "name": "Carta in anteprima",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/expansions/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=65adef84-de99-46aa-9f16-64fa442ccf90",
+      "name": "L’isola Di Archazia",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=4f14b1b6-9e56-4f0f-bf45-641615b17621",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
@@ -288,6 +288,13 @@
         ]
       },
       {
+        "term_in_search_filter": "Illusione",
+        "terms_on_card": [
+          "Illusione",
+          "Illusion"
+        ]
+      },
+      {
         "term_in_search_filter": "Incantatore",
         "terms_on_card": [
           "Incantatore",
@@ -475,6 +482,13 @@
         "terms_on_card": [
           "Sfuggente",
           "Evasive"
+        ]
+      },
+      {
+        "term_in_search_filter": "Svanire",
+        "terms_on_card": [
+          "Svanire",
+          "Vanish"
         ]
       },
       {

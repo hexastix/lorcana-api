@@ -1,0 +1,40 @@
+{
+  "name": "Anastasie",
+  "subtitle": "Belle-soeur autoritaire",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "186abcc44c27815f1b4006504346a766d8731138",
+  "culture_invariant_id": 1546,
+  "sort_number": 1543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Dégagez de mon chemin! Je serai la première arrivée!",
+  "rules_text": "OH, JE DÉTESTE ÇA! Chaque fois que ce personnage est défié, le joueur qui a lancé le défi choisit et défausse une de ses cartes.",
+  "card_identifier": "113/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=36ae0448ddaea1416db1acbabf9eadeb16e1ef44b75ae10a18b268bc2bccc144"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=5847288e0b43c456df8e9b69530fc64caa7f77bf2a96acb4f381f1f0e0a026fa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=c14d6d23273f04db12448448ea81f5d7d5b59cd8052e95de96986023d5e97599",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

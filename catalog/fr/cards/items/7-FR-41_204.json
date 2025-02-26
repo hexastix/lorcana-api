@@ -1,0 +1,33 @@
+{
+  "name": "Spirale d’ambre",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Francesco Colucci",
+  "deck_building_id": "1a4b8495891072543683523882d11f76e3883842",
+  "culture_invariant_id": 1474,
+  "sort_number": 1471,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Lorsque la spirale se referma et qu'il sentit une vague d'énergie régénératrice le parcourir, Martin sourit.",
+  "rules_text": "AURA GUÉRISSEUSE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, vous pouvez choisir un personnage et lui retirer jusqu'à 2 dommages.",
+  "card_identifier": "41/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=11e8fd37d4be1222de29ff35336bea55ad9128e870cec26c3f5f7d7bf1419089"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=ad7f097dcc283531ab999e8693fcdb649aee29326b99b8ee0d83e50767e13633"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=c025571a3cff7529fcac356f3fa0af61677b048154714fd4e50255d550f40e29",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

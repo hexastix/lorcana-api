@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "In Cerca di una Guida",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Maxine Vee",
+  "deck_building_id": "c3ed1b6beca0a36c4bdc370e94c2f7665523f104",
+  "culture_invariant_id": 1619,
+  "sort_number": 1616,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "UNO SCOPO PIÙ GRANDE Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, questo personaggio ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "186/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=9bbb7d6e7a9135282fe052a9e550ae528f6907276130d7c255cd49b034ac8fa8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=3c8946d7fc4aa6eed288fcf19843e18a31f764ba518109eb5832ab8610dc0181"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=a415b3042153b96115781c8ed50f40160b52261b64a46949c42d053573bf223c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "La Reine de Cœur",
+  "subtitle": "Perd son sang-froid",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Antoine Couttolenc / Samanta Erdini",
+  "deck_building_id": "88fa1eead948d44f2664e3321bf492777618b145",
+  "culture_invariant_id": 1555,
+  "sort_number": 1552,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Reine"
+  ],
+  "flavor_text": "Quelque chose disait aux Illumineurs qu'elle en avait assez des obstacles.",
+  "rules_text": "DOULEUR ROYALE Tant que ce personnage a au moins un dommage, il gagne +3.",
+  "card_identifier": "122/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=cab8529887c4bc763a727682ed88c444311fbc3752affec72ab894bf3b2d1962"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=cac99c7545aad4ca39725601fbd9424d96583b5cda5a3a41fb21c013399a4a57"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/05a8ea5382b9fd885261bb3eed0527d1d3b07262.jpg?checksum=dbae5ea89de1d5769945db6b7d2427103405dda486839b90ee4e41529d6c864c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

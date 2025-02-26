@@ -1,0 +1,42 @@
+{
+  "name": "Daisy",
+  "subtitle": "Pirate aux multiples talents",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "d8f343ee238be3a7ebf0f0a9f5f2a7b707f21cdf",
+  "culture_invariant_id": 1541,
+  "sort_number": 1538,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Un capitaine doit être inventif, autoritaire, et ne pas craindre les trampolines.",
+  "rules_text": "DINDON DE LA FARCE Une seule fois durant votre tour, lorsqu'une carte est placée dans votre réserve d'encre, choisissez un adversaire qui choisit et renvoie l'un de ses personnages dans sa main.",
+  "card_identifier": "108/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=f8501419b3ff8d36a6dbfc016f2f08f4900681114bb38b36d14168fdef4d059b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=bc31e5fc42b2718f198cd938de20e13723322d071122b207a2e0fba166395595"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=cda5aa6c2938b117ffcf5d60c37b670e854c240acbc9cf7438ea03574ba5da3c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

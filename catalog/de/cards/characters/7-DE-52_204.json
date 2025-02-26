@@ -1,0 +1,42 @@
+{
+  "name": "Hades",
+  "subtitle": "Meister im Schnellsprechen",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "df2b712163f2278bdb5a2b67b13b5d5e3e04e6d4",
+  "culture_invariant_id": 1485,
+  "sort_number": 1482,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "… Es gibt dir viel Kraft.",
+  "rules_text": "AUCH WENN’S DIR LEID SCHAFFT Wenn du diesen Charakter ausspielst, darfst du einen deiner Charaktere wählen und ihm 2 Schaden zufügen, um einen Charakter deiner Wahl, der 3 oder weniger kostet, zu verbannen.",
+  "card_identifier": "52/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=f913e60a78e6ec738629f3ada0bcde829d5d35247e6729284b284d0734ef563f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=48cb4616d1bba496df151a8a54a91700ef6a5502632b6574ce36bbe2ecb6c32f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=ed7a40082cab295330941a07a71425a2186b90c11eba496b631ae04d5322b423",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

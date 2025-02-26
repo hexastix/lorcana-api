@@ -1,0 +1,44 @@
+{
+  "name": "Heihei",
+  "subtitle": "Expanded Consciousness",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Maxine Vee",
+  "deck_building_id": "60cce29a8b123e85708a10c1bc80278325d99446",
+  "culture_invariant_id": 1596,
+  "sort_number": 1593,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Heihei.) Resist +1 (Damage dealt to this character is reduced by 1.) CLEAR YOUR MIND When you play this character, put all cards from your hand into your inkwell facedown and exerted.",
+  "card_identifier": "163/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=ba809c09db390a44806cf91e5c873f3f602e05095aa5c9c116ad887c27959f0b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=2e48c8f2eced3acdb4ee854bfe9d53af564e121c760bd4f5969363b4e1098cf2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fd93751649ac3ea8f8772ba49c8c1fe068002835.jpg?checksum=1eadfb084ba9f964090d129228a52d906153d018794ca7ea33d158195b39669a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

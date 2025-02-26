@@ -1,0 +1,34 @@
+{
+  "name": "Das Herz zurückbringen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Nicola Saviori / Livio Cacciatore",
+  "deck_building_id": "433c65f67c223f90311aefde360c4a70f5b3776e",
+  "culture_invariant_id": 1472,
+  "sort_number": 1469,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "In dem Moment, in dem ihr Herz zurückgegeben wurde, erwachte das Grün zum Leben und gab Te Fiti ihre ursprüngliche Gestalt zurück.",
+  "rules_text": "Entferne bis zu 3 Schaden von einem Charakter oder Ort deiner Wahl. Ziehe 1 Karte.",
+  "card_identifier": "39/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=0dc5028dd27a5f3e4271eda03122f615f08362e2117e1dfa5f1514f7c36ede6d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=cafd27a975bf574aa37fde82d836a4500a0c3db94cbd1f026965ac09c2b36beb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=0fb1fb79fa9a15d0975404f95a557110b44bb0b506a7cc4cde9c4a1aab1767ee",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

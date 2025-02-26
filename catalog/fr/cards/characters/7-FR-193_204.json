@@ -1,0 +1,41 @@
+{
+  "name": "Mulan",
+  "subtitle": "Soldat déguisé",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jochem van Gool",
+  "deck_building_id": "dc468c676e85ae64384d43f7358b0f77eac28102",
+  "culture_invariant_id": 1626,
+  "sort_number": 1623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Voilà, on y est. Travaillons ta démarche, mon p'tit gars.%—Mushu",
+  "rules_text": "OÙ EST-CE QUE JE DOIS SIGNER ? Lorsque vous jouez ce personnage, vous pouvez piocher une carte puis en défausser une.",
+  "card_identifier": "193/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=ec0358ecd2572eb39b4611ae44f963ca0cdbc752cadaee39894c4be65d17434e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=5b3dd0ad8b23f9235283e44c544a24cb1bee80ba85ccabb8c714de0318535db5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=7f9e1a00584319fcf9856c2256f300de758fe207480616267022c0be74231228",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Bolt",
+  "subtitle": "Superdog",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Beatrice Blue",
+  "deck_building_id": "a31d2bdbf009fa85ab285105f4b19017beef7180",
+  "culture_invariant_id": 1640,
+  "sort_number": 1637,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Bolt.) MARK OF POWER Whenever you ready this character, gain 1 lore for each other undamaged character you have in play. BOLT STARE — Banish chosen Illusion character.",
+  "card_identifier": "207/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=4abdca98318b0a5e8451822e3e9dad09e3499971ace36af51f9e2949ad6df7e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=ac56e564c9e783006023e418c93156b6155aaed5374abdf09a82d048c6879b4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/3be76cc016a8c850661956c5f71d14c621cf6a69.jpg?checksum=972e8068b864f24e6e398b5b8e0d35a9fbae628b528f89a56345d4ac6b5e959e",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

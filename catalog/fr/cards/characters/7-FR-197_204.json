@@ -1,0 +1,40 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Assistant de recherche",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "b3111adf9384908477e6d72898ce887404f74a0c",
+  "culture_invariant_id": 1630,
+  "sort_number": 1627,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "MAIN TENDUE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez jouer gratuitement un personnage Allié coûtant 3 ou moins. SE DONNER DU MAL Tant que ce personnage est épuisé, vos personnages Allié gagnent +1.",
+  "card_identifier": "197/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=1b4a2e324d08974371db561137ca5c599c0e483bade7019815193611ec00efeb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=908c617c52cd09b187acfce4d268406fe210af283be3e8401466c844e3533056"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=f1476daa9de4ae95e7f42f1d45f1ce045d6f1f709702874c01e1302f120c202b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Raya",
+  "subtitle": "Guidance Seeker",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Maxine Vee",
+  "deck_building_id": "c3ed1b6beca0a36c4bdc370e94c2f7665523f104",
+  "culture_invariant_id": 1619,
+  "sort_number": 1616,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "A GREATER PURPOSE During your turn, whenever a card is put into your inkwell, this character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "186/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=d12789add642f78f2b5b3950259def2c75361b8b09882312ad62901ba8a8dcaf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=6ffcd9f2ad2b4e3dc012bbac434885092b12011305a8ba4a321e83b8edd0b457"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/87d538ef1c1db71603e60f278446c86470162380.jpg?checksum=8e5c0b70646b087d6d1a8ec5461b76484ab1bd5f6ad2012960a2affa8f2d8ca4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

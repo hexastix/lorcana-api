@@ -1,0 +1,43 @@
+{
+  "name": "Beast",
+  "subtitle": "Frustrated Designer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Koni",
+  "deck_building_id": "eea594c1f8504db74823bfd75c4ed44f1a518599",
+  "culture_invariant_id": 1569,
+  "sort_number": 1566,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince",
+    "Inventor"
+  ],
+  "flavor_text": "No, no, no! This is NOT THE WAY I SEE IT IN MY HEAD!",
+  "rules_text": "I'VE HAD IT! , 2 , Banish 2 of your items — Deal 5 damage to chosen character.",
+  "card_identifier": "136/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=b12ac61fb9ff75e77b50209602c2d57a97bd3f56850734fde5bd9d506e78b5a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=b1eb362d1667658eb77a2270118268c0e8c83e0fd4b2a0ac34790b2fceaf8d79"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=ac7ae4fdb74e2924c7ae18571314d8d06bf54df63ea80e28c6f07a321f128ebb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

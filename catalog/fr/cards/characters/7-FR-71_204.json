@@ -1,0 +1,43 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Lama en panique",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "13ad1b826bfa0c021406dce75ac9d15ecaf5669a",
+  "culture_invariant_id": 1504,
+  "sort_number": 1501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) ON VA TROUVER UNE SOLUTION Au début de votre tour, choisissez entre : • Chaque joueur pioche une carte. • Chaque joueur défausse une carte.",
+  "card_identifier": "71/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=7a24876c5b4e556b9b1f1cf8e44a4bbeb94ce59b2d05c3a626f455b7569a5398"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=cb47f4526c82f82353088e00e9ace9d66b145deb9329d00037ce1222a095118f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=4be11ea8253f63116c1d90f375738078453a1a65a3ec414dbd93b088961e7ca6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

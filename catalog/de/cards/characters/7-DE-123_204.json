@@ -1,0 +1,39 @@
+{
+  "name": "Heiratsvermittlerin",
+  "subtitle": "Kompromisslose Expertin",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "37ceefedfc5a4857cf51f3b75ec149712c62fdab",
+  "culture_invariant_id": 1556,
+  "sort_number": 1553,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Die ist ja muffliger als ’ne Stinkmorchel.%–Großmutter Fa",
+  "rules_text": "DU BIST EINE SCHANDE! Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, verlieren alle gegnerischen Mitspielenden je 1 Legende.",
+  "card_identifier": "123/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=942d1ee148e9f6bdb19745e56c0b1c249fc33ec028458c8cc2f07632d87c2773"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=13da23e3ad697874357d8a3705a76be103383109c602cf3a9f65c41089d50731"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=d403c2e403ca3ba68ad4285be464628c182bef53f137f2e1a1860ac0f7225eb8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

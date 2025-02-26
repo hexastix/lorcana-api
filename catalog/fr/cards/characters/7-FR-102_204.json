@@ -1,0 +1,40 @@
+{
+  "name": "Pacha",
+  "subtitle": "Compagnon de randonnée",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Luca Pinelli",
+  "deck_building_id": "a375827e674b232f0d824d876ebddaaa0e37b54c",
+  "culture_invariant_id": 1535,
+  "sort_number": 1532,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Pacha préférait se préparer à tous les imprévus. Qui, avec Kuzco dans les parages, arrivaient souvent...",
+  "rules_text": "SAC PLEIN À CRAQUER Tant que vous avez plus de cartes en main que chacun de vos adversaires, ce personnage gagne +2.",
+  "card_identifier": "102/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=cc70e759a64103f20e932faef262ec657bcd2c52630be404278d3386d9afb7d6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=6a98094fbdb618f74e24c003ccc4165bd05988dc70b472bbd75048e93a00a0d2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c87ab840f7f6a7a017f24b7ec55a8a749825861e4bfe7cd466a53349d03ebfe2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

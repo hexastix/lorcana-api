@@ -1,0 +1,40 @@
+{
+  "name": "Shir Khan",
+  "subtitle": "Berüchtigter Tiger",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "e5c04a374746e0b16d522ecd3804b6024ae6ad38",
+  "culture_invariant_id": 1525,
+  "sort_number": 1522,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Er wäre der Erste, der dir sagen würde, dass er ebenso großartig wie tödlich ist.",
+  "rules_text": "SO EIN JAMMER Wenn du diesen Charakter ausspielst, wirf alle Karten von deiner Hand ab.",
+  "card_identifier": "92/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=bdf7771c31787bd95ef5c0e67a0ad24bba9b647a61d86d9fef4807b2a1088f84"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=2f1270c0c34fb1eb78b751b292be5f7e5273f1ee0a425a744822f8c2061f4e28"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=ccd50e330ce5c499362bc72562876e16499b1e391b8145b144da9456072302cb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Kenai",
+  "subtitle": "Magical Bear",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "7696e481f25492ef90ec0b0ac819144fbe6fcffa",
+  "culture_invariant_id": 1503,
+  "sort_number": 1500,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Challenger"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Challenger +2 (While challenging, this character gets +2.) WISDOM OF HIS STORY During your turn, when this character is banished in a challenge, return this card to your hand and gain 1 lore.",
+  "card_identifier": "70/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=526447423558d8f06cea76d5b098e854223b9e29427bf4f0f3335cde6399972a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=44bbdd4765bebdcc4269f72bc081f1dbd107187ea4272e3505ba35fc3436e0bf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a9d888133789db724d82facb97a476c1c4a696444b607deb2cc22120b724aa52",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

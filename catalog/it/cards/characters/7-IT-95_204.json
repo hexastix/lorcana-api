@@ -1,0 +1,44 @@
+{
+  "name": "La Regina di Cuori",
+  "subtitle": "Imprevedibile Prepotente",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "de884385b8d6949128ae14c3ed43527359b2d71d",
+  "culture_invariant_id": 1528,
+  "sort_number": 1525,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Regina"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato La Regina di Cuori.) SE IO PERDO LE STAFFE... Ogni volta che un altro personaggio viene giocato, metti un segnalino danno su di esso.",
+  "card_identifier": "95/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=592c96738b8167b351ce7d66ee9f5c22899e258322b210ee7842a276e3c63b80"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=b6bb26fcd09798003816a550450a814adedfc5a2262861a6d7ba08bc2f52d3d7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=267e1f6515b84c64963b9720ee3436a77acfcf126905f6d0eec507a9cf13d7e8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

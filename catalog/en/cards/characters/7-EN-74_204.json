@@ -1,0 +1,44 @@
+{
+  "name": "The Queen",
+  "subtitle": "Jealous Beauty",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "2caba9821f2a147d04377683850773c4a50e222d",
+  "culture_invariant_id": 1507,
+  "sort_number": 1504,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "NO ORDINARY APPLE — Choose 3 cards from chosen opponent's discard and put them on the bottom of their deck to gain 3 lore. If any Princess cards were moved this way, gain 4 lore instead.",
+  "card_identifier": "74/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2906d73c274e0ccd27b587baee06259d4a804b4da385e58c87e2dbf08989a512"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=53e88fc1b0596879d43d7d751b3d51bb78907d0c05609161e3f389700d874155"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=feba9c5124aafee09d2ab9adc2f9afe60e7317201d547515ff2f14e3e02c229b",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=2ecd2b06ec0482eba1b64036b9c2e4883c0190e72b9bd77a706eb63d0b30d966",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

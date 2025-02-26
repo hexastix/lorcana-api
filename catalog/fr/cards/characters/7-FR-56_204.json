@@ -1,0 +1,41 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "Sorcière tricheuse",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jocelyn Sepulveda",
+  "deck_building_id": "e64deb540e72f37a0acc06a08a062edf3bb60304",
+  "culture_invariant_id": 1489,
+  "sort_number": 1486,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Les règles, elle va les établir afin de les enfreindre !%—Archimède",
+  "rules_text": "JOUER AU PLUS FIN Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage adverse et épuisez-le.",
+  "card_identifier": "56/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=26de1b5d7f72ec5670a94fa2fa05cbbab5ea43d4431d659dd4178a101572adcd"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=b1de47e49cd7b21a4b67c80e24afb2437c31bd3a94d5cd1ee0e9e521a182ef94"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=ddff3d960e18f4b5006c8fe995d0a744866716500e71becbb46e29de62410919",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

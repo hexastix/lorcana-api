@@ -1,0 +1,43 @@
+{
+  "name": "Sven",
+  "subtitle": "Renne aux aguets",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "312f59abb5f525980eb98ed6d167aea1da0b2188",
+  "culture_invariant_id": 1498,
+  "sort_number": 1495,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) REGARD REDOUTABLE Lorsque vous jouez ce personnage, choisissez un personnage qui subit -3 pour le reste de ce tour.",
+  "card_identifier": "65/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=38f9d370dd6909a5b8ae83b4808bc06ec1b28d38c471dc778a1e96fb97b3f454"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=3afb8328a7dd0a7bd656e3bcb1edde3e02223713ab75954dca046965bc998d4e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2a459380709e2fe4ac2dae5733c73225ff6cfee1.jpg?checksum=8818969d02e40a6b48107a57cb5a948189a43e0678ecdad6dc62b4cec78f136c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ]
+}

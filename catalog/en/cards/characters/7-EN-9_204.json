@@ -1,0 +1,42 @@
+{
+  "name": "Mittens",
+  "subtitle": "Sassy Street Cat",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "3560af4d94b66ca33fed2fa534f5c8ee97513428",
+  "culture_invariant_id": 1442,
+  "sort_number": 1439,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) NO THANKS NECESSARY Once during your turn, whenever a card is put into your inkwell, your other characters with Bodyguard get +1 this turn.",
+  "card_identifier": "9/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=4f0a1ad298146c1fddbebd691664033e3c95e392f30bdeab2c727e65e58e9d14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=f3cad7dd188b6012d753ed337e1eadab0918840b658c285e2b3f101e423de217"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=b6e1f1b908c7cbc813f8894f7f5185d557b29d4abce6640982f338f97905a4e8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

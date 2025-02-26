@@ -1,0 +1,33 @@
+{
+  "name": "Kanine Krunchies",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "0e14bb8a862da981efa44f59d4328c79ee92dba1",
+  "culture_invariant_id": 1476,
+  "sort_number": 1473,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Happy dogs are those who eat nutritious Kanine Krunchies!",
+  "rules_text": "YOU CAN BE A CHAMPION, TOO Your Puppy characters get +1.",
+  "card_identifier": "43/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=bc45cefbfdae0d7d7dc9b237c62df2ba11f2eb769e2b44d52d5ae2e61304ee5c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=db62b256314bf7d43fd22bc1fb4cadf30c1b8f0c9c80dc1f55b3c09e8f8962b6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=80550f8b49b59a9607265702dc3f7f5d4415e3c4055e856a690e3c10ac5e0314",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

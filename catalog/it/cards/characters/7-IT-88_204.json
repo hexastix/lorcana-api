@@ -1,0 +1,42 @@
+{
+  "name": "Romeo",
+  "subtitle": "Seduttore Felino",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Kasia Brzezinska",
+  "deck_building_id": "926bc29c21b56c27f1a52cfead290ea03de769de",
+  "culture_invariant_id": 1521,
+  "sort_number": 1518,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Protetto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Riesce sempre a cavarsela con la sua parlantina.",
+  "rules_text": "Protetto (Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)",
+  "card_identifier": "88/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=e6ae3b721a717920f5c38077fe671957a709c6a70473da2afad5231d5eecec76"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=653adaddd8f268d808d2a820216d0149327995722a38b986babdcca56e13c544"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=e3a3ff6920af3ec073c7d2793ebea3f7f97a6d0a348f2b5ff666bb08d5daefc8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

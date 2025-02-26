@@ -1,0 +1,41 @@
+{
+  "name": "Pongo",
+  "subtitle": "Dear Old Dad",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Cécile Carre",
+  "deck_building_id": "4ded36b061197a0ad11ed674df025e831934904a",
+  "culture_invariant_id": 1462,
+  "sort_number": 1459,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Tricks and traps are nothing for plucky pups.",
+  "rules_text": "FOUND YOU, YOU LITTLE RASCAL At the start of your turn, look at the cards in your inkwell. You may play a Puppy character from there for free.",
+  "card_identifier": "29/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=3dbd99d4a79e05ad065306e21bdb7d60775ff2f732747a3c8ed362852214b66a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=d4d5f51a3e1bd6a2ef9c0b21fb249ba073efa7058490a725884e0edf599ce0e9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=c15194c5f89423d440e92c9479c6a4d7047bfb3e0c4f3f4d7626b14dc1e9e484",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tanana",
+  "subtitle": "Anziana della Tribù",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "807b7d0d2a91ae411ae70464452df3a5a6b60498",
+  "culture_invariant_id": 1479,
+  "sort_number": 1476,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Questo è un luogo di meraviglie e di apprendimento. Ascoltate bene il Gufo e scoprite ciò che lei può insegnarvi.",
+  "rules_text": "",
+  "card_identifier": "46/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=ae76eff0cdb6a1c212783d8782884743814ef302544685468091059179e9f0f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=c28e0103573cc1b373313724695f9c0473b2d1d033ff3cbba1fb94e063fd57be"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=07045ffd0552d51e8f0ee89b2042b541af5cf96f69f9f06ec56d315084ef4fb6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

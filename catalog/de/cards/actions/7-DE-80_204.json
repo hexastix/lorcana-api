@@ -1,0 +1,33 @@
+{
+  "name": "Magische Manöver",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jennifer Wu",
+  "deck_building_id": "d587c3f09f6a2381566ef6cc840935c84c29d8dc",
+  "culture_invariant_id": 1513,
+  "sort_number": 1510,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Oh, ich bin sicher, es ist in Ordnung, wenn wir die Fallen umstellen. Archazia hat sicher nichts gegen ein bisschen Magie.%–Flora",
+  "rules_text": "Wähle einen deiner Charaktere und nimm ihn zurück auf deine Hand. Erschöpfe einen Charakter deiner Wahl.",
+  "card_identifier": "80/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=84fd1f14410c661c332449b98a86fded3a56f2e117c0c4660d60f55d1ff7ba3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=f62d9da1a1f00cf78264675f8d2dc17a7e8fbf1b27348496a74546481039b1da"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=588e184bbeeaf4ebf63f8faac5eecf0c256a03e64a8165a52cb16f157ecd1506",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

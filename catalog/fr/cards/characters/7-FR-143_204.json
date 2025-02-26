@@ -1,0 +1,42 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Criminel néfaste",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Max Ulichney",
+  "deck_building_id": "1f72b455c62ec192fa0b46a65aa7a58a6ff89147",
+  "culture_invariant_id": 1576,
+  "sort_number": 1573,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Pourquoi interrompre le spectacle quand on peut simplement voler la vedette?",
+  "rules_text": "SPLENDIDE PERFORMANCE Chaque fois que vous jouez une action, si ce personnage est épuisé, gagnez 1 éclat de Lore.",
+  "card_identifier": "143/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=7c6c0d2c907ba59f02ef4137871a90aeb1e722b48b3eeb5f26618900ee04dbd9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b48eef0dc0ea8712aa9f8824e38b700ee5f79b22606f01bdb89eccf77fb58fed"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=c07dade5f5bddea66ff298bc403f3f004bdc5c18533d1186c37d71697b3ed8f8",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b3d2381956d9598119a0d9976f82e7a379b5b0ffb95bad76e336e1b7103e3332",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Baymax",
+  "subtitle": "Giant Robot",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "ad862baa5875379e40b08691465e23adf5ba70d0",
+  "culture_invariant_id": 1537,
+  "sort_number": 1534,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "Universal Shift 4 (You may pay 4 to play this on top of any one of your characters.) FUNCTIONALITY IMPROVED When you play this character, if you used Shift to play him, remove all damage from him.",
+  "card_identifier": "104/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=11da4ba4f17d42de68e6cbaa98be87f3428cce8c211f1dfc2a0e28e499788de2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=129ac53393cb86453a46c5c24c0de7873e4715846714fb507b58ce316aa8efbf"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=1baa69e8d01d79e0f76ec597312a5865d89624180e6f8d4ebc706492fe84fd2d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

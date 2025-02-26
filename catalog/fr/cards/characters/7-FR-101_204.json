@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Conspiratrice à cran",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mel Milton",
+  "deck_building_id": "1549f70d69d265a807a772bbb979f346c7040f6a",
+  "culture_invariant_id": 1534,
+  "sort_number": 1531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "L'un de ces leviers est forcément le bon, mais j’adopterai un lama si j'arrive à trouver lequel…",
+  "rules_text": "OOOH, COMMENT PROCÉDER ? Lorsque vous jouez ce personnage, vous pouvez piocher une carte puis en défausser une.",
+  "card_identifier": "101/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=beae47ddc1db2a88b86a5287c30f799c68b7b466ec5aa6ce85f14af059f13c03"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=4415dfd8dc99ba1b2d96a4b66e47e1019b777d2c581e818f3f5623532af833df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=62ad9e29a06ff33ccab25ff5d0766c26837d440c6d9a32782e6ec84814f8b083",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

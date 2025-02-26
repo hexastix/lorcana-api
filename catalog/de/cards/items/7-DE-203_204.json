@@ -1,0 +1,33 @@
+{
+  "name": "Stahl-Reif",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ffb0c77401e035728f3eb2f32bed33d56dcc8e09",
+  "culture_invariant_id": 1636,
+  "sort_number": 1633,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Als der Reif an Shanzays Arm einrastete, fühlte sie ein verstärktes Gefühl der Klarheit.",
+  "rules_text": "METALLISCHER FLUSS Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "203/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=f40560131554741aa6f4d773dbe98aeb70b0879f145405f858db09976a27ae64"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=0a1ac21791cd0958eb143615a46e5cacc9a972939b31d3ec75b1ce91a6cea60f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=d5864d48fb4ae0fb994e715c2f15b98e8d35857a2611d83878c54013fa336941",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

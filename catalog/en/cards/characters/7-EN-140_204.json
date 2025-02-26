@@ -1,0 +1,40 @@
+{
+  "name": "Lyle Tiberius Rourke",
+  "subtitle": "Crystallized Mercenary",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "ef808ef7c1703b959b0bcb033683307dd1b4aca2",
+  "culture_invariant_id": 1573,
+  "sort_number": 1570,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "He got what he wanted—just not the way he planned.",
+  "rules_text": "EXPLOSIVE Once during your turn, whenever a card is put into your inkwell, deal 2 damage to each character in play.",
+  "card_identifier": "140/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=02e7fd098765df11298a481b6289fc00f9d0bfe6999eb6546a9531023ced1e3e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=5d6f67ccd50730120728e4dfa238e8a0683ac17dbc267d34deb661827d4993df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=5bf5ca509743e6fa9fbc8425f1c1792682a8b4ffd911e61d0aa777d19a083a59",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

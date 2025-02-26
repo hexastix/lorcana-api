@@ -1,0 +1,41 @@
+{
+  "name": "Cendrillon",
+  "subtitle": "La bonne personne",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Tania Soler",
+  "deck_building_id": "314a16eb5a595cf0c7fefa00777939b5e367ef18",
+  "culture_invariant_id": 1448,
+  "sort_number": 1445,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Regardez, j’ai l’autre pantoufle.",
+  "rules_text": "SI LA PANTOUFLE EST À SA TAILLE Lorsque vous jouez ce personnage, vous pouvez placer une carte Objet La Pantoufle de Verre de votre défausse sous votre pioche pour gagner 3 éclats de Lore.",
+  "card_identifier": "15/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=11e9013d792d2b1c097b956bd3521b5daad3c2dac575411200bc003d73babcbc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=76c1cf659c26fc24c8218af0d871968fd04dede2fc6d1f656b83973f1a146c99"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=90abc048050762eb7bd4a8760cdc367c7297b3803a42de0a6cf9f31fa19ba0e0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

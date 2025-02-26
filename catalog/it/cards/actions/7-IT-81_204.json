@@ -1,0 +1,35 @@
+{
+  "name": "I Mitici Madrigal",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "c3565f192febee8aaadc4da67348a3246ad959eb",
+  "culture_invariant_id": 1514,
+  "sort_number": 1511,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "E come gli astri delle costellazioni %Ognuno brilla di una luce unica",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per cantare questa canzone gratis.) Ottieni 1 leggenda. Pesca una carta.",
+  "card_identifier": "81/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=f0a24ba3841c7844ed949a2b4647efc1655d72b975e3d67100423c318f37abd9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=c184fb06df6f0bfaccf4a88e2f768e1d24d9d9601708188e0a201f73333de4d5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=1e77c9c60c9e0196a00abfb4a4dc29875f18260ce13e5c63bccc157d6a52ca48",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

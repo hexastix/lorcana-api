@@ -1,0 +1,33 @@
+{
+  "name": "Bâton d’entraînement",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "e59a60896a2cea72441d79546048b4cce3a5ed23",
+  "culture_invariant_id": 1637,
+  "sort_number": 1634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ne restez pas inactif pendant que d'autres partent en quête de gloire. %—Li Shang",
+  "rules_text": "FRAPPE PRÉCISE , 1 — Choisissez un personnage qui gagne Offensif +2 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "204/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=02194956ae339774cae8a53f911514a0cff7c7ecf1277a0e1e83b43ff86ba485"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=8a721e602779d12ab85d8f0faef1fda3509e91ded860cc718e839d38f5ae810d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=78f1ec1051281e37dd1ec655fbc60184e0792ae13f5d9903141af79dea6be635",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

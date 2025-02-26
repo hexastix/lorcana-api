@@ -1,0 +1,40 @@
+{
+  "name": "Kashekim",
+  "subtitle": "Antico Sovrano",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jocelyn Sepulveda",
+  "deck_building_id": "f06a4604d6d95e7eefe5ea6ae9caaa4c6ecb6df7",
+  "culture_invariant_id": 1510,
+  "sort_number": 1507,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Re"
+  ],
+  "flavor_text": "Presumete troppo, pensando di essere i benvenuti.",
+  "rules_text": "",
+  "card_identifier": "77/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a95278604619a1ee32bfc56a4a07ce227c5b301ab7ca588d2ba71ab3fdd25805"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=711bdc30dcd8bcb5c29a54df4b3b8724c71ad01824b1a7f0b02173710f320c44"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=08af1d9d5bcd2aa7f44e664da9e12bf4df5f2e87aacd4ff041c9fb4b50785da2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

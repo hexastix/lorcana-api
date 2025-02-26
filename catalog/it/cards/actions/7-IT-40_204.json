@@ -1,0 +1,36 @@
+{
+  "name": "La Famiglia Madrigal",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "420231f6bb1e6544dc1575a7d7d4334232698cfb",
+  "culture_invariant_id": 1473,
+  "sort_number": 1470,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 5 o superiore può per cantare questa canzone gratis.) Guarda le prime 5 carte del tuo mazzo. Puoi rivelare fino a 1 carta personaggio Madrigal e fino a 1 carta canzone e aggiungerle alla tua mano. Metti il resto in cima al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "40/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=4fe440e04324d20e6cf4316b2d6912ef9a0f9671343f04e28de13e11a8ba860e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=482ac033892a95d23d3d32ea883ec21f48fe96a684eb240d659c6933b8ea5faa"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/af3e133428b9e25c55bc59fe534248e6a0c0f17b.jpg?checksum=c61decd47a16c3c3a85c8ded9bde717dccd7f4c9f69795f046b0a61c84dce717",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

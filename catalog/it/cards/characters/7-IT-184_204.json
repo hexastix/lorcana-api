@@ -1,0 +1,40 @@
+{
+  "name": "Bolt",
+  "subtitle": "Cane Caparbio",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Brian Weisz",
+  "deck_building_id": "8e6b0a691fd08092d8dcbaaa348d77b450f4795e",
+  "culture_invariant_id": 1617,
+  "sort_number": 1614,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Mi sa che dovrò usare le maniere forti.",
+  "rules_text": "NON SI PUÒ TORNARE INDIETRO Ogni volta che questo personaggio va all'avventura, se non ha danno, puoi pescare una carta, poi scegli e scarta una carta.",
+  "card_identifier": "184/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=b17e5988d7bb6b3005fb2f891f5d0e5743d7f12080e2ed572a5c503f7e51c568"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=9c9383545de7b841feed684e1cbbd01f13a953475e8f82169d3993be5b7509e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/bcf814ab41506290ab1b8158ebda6ee61b4bb579.jpg?checksum=ebbcc930898c92b03bf3f67e6ac28f776616657be15c96dd97a85ac6f86b2ade",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

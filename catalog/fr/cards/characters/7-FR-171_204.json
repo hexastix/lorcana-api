@@ -1,0 +1,40 @@
+{
+  "name": "Penny l'orpheline",
+  "subtitle": "Enfant intelligente",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Otto Paredes",
+  "deck_building_id": "687a88406aa8c1ed46674b0056434598500a6808",
+  "culture_invariant_id": 1604,
+  "sort_number": 1601,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Penny, ne pleure pas. On est là et on va t’aider.%—Miss Bianca",
+  "rules_text": "NOTRE BOUTEILLE A RÉUSSI ! Tant que vous avez un personnage Héros en jeu, ce personnage-ci gagne Hors d'atteinte. (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "171/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=ea3fc1b1538e7dd8230f942939e9118544f7a7892d4f6896fd36eedf924f21bf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=d49ecf616421f36be93fd8d06a22af23caac3acc42bf309ebb78103fd5c1f2dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=1ebd399190eff722b499578e4f541d15ea5ae72b1cdcda6c4d5949b3af48c91a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

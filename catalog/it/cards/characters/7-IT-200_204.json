@@ -1,0 +1,42 @@
+{
+  "name": "Topolino",
+  "subtitle": "Guerriero Ispiratore",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "727b46485183fb5777acda6297c425330554ddff",
+  "culture_invariant_id": 1633,
+  "sort_number": 1630,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "Fa strada con il cuore saldo.",
+  "rules_text": "SCUOTERE L'ANIMO Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, puoi giocare un personaggio gratis.",
+  "card_identifier": "200/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=5f1551e43581073aa5d96187d9f5eeb21875b19b70011a03c544af752e2b35eb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=9e902b941d7b1205734a0559c784186c1664559bfe58d8e8104514e7990315ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=b58bceb485fa300730ce6f2c0224f082a832ea4c344d2cc6fcf158d6ccd069e4",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/9f9af029585ba014e07cd3910ca976cf56160616.jpg?checksum=b7409fe7fbc4d51b9e91a635d2a85ebe5b1290e061a1ee3f0283e44e9ff7858c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

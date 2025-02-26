@@ -1,0 +1,42 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Peut enfin sécher ses larmes",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1595,
+  "sort_number": 1592,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "LA PLUS BELLE DES COLLECTIONS Lorsque vous jouez ce personnage, renvoyez dans votre main jusqu'à 2 objets de votre défausse. ON M’APPELLE L’ARTISTE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez jouer un objet gratuitement.",
+  "card_identifier": "162/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=0aab55e61d53bd520b352a52ceb64adac7caf3a1964a885bea60a1184e2988a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=e997c0fca4e7d385d1dd248c27900c277e81e3033b8be1feee58e890eb815394"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=a09f1d360cf5b9b4e3e6bb6a7d5c547a9b83658cc1d016d4a6fa4e50a9cd2692",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e.jpg?checksum=054a77378dc96b2437886395d1849c978ecb726b26551c32bf56b6818584fbd3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

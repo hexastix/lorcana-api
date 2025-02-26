@@ -1,0 +1,44 @@
+{
+  "name": "Giant Cobra",
+  "subtitle": "Ghostly Serpent",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicola Saviori",
+  "deck_building_id": "ab23bc0d0f42e3fa41a43526d6fca8f364824467",
+  "culture_invariant_id": 1490,
+  "sort_number": 1487,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Vanish (When an opponent chooses this character for an action, banish them.) MYSTERIOUS ADVANTAGE When you play this character, you may choose and discard a card to gain 2 lore.",
+  "card_identifier": "57/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=4256779e23bf0f1cb75f35cb368c139ff69cb42a4a482d264dee871e673225f6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=f618936ec0add93253f2ce5fc51333a3de78981adadefd80cc69d931d2353515"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=479fe9733b779670b7440f5cb139b31fe6b3fa4eba24e451185db30339a9050d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

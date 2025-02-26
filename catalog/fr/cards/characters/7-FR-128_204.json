@@ -1,0 +1,40 @@
+{
+  "name": "Un frère Stabbington",
+  "subtitle": "Celui avec un cache-œil",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Saulo Nate",
+  "deck_building_id": "036bf4522b52312d577ea5211b54cebf7979ed09",
+  "culture_invariant_id": 1561,
+  "sort_number": 1558,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le silence est d’or. Et il adore l’or.",
+  "rules_text": "OPPORTUNITÉ CRAPULEUSE Lorsque vous jouez ce personnage, choisissez un adversaire qui perd 1 éclat de Lore.",
+  "card_identifier": "128/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=21d98e125aa72687d9016d75280c2d675026960470247299a5c829e9d6eee21d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=56cb93bfba4d061bcf0927b6991808f0f46c1625e64d45bbc62d361be5e9378e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b4182bff4b3cf75f9e54f4990f9bd153c0c2973c.jpg?checksum=4466b016758480ec7b739c590f1bcdc29b92a9822087cf75a91c9d82496cb87b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

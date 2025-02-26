@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Transformed Kitten",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "a338053c5fc78cd2976092628447d8a80725dbad",
+  "culture_invariant_id": 1492,
+  "sort_number": 1489,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "Yes, I’ve already finished this course. I'm still going to bounce a few more times.",
+  "rules_text": "I WIN When this character is banished, if you have more cards in your hand than each opponent, you may return this card to your hand.",
+  "card_identifier": "59/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=2e745616cf0ea4282f79da2db1fcd6e68a07723527d01ab50a2aad351f6c85f2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=d304d588ead82de1fc305f089ec6198a2c8094213684de2c7cb9319c283c2cca"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=8caec98b82ed6bfe36bac9c4ee688d8a98f010ed087520c4b7d584052875b291",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

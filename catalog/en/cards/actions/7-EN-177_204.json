@@ -1,0 +1,33 @@
+{
+  "name": "Water Has Memory",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samoldstoree",
+  "deck_building_id": "5e97cf7b8358a2a7fa4446b2bfdf89d0986ab9fe",
+  "culture_invariant_id": 1610,
+  "sort_number": 1607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Look at the top 4 cards of chosen player's deck. Put one on the top of their deck and the rest on the bottom of their deck in any order.",
+  "card_identifier": "177/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=41ee1d1db69a8cfd79974ef97327e8d81a9e6535c61335c21ac737fbed9acc26"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b29bae4f48b58d5c947f3cc975d901e735a99a5041b8dde4c7a56d75e472551e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=f9b790e6d6f44f969b8d8a64f6453821ce1a9d834f17690a12124e00a505086f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

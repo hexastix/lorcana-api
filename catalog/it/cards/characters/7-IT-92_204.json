@@ -1,0 +1,40 @@
+{
+  "name": "Shere Khan",
+  "subtitle": "Tigre Famigerata",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "e5c04a374746e0b16d522ecd3804b6024ae6ad38",
+  "culture_invariant_id": 1525,
+  "sort_number": 1522,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Lui per primo ti direbbe di essere tanto magnifico quanto letale.",
+  "rules_text": "CHE PECCATO Quando giochi questo personaggio, scarta la tua mano.",
+  "card_identifier": "92/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=0e8600fcc6ee08d1a27ff1c232f3c58baa3915d5ebf40730bb789df548f46712"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=f277c214365be3eacf41eea9f271424d0b33593a0d5970817511d427e6c9fbbb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=fc2a3b0b6be4e3d31be06fb6c2538b655c0ed818adbd15afab796083180d4095",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Lucky",
+  "subtitle": "Miraculé de la portée",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "e1e514a227339f3c439243177d0de9e17bd71e57",
+  "culture_invariant_id": 1593,
+  "sort_number": 1590,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chiot"
+  ],
+  "flavor_text": "",
+  "rules_text": "SUIVEZ MA VOIX Chaque fois que ce personnage est envoyé à l'aventure, regardez les 2 cartes du dessus de votre pioche. Vous pouvez révéler autant de cartes Personnage Chiot parmi elles que vous le souhaitez. Placez ces cartes dans votre main. Placez les autres cartes sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "160/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=28928b8867075030b25e288f6690633b3b9e16ca137eef4a35c3f2e310d45d68"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=514b8cfa3375cba5c770a445b888bf72f0088db43598d630cb78a2713e24ef80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=c9d1881f6681b127a2dd5bd3427b49fab561a4e4365a15e6fdc999dd7ce0e4cd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Robin Hood",
+  "subtitle": "Attento ai Dettagli",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "a4d8629141486ff391420a5a92cc523b1bdfc285",
+  "culture_invariant_id": 1603,
+  "sort_number": 1600,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Ci sono un'infinità di leggende e di racconti fantastici su Robin Hood. E tutti diversi.%—Cantagallo",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "170/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=46b00879a0f01850175da5cb6d446e8cd2d662d95548bc66b4e55523472a634e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=060427226d19bb54529e4c95d04523f99d91b42064aa8e45e3cf5ff1988e305c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=46e6bf4a42c48970371de46ed9ce0a5ff044b86abe3d12bf683c13e67b11ea90",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

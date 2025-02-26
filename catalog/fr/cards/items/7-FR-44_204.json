@@ -1,0 +1,34 @@
+{
+  "name": "La Pantoufle de verre",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Tania Soler",
+  "deck_building_id": "f5a235b7654245ada9482fa791d327f69903983e",
+  "deck_building_limit": 2,
+  "culture_invariant_id": 1477,
+  "sort_number": 1474,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LA PAIRE PARFAITE Vous ne pouvez avoir au maximum que 2 exemplaires de La Pantoufle de Verre dans votre deck. CHERCHER DANS TOUT LE ROYAUME Bannissez cet objet, l'un de vos personnages Prince — Cherchez une carte Personnage Princesse dans votre deck et révélez-la à tous les joueurs. Placez la carte révélée dans votre main et mélangez votre pioche.",
+  "card_identifier": "44/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=e36c62447bd1b1120337a1dbf4b394535b1a33bde0ec050280c51a40b4600d12"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=2fd6cdd0eaa297ebfe30c39fc248598351e228887b92af58bad19c5c4394b27f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=d6862e357fbbc7e84db966e20a2072968e590a0874c58e6a27050173925c49b3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

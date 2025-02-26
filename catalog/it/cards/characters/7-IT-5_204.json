@@ -1,0 +1,40 @@
+{
+  "name": "Rudy Radcliffe",
+  "subtitle": "Amante dei Cani",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Hedvig H-S",
+  "deck_building_id": "eac2ac31d2370e8bb57973ee953fec1616cdcb05",
+  "culture_invariant_id": 1438,
+  "sort_number": 1435,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "La parte più bella di completare il percorso a ostacoli era ritrovare il proprio umano alla fine.",
+  "rules_text": "ECCO QUA Ogni volta che questo personaggio va all'avventura, puoi rimuovere fino a 1 danno da ogni tuo personaggio Cucciolo.",
+  "card_identifier": "5/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=862baa0e659de3f2f40519530281f2a9f7a0c4de09404b90fc1f8698a7b5d13f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=7f9ab34dce22b49096752f84c17e5a2edd1d8efbefd98bdd51eed1dc4923143f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=054f01c40743d6bb962fa97dfd44a3eded3f8a15c524d7c1b7205dbf7151c54b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

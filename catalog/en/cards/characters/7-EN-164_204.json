@@ -1,0 +1,43 @@
+{
+  "name": "Kida",
+  "subtitle": "Creative Thinker",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jennifer Park / Leonardo Giammichele",
+  "deck_building_id": "8fc0d0ceafd51fa5b52595a8a1b5f6817fadb9f1",
+  "culture_invariant_id": 1597,
+  "sort_number": 1594,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) KEY TO THE PUZZLE — Look at the top 2 cards of your deck. Put one into your inkwell facedown and exerted and the other on the top of your deck.",
+  "card_identifier": "164/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=cec0ab7695812f67e29d9607ec3e103b58582bc301b18bf75d80b86dba2d2baf"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=fa32f598e8087557c53da2bef5e5dc0ebdefdab55e08fc66499938209ae58ded"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=09b5919b8a19c6cecd3827f081f187ddb07cde42debefc0cd8b3b877b2958d45",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Madame de Trémaine",
+  "subtitle": "Amèrement jalouse",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "d6d17b4712d5e27c288f4076156bcc3e4c0ddb28",
+  "culture_invariant_id": 1548,
+  "sort_number": 1545,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "CELA SUFFIT — Choisissez un personnage avec au moins un dommage et renvoyez-le dans la main de son propriétaire. Ensuite, chaque adversaire défausse une carte au hasard.",
+  "card_identifier": "115/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=e8a92f7420f835fe3d2cf86e512e597993c9d9f550a365bdeedf9eaa65385797"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=896896e3f98a3cd0da70f84159f3ea6a8acb371411f791e36d913233dd5c75d9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=31feaebaaa0b0bb9e7c2ee5e8de80a1dcf711d8688f0329178fcc8bdf154afd8",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6658591283cfb0a40d510131acec8ebe514864f5a66ca6b86264e828d3bf8d28",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

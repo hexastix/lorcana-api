@@ -1,0 +1,40 @@
+{
+  "name": "Genoveffa",
+  "subtitle": "Sorellastra Viziata",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "4d3083e3a6043881d6f41d12e8ee9d9c77c1f8a4",
+  "culture_invariant_id": 1518,
+  "sort_number": 1515,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ancora una volta, Genoveffa si trovò di fronte a una semplice verità: la vita era ingiusta.",
+  "rules_text": "",
+  "card_identifier": "85/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=9e54548892ceb4bfa15d05f2ce0ed92af829871521bf59ebc8a38d373f984174"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=a8575a651518244a003e888c2e1b0fc34a5ce00c56f0abcab44f7e6394dad5a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1352246e33277e9d3c9090a434fa72cfa6536ae2.jpg?checksum=d1d4392bdfaf592d72edb6b569adb84e89ac4e651e0d8f09c9c9589d0fcc3c21",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

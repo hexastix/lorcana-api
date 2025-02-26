@@ -1,0 +1,42 @@
+{
+  "name": "Helga Sinclair",
+  "subtitle": "Knallhart",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Samoldstoree",
+  "deck_building_id": "cec4229e674ce5edcf99772e0cc579abb664db74",
+  "culture_invariant_id": 1616,
+  "sort_number": 1613,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "Herausfordern +3 (Während dieser Charakter herausfordert, erhält er +3.) SCHNELLE REFLEXE In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "183/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=1abaf03948440f4ad5926e522d23c216c1b9c4689af0898880c0058bc319da24"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=22c7f00fe269c60eabbb953cfae4ece6aebd57099274fa701dc6cf6b8d244d8f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd.jpg?checksum=52d769734d3153afb52785af2ba34b43961003ea50743967c67d9e329d12ac9d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

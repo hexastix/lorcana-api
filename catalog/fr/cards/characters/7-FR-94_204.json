@@ -1,0 +1,40 @@
+{
+  "name": "Le Chapelier Fou",
+  "subtitle": "Excentrique turbulent",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "87d0afe0cc27daae68ff3640462f927eefae05ef",
+  "culture_invariant_id": 1527,
+  "sort_number": 1524,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Vous ne voulez pas de thé ?",
+  "rules_text": "CADEAU DE NON-ANNIVERSAIRE Chaque fois qu'un personnage avec au moins un dommage défie un autre personnage, vous pouvez piocher une carte.",
+  "card_identifier": "94/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=9c13b648f92563e97d39a75b5d13bd9013d3db659365b0977c491cd993ee56db"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=e7ef9c7bdf6c2586c17e146b4c45d8b0a69e4c12237dacb13cc9807d3caa4256"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=468f0af1359497a21f4937e6735e953778457398133fae3596c9d77c3b591a21",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

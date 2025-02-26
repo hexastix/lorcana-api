@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Banda di Pirati",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "968fb5547e711a20578bb568ded5ae7b8bffbf73",
+  "culture_invariant_id": 1625,
+  "sort_number": 1622,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Pirata"
+  ],
+  "flavor_text": "Sono... quasi carini.%—Vaiana",
+  "rules_text": "METTERSI IN MOSTRA Mentre hai in gioco un altro personaggio Pirata, questo personaggio ottiene Sfidante +3. (Mentre sta sfidando, questo personaggio riceve +3.)",
+  "card_identifier": "192/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5d253d93d9081d1ab3ddd7524bc2d0a6245e6e313b315831a1235aad56a84b62"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=27d0d63fac0a4bddeb93d27861e3125c9e9806b70c1264138fe5a3e213b1f46d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=9020a03fba886c20d97c9f7fcdbc6b6d62617a21625f230c39829f8633421bad",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

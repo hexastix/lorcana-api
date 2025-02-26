@@ -1,0 +1,41 @@
+{
+  "name": "Mattias",
+  "subtitle": "Generale di Arendelle",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Samanta Erdini",
+  "deck_building_id": "370ac9a4fe75cd66bd7260022d0a49e58bd67d78",
+  "culture_invariant_id": 1588,
+  "sort_number": 1585,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Cavaliere"
+  ],
+  "flavor_text": "Dovete fare in fretta prima che la trappola si riattivi. Andate!",
+  "rules_text": "FIERI DI SERVIRE I tuoi personaggi Regina ottengono Protetto. (Gli avversari non possono sceglierli se non per sfidarli.)",
+  "card_identifier": "155/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=8b07e70c4c2049d96009bb132d661d43e0e820ea3b727e88d454fabba6cf4fce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=5a5d3f9170ba6cc40bab58dc152707b331eec86bddb848a161b08015957ec08f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=ffaa5aba1823a8cfed3d88ea8d3e41bf2b9874e282960271c38306997889273f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

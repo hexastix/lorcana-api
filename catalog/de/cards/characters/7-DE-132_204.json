@@ -1,0 +1,41 @@
+{
+  "name": "Die Panzerknacker",
+  "subtitle": "Kleinkriminelle",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Lauren Barger",
+  "deck_building_id": "3640f3d03075b83c26d1c507eb09571e3f2a2efa",
+  "culture_invariant_id": 1565,
+  "sort_number": 1562,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "MACH SCHNELLER! Jedes Mal, wenn dieser Charakter erkundet, wähle einen deiner Charaktere. Jener erhält in diesem Zug Rasant und Robust +1. (Der Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird. Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "132/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=c83eecc4655db973ea44242c449e81c75a4be71a81c57976b3a95d9393f68b6e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=18a19c4b385a3c1df5662e3dce354f9939c17b0af5a860972f5c95da98f2f1b2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=3cb04d1ce8a5e02d0bbd0d1bd78c8a8a6db3accbc115d2387a0481691ba3e848",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Patcha",
+  "subtitle": "Wanderkumpan",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Luca Pinelli",
+  "deck_building_id": "a375827e674b232f0d824d876ebddaaa0e37b54c",
+  "culture_invariant_id": 1535,
+  "sort_number": 1532,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Er bereitete sich gerne auf jede Notlage vor. Mit Kusco in der Nähe gab es davon einige.",
+  "rules_text": "VOLLES GEPÄCK Solange du mehr Karten als jede gegnerische Person auf der Hand hast, erhält dieser Charakter +2.",
+  "card_identifier": "102/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=3d4258e910a85bbceafb89117a206753160e0c976617cb6c977e810738ced4ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=01a624926f9a278481bb7d6773e062ff01cae8f6f73a8a31576a7971329a97b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=4901cdf2cdff09ad0ef5564858713a6880859649bb73be18f8040016ea1a2864",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

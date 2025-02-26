@@ -1,0 +1,46 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Rüstungsdesigner",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Max Grecke",
+  "deck_building_id": "80e5899ff870979d2047e3094ca8c48b56af6ada",
+  "culture_invariant_id": 1662,
+  "sort_number": 1660,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Hiro-Hamada-Charaktere auszuspielen.) DU KANNST VIEL MEHR SEIN Deine Flutgestalten, die eine Karte unter sich liegen haben, erhalten Wendig und Behütet. (Nur Charaktere mit Wendig können jene Charaktere herausfordern. Gegnerische Mitspielende können jene Charaktere nicht auswählen, außer um sie herauszufordern.)",
+  "card_identifier": "24B/P2 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/1468x2048/577b2459826281051c52af202e38c64a05a85706.jpg?checksum=3d1e0a50ccaff716a5849f78299ec3fd3e2ff79f782decd5ec9adc29f783267a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/367x512/577b2459826281051c52af202e38c64a05a85706.jpg?checksum=f89c97c92fe8598601e2b2f351322961337f1f6e3c58f810d6e9e8cf609f7efe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/masks/1468x2048/577b2459826281051c52af202e38c64a05a85706.jpg?checksum=c3d3adbe67a9cdeb17e6068ed21abc4b52473b20bc769af008f59ef772cb16f7",
+  "special_rarity_id": 4,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

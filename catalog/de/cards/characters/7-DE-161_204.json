@@ -1,0 +1,41 @@
+{
+  "name": "Dr. David Wasdenn",
+  "subtitle": "Grübelnder Detektiv",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "eadc583df968a52341c644cac11cd8aecd7804e2",
+  "culture_invariant_id": 1594,
+  "sort_number": 1591,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Detektiv"
+  ],
+  "flavor_text": "Was ist <das> denn für eine Vorrichtung?",
+  "rules_text": "SEI VERNÜNFTIG Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, schaue dir die oberste Karte deines Decks an. Lege sie anschließend entweder auf dein Deck oder darunter.",
+  "card_identifier": "161/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=645aeabf6c754dfb5f1dfe4180195f06b72bf21bdcd295ec05823f47a7a05a11"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=67aeb7bb9f3b27850d2b7672097a8aefcc5941bfddfbbc5390d0f641c1e280c5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=10f600b37c8660c2a5a8893d12e5d67a6ab89884ee21ed6bfe7280fa7b7b266f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

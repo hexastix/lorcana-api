@@ -1,0 +1,35 @@
+{
+  "name": "Un Rifugio Ha Trovato",
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1611,
+  "sort_number": 1608,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "C'è un fiume, porta in sé%Quel che è stato, quel che più non c'è",
+  "rules_text": "(Un personaggio con costo 5 o superiore può per cantare questa canzone gratis.) Aggiungi fino a 2 carte dai tuoi scarti al tuo calamaio, a faccia in giù e impegnate.",
+  "card_identifier": "178/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=284290fa7ad9f0a8c6d25c24d0fb0abf425f6a3b00616540af977bdc89280b07"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=6dd0b0e348822792c9e7f1a3faf67b8ac1e27208d0048169e2ca28a143af3143"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/25293f2761d658cc70c19515861842d712751bdc.jpg?checksum=fc06ed36f34b12cfa464c2cd76445bf0e88871b63f401f9d41af7c96aecc3b70",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Thunderbolt",
+  "subtitle": "Wonder Dog",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Max Grecke",
+  "deck_building_id": "9ff1e3265aaa35ad585e9111ab61f6c0c7b2db71",
+  "culture_invariant_id": 1456,
+  "sort_number": 1453,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Puppy Shift 3 (You may pay 3 to play this on top of one of your Puppy characters.) Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "23/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=b2a60ddbc0d80a92468bd586cece39cd12591fa48b9a0b67fad47f2da88e4d5f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=7636544b589edc0742a28316d6ac112272d0a29658522c65d47f7ab492796124"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=bef4ab854aeed645a4640532f44d2dd8806089355c84d007e6f469c9ebd8993c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

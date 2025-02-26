@@ -1,0 +1,40 @@
+{
+  "name": "Lyle Tiberius Rourke",
+  "subtitle": "Mercenaire cristallisé",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "ef808ef7c1703b959b0bcb033683307dd1b4aca2",
+  "culture_invariant_id": 1573,
+  "sort_number": 1570,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Il a obtenu ce qu'il voulait, mais pas comme il l’avait prévu.",
+  "rules_text": "EXPLOSIF Une seule fois durant votre tour, lorsqu'une carte est placée dans votre réserve d'encre, infligez 2 dommages à chaque personnage en jeu.",
+  "card_identifier": "140/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=45634cf9a91f38197885db8d70fefe366c59c0c8a3f916323fd19a90ce80383b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=5fc81d1dee91f6548322a3831dc4508572bf63c31cb02f6d2d1c4e3dffee83ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=9e4c1e3b3fbebb2d95ee484103e6c6a56f0517340fc740a0923981c910b34cee",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

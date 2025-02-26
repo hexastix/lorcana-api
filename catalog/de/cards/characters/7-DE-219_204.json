@@ -1,0 +1,41 @@
+{
+  "name": "Tamatoa",
+  "subtitle": "Ist er nicht souverän",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Beatrice Blue",
+  "deck_building_id": "057d9e6259cdbcda8a49327ed4c68f557a42c3a4",
+  "culture_invariant_id": 1652,
+  "sort_number": 1649,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "SAGENHAFTE SAMMLUNG Wenn du diesen Charakter ausspielst, nimm bis zu 2 Gegenstandskarten aus deinem Ablagestapel zurück auf deine Hand. ICH BIN STRAHLEND SCHÖN, BABY! Jedes Mal, wenn dieser Charakter erkundet, darfst du einen Gegenstand kostenlos ausspielen.",
+  "card_identifier": "219/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=15d7a8e966881539ca2a8414f1dfae3e0032cdfbbfba53d0ebd62c8f5ae9b8f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=dbbdc3be0a0a249fa919b95134c28629ed988555f421f2248b74409758697937"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c0ba17c23a26ff8c314478bc69f30963a6e4a754.jpg?checksum=6fd929ce9ac312304a9199002e4761d04d53a952aba26e242d8f86801de8d9ba",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

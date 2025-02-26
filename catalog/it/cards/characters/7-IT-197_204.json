@@ -1,0 +1,40 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Assistente di Ricerca",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "b3111adf9384908477e6d72898ce887404f74a0c",
+  "culture_invariant_id": 1630,
+  "sort_number": 1627,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "DARE UNA MANO Ogni volta che questo personaggio va all'avventura, puoi giocare un personaggio Alleato con costo 3 o inferiore, gratis. METTERCI IMPEGNO Mentre questo personaggio è impegnato, i tuoi personaggi Alleato ricevono +1.",
+  "card_identifier": "197/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=7d54c76e8d0c40ddbc87a160afc228faa2bb9ab87414c48db94b53c4157790a2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=399f11b2c44c1c473cfcc854f82b15642d8b51cf5800ab2fc80ea98e6a6225b8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=2990797e6b727fa2874492101112701a55ab43c5ac3b7f267e7cc1ceab522001",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

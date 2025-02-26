@@ -1,0 +1,43 @@
+{
+  "name": "Tuk Tuk",
+  "subtitle": "Irrésistiblement mignon",
+  "strength": 0,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Maria Dresden",
+  "deck_building_id": "fc3303c43ff9b9600d46c652cda744f6e999e753",
+  "culture_invariant_id": 1620,
+  "sort_number": 1617,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) Résistance +2 (Les dommages infligés à ce personnage sont réduits de 2.)",
+  "card_identifier": "187/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=e78b4666aa2d7ebee8bbfaf788849bba0154fcfdc66ab38c552b0ec686c96838"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=c791ed73f4681187ae19503e8bf32d8eb090ce95d141d4965d4c60b41da061b2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=1f97190e4defd481fe7b7fcd4fec9936f6ee32262d1c56a18ee9eeb097c5cddb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

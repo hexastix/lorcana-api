@@ -1,0 +1,40 @@
+{
+  "name": "Pacha",
+  "subtitle": "Trekmate",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Luca Pinelli",
+  "deck_building_id": "a375827e674b232f0d824d876ebddaaa0e37b54c",
+  "culture_invariant_id": 1535,
+  "sort_number": 1532,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "He liked to prepare for any emergency. They happened frequently with Kuzco around.",
+  "rules_text": "FULL PACK While you have more cards in your hand than each opponent, this character gets +2.",
+  "card_identifier": "102/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=7959807a1790c51db49c908566e25454fe83e28bb00d5ddf2f62f794f2a3bf59"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e726a63536ba7958fdb3f7f412e67d95820694715e4a5f333beb1392bc40ce9d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c283cf77739095b427924b887210b2bb4a27ec6394ba4d2e99b37845b2e71e5a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jago",
+  "subtitle": "Riesiger spektraler Papagei",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "92a28806ab3fe41ff2c28195914ec78416311980",
+  "culture_invariant_id": 1482,
+  "sort_number": 1479,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Verschwinden",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) Verschwinden (Jedes Mal, wenn dieser Charakter von einer Aktion einer gegnerischen Person ausgewählt wird, verbanne ihn.)",
+  "card_identifier": "49/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=686ece6994a5ae675fb1c154af1590fb8549e1b0cfc7298a872f7a4d0b82bc18"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=af5569c91727f64a8f2589d043146dfa845bda67da7f37598429ddc499ea2f5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=34ca2376ca496fda4ee0f8514f4a42ce6594ae089540e1b44b3fdeb142ec912b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

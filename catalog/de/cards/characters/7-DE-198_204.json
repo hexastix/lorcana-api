@@ -1,0 +1,44 @@
+{
+  "name": "Baghira",
+  "subtitle": "Wächter-Jaguar",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "8e707e6dd19e262dc08b7529a727f0a41a77b507",
+  "culture_invariant_id": 1631,
+  "sort_number": 1628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) DU MUSST JETZT TAPFER SEIN Wenn dieser Charakter im Zug einer gegnerischen Person verbannt wird, füge jedem gegnerischen Charakter 2 Schaden zu.",
+  "card_identifier": "198/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=a6cb6fe10840d672406d64af7828dd39bd2100bba4d155d79c1fb43576df424c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=ab0d7dee4b731f340d7808796355efed152105dd6c736f6c05efb2fe3382aee4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=4d68b6e055f17042f860d3bcb51e110530c4c78c31a5554c3f8f9747920318b4",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=de6b667e61f9df88ec0c973a7c2bbcd3e0eb6e40e4189200d63e80b1467cb76d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

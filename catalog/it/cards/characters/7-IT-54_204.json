@@ -1,0 +1,44 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Terrore Elementale",
+  "strength": 12,
+  "willpower": 12,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 10,
+  "author": "Nicola Saviori",
+  "deck_building_id": "060b34992cdf3b51d872b1f70f9d808ba0b3be9a",
+  "culture_invariant_id": 1487,
+  "sort_number": 1484,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Cattivo",
+    "Divinità"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 7 (Puoi pagare 7 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Te Kā.) RABBIA ANTICA Durante il tuo turno, ogni volta che un personaggio avversario viene impegnato, esilialo.",
+  "card_identifier": "54/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=ca89bba6626564dd035dbd4a7495edaa8c643cf78976a65889e5f13a84244660"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=a69514586ab989a24305448ab46a65f919cefea2f55ae322c0ea99a4ee16b53d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/80e28a51cbc26fa4bd34938c5e593b36146f5e0c.jpg?checksum=5b55f6324fa038c54199bd9780879d8cc0048badb4c3d55dd967cec1499a83fb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

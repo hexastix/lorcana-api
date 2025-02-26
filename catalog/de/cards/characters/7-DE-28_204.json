@@ -1,0 +1,43 @@
+{
+  "name": "Susi",
+  "subtitle": "Miss Welt",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "João Moura",
+  "deck_building_id": "9f61c69f6fd196f8a513e41f12c5e1940c07dc32",
+  "culture_invariant_id": 1461,
+  "sort_number": 1458,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Susi-Charaktere auszuspielen.) WAS WUNDERSCHÖNES Wenn du diesen Charakter ausspielst, darfst du bis zu 2 Charakterkarten mit Kosten von 2 oder weniger aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "28/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=d21cecc3bcc13ea4e7fff4aad8b94308c8262343ffc2b950bdb696098bf228f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=e6cbc6db1f9fb3661ddf44657e881dd3201dcf5b290127c6934c3088e3c3b3cc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c15a4dd5d70291c703f2dce3d7b932c6ed60b7e671c9c94f95e13f87e05269f6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

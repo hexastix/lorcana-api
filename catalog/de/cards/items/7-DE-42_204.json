@@ -1,0 +1,33 @@
+{
+  "name": "Spaghetti-Dinner",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "a9a9ca2c6a1c80726daf8f1358630264d440c24b",
+  "culture_invariant_id": 1475,
+  "sort_number": 1472,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ja, Tony! Sein Restaurant ist genau der richtige Ort für eine besondere Gelegenheit.%–Strolch",
+  "rules_text": "GEHOBENE KÜCHE , 1 — Wenn du mindestens 2 Charaktere im Spiel hast, sammelst du 1 Legende.",
+  "card_identifier": "42/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=f43acb8c55aef9c052348c82f9d10e613d655263ddbbd8080010f6b597adfb16"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=68ee1e821146d97ebeb0abc8e09f8e75246a7c8c166b5495c63fca93faf3fa2d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/92cfceb39d57d914ed8b14d0e37643de0797ae56.jpg?checksum=90baf636cbd9f9e22ecc03d10aae17b9cdbb52962d92145c2a15eb46a6460387",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

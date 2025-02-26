@@ -1,0 +1,33 @@
+{
+  "name": "Spirale d’acier",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ffb0c77401e035728f3eb2f32bed33d56dcc8e09",
+  "culture_invariant_id": 1636,
+  "sort_number": 1633,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Dès que la spirale s'attacha à son bras, Shanzay sentit ses sens s'affûter.",
+  "rules_text": "FLUIDE MÉTALLIQUE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, vous pouvez piocher une carte puis en défausser une.",
+  "card_identifier": "203/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=bccbd539d496d97b03c020a1c193f347afc8c94c15f185ddec956c6cf9d6a66c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=243741a52ed6e693dad3da69d18ad6e89595e19a95b5cad0e344a16af805e308"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a165fbd61c277745f187eaac7182d9c05d0d1171.jpg?checksum=013652d781ceeda2e51b86f7c4b600620b40a6e5b1cf7cf738ae3a90815af0cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

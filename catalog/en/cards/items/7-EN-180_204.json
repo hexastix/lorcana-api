@@ -1,0 +1,33 @@
+{
+  "name": "Baymax's Charging Station",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "809b5752ee2de600186f4bd616bff5e0ec7a1806",
+  "culture_invariant_id": 1613,
+  "sort_number": 1610,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Battery at 100%. Ready for action! —Hiro",
+  "rules_text": "ENERGY CONVERTER Whenever you play a Floodborn character, if you used Shift to play them, you may draw a card.",
+  "card_identifier": "180/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=5241104465a780a471f97088063e3cc50eaa34f2942c1723bf7225cd0d586728"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=4071e161e70c341f9b8eb2539be3dcf499b28443fb650eebca2f5cd042fa7015"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=1f30a49c401550388d01304c4b8f6936febd6917073ff0e1fae40da9e9bc72c1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

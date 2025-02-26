@@ -1,0 +1,42 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Frisch befördert",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "e8958ebe93bfe67555697e9e3d0477d5a9e145ad",
+  "culture_invariant_id": 1566,
+  "sort_number": 1563,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "DARAUF KÖNNT IHR EUCH VERLASSEN Dieser Charakter kann bereite Charaktere herausfordern. SEHR VIEL VERANTWORTUNG Solange dieser Charakter beschädigt ist, erhält er +2.",
+  "card_identifier": "133/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=b451217e934712ef1cf75607fb06178cb1d9cdc27e5277bc2728f2cb3ae923cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=27b691de739a9ff6a022ffe4f46b1653c3058ed6948316eb4a6286d655055c3f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg?checksum=edd36049f00c64e80fbfe1dd9e6640fbe898573b97a70019561786ee43f2f04e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

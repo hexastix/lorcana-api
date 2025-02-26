@@ -1,0 +1,33 @@
+{
+  "name": "Strumento non Convenzionale",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "6132d37f5c0ee1b84d2dc393df229f24f13c9cc6",
+  "culture_invariant_id": 1583,
+  "sort_number": 1580,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Uso questo aggeggio molto più spesso di quanto tu possa pensare!%—Maurice",
+  "rules_text": "AGGIUSTATO IN UN MOMENTO Quando questo oggetto viene esiliato, paga 2 in meno per giocare il tuo prossimo oggetto per questo turno.",
+  "card_identifier": "150/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=04b4a73b872ee16952a115b554558fbe564aa88b8893508bb7e2af7957efc719"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=181f61b724ba251735c558da53c3da1332e6c032c58a51627d78bb697d5c7a11"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=bc1c4d9cad89a50d396af6917c2aad40a289b1e6d82a77bd663d960363eb670e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jebidiah Farnsworth",
+  "subtitle": "Cuoco della Spedizione",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Pix Smith",
+  "deck_building_id": "fffdd033322affbd2f0dbae5b6b9b13ef3984c6a",
+  "culture_invariant_id": 1607,
+  "sort_number": 1604,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) CE LI HO I QUATTRO PRINCIPALI GRUPPI ALIMENTARI Quando giochi questo personaggio, un personaggio a tua scelta ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "174/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=f84b6309d93c3d7b806a43b0b9118119509bc55ed1316183f195a24474210344"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=49445fc84a1b20b49d7d73ca852e4f917756e5fecc0a9d6fff1d78838ab429fe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=e40e58c9b536a09a6fe74c695db98868957148630764c1e888f2f1095ef6e4b7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

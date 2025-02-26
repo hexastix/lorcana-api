@@ -1,0 +1,42 @@
+{
+  "name": "Minnie Mouse",
+  "subtitle": "Storyteller",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "SCG",
+  "deck_building_id": "40e23a6aa4e9b85c3ae4a6b8a3433cc2c36a426c",
+  "culture_invariant_id": 1464,
+  "sort_number": 1461,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "GATHER AROUND Whenever you play a character, this character gets +1 this turn. JUST ONE MORE Whenever this character quests, chosen opposing character loses equal to this character's until the start of your next turn.",
+  "card_identifier": "31/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=29618dde78ff40763022b9386a12c29b737462fea97fcd3dd9c7a2884a55a12a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=fb7a4756070012a58233c121c893ae320e615c31ba83ddb6e53a7a1fd79c201c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=42ad0110ad16f1095af32d41188d9e10ed469dfac7bf7c1c92373cc4f593fa71",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6d77d51385bcd60dcadc63053ab48bf14bbd3a1b9cfb2d4c4d4b2821829f18a9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

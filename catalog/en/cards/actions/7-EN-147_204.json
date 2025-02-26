@@ -1,0 +1,33 @@
+{
+  "name": "We've Got Company!",
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "43362114455febd0d8b29de9e69a7c4841fd2ec7",
+  "culture_invariant_id": 1580,
+  "sort_number": 1577,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Well, as usual, diplomacy has failed us. —Lyle Tiberius Rourke",
+  "rules_text": "Ready all your characters. They gain Reckless this turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "147/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=1c9e078aea16c4b179babc4785787a524efeb3b6ca76f955da84d13c9203301c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=867fbc529de5261b328ca8b897dfecdd64c708dc6d4b17adc070cac2914bc3c0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b3c0730cf3f50613e40561e67c871fdb92820cf9.jpg?checksum=c4a85ee814074ac4a1ff1650784d992fec5804f09dc44060c06ad3a379296330",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

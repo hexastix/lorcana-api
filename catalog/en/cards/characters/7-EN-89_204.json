@@ -1,0 +1,41 @@
+{
+  "name": "Pete",
+  "subtitle": "Pirate Scoundrel",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Serena Wade",
+  "deck_building_id": "d89b25a8952e36576cfdd04557b3a45e0ca9dc07",
+  "culture_invariant_id": 1522,
+  "sort_number": 1519,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Pirate"
+  ],
+  "flavor_text": "I wasn't stealin' it! I was just keepin' it safe.",
+  "rules_text": "PILFER AND PLUNDER Whenever you play an action that isn't a song, you may banish chosen item.",
+  "card_identifier": "89/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=b4b81a9d2651cc49231e329123da2eed032b56648012fc1a45913b8a8579d964"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=f2ad498d2f639825b9d3d45b1f8834472cc630404bb8cdbbd66e0f3484662a2e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=6fbd431cb9f7ac5d5ae3961773c408d6a584c28b399bc069a67d1f76a907d735",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

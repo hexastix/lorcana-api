@@ -1,0 +1,33 @@
+{
+  "name": "Le Diamant Œil-du-Diable",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1585,
+  "sort_number": 1582,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sa seule vision remplit de bonheur son heureux possesseur.%—Madame Médusa",
+  "rules_text": "LE PRIX DU POUVOIR — Si l'un de vos personnages s'est vu infliger des dommages ce tour-ci, gagnez 1 éclat de Lore.",
+  "card_identifier": "152/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=133d42c585164402e348314470b2b5c66d6199176ae5161b81ef693f8cee982e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f0c18f3e077cb05356e083295acd9f009f46d7076b951f2b7084afa6905eb6d6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=2543cfe04ea6a1ec6010a928890b5bdcbb4d7a79f137f76d96052d4dc90914f4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

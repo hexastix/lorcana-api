@@ -1,0 +1,34 @@
+{
+  "name": "Restoring the Crown",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jochem van Gool",
+  "deck_building_id": "e9790e95ed228e5ba1499db77a02cb0f08ae189b",
+  "culture_invariant_id": 1516,
+  "sort_number": 1513,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "The Hexwell surged with pure creative energy, fusing the crown’s pieces in a final burst of power.",
+  "rules_text": "Exert all opposing characters. Whenever one of your characters banishes another character in a challenge this turn, gain 2 lore.",
+  "card_identifier": "83/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=b4f6991ae52d066c29b57c06dee46d93b89ce287f85bd0c66cca07c06ec88134"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=cfecf6e54b1646ec7cab912c6ae53a6a3b4d87186f9e39c679e1eeb2a4edb62b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=41eaded6dd9f89622b54052a19572d471d162ac91db7d4635989259f7f5ec575",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

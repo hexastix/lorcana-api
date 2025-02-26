@@ -1,0 +1,40 @@
+{
+  "name": "Anacleto",
+  "subtitle": "Gufo Eccezionale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luis Huerta",
+  "deck_building_id": "2e059909be50ae3de97d3674f118f6da8e648180",
+  "culture_invariant_id": 1509,
+  "sort_number": 1506,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "La biblioteca di Archazia era un tesoro di conoscenza persino per un gufo sapiente come lui.",
+  "rules_text": "TANTO DA IMPARARE Ogni volta che un avversario sceglie questo personaggio per un'azione o un'abilità, puoi pescare una carta.",
+  "card_identifier": "76/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=fed493301bb54bee4d414cd9f1cb55e70131fc0d0fc082f72b4dde52723187ad"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=c9eadc4d14010adf6d8f1eb65b5fb6f591af072712ef776cab440425db87fa91"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=a8cde8183296e404e53aaa0f33621faf5a87c1157d3c1c228a19e78888c81fc3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

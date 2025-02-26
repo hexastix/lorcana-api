@@ -1,0 +1,44 @@
+{
+  "name": "Pat",
+  "subtitle": "Pirate de l'espace",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3f8bdad905e5495556f0eee78e68c291fe1c0160",
+  "culture_invariant_id": 1547,
+  "sort_number": 1544,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Pat.) PLAN EFFROYABLE Tant que ce personnage est épuisé, les personnages adverses ne peuvent pas être épuisés pour chanter des chansons, et vos personnages Pirate gagnent Résistance +1. (Les dommages qui leur sont infligés sont réduits de 1.)",
+  "card_identifier": "114/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=235cbad42e828da457ff25c710fa9c8b9b098070f139e4568c207cd042555fd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=97167a109ed9b696edce20d05664659dd43bd38a919ffc1a17bfb22c22cef962"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=81d4f881a54fcf60d17af8c39ffc4f493ff17f496becc4a3f09c2c09243f735d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Aspirante Monarca",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "César Vergara",
+  "deck_building_id": "ac6a2901f00291b5613e65f0a4c17baf9607964c",
+  "culture_invariant_id": 1623,
+  "sort_number": 1620,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Finalmente, entrambe le metà della corona sono mie!",
+  "rules_text": "COSÌ VA MEGLIO Quando giochi questo personaggio, un personaggio a tua scelta ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "190/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=d9e67329bd2b18192ac9f6838d6b06230391abc31ca84d37682b850e618bf723"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=a2fd278363fd57a44f32c8f055005997c90c2ab8f185baa1c123c66152f2dcf7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=4bb9fae00e6e6a4b90ec705e204032489269e43564a9ad81e3807f15a292f560",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

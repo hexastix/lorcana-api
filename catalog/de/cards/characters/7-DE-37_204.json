@@ -1,0 +1,41 @@
+{
+  "name": "Pepa Madrigal",
+  "subtitle": "Sensible Schwester",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "cc1aa602cb2089e854c848bf55d994adcbf44b15",
+  "culture_invariant_id": 1470,
+  "sort_number": 1467,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Madrigal"
+  ],
+  "flavor_text": "Die beruhigende Präsenz von Archazia half Pepa, ihre düstere Stimmung zu vertreiben.",
+  "rules_text": "SONNENSCHEIN, SONNENSCHEIN Jedes Mal, wenn einer oder mehrere deiner Charaktere ein Lied singen, sammelst du 1 Legende.",
+  "card_identifier": "37/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=ada20e6746e16043db199bd878e879202a30ba042f844094903e8d9289973bc2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=d231a33ddebb8c9c3f76f579eb57a6f0598416f029eca0281e7ee7779b7e5dea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=7e6b26f28b5ee60bef29ef03dc22fcc9d2d9e292440834a650565c11bf8c7487",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

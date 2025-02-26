@@ -1,0 +1,33 @@
+{
+  "name": "Amber Coil",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Francesco Colucci",
+  "deck_building_id": "1a4b8495891072543683523882d11f76e3883842",
+  "culture_invariant_id": 1474,
+  "sort_number": 1471,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Martin smiled as the coil snapped into place and he felt a surge of healing energy.",
+  "rules_text": "HEALING AURA During your turn, whenever a card is put into your inkwell, you may remove up to 2 damage from chosen character.",
+  "card_identifier": "41/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=20a2116edb1b8a92005d74f8921c0cc13435489a87ecad58b213f936272e1d08"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=a28d721ac51020cda174a0786e2133769abe53a0b7719f2a8def3d6781b2daa2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/761f22b2c1593d0bb87e0b606f990ba4974706de.jpg?checksum=8ef8a56a516dad9a1f5c8da6c1d182de327b8ddc394ababda04379298035b763",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Gardes cartes",
+  "subtitle": "Troupes royales",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "dcb1ec98a56ada4be8acd345b0b77737465de130",
+  "culture_invariant_id": 1562,
+  "sort_number": 1559,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le Trois de Cœur brandit sa lance et murmura: Quand les autres tombent, un soldat de la Reine, lui, reste debout.",
+  "rules_text": "PRENDRE POSITION Tant qu'un personnage a au moins un dommage, ce personnage-ci gagne +2.",
+  "card_identifier": "129/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=3e1e643d6b875b40d80038d5136dab179d97cf55cc703c1ca7833354170a9d4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=616945c13bba779467b2876f048b0abac7077f89665aad2ce53c277727cd0e74"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e.jpg?checksum=dec0539d0ac8a5c488417cc45eb4cdbb884979baa1fbbda7f870f8840a453708",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

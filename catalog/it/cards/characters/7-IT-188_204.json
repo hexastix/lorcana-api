@@ -1,0 +1,40 @@
+{
+  "name": "Fa Zhou",
+  "subtitle": "Eroe di Guerra",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Mel Milton",
+  "deck_building_id": "0569382cc56b9650bdb6db49b16d08e519dba845",
+  "culture_invariant_id": 1621,
+  "sort_number": 1618,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Ogni trappola che disarmi, ogni prova che superi, onora tutti noi. Ben fatto.",
+  "rules_text": "ESERCIZI DI ADDESTRAMENTO Ogni volta che uno dei tuoi personaggi sfida un altro personaggio, se è la seconda sfida di questo turno, ottieni 3 leggenda.",
+  "card_identifier": "188/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=ca1e551f22643890e2f30f29dd28958ec6da9768a1643eefe9386958d619e3c6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=424b54abd87c0afe25e9054004adac0682854359afa5f3b93f14764bcd80e593"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/acf1fffc01dc0193aa07d0b1de723c292a2c826d.jpg?checksum=8ec6feef33bd23d23d1e240350756657a93e599d29e3b267f35b00912f791af5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

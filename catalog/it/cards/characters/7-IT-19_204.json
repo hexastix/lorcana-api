@@ -1,0 +1,43 @@
+{
+  "name": "Pascal",
+  "subtitle": "Camaleonte da Giardino",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Aubrey Archer",
+  "deck_building_id": "dbbfc68f60125a864a3dff7e2bf4693570e24611",
+  "culture_invariant_id": 1452,
+  "sort_number": 1449,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Una volta entrato nelle aiuole di Archazia, non ci fu più verso di tirar fuori Pascal da lì.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "19/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=1f375954aa13006418eef5b271417069896cd13f572b5c18e2ae48c1aaaa2840"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=8664febe76eb3ad9823a4b9e545dc495577b1c512c207a1bb2b0feb539822cdc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=e3c31f3c538258b138a4c07f0a7511b369b8077365f09e4815adc982c727a176",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

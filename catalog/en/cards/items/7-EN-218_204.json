@@ -1,0 +1,34 @@
+{
+  "name": "Devil's Eye Diamond",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Isabella Ceravolo",
+  "deck_building_id": "8ed363fa97089bc85eafbc80376a5c151fe5edd0",
+  "culture_invariant_id": 1651,
+  "sort_number": 1648,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "THE PRICE OF POWER — If one of your characters was damaged this turn, gain 1 lore.",
+  "card_identifier": "218/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=34e4de24e71bb9eff9d508be17460661088c9fad37b7704d38ff81cf868461de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=547e85c8116fd76d60ba0173051c7eb2dd914d15095b667b2e9e2a3b2476d761"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=f6ad46b6b13feba9b2311640dc79bc5c8275e77e05b7540872c17752a3937b0f",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "La Scarpetta di Cristallo",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Anna Stosik",
+  "deck_building_id": "f5a235b7654245ada9482fa791d327f69903983e",
+  "culture_invariant_id": 1641,
+  "sort_number": 1638,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PAIO PERFETTO Puoi avere solo 2 copie de La Scarpetta di Cristallo nel tuo mazzo. CERCATE IN TUTTO IL REGNO Esilia questo oggetto, uno dei tuoi personaggi Principe — Cerca una carta personaggio Principessa nel tuo mazzo e rivelala a tutti i giocatori. Aggiungi quella carta alla tua mano e rimescola il tuo mazzo.",
+  "card_identifier": "208/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=ef6c021acace6aea85593652cdd5ba12c542027bce1c802d16829a8b88246016"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=c87124791444dc1e01893791134e19573de4d6c4bf1fc709aede1e0118de1d17"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=3f621075c4c3e04ac59a094d64e55af5984f6a7e23d58b76d8b4cc0b51611417",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

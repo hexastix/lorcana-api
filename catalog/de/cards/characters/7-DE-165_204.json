@@ -1,0 +1,40 @@
+{
+  "name": "Toulouse",
+  "subtitle": "Künstlerisches Kätzchen",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Celeste Jamneck",
+  "deck_building_id": "27718e9c6fa9fbce1ded888a8cdc3f4723eabffb",
+  "culture_invariant_id": 1598,
+  "sort_number": 1595,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Er drückte mehr Farbe aus der Tube und wackelte vor Freude. Archazia war lustig, auch wenn sie eine riesige Eule war. Sie hatte so viele neue Farben, mit denen er malen konnte!",
+  "rules_text": "",
+  "card_identifier": "165/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=6546d07c80ea9095b82b31701b50e6a5a7174975330ed72d163fe8933451f870"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=e511ac15479035ab7a324bb77016f49ec60eb7bad2212403a63d496f735ef751"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=a2f6a11b40eca69fb395717dbc92292fe0a8c5fa55b62a7bf9e45753bb203b10",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

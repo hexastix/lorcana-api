@@ -47,8 +47,8 @@
       "type": "EXPANSION"
     },
     {
-      "name": "Preview Card",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/d369e19b70b7552a57e3c440c71e8d3d9751e797.png?checksum=6cd79581-8d76-4887-b8df-35c567d69b09",
+      "name": "Archazia’s Island",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set7/thumbnails/d369e19b70b7552a57e3c440c71e8d3d9751e797.png?checksum=d39453dc-c065-4c59-b879-9f4b03658f39",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
@@ -240,6 +240,9 @@
         "term_in_search_filter": "Hyena"
       },
       {
+        "term_in_search_filter": "Illusion"
+      },
+      {
         "term_in_search_filter": "Inventor"
       },
       {
@@ -330,6 +333,9 @@
       },
       {
         "term_in_search_filter": "Support"
+      },
+      {
+        "term_in_search_filter": "Vanish"
       },
       {
         "term_in_search_filter": "Ward"

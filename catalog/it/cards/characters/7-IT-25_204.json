@@ -1,0 +1,41 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "Nel Momento",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "César Vergara",
+  "deck_building_id": "78a3743253e0c1d99573f5b0580092912919c335",
+  "culture_invariant_id": 1458,
+  "sort_number": 1455,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "Che cambiamento questa pianta. E può pungermi, un bel po'.",
+  "rules_text": "SONO STANCA DELLA PERFEZIONE Ogni volta che uno dei tuoi personaggi canta una canzone, questo personaggio non può essere sfidato fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "25/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=2ea6c0f84998da6d9611d39a6d2ae8b2493362fc71de8bf05cf2839c8a3bc1e8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=f730dfd9638045291196d768a5e03f755ba7af34818fadf56230e5de8828d3e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=e02def88cf7e2e62982a89d6df09a77e76a0feadf852f35b1b4bb5edaea9c97c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

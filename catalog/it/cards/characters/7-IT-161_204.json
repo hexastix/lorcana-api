@@ -1,0 +1,41 @@
+{
+  "name": "Topson",
+  "subtitle": "Investigatore Perplesso",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Mario Oscar Gabriele",
+  "deck_building_id": "eadc583df968a52341c644cac11cd8aecd7804e2",
+  "culture_invariant_id": 1594,
+  "sort_number": 1591,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Detective"
+  ],
+  "flavor_text": "Dico, che sorta di apparecchio sarebbe <questo>?",
+  "rules_text": "SIA RAGIONEVOLE Una volta durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, guarda la prima carta del tuo mazzo. Puoi metterla in cima o in fondo al tuo mazzo.",
+  "card_identifier": "161/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=f855f7643e74b3f82596d304a83dfa0ec416abdcdf6e68fa7f883d19f60af4d1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=4ec92283a4a4aefa104e113410729cf2cc04537af461ba9f7e09e5e66d36f681"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=b6da5599190d88285cf1aefd992157d8d118702666d331198ad17543e92e4c09",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

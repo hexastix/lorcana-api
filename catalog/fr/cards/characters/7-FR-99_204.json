@@ -1,0 +1,40 @@
+{
+  "name": "Berlioz",
+  "subtitle": "Chaton espiègle",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Geoffrey Boudout",
+  "deck_building_id": "d4b9105cacdcfd93cf2692d519305a5fa5e8e03b",
+  "culture_invariant_id": 1532,
+  "sort_number": 1529,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Regardez ce que j'ai trouvé! On peut rester ici pour jouer?",
+  "rules_text": "",
+  "card_identifier": "99/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=4055ff8b0def10dddc003b6b7ddb9193f36bd2b07eebbb8267810bb511e79253"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=f5f0caf364c53d6a34f18de027ed57c06ed52c1e2bbebf6eb4513911534977bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=07275635395461dee633efe2802322f14236512c8f5f37d5e552d4e36ca8e870",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

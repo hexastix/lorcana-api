@@ -1,0 +1,46 @@
+{
+  "name": "Moana",
+  "subtitle": "Island Explorer",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jackie Droujko",
+  "deck_building_id": "e4393d614409dae5df4ecdd00e5bd3f488227461",
+  "culture_invariant_id": 1567,
+  "sort_number": 1564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) ADVENTUROUS SPIRIT Whenever this character challenges another character, another chosen character of yours gets +3 this turn.",
+  "card_identifier": "134/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=282addbbe98deade890199c8ce8c452f27a39e0650cc268b88e04df5e660e532"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=fa8c4452b60e38488ccffd4cb73a25968ac3d9a53a937e2d3f453f246f1b7e46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=40b4a99af9105dba0d332658bb5744b786c22be1616a7ed06d89a2686fea1790",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Vaiana"
+  ]
+}

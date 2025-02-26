@@ -1,0 +1,41 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Roi respecté",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Amanda MacFarlane",
+  "deck_building_id": "e7a671905ede5069c586ea3087e484492a181670",
+  "culture_invariant_id": 1629,
+  "sort_number": 1626,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Mentor",
+    "Roi"
+  ],
+  "flavor_text": "Tu vois ce pilier? Même après sa chute, il a toujours son utilité.",
+  "rules_text": "",
+  "card_identifier": "196/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=11dcc340fc0b34eedcfa17ca524bd673f536d73a8c4c50d9b36218c1090c0da0"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=99b5ef42d3d5c948565ff871d996b25f8e12728f7eeaebc599ed52906c756fcd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=ddef6f2b2557a4eae9c2f148ef3e1094dd1d3f42873e6c732f64b835e4c190f9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

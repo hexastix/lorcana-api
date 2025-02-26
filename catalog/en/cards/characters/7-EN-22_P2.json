@@ -1,0 +1,44 @@
+{
+  "name": "Li Shang",
+  "subtitle": "Newly Promoted",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "e8958ebe93bfe67555697e9e3d0477d5a9e145ad",
+  "culture_invariant_id": 1659,
+  "sort_number": 1658,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "I WON'T LET YOU DOWN This character can challenge ready characters. ENORMOUS RESPONSIBILITY While this character has damage, he gets +2.",
+  "card_identifier": "22/P2 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=83a11c1a77b0d21dd3b8c87eec161d5cd6644eff3febbf7e2bfd2dd77f175627"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=2a5ca5c9cc1b24f7a07453e303a8a5477effe55c3628871f570a26706a259cf9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=561cad3b57b4d7ae8cc5c74379bc39be60946febd4a2c411b9fea1baea3083c7",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

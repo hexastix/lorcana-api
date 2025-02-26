@@ -1,0 +1,35 @@
+{
+  "name": "He's a Tramp",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "d2e7b04e55be924e0bc9c07444cacc89c38ba255",
+  "culture_invariant_id": 1550,
+  "sort_number": 1547,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Wish that I could travel his way",
+  "rules_text": "(A character with cost 1 or more can to sing this song for free.) Chosen character gets +1 this turn for each character you have in play.",
+  "card_identifier": "117/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=fed5c3b8c66490e40fde30afcd21525a0c7fad3536a49fac2429cab2f5c14094"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=dc90ac4618cf140a3b55fc236d0e3a6f41fbadf2f216bb4eacb62edd210b706b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=f788f9ba6b42e3be143198349efb00008adfb4a235b23f24f81f2fda23a3b031",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mitaine",
+  "subtitle": "Chatte de gouttière insolente",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Brian Weisz",
+  "deck_building_id": "3560af4d94b66ca33fed2fa534f5c8ee97513428",
+  "culture_invariant_id": 1442,
+  "sort_number": 1439,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) NE ME REMERCIE PAS Une seule fois durant votre tour, lorsqu'une carte est placée dans votre réserve d'encre, vos autres personnages avec Rempart gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "9/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=df13b6fafc65ffc81140d78431d981876453a3af3d53058914e4e56f4be15438"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=9986e69caef5a4133a35a8aadc7795e6711e7996990d2c1d7a7eae7e4ec08622"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=ead7970d99bd77f89b5db6056198dd5d181c2d84894bb35ebcd94f50378fe47a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

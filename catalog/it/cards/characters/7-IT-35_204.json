@@ -1,0 +1,44 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Musicista Dotata",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Eri Welli",
+  "deck_building_id": "e4e34e724a44eb13af101f51552399722b885dba",
+  "culture_invariant_id": 1468,
+  "sort_number": 1465,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Mirabel Madrigal.) IL SUO TALENTO SPECIALE Ogni volta che questo personaggio va all'avventura, puoi riprendere in mano una carta canzone con costo 3 o inferiore dai tuoi scarti.",
+  "card_identifier": "35/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c7b0223a96d145642619d647f1a971993925ec412597b3d49e4450b385e06224"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=0d534751ab8a8994a6698b35f8b361632414035cf52be9475ddb1555fb7aac26"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=2e6afaee9d10b6ec22ffcfd9af1a0b97a668d7e6336a87996ad06f14169bc9be",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

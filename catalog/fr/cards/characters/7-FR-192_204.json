@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Bande de pirates",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "968fb5547e711a20578bb568ded5ae7b8bffbf73",
+  "culture_invariant_id": 1625,
+  "sort_number": 1622,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "Ils ont l’air… mignons. %—Vaiana",
+  "rules_text": "FANFARONNADE Tant que vous avez un autre personnage Pirate en jeu, ce personnage-ci gagne Offensif +3. (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "192/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=e3332674df7df9423bc215fe24eccd0f396e1103bc3cf28ef654d48b17953f7b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=5cb0aecc7639628b68e7910b9fe4c251f4f1b4441e72e9362cdda5c265d9853e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/19a448c01aa2e7d55979473b647e282459995b85.jpg?checksum=7ab208925ddb5eae796f086f7e93352fa1fab47d3fb61e6d1321be693ad35307",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

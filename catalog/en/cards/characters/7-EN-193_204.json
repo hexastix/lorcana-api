@@ -1,0 +1,41 @@
+{
+  "name": "Mulan",
+  "subtitle": "Disguised Soldier",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Jochem van Gool",
+  "deck_building_id": "dc468c676e85ae64384d43f7358b0f77eac28102",
+  "culture_invariant_id": 1626,
+  "sort_number": 1623,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Okay this is it, time to show 'em your man walk. —Mushu",
+  "rules_text": "WHERE DO I SIGN IN? When you play this character, you may draw a card, then choose and discard a card.",
+  "card_identifier": "193/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=c0a3b9fa163a11d905436fe709c7ff0ba0d7eb112f61793fcb4979d8ea472c55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=0bb159155b4a27803b3de00d3f7a42903dacb5dba8f967a50076a90c18fa4226"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/14bb99f81147d2705f53a1d75337b2ec3e10d23a.jpg?checksum=5a9a96f6a21a91f5490ce37f4b36c88ea67018413d978d3a1dc8ef9e94b0f2cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

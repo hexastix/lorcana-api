@@ -1,0 +1,42 @@
+{
+  "name": "Daisy Duck",
+  "subtitle": "Vielseitig begabte Piratin",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "d8f343ee238be3a7ebf0f0a9f5f2a7b707f21cdf",
+  "culture_invariant_id": 1541,
+  "sort_number": 1538,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Pirat",
+    "Kapitän"
+  ],
+  "flavor_text": "Eine Kapitänin muss erfinderisch und souverän sein und darf keine Angst vor Trampolinen haben.",
+  "rules_text": "FALSCHES SPIEL Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, wählt eine gegnerische Person deiner Wahl einen ihrer Charaktere und nimmt diesen zurück auf ihre Hand.",
+  "card_identifier": "108/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=3ff01255d56d9e17f72f1b854cc61655a6def527c17a989f1585a6b181266149"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=2ccab80f1c8b8dfea61cf00412b2c9641784fc8a593ca2a313b87c99496c3a15"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg?checksum=a4dd7620cd445b673955d14a63b89e641945af6b6b19001fb2ae1352bad7cb69",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

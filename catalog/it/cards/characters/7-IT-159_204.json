@@ -1,0 +1,42 @@
+{
+  "name": "Belle",
+  "subtitle": "Apprendista Inventrice",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Jochem van Gool",
+  "deck_building_id": "66089bac792b605815e7eb1bf3d028980fa7039a",
+  "culture_invariant_id": 1592,
+  "sort_number": 1589,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa",
+    "Inventore"
+  ],
+  "flavor_text": "Aiuta suo padre a mantenere al minimo i rottami volanti.",
+  "rules_text": "CHE DISORDINE Durante il tuo turno, puoi esiliare un tuo oggetto a tua scelta per giocare questo personaggio gratis.",
+  "card_identifier": "159/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=003351e092050ab42a94f4dd148ba312d09c5a97497f124131e4dc8875524c68"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=7dd34679f07e59cced4ae4afef40d51efc5d4c6d1ff1d40d35843b9641d7cff8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/6b6277afcb65d33525545904e95c2fa240632660.jpg?checksum=30c664158b886ad2ca9b533eb1efaec4b34c2f1f6cd494ee08cf6ed41dc87c47",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

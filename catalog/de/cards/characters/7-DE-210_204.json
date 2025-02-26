@@ -1,0 +1,43 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Neu gekrönt",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Jochem van Gool",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1643,
+  "sort_number": 1640,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "MIT DIR BIN ICH NOCH NICHT FERTIG Jedes Mal, wenn eine deiner Illusionen im Zug einer gegnerischen Person verbannt wird, darfst du jene Karte zurück auf deine Hand nehmen.",
+  "card_identifier": "210/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=00b433276de0afa55fbf3aa8e4988a7048a9aefd0bd71c15da848a735a91e4b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=d4112282b501b2bba49c34858d75ab6951399ec131ef7d764defa478b4721551"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/135debd4837026bf06c7bfc5d1e0c6a31611af1d.jpg?checksum=7f230521a36f5aabcbd49a90469ae691dad4da32dcec7734e291a5d1d5c04715",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

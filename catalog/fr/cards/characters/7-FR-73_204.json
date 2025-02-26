@@ -1,0 +1,43 @@
+{
+  "name": "Donald",
+  "subtitle": "Sorcier exaspéré",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Eri Welli",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1506,
+  "sort_number": 1503,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Mage"
+  ],
+  "flavor_text": "Lorsqu'il s'agit de formules magiques, une bonne prononciation est primordiale.",
+  "rules_text": "OBFUSCATION! Les adversaires ont besoin de 25 éclats de Lore pour gagner la partie.",
+  "card_identifier": "73/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=2c08d0b00ece682c883b752a57e4e3f8d995920306174665ce99530b2098c2ce"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=89722968d65745d8042437f08863f6cf062f9c4d3801efa8af2d7c0458080167"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7c75999bd98e428e927d686163c95d4bcb88e30e7f2dcca7c713731790349f43",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7489cf093de5b9521492e07ab1f9b6e412b242528d816104ffe76a2958d16ea4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

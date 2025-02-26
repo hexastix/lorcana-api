@@ -1,0 +1,34 @@
+{
+  "name": "Der gläserne Schuh",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Tania Soler",
+  "deck_building_id": "f5a235b7654245ada9482fa791d327f69903983e",
+  "deck_building_limit": 2,
+  "culture_invariant_id": 1477,
+  "sort_number": 1474,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PERFEKTES PAAR Dein Deck darf nur 2 Der-gläserne-Schuh-Karten enthalten. DURCHSUCHE DAS KÖNIGREICH Verbanne diesen Gegenstand, einen deiner Prinzen – Durchsuche dein Deck nach einer Prinzessinnen-Charakterkarte und zeige diese allen Mitspielenden. Nimm die Karte auf deine Hand und mische danach dein Deck.",
+  "card_identifier": "44/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=6669087854f9de85ee2a35bb78f234604fe80f6aebd5899d28c7e87864cc9c01"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=4661991f04cc27bd1713027bae28a9e12ce86351ceb99db79bd1329db1aa7956"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=86a422acf23f7d8bc9f1839b2d625d48d9791e91594002205dbef0bbf2d0d5f5",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

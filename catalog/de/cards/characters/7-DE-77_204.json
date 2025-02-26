@@ -1,0 +1,40 @@
+{
+  "name": "Kashekim",
+  "subtitle": "Antiker Herrscher",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jocelyn Sepulveda",
+  "deck_building_id": "f06a4604d6d95e7eefe5ea6ae9caaa4c6ecb6df7",
+  "culture_invariant_id": 1510,
+  "sort_number": 1507,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "Ihr seid vermessen, zu glauben, dass ihr hier willkommen seid.",
+  "rules_text": "",
+  "card_identifier": "77/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=47bdc1f35014cd76a75aa2d02392a940b3094dfc9bd0fec62f80320b52b446ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=7f78fcf2ac5040e0c549e98a1334210068bcead151822dea6f52f32415b5b74e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=f86f3b97566b5351d2ce1a2884301ac1fc0ce1015166076d55a3a5ef53b05170",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

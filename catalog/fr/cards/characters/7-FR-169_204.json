@@ -1,0 +1,41 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Magicienne de la chimie",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Brianna Garcia",
+  "deck_building_id": "e1a975a55f05ee17bf5e1bfabc55037dc6a4e5d0",
+  "culture_invariant_id": 1602,
+  "sort_number": 1599,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "MERVEILLEUX, NON ? Chaque fois que vous jouez un personnage Floodborn en utilisant sa capacité Alter, vous pouvez choisir un personnage et lui retirer jusqu'à 2 dommages.",
+  "card_identifier": "169/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=daaef3f134e2fa1cd5d71447fa9c02a46d72c7d131a5407b7c13356bee55ee49"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=eba95a7aaac7f40b0229863b6d97e8814032e763c93dcdd656348640713b665a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=c71287f59bd223492830ad7664010561d8ada80083ec7b1156d6b3700a2ba9aa",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

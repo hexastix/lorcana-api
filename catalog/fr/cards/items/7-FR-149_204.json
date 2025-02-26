@@ -1,0 +1,33 @@
+{
+  "name": "Spirale de Rubis",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Francesco Colucci",
+  "deck_building_id": "d250ec35251eedb4e3d598f75f217e0acca62570",
+  "culture_invariant_id": 1582,
+  "sort_number": 1579,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Venturo sentit une étincelle dans la spirale à son bras, et l'énergie afflua vers ses muscles épuisés.",
+  "rules_text": "ÉTINCELLE POURPRE Durant votre tour, chaque fois qu'une carte est placée dans votre réserve d'encre, choisissez un personnage qui gagne +2 pour le reste de ce tour.",
+  "card_identifier": "149/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=16749cf9f76768d423468df10894e8a729a145a6cc99bbce08447cf8a6dabf6c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=065e74d68e253024781584090c6c7f24e2b8844e2270de91cccf4f5b8c541f4b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229.jpg?checksum=3c770db054a795d10484cd3f3ac139e9694d5c50da57946f1dc5be7c55bf30d6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

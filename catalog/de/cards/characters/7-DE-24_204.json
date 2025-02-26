@@ -1,0 +1,43 @@
+{
+  "name": "Der Prinz",
+  "subtitle": "Wachsamer Verehrer",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "João Moura",
+  "deck_building_id": "5966f7b1df7bd6ef309aa7694d0a45d89624c970",
+  "culture_invariant_id": 1457,
+  "sort_number": 1454,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "24/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=9759954e4fa47106494aa5c136c399c101491af54d15d196979d5f5f0fee029f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=0de108c8eb0df0529e69d5be26f4a15e5f14a279b0aeb10c58af362755a1b608"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=44b7453637a11e7b66b95f73ec203956e537c3624b5257eaad061aca72db989d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

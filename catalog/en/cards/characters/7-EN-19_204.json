@@ -1,0 +1,43 @@
+{
+  "name": "Pascal",
+  "subtitle": "Garden Chameleon",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Aubrey Archer",
+  "deck_building_id": "dbbfc68f60125a864a3dff7e2bf4693570e24611",
+  "culture_invariant_id": 1452,
+  "sort_number": 1449,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Once Pascal got into Archazia’s flowerbeds, there was no getting him out.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "19/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=f8328704610326f6bcd507315d84f57b1cb879a95c308fdab14ecdd20f0019f9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=53ffe5d78c359255d08f663cf3937d1e56ab2d8c61d519356118f880b4e14261"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=624c16e7faba9844d33157016ee52c69586c35e7bbb0bba12a34363b42a889f2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

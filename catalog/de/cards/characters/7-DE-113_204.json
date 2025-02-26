@@ -1,0 +1,40 @@
+{
+  "name": "Anastasia",
+  "subtitle": "Rechthaberische Stiefschwester",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "186abcc44c27815f1b4006504346a766d8731138",
+  "culture_invariant_id": 1546,
+  "sort_number": 1543,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Geh mir aus dem Weg! <Ich> werde die Erste im Ziel sein!",
+  "rules_text": "ICH HASSE ES! Jedes Mal, wenn dieser Charakter herausgefordert wird, wählt die herausfordernde Person 1 Karte aus ihrer Hand und wirft sie ab.",
+  "card_identifier": "113/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=3c215ae35306ab9f3fe294c38e4b438df758c0f29c73f408ce8a97657e499b4e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=70d0600d4b17cc4e2801356e8c355f01733f4cfee3702d03d6ba1f3a16fc6fc8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=1ee03c248604debec60e0aed2fa218ed2838afbe4ce70877e4f6ddbd387d1d47",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

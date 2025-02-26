@@ -1,0 +1,40 @@
+{
+  "name": "Gaetan Moliere",
+  "subtitle": "The Mole",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Saulo Nate",
+  "deck_building_id": "1c1e54c8c9b1a32bfd3621e101e982e875461d44",
+  "culture_invariant_id": 1591,
+  "sort_number": 1588,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Fascinating. This shouldn't exist, yet it does. It may be older than the Great Illuminary itself.",
+  "rules_text": "",
+  "card_identifier": "158/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=799f1afd0790105c4d81f68d0736ae8893ac3fc4d019aa46d00c4409e1f6b7dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=a7e541b0c26da5aa8554ac72c0ad629f87583e5a78a1fdcb1638c8955e61036f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=c8e33f31f055e26e89d3e24c4071463fcf2f26b46b8f6230106b40c8a334ce38",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

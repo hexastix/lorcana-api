@@ -1,0 +1,43 @@
+{
+  "name": "Donald Duck",
+  "subtitle": "Aufgeregter Zauberer",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "LEGENDARY",
+  "ink_cost": 7,
+  "author": "Eri Welli",
+  "deck_building_id": "cae01bd2d9f60d9971fe8c99a827aad146425783",
+  "culture_invariant_id": 1506,
+  "sort_number": 1503,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Magier"
+  ],
+  "flavor_text": "Wenn es um Zaubersprüche geht, ist die richtige Aussprache entscheidend.",
+  "rules_text": "VERWIRREN! Gegnerische Mitspielende brauchen 25 Legenden, um das Spiel zu gewinnen.",
+  "card_identifier": "73/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=8432f694f55f80db839ab8205ed47f0064e20c0ef285ac3abab5a761f7b96d94"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=6a7b706a68b509378349d3f747331e98805869df7274d6dcff288b2060744811"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=48a79ea1ec41cfe124d06b4e7e32022a26eb7b94a4539d7618ca84d988c6f97f",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=7489cf093de5b9521492e07ab1f9b6e412b242528d816104ffe76a2958d16ea4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

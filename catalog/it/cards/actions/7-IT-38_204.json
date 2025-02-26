@@ -1,0 +1,35 @@
+{
+  "name": "La Vita Appartiene a Me",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "47f551a402c331ac81e1b4f502c282a9cdb4dc34",
+  "culture_invariant_id": 1471,
+  "sort_number": 1468,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 2 o superiore può per cantare questa canzone gratis.) Pesca una carta. Un personaggio a tua scelta ottiene Guardiano fino all'inizio del tuo prossimo turno. (Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "38/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=b0743935c8ac6fb48f2c424f2ba37015e574e66877ec227e073d34b54e654307"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=8d7ecf7b5273a6da41ee0cabc9f4734fac9a8f25c67cb0ce915b9a1e2ec3519f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=720087190e7aafc9818f3e143a95db5691329668bc080f688e37730b2cce73e2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

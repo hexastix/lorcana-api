@@ -1,0 +1,43 @@
+{
+  "name": "Kusco",
+  "subtitle": "Panisches Lama",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "13ad1b826bfa0c021406dce75ac9d15ecaf5669a",
+  "culture_invariant_id": 1504,
+  "sort_number": 1501,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) UNS WIRD SCHON WAS EINFALLEN Zu Beginn deines Zuges, wähle eine Möglichkeit aus: • Alle Mitspielenden (auch du) ziehen je 1 Karte. • Alle Mitspielenden (auch du) wählen je 1 Karte aus ihrer Hand und werfen sie ab.",
+  "card_identifier": "71/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=ae7e53e08befae05365c8130ec398a4131942aab287732fb6aa9ee842e1b2a14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=486ffc645815967f63490fe2678163abb829cf5c6fedc88501534e26e31f6939"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=61873478102fd0e28ccc15c766ae7a1d9fc6c875dbae8501e48e8ed32651c9cd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

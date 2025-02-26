@@ -1,0 +1,42 @@
+{
+  "name": "Macchia Nera",
+  "subtitle": "Figura Misteriosa",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luca Pinelli",
+  "deck_building_id": "f87fff900b6d5596c88b04100c0a87c2c9346faa",
+  "culture_invariant_id": 1568,
+  "sort_number": 1565,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Nessuno sa chi o cosa sia realmente, o cosa stia tramando.",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.)",
+  "card_identifier": "135/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=ce5c6d7c40d7d5f69e9c3784b2e57053fcb556c86634549e0c3d9a0b7e1b8eb3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=e69dff19dfa21590bd73ca6a0af7c73423fa3b9b3d192b3793965a71aa556163"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=99bf485ad5e4870daa55eaaf784884243d30e17b17055f3eec1bb7c29665c4fa",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

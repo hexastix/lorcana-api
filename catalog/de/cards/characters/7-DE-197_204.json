@@ -1,0 +1,40 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Wissenschaftlicher Mitarbeiter",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "b3111adf9384908477e6d72898ce887404f74a0c",
+  "culture_invariant_id": 1630,
+  "sort_number": 1627,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "HELFENDE HAND Jedes Mal, wenn dieser Charakter erkundet, darfst du einen Verbündeten, der 3 oder weniger kostet, kostenlos ausspielen. STRENGT SICH AN Solange dieser Charakter erschöpft ist, erhalten deine Verbündeten +1.",
+  "card_identifier": "197/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=d2f29b0c2485d324131dece425d2b64a37757fe1c3a9a94e258282a9a5a7238c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=beb6eeb7314b7784dd64b87cc92e3b45facc1557ab1187e95d91fcac28a834cd"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/61188f24396807ba7ca38919a158766de935852e.jpg?checksum=86a91396f8135e64d3d44ea80967c1d6b1ba0ea1b0692e1fbd3922f499560298",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Temporary Whale",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luca Pinelli",
+  "deck_building_id": "8a16f3c83a53236d523529bacad2e9c79e60b668",
+  "culture_invariant_id": 1478,
+  "sort_number": 1475,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "King"
+  ],
+  "flavor_text": "",
+  "rules_text": "DON'T YOU SAY A WORD Once during your turn, whenever a card is put into your inkwell, you may return chosen character, item, or location with cost 2 or less to their player's hand, then that player draws a card.",
+  "card_identifier": "45/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=cd2f7df7e1bb876af4846caf7d94bdc1d0cf49b381a0f881e4a6aa9b3bf69b3b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=40ca9224b50d397a49316e4a22f7e8c757bd9d426ec137403d5d1cb049e77467"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=2d9b3a3507f106effd11a7c261b8305f33c22a86700bbc76e29d4167fbedc47c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

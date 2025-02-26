@@ -1,0 +1,34 @@
+{
+  "name": "Mostrami di Più!",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1644,
+  "sort_number": 1641,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Ogni giocatore pesca 3 carte.",
+  "card_identifier": "211/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=6e02d6caf8e5c8662e1f4845319479af1d3a7fc5dc7ee9a51e8114d12753903a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=14e0a1dab8718c56d69d03cc78ca3db485a75dee453d7d8abf34f5a6113dbc9b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=f1d0561c760371e1f01ebde76498567f7d0cdf9a82ac4f76700b395b7f6fd898",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

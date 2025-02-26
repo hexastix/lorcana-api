@@ -1,0 +1,42 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Chercheuse inspirée",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "10b04e532f811271010fabf5d712bcce0f547d7a",
+  "culture_invariant_id": 1606,
+  "sort_number": 1603,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "Oh, c'est fantastique! Je savais que les parchepensées d'Archazia valaient la peine de faire des efforts supplémentaires!",
+  "rules_text": "AIDE SUPPLÉMENTAIRE Chaque fois que ce personnage est envoyé à l'aventure, si vous n'avez aucune carte en main, piochez une carte pour chaque personnage Allié que vous avez en jeu.",
+  "card_identifier": "173/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=3466ce68c8f75eaae1e1c637d1c0ff5ea8b2068b4576d83d2dc5843604c6d3f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=cc546975f06190b2ea61ed643d40b460af082d4d319cd384d45beec5edc8fcae"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=af4cebcfb9960a7c3ab1df33e676382872cfab1978c68b1a21b4b4874eadc705",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

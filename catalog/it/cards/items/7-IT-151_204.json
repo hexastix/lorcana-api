@@ -1,0 +1,34 @@
+{
+  "name": "Marchingegno di Maurice",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "051f6f7d75be055d8f35359a37f5737c6cf8907a",
+  "culture_invariant_id": 1584,
+  "sort_number": 1581,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Spero che faccia quello per cui l'ho costruito!%—Maurice",
+  "rules_text": "SMONTARE Quando questo oggetto viene esiliato, puoi riprendere in mano una carta oggetto con costo 2 o inferiore dai tuoi scarti.",
+  "card_identifier": "151/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=12531a2e205920d8dbc4da43e0cf78e2156b4d8cbf133b6c06e7a2f754093107"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=c6f53de69ffa16d9b49f2c24fb18b95596543f2c48c734337b643910c9c1c6df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b16a457a3302d7c1f4563df2ffc96dccf3779af7.jpg?checksum=0e79d29db16ed1e4b5f4c456978af4c72a8d3caf8de9210674656069eb451008",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

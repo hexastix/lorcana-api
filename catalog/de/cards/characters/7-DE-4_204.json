@@ -1,0 +1,43 @@
+{
+  "name": "Bolt",
+  "subtitle": "Superhund",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "a31d2bdbf009fa85ab285105f4b19017beef7180",
+  "culture_invariant_id": 1437,
+  "sort_number": 1434,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Bolt-Charaktere auszuspielen.) DAS ZEICHEN MEINER KRAFT Jedes Mal, wenn du diesen Charakter bereit machst, sammelst du 1 Legende für jeden deiner anderen unbeschädigten Charaktere im Spiel. BOLT-LASERBLICK – Verbanne eine Illusion deiner Wahl.",
+  "card_identifier": "4/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=275b3fc3667f782eed88f904ae218feb030dd3ed398cbebea081f5458c554717"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=a0b6124917faf4487127fc0f132c680f9b2f542bb1da304ea827398a42c5d372"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=4a251e9ff9f57cf95cd1754eb1be2ccf30d50769977ad83228b4f86e93348f42",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

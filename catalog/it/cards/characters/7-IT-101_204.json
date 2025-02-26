@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Cospiratrice Esasperata",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mel Milton",
+  "deck_building_id": "1549f70d69d265a807a772bbb979f346c7040f6a",
+  "culture_invariant_id": 1534,
+  "sort_number": 1531,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Una di queste deve essere la leva giusta, ma che possa essere la zia di un lama se solo capissi quale...",
+  "rules_text": "COME POSSO FARE? Quando giochi questo personaggio, puoi pescare una carta, poi scegliere e scartare una carta.",
+  "card_identifier": "101/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=0e4bcfc5a44fe4571a0ecc022a57bb061ddbf13cfbc6051a49dcc898a2c2f130"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=133560b0086512bf60486346464b3af1226b669616d8bf994d435eefd8fffae3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=e77310fcb6e89aadff0833204657196da3001401f078e153c91fcf716b229bf0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

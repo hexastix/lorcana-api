@@ -1,0 +1,41 @@
+{
+  "name": "Biagio",
+  "subtitle": "Cane Scaltro",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "1e70debf71c03c6a1973a11689057dde2fe76b95",
+  "culture_invariant_id": 1443,
+  "sort_number": 1440,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "ORA SÌ CHE È UNA FESTA Per ogni personaggio che hai in gioco, paga 1 in meno per giocare questo personaggio. COME VA? Quando giochi questo personaggio, puoi pescare una carta per ogni altro personaggio che hai in gioco, poi scegli e scarta altrettante carte.",
+  "card_identifier": "10/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=e4bb5efaaf5fd204edfb7dccacfc51a647e0308704c5a3dd7c9871b7931f072c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=9517414b6a57319dcdb5711413439f46b73d0353f1ec3fb7433364dc2254bb8a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=e2e10dc42c06b2fe36d7c7df357189ca64971f3703eb7a35ecddccd0e8955f1d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

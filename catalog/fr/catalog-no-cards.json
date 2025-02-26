@@ -47,8 +47,8 @@
       "type": "EXPANSION"
     },
     {
-      "name": "Carte en Avant-Première",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/expansions/thumbnails/fa54f25c2f323bf9d13392575717ec59d7d51f28.png?checksum=8fc982a2-11df-4228-9317-a41956bfee22",
+      "name": "L’ile d' Archazia",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set7/thumbnails/fa54f25c2f323bf9d13392575717ec59d7d51f28.png?checksum=d87abda5-abdc-46ad-ac99-93a86b58d38f",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
@@ -308,6 +308,9 @@
         ]
       },
       {
+        "term_in_search_filter": "Illusion"
+      },
+      {
         "term_in_search_filter": "Inventeur",
         "terms_on_card": [
           "Inventeur",
@@ -425,6 +428,13 @@
         "terms_on_card": [
           "Combattant",
           "Reckless"
+        ]
+      },
+      {
+        "term_in_search_filter": "Dissipation",
+        "terms_on_card": [
+          "Dissipation",
+          "Vanish"
         ]
       },
       {

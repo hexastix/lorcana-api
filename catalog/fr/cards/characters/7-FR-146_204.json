@@ -1,0 +1,40 @@
+{
+  "name": "Edgar Balthazar",
+  "subtitle": "Majordome ambitieux",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "628e46b17ac88741c7b9ab68ff8754cf1b81de57",
+  "culture_invariant_id": 1579,
+  "sort_number": 1576,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Tous ces pièges, toutes ces serrures, toutes ces machines… S'ils pensent que cela va m'arrêter, ils ont bien sous-estimé Edgar Balthazar!",
+  "rules_text": "",
+  "card_identifier": "146/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=bae3521fef7e0b52096204e0ae09dc29281ce1b43dd1f846ff514b9cd72f06ba"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=64fcc86f17bd60f87f5bc802df402806616e542a6c2d640947759e84f67487db"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=7acbb1af4a4ab67da93c58637e1f27be6ffb3eec176499be4efa1c47a36452f7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

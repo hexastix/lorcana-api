@@ -1,0 +1,42 @@
+{
+  "name": "Stabbington-Bruder",
+  "subtitle": "Ohne Augenklappe",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "81f21ee6476f7c8c81ebff1d297c52457d8fc8e4",
+  "culture_invariant_id": 1558,
+  "sort_number": 1555,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) SCHNAPP SIE! Deine anderen Stabbington-Bruder-Charaktere erhalten Rasant.",
+  "card_identifier": "125/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=75efa2e6d54818428e1bc35d41c8a6bd66fa026cb989ec1ece0179feb6e1c0df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=6a8a7697271b3f6db45aadca5c09e496a3dde493078c854f3f2ca07b211deb5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=a3680b991784572f27327d7bcbe763d11ff03dd76e3a34de49325d45e29287e9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

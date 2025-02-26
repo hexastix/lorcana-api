@@ -1,0 +1,41 @@
+{
+  "name": "Tramp",
+  "subtitle": "Enterprising Dog",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Brie Schmida",
+  "deck_building_id": "306f19dbca99cea365477d3efb8420831ab5d23c",
+  "culture_invariant_id": 1645,
+  "sort_number": 1642,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "HEY, PIDGE If you have a character named Lady in play, you pay 1 less to play this character. NO TIME FOR WISECRACKS When you play this character, chosen character of yours gets +1 this turn for each other character you have in play.",
+  "card_identifier": "212/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=b1593ce2687b9b9c2d09d2492d4da37e51a8baccb44a865f1e0e9fe841292b8c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=4ce9479611a38b232cdc488ea94d904d8fb37e13d2c46437ca241d2dc11a0ec1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=c6ded069de9e19ec604f3a4d5e447fb7820047fc48432c674aa817f43a8fb941",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

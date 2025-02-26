@@ -1,0 +1,42 @@
+{
+  "name": "Fix-It Felix, Jr.",
+  "subtitle": "Kleinwüchsiger Held",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "27de73ed728b5b8444dfa4aee552af1f119f9f7b",
+  "culture_invariant_id": 1455,
+  "sort_number": 1452,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Eine Falle ist nur ein nicht so freundliches Rätsel.",
+  "rules_text": "LOS, AN DIE ARBEIT Jedes Mal, wenn du eine Rennfahrer-Charakterkarte aus deinem Ablagestapel zurück auf deine Hand nimmst, darfst du einen Rennfahrer deiner Wahl bereit machen. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "22/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=2f19792ed5468a249ec1c5dcb89919daf63f7eb56320ed282ce04f53cf10f564"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=2e0326fcbe1a49be25e63e63cf74b3a460d9d68bc5ac674f0704dd1802c71d17"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/12c6fc06c99a462375eeb3f43dfd832b08ca9e17.jpg?checksum=d0271268fb70e20835158843d5edd31f96fbad426c696c3107aac24fd8e0b889",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

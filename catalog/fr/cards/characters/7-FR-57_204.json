@@ -1,0 +1,44 @@
+{
+  "name": "Cobra géant",
+  "subtitle": "Serpent fantomatique",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Nicola Saviori",
+  "deck_building_id": "ab23bc0d0f42e3fa41a43526d6fca8f364824467",
+  "culture_invariant_id": 1490,
+  "sort_number": 1487,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Dissipation"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Dissipation (Lorsqu'un adversaire choisit ce personnage avec une action, bannissez-le.) MYSTÉRIEUX AVANTAGE Lorsque vous jouez ce personnage, vous pouvez défausser une carte pour gagner 2 éclats de Lore.",
+  "card_identifier": "57/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=e713c9678c33befa49e38ea1c612fee486e38e022180ac27f6b326350d4c5892"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=181fc538b2ff028d1658552939e691320a569fd8986cafb4d3ba8721b8c10906"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ec10db75b2e00efe567a5e1998047c2f01e7e38c0c240eddd035521af999395a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

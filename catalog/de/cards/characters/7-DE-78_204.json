@@ -1,0 +1,41 @@
+{
+  "name": "Dolores Madrigal",
+  "subtitle": "In Hörweite",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "f7ca2bca88c3d51f863bc2d006117959a66f603a",
+  "culture_invariant_id": 1511,
+  "sort_number": 1508,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Madrigal"
+  ],
+  "flavor_text": "Sie hörte, wie Marianos Herz einen Schlag aussetzte. War es wegen des Rätsels, oder weil er sie ansah?",
+  "rules_text": "ICH HÖR’ DICH Jedes Mal, wenn einer deiner Charaktere ein Lied singt, zeigt eine gegnerische Person deiner Wahl all ihre Handkarten für alle sichtbar vor.",
+  "card_identifier": "78/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=bd8393ba7ef3e882aab2e55c6eed173a49ba3a04fab21bab91aa902a227d30fa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=cb2ae28cf3f952d27929b62a3d8216df08db4a09688cd96d3578bf1946269bcc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=76e20358882ac82c662a339948b5f4d2e6831d0e47d6e0f7dfa5ae1fe7769793",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

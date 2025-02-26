@@ -1,0 +1,40 @@
+{
+  "name": "Bucky",
+  "subtitle": "Nussiger Schlingel",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9e2af09893b0ca662b9ffaf6ed3e829170c038b7",
+  "culture_invariant_id": 1493,
+  "sort_number": 1490,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Oh, warte kurz. Ich liebe diese Stelle! Er lässt den Ballon platzen und all die Eicheln fliegen heraus. Das gefällt mir jedes Mal.%–Kronk",
+  "rules_text": "POP! Wenn dieser Charakter durch eine Herausforderung verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "60/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=bb415489d2fbbb7d89202feb77012af95bbfca0bd2f2178d092feae756292270"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=19a7133266bfad9f5e892c1020a709ff8de19bb7e450b9adb9bf95dd0b4b89ff"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=02c21950f4c57253c04c9547edfa1d130f25d71469819c248221dbaaaa9757e3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

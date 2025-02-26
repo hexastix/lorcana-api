@@ -1,0 +1,43 @@
+{
+  "name": "Baymax",
+  "subtitle": "Robot Potenziato",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Dustin Panzino",
+  "deck_building_id": "840d0b3ebdf82a8bbc65833ecdf99654ac7ab5ab",
+  "culture_invariant_id": 1608,
+  "sort_number": 1605,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Robot"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) SCANNER AVANZATO Quando giochi questo personaggio, guarda le prime 4 carte del tuo mazzo. Puoi rivelare una carta personaggio Imbevuto e aggiungerla alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "175/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=ca059fd47f4a891cbd7ac211741750777c9270f61b6153f2ba1c3b026bf8857d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=f28439b527ffa894a3ba3bf6b9faccff4d66d8347268e9882219df8c7ea2177b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3.jpg?checksum=c8143201167f8f6e61056535554d1b57aa6c9b3215f8661bac3f40c9603cd3f6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

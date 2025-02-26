@@ -1,0 +1,41 @@
+{
+  "name": "Yzma",
+  "subtitle": "Changée en chaton",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "a338053c5fc78cd2976092628447d8a80725dbad",
+  "culture_invariant_id": 1492,
+  "sort_number": 1489,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Oui, j'ai déjà terminé ce parcours. Je vais quand même faire quelques rebonds supplémentaires.",
+  "rules_text": "J’AI GAGNÉ Lorsque ce personnage est banni, si vous avez plus de cartes en main que chaque adversaire, vous pouvez renvoyer cette carte dans votre main.",
+  "card_identifier": "59/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=393e5c881708c7550eac0e6f713d2e6480ca577cec0b902d9b954c7413b5b7a1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=7707f270c60e21d5fc7302ab24b44a670116afcb85730988942ea3fb6eb8d9df"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=b6ffb81770fdc22dae6fe5c279512e9f66637693ff2f47011fa6c1949c74d7fc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

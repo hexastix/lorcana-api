@@ -1,0 +1,33 @@
+{
+  "name": "L'Acqua Ha Memoria",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samoldstoree",
+  "deck_building_id": "5e97cf7b8358a2a7fa4446b2bfdf89d0986ab9fe",
+  "culture_invariant_id": 1610,
+  "sort_number": 1607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Guarda le prime 4 carte del mazzo di un giocatore a tua scelta. Mettine una in cima al suo mazzo e il resto in fondo al suo mazzo in qualsiasi ordine.",
+  "card_identifier": "177/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=51b58a45b9a36b442077a35e63bb81b13dcbc71032cebc22cf8b88f294e7d4f8"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=47120c643193c46970582ca4e7c5837055096e8d87483dfc988a0cc7da10e0a4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b903d107624f8997696d3545190e854d8197e45a3032679b6f059dfdeacdb57c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

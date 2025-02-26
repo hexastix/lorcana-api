@@ -1,0 +1,40 @@
+{
+  "name": "Roger Radcliffe",
+  "subtitle": "Passionné de chiens",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Hedvig H-S",
+  "deck_building_id": "eac2ac31d2370e8bb57973ee953fec1616cdcb05",
+  "culture_invariant_id": 1438,
+  "sort_number": 1435,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Le meilleur moment de la course d'obstacles était de retrouver leur humain à la fin.",
+  "rules_text": "ET VOILÀ, C'EST FAIT Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez retirer jusqu'à 1 dommage de chacun de vos personnages Chiot.",
+  "card_identifier": "5/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=33e1e79acbed93402dd3e21dce0b9f75c7622796ef8b971bd8a6a04756ce0d96"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=121097a35903a79f084b45b9c18c37d8dc7635714d8938c04301829ae659cd12"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=893285c31d5065cc2744ee21ed24e4dce20c083353d3086bc29476b6f730f44a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

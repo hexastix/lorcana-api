@@ -1,0 +1,35 @@
+{
+  "name": "Die Rückkehr von Hercules",
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1551,
+  "sort_number": 1548,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mein Glückwunsch, Wunderknabe. Du wirst bestimmt ein toller Gott.%–Meg",
+  "rules_text": "Alle Mitspielenden (auch du) dürfen je 1 Charakterkarte aus ihrer Hand vorzeigen und kostenlos ausspielen.",
+  "card_identifier": "118/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=0bbfc41cf747271dca62a8a637ebc53900a0d0ca4b3d4e16849a59b4a30ef954"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=d99f70019d8de5cdc78734c5741ed95f948361eed6d2f590decd60feb67cfbce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=c1df743d01f66eddeb54b8ffbfd5c1027c800a34e263d57e3374b47bb4762e11",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=c51487a6618950a084f6f3cb76a3a7f24ffb2a461e645e0fd6dca2cdfaa8eccf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

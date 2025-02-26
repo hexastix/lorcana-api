@@ -1,0 +1,41 @@
+{
+  "name": "Baymax",
+  "subtitle": "Batterie faible",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "8443d471af8ebbfb5a81734a59bca908a12fa53e",
+  "culture_invariant_id": 1520,
+  "sort_number": 1517,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Robot"
+  ],
+  "flavor_text": "Le traitement des données des parchepensées d'Archazia consomme une quantité importante d'énergie. Protocole d'économie maximale de la batterie enclenché.",
+  "rules_text": "PSSSHH Ce personnage entre en jeu épuisé.",
+  "card_identifier": "87/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=41158fb24e87051863ec7d3542280468e0b5d98098fc4a44a1a8a864b4250091"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=774c31d7674627474932cb54f1a9e6e2bed75aa3d4551e62de9e11f85421d4e4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=d05952124f36cb68799460c5725cf11c2c860b1bc49a81251bc48138bd682271",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

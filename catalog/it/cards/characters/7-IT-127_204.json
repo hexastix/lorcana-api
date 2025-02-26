@@ -1,0 +1,39 @@
+{
+  "name": "Scarafoide",
+  "subtitle": "Nemico Infestante",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Cristian Romero",
+  "deck_building_id": "d03d06aac96130ef91033f5aba0d28d7ade58cdc",
+  "culture_invariant_id": 1560,
+  "sort_number": 1557,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Gli scarafoidi sono come dei virus. Ignorano di stare in un gioco.%—Calhoun",
+  "rules_text": "MENTE ALVEARE Questo personaggio riceve +1 per ogni altro personaggio che hai in gioco.",
+  "card_identifier": "127/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=b2ab76b8ae661595bb90414aeea87838c6582da90f37e46deef41bf951510859"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=63e4ab54232c0ed333a5c4772be3a1320beb235531d14bf0b5f263c194db4895"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/008451a05e1e7aa32c75119df950d405265e0904.jpg?checksum=57f54b1bea63885d54546498531b6d9ec0149b4bacadcb84b5f162e7f2cd709d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

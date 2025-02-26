@@ -1,0 +1,45 @@
+{
+  "name": "Mulan",
+  "subtitle": "Imperial General",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "9c206f63c6f0526ce5aac53a49c9fe58909c52ee",
+  "culture_invariant_id": 1574,
+  "sort_number": 1571,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Mulan.) Evasive (Only characters with Evasive can challenge this character.) EXCEPTIONAL LEADER Whenever this character challenges another character, your other characters gain \"This character can challenge ready characters\" this turn.",
+  "card_identifier": "141/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=178ef2e6dde262e714df4c6b9cc47427ce329838998930bbddbc567cd4bd1161"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=eaa1882216efea49a4baba7d7c128afeaa3ed782213d243e09a03c7cb0778708"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=5432d6121e894b8281b2a2b14d208746cc82760db805d6cddb5ec046c79a2e98",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

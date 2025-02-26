@@ -1,0 +1,42 @@
+{
+  "name": "Lady Marian",
+  "subtitle": "Asso del Volano",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Emily Abeydeera",
+  "deck_building_id": "16b563305b1ebac09f45ac449c05181244aff0e5",
+  "culture_invariant_id": 1609,
+  "sort_number": 1606,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "BEL COLPO Durante il turno di un avversario, ogni volta che uno dei tuoi personaggi Alleato viene danneggiato, infliggi 1 danno a un personaggio avversario a tua scelta. FAIR PLAY I tuoi personaggi chiamati Lady Cocca ottengono Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "176/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=bb9bcb3ba2b19b6ba90c27ce01ee31b0c840a033dacf7489236d38505abb9a7c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=b136c90c6e7bb20ef8cf428e0225cf85e6e450b68f1ffd6eaff56ef7cc57a26e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=2f5790b775b10b51d18b28a0720fd02de0dd59a8c8d71be3cb9ce7b6a9d9ed40",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

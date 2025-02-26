@@ -1,0 +1,43 @@
+{
+  "name": "Te Kā",
+  "subtitle": "Lava-Monster",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Max Grecke",
+  "deck_building_id": "1d4dce8830332274f2d71f03712751024137f96e",
+  "culture_invariant_id": 1491,
+  "sort_number": 1488,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Gottheit"
+  ],
+  "flavor_text": "Wenn du nach Te Fiti willst, dann liegt ein ganzer Ozean voller Gefahren vor dir. Ganz zu schweigen von Te Kā.%–Maui",
+  "rules_text": "Herausfordern +2 (Während dieser Charakter herausfordert, erhält er +2.)",
+  "card_identifier": "58/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=ee52cb5baabdb9d878e192baf58783430a92b38b2c651aab7b7ed6ffd97bad0a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=95e61e3ef79d538896101d10eddedcb4dcfeffb7626884f9dfbfc7f52fd702d8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=3fed34890305459bc3a94261699c06ac37541ee4ddb7fcdd16067e7156dfc598",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

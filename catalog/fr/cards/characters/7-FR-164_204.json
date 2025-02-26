@@ -1,0 +1,43 @@
+{
+  "name": "Kida",
+  "subtitle": "Penseuse créative",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jennifer Park / Leonardo Giammichele",
+  "deck_building_id": "8fc0d0ceafd51fa5b52595a8a1b5f6817fadb9f1",
+  "culture_invariant_id": 1597,
+  "sort_number": 1594,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) CLÉ DE L'ÉNIGME — Regardez les 2 premières cartes de votre pioche. Placez-en une dans votre réserve d'encre, face cachée et épuisée, et l'autre sur votre pioche.",
+  "card_identifier": "164/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=ee095fbf61ac3821d820c5a6103b14c2368cd29d0db4bc3cdd05920d69066853"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=98ed32767f36d2d78f2a4639412a6bca7a5327ac374f3d026bd75536c370e85e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=f801514307e1b4464d9fce39219594d66cacd9299515fcd82b6b990f16cbc556",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

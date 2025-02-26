@@ -1,0 +1,33 @@
+{
+  "name": "Outil inhabituel",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "6132d37f5c0ee1b84d2dc393df229f24f13c9cc6",
+  "culture_invariant_id": 1583,
+  "sort_number": 1580,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je l'utilise bien plus que vous le croyez !%—Maurice",
+  "rules_text": "RÉPARÉ EN UN CLIN D'ŒIL Lorsque cet objet est banni, le prochain objet que vous jouez ce tour-ci vous coûte 2 de moins.",
+  "card_identifier": "150/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=de5dd3d7ae3e97ba445651a47242dfd4bbafa098495224956a51587186b1174f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=f4cafcee8e165e6ad805f023ff7a912cc640f8c74a2196327a1cf4894bd2fb81"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=dd4a066be477676289586fb89e338e0e8ab6638cb347aa3020b24dbc02021925",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

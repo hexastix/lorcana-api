@@ -1,0 +1,41 @@
+{
+  "name": "Grewnge",
+  "subtitle": "Kanonenspezialist",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Simangaliso Sibaya / Mario Manzanares",
+  "deck_building_id": "953728c67c2d903d508f34dfca89bfb6c27fcbc2",
+  "culture_invariant_id": 1519,
+  "sort_number": 1516,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Pirat"
+  ],
+  "flavor_text": "Er liebt zwei Dinge: Explosionen und noch mehr Explosionen.",
+  "rules_text": "SCHNELLFEUER Jedes Mal, wenn dieser Charakter erkundet, zahlst du 1 weniger für die nächste Aktion, die du in diesem Zug ausspielst.",
+  "card_identifier": "86/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=9e192bb338ec7f7183aed996ea3fae097bab720ef67d7c7b15cf653d0f9b6fc3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=b3a23398dcd1efc6cd9ae087c65c47da4b2390610a9dfee111f94c7cafa7df68"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=9e4791129b697f87004d10008d3de76cabe56fb47956fa4b82c7f6f002480a78",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

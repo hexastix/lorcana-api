@@ -1,0 +1,44 @@
+{
+  "name": "Iago",
+  "subtitle": "Gigantesque perroquet spectral",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "92a28806ab3fe41ff2c28195914ec78416311980",
+  "culture_invariant_id": 1482,
+  "sort_number": 1479,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Dissipation",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) Dissipation (Lorsqu'un adversaire choisit ce personnage avec une action, bannissez-le.)",
+  "card_identifier": "49/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c244942a451ad9b82df29e2f82c8f6eb7b2166ae0853e639f66d427db01afe4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=c4e499e88af3ad05a810bfadd206f5be1f8f90a81e09b09418251444e59a35ea"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=6d88c80592a52004b3d71e0a842a0bcd396acd47782b8e8b3d64421f082eae98",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

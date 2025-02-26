@@ -1,0 +1,41 @@
+{
+  "name": "Strolch",
+  "subtitle": "Unternehmungslustiger Hund",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Brie Schmida",
+  "deck_building_id": "306f19dbca99cea365477d3efb8420831ab5d23c",
+  "culture_invariant_id": 1645,
+  "sort_number": 1642,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "HEY, TÄUBCHEN Wenn du einen Susi-Charakter im Spiel hast, zahlst du 1 weniger, um diesen Charakter auszuspielen. LASST DIE ALBERNEN SPÄSSCHEN Wenn du diesen Charakter ausspielst, wähle einen deiner Charaktere und gib ihm in diesem Zug +1 für jeden deiner anderen Charaktere im Spiel.",
+  "card_identifier": "212/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=1e7473afdf1ab7311f259602bfd3f0ce44bd8f44f54c57f3978f26741650998e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=d067a3e0fb9fdb34c5c49118a594c5b114fe917120eda088a000f8021939603b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/e2154fea5da2dd0d1732ff30931723c2973003a0.jpg?checksum=16c98d7db41f6e4e644b55642de4ceaabc45b16c4577226b5caf1bf9036b82be",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

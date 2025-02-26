@@ -1,0 +1,41 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Avventuriera per Terra e per Mare",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Anna Stosik",
+  "deck_building_id": "moana-vaiana",
+  "culture_invariant_id": 1589,
+  "sort_number": 1586,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Vaiana è chiamata dagli antenati a navigare verso nuovi cieli e a ricongiungere persone attraverso l'intero oceano.",
+  "rules_text": "",
+  "card_identifier": "156/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=4f49ae13af5d494f7810ef862e42602038eda74908d3703537cd7b057874c34a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=64d86b34cd9b83a321248e7daa0f5c2b6bc36845d93b7db95cb6ccaf645154c8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/6052521b7625e31d4ee9cc706732484fcf850877.jpg?checksum=511815c9f9ee5a90943098667822c22671cf63a86188203a76939f168a4ba007",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

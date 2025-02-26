@@ -1,0 +1,43 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Exploratrice d'île",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jackie Droujko",
+  "deck_building_id": "e4393d614409dae5df4ecdd00e5bd3f488227461",
+  "culture_invariant_id": 1567,
+  "sort_number": 1564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) ESPRIT D’AVENTURE Chaque fois que ce personnage en défie un autre, choisissez un autre de vos personnages qui gagne +3 pour le reste de ce tour.",
+  "card_identifier": "134/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=17c46bd7eb0c3cfb1f29a08586420288bf9e75bee496fff0072962a5711bc16e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=73cca286dd87b194f43632514956c9c337227ec07f0dcfb31d912979715a2c14"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=d1b345cb809e2a388b54cb72c92cf4f7d065b2c3d89fe59e7f76597ae7277acf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

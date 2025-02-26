@@ -1,0 +1,46 @@
+{
+  "name": "John Silver",
+  "subtitle": "Vengeful Pirate",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Nicholas Kole",
+  "deck_building_id": "dc584065fcb4cd49d186951d0d6d794fd2de71a4",
+  "culture_invariant_id": 1542,
+  "sort_number": 1539,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Alien",
+    "Pirate",
+    "Captain"
+  ],
+  "flavor_text": "",
+  "rules_text": "DRAWN TO A FIGHT If an opposing character was damaged this turn, you pay 2 less to play this character. Resist +1 (Damage dealt to this character is reduced by 1.) I AIN'T GONE SOFT! Whenever you play an action that isn't a song, you may deal 1 damage to chosen character.",
+  "card_identifier": "109/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=0539f57073eeb777a8774acf9ad52d728e9c6174b942e21df1ac75aa2d23f9ef"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=07f0d3f5c9974086f9b9b7f344b90c46fc71c2b12aa4435eae2b8d0259964192"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=71cbd9493f74523cf51ba114144236797d6be30bbc911c515a52a6f5eb179afd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

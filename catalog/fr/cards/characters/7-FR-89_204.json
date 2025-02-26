@@ -1,0 +1,41 @@
+{
+  "name": "Pat",
+  "subtitle": "Crapule de pirate",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Serena Wade",
+  "deck_building_id": "d89b25a8952e36576cfdd04557b3a45e0ca9dc07",
+  "culture_invariant_id": 1522,
+  "sort_number": 1519,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Pirate"
+  ],
+  "flavor_text": "J’l'ai pas volé! J’le gardais juste en sécurité.",
+  "rules_text": "VOLER ET PILLER Chaque fois que vous jouez une action qui n'est pas une chanson, vous pouvez choisir un objet et le bannir.",
+  "card_identifier": "89/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=e419ddcd7a4a13b6f326d2dc4cfb234197e0b90f76730a65d5f9077b3e8b35a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=012a216987e730d18994b90a94ddfc5788aac81f04f88f7e1f4058ef9a5a720d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/16b06bd9b738835e2d134fe8d596e9ab0086a985.jpg?checksum=2c83b86c19e6bf9d385dacf1a13bfd982a17bedf30d982357b294d8b324c43be",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

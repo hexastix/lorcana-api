@@ -1,0 +1,42 @@
+{
+  "name": "Clarabelle",
+  "subtitle": "News Reporter",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "e3b5dbe6ce01c2ada369d0b5792e10567e35497f",
+  "culture_invariant_id": 1586,
+  "sort_number": 1583,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) BREAKING STORY Your other characters with Support get +1.",
+  "card_identifier": "153/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=924506063e3fdeb1ae305b5031f6a0f4d5eef8be3924e9c0ecaa8ec0ffeb0ba1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=1b0aa8acd2d2a15fc18a00b1418a5baa545e9fb01d6e9aa6757896d0df2c83e3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=2aa34a173e041c3de3720a24d6cc732ab25bedb19cfe65c3f787e25d395debeb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

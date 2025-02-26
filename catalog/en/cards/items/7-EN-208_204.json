@@ -1,0 +1,34 @@
+{
+  "name": "The Glass Slipper",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Anna Stosik",
+  "deck_building_id": "f5a235b7654245ada9482fa791d327f69903983e",
+  "culture_invariant_id": 1641,
+  "sort_number": 1638,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "PERFECT PAIR You may only have 2 copies of The Glass Slipper in your deck. SEARCH THE KINGDOM Banish this item, one of your Prince characters — Search your deck for a Princess character card and reveal it to all players. Put that card into your hand and shuffle your deck.",
+  "card_identifier": "208/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=f9974fd125727e76127eba1736c123ac3fc0a7fb79f0818c343560cb38f7ded9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=cd410d5002d6a301a7fa7035954c5b0db9a9846c34418fafc08ad31c9ac46b29"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=490602e7af31d582aacea1b82aecb0f9534ee6fb219936ace1df0730fd6ac2c8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

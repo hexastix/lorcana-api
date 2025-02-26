@@ -1,0 +1,33 @@
+{
+  "name": "Unconventional Tool",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Levi Rogers",
+  "deck_building_id": "6132d37f5c0ee1b84d2dc393df229f24f13c9cc6",
+  "culture_invariant_id": 1583,
+  "sort_number": 1580,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I use this one a lot more than you'd think! —Maurice",
+  "rules_text": "FIXED IN NO TIME When this item is banished, you pay 2 less for the next item you play this turn.",
+  "card_identifier": "150/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=09911d498cd6338f021eb82059ce24b5bdad0c4cf75c33ee77ab8faf3c4d460a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=1f99b270df68eb4c87963012728a6a27ca22e3e2047d009964d835c8eaea703b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/13682ac418603aa0966369d46bbf282f562acf47.jpg?checksum=55ae8ea1d4ba70df32eaa53ae0a6e27223c0fbf2aa398b675ba3f1367388991b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

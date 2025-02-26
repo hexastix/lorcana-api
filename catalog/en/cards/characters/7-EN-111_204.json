@@ -1,0 +1,41 @@
+{
+  "name": "King of Hearts",
+  "subtitle": "Picky Ruler",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "58b431f0b98bc1d4b41d41d858487fce9f552032",
+  "culture_invariant_id": 1544,
+  "sort_number": 1541,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "King"
+  ],
+  "flavor_text": "You there! You can’t be here in the state you’re in. Begone before the Queen sees this mess!",
+  "rules_text": "OBJECTIONABLE STATE Damaged characters can't challenge your characters.",
+  "card_identifier": "111/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=9c86bfc3742e3018fed15cfee0362e145c41689cc4c046aa3e3c0b93c1dc19c4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=8d6e644ee5ee37e5687fa1c4924e6ce174acfa7c1a5ee2df5ec6d024367c5e5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=44e67e4da46f64b92dc5c55c1a4147ba0cd26e63ac1dd074dd617aec5133040e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jafar",
+  "subtitle": "Tout juste couronné",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "John Loren / Nicholas Kole",
+  "deck_building_id": "c2c99cc57b2bf9c36b9c67847831c8544b963b06",
+  "culture_invariant_id": 1484,
+  "sort_number": 1481,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Maintenant que la Couronne d’Hexasort est enfin mienne, aucune force dans tout Lorcana ne peut s'opposer à moi !",
+  "rules_text": "JE N’AI PAS DIT MON DERNIER MOT Durant le tour d'un adversaire, chaque fois que l'un de vos personnages Illusion est banni, vous pouvez le renvoyer dans votre main.",
+  "card_identifier": "51/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=ac6360f6e38dddd6e62bc7aa1e5751266da686f94a7b43e073fbb97fa4006917"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=14afc730a58e1b5c01da5a1b9e377ab47a6e139a1a7d2de94337953539dfe916"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/b7eb6c689c037217079766fdb77c3bac3e51cb4c.jpg?checksum=7720801203537340447a3e75c30ce9a8abc621df80876fe7e6b115242a1c21d9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Spugna",
+  "subtitle": "Capitano Efficiente",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "af71eddc1279e3c929451e656d1d9c68d307965e",
+  "culture_invariant_id": 1540,
+  "sort_number": 1537,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Bene, ciurma — abbiamo un sacco di cose da fare oggi!",
+  "rules_text": "RADUNA LA CIURMA Ogni volta che giochi un'azione che non è una canzone, puoi preparare un personaggio Pirata a tua scelta.",
+  "card_identifier": "107/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=db217f4a116536badacd0780a5afa8211f2cfdde7297cea17dcd9601c481724d"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=ba187ad5bb2da21af714394fa9857e7128a1c192391779dfb581ce7f5b7d9114"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=01f28ba0c2ade9e306543ed61023da62444328376e94247a5314cc6ec599a11c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

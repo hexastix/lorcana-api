@@ -1,0 +1,41 @@
+{
+  "name": "Herzkönig",
+  "subtitle": "Wählerischer Herrscher",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "58b431f0b98bc1d4b41d41d858487fce9f552032",
+  "culture_invariant_id": 1544,
+  "sort_number": 1541,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "König"
+  ],
+  "flavor_text": "Du da! Du hast hier nichts zu suchen, so wie du aktuell aussiehst. Verschwinde, bevor die Königin diese Schweinerei sieht!",
+  "rules_text": "UNZULÄSSIGER ZUSTAND Beschädigte Charaktere können deine Charaktere nicht herausfordern.",
+  "card_identifier": "111/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=e17c507c65086bcc5f407d08eaeb07e03537a893adcb319f47eb3f2235f8fe47"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=2881191426e124b602a4e30d572e1d442d690ecaef4c7fd73cf59585b88e4421"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg?checksum=77157af3b63c596a44cfad014938ff9a792d8e120621153abc6cf73cedfe761a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

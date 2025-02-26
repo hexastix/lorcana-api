@@ -1,0 +1,40 @@
+{
+  "name": "Koda",
+  "subtitle": "Bärenjunge",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "88ff3b894f745ef4716c8feccea0a6f1c4ca0cfb",
+  "culture_invariant_id": 1467,
+  "sort_number": 1464,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Und dann fragten sie: ,Wie hast du so viele Fische gefangen, Koda?‘ Und ich sagte: ,Nun, ihr kennt mich. Ich <weiß>, wie man Fische fängt.‘ Und sie sagten …",
+  "rules_text": "",
+  "card_identifier": "34/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=d9f7018e492d486eff10acffe038a774e4d8c82575ee3b38afda320deed1ac00"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=b61aafbe062c90e349af2106911633ba8eb3070be6ad021641a249ae9c728f06"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=d23bb68f58c63d8e0a46d6ebeae4ef946fdd3b6ac8e574af61e6f422d538d5c1",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

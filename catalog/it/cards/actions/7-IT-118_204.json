@@ -1,0 +1,35 @@
+{
+  "name": "Il Ritorno di Ercole",
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1551,
+  "sort_number": 1548,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Congratulazioni, Megafusto. Sarai un gran bel dio.%—Megara",
+  "rules_text": "Ogni giocatore può rivelare una carta personaggio dalla sua mano e giocarla gratis.",
+  "card_identifier": "118/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=fd4d3a615978aff603921642f2d28bc8f3cf53ff558ebdf25dba0e30d7ba796f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=180976c1cfdd6eac471da863741a059dabd09526da59c5c1dff520b8fb8fa88b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=e6b1019a61721f9c0657544dee6c1e4524760289ccf7aa5b58ca63256c254af9",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=c51487a6618950a084f6f3cb76a3a7f24ffb2a461e645e0fd6dca2cdfaa8eccf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bucky",
+  "subtitle": "Nutty Rascal",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "9e2af09893b0ca662b9ffaf6ed3e829170c038b7",
+  "culture_invariant_id": 1493,
+  "sort_number": 1490,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "Oh, hang on. I love this bit! He pops the balloon and all those acorns go flying out. Gets me every time. —Kronk",
+  "rules_text": "POP! When this character is banished in a challenge, you may draw a card.",
+  "card_identifier": "60/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=68f8e80f4f09c2eed404a233f2f90a3cff008cc452763cfebbf2064995cfe697"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=dd15933bd3b7d2ca4e7e04b772b0aa285ad983a553c5e1e095423c41f5b34e86"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2caf2b12eaab25d503316774150ee27eeb40b48bd4e8b0f941fbd5d2951fbdcd",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

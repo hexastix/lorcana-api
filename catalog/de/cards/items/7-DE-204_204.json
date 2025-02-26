@@ -1,0 +1,33 @@
+{
+  "name": "Übungsstab",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Roberto Gatto",
+  "deck_building_id": "e59a60896a2cea72441d79546048b4cce3a5ed23",
+  "culture_invariant_id": 1637,
+  "sort_number": 1634,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sitz nicht untätig herum, während andere nach Ruhm streben.%–Li Shang",
+  "rules_text": "PRÄZISIONSSCHLAG , 1 — Ein Charakter deiner Wahl erhält in diesem Zug Herausfordern +2. (Während der Charakter herausfordert, erhält er +2.)",
+  "card_identifier": "204/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=2648cc6283f1bd33d70217baf6c6f41fdddabd5feb3d228775044095d1aee95b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=c2c15905750b4cffe2135f42bf5030d4480b9036db8875c69064b5fce2d07393"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1cc641954099c249e0e4ef0402da3fd0364d95f0.jpg?checksum=d21bae245c21541ccd1cd6688ecb3e7a9a3cf073d44d44f725e57c6732c49cd2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

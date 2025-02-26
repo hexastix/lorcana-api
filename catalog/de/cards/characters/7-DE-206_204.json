@@ -1,0 +1,45 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Musikalisch begabt",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "e4e34e724a44eb13af101f51552399722b885dba",
+  "culture_invariant_id": 1639,
+  "sort_number": 1636,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Mirabel-Madrigal-Charaktere auszuspielen.) IHRE EIGENE BESONDERE GABE Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 Liedkarte, die 3 oder weniger kostet, aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "206/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=ce024763fc9d80c10887bd3ca2aa46685b8da55acea6ddc96d1b7b5aa506fb6b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=df1b5ee8db7443ba04fb9d67c2d29569a196372c247d0dc24add5a3d8e955c28"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=8f566d1d7c7d5f1cbc44cf0808ef8ddb4c3c1f44f4c99fa5c7a2cd9c063c0bce",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "All Is Found",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Viv Tanner",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1653,
+  "sort_number": 1650,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "(A character with cost 5 or more can to sing this song for free.) Put up to 2 cards from your discard into your inkwell facedown and exerted.",
+  "card_identifier": "220/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=063e4388b34150ccc24c73aa2d302aaeb7ecbb12df37e53292dd040f5b6826d5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=0a3680741a272979a4531d08dec4292ac0d50cb8f38e806815c193116fb69219"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=ef3f5c8f47b4b164600aadff715a8f98fc6710d35ee5596b05dbbc8f6384cd73",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

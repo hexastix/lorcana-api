@@ -1,0 +1,41 @@
+{
+  "name": "Razoul",
+  "subtitle": "Menacing Guard",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "bd4556b415c9d59ebf5ce6f7e363998afd05e091",
+  "culture_invariant_id": 1622,
+  "sort_number": 1619,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Captain"
+  ],
+  "flavor_text": "Mere trinkets won’t get you any closer to Jafar.",
+  "rules_text": "MY ORDERS COME FROM JAFAR When you play this character, if you have a character named Jafar in play, you may banish chosen item.",
+  "card_identifier": "189/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=00105ec1006f92b78b60a83e6a9c6e8d42cccabd352990bc3471e85a64bce0aa"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=73dc476ae52e9b1ee1c9e48ad4f3ffef3ad35d9263a935dc3c7000a48fcb0248"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=56600dbd4b51e42accb2e13d130f50527ced9cce2433fefdc5a6a944a96f0df3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

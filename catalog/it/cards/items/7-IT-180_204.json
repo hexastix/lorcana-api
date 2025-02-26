@@ -1,0 +1,33 @@
+{
+  "name": "Stazione di Ricarica di Baymax",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "809b5752ee2de600186f4bd616bff5e0ec7a1806",
+  "culture_invariant_id": 1613,
+  "sort_number": 1610,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Batteria al 100%. Pronto all'azione!%—Hiro Hamada",
+  "rules_text": "CONVERTITORE DI ENERGIA Ogni volta che giochi un personaggio Imbevuto, se hai usato Trasformazione per giocarlo, puoi pescare una carta.",
+  "card_identifier": "180/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=97483d0417151aa5ac707b247eaadbb2b5da8288e907732b8fa3f72ade938cf1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=7e5cd43410592c99f9b6ade958e23ebc1cda56e49402e556df5860204ff34d78"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=7fadb7fe3cb68f20968e38528717e731ee338f29f4b9599312cccda7d3254064",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

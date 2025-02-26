@@ -1,0 +1,41 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "In the Moment",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "César Vergara",
+  "deck_building_id": "78a3743253e0c1d99573f5b0580092912919c335",
+  "culture_invariant_id": 1458,
+  "sort_number": 1455,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "I just made something unexpected. Something sharp, something new.",
+  "rules_text": "I'M TIRED OF PERFECT Whenever one of your characters sings a song, this character can't be challenged until the start of your next turn.",
+  "card_identifier": "25/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=dab477151c1a70f910055eb0eea45dd98d4fb92a730978940d547bfa37c47078"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=27e784e9075a466734863483004efd155e9622a879933658175bd58e3e800a16"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=1f41fa4cd2e21cbea7c9aedab51983007df90f30e6650386f773e8ef7b21bee3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

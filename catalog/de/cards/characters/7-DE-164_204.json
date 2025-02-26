@@ -1,0 +1,43 @@
+{
+  "name": "Kida",
+  "subtitle": "Kreative Denkerin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Jennifer Park / Leonardo Giammichele",
+  "deck_building_id": "8fc0d0ceafd51fa5b52595a8a1b5f6817fadb9f1",
+  "culture_invariant_id": 1597,
+  "sort_number": 1594,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) DER SCHLÜSSEL ZUM RÄTSEL — Schaue dir die obersten 2 Karten deines Decks an. Lege eine davon verdeckt und erschöpft in deinen Tintenvorrat und die andere zurück auf dein Deck.",
+  "card_identifier": "164/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=bc8d5f9652adf39983c8a377f549b81bb0c8af4992faf0a7fb4b818a1f2c27c1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=401663f4e4c970d1e9f9fcf202095b96a41f954897de84cc0120802d48b0a6ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=84d16ab8232202abeed245b6e2ba88dcf74ec2cbdaa19f1a3460d92b5b9e2e01",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

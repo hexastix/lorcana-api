@@ -1,0 +1,44 @@
+{
+  "name": "Aurora",
+  "subtitle": "Erwachte Schönheit",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Viv Tanner",
+  "deck_building_id": "2ea925b3bcd4e58c5bd1d5bb775db0d24bf1d993",
+  "culture_invariant_id": 1638,
+  "sort_number": 1635,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Singen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singen 5 (Die Kosten dieses Charakters gelten als 5 für das Singen von Liedern.) SÜSSE TRÄUME Jedes Mal, wenn du 1 oder mehr Schaden von einem Charakter entfernst, mache diesen Charakter bereit. Er kann in diesem Zug nicht mehr erkunden oder herausfordern.",
+  "card_identifier": "205/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=1247b6ed8b72187b7baed684ab2191df9d4b4f849ed94983a464bc37650a540f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=3bc24ebf9c5672cf4bc1a20a1e305304d32cff94ab8e194a7682cd94ce09f1b9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/5f1cd7c3fb68ae7c679f8c33966610670d32ff1e.jpg?checksum=d6fcc96e29ad6ffe39827fa1c81618ae35307e16752509f4b71b0e505d88775c",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

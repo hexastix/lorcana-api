@@ -1,0 +1,46 @@
+{
+  "name": "Belle",
+  "subtitle": "Meccanica Straordinaria",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Jochem van Gool",
+  "deck_building_id": "4d23f100a066fd4f3e2360075ccf1959f705f5d7",
+  "culture_invariant_id": 1650,
+  "sort_number": 1647,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 7 RECUPERARE Per ogni carta oggetto nei tuoi scarti, paga 1 in meno per giocare questo personaggio usando la sua abilità Trasformazione. CONVERTIRE Ogni volta che questo personaggio va all'avventura, puoi mettere fino a 3 carte oggetto dai tuoi scarti in fondo al tuo mazzo per ottenere 1 leggenda per ogni carta oggetto spostata in questo modo.",
+  "card_identifier": "217/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=631dfda4e145a2dcfb487a16c7e5ac98e3d630b243a54e9ef253b9415c344e55"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=c50c70a47c9f16ccc8a69e2b8ee0fc5cc9046d10c99d449763f3f7c4f6262014"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=aa695edc4d54524bed64362151af1eceadbe3d415b3edb0e68ed27311dc9197b",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

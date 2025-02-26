@@ -1,0 +1,33 @@
+{
+  "name": "Amethyst-Reif",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "ac754e91e28825cba2776c444e2988b47cd9016b",
+  "culture_invariant_id": 1517,
+  "sort_number": 1514,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Shanzays Reif flackerte auf und schickte eine Ranke mystischer Energie in Richtung des beschädigten Glimmers.",
+  "rules_text": "MAGISCHE BERÜHRUNG Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, darfst du 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "84/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=1552023c20de7c88ec2903e52c41860d6f53f5596d7518dd9fb3fc2ad2090140"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=acda9836d5cdedce988b9aa523b30dcbdcbb17fe0b4a24d2ae890298fa8cc782"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=4c7089de802643e58a04df2366569d960f3591a42969052a387894fea71160b8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

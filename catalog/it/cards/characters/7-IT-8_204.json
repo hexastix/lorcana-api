@@ -1,0 +1,40 @@
+{
+  "name": "Suzy",
+  "subtitle": "Maestra Sarta",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kapik",
+  "deck_building_id": "6c854aa30ab77afc53f38061766e42e06f160e6a",
+  "culture_invariant_id": 1441,
+  "sort_number": 1438,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "I fedeli topolini erano emozionati all'idea di sorprendere Cenerentola con un nuovo vestito. Sorridendo, Archazia diede loro un rocchetto di filo magico. Questo lo renderà perfetto, disse.",
+  "rules_text": "",
+  "card_identifier": "8/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=5bd6402e9ceb877978dbd3cea53925093b63106366fdc3490e82cb2e93b49639"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=45b4d3c55d3fbb52b5ab88f9405c635abe01a48a94b47d8907e27fe97438ec21"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f.jpg?checksum=baee94554456279e9161e9cf2d98e21668511919f003ac4a1256e324e72c0a06",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

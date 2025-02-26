@@ -1,0 +1,44 @@
+{
+  "name": "Bagheera",
+  "subtitle": "Giaguaro Protettore",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "8e707e6dd19e262dc08b7529a727f0a41a77b507",
+  "culture_invariant_id": 1631,
+  "sort_number": 1628,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) DEVI ESSERE CORAGGIOSO Durante il turno di un avversario, quando questo personaggio viene esiliato, infliggi 2 danni a ogni personaggio avversario.",
+  "card_identifier": "198/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=0dcc0767f1fd92bf07a11246b7e264ee17a07e06e82318de86529dd353e6a42b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=b836c56ff91e726b2c031807968bcb8b659eaed7712ff83abd3368310eb7ec74"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=8ce48c981281f9c13a87259e33028ce3c8257395dd563fc55652a9576b5e2a2a",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc.jpg?checksum=de6b667e61f9df88ec0c973a7c2bbcd3e0eb6e40e4189200d63e80b1467cb76d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

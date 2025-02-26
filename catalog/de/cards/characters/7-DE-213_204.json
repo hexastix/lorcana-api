@@ -1,0 +1,41 @@
+{
+  "name": "Der verrückte Hutmacher",
+  "subtitle": "Unbändiger Exzentriker",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "87d0afe0cc27daae68ff3640462f927eefae05ef",
+  "culture_invariant_id": 1646,
+  "sort_number": 1643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "",
+  "rules_text": "NICHTGEBURTSTAGSGESCHENK Jedes Mal, wenn ein beschädigter Charakter einen anderen Charakter herausfordert, darfst du 1 Karte ziehen.",
+  "card_identifier": "213/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=bc647fe42c730bb583fa8049d1d9bf629a7c6fd416d725552c69781c90b28763"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=7639a5a4576d7350cb0b0655dd9bb96177f5362c3a854090756f0c7a6171918f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=11c41d3d1de707ad0e508059d62f40f85b54a0e15174bd6328d646d0b09ce078",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

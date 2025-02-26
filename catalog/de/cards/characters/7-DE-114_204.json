@@ -1,0 +1,44 @@
+{
+  "name": "Kater Karlo",
+  "subtitle": "Weltraum-Pirat",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3f8bdad905e5495556f0eee78e68c291fe1c0160",
+  "culture_invariant_id": 1547,
+  "sort_number": 1544,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Schurke",
+    "Pirat"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Kater-Karlo-Charaktere auszuspielen.) SCHRECKLICHER PLAN Solange dieser Charakter erschöpft ist, können gegnerische Charaktere nicht erschöpft werden, um Lieder zu singen, und deine Piraten erhalten Robust +1. (Reduziere jeglichen Schaden, der ihnen zugefügt wird, um 1.)",
+  "card_identifier": "114/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=c9c4803f781c71fe2aa8c9d44006534f649681644b3b61840a09df4458e446ac"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=b7525811058cbf9d1013561d9ebfd14f109875cf349eecc6fced18249fc9e4a9"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=608ace8c2ce713efb17cbd8a5da8fdb977349b9fb208b844bd41bc836c664b27",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

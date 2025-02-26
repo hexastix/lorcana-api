@@ -1,0 +1,40 @@
+{
+  "name": "Duchessa",
+  "subtitle": "Gatta Elegante",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Therese Vildefall",
+  "deck_building_id": "c8a1fa5bb27b00c8d7577631813808d567603f6d",
+  "culture_invariant_id": 1545,
+  "sort_number": 1542,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Ora miei cari, prestate bene attenzione a dove siamo. Cosa potete imparare sul Gufo dalla sua casa?",
+  "rules_text": "",
+  "card_identifier": "112/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=1b3d9b7a5f5248801539fcb8aee8c83fcb968acf361c74bd69306951ba1bf64f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=f7185ca431caa04bd4bdc8f1742ccee5782a474b8aefe13363f92f0540ea8942"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=48e68edc570bfc6f57f946043eb349a7ce432a432970d6af549bf5505eaf4333",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "La Bête",
+  "subtitle": "Concepteur frustré",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Koni",
+  "deck_building_id": "eea594c1f8504db74823bfd75c4ed44f1a518599",
+  "culture_invariant_id": 1569,
+  "sort_number": 1566,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince",
+    "Inventeur"
+  ],
+  "flavor_text": "Non, non, non! CE N'EST PAS COMME ÇA QUE JE ME L'IMAGINE !",
+  "rules_text": "J'EN AI ASSEZ! , 2 , Bannissez 2 de vos objets — Choisissez un personnage et infligez-lui 5 dommages.",
+  "card_identifier": "136/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=059b62f7f425114f1203ace367a9cb7f0b40d7b36bdaa07a0dbeb7dde02423df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=92ca4e965125369c0f70679b79f1f5929cdc7079c2c054846fd988670f9cd2eb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=d26a9e9163d0fa93449eedb7aa04283d8e29fee32982fd48298f025fadf1c88b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

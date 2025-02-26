@@ -1,0 +1,42 @@
+{
+  "name": "Jebidiah Farnsworth",
+  "subtitle": "Expeditionskoch",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Pix Smith",
+  "deck_building_id": "fffdd033322affbd2f0dbae5b6b9b13ef3984c6a",
+  "culture_invariant_id": 1607,
+  "sort_number": 1604,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Unterstützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine in diesem Zug zur eines anderen Charakters deiner Wahl addieren.) ICH HAB DIE VIER HAUPTNAHRUNGSGRUPPEN Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl bis zu Beginn deines nächsten Zuges Robust +1. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "174/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=d799cc8603f686337a7cec8935cfdab248b85c62745867f4162226a7ded98bd3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=6e3bac39f2f5e14a12742dbf085206e5ba36136ae0fbf586651cf350932b2fb1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d094700e379f0fb3b543e25c77f8e4b3e068f057.jpg?checksum=327375010d0cde970c6a32c8f3a81a10c1b86a02d0c33748d1c8df27ccb2d8a2",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

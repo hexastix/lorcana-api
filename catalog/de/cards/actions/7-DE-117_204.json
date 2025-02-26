@@ -1,0 +1,35 @@
+{
+  "name": "So ein Strolch",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Isaiah Mesq",
+  "deck_building_id": "d2e7b04e55be924e0bc9c07444cacc89c38ba255",
+  "culture_invariant_id": 1550,
+  "sort_number": 1547,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "Ich wünschte nur, dass er mit mir geht.",
+  "rules_text": "(Du kannst einen Charakter, der 1 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Gib einem Charakter deiner Wahl in diesem Zug +1 für jeden deiner Charaktere im Spiel.",
+  "card_identifier": "117/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=528c37ebb0a158e8eae6e452728cc9265dac9a962b7b36f3c88a23ffc2708dee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=5ff1a2d4d058efde788088c88d65b85b5531133349cf8619c5354525052ba489"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb.jpg?checksum=18bab79fa2caebbeaaf6899064e4e4860611ff5530d3354d578c203b73593e07",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

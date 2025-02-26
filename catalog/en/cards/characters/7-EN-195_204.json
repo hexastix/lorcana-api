@@ -1,0 +1,40 @@
+{
+  "name": "Miss Bianca",
+  "subtitle": "Unwavering Agent",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Maria Dresden",
+  "deck_building_id": "45f268b2214fbccf3540a2e7412282b75f6885a1",
+  "culture_invariant_id": 1628,
+  "sort_number": 1625,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Hero"
+  ],
+  "flavor_text": "We’ll reach the top of this tower in no time if we work together, darling.",
+  "rules_text": "HAVE A LITTLE FAITH If you have an Ally character in play, you pay 2 less to play this character.",
+  "card_identifier": "195/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=2ff395786f7a6a3dc42804a2db79fe8fe3acdf853c0ce1ccd602021901fc87dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=72c11e7d81ec9338af7fd1400857d3c2675d743aa7bff7161a793e8e5974bf1c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=9f1c9235cbf2ef32360ec241801d4afbee9681e2cef81bb70fe0df249b54446d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

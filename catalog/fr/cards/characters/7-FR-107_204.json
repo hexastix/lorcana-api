@@ -1,0 +1,43 @@
+{
+  "name": "Monsieur Mouche",
+  "subtitle": "Capitaine efficace",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "João Moura",
+  "deck_building_id": "af71eddc1279e3c929451e656d1d9c68d307965e",
+  "culture_invariant_id": 1540,
+  "sort_number": 1537,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Allez, équipage, on a du pain sur la planche aujourd'hui !",
+  "rules_text": "TOUS LES HOMMES SUR LE PONT Chaque fois que vous jouez une action qui n'est pas une chanson, vous pouvez choisir un personnage Pirate et le redresser.",
+  "card_identifier": "107/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=7a7b54cfdbb61301f2f93d021aef530337436d7d5d203cf68ebe4f30b2e97646"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=0da19253b0d0cf189a248403277e91ef0ec86cb277a68b2a1086a0fd8231b566"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg?checksum=40dcf267c94c9f35fc6442bdb77ab5f7bf4b76a958cdf30c518cb26cfea84dea",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

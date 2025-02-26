@@ -1,0 +1,40 @@
+{
+  "name": "Cogsworth",
+  "subtitle": "Climbing Clock",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Tony Bancroft / Lindsay Weyman",
+  "deck_building_id": "ebfcd72de83d8a6b13d8d56f7b949f97ff029f88",
+  "culture_invariant_id": 1563,
+  "sort_number": 1560,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Top shelf? Pshaw! If it’s a book the mademoiselle wants, I’ll find a way to get it for her!",
+  "rules_text": "STILL USEFUL While you have an item card in your discard, this character gets +2.",
+  "card_identifier": "130/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=20d0fa048c71c22c91987431824162521aea04bea5bc90f90a57780d1a12c488"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=a0cbd3673f72b1bded99081c4c01e0a425d4c71c814990cc89c6468892f92171"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg?checksum=b06704c081f0e847e4027e13e3602194f857e4817fcc9e8c7f98a3cf688b0ed7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

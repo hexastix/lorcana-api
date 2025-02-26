@@ -1,0 +1,40 @@
+{
+  "name": "Pain",
+  "subtitle": "Impudent Imp",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Arianna Rea",
+  "deck_building_id": "437524fb99141f7b428777b42137c9c945611507",
+  "culture_invariant_id": 1494,
+  "sort_number": 1491,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Um, wasn’t there something the boss wanted us to take care of? Was it testing these arrows?",
+  "rules_text": "",
+  "card_identifier": "61/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=9a171def38e9b77fb99c5e19bc5bd344d503ab89ef3645e0840960b338da36b3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=2cefbc332c7780e3057bd2c8186bb3e8bfb376ddaccd1ebe8e1585fa0d355024"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=c5907048d97911e538f45b30e9b0618aeef6cc09a7c41c044829c3a9fbd475c9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Grinsekatze",
+  "subtitle": "Verwirrende Katze",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Sandara Tang",
+  "deck_building_id": "99b060c09b5134d9107f78d08e2018d615658a7c",
+  "culture_invariant_id": 1524,
+  "sort_number": 1521,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Schließlich ist er keine gewöhnliche Katze. Aber welche Katze ist das schon?%–Archazia",
+  "rules_text": "VERRÜCKTES GRINSEN Wenn du diesen Charakter ausspielst, darfst du einem beschädigten Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "91/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=d6979d798b067859de29cb542fcfa2569656dbe1bb51ee9d7c1c46bbf5e85eb6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=19dfa6ce1d7a60027cd44bc86ff854d4d598c21eee5fcd8d180f5eff98dd2405"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=7e64d4e6067d134bc5501945b712f09d6a648593e20d9c4a6acc6d996121204a",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

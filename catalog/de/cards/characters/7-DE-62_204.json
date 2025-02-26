@@ -1,0 +1,43 @@
+{
+  "name": "Radsha",
+  "subtitle": "Geisterhafter Tiger",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "aa7759237b508c4b2e253ca43417ab8d26d6da36",
+  "culture_invariant_id": 1495,
+  "sort_number": 1492,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Verschwinden"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Illusion"
+  ],
+  "flavor_text": "Er mag ein Gespenst sein, aber die Gefahr ist sehr real.",
+  "rules_text": "Verschwinden (Jedes Mal, wenn dieser Charakter von einer Aktion einer gegnerischen Person ausgewählt wird, verbanne ihn.)",
+  "card_identifier": "62/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=b1f0f49c3c42cafefa8153812a20a1019320abf49461b6220d8127df64d4b1df"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=357b60c9499bfbfccdfd5094910ec42fedcc9314149573c2e15dceb929df5bb8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg?checksum=c6d5ba5a9c125e2c7afa5d041b664c2f4b742f2958bdb8fdbea235f1342d053c",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

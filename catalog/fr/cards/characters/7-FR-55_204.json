@@ -1,0 +1,42 @@
+{
+  "name": "Elsa",
+  "subtitle": "Sœur de confiance",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "7d3e568c2cd7e015fe10f8fd4df6d76439d11d52",
+  "culture_invariant_id": 1488,
+  "sort_number": 1485,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "C’est de nos peurs qu’il faut se méfier.",
+  "rules_text": "QUE FAIT-ON MAINTENANT ? Chaque fois que ce personnage est envoyé à l'aventure, si vous avez un personnage Anna en jeu, gagnez 1 éclat de Lore.",
+  "card_identifier": "55/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=7ced5e0324f10338135e79187977e4d7c1ee6fbc1b508d0a222f2e18861486b5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=5c12719cdf668072267aba97489afd10d686918353ea2d9b993e317cdf96fb95"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8effee409c625e1a2d8f5033631840e6ce1dcb64.jpg?checksum=ce16265af895bb3294d52a1433e0b1036b7b119b95791dc24079ea3bde193ad0",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

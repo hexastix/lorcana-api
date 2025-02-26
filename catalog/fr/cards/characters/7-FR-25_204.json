@@ -1,0 +1,41 @@
+{
+  "name": "Isabela Madrigal",
+  "subtitle": "Vit le moment présent",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "César Vergara",
+  "deck_building_id": "78a3743253e0c1d99573f5b0580092912919c335",
+  "culture_invariant_id": 1458,
+  "sort_number": 1455,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Madrigal"
+  ],
+  "flavor_text": "J'ai fait quelque chose d'inattendu. %C'est piquant, c'est nouveau.",
+  "rules_text": "J'EN AI ASSEZ DE LA PERFECTION Chaque fois que l'un de vos personnages chante une chanson, ce personnage-ci ne peut pas être défié jusqu'au début de votre prochain tour.",
+  "card_identifier": "25/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=f3382a586711ea04c8c11b910effff4d094a5e9cb7c629590694a83473855d50"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=5ad34f9c2b3d43b55b98797cc13a5e574a1ee0bd9f3fae9e9c7fce68006703f5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=8e6adaf18129518d8c1f65274e43d6562479a8234d0ff12ad5051bec730e6798",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

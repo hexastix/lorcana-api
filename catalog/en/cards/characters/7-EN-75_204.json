@@ -1,0 +1,40 @@
+{
+  "name": "Panic",
+  "subtitle": "High-Strung Imp",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Arianna Rea",
+  "deck_building_id": "29e6560843c19488f858e257358e01b036237875",
+  "culture_invariant_id": 1508,
+  "sort_number": 1505,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "What the boss doesn’t know won’t hurt us. Much. I hope.",
+  "rules_text": "STARTLED SHRIEK When you play this character, you may move up to 2 damage counters from chosen character to chosen opposing character.",
+  "card_identifier": "75/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=7dccd3d8dcbe5c2879258a381066c00dd43653e4d472edce3556ec776f68a9de"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=1529e49ec40e873e50d333addc8353b7007acaff30c8b8c00dff137a266e22bb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=150a0d69c42508f3e5e6281433e4f8422f79ac88a2e7577a5b488d1ae16f8bdf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

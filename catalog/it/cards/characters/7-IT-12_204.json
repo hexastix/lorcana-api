@@ -1,0 +1,46 @@
+{
+  "name": "Wendy Darling",
+  "subtitle": "Regina Pirata",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Jochem van Gool",
+  "deck_building_id": "da2e6704efe9fa9440082d5430d64696d469d7e2",
+  "culture_invariant_id": 1445,
+  "sort_number": 1442,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Regina",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) I MORTI NON PARLANO Ogni volta che uno dei tuoi altri personaggi viene esiliato, puoi rimuovere tutti i danni da un personaggio a tua scelta.",
+  "card_identifier": "12/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=aa0fa4754a6ebfc8381566b3646f0a6ee26247d0bed13fcd78eabf125a1b2e56"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=90f7c70441eaef5ec9d93ed1d4a463608f07ce6db02526a8beccc7d0b5284e2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=18c75c081c2f1a1e724e756d5b2b121b3fba6f0f4c1e38d82992d4163e1e770f",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ]
+}

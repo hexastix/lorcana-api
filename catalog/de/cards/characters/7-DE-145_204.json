@@ -1,0 +1,40 @@
+{
+  "name": "Milo Thatch",
+  "subtitle": "Unerschrockener Wissenschaftler",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "a781b1576f0db15a070fa749c5764a5d0fb543d0",
+  "culture_invariant_id": 1578,
+  "sort_number": 1575,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Okay, wir haben den Globus gedreht, um das Wandgemälde in Position zu bringen. Wir haben die Koordinaten. Los geht's!",
+  "rules_text": "ICH BIN DEIN MANN Jedes Mal, wenn du eine Aktion ausspielst, darfst du einem Charakter deiner Wahl in diesem Zug +2 geben.",
+  "card_identifier": "145/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=d6996507898797d0367dc7812837c7b461fe21a965fdf6da62b793eb5db815f3"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=df25351f7e226d3b5e91171b9e9157bcad33dd4e04e322ef408b22dd16ec4ee4"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=33865b9927abd6b00b2222c6c2a019388967a485b9912a1c59948e7d78c15236",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

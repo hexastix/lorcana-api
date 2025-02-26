@@ -1,0 +1,41 @@
+{
+  "name": "Honey Lemon",
+  "subtitle": "Chemistry Whiz",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Brianna Garcia",
+  "deck_building_id": "e1a975a55f05ee17bf5e1bfabc55037dc6a4e5d0",
+  "culture_invariant_id": 1602,
+  "sort_number": 1599,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "PRETTY GREAT, HUH? Whenever you play a Floodborn character, if you used Shift to play them, you may remove up to 2 damage from chosen character.",
+  "card_identifier": "169/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=d7923385b6ee7e77edc4647aae5f5130f261133eb2e02f06e0f6169e29b9a743"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=fcdedfd179c48bd97aee2d4545324bd2b3d9a2f4fd2b046aadbb26b2d95c55ac"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/2659fc519890c924f82b4475ddd71b058178d02b.jpg?checksum=57c6223c406c8e0c425e5e4b3086927f16244a00de499ab6a5e9642f77715951",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

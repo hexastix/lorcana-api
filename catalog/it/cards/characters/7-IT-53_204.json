@@ -1,0 +1,41 @@
+{
+  "name": "Madame Medusa",
+  "subtitle": "Amante dei Diamanti",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Roger Pérez",
+  "deck_building_id": "8ec81683de9edc28cff895c40262318d9597be87",
+  "culture_invariant_id": 1486,
+  "sort_number": 1483,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "SETACCIARE LA PALUDE Ogni volta che questo personaggio va all'avventura, puoi infliggere 2 danni a un tuo altro personaggio a tua scelta per mettere le prime 3 carte del mazzo di un giocatore a tua scelta nei suoi scarti.",
+  "card_identifier": "53/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=b5a6d39d9638765c71e7c727ee081f925403d2b4146ce8c3f9edeaf77dccb814"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=a31f7e57dac619c2a9ae5a1f26813ab18f48d76dc45239e4f7cb41425b66d6ba"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=a97611b0349327142f1e0bd0f657365fc2b18ef42de574b3730deef02ee8a522",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

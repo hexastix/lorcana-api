@@ -1,0 +1,46 @@
+{
+  "name": "Mufasa",
+  "subtitle": "Tra le Stelle",
+  "strength": 5,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "adcb1daa41ea7803f3fe66ab407a12ff728ac741",
+  "culture_invariant_id": 1512,
+  "sort_number": 1509,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resistere",
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Mentore",
+    "Re"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Mufasa.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) Resistere +1 (Il danno inflitto a questo personaggio è ridotto di 1.)",
+  "card_identifier": "79/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=42be8b0c30304099ec57391f8b31cd913d2bf56cc392bfaf37407124300a8104"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=128192342b177b67e9a38fa87dade71db8845ffc76ac6746248605372b8e0675"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=3b88869a876f85b9f5682dfcdde04fc49711671530b041f44a0475a41edfd9bb",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

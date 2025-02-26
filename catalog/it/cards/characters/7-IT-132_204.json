@@ -1,0 +1,41 @@
+{
+  "name": "Banda Bassotti",
+  "subtitle": "Furfanti da Quattro Soldi",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Lauren Barger",
+  "deck_building_id": "3640f3d03075b83c26d1c507eb09571e3f2a2efa",
+  "culture_invariant_id": 1565,
+  "sort_number": 1562,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "",
+  "rules_text": "MUOVETEVI! Ogni volta che questo personaggio va all'avventura, un tuo personaggio a tua scelta ottiene Lesto e Resistere +1 per questo turno. (Può sfidare nel turno in cui viene giocato. Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "132/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=c6273c53386313d3e161782eb98fb456167a41d841826f7f12b7faeaaadcb974"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=953ea90bb52dc935d358234af7433753a83df275f983fff811d459961c39215f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=add5c2d13fce74524b59d8502537cf2f96614c0bfb75a436f39e53af693f3d42",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ]
+}

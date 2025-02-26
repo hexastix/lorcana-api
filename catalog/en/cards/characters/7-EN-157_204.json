@@ -1,0 +1,40 @@
+{
+  "name": "Monsieur D'Arque",
+  "subtitle": "Despicable Proprietor",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "85f3e4e008a5404dac4605d4891d9a90e91d2dcc",
+  "culture_invariant_id": 1590,
+  "sort_number": 1587,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "I can help you with your problem... for the right price.",
+  "rules_text": "I'VE COME TO COLLECT Whenever this character quests, you may banish chosen item of yours to draw a card.",
+  "card_identifier": "157/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=242e1c412d941215e766735a5e1ce24974f7b7b2572f91c8c00cc2b0a4f2c6b4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=e87a9fb006fdcce649066047fd256b8c87a25f556b6fb4a19dc5f5352ab44d9f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=f5b11257c6402b6390fe4ecd9da07fe1f5667507d6e64d3f434de42ccf216fa9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

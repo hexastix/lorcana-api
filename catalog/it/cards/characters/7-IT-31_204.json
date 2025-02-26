@@ -1,0 +1,42 @@
+{
+  "name": "Minni",
+  "subtitle": "Narratrice",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "SCG",
+  "deck_building_id": "40e23a6aa4e9b85c3ae4a6b8a3433cc2c36a426c",
+  "culture_invariant_id": 1464,
+  "sort_number": 1461,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "AVVICINATEVI Ogni volta che giochi un personaggio, questo personaggio riceve +1 per questo turno. ANCORA UNA Ogni volta che questo personaggio va all'avventura, un personaggio avversario a tua scelta perde pari al di questo personaggio fino all'inizio del tuo prossimo turno.",
+  "card_identifier": "31/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=0111bb81c2f4a95592446ab519e85712452286bdbb4667316cff0374289d7f7c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=646f3c4634ac3043c53c69196ec589e8889df158414dc6db3465b214617f5a93"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=4b03b205f23a8ef2deee6943d56868b6e1ce019701940f3d4b02c96bb21cc873",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/gloss/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=6d77d51385bcd60dcadc63053ab48bf14bbd3a1b9cfb2d4c4d4b2821829f18a9",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Honeymaren",
+  "subtitle": "Guide de Northuldra",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "b37f54cccdfd81e4fac8a77d3054a00ee72b292d",
+  "culture_invariant_id": 1481,
+  "sort_number": 1478,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "On dit qu’il est le trait d’union entre nous et la magie de la nature.",
+  "rules_text": "CONTE DU CINQUIÈME ESPRIT Lorsque vous jouez ce personnage, si un adversaire a un personnage épuisé en jeu, gagnez 1 éclat de Lore.",
+  "card_identifier": "48/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=92f1b85a8a519a52f83ab8cd4b9c70476305163e434655b79a31cbfbb9647589"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=9fcac77163943a57bf68e08e4328599a4df47e813beb9fdd3da63340a2691cc1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/64e095fe763fc62418378753f9402623bea9e227.jpg?checksum=43ec40d61a5c0b5efc12c60ae13575ef3dfacb69dc5bec6d5bf2f408614a17d6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

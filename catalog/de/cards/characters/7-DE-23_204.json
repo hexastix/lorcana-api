@@ -1,0 +1,44 @@
+{
+  "name": "Thunderbolt",
+  "subtitle": "Wunderhund",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Max Grecke",
+  "deck_building_id": "9ff1e3265aaa35ad585e9111ab61f6c0c7b2db71",
+  "culture_invariant_id": 1456,
+  "sort_number": 1453,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen",
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Welpen-Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Welpen auszuspielen.) Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "23/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=1fc6dc158ab75d07daefb441b13298db5932547bed43985f1360f70cf8337a25"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=52f08d37ee1219ffacae83d339dab237a7a3505e0ea5683a9806bc7e1a4b0768"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/d435a6cdd786300dff204ee7c2ef942d3e9034e2.jpg?checksum=a6984762b35b7c630e8fba6e6a00a9bf2656de12dd4b4f5f7552889e78438fea",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

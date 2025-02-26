@@ -1,0 +1,41 @@
+{
+  "name": "Perdita",
+  "subtitle": "Playful Mother",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Cécile Carre",
+  "deck_building_id": "3435d99659b2cfcde044628324d37c6c5fa17c57",
+  "culture_invariant_id": 1435,
+  "sort_number": 1432,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "WHO'S NEXT? Whenever this character quests, you pay 2 less for the next Puppy character you play this turn. DON'T BE AFRAID Your Puppy characters gain Ward. (Opponents can't choose them except to challenge.)",
+  "card_identifier": "2/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=0d4f8a10e5a7d77b4aafb880f3dd19b7238551a63511fdb1f03b9f717dbe41a2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=f9f1ab6b19223924aeb483f24739a1550bb693723c3bee42e924802a5ef52c93"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=409d9886f41ab78e74b343a44ebacbcf5c927dde687b8fd680eb753784132673",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

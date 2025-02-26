@@ -1,0 +1,42 @@
+{
+  "name": "Dingo",
+  "subtitle": "Athlète de l'extrême",
+  "strength": 7,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "96d401c6b682205be0432b7df1aee5a9856f9a11",
+  "culture_invariant_id": 1572,
+  "sort_number": 1569,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) POUVOIR DE STAR Chaque fois que ce personnage en défie un autre, vos autres personnages gagnent +1 pour le reste de ce tour.",
+  "card_identifier": "139/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=e3a1fd47c10348e8469633cdf51edf7fd2b82f488fe46fa621c842065432da69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=0e8b6c02c6e72163f355161f7d654e53e1b2ea68f50d4afdcd2094013517bbbb"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fa755791d0509bb06ae715a2072de724815ed84d.jpg?checksum=e5605454174cfc578b65ee8c0e9ff2c91a688397e139fb7ce97a762e70590306",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

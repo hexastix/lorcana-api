@@ -1,0 +1,33 @@
+{
+  "name": "Kanine Krunchies",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Juan Diego Leon",
+  "deck_building_id": "0e14bb8a862da981efa44f59d4328c79ee92dba1",
+  "culture_invariant_id": 1476,
+  "sort_number": 1473,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Sie zergehen dir im Munde, unsere Kanine Krunchies!",
+  "rules_text": "KRÄCKER FÜR DIE KLEINEN HUNDE Deine Welpen erhalten +1.",
+  "card_identifier": "43/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=e79ea63989d25c2079e0c5ba7ece40b1135cc2220e96a374dde268aa5a2c160e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=07fb914a2f5d0dd8fb7d9c3ee9965f9bfcdd76c6db571b7396f01ba95c32a51c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0286dd552c9bea9a69ecb3759e7b94777635514b.jpg?checksum=a0823155754063b6c1ffc80c4497e133894fabb70346bd4d104561b6431398b4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

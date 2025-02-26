@@ -1,0 +1,42 @@
+{
+  "name": "Hadès",
+  "subtitle": "Débit d’enfer",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Cristian Romero",
+  "deck_building_id": "df2b712163f2278bdb5a2b67b13b5d5e3e04e6d4",
+  "culture_invariant_id": 1485,
+  "sort_number": 1482,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "… vous obtiendrez un gros bénéfice.",
+  "rules_text": "CONTRE UN TOUT PETIT SUPPLICE Lorsque vous jouez ce personnage, vous pouvez choisir un autre de vos personnages et lui infliger 2 dommages. Si vous le faites, choisissez un personnage coûtant 3 ou moins et bannissez-le.",
+  "card_identifier": "52/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=47431151b839f97295c4af10fe7c4f3b2ce6e1ee09958582fbb6449c17d26b91"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=0f535c8beab354c18d7acd202a2ac784129e8c84ac5f46bb5639fe4c4d0e721b"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=0853a720b1ed5d08293150d00049aaa06ab34f1690180b3995da2d4002912f8b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

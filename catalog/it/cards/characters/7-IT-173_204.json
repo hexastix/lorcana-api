@@ -1,0 +1,42 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Ricercatrice Ispirata",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Victor \"Yano\" Covarrubias / Milica Celikovic",
+  "deck_building_id": "10b04e532f811271010fabf5d712bcce0f547d7a",
+  "culture_invariant_id": 1606,
+  "sort_number": 1603,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "Oh, è fantastico! <Sapevo> che sarebbe valsa la pena fare uno sforzo in più per i pensierotoli di Archazia!",
+  "rules_text": "AIUTO AGGIUNTIVO Ogni volta che questo personaggio va all'avventura, se non hai carte in mano, pesca una carta per ogni personaggio Alleato che hai in gioco.",
+  "card_identifier": "173/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=cb1609e728966a8352b222ca28b8f23a14b516a4a8d96a6356a7a98e24e58580"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=eef240392509de9e0946a51853335dfa977ab0b78d75281147e36e195510c9ec"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/572e20738130fddc7c389f2ab14f4e4b22a97c39.jpg?checksum=34759b0b3e37142d2ee61706bb73ca52d9a8bf8139d896f31c024737df529596",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

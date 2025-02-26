@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Aspirant souverain",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "César Vergara",
+  "deck_building_id": "ac6a2901f00291b5613e65f0a4c17baf9607964c",
+  "culture_invariant_id": 1623,
+  "sort_number": 1620,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "Enfin, les deux moitiés de la couronne sont à moi!",
+  "rules_text": "VOILÀ QUI EST MIEUX Lorsque vous jouez ce personnage, choisissez un personnage qui gagne Offensif +2 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +2.)",
+  "card_identifier": "190/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=a990bca32561348122b93b402616276849c3ae48f308db5378807a9097a786e4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=cb0654621a3ded6fa8f8bc1f87769d7f017d06540d07edd8c79aabf7073f94f0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=4a21e996aaeeedc01e0cdd3e17746aa1bdc7e5346a204bedf17d0eb706c503ea",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

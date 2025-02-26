@@ -1,0 +1,42 @@
+{
+  "name": "Lady Tremaine",
+  "subtitle": "Bitterly Jealous",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "d6d17b4712d5e27c288f4076156bcc3e4c0ddb28",
+  "culture_invariant_id": 1548,
+  "sort_number": 1545,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "THAT'S QUITE ENOUGH — Return chosen damaged character to their player's hand. Then, each opponent discards a card at random.",
+  "card_identifier": "115/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=e9d52b0ffcce18827fbb6aef40fa20542d9a2ab04acccc26c2d56eb3de9bade2"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=7398d2d262fc8303cd3a89b284a9d4fca328db0dac696f366fa722f1d9b69bd6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=b7dddafd746c3298c687e7116cd803d67f105e335cd4124ca5a913811cb60b6c",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/efa6e44dfa0145249be273ecd84a97f534b04920.jpg?checksum=6658591283cfb0a40d510131acec8ebe514864f5a66ca6b86264e828d3bf8d28",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

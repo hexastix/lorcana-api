@@ -1,0 +1,40 @@
+{
+  "name": "Duchess",
+  "subtitle": "Elegant Feline",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Therese Vildefall",
+  "deck_building_id": "c8a1fa5bb27b00c8d7577631813808d567603f6d",
+  "culture_invariant_id": 1545,
+  "sort_number": 1542,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Now darlings, pay close attention to where we are. What can you learn about the Owl from the house?",
+  "rules_text": "",
+  "card_identifier": "112/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=f6f3a373dab82d3b4f10e197bb50047bb25674c3bd317fab9bd9fa8d6cb9b442"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=f79315edf1bef1605878ebeda28cb3f5081506583224ae88add93056ca540588"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/601ca99d55f00a2e8e736676b606a4d31d374fdd.jpg?checksum=a41a44583e3d6eb8fb2bfe113490d4820f3cf4ed107e2f5d653e946e7486bf35",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

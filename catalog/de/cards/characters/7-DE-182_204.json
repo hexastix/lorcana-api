@@ -1,0 +1,40 @@
+{
+  "name": "Akela",
+  "subtitle": "Rudelältester",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Mike Parker",
+  "deck_building_id": "1b4a6218f6a563cb71856d431c897d7583ea027f",
+  "culture_invariant_id": 1615,
+  "sort_number": 1612,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ein weiser Anführer schreckt nicht vor schwierigen Entscheidungen zurück, wenn die Sicherheit des Rudels auf dem Spiel steht.",
+  "rules_text": "",
+  "card_identifier": "182/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=2a2e88b519be6c74c8555a757a265fe2774114e8e0933e951231a68b8d17e255"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=35d926b49349f7b3ce92408fdd109aa8b44903d059a765d3dbeaabc963f9dd46"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/58f0744907ea8bd8e0f51e568f1536289ceb40a5.jpg?checksum=5839d1e2649640199856a3b90b25d4faba6c1ef788c156ec25063f67ec6aba31",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

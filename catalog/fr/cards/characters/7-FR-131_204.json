@@ -1,0 +1,40 @@
+{
+  "name": "Toby",
+  "subtitle": "Se donne un mal de chien",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Gaku Kumatori",
+  "deck_building_id": "2ce68e33c28129fa66e9ff6b4fa8385224fc0ea4",
+  "culture_invariant_id": 1564,
+  "sort_number": 1561,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Toby a le meilleur flair de tous les fins limiers que j’ai eu l’honneur de former. Mais il peut être diablement espiègle!%—Basil",
+  "rules_text": "",
+  "card_identifier": "131/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=53b37a4cdc4b0e7b839ea9ae1145b1f798071eee2fbdc02d472ab66bed192977"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=f5eb26df840738481b58bb383e9200a7ce671fcfa49e9e0beae52f96a5264313"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/e794a80eb109162d579df51db6d52e223bb0e9be.jpg?checksum=c01ed28c15fc658d37655a690d43792c8b3037f666a1a33744b0f5ccc906fa3b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

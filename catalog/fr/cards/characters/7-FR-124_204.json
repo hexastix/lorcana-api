@@ -1,0 +1,43 @@
+{
+  "name": "Denahi",
+  "subtitle": "Chasseur impatient",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 0,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Brian Weisz",
+  "deck_building_id": "203ba2afbe930769d683d5bcc2b361b27d68c85a",
+  "culture_invariant_id": 1557,
+  "sort_number": 1554,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Combattant",
+    "Résistance"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Le temps presse. Nous devons agir maintenant!",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.) Résistance +2 (Les dommages infligés à ce personnage sont réduits de 2.)",
+  "card_identifier": "124/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=3adfdef29fa28ce136b4390516c1857724d99335c3c5b7a762cc56092bb8ff51"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=20ed7b8e91af6f5a73d9354bf0ca65f4cef96dc7efda7d0de0031aac26373958"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg?checksum=5b260cb435484094cce1c58856c19112f15f28a1f55632ba796c18d0d1e4206d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ]
+}

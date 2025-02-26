@@ -1,0 +1,44 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Armor Designer",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "80e5899ff870979d2047e3094ca8c48b56af6ada",
+  "culture_invariant_id": 1529,
+  "sort_number": 1526,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 5 (You may pay 5 to play this on top of one of your characters named Hiro Hamada.) YOU CAN BE WAY MORE Your Floodborn characters that have a card under them gain Evasive and Ward. (Only characters with Evasive can challenge them. Opponents can't choose them except to challenge.)",
+  "card_identifier": "96/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=c810e66ae1d7541afb28941993a847c5365d8818143a7d8f08669dd482b86fb4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=0ebfa122dfbc30878c457919bb2eb036805ac43f51ddd19b3fc61b4dca705e6d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=8b7fa60c6710d112a55b108db70b7bbb593f5f7c95f56e5947c1a459b6a4eac6",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ]
+}

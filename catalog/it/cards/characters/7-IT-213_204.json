@@ -1,0 +1,41 @@
+{
+  "name": "Il Cappellaio Matto",
+  "subtitle": "Eccentrico Ribelle",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 6,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "87d0afe0cc27daae68ff3640462f927eefae05ef",
+  "culture_invariant_id": 1646,
+  "sort_number": 1643,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "",
+  "rules_text": "REGALO DI NON COMPLEANNO Ogni volta che un personaggio danneggiato sfida un altro personaggio, puoi pescare una carta.",
+  "card_identifier": "213/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=2616fd68acf8aaac477297921a663b5566855c5854980c133fa44023692dc9f7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=0fe3764a3edb32f9a2062798052155eee874ff4d99f273cbe48e20fc1f82e76d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/19187dc98dce52fa4c4e8e05b341a9b77a51fd26.jpg?checksum=d7da4f5dbe86aa5904f4227f5967142c4050046d43af5fb14c601fe5a2d4654f",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ]
+}

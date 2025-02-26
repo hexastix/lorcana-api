@@ -1,0 +1,39 @@
+{
+  "name": "Treasure Guardian",
+  "subtitle": "Foreboding Sentry",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "239268271716f479ba115fea202b33efe3854e73",
+  "culture_invariant_id": 1480,
+  "sort_number": 1477,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "At last, after all my years of searching! —Jafar",
+  "rules_text": "UNTOLD TREASURE When you play this character, if you have an Illusion character in play, you may draw a card.",
+  "card_identifier": "47/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=15775c8dcc025eb4838049013447b173fe417e2b46c647b1bdc8e31464b386bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=947680998c8c2ef98a61bc2ff8fedfcea67f3a5ccdc10eff769ea6e566563776"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=c01397a9f645414937b79a0b8b2c43bfc83bc437f003192d0e9102fef15d73d8",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

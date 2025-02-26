@@ -1,0 +1,41 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Aguerrie",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "e89d02771a72229278fa2e4100374bf2c2eb63e0",
+  "culture_invariant_id": 1469,
+  "sort_number": 1466,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Pilote"
+  ],
+  "flavor_text": "La préparation ou la chance... vous ne pouvez compter que sur l'une d'entre elles pour remporter un combat!",
+  "rules_text": "AVANTAGE TACTIQUE Lorsque vous jouez ce personnage, vous pouvez défausser une carte pour choisir un personnage adverse qui subit -3 jusqu'au début de votre prochain tour.",
+  "card_identifier": "36/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=2882ae35ef84f4e72ba941b332cf84f93b20a887c7bd1f990a5e91da0aa01c52"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=0917ab159b136acccc90de83c599bff5175bb2aabce5433e5ece8408440ffae5"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=5af53558ce8865c6efa6a8a430bcccd2430aac45320bbe56d5edef38b121196e",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

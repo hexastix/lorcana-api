@@ -1,0 +1,40 @@
+{
+  "name": "Seigneur Kay",
+  "subtitle": "Chevalier indiscipliné",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "b0d3f86aafcc92db5a1493c11884cbb42a5cdf89",
+  "culture_invariant_id": 1577,
+  "sort_number": 1574,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Chevalier"
+  ],
+  "flavor_text": "Une chouette? Qui commande? Pff. Il lança un regard noir aux autres. Puis ses yeux tombèrent sur les cibles installées à proximité, et son visage s'illumina. Mais tant que je peux encore participer à des joutes…",
+  "rules_text": "",
+  "card_identifier": "144/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=a04d752678406ff2ca1fc1271be44795a9242abc5aa4b6b3c0ea70d058fa0d8b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=783943cd6ab705d86fcae3132e850227f5ca67c63116e874bd172f1eab5eb510"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=fa3a8c38b5a59081a4f074e07ce254e7dd4c4f6b3f19a15031e3c6c9206794cc",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

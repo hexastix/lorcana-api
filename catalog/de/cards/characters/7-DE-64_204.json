@@ -1,0 +1,42 @@
+{
+  "name": "Mutter Gothel",
+  "subtitle": "Eitle Magierin",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3e9f98f1d7977ded6fef0a7befc7211878539f95",
+  "culture_invariant_id": 1497,
+  "sort_number": 1494,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "JETZT MACHST DU MICH WÜTEND Jedes Mal, wenn einer deiner Charaktere herausfordert, darfst du 1 Schadensmarker von einem deiner Charaktere zu einem gegnerischen Charakter deiner Wahl verschieben.",
+  "card_identifier": "64/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=595b6fdd695938860084fb7f8b908f1475d9a21026a2bc2908cd33eeb19731d4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=b055e3414c8c541d38ccef355ee43b1ad20e79dcc1792e1de2625b55a078ccb8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c66c65175fecc3103b3b587be9b5b230889c8628.jpg?checksum=a1765856784b204430a031e3cb725201e34f87754695513e9a26614dde94bf01",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ]
+}

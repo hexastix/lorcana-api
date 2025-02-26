@@ -1,0 +1,40 @@
+{
+  "name": "Großmutter Fa",
+  "subtitle": "Weise Älteste",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Javi Salas",
+  "deck_building_id": "7a2836741ab1e3ba9615346ca322042052b83d1e",
+  "culture_invariant_id": 1554,
+  "sort_number": 1551,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Angst wird dich verletzen. Glück wird dich durchbringen.",
+  "rules_text": "ICH HABE ALL DAS GLÜCK, DAS WIR BRAUCHEN Jedes Mal, wenn dieser Charakter erkundet, darfst du einen deiner Charaktere wählen und jenem in diesem Zug +2 geben.",
+  "card_identifier": "121/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=d5a527bf59c1dc2c83b1584e8a4a8d605a9a9e05ac5b0c7e084b1731a8682618"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=68f68a4df96b031a4013cde271ad7d458c24a4726cac53b4bb104bd6acab6c7d"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=8967a316ed414a062c4180593ea2145bead4b3ed7aa3f0c455151c871f118862",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

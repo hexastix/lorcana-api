@@ -1,0 +1,40 @@
+{
+  "name": "Nanaka",
+  "subtitle": "Ancienne de la tribu",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "807b7d0d2a91ae411ae70464452df3a5a6b60498",
+  "culture_invariant_id": 1479,
+  "sort_number": 1476,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "C'est un lieu propice à l'émerveillement et à l'apprentissage. Prêtez attention à la Chouette, et voyez ce qu'elle peut vous enseigner.",
+  "rules_text": "",
+  "card_identifier": "46/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=5f57df4ff1e038eb739969b6e18184c7b8f58b2de7431ac2b166496ffea836dc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=cd7bd96f5a94131895229c7562b56d314bd8d38c6e4bf86151aa0dd247d6eaf6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=0f54a1b3413f20d7ed35f7435debbec91e0f8e621f07d90e7a6ddbcb3a49d971",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

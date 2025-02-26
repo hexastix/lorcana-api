@@ -1,0 +1,40 @@
+{
+  "name": "Lyle Tiberius Rourke",
+  "subtitle": "Kristallisierter Söldner",
+  "strength": 6,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "ef808ef7c1703b959b0bcb033683307dd1b4aca2",
+  "culture_invariant_id": 1573,
+  "sort_number": 1570,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Er hat bekommen, was er wollte – nur nicht so, wie er es geplant hatte.",
+  "rules_text": "EXPLOSIV Einmal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, füge jedem Charakter 2 Schaden zu.",
+  "card_identifier": "140/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=d0c5a89c0b9b7b1426da10d5e7ad31a0c0e0e1a3bcf893aca0c8fdcda7da78a7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=9bf810f5a2ae6be8afb5d67a3fd3a44c2795c7dd8cf3d1262c71f82a6b92d65a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=9ff40aa465ba8263adf542b92410c0059d2498a97a166a97b7534dd6dbda602b",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

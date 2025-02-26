@@ -1,0 +1,36 @@
+{
+  "name": "Un Rifugio Ha Trovato",
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Viv Tanner",
+  "deck_building_id": "8e20c469e5bfb01717b1a29a7ed5e2e22d5d0694",
+  "culture_invariant_id": 1653,
+  "sort_number": 1650,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 5 o superiore può per cantare questa canzone gratis.) Aggiungi fino a 2 carte dai tuoi scarti al tuo calamaio, a faccia in giù e impegnate.",
+  "card_identifier": "220/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=7c31ad10a45cb8042f94c3223e7e0c8fb315d09e46f6195ddb832e80d806cb14"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=6e3b3384e5311b0e7ce29283f4d5fd14bda5e8bd6c166894061c6d883525db08"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/f37062d9a65543a46f2ba13299ba77a370a1c4eb.jpg?checksum=28c87b035601b6b6084119aa19880220e3c1923bfbee517cd120f58857e674e6",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

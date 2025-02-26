@@ -1,0 +1,34 @@
+{
+  "name": "Restituer le Cœur",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Nicola Saviori / Livio Cacciatore",
+  "deck_building_id": "433c65f67c223f90311aefde360c4a70f5b3776e",
+  "culture_invariant_id": 1472,
+  "sort_number": 1469,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Dès que son cœur lui fut rendu, la flore reprit vie et redonna à Te Fiti sa forme originelle.",
+  "rules_text": "Choisissez un personnage ou un lieu et retirez-lui jusqu'à 3 dommages. Piochez une carte.",
+  "card_identifier": "39/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=56bcaec6882fa703d0b76f485d296d193e67672d3c0befccb82ee001e5abd6a6"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=fb83a25da962a83884e6dd427d95648b3cb9d43373b3d117ff214633b0b37ff0"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/ca3512f4dfa95a03169c5a670a4c91a19b3077b4.jpg?checksum=3c2ce33d34c818c4383fcd09660931f1ced131a48a54318f135269e3440a01f7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

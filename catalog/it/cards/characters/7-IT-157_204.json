@@ -1,0 +1,40 @@
+{
+  "name": "Monsieur D'Arque",
+  "subtitle": "Proprietario Spregevole",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "85f3e4e008a5404dac4605d4891d9a90e91d2dcc",
+  "culture_invariant_id": 1590,
+  "sort_number": 1587,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Posso aiutarti con il tuo problema... per il giusto prezzo.",
+  "rules_text": "SONO VENUTO A PORTAR VIA Ogni volta che questo personaggio va all'avventura, puoi esiliare un tuo oggetto a tua scelta per pescare una carta.",
+  "card_identifier": "157/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=d2359e21e566efee3a17a36e127f7b3ce85c9b70d3c0d8980d4e3bb83bd028d9"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=615ad5321f0edcb9d68818815d238d6880e1e2ad82b7f66dd4dc0db17941ec61"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/097ccd4f03d962011101c1221009e53461a0993f.jpg?checksum=98a0ffe997f0d3d0dde516604a8ca9b84fe316aae509ad6d145b339332cc1585",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Lady",
+  "subtitle": "Princesse Fanfreluche",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "João Moura",
+  "deck_building_id": "9f61c69f6fd196f8a513e41f12c5e1940c07dc32",
+  "culture_invariant_id": 1461,
+  "sort_number": 1458,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Lady.) UN TRUC MERVEILLEUX Lorsque vous jouez ce personnage, vous pouvez renvoyer jusqu'à 2 cartes Personnage coûtant 2 ou moins de votre défausse dans votre main.",
+  "card_identifier": "28/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=8254b120450572c531b399e1ca3365825b4258b83133852d4cb78b4a168edefc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c286c42278a6120a75d91783be465fa9857beb65f3094f397b832bef79cf8c5e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=51a70f23b8126910f2a831a7ef8f1b9cf72b8cf8c7aea15205e24f00a33dd308",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

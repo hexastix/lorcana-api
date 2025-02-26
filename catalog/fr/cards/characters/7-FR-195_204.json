@@ -1,0 +1,40 @@
+{
+  "name": "Miss Bianca",
+  "subtitle": "Agente indéfectible",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Maria Dresden",
+  "deck_building_id": "45f268b2214fbccf3540a2e7412282b75f6885a1",
+  "culture_invariant_id": 1628,
+  "sort_number": 1625,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "Nous atteindrons le sommet de cette tour en un rien de temps si nous travaillons ensemble, chéri.",
+  "rules_text": "GARDONS ESPOIR Jouer ce personnage vous coûte 2 de moins si vous avez un personnage Allié en jeu.",
+  "card_identifier": "195/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=48f580dc823be994e9753c72b73bf29d202d3a82bdd72305e31aaade44045574"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=cee357aba271bdfcaa92051b511d04c9f45a8232df6c080d49ba758f6706ac96"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/752ae7bdbb96bf25280b55990570beabf2048ce0.jpg?checksum=90aa7d5e54cc7d70b2fd70f3052e0d32373674ab5dbed077c4d9c8edcb3b6742",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

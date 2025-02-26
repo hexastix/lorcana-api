@@ -1,0 +1,35 @@
+{
+  "name": "Le retour d’Hercule",
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "545963749a1038d0c00d90cc484c66acfc11a852",
+  "culture_invariant_id": 1551,
+  "sort_number": 1548,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je te félicite, Super-Mâle. Tu feras un sacré dieu.%—Mégara",
+  "rules_text": "Chaque joueur peut révéler une carte Personnage de sa main et la jouer gratuitement.",
+  "card_identifier": "118/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=387b489f15ee4b81c39d11acb1a2658441fa321455d7dbfebc9d73700481461f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=cd5027cae35e321259f08959333b0e56eed710c0c4a6a466d55f3ed36651dd13"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=7957a3c8c1a51e7b839aead1c073c40160357861ce5942653f7e8a346f9961af",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=c51487a6618950a084f6f3cb76a3a7f24ffb2a461e645e0fd6dca2cdfaa8eccf",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

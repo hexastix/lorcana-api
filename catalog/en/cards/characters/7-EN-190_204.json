@@ -1,0 +1,41 @@
+{
+  "name": "Jafar",
+  "subtitle": "Aspiring Ruler",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "César Vergara",
+  "deck_building_id": "ac6a2901f00291b5613e65f0a4c17baf9607964c",
+  "culture_invariant_id": 1623,
+  "sort_number": 1620,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "At last, both halves of the crown belong to me!",
+  "rules_text": "THAT'S BETTER When you play this character, chosen character gains Challenger +2 this turn. (They get +2 while challenging.)",
+  "card_identifier": "190/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=597ee906f3ac0ad4a3f96b88df95543981f6f0e1e02e32add1348c551c61cdda"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=98e301247cb6e02bb7c23efc611aed9714b479e358e5e1821ebc5494a9f1cb20"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/3a2dc677d8e85ac856541744e288d504882feb36.jpg?checksum=e9b319222f400853f836cc45a20b2618ce65bf4c2fb46d16e279c3aa663aa564",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

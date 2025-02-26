@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Esperto Tutore dell'Ordine",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "0cf9ec8277220e1e3790acd6c84c33cd9edb0ceb",
+  "culture_invariant_id": 1632,
+  "sort_number": 1629,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alieno",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "CHIUDETE TUTTI I CANALI Quando giochi questo personaggio, i personaggi non si possono impegnare per cantare canzoni fino all'inizio del tuo prossimo turno. NON FARTI VENIRE STRANE IDEE Ogni giocatore paga 2 in più per giocare azioni od oggetti. (Questo non si applica al cantare le canzoni.)",
+  "card_identifier": "199/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=6da909c445c53892bca91f9ee3627b0fa5e93d9941f14643d89542da8093be2f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=3f7e766762858b38ced9bffc463ea313081e78cf2d70065fa08a9da2b01e0862"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/2952aeca0fe15cf310ede96c437acb94b2b208f1.jpg?checksum=0a8a49b583ea8d1d1de7784d2adae298667eb750e8ac8b8869d98f94efe4f8d4",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

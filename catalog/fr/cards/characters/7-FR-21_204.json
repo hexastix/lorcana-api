@@ -1,0 +1,41 @@
+{
+  "name": "Penny",
+  "subtitle": "Maîtresse de Volt",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "411deec2bc09d6d9bad7ac874b976b9ef4264678",
+  "culture_invariant_id": 1454,
+  "sort_number": 1451,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "FIDÉLITÉ À TOUTE ÉPREUVE Lorsque vous jouez ce personnage, vous pouvez choisir un personnage. Retirez-lui jusqu'à 2 dommages et il gagne Résistance +1 jusqu'au début de votre prochain tour. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "21/204 FR 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=518e9f9238563e8f7177605e013e4cd9bbaebb7834a8472d96e2f6f99780b832"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=239215bf4a3e2d5964141685bb350ec8a468bc484fbd740d9f6592641a60fe84"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=4b607bb6eb69fafd85a1669fcc2c6741c96e31c3d60831b44425ee0677513820",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

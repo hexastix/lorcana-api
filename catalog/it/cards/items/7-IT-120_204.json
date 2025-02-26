@@ -1,0 +1,33 @@
+{
+  "name": "Spira di Smeraldo",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Francesco Colucci",
+  "deck_building_id": "f9a952d88bbccdde151f68df4d1cfc77395426cf",
+  "culture_invariant_id": 1553,
+  "sort_number": 1550,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La spira indossata da Martin sollevò anche il suo animo, oltre al suo corpo.",
+  "rules_text": "ALI SCINTILLANTI Durante il tuo turno, ogni volta che una carta viene aggiunta al tuo calamaio, un personaggio a tua scelta ottiene Sfuggente fino all'inizio del tuo prossimo turno. (Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "120/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=13e6aa07ea2d2806052d94bb19f03d5efefffe4f058f2faf0405f4ea437baa69"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=4b94c193d156b9e9529e02d7c863a9420096fe43be435e2b09edcb6448b323dc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/775bc5c30e27f0e562115d136e7f7edbd3cead89.jpg?checksum=ce59db82a8cee4c735a55542efd6deb48176b0c495a5b95fbb5e4e8fb1ea660d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

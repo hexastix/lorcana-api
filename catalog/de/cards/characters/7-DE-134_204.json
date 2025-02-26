@@ -1,0 +1,43 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Erforscherin von Inseln",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Jackie Droujko",
+  "deck_building_id": "e4393d614409dae5df4ecdd00e5bd3f488227461",
+  "culture_invariant_id": 1567,
+  "sort_number": 1564,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) ABENTEUERGEIST Jedes Mal, wenn dieser Charakter einen anderen Charakter herausfordert, wähle einen deiner anderen Charaktere. Jener erhält in diesem Zug +3.",
+  "card_identifier": "134/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=8eddc87b8825022f73b5c26cd6823c3cb6aedc67f0d89fe80ae4b747300816cc"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=00939c187e1c301d05a5077ef31a2623508a0a9135fab1482f18d18abcaee2ef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg?checksum=3b9393b58d4ef270a05bd66bc10051ed1036a03ee5edf77633ef1a27ce96e8a7",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

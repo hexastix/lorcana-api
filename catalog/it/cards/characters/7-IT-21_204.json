@@ -1,0 +1,41 @@
+{
+  "name": "Penny",
+  "subtitle": "Umana di Bolt",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "411deec2bc09d6d9bad7ac874b976b9ef4264678",
+  "culture_invariant_id": 1454,
+  "sort_number": 1451,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "LEALTÀ INCROLLABILE Quando giochi questo personaggio, puoi rimuovere fino a 2 danni da un personaggio a tua scelta e questo ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "21/204 IT 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=152c8f0febb81895413f19fab1f3f2bf1402dbbe6f88d7e4597b90a2bf04289a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d93a8e934584827d68cba311a3ffecc3b892c28f7c1761e38a4f5e1710e77b80"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=e93a59056963b480ada82ca286c9c14067eefc0cbb0bec0e02a82ca8807e1417",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

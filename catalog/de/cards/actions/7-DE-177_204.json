@@ -1,0 +1,33 @@
+{
+  "name": "Wasser hat ein Gedächtnis",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Samoldstoree",
+  "deck_building_id": "5e97cf7b8358a2a7fa4446b2bfdf89d0986ab9fe",
+  "culture_invariant_id": 1610,
+  "sort_number": 1607,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Schaue dir die obersten 4 Karten vom Deck einer Person deiner Wahl an. Lege 1 davon auf ihr Deck und die restlichen Karten in beliebiger Reihenfolge unter ihr Deck.",
+  "card_identifier": "177/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=0888a4eb4091402768c65d1362456375c19287a03b4879ed45672655cd70a394"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=a6590599d212a7e54020fabc77e6e3bc4173f35b18d2ff723697aee9efed409f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=bdad09da40b3c1be06721d42c4b8f7e7e3b9e28f83e1d0c8fe51b85386ef2887",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

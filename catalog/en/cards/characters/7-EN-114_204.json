@@ -1,0 +1,44 @@
+{
+  "name": "Pete",
+  "subtitle": "Space Pirate",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3f8bdad905e5495556f0eee78e68c291fe1c0160",
+  "culture_invariant_id": 1547,
+  "sort_number": 1544,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Villain",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Pete.) FRIGHTFUL SCHEME While this character is exerted, opposing characters can't exert to sing songs and your Pirate characters gain Resist +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "114/204 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=fb7418b8216275ace8bb58535aadae6e820e85ee984aeffbcfa8a480e6727bea"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=d6a965f43fad58d6fb3d9bbb5e326d728e1632cdfef092d6bd2763cc45e0f961"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/ecb7937db58ec9dea0c47db88463d85e81143032.jpg?checksum=49157eea65c972c6861b9b6e1f004242dc56d36d62255a2567a6f9f9755b0c1d",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ]
+}

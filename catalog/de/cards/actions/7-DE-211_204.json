@@ -1,0 +1,34 @@
+{
+  "name": "Zeig mir mehr!",
+  "rarity": "ENCHANTED",
+  "ink_cost": 2,
+  "author": "Maria Zafrilla",
+  "deck_building_id": "873eefb76cf90cb4ec1223e2e0418e03236723b2",
+  "culture_invariant_id": 1644,
+  "sort_number": 1641,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Alle Mitspielenden (auch du) ziehen je 3 Karten.",
+  "card_identifier": "211/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=d00d5e5ad2536ae4c2137e154f0ead16674657b7c17b27e9d521057f0d3f0c9e"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=c4c130039c0df1858505ba0c0a7d2241cf8aa855a144066b018792f3b33b6417"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=f26eae1d4089705bf85743ffe719203b78305258c319b45c674324877a2a0d58",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

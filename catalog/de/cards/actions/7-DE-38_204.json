@@ -1,0 +1,35 @@
+{
+  "name": "So neu für mich",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Andrea Femerstrand",
+  "deck_building_id": "47f551a402c331ac81e1b4f502c282a9cdb4dc34",
+  "culture_invariant_id": 1471,
+  "sort_number": 1468,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Du kannst einen Charakter, der 2 oder mehr kostet, , damit er dieses Lied kostenlos singt.) Ziehe 1 Karte. Ein Charakter deiner Wahl erhält bis zu Beginn deines nächsten Zuges Beschützen. (Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)",
+  "card_identifier": "38/204 DE 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=3f3816c4bc74868b695876a7f327160483ee94447d49545bd7568cc235064292"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=6138b7c69abfcc13e79a123fde7ea525a97643d32fa1fefd7a0c78fe953e688e"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=986b5716426e221cbb66c9cce01ab6799a8800e8766543a431552f9680e44dc3",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}
