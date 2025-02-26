@@ -6,42 +6,42 @@
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=0c432d8f-1791-4053-ba03-88101bd4aed9",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=654e8e37-ba79-418f-9d75-9325949f7050",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=b792d3c8-1b09-472a-a2ed-419416dbf4f9",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set2/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=24d99108-2f33-4399-a6a6-bf043719bf4e",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Into the Inklands",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/56fa945edb2310c3b4797ea856f0d32711186616.png?checksum=8c0b9554-94e6-40a4-8c29-293b006edbeb",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set3/thumbnails/56fa945edb2310c3b4797ea856f0d32711186616.png?checksum=7122b5e9-cc4f-4924-80a2-f15be8f026a8",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursula's Return",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/d7a5abb696bf6dfd0e824386bfa452d0c4ad2a8f.png?checksum=1d19394e-70a0-4758-b810-a1bb89440fdf",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set4/thumbnails/d7a5abb696bf6dfd0e824386bfa452d0c4ad2a8f.png?checksum=bb2775aa-286c-4185-a6f6-fe5f64a1b546",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Shimmering Skies",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/a4f8b4e794b8dcf9b9801afbfa6688102f7f6e26.png?checksum=b591b14b-9c6a-427b-b4b1-ae9ccdeff433",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set5/thumbnails/a4f8b4e794b8dcf9b9801afbfa6688102f7f6e26.png?checksum=7cd92e77-da33-473c-9779-2e4e2b766bde",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurite Sea",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/expansions/thumbnails/b17f1314b1f8e58387b5f1c0057c999a5222fd4f.png?checksum=5036f186-01e4-47df-a86d-dc306efb659c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set6/thumbnails/b17f1314b1f8e58387b5f1c0057c999a5222fd4f.png?checksum=91373728-3172-43fc-b739-d1d75c36ff5f",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
@@ -55,14 +55,14 @@
     },
     {
       "name": "Illumineer's Quest Deep Trouble",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quests/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=ab875f5d-534b-48ce-9dd6-4f947c997b51",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quest1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=cb9fb49c-6e89-4058-bdb3-cfc6a7397a52",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Gateway",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quests/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=ab83f834-9117-4253-b3a2-aab5c6fbf060",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/gateway1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=421c2651-f3a0-45f2-89df-1e9efa84fb15",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"

@@ -6,42 +6,42 @@
   "card_sets": [
     {
       "name": "Das erste Kapitel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=1f5ea1a6-a9c5-43aa-bb52-9b391bb7c630",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=9c786f73-9757-45a7-8a57-e7556b1c6c76",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Aufstieg der Flutgestalten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=a735bc30-1dd8-4ab8-afb6-e7fa534e4825",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=f9d546a1-638c-42c2-8cd3-97fe755b416c",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Die Tintenlande",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=069047d9-a041-4938-b34e-c521476ebb5c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=97121dbc-391a-49bc-b047-7755dd2f93c1",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursulas Rückkehr",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=b80c664a-988f-4900-aa6b-680746eb3fc5",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=61af51b6-86d8-442b-ad35-8f304abdebd7",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Himmelsleuchten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=40d2390e-1509-4bb8-80c6-b77cb18383ea",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=b5497efd-22cb-4d51-9379-439159e59f74",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurblaues Meer",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/expansions/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=f615e833-ee3b-4c21-9f18-9121c740da5b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=efad09e3-0ae7-46b8-8ebf-d1fb3ed1d4a9",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
@@ -55,14 +55,14 @@
     },
     {
       "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quests/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=29ef00b5-8594-4ea7-b546-55a7d7d58737",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=4311463b-768a-4a30-9138-f6aa9c494b23",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Der Einstieg",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quests/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=56592a1e-6fe7-494f-9357-af5ec2c08d86",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=4d6c5105-df21-455c-a2ea-efa9ac5d1a84",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
