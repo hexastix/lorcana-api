@@ -73,22 +73,27 @@
   "special_rarities": [
     {
       "name": "Promo",
+      "type": "PROMO",
       "id": 1
     },
     {
       "name": "D23",
+      "type": "D23",
       "id": 2
     },
     {
       "name": "Disney 100",
+      "type": "D100",
       "id": 3
     },
     {
       "name": "Challenge",
+      "type": "CHALLENGE",
       "id": 4
     },
     {
       "name": "Quête des Illumineurs",
+      "type": "QUEST",
       "id": 5
     }
   ],
