@@ -201,6 +201,27 @@
     "location_subtypes": [],
     "character_subtypes": [
       {
+        "term_in_search_filter": "Classico",
+        "terms_on_card": [
+          "Classico",
+          "Storyborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Immaginato",
+        "terms_on_card": [
+          "Immaginato",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Imbevuto",
+        "terms_on_card": [
+          "Imbevuto",
+          "Floodborn"
+        ]
+      },
+      {
         "term_in_search_filter": "Aggrovigliato",
         "terms_on_card": [
           "Aggrovigliato",
@@ -396,27 +417,6 @@
         "terms_on_card": [
           "Titano",
           "Titan"
-        ]
-      },
-      {
-        "term_in_search_filter": "Imbevuto",
-        "terms_on_card": [
-          "Imbevuto",
-          "Floodborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Immaginato",
-        "terms_on_card": [
-          "Immaginato",
-          "Dreamborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Classico",
-        "terms_on_card": [
-          "Classico",
-          "Storyborn"
         ]
       }
     ],
