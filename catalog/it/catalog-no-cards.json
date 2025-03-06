@@ -6,63 +6,63 @@
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=3262def6-1e67-404b-8066-a26e6e2a563b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=dde63aaa-06d7-419d-a844-9b818b4f9eb8",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=ca0cf62a-e7aa-49b8-9869-77f15f8cc001",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=a13f0723-20b2-41f2-bcbe-505fca1ff7cd",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Nelle Terre d'Inchiostro",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=6014bb2f-1004-40dd-b001-70e5ad4ef019",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=64f614aa-4f03-49fd-8fa8-7e9f3d8fc626",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Il Ritorno di Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=3d074303-2fa8-4ad3-9260-8996b1cdd4d7",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=ac15fe7e-7c0d-4daa-be52-b23fe89c0242",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Cieli Scintillanti",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=efb5a6b2-2041-4aa8-85ca-10104b9d4ce8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=ce7b5b1a-831d-4727-9078-ecab1fb4b30e",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Mare Di Azzurrite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=8d7b0820-24af-4482-99a5-6bf5923b3f5c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=aa7abe34-169f-47aa-a131-ad4d10f6943d",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "L’isola Di Archazia",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=4f14b1b6-9e56-4f0f-bf45-641615b17621",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=3ba583b6-2cac-4598-9d3e-0983a3348447",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Avventura degli Illuminatori Problemi negli Abissi",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=8666f28c-bac6-48b4-863a-8e721ee9a23d",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=26dffb9a-be6f-46ad-a6f9-bd8fb113d70a",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Preludio",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=34420e5f-96d0-447d-924e-b39681fddd72",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=2ef36e6e-0810-4d64-a260-792c6982d8b9",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
@@ -200,6 +200,27 @@
     ],
     "location_subtypes": [],
     "character_subtypes": [
+      {
+        "term_in_search_filter": "Classico",
+        "terms_on_card": [
+          "Classico",
+          "Storyborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Immaginato",
+        "terms_on_card": [
+          "Immaginato",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Imbevuto",
+        "terms_on_card": [
+          "Imbevuto",
+          "Floodborn"
+        ]
+      },
       {
         "term_in_search_filter": "Aggrovigliato",
         "terms_on_card": [
@@ -396,27 +417,6 @@
         "terms_on_card": [
           "Titano",
           "Titan"
-        ]
-      },
-      {
-        "term_in_search_filter": "Imbevuto",
-        "terms_on_card": [
-          "Imbevuto",
-          "Floodborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Immaginato",
-        "terms_on_card": [
-          "Immaginato",
-          "Dreamborn"
-        ]
-      },
-      {
-        "term_in_search_filter": "Classico",
-        "terms_on_card": [
-          "Classico",
-          "Storyborn"
         ]
       }
     ],
